@@ -3,8 +3,8 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { NewsArticle, DailyBriefing, BriefingPeriodInfo } from "@/types/briefing";
-import { getBriefing, getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
+import { NewsArticle, DailyBriefing } from "@/types/briefing";
+import { getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
 function SentimentBadge({ sentiment }: { sentiment: NewsArticle["sentiment"] }) {
   const config = {
