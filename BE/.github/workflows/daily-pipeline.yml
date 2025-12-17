@@ -1,0 +1,124 @@
+name: Climate Insight Daily Pipeline
+
+on:
+  schedule:
+    # 매일 오전 8시 (KST) = UTC 23:00 (전날)
+    - cron: '0 23 * * *'
+    # 매일 오후 5시 (KST) = UTC 08:00
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+    inputs:
+      skip_gemini:
+        description: 'Skip Gemini API processing'
+        required: false
+        default: 'false'
+        type: boolean
+      log_level:
+        description: 'Log level'
+        required: false
+        default: 'INFO'
+        type: choice
+        options:
+          - DEBUG
+          - INFO
+          - WARNING
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  collect-and-process:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+          cache-dependency-path: 'BE/requirements.txt'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r BE/requirements.txt
+
+      - name: Run data pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd BE
+          python -m src.main \
+            --data-dir ../data \
+            --log-level ${{ inputs.log_level || 'INFO' }} \
+            ${{ inputs.skip_gemini == 'true' && '--skip-gemini' || '' }}
+
+      - name: Validate JSON files
+        run: |
+          echo "Validating JSON files..."
+          for file in data/news/*.json data/climate/*.json data/briefing/*.json; do
+            if [ -f "$file" ]; then
+              python -c "import json; json.load(open('$file'))" && echo "Valid: $file"
+            fi
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add data/
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(TZ=Asia/Seoul date +%Y-%m-%d)
+            git commit -m "chore: update climate data for $DATE [skip ci]"
+            git push
+          fi
+
+      - name: Report summary
+        run: |
+          echo "## Pipeline Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Run time: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          # 뉴스 파일 개수
+          NEWS_COUNT=$(find data/news -name "*.json" ! -name "index.json" | wc -l)
+          echo "- News files: $NEWS_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          # 브리핑 파일 개수
+          BRIEFING_COUNT=$(find data/briefing -name "*.json" ! -name "index.json" 2>/dev/null | wc -l)
+          echo "- Briefing files: $BRIEFING_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          # 기후 데이터 파일
+          echo "- Climate data files:" >> $GITHUB_STEP_SUMMARY
+          for file in data/climate/*.json; do
+            if [ -f "$file" ]; then
+              echo "  - $(basename $file)" >> $GITHUB_STEP_SUMMARY
+            fi
+          done
+
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const date = new Date().toISOString().split('T')[0];
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Pipeline Failed: ${date}`,
+              body: `The daily pipeline failed. Check the [workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`,
+              labels: ['bug', 'pipeline']
+            });

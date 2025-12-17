@@ -1,0 +1,214 @@
+{
+  "type": "global_temperature",
+  "source": "Berkeley_Earth",
+  "source_url": "https://berkeley-earth-temperature.s3.us-west-1.amazonaws.com/Global/Land_and_Ocean_summary.txt",
+  "collected_at": "2025-12-17T02:35:21.904077",
+  "unit": "degrees_celsius",
+  "baseline": "1951-1980 average",
+  "latest": {
+    "year": 2024,
+    "anomaly": 1.311
+  },
+  "annual_data": [
+    {
+      "year": 1975,
+      "anomaly": 0.004
+    },
+    {
+      "year": 1976,
+      "anomaly": -0.092
+    },
+    {
+      "year": 1977,
+      "anomaly": 0.238
+    },
+    {
+      "year": 1978,
+      "anomaly": 0.113
+    },
+    {
+      "year": 1979,
+      "anomaly": 0.187
+    },
+    {
+      "year": 1980,
+      "anomaly": 0.309
+    },
+    {
+      "year": 1981,
+      "anomaly": 0.359
+    },
+    {
+      "year": 1982,
+      "anomaly": 0.143
+    },
+    {
+      "year": 1983,
+      "anomaly": 0.323
+    },
+    {
+      "year": 1984,
+      "anomaly": 0.157
+    },
+    {
+      "year": 1985,
+      "anomaly": 0.153
+    },
+    {
+      "year": 1986,
+      "anomaly": 0.209
+    },
+    {
+      "year": 1987,
+      "anomaly": 0.349
+    },
+    {
+      "year": 1988,
+      "anomaly": 0.391
+    },
+    {
+      "year": 1989,
+      "anomaly": 0.277
+    },
+    {
+      "year": 1990,
+      "anomaly": 0.464
+    },
+    {
+      "year": 1991,
+      "anomaly": 0.453
+    },
+    {
+      "year": 1992,
+      "anomaly": 0.245
+    },
+    {
+      "year": 1993,
+      "anomaly": 0.302
+    },
+    {
+      "year": 1994,
+      "anomaly": 0.351
+    },
+    {
+      "year": 1995,
+      "anomaly": 0.509
+    },
+    {
+      "year": 1996,
+      "anomaly": 0.397
+    },
+    {
+      "year": 1997,
+      "anomaly": 0.537
+    },
+    {
+      "year": 1998,
+      "anomaly": 0.687
+    },
+    {
+      "year": 1999,
+      "anomaly": 0.445
+    },
+    {
+      "year": 2000,
+      "anomaly": 0.445
+    },
+    {
+      "year": 2001,
+      "anomaly": 0.579
+    },
+    {
+      "year": 2002,
+      "anomaly": 0.673
+    },
+    {
+      "year": 2003,
+      "anomaly": 0.655
+    },
+    {
+      "year": 2004,
+      "anomaly": 0.568
+    },
+    {
+      "year": 2005,
+      "anomaly": 0.732
+    },
+    {
+      "year": 2006,
+      "anomaly": 0.682
+    },
+    {
+      "year": 2007,
+      "anomaly": 0.697
+    },
+    {
+      "year": 2008,
+      "anomaly": 0.569
+    },
+    {
+      "year": 2009,
+      "anomaly": 0.706
+    },
+    {
+      "year": 2010,
+      "anomaly": 0.777
+    },
+    {
+      "year": 2011,
+      "anomaly": 0.668
+    },
+    {
+      "year": 2012,
+      "anomaly": 0.688
+    },
+    {
+      "year": 2013,
+      "anomaly": 0.705
+    },
+    {
+      "year": 2014,
+      "anomaly": 0.779
+    },
+    {
+      "year": 2015,
+      "anomaly": 0.923
+    },
+    {
+      "year": 2016,
+      "anomaly": 1.059
+    },
+    {
+      "year": 2017,
+      "anomaly": 0.962
+    },
+    {
+      "year": 2018,
+      "anomaly": 0.888
+    },
+    {
+      "year": 2019,
+      "anomaly": 1.024
+    },
+    {
+      "year": 2020,
+      "anomaly": 1.049
+    },
+    {
+      "year": 2021,
+      "anomaly": 0.895
+    },
+    {
+      "year": 2022,
+      "anomaly": 0.936
+    },
+    {
+      "year": 2023,
+      "anomaly": 1.229
+    },
+    {
+      "year": 2024,
+      "anomaly": 1.311
+    }
+  ]
+}
