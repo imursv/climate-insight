@@ -44,13 +44,6 @@ function DetailedNewsCard({ article, index }: { article: NewsArticle; index: num
               <span className="text-xs md:text-sm font-medium text-[#8888a0]">{article.source}</span>
               <span className="text-[#3a3a4a] hidden sm:inline">·</span>
               <span className="text-xs md:text-sm text-[#5a5a70]">
-                {new Date(article.published_at).toLocaleTimeString("ko-KR", {
-                  hour: "2-digit",
-                  minute: "2-digit",
-                })}
-              </span>
-              <span className="text-[#3a3a4a] hidden sm:inline">·</span>
-              <span className="text-xs md:text-sm text-[#5a5a70]">
                 {article.category === "domestic" ? "🇰🇷 국내" : "🌍 해외"}
               </span>
               <SentimentBadge sentiment={article.sentiment} />
