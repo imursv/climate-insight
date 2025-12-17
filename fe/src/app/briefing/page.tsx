@@ -3,7 +3,7 @@
 import { useState, useEffect, useRef } from "react";
 import Link from "next/link";
 import { NewsArticle, DailyBriefing, BriefingSection } from "@/types/briefing";
-import { getLatestBriefing } from "@/lib/api/briefing";
+import { getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
 // 인용 번호를 클릭 가능한 링크로 변환하는 컴포넌트
 function BriefingText({
@@ -151,24 +151,60 @@ function SourceCard({
 }
 
 export default function BriefingPage() {
-  const [briefing, setBriefing] = useState<DailyBriefing | null>(null);
+  const [briefings, setBriefings] = useState<DailyBriefing[]>([]);
+  const [selectedPeriod, setSelectedPeriod] = useState<"morning" | "afternoon" | undefined>();
+  const [availableDates, setAvailableDates] = useState<string[]>([]);
+  const [selectedDate, setSelectedDate] = useState<string>("");
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [highlightedId, setHighlightedId] = useState<string | null>(null);
   const sourceRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
 
+  // 현재 선택된 브리핑
+  const briefing = selectedPeriod
+    ? briefings.find(b => b.period === selectedPeriod) || briefings[briefings.length - 1]
+    : briefings[briefings.length - 1] || null;
+
+  // 초기 로드: 인덱스에서 최신 날짜 가져오기
   useEffect(() => {
-    async function fetchBriefing() {
+    async function fetchIndex() {
+      try {
+        const index = await getBriefingIndex();
+        if (index?.dates && index.dates.length > 0) {
+          setAvailableDates(index.dates);
+          setSelectedDate(index.dates[0]); // 최신 날짜 선택
+        } else {
+          setError("브리핑 데이터가 없습니다. 파이프라인을 실행해주세요.");
+          setLoading(false);
+        }
+      } catch (err) {
+        console.error("인덱스 로드 오류:", err);
+        setError("브리핑을 불러오는 중 오류가 발생했습니다.");
+        setLoading(false);
+      }
+    }
+    fetchIndex();
+  }, []);
+
+  // 선택된 날짜의 브리핑 로드
+  useEffect(() => {
+    if (!selectedDate) return;
+
+    async function fetchBriefings() {
       try {
         setLoading(true);
         setError(null);
 
-        const data = await getLatestBriefing();
+        const data = await getBriefingsByDate(selectedDate);
 
-        if (data) {
-          setBriefing(data);
+        if (data.length > 0) {
+          setBriefings(data);
+          // 가장 최근 시간대 선택 (오후 우선)
+          const latestBriefing = data[data.length - 1];
+          setSelectedPeriod(latestBriefing.period as "morning" | "afternoon" | undefined);
         } else {
-          setError("브리핑 데이터가 없습니다. 파이프라인을 실행해주세요.");
+          setError("해당 날짜의 브리핑 데이터가 없습니다.");
+          setBriefings([]);
         }
       } catch (err) {
         console.error("브리핑 로드 오류:", err);
@@ -178,8 +214,8 @@ export default function BriefingPage() {
       }
     }
 
-    fetchBriefing();
-  }, []);
+    fetchBriefings();
+  }, [selectedDate]);
 
   const handleCiteClick = (id: string) => {
     setHighlightedId(id);
@@ -254,23 +290,14 @@ export default function BriefingPage() {
             <span className="text-[#8888a0]">AI 브리핑</span>
           </div>
 
+
           <div className="max-w-4xl">
             {/* AI Badge */}
             <div className="inline-flex items-center gap-2 md:gap-3 px-3 md:px-4 py-2 rounded-full bg-gradient-to-r from-[#4dc3ff]/10 to-[#7d4dff]/10 border border-[#4dc3ff]/30 mb-6 md:mb-8 animate-fade-in">
               <div className="w-7 h-7 md:w-8 md:h-8 rounded-full bg-gradient-to-br from-[#4dc3ff] to-[#7d4dff] flex items-center justify-center">
                 <span className="text-xs md:text-sm">🤖</span>
               </div>
-              <div className="flex flex-col sm:flex-row sm:items-center">
-                <span className="text-[#4dc3ff] text-xs md:text-sm font-medium">Gemini AI 브리핑</span>
-                <span className="text-[#5a5a70] text-xs md:text-sm sm:ml-2">
-                  {new Date(briefing.date).toLocaleDateString("ko-KR", {
-                    year: "numeric",
-                    month: "long",
-                    day: "numeric",
-                    weekday: "long",
-                  })}
-                </span>
-              </div>
+              <span className="text-[#4dc3ff] text-xs md:text-sm font-medium">Gemini AI</span>
             </div>
 
             <h1 className="font-display text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 md:mb-8 animate-fade-in-up stagger-1">
@@ -289,6 +316,57 @@ export default function BriefingPage() {
       {/* Main Briefing Content */}
       <section className="container-custom pb-12 !pt-8 md:!pt-12">
         <div className="max-w-4xl mx-auto">
+          {/* Date & Period Selector */}
+          <div className="flex flex-wrap items-center gap-3 mb-8 md:mb-10 animate-fade-in">
+            {/* 날짜 선택 */}
+            <select
+              value={selectedDate}
+              onChange={(e) => setSelectedDate(e.target.value)}
+              className="px-4 py-2 text-sm rounded-lg bg-[#1a1a24] border border-[#2a2a38] text-white focus:border-[#4dc3ff] focus:outline-none cursor-pointer"
+            >
+              {availableDates.map((date) => (
+                <option key={date} value={date}>
+                  {new Date(date).toLocaleDateString("ko-KR", {
+                    year: "numeric",
+                    month: "short",
+                    day: "numeric",
+                  })}
+                </option>
+              ))}
+            </select>
+
+            {/* 오전/오후 선택 - 2개 이상일 때만 표시 */}
+            {briefings.length > 1 && (
+              <div className="flex items-center gap-2">
+                {briefings.map((b) => (
+                  <button
+                    key={b.period}
+                    onClick={() => setSelectedPeriod(b.period as "morning" | "afternoon")}
+                    className={`px-4 py-2 text-sm rounded-lg transition-all ${
+                      selectedPeriod === b.period
+                        ? "bg-[#4dc3ff] text-white font-medium"
+                        : "bg-[#1a1a24] border border-[#2a2a38] hover:border-[#3a3a4a] text-[#8888a0] hover:text-white"
+                    }`}
+                  >
+                    {b.period === "morning" ? "☀️ 오전" : "🌙 오후"}
+                    <span className="ml-2 text-xs opacity-70">{b.articles.length}건</span>
+                  </button>
+                ))}
+              </div>
+            )}
+
+            {/* 단일 브리핑일 때 시간대 표시 */}
+            {briefings.length === 1 && briefing?.period && (
+              <span className={`px-3 py-1.5 text-xs font-medium rounded-full ${
+                briefing.period === "morning"
+                  ? "bg-[#ffb84d]/20 text-[#ffb84d]"
+                  : "bg-[#4dc3ff]/20 text-[#4dc3ff]"
+              }`}>
+                {briefing.period === "morning" ? "☀️ 오전 브리핑" : "🌙 오후 브리핑"}
+              </span>
+            )}
+          </div>
+
           {/* Opening */}
           <div className="mb-10 md:mb-14 animate-fade-in-up">
             <div className="flex items-start gap-3 md:gap-4">
@@ -299,6 +377,17 @@ export default function BriefingPage() {
                 <p className="text-lg md:text-xl text-white leading-relaxed">
                   {briefing.briefing.opening}
                 </p>
+                {briefing.generated_at && (
+                  <p className="text-sm md:text-base text-white mt-3">
+                    {new Date(briefing.generated_at).toLocaleString("ko-KR", {
+                      year: "numeric",
+                      month: "long",
+                      day: "numeric",
+                      hour: "2-digit",
+                      minute: "2-digit",
+                    })} 업데이트
+                  </p>
+                )}
               </div>
             </div>
           </div>
