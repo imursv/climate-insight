@@ -37,6 +37,9 @@ export interface BriefingSection {
 export interface DailyBriefing {
   date: string;
   generated_at: string;
+  // 시간대 정보 (오전/오후 브리핑 구분)
+  period?: "morning" | "afternoon" | "full";
+  period_label?: string; // "오전" | "오후" | "전체"
   // AI 종합 브리핑
   briefing: BriefingContent;
   // 인용된 기사들 (번호순)
@@ -54,7 +57,17 @@ export interface DailyBriefing {
   };
 }
 
+// 특정 날짜의 브리핑 상세 정보
+export interface BriefingPeriodInfo {
+  period: "morning" | "afternoon" | "full";
+  period_label: string;
+  file: string;
+}
+
 export interface BriefingIndex {
   dates: string[];
   latest: string;
+  // 날짜별 브리핑 상세 (오전/오후 구분)
+  dates_detail?: Record<string, BriefingPeriodInfo[]>;
+  total_briefings?: number;
 }

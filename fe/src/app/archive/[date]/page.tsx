@@ -3,8 +3,8 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { useParams } from "next/navigation";
-import { NewsArticle, DailyBriefing } from "@/types/briefing";
-import { getBriefing, getBriefingIndex } from "@/lib/api/briefing";
+import { NewsArticle, DailyBriefing, BriefingPeriodInfo } from "@/types/briefing";
+import { getBriefing, getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
 function SentimentBadge({ sentiment }: { sentiment: NewsArticle["sentiment"] }) {
   const config = {
@@ -103,11 +103,27 @@ function DetailedNewsCard({ article, index }: { article: NewsArticle; index: num
 
 export default function ArchiveDatePage() {
   const params = useParams();
-  const date = params.date as string;
-  const [briefing, setBriefing] = useState<DailyBriefing | null>(null);
+  const dateParam = params.date as string;
+
+  // date가 period를 포함하는지 확인 (예: 2025-12-17-morning)
+  const hasPeriodInUrl = dateParam.endsWith("-morning") || dateParam.endsWith("-afternoon");
+  const date = hasPeriodInUrl
+    ? dateParam.replace(/-morning$|-afternoon$/, "")
+    : dateParam;
+  const urlPeriod = hasPeriodInUrl
+    ? (dateParam.endsWith("-morning") ? "morning" : "afternoon") as "morning" | "afternoon"
+    : undefined;
+
+  const [briefings, setBriefings] = useState<DailyBriefing[]>([]);
+  const [selectedPeriod, setSelectedPeriod] = useState<"morning" | "afternoon" | undefined>(urlPeriod);
   const [availableDates, setAvailableDates] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+
+  // 현재 선택된 브리핑
+  const briefing = selectedPeriod
+    ? briefings.find(b => b.period === selectedPeriod) || briefings[briefings.length - 1]
+    : briefings[briefings.length - 1]; // 기본값: 가장 최근 (오후 우선)
 
   useEffect(() => {
     async function fetchData() {
@@ -115,14 +131,19 @@ export default function ArchiveDatePage() {
         setLoading(true);
         setError(null);
 
-        // 병렬로 브리핑과 인덱스 가져오기
-        const [briefingData, indexData] = await Promise.all([
-          getBriefing(date),
+        // 병렬로 해당 날짜의 모든 브리핑과 인덱스 가져오기
+        const [briefingsData, indexData] = await Promise.all([
+          getBriefingsByDate(date),
           getBriefingIndex(),
         ]);
 
-        if (briefingData) {
-          setBriefing(briefingData);
+        if (briefingsData.length > 0) {
+          setBriefings(briefingsData);
+          // URL에 period가 지정되지 않았으면 가장 최근 것 선택
+          if (!urlPeriod) {
+            const latestBriefing = briefingsData[briefingsData.length - 1];
+            setSelectedPeriod(latestBriefing.period as "morning" | "afternoon" | undefined);
+          }
         } else {
           setError("해당 날짜의 브리핑 데이터가 없습니다.");
         }
@@ -139,7 +160,7 @@ export default function ArchiveDatePage() {
     }
 
     fetchData();
-  }, [date]);
+  }, [date, urlPeriod]);
 
   // 이전/다음 날짜 계산 (실제 데이터가 있는 날짜로)
   const currentIndex = availableDates.indexOf(date);
@@ -248,11 +269,41 @@ export default function ArchiveDatePage() {
             )}
           </div>
 
+          {/* Period Selector - 오전/오후 브리핑이 2개 이상일 때만 표시 */}
+          {briefings.length > 1 && (
+            <div className="flex items-center gap-2 mb-6 md:mb-8 animate-fade-in">
+              <span className="text-sm text-[#5a5a70] mr-2">브리핑 선택:</span>
+              {briefings.map((b) => (
+                <button
+                  key={b.period}
+                  onClick={() => setSelectedPeriod(b.period as "morning" | "afternoon")}
+                  className={`px-4 py-2 text-sm rounded-lg transition-all ${
+                    selectedPeriod === b.period
+                      ? "bg-[#4dc3ff] text-white font-medium"
+                      : "bg-white/5 hover:bg-white/10 text-[#8888a0] hover:text-white"
+                  }`}
+                >
+                  {b.period === "morning" ? "☀️ 오전" : "🌙 오후"}
+                  <span className="ml-2 text-xs opacity-70">{b.articles.length}건</span>
+                </button>
+              ))}
+            </div>
+          )}
+
           <div className="max-w-4xl">
             <div className="flex flex-wrap items-center gap-3 md:gap-4 mb-4 md:mb-6 animate-fade-in-up stagger-1">
               <h1 className="font-display text-2xl md:text-3xl lg:text-4xl xl:text-5xl font-bold leading-tight">
                 <span className="text-gradient-ice">{formattedDate}</span>
               </h1>
+              {briefing.period && (
+                <span className={`px-3 py-1 text-xs md:text-sm font-medium rounded-full border ${
+                  briefing.period === "morning"
+                    ? "bg-[#ffb84d]/20 text-[#ffb84d] border-[#ffb84d]/30"
+                    : "bg-[#4dc3ff]/20 text-[#4dc3ff] border-[#4dc3ff]/30"
+                }`}>
+                  {briefing.period === "morning" ? "☀️ 오전 브리핑" : "🌙 오후 브리핑"}
+                </span>
+              )}
               {isToday && (
                 <span className="px-3 py-1 text-xs md:text-sm font-bold bg-[#ff4d4d]/20 text-[#ff4d4d] border border-[#ff4d4d]/30 rounded-full animate-pulse">
                   TODAY
