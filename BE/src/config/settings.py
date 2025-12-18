@@ -21,7 +21,7 @@ class Settings(BaseSettings):
     data_dir: str = Field(default="data", env="DATA_DIR")
 
     # 뉴스 수집 설정 (0 = 무제한)
-    max_articles_per_source: int = Field(default=50, env="MAX_ARTICLES_PER_SOURCE")
+    max_articles_per_source: int = Field(default=0, env="MAX_ARTICLES_PER_SOURCE")
     article_retention_days: int = Field(default=30, env="ARTICLE_RETENTION_DAYS")
 
     # 로깅

@@ -3,7 +3,7 @@ import asyncio
 import hashlib
 import re
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from typing import Optional
 from html import unescape
 
@@ -14,6 +14,9 @@ from ...utils.logger import get_logger
 from ...config.rss_sources import get_climate_keywords
 
 logger = get_logger(__name__)
+
+# 한국 시간대 (UTC+9)
+KST = timezone(timedelta(hours=9))
 
 
 @dataclass
@@ -37,18 +40,25 @@ class RSSCollector:
         self,
         feeds: dict[str, str],
         language: str = "ko",
-        max_articles_per_feed: int = 20
+        max_articles_per_feed: int = 0,
+        today_only: bool = True
     ):
         """
         Args:
             feeds: {소스명: RSS URL} 딕셔너리
             language: 'ko' 또는 'en'
-            max_articles_per_feed: 피드당 최대 수집 기사 수
+            max_articles_per_feed: 피드당 최대 수집 기사 수 (0=무제한)
+            today_only: True면 오늘 날짜 기사만 수집
         """
         self.feeds = feeds
         self.language = language
         self.max_articles_per_feed = max_articles_per_feed
+        self.today_only = today_only
         self.keywords = get_climate_keywords(language)
+
+        # 수집 기준 시간 (현재 시간 - 24시간)
+        # 해외 기사 시차를 고려해 24시간 이내 기사 수집
+        self.cutoff_time = datetime.now(KST) - timedelta(hours=24)
 
     async def collect(self) -> list[NewsArticle]:
         """모든 RSS 피드에서 뉴스 수집
@@ -169,6 +179,17 @@ class RSSCollector:
                     published_at = datetime(*entry.updated_parsed[:6])
                 except (TypeError, ValueError):
                     pass
+
+            # 최근 24시간 이내 기사만 필터링 (해외 시차 고려)
+            if self.today_only and published_at:
+                # timezone-naive datetime을 KST로 가정
+                if published_at.tzinfo is None:
+                    published_at_kst = published_at.replace(tzinfo=KST)
+                else:
+                    published_at_kst = published_at.astimezone(KST)
+
+                if published_at_kst < self.cutoff_time:
+                    return None
 
             # 기후 키워드 매칭
             text = f"{title} {summary}".lower()
