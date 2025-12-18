@@ -1,7 +1,7 @@
 // API 설정
 // GitHub Raw URL 또는 로컬 서버 URL 사용
 
-const GITHUB_OWNER = process.env.NEXT_PUBLIC_GITHUB_OWNER || "your-username";
+const GITHUB_OWNER = process.env.NEXT_PUBLIC_GITHUB_OWNER || "imursv";
 const GITHUB_REPO = process.env.NEXT_PUBLIC_GITHUB_REPO || "climate-insight";
 const GITHUB_BRANCH = process.env.NEXT_PUBLIC_GITHUB_BRANCH || "main";
 
