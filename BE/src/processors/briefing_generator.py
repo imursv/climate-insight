@@ -74,37 +74,29 @@ class BriefingGenerator:
 }}"""
 
     # Phase 2: 종합 브리핑 프롬프트
-    BRIEFING_PROMPT = """당신은 기후변화 전문 대변인이자 과학 저널리스트입니다.
-오늘({date}) 수집된 기후 관련 뉴스 요약을 바탕으로 데일리 브리핑을 작성하세요.
+    BRIEFING_PROMPT = """당신은 기후변화 전문 대변인입니다.
+오늘({date}) 기후 뉴스 브리핑을 작성하세요.
 
-## 오늘의 뉴스 요약 (총 {total_count}건)
+## 뉴스 요약 ({total_count}건)
 {summaries}
 
-## 브리핑 작성 규칙
-1. **opening**: 격식있는 인사말 (예: "안녕하십니까. {date} 기후 브리핑을 시작하겠습니다.")
-2. **sections**: 주제별 3-5개 섹션
-   - 뉴스 인용 시 반드시 [번호] 형식 사용
-   - title에 이모지 포함 (🔴 긴급/위기, 🌍 국제, 🇰🇷 국내, ⚠️ 경고, 🌱 긍정/진전)
-   - tone: "urgent"(긴급), "positive"(긍정), "neutral"(중립)
-   - 관련 뉴스들을 자연스럽게 연결하여 맥락 제공
-3. **closing**: 마무리 인사
+## 작성 규칙
+1. **opening**: 인사말 1문장
+2. **sections**: 3-4개 섹션 (각 섹션 content는 2-3문장으로 간결하게)
+   - [번호] 형식으로 출처 인용
+   - title에 이모지 (🔴위기/🌍국제/🇰🇷국내/🌱긍정)
+   - tone: "urgent"/"positive"/"neutral"
+3. **closing**: 마무리 1문장
 
-## 중요 (할루시네이션 방지)
-- **위 요약에 있는 내용만 사용하세요**
-- 요약에 없는 수치, 날짜, 기관명 등을 임의로 추가하지 마세요
-- 모든 정보는 반드시 [번호] 인용과 함께 작성
+## 중요
+- 요약에 있는 내용만 사용, 추측 금지
+- 각 섹션 content는 150자 이내로 간결하게
 
-## 응답 형식 (반드시 JSON)
+## JSON 형식
 {{
-  "opening": "오프닝 인사",
-  "sections": [
-    {{
-      "title": "🔴 섹션 제목",
-      "content": "본문 내용 [1]. 다른 뉴스 연결 [3, 5].",
-      "tone": "urgent"
-    }}
-  ],
-  "closing": "마무리 인사"
+  "opening": "인사",
+  "sections": [{{"title": "🔴 제목", "content": "내용 [1,2].", "tone": "urgent"}}],
+  "closing": "마무리"
 }}"""
 
     def __init__(self, client: GeminiClient):
@@ -426,14 +418,22 @@ class BriefingGenerator:
         }
 
     def _parse_json(self, text: str | None) -> dict | None:
-        """JSON 응답 파싱"""
+        """JSON 응답 파싱 (잘린 JSON 복구 시도 포함)"""
         if not text:
             return None
 
         try:
-            # ```json ... ``` 형식 처리
-            if "```" in text:
-                match = re.search(r"```(?:json)?\s*([\s\S]*?)\s*```", text)
+            # ```json ... ``` 형식 처리 (닫히지 않은 경우도 처리)
+            if "```json" in text:
+                # 시작 태그 이후 내용 추출
+                start_idx = text.find("```json") + 7
+                end_idx = text.find("```", start_idx)
+                if end_idx > start_idx:
+                    text = text[start_idx:end_idx]
+                else:
+                    text = text[start_idx:]  # 닫히지 않은 경우 끝까지
+            elif "```" in text:
+                match = re.search(r"```\s*([\s\S]*?)(?:```|$)", text)
                 if match:
                     text = match.group(1)
 
@@ -442,11 +442,63 @@ class BriefingGenerator:
             if match:
                 text = match.group(0)
 
-            return json.loads(text)
+            # 먼저 정상 파싱 시도
+            try:
+                return json.loads(text)
+            except json.JSONDecodeError:
+                pass
+
+            # 잘린 JSON 복구 시도
+            repaired = self._repair_truncated_json(text)
+            if repaired:
+                return json.loads(repaired)
+
+            return None
 
         except json.JSONDecodeError as e:
             logger.debug(f"JSON 파싱 실패: {e}")
             logger.debug(f"원본 텍스트: {text[:500]}")
+            return None
+
+    def _repair_truncated_json(self, text: str) -> str | None:
+        """잘린 JSON 복구 시도"""
+        if not text or not text.strip().startswith("{"):
+            return None
+
+        # 열린 괄호 카운트
+        open_braces = text.count("{") - text.count("}")
+        open_brackets = text.count("[") - text.count("]")
+
+        # 마지막 완전한 객체/배열까지 자르기
+        # 잘린 문자열 부분 제거 (마지막 미완성 값)
+        repaired = text.rstrip()
+
+        # 미완성 문자열 제거 (홀수 개의 따옴표)
+        quote_count = repaired.count('"') - repaired.count('\\"')
+        if quote_count % 2 == 1:
+            # 마지막 따옴표 이전까지 자르기
+            last_quote = repaired.rfind('"')
+            if last_quote > 0:
+                repaired = repaired[:last_quote]
+                # 마지막 키-값 쌍 제거
+                last_colon = repaired.rfind(':')
+                last_comma = repaired.rfind(',')
+                cut_point = max(last_colon, last_comma)
+                if cut_point > 0:
+                    repaired = repaired[:cut_point]
+
+        # 닫는 괄호 추가
+        repaired = repaired.rstrip(',: \n\t')
+        repaired += "]" * open_brackets
+        repaired += "}" * open_braces
+
+        try:
+            # 복구된 JSON 검증
+            json.loads(repaired)
+            logger.info("잘린 JSON 복구 성공")
+            return repaired
+        except json.JSONDecodeError:
+            logger.debug("JSON 복구 실패")
             return None
 
     def to_dict(self, briefing: DailyBriefing) -> dict:
