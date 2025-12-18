@@ -4,9 +4,12 @@
 """
 import asyncio
 import argparse
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from dataclasses import asdict
+
+# 한국 시간대 (UTC+9)
+KST = timezone(timedelta(hours=9))
 
 from .config.settings import get_settings
 from .config.rss_sources import get_korean_feeds, get_international_feeds
@@ -174,7 +177,7 @@ async def run_pipeline(data_dir: Path, skip_gemini: bool = False, gemini_limit: 
     """
     logger.info("=" * 50)
     logger.info("Climate Insight 파이프라인 시작")
-    logger.info(f"시간: {datetime.now().isoformat()}")
+    logger.info(f"시간: {datetime.now(KST).strftime('%Y-%m-%d %H:%M:%S')} KST")
     logger.info("=" * 50)
 
     # 핸들러 초기화
@@ -233,7 +236,7 @@ async def run_pipeline(data_dir: Path, skip_gemini: bool = False, gemini_limit: 
                 processed_news_dicts.append(article_dict)
 
         # 5. 데이터 저장
-        today = datetime.now().strftime("%Y-%m-%d")
+        today = datetime.now(KST).strftime("%Y-%m-%d")
 
         if processed_news_dicts:
             json_handler.save_news(processed_news_dicts, today)

@@ -1,10 +1,13 @@
 """JSON 파일 저장/로드 모듈"""
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from typing import Any
 
 from ..utils.logger import get_logger
+
+# 한국 시간대 (UTC+9)
+KST = timezone(timedelta(hours=9))
 
 logger = get_logger(__name__)
 
@@ -100,12 +103,13 @@ class JSONHandler:
             저장된 파일 경로
         """
         if date is None:
-            date = datetime.now().strftime("%Y-%m-%d")
+            date = datetime.now(KST).strftime("%Y-%m-%d")
 
-        # 시간대 자동 결정 (정오 기준)
+        # 시간대 자동 결정 (KST 정오 기준)
         if period is None:
-            current_hour = datetime.now().hour
+            current_hour = datetime.now(KST).hour
             period = "morning" if current_hour < 12 else "afternoon"
+            logger.info(f"현재 KST 시간: {datetime.now(KST).strftime('%H:%M')} → {period}")
 
         # 브리핑 데이터에 시간대 정보 추가
         briefing_data["period"] = period
