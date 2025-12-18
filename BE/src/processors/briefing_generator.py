@@ -74,29 +74,51 @@ class BriefingGenerator:
 }}"""
 
     # Phase 2: 종합 브리핑 프롬프트
-    BRIEFING_PROMPT = """당신은 기후변화 전문 대변인입니다.
-오늘({date}) 기후 뉴스 브리핑을 작성하세요.
+    BRIEFING_PROMPT = """당신은 기후변화 전문 대변인이자 과학 저널리스트입니다.
+오늘({date}) 수집된 기후 관련 뉴스를 바탕으로 격식있는 데일리 브리핑을 작성하세요.
 
-## 뉴스 요약 ({total_count}건)
+## 오늘의 주요 뉴스 요약 (총 {total_count}건)
 {summaries}
 
-## 작성 규칙
-1. **opening**: 인사말 1문장
-2. **sections**: 3-4개 섹션 (각 섹션 content는 2-3문장으로 간결하게)
-   - [번호] 형식으로 출처 인용
-   - title에 이모지 (🔴위기/🌍국제/🇰🇷국내/🌱긍정)
-   - tone: "urgent"/"positive"/"neutral"
-3. **closing**: 마무리 1문장
+## 브리핑 작성 규칙
 
-## 중요
-- 요약에 있는 내용만 사용, 추측 금지
-- 각 섹션 content는 150자 이내로 간결하게
+### 1. opening (오프닝)
+- 격식있는 인사말로 시작
+- 예: "안녕하십니까. {date} 기후 브리핑을 시작하겠습니다."
 
-## JSON 형식
+### 2. sections (본문 섹션)
+- **4-5개 주제별 섹션**으로 구성
+- 각 섹션은 **3-5문장**으로 충실하게 작성
+- **반드시 [번호] 형식으로 출처 인용** (예: [1], [3, 5])
+- 관련 뉴스들을 연결하여 맥락과 흐름 제공
+- title에 이모지 포함:
+  - 🔴 긴급/위기 상황
+  - 🌍 국제 동향
+  - 🇰🇷 국내 소식
+  - ⚠️ 경고/주의
+  - 🌱 긍정적 진전
+- tone 값: "urgent"(긴급), "positive"(긍정), "neutral"(중립)
+
+### 3. closing (마무리)
+- 요약 및 전망 1-2문장
+- 예: "이상으로 오늘의 기후 브리핑을 마치겠습니다."
+
+## 중요 사항
+- **위 뉴스 요약에 있는 내용만 사용**하세요
+- 요약에 없는 수치, 날짜, 기관명 등을 임의로 추가하지 마세요
+- 모든 정보는 반드시 [번호] 인용과 함께 작성
+
+## 응답 형식 (반드시 JSON)
 {{
-  "opening": "인사",
-  "sections": [{{"title": "🔴 제목", "content": "내용 [1,2].", "tone": "urgent"}}],
-  "closing": "마무리"
+  "opening": "격식있는 오프닝 인사",
+  "sections": [
+    {{
+      "title": "🔴 섹션 제목",
+      "content": "본문 내용을 3-5문장으로 작성합니다 [1]. 관련된 다른 뉴스와 연결하여 맥락을 제공합니다 [3, 5]. 추가 설명을 덧붙입니다.",
+      "tone": "urgent"
+    }}
+  ],
+  "closing": "마무리 인사"
 }}"""
 
     def __init__(self, client: GeminiClient):
@@ -231,7 +253,7 @@ class BriefingGenerator:
         Returns:
             BriefingContent 또는 None
         """
-        # 요약 목록 생성 (브리핑용)
+        # 요약 목록 생성 (전체 기사 사용)
         summaries_text = self._format_summaries_for_briefing(news_list, article_summaries)
 
         # 프롬프트 생성
@@ -241,11 +263,11 @@ class BriefingGenerator:
             summaries=summaries_text
         )
 
-        # Gemini 호출
+        # Gemini 호출 (출력 토큰 충분히 확보 - Gemini 2.5 Flash는 65K까지 지원)
         response = await self.client.generate(
             prompt,
             temperature=0.7,  # 창의성을 위해 약간 높게
-            max_output_tokens=8000  # 충분한 출력 토큰
+            max_output_tokens=32000  # 충분한 출력 토큰
         )
 
         if not response:
