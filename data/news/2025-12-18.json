@@ -1,15 +1,15 @@
 {
   "date": "2025-12-18",
   "metadata": {
-    "collected_at": "2025-12-18T02:01:25.176854",
-    "total_articles": 79,
+    "collected_at": "2025-12-18T02:15:45.791866",
+    "total_articles": 82,
     "sources": {
-      "korean": 51,
+      "korean": 54,
       "international": 28
     },
     "sentiment_distribution": {
-      "positive": 39,
-      "negative": 18,
+      "positive": 41,
+      "negative": 19,
       "neutral": 9
     }
   },
@@ -1973,6 +1973,84 @@
           "3차원",
           "고정밀",
           "전자지도"
+        ]
+      }
+    },
+    {
+      "id": "eae967f74cebd6a1",
+      "title": "우리금융, 글로벌 기후변화 대응 CDP 평가 리더십 등급 획득 - 시사캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FR2tmU0FRdGlrTlhtUjk3Zk5fTGZ3M2VEd3hTa3V3eXRmNDlNSHBMRWtydi1ZWGpqcXo3S0cyZTNXR01KbFFjWHgyQWV5ZUlnSERxWHRsMmFwcjN6T0lad3JlUFRnMm8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2025-12-18T01:56:59",
+      "collected_at": "2025-12-18T02:08:52.068961",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "우리금융",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "8f41679572ad4474",
+      "title": "[제주 24시] JDC, K-RE100 참여 선언⋯“2035년까지 재생에너지 100% 전환 추진” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEU2szTTY3S1NxWTFTY1hOSFNJd3FESW9oZm9XWVlJN09Kclh2cl9IWXRIRUJXVmR2N2NucE1zTExLdUFLbUQ0Z1gzLVBkQWs?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2025-12-18T01:52:00",
+      "collected_at": "2025-12-18T02:08:52.017602",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "JDC",
+          "K-RE100",
+          "재생에너지",
+          "100% 전환",
+          "2035년"
+        ]
+      }
+    },
+    {
+      "id": "a55e6cccc33cf8d5",
+      "title": "폭염 중대경보·열대야 주의보 신설…5월부터 재난성 호우 재난문자 발송 - 동아사이언스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sTFQtTnZxcHhfakRSZmozdHc1aXNuajhuc2lrNVgwZ2hHcXF3QzZ3UTBIUHlEWkNpX2NLZTloUC1mQ0FtY1BkRHBHNXRjSFBYZW5wWE82aVJxREU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2025-12-18T02:00:00",
+      "collected_at": "2025-12-18T02:08:52.017688",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "열대야",
+          "재난문자",
+          "호우",
+          "중대경보"
         ]
       }
     }
