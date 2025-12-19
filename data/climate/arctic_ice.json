@@ -3,17 +3,13 @@
   "source": "NSIDC",
   "region": "Northern Hemisphere",
   "source_url": "https://noaadata.apps.nsidc.org/NOAA/G02135/north/daily/data/N_seaice_extent_daily_v4.0.csv",
-  "collected_at": "2025-12-19T08:06:07.965262",
+  "collected_at": "2025-12-19T23:08:31.322990",
   "unit": "million_square_kilometers",
   "latest": {
-    "date": "2025-12-17",
-    "extent": 11.356
+    "date": "2025-12-18",
+    "extent": 11.406
   },
   "daily_data": [
-    {
-      "date": "2025-11-18",
-      "extent": 8.97
-    },
     {
       "date": "2025-11-19",
       "extent": 9.03
@@ -129,6 +125,10 @@
     {
       "date": "2025-12-17",
       "extent": 11.356
+    },
+    {
+      "date": "2025-12-18",
+      "extent": 11.406
     }
   ],
   "monthly_averages": [
@@ -250,7 +250,7 @@
     {
       "year": 2025,
       "month": 12,
-      "extent": 10.62
+      "extent": 10.67
     }
   ],
   "annual_minimum": [
