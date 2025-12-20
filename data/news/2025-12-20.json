@@ -1,15 +1,15 @@
 {
   "date": "2025-12-20",
   "metadata": {
-    "collected_at": "2025-12-19T23:13:56.029135",
-    "total_articles": 62,
+    "collected_at": "2025-12-20T08:07:49.266475",
+    "total_articles": 75,
     "sources": {
-      "korean": 32,
-      "international": 30
+      "korean": 40,
+      "international": 35
     },
     "sentiment_distribution": {
-      "positive": 35,
-      "negative": 10,
+      "positive": 43,
+      "negative": 12,
       "neutral": 10
     }
   },
@@ -1604,6 +1604,318 @@
       "published_at": "2025-12-19T15:06:00",
       "collected_at": "2025-12-19T23:08:28.771064",
       "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e6331f5de71817a4",
+      "title": "기후위기 앞선 영주농업…'대응 전략 포럼' 성황 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZkVqcU54eXczRm5LbElnTDVWQlRSNjBRc20tZnpDYlNVSzlnYXVPaDA3Ql9qT3k2WUh6RC1QdVBOQlhlaE5vZGFzSWtPUFQxV0Nr?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2025-12-20T07:53:00",
+      "collected_at": "2025-12-20T08:05:32.435506",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "영주농업",
+          "대응 전략",
+          "포럼",
+          "성황"
+        ]
+      }
+    },
+    {
+      "id": "55e1361a81c09bdc",
+      "title": "[에너지 인사이트] 도심의 수열에너지, 탄소중립 또 하나의 중요 전환점 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HbTA2ZGdXQVNxUlV3TTdKRVhNR3puTjFBMExNV0pySmxZcVJJUWhlbEdleHhtc29tZEVSbzVueF9fdmVHWkxVYXhoZEt4RmlUSXYwVUduUGdKTmRLbHczS2trNDRwOEwwbDNBaQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2025-12-20T05:20:00",
+      "collected_at": "2025-12-20T08:05:32.331671",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수열에너지",
+          "탄소중립",
+          "도심",
+          "전환점",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "c6fa4c3e3feda0a7",
+      "title": "서귀포시, 2025년 상반기분 에너지 탄소중립포인트 인센티브 지급 - DWBNEWS",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yd0p5U2dPTDc1RF9Fd0RIRWpKbXRjaFVRWkNKWHZPUmU1X3BmVm1mLWVCUEotUVFpRlJld3prak1JTjhZMVVhWTFoSjBNd1plRVFEYkdpNTh5RGFNempzaThsV2VaWUpi?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2025-12-20T04:33:57",
+      "collected_at": "2025-12-20T08:05:32.331705",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서귀포시",
+          "에너지",
+          "탄소중립포인트",
+          "인센티브",
+          "지급"
+        ]
+      }
+    },
+    {
+      "id": "58f2390d9bb57fea",
+      "title": "고흥군, 전기자동차 보급 가속화…‘탄소중립 청정 고흥’ 본격 시동 - 드림투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzM0NxbF95X1RfZlFIT1FtZzJOXzdKbWlmeVRlalkweDNzRjZhZVZKeTNCakwwXzYzWmoydDRHQWpIdTVVbWpGcDRSRE9GbW5ldy1uMDhxUEtEYW9KVGFkZnl5dDdMY2VhbGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2025-12-20T03:31:20",
+      "collected_at": "2025-12-20T08:05:32.331735",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고흥군",
+          "전기자동차",
+          "보급 가속화",
+          "탄소중립",
+          "청정 고흥"
+        ]
+      }
+    },
+    {
+      "id": "f771c7349b2c3eb5",
+      "title": "미국 뉴욕주, 2040 탄소중립 핵심 ‘원전’ 낙점···“첨단 원자력으로 에너지 안보 강화” - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRQVFDTmpYeHM0OGR0b2tuR2l5WmJqNHc4dV9WQTIybk5vWG5sdmRNMzdobTN4cVNjMGNQUlNkenZtSE85LTczaGJlTDJSTDVBdDM4N0JVcE9ETm9SLUFWSzV1bS0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2025-12-19T20:44:14",
+      "collected_at": "2025-12-20T08:05:32.331787",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "미국 뉴욕주",
+          "2040 탄소중립",
+          "원전",
+          "첨단 원자력",
+          "에너지 안보"
+        ]
+      }
+    },
+    {
+      "id": "acebadad3c64cb90",
+      "title": "소재학 교수, 글로벌미래포럼 AI·탄소중립·K-미래학 송년 세미나 성료 - sportsseoul.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XRlBVWHdCQnBIUXNEdVhaWmJVdXNpV2JGVlYxWC1rT1Y4N1k3RGxWTmR4a21STkc3ZHZndjhqNUVqeU1QcFJLaGF6bjN0V240T1k2b1VFUXM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2025-12-19T23:52:28",
+      "collected_at": "2025-12-20T08:05:32.332231",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "소재학 교수",
+          "글로벌미래포럼",
+          "AI",
+          "탄소중립",
+          "K-미래학"
+        ]
+      }
+    },
+    {
+      "id": "734339e27028b71d",
+      "title": "고창군, 신재생에너지단지 조성 정책포럼 개최 - 파이낸스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SN25UNzB6OFNUazR1OWpCUERfakJQRE42LXdwVmlGM1NheWJzaWtOZkxwS1pjMVN2M1M3b0dnTW11bXktb3gzYWxpT0trSDFGSWx4WS1pTHQ2Vlpfc1k3M2htN0M4a19ldFpXRA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2025-12-19T23:00:39",
+      "collected_at": "2025-12-20T08:05:32.383611",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고창군",
+          "신재생에너지",
+          "에너지단지",
+          "조성",
+          "정책포럼"
+        ]
+      }
+    },
+    {
+      "id": "eb05315551beaeb4",
+      "title": "가톨릭관동대학교 2025년 초기창업패키지 선정기업 신재생에너지 분야에서 지속 가능한 에너지 솔루션을 개발하는 제이에스글로벌 - 매거진한경",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiQXpnZHBlTmNRTmtSUzhDRGVLcEJaWXR3R2Fud2s5NjRodERTZDJZR0d3NjR3anBBWmVDSWxRWDB6dERpR3lTNTd2em5wZFA5VEhjOHpnY0xPaHRsSWI3ODU0WGJHZjFXcHFN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2025-12-20T05:20:00",
+      "collected_at": "2025-12-20T08:05:32.383705",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "가톨릭관동대학교",
+          "초기창업패키지",
+          "신재생에너지",
+          "지속 가능한 에너지 솔루션",
+          "제이에스글로벌"
+        ]
+      }
+    },
+    {
+      "id": "4c5df5888cc17b66",
+      "title": "Interview: Could climate change soon impact Christmas trees? - yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQzV6S19EUXBEczAwUG1ES3NRQkxtMW1lcldMU0hETUsxN2hpVzhZN3pScmh1Zk43V00xR01CU3BtUVBUOUUwREtTZVNTUGFIeXpROVVBdmNXMm9kWjlLbHNBaVpYakRLZTUyRUN2N0pQQjRaeGRnckIwN2FZYVFRdXZpMmJZb0tuZmFqaXY3bw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2025-12-20T02:30:00",
+      "collected_at": "2025-12-20T08:05:34.095641",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "97329f15015e01b0",
+      "title": "‘The Poor Are in a Very Bad State’: Climate Change Accelerates California’s Cost-of-Living Crisis - Capital & Main",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXhocnZ4cHFudHhON295anJBRU1sMkZscUt5ZE1hdlo4UXI3ZXVnVk9uY3pyQlNMN04yNXIwbTA2UF9wdWJJYUpVNjRzQ2JRWE1WM21kb2VrWlJ3UUhhSTVheEZkclFIV0Nvdk1telYweFlsT05sT1BIaWV3aHh4cDU5QnBmVkNuTjYxUVg5UDg5ekFmNkJOWkdMa3VwZTJxdTVWLXRCa3YxNW1hV2lxQnJNVHlqb040SGh5Rw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2025-12-19T22:19:46",
+      "collected_at": "2025-12-20T08:05:34.095795",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "'빈곤층은 매우 어려운 상황': 기후 변화가 캘리포니아 생활비 위기를 가속화한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캘리포니아",
+          "생활비 위기",
+          "빈곤층",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "1b2ac3abc4e791c3",
+      "title": "Interview: Could climate change soon impact Christmas trees? - WSYR",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzdWUm00TnFFSHBpeXZEX3VOWHRHb3BCU0oxM2NoaTE5VlNJWDY2U29SRFhYS0hYWmNDVjlqMENNdUQyc1YtQ2VKbGQ4dzdGYi0tQXlrb3pzem1VUVZpVHp6Qno0YjQxWWVGcjhYczU5Z1dnR0pvRDJCQlJ3NWVKSldkNFduRERCX3phNF9jUWtkbUIyQUtUNGw0SdIBoAFBVV95cUxPcndubE1iaGdhRW5zOU1oNXloVkR5elBiMUZsNEd2SlV3dGZGQzJLMUxPNm9rVDhpWEYzSl8tSlFybGd4YjFNcFBpMGJIeG1yTFdqQ3Zxem94ajdBR2tSUXA3VDBZMVlDaVNWS2p6TlBWeVNianFDVXI3ZEI0SHMzS1FNc3V1VEYwcDJOdUNOcFdxZG1kVjZEalpPMzJKNlFN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2025-12-20T02:30:48",
+      "collected_at": "2025-12-20T08:05:34.095896",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "인터뷰: 기후 변화가 곧 크리스마스 트리에 영향을 미칠까? - WSYR"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "크리스마스 트리",
+          "영향",
+          "인터뷰",
+          "곧"
+        ]
+      }
+    },
+    {
+      "id": "4ac118ce83f359aa",
+      "title": "In Antarctica, Photos Show a Remote Area Teeming With Life Amid Growing Risks From Climate Change - U.S. News & World Report",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbWdLY2pHdGtSZWlBZ1Z5WDR2T3FqM0RHM0sxNVRienpsekcwZTdzelVaUjR5T3I5RDFKQktDZ0pVc28xbzNpeEhvck1NaFpKWG1lbE1OdEFidWJzd2cyc1dVZnVpNDk1OFRhZk40WllpUUxwbF9JaHlEb0lfUHdQVk9mZWUxcXUxbkIxQmg1d1pOMXJOUVVOWTZzQXlEbWZ5R0ozdUs1VEhSYTNFY2YzU2xnR0ZjYjNwaTR5bVpkUHZEWmplS1dGeWNaa3ZrSzZJZElybnBuTmZuTWxVU0JCag?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2025-12-20T01:58:00",
+      "collected_at": "2025-12-20T08:05:34.096180",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8605aed279a11650",
+      "title": "In Antarctica, photos show a remote area teeming with life amid growing risks from climate change - The Spec",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdzFUbWQ5bTJ5NzBDYTFkRUs5NnljdERwbC12WW4xS3JNWnd0N0tHa003X1h6TjJEQ0lXVW1jZFdsenozZmEtTDFtMDlyanp3OGZxUWJtLXlsdzEtNlJBYldqb0ZKcEpSa3ZpNjZCTjVGZy1vbVp0dHVoUWpzZWU4VkRXcXJ5WjF3RlU4RUhBYTYzQ1RoWWRLQUVKOUFHbTh4LU83NVVyV3J2UWdvV3prRzBrdmJFUElTTVpTc3VWUU9uTmJZUnlEXzlHb1Z5eV9NSFNHQ05jeU40dDk4aHY2aFZTYjZrczdVZWlGR0dqdk1zS3dDTmZia3VJanQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2025-12-20T02:01:44",
+      "collected_at": "2025-12-20T08:05:34.097615",
+      "keywords_matched": [
+        "climate change"
+      ],
       "translation": null,
       "sentiment": null,
       "keywords": null
