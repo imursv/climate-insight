@@ -3,11 +3,12 @@ import logging
 import sys
 from datetime import datetime
 from pathlib import Path
+from typing import Optional
 
 
 def setup_logging(
     level: str = "INFO",
-    log_dir: Path | None = None
+    log_dir: Optional[Path] = None
 ) -> None:
     """로깅 설정 초기화
 

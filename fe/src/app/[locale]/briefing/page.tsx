@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations, useLocale } from "next-intl";
 import { NewsArticle, DailyBriefing, BriefingSection } from "@/types/briefing";
 import { getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
@@ -80,12 +81,14 @@ function SourceCard({
   article,
   index,
   isHighlighted,
-  onRef
+  onRef,
+  t
 }: {
   article: NewsArticle;
   index: number;
   isHighlighted: boolean;
   onRef: (el: HTMLDivElement | null) => void;
+  t: (key: string) => string;
 }) {
   return (
     <div
@@ -117,7 +120,7 @@ function SourceCard({
               ? "bg-[#ff4d4d]/10 text-[#ff4d4d]"
               : "bg-[#8888a0]/10 text-[#8888a0]"
           }`}>
-            {article.sentiment === "positive" ? "긍정" : article.sentiment === "negative" ? "부정" : "중립"}
+            {article.sentiment === "positive" ? t("positive") : article.sentiment === "negative" ? t("negative") : t("neutralSentiment")}
           </span>
         </div>
         <a
@@ -159,6 +162,8 @@ export default function BriefingPage() {
   const [error, setError] = useState<string | null>(null);
   const [highlightedId, setHighlightedId] = useState<string | null>(null);
   const sourceRefs = useRef<{ [key: string]: HTMLDivElement | null }>({});
+  const t = useTranslations("briefing");
+  const locale = useLocale();
 
   // 현재 선택된 브리핑
   const briefing = selectedPeriod
@@ -169,22 +174,22 @@ export default function BriefingPage() {
   useEffect(() => {
     async function fetchIndex() {
       try {
-        const index = await getBriefingIndex();
+        const index = await getBriefingIndex(locale);
         if (index?.dates && index.dates.length > 0) {
           setAvailableDates(index.dates);
           setSelectedDate(index.dates[0]); // 최신 날짜 선택
         } else {
-          setError("브리핑 데이터가 없습니다. 파이프라인을 실행해주세요.");
+          setError(t("noData"));
           setLoading(false);
         }
       } catch (err) {
         console.error("인덱스 로드 오류:", err);
-        setError("브리핑을 불러오는 중 오류가 발생했습니다.");
+        setError(t("loadError"));
         setLoading(false);
       }
     }
     fetchIndex();
-  }, []);
+  }, [locale]);
 
   // 선택된 날짜의 브리핑 로드
   useEffect(() => {
@@ -195,7 +200,7 @@ export default function BriefingPage() {
         setLoading(true);
         setError(null);
 
-        const data = await getBriefingsByDate(selectedDate);
+        const data = await getBriefingsByDate(selectedDate, locale);
 
         if (data.length > 0) {
           setBriefings(data);
@@ -203,19 +208,19 @@ export default function BriefingPage() {
           const latestBriefing = data[data.length - 1];
           setSelectedPeriod(latestBriefing.period as "morning" | "afternoon" | undefined);
         } else {
-          setError("해당 날짜의 브리핑 데이터가 없습니다.");
+          setError(t("noDateBriefing"));
           setBriefings([]);
         }
       } catch (err) {
         console.error("브리핑 로드 오류:", err);
-        setError("브리핑을 불러오는 중 오류가 발생했습니다.");
+        setError(t("loadError"));
       } finally {
         setLoading(false);
       }
     }
 
     fetchBriefings();
-  }, [selectedDate]);
+  }, [selectedDate, locale]);
 
   const handleCiteClick = (id: string) => {
     setHighlightedId(id);
@@ -235,7 +240,7 @@ export default function BriefingPage() {
       <div className="min-h-screen flex items-center justify-center pt-16">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-[#2a2a38] border-t-[#4dc3ff] rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-[#8888a0]">AI 브리핑 불러오는 중...</p>
+          <p className="text-[#8888a0]">{t("loading")}</p>
         </div>
       </div>
     );
@@ -248,22 +253,22 @@ export default function BriefingPage() {
           <div className="w-16 h-16 bg-[#2a2a38] rounded-full flex items-center justify-center mx-auto mb-4">
             <span className="text-3xl">📭</span>
           </div>
-          <h2 className="text-xl font-bold text-white mb-2">브리핑이 없습니다</h2>
+          <h2 className="text-xl font-bold text-white mb-2">{t("noBriefing")}</h2>
           <p className="text-[#8888a0] mb-6">
-            {error || "아직 생성된 브리핑이 없습니다. 백엔드 파이프라인을 실행하면 AI가 오늘의 기후 뉴스를 분석하여 브리핑을 생성합니다."}
+            {error || t("noBriefingDesc")}
           </p>
           <div className="flex gap-4 justify-center">
             <Link
               href="/"
               className="px-4 py-2 bg-[#2a2a38] text-white rounded-lg hover:bg-[#3a3a4a] transition-colors"
             >
-              대시보드로
+              {t("toDashboard")}
             </Link>
             <Link
               href="/archive"
               className="px-4 py-2 bg-[#4dc3ff]/10 text-[#4dc3ff] border border-[#4dc3ff]/30 rounded-lg hover:bg-[#4dc3ff]/20 transition-colors"
             >
-              아카이브 보기
+              {t("viewArchive")}
             </Link>
           </div>
         </div>
@@ -284,10 +289,10 @@ export default function BriefingPage() {
           {/* Breadcrumb */}
           <div className="flex items-center gap-2 text-sm text-[#5a5a70] mb-6 md:mb-8 animate-fade-in">
             <Link href="/" className="hover:text-white transition-colors">
-              대시보드
+              {t("toDashboard")}
             </Link>
             <span>→</span>
-            <span className="text-[#8888a0]">AI 브리핑</span>
+            <span className="text-[#8888a0]">{t("aiBriefing")}</span>
           </div>
 
 
@@ -301,13 +306,13 @@ export default function BriefingPage() {
             </div>
 
             <h1 className="font-display text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 md:mb-8 animate-fade-in-up stagger-1">
-              오늘의{" "}
-              <span className="text-gradient-ice">기후 브리핑</span>
+              {t("todayClimate")}{" "}
+              <span className="text-gradient-ice">{t("climateBriefing")}</span>
             </h1>
 
             <p className="text-base md:text-lg text-[#8888a0] animate-fade-in-up stagger-2 leading-relaxed">
-              {briefing.summary.total_count}건의 뉴스를 AI가 분석하여 대변인 형식으로 전달합니다.
-              <span className="text-[#4dc3ff]"> 파란색 번호</span>를 클릭하면 해당 출처로 이동합니다.
+              {briefing.summary.total_count}{t("newsAnalyzed")}
+              <span className="text-[#4dc3ff]"> {t("clickBlue")}</span>{t("clickBlueDesc")}
             </p>
           </div>
         </div>
@@ -348,8 +353,8 @@ export default function BriefingPage() {
                         : "bg-[#1a1a24] border border-[#2a2a38] hover:border-[#3a3a4a] text-[#8888a0] hover:text-white"
                     }`}
                   >
-                    {b.period === "morning" ? "☀️ 오전" : "🌙 오후"}
-                    <span className="ml-2 text-xs opacity-70">{b.articles.length}건</span>
+                    {b.period === "morning" ? `☀️ ${t("morning")}` : `🌙 ${t("afternoon")}`}
+                    <span className="ml-2 text-xs opacity-70">{b.articles.length}{t("articles")}</span>
                   </button>
                 ))}
               </div>
@@ -362,7 +367,7 @@ export default function BriefingPage() {
                   ? "bg-[#ffb84d]/20 text-[#ffb84d]"
                   : "bg-[#4dc3ff]/20 text-[#4dc3ff]"
               }`}>
-                {briefing.period === "morning" ? "☀️ 오전 브리핑" : "🌙 오후 브리핑"}
+                {briefing.period === "morning" ? `☀️ ${t("morningBriefing")}` : `🌙 ${t("afternoonBriefing")}`}
               </span>
             )}
           </div>
@@ -385,7 +390,7 @@ export default function BriefingPage() {
                       day: "numeric",
                       hour: "2-digit",
                       minute: "2-digit",
-                    })} 업데이트
+                    })} {t("updated")}
                   </p>
                 )}
               </div>
@@ -423,7 +428,7 @@ export default function BriefingPage() {
           <div className="border-t border-[#2a2a38] pt-10 md:pt-14">
             <h2 className="font-display text-xl md:text-2xl font-bold mb-6 md:mb-8 flex items-center gap-3">
               <span>📰</span>
-              <span>출처 ({briefing.articles.length}건)</span>
+              <span>{t("sources")} ({briefing.articles.length}{t("articles")})</span>
             </h2>
 
             <div className="space-y-4 md:space-y-5">
@@ -434,6 +439,7 @@ export default function BriefingPage() {
                   index={index}
                   isHighlighted={highlightedId === article.id}
                   onRef={(el) => { sourceRefs.current[article.id] = el; }}
+                  t={t}
                 />
               ))}
             </div>
@@ -444,12 +450,12 @@ export default function BriefingPage() {
       {/* Archive CTA */}
       <section className="container-custom !py-8 md:!py-20">
         <div className="text-center">
-          <p className="text-[#8888a0] mb-6">이전 브리핑을 확인하고 싶으신가요?</p>
+          <p className="text-[#8888a0] mb-6">{t("checkPrevious")}</p>
           <Link
             href="/archive"
             className="inline-flex items-center gap-2 px-6 py-3 bg-white/5 border border-white/10 rounded-lg font-medium text-white/80 hover:bg-white/10 transition-all"
           >
-            아카이브 보기
+            {t("viewArchive")}
             <span>→</span>
           </Link>
         </div>
@@ -460,7 +466,7 @@ export default function BriefingPage() {
         <div className="container-custom">
           <div className="flex flex-col md:flex-row justify-between items-center gap-3 md:gap-4 text-xs md:text-sm text-[#5a5a70]">
             <div>
-              데이터 출처: Berkeley Earth, NOAA, NSIDC
+              {t("dataSource")}
             </div>
             <div>
               Climate Insight © {new Date().getFullYear()}

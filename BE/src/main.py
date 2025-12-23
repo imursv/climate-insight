@@ -16,7 +16,6 @@ from .config.rss_sources import get_korean_feeds, get_international_feeds
 from .collectors.news import RSSCollector
 from .collectors.climate import (
     NOAACO2Collector,
-    NSIDCIceCollector,
     BerkeleyEarthCollector,
     SeaLevelCollector,
     ENSOCollector,
@@ -75,7 +74,6 @@ async def collect_climate_data() -> dict:
     collectors = [
         # 지도 시각화용 (연도별 변화)
         NOAACO2Collector(),       # CO2 농도
-        NSIDCIceCollector(),      # 북극 해빙
         # 연간 지표 (1년에 1개)
         BerkeleyEarthCollector(), # 전지구 기온 (NASA GISS 대체)
         SeaLevelCollector(),      # 해수면 상승

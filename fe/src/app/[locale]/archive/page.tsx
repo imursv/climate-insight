@@ -1,7 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
+import { useTranslations } from "next-intl";
 import { getRecentBriefings } from "@/lib/api/briefing";
 import { DailyBriefing } from "@/types/briefing";
 
@@ -32,26 +33,26 @@ function briefingToArchiveItem(briefing: DailyBriefing): ArchiveItem {
   };
 }
 
-function MonthGroup({ month, items }: { month: string; items: ArchiveItem[] }) {
+function MonthGroup({ month, items, t }: { month: string; items: ArchiveItem[]; t: (key: string) => string }) {
   return (
     <div className="mb-10 md:mb-14">
       <h3 className="font-display text-lg md:text-xl font-bold mb-5 md:mb-6 flex flex-wrap items-center gap-2 md:gap-3">
         <span className="text-gradient-warming">{month}</span>
         <span className="text-sm font-normal text-[#5a5a70]">
-          {items.length}일 · {items.reduce((acc, item) => acc + item.articleCount, 0)}건
+          {items.length}{t("days")} · {items.reduce((acc, item) => acc + item.articleCount, 0)}{t("articles")}
         </span>
       </h3>
 
       <div className="space-y-4 md:space-y-5">
         {items.map((item, index) => (
-          <ArchiveCard key={item.date} item={item} index={index} />
+          <ArchiveCard key={item.date} item={item} index={index} t={t} />
         ))}
       </div>
     </div>
   );
 }
 
-function ArchiveCard({ item, index }: { item: ArchiveItem; index: number }) {
+function ArchiveCard({ item, index, t }: { item: ArchiveItem; index: number; t: (key: string) => string }) {
   const date = new Date(item.date);
   const dayOfWeek = date.toLocaleDateString("ko-KR", { weekday: "short" });
   const day = date.getDate();
@@ -82,7 +83,7 @@ function ArchiveCard({ item, index }: { item: ArchiveItem; index: number }) {
         <div className="flex items-center justify-between mb-3">
           <div className="flex flex-wrap items-center gap-2 md:gap-3">
             <span className="text-base md:text-lg font-semibold text-white group-hover:text-[#4dc3ff] transition-colors">
-              {item.articleCount}건의 뉴스
+              {item.articleCount}{t("newsCount")}
             </span>
             {/* Sentiment Mini Bar */}
             <div className="flex h-2 w-16 rounded-full overflow-hidden bg-[#2a2a38]">
@@ -126,6 +127,7 @@ export default function ArchivePage() {
   const [archive, setArchive] = useState<ArchiveItem[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const t = useTranslations("archive");
 
   useEffect(() => {
     async function fetchArchive() {
@@ -139,25 +141,25 @@ export default function ArchivePage() {
           const items = briefings.map(briefingToArchiveItem);
           setArchive(items);
         } else {
-          setError("아카이브 데이터가 없습니다.");
+          setError(t("noData"));
         }
       } catch (err) {
         console.error("아카이브 로드 오류:", err);
-        setError("아카이브를 불러오는 중 오류가 발생했습니다.");
+        setError(t("loadError"));
       } finally {
         setLoading(false);
       }
     }
 
     fetchArchive();
-  }, []);
+  }, [t]);
 
   if (loading) {
     return (
       <div className="min-h-screen flex items-center justify-center pt-16">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-[#2a2a38] border-t-[#ffb84d] rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-[#8888a0]">아카이브 로딩 중...</p>
+          <p className="text-[#8888a0]">{t("loading")}</p>
         </div>
       </div>
     );
@@ -170,22 +172,22 @@ export default function ArchivePage() {
           <div className="w-16 h-16 bg-[#2a2a38] rounded-full flex items-center justify-center mx-auto mb-4">
             <span className="text-3xl">📂</span>
           </div>
-          <h2 className="text-xl font-bold text-white mb-2">아카이브가 비어있습니다</h2>
+          <h2 className="text-xl font-bold text-white mb-2">{t("empty")}</h2>
           <p className="text-[#8888a0] mb-6">
-            {error || "아직 저장된 브리핑이 없습니다. 백엔드 파이프라인이 실행되면 매일 브리핑이 자동으로 저장됩니다."}
+            {error || t("emptyDesc")}
           </p>
           <div className="flex gap-4 justify-center">
             <Link
               href="/"
               className="px-4 py-2 bg-[#2a2a38] text-white rounded-lg hover:bg-[#3a3a4a] transition-colors"
             >
-              대시보드로
+              {t("toDashboard")}
             </Link>
             <Link
               href="/briefing"
               className="px-4 py-2 bg-[#ffb84d]/10 text-[#ffb84d] border border-[#ffb84d]/30 rounded-lg hover:bg-[#ffb84d]/20 transition-colors"
             >
-              오늘 브리핑
+              {t("todayBriefing")}
             </Link>
           </div>
         </div>
@@ -234,37 +236,37 @@ export default function ArchivePage() {
           {/* Breadcrumb */}
           <div className="flex items-center gap-2 text-sm text-[#5a5a70] mb-6 md:mb-8 animate-fade-in">
             <Link href="/" className="hover:text-white transition-colors">
-              대시보드
+              {t("toDashboard")}
             </Link>
             <span>→</span>
-            <span className="text-[#8888a0]">아카이브</span>
+            <span className="text-[#8888a0]">{t("archiveTitle")}</span>
           </div>
 
           <div className="max-w-3xl">
             <h1 className="font-display text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold leading-tight mb-6 md:mb-8 animate-fade-in-up stagger-1">
-              브리핑{" "}
-              <span className="text-gradient-warming">아카이브</span>
+              {t("title")}{" "}
+              <span className="text-gradient-warming">{t("archiveTitle")}</span>
             </h1>
 
             <p className="text-base md:text-lg text-[#8888a0] mb-8 md:mb-10 animate-fade-in-up stagger-2 leading-relaxed">
-              매일 수집된 기후 뉴스 브리핑을 날짜별로 확인할 수 있습니다.
+              {t("desc")}
             </p>
 
             {/* Stats */}
             <div className="flex flex-wrap gap-6 md:gap-10 animate-fade-in-up stagger-3">
               <div>
                 <div className="text-2xl md:text-3xl font-bold text-white">{archive.length}</div>
-                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">일간 기록</div>
+                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">{t("dailyRecords")}</div>
               </div>
               <div>
                 <div className="text-2xl md:text-3xl font-bold text-[#7dff7d]">{totalArticles}</div>
-                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">총 뉴스 기사</div>
+                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">{t("totalArticles")}</div>
               </div>
               <div>
                 <div className="text-2xl md:text-3xl font-bold text-[#4dc3ff]">
                   {Math.round(totalArticles / archive.length)}
                 </div>
-                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">일 평균</div>
+                <div className="text-xs md:text-sm text-[#5a5a70] mt-1">{t("dailyAverage")}</div>
               </div>
             </div>
           </div>
@@ -277,7 +279,7 @@ export default function ArchivePage() {
           {/* Main Timeline */}
           <div className="lg:col-span-2">
             {Object.entries(groupedByMonth).map(([month, items]) => (
-              <MonthGroup key={month} month={month} items={items} />
+              <MonthGroup key={month} month={month} items={items} t={t} />
             ))}
           </div>
 
@@ -285,8 +287,8 @@ export default function ArchivePage() {
           <div className="space-y-6 !mt-8 lg:!mt-0">
             {/* Top Keywords */}
             <div className="bg-[#1a1a24] rounded-2xl p-6 border border-[#2a2a38] sticky top-24">
-              <h3 className="font-display text-lg font-bold mb-4">인기 키워드</h3>
-              <p className="text-xs text-[#5a5a70] mb-4">최근 30일 기준</p>
+              <h3 className="font-display text-lg font-bold mb-4">{t("popularKeywords")}</h3>
+              <p className="text-xs text-[#5a5a70] mb-4">{t("last30Days")}</p>
 
               <div className="flex flex-wrap gap-2 mb-6">
                 {topKeywords.map(([keyword, count], i) => (
@@ -309,13 +311,13 @@ export default function ArchivePage() {
               </div>
 
               <div className="border-t border-[#2a2a38] pt-4">
-                <h4 className="text-sm font-medium text-[#8888a0] mb-3">감성 분석</h4>
+                <h4 className="text-sm font-medium text-[#8888a0] mb-3">{t("sentimentAnalysis")}</h4>
                 <div className="space-y-3">
                   <div>
                     <div className="flex justify-between text-sm mb-1">
-                      <span className="text-[#7dff7d]">긍정</span>
+                      <span className="text-[#7dff7d]">{t("positive")}</span>
                       <span className="text-[#5a5a70]">
-                        {archive.reduce((acc, item) => acc + item.sentiment.positive, 0)}건
+                        {archive.reduce((acc, item) => acc + item.sentiment.positive, 0)}{t("articles")}
                       </span>
                     </div>
                     <div className="h-1.5 bg-[#2a2a38] rounded-full overflow-hidden">
@@ -334,9 +336,9 @@ export default function ArchivePage() {
 
                   <div>
                     <div className="flex justify-between text-sm mb-1">
-                      <span className="text-[#ff4d4d]">부정</span>
+                      <span className="text-[#ff4d4d]">{t("negative")}</span>
                       <span className="text-[#5a5a70]">
-                        {archive.reduce((acc, item) => acc + item.sentiment.negative, 0)}건
+                        {archive.reduce((acc, item) => acc + item.sentiment.negative, 0)}{t("articles")}
                       </span>
                     </div>
                     <div className="h-1.5 bg-[#2a2a38] rounded-full overflow-hidden">
@@ -355,9 +357,9 @@ export default function ArchivePage() {
 
                   <div>
                     <div className="flex justify-between text-sm mb-1">
-                      <span className="text-[#8888a0]">중립</span>
+                      <span className="text-[#8888a0]">{t("neutral")}</span>
                       <span className="text-[#5a5a70]">
-                        {archive.reduce((acc, item) => acc + item.sentiment.neutral, 0)}건
+                        {archive.reduce((acc, item) => acc + item.sentiment.neutral, 0)}{t("articles")}
                       </span>
                     </div>
                     <div className="h-1.5 bg-[#2a2a38] rounded-full overflow-hidden">
@@ -381,7 +383,7 @@ export default function ArchivePage() {
                   href="/briefing"
                   className="flex items-center justify-between text-sm text-[#4dc3ff] hover:text-[#7dddff] transition-colors"
                 >
-                  <span>오늘의 브리핑 보기</span>
+                  <span>{t("viewTodayBriefing")}</span>
                   <span>→</span>
                 </Link>
               </div>
@@ -395,7 +397,7 @@ export default function ArchivePage() {
         <div className="container-custom">
           <div className="flex flex-col md:flex-row justify-between items-center gap-3 md:gap-4 text-xs md:text-sm text-[#5a5a70]">
             <div>
-              데이터 출처: Berkeley Earth, NOAA, NSIDC
+              {t("dataSource")}
             </div>
             <div>
               Climate Insight © {new Date().getFullYear()}

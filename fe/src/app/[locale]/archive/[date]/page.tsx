@@ -1,16 +1,17 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import { useParams } from "next/navigation";
+import { useTranslations } from "next-intl";
 import { NewsArticle, DailyBriefing } from "@/types/briefing";
 import { getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
-function SentimentBadge({ sentiment }: { sentiment: NewsArticle["sentiment"] }) {
+function SentimentBadge({ sentiment, t }: { sentiment: NewsArticle["sentiment"]; t: (key: string) => string }) {
   const config = {
-    positive: { label: "긍정", color: "bg-[#7dff7d]/10 text-[#7dff7d] border-[#7dff7d]/30" },
-    negative: { label: "부정", color: "bg-[#ff4d4d]/10 text-[#ff4d4d] border-[#ff4d4d]/30" },
-    neutral: { label: "중립", color: "bg-[#8888a0]/10 text-[#8888a0] border-[#8888a0]/30" },
+    positive: { label: t("positive"), color: "bg-[#7dff7d]/10 text-[#7dff7d] border-[#7dff7d]/30" },
+    negative: { label: t("negative"), color: "bg-[#ff4d4d]/10 text-[#ff4d4d] border-[#ff4d4d]/30" },
+    neutral: { label: t("neutral"), color: "bg-[#8888a0]/10 text-[#8888a0] border-[#8888a0]/30" },
   };
   const { label, color } = config[sentiment];
   return (
@@ -20,7 +21,7 @@ function SentimentBadge({ sentiment }: { sentiment: NewsArticle["sentiment"] }) 
   );
 }
 
-function DetailedNewsCard({ article, index }: { article: NewsArticle; index: number }) {
+function DetailedNewsCard({ article, index, t }: { article: NewsArticle; index: number; t: (key: string) => string }) {
   return (
     <article
       className={`group relative bg-[#1a1a24] rounded-xl md:rounded-2xl border border-[#2a2a38] overflow-hidden hover:border-[#3a3a4a] transition-colors animate-fade-in-up stagger-${Math.min(index + 1, 6)}`}
@@ -44,9 +45,9 @@ function DetailedNewsCard({ article, index }: { article: NewsArticle; index: num
               <span className="text-xs md:text-sm font-medium text-[#8888a0]">{article.source}</span>
               <span className="text-[#3a3a4a] hidden sm:inline">·</span>
               <span className="text-xs md:text-sm text-[#5a5a70]">
-                {article.category === "domestic" ? "🇰🇷 국내" : "🌍 해외"}
+                {article.category === "domestic" ? `🇰🇷 ${t("domestic")}` : `🌍 ${t("international")}`}
               </span>
-              <SentimentBadge sentiment={article.sentiment} />
+              <SentimentBadge sentiment={article.sentiment} t={t} />
             </div>
             {/* 클릭 가능한 제목 */}
             <a
@@ -97,6 +98,7 @@ function DetailedNewsCard({ article, index }: { article: NewsArticle; index: num
 export default function ArchiveDatePage() {
   const params = useParams();
   const dateParam = params.date as string;
+  const t = useTranslations("archive");
 
   // date가 period를 포함하는지 확인 (예: 2025-12-17-morning)
   const hasPeriodInUrl = dateParam.endsWith("-morning") || dateParam.endsWith("-afternoon");
@@ -138,7 +140,7 @@ export default function ArchiveDatePage() {
             setSelectedPeriod(latestBriefing.period as "morning" | "afternoon" | undefined);
           }
         } else {
-          setError("해당 날짜의 브리핑 데이터가 없습니다.");
+          setError(t("noDateData"));
         }
 
         if (indexData?.dates) {
@@ -146,7 +148,7 @@ export default function ArchiveDatePage() {
         }
       } catch (err) {
         console.error("브리핑 로드 오류:", err);
-        setError("브리핑을 불러오는 중 오류가 발생했습니다.");
+        setError(t("loadError"));
       } finally {
         setLoading(false);
       }
@@ -169,7 +171,7 @@ export default function ArchiveDatePage() {
       <div className="min-h-screen flex items-center justify-center pt-16">
         <div className="text-center">
           <div className="w-16 h-16 border-4 border-[#2a2a38] border-t-[#4dc3ff] rounded-full animate-spin mx-auto mb-4" />
-          <p className="text-[#8888a0]">브리핑 로딩 중...</p>
+          <p className="text-[#8888a0]">{t("loading")}</p>
         </div>
       </div>
     );
@@ -182,15 +184,15 @@ export default function ArchiveDatePage() {
           <div className="w-16 h-16 bg-[#2a2a38] rounded-full flex items-center justify-center mx-auto mb-4">
             <span className="text-3xl">📭</span>
           </div>
-          <h2 className="text-xl font-bold text-white mb-2">브리핑을 찾을 수 없습니다</h2>
+          <h2 className="text-xl font-bold text-white mb-2">{t("notFound")}</h2>
           <p className="text-[#8888a0] mb-6">
-            {error || `${date} 날짜의 브리핑 데이터가 없습니다.`}
+            {error || `${date} ${t("noDateData")}`}
           </p>
           <Link
             href="/archive"
             className="inline-block px-4 py-2 bg-[#4dc3ff]/10 text-[#4dc3ff] border border-[#4dc3ff]/30 rounded-lg hover:bg-[#4dc3ff]/20 transition-colors"
           >
-            아카이브 목록으로
+            {t("backToList")}
           </Link>
         </div>
       </div>
@@ -232,11 +234,11 @@ export default function ArchiveDatePage() {
           {/* Breadcrumb */}
           <div className="flex items-center gap-2 text-xs md:text-sm text-[#5a5a70] mb-6 md:mb-8 animate-fade-in">
             <Link href="/" className="hover:text-white transition-colors">
-              대시보드
+              {t("toDashboard")}
             </Link>
             <span>→</span>
             <Link href="/archive" className="hover:text-white transition-colors">
-              아카이브
+              {t("archiveTitle")}
             </Link>
             <span>→</span>
             <span className="text-[#8888a0]">{date}</span>
@@ -249,7 +251,7 @@ export default function ArchiveDatePage() {
                 href={`/archive/${prevDate}`}
                 className="px-3 py-2 text-sm rounded-lg bg-white/5 hover:bg-white/10 transition-colors text-[#8888a0] hover:text-white"
               >
-                ← 이전
+                ← {t("prev")}
               </Link>
             )}
             {nextDate && (
@@ -257,7 +259,7 @@ export default function ArchiveDatePage() {
                 href={`/archive/${nextDate}`}
                 className="px-3 py-2 text-sm rounded-lg bg-white/5 hover:bg-white/10 transition-colors text-[#8888a0] hover:text-white"
               >
-                다음 →
+                {t("next")} →
               </Link>
             )}
           </div>
@@ -265,7 +267,7 @@ export default function ArchiveDatePage() {
           {/* Period Selector - 오전/오후 브리핑이 2개 이상일 때만 표시 */}
           {briefings.length > 1 && (
             <div className="flex items-center gap-2 mb-6 md:mb-8 animate-fade-in">
-              <span className="text-sm text-[#5a5a70] mr-2">브리핑 선택:</span>
+              <span className="text-sm text-[#5a5a70] mr-2">{t("selectBriefing")}</span>
               {briefings.map((b) => (
                 <button
                   key={b.period}
@@ -276,8 +278,8 @@ export default function ArchiveDatePage() {
                       : "bg-white/5 hover:bg-white/10 text-[#8888a0] hover:text-white"
                   }`}
                 >
-                  {b.period === "morning" ? "☀️ 오전" : "🌙 오후"}
-                  <span className="ml-2 text-xs opacity-70">{b.articles.length}건</span>
+                  {b.period === "morning" ? `☀️ ${t("morning")}` : `🌙 ${t("afternoon")}`}
+                  <span className="ml-2 text-xs opacity-70">{b.articles.length}{t("articles")}</span>
                 </button>
               ))}
             </div>
@@ -294,7 +296,7 @@ export default function ArchiveDatePage() {
                     ? "bg-[#ffb84d]/20 text-[#ffb84d] border-[#ffb84d]/30"
                     : "bg-[#4dc3ff]/20 text-[#4dc3ff] border-[#4dc3ff]/30"
                 }`}>
-                  {briefing.period === "morning" ? "☀️ 오전 브리핑" : "🌙 오후 브리핑"}
+                  {briefing.period === "morning" ? `☀️ ${t("morningBriefing")}` : `🌙 ${t("afternoonBriefing")}`}
                 </span>
               )}
               {isToday && (
@@ -305,23 +307,23 @@ export default function ArchiveDatePage() {
             </div>
 
             <p className="text-base md:text-lg text-[#8888a0] mb-6 md:mb-8 animate-fade-in-up stagger-2 leading-relaxed">
-              이 날 수집된 기후 뉴스 브리핑입니다.
+              {t("thisDateBriefing")}
             </p>
 
             {/* Stats */}
             <div className="flex flex-wrap gap-4 md:gap-6 animate-fade-in-up stagger-3">
               <div className="flex items-center gap-2">
                 <span className="text-xl md:text-2xl font-bold text-white">{articles.length}</span>
-                <span className="text-xs md:text-sm text-[#5a5a70]">건의 뉴스</span>
+                <span className="text-xs md:text-sm text-[#5a5a70]">{t("news")}</span>
               </div>
               <div className="h-6 w-px bg-[#2a2a38] hidden sm:block" />
               <div className="flex items-center gap-2">
                 <span className="text-base md:text-lg font-semibold text-[#4dc3ff]">🇰🇷 {domesticCount}</span>
-                <span className="text-xs md:text-sm text-[#5a5a70]">국내</span>
+                <span className="text-xs md:text-sm text-[#5a5a70]">{t("domestic")}</span>
               </div>
               <div className="flex items-center gap-2">
                 <span className="text-base md:text-lg font-semibold text-[#ffb84d]">🌍 {internationalCount}</span>
-                <span className="text-xs md:text-sm text-[#5a5a70]">해외</span>
+                <span className="text-xs md:text-sm text-[#5a5a70]">{t("international")}</span>
               </div>
               <div className="h-6 w-px bg-[#2a2a38] hidden sm:block" />
               <div className="flex items-center gap-3">
@@ -347,13 +349,13 @@ export default function ArchiveDatePage() {
       <section className="container-custom py-10 md:py-14">
         <div className="space-y-5 md:space-y-6">
           {articles.map((article, index) => (
-            <DetailedNewsCard key={article.id} article={article} index={index} />
+            <DetailedNewsCard key={article.id} article={article} index={index} t={t} />
           ))}
         </div>
 
         {articles.length === 0 && (
           <div className="text-center py-16">
-            <p className="text-[#8888a0]">이 날의 브리핑 데이터가 없습니다.</p>
+            <p className="text-[#8888a0]">{t("noDataForDate")}</p>
           </div>
         )}
       </section>
@@ -367,11 +369,11 @@ export default function ArchiveDatePage() {
               className="flex items-center gap-2 px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-[#8888a0] hover:text-white hover:bg-white/10 transition-all w-full sm:w-auto justify-center sm:justify-start"
             >
               <span>←</span>
-              <span>이전 브리핑</span>
+              <span>{t("prevBriefing")}</span>
             </Link>
           ) : (
             <div className="px-4 py-3 text-[#5a5a70] hidden sm:block">
-              첫 브리핑
+              {t("firstBriefing")}
             </div>
           )}
 
@@ -379,7 +381,7 @@ export default function ArchiveDatePage() {
             href="/archive"
             className="px-4 py-3 text-[#4dc3ff] hover:text-[#7dddff] transition-colors order-first sm:order-none"
           >
-            아카이브 목록
+            {t("archiveList")}
           </Link>
 
           {nextDate ? (
@@ -387,12 +389,12 @@ export default function ArchiveDatePage() {
               href={`/archive/${nextDate}`}
               className="flex items-center gap-2 px-4 py-3 bg-white/5 border border-white/10 rounded-lg text-[#8888a0] hover:text-white hover:bg-white/10 transition-all w-full sm:w-auto justify-center sm:justify-end"
             >
-              <span>다음 브리핑</span>
+              <span>{t("nextBriefing")}</span>
               <span>→</span>
             </Link>
           ) : (
             <div className="px-4 py-3 text-[#5a5a70] hidden sm:block">
-              최신 브리핑
+              {t("latestBriefing")}
             </div>
           )}
         </div>
@@ -403,7 +405,7 @@ export default function ArchiveDatePage() {
         <div className="container-custom">
           <div className="flex flex-col md:flex-row justify-between items-center gap-3 md:gap-4 text-xs md:text-sm text-[#5a5a70]">
             <div>
-              데이터 출처: Berkeley Earth, NOAA, NSIDC
+              {t("dataSource")}
             </div>
             <div>
               Climate Insight © {new Date().getFullYear()}
