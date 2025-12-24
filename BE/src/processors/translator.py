@@ -91,6 +91,10 @@ Return only valid JSON, nothing else."""
                 if article.get("title") and article.get("language") == "ko":
                     batch_data[f"article_{article_idx}_title"] = article["title"]
 
+                # description 번역 (RSS 원본 요약)
+                if article.get("description"):
+                    batch_data[f"article_{article_idx}_description"] = article["description"]
+
                 # summary 번역
                 if article.get("summary") and isinstance(article["summary"], dict):
                     for key in ["phenomenon", "cause", "outlook"]:
@@ -136,6 +140,12 @@ Return only valid JSON, nothing else."""
                         article["original_title"] = article["title"]  # 원본 저장
                         article["title"] = translated[title_key]
 
+                    # description 적용
+                    desc_key = f"article_{article_idx}_description"
+                    if desc_key in translated:
+                        article["original_description"] = article.get("description", "")
+                        article["description"] = translated[desc_key]
+
                     # summary 적용
                     if article.get("summary") and isinstance(article["summary"], dict):
                         for key in ["phenomenon", "cause", "outlook"]:
@@ -156,6 +166,38 @@ Return only valid JSON, nothing else."""
 
         return articles
 
+    async def translate_summary_keywords(self, summary: dict) -> dict:
+        """summary.top_keywords 번역"""
+        if not summary.get("top_keywords"):
+            return summary
+
+        prompt = f"""Translate the following Korean keywords to English.
+Keep them concise (1-3 words each).
+
+Korean keywords:
+{json.dumps(summary["top_keywords"], ensure_ascii=False)}
+
+Return only a JSON array of translated keywords, nothing else."""
+
+        try:
+            result = await self.gemini.generate(prompt, max_output_tokens=1000)
+            if not result:
+                return summary
+
+            # JSON 배열 파싱
+            import re
+            match = re.search(r'\[[\s\S]*\]', result)
+            if match:
+                translated_keywords = json.loads(match.group(0))
+                summary["original_top_keywords"] = summary["top_keywords"]
+                summary["top_keywords"] = translated_keywords
+                logger.info("top_keywords 번역 완료")
+
+        except Exception as e:
+            logger.error(f"top_keywords 번역 실패: {e}")
+
+        return summary
+
     async def translate_briefing(self, briefing_data: dict) -> dict:
         """브리핑 전체를 영어로 번역 (배치 최적화)"""
         translated = briefing_data.copy()
@@ -169,6 +211,11 @@ Return only valid JSON, nothing else."""
         if "articles" in translated:
             logger.info(f"기사 {len(translated['articles'])}개 번역 시작...")
             translated["articles"] = await self.translate_articles_batch(translated["articles"])
+
+        # 3. summary.top_keywords 번역
+        if "summary" in translated:
+            logger.info("summary 키워드 번역 시작...")
+            translated["summary"] = await self.translate_summary_keywords(translated["summary"])
 
         translated["language"] = "en"
         return translated
