@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { getRecentBriefings } from "@/lib/api/briefing";
 import { DailyBriefing } from "@/types/briefing";
 
@@ -33,7 +33,7 @@ function briefingToArchiveItem(briefing: DailyBriefing): ArchiveItem {
   };
 }
 
-function MonthGroup({ month, items, t }: { month: string; items: ArchiveItem[]; t: (key: string) => string }) {
+function MonthGroup({ month, items, t, locale }: { month: string; items: ArchiveItem[]; t: (key: string) => string; locale: string }) {
   return (
     <div className="mb-10 md:mb-14">
       <h3 className="font-display text-lg md:text-xl font-bold mb-5 md:mb-6 flex flex-wrap items-center gap-2 md:gap-3">
@@ -45,16 +45,16 @@ function MonthGroup({ month, items, t }: { month: string; items: ArchiveItem[]; 
 
       <div className="space-y-4 md:space-y-5">
         {items.map((item, index) => (
-          <ArchiveCard key={item.date} item={item} index={index} t={t} />
+          <ArchiveCard key={item.date} item={item} index={index} t={t} locale={locale} />
         ))}
       </div>
     </div>
   );
 }
 
-function ArchiveCard({ item, index, t }: { item: ArchiveItem; index: number; t: (key: string) => string }) {
+function ArchiveCard({ item, index, t, locale }: { item: ArchiveItem; index: number; t: (key: string) => string; locale: string }) {
   const date = new Date(item.date);
-  const dayOfWeek = date.toLocaleDateString("ko-KR", { weekday: "short" });
+  const dayOfWeek = date.toLocaleDateString(locale === "en" ? "en-US" : "ko-KR", { weekday: "short" });
   const day = date.getDate();
   const isToday = item.date === new Date().toISOString().split("T")[0];
 
@@ -128,6 +128,7 @@ export default function ArchivePage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const t = useTranslations("archive");
+  const locale = useLocale();
 
   useEffect(() => {
     async function fetchArchive() {
@@ -135,7 +136,7 @@ export default function ArchivePage() {
         setLoading(true);
         setError(null);
 
-        const briefings = await getRecentBriefings(90); // 최근 90일
+        const briefings = await getRecentBriefings(90, locale); // 최근 90일
 
         if (briefings.length > 0) {
           const items = briefings.map(briefingToArchiveItem);
@@ -152,7 +153,7 @@ export default function ArchivePage() {
     }
 
     fetchArchive();
-  }, [t]);
+  }, [t, locale]);
 
   if (loading) {
     return (
@@ -198,7 +199,7 @@ export default function ArchivePage() {
   // 월별로 그룹화
   const groupedByMonth = archive.reduce((acc, item) => {
     const date = new Date(item.date);
-    const monthKey = date.toLocaleDateString("ko-KR", {
+    const monthKey = date.toLocaleDateString(locale === "en" ? "en-US" : "ko-KR", {
       year: "numeric",
       month: "long",
     });
@@ -279,7 +280,7 @@ export default function ArchivePage() {
           {/* Main Timeline */}
           <div className="lg:col-span-2">
             {Object.entries(groupedByMonth).map(([month, items]) => (
-              <MonthGroup key={month} month={month} items={items} t={t} />
+              <MonthGroup key={month} month={month} items={items} t={t} locale={locale} />
             ))}
           </div>
 

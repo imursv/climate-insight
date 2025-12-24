@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/navigation";
 import { useParams } from "next/navigation";
-import { useTranslations } from "next-intl";
+import { useTranslations, useLocale } from "next-intl";
 import { NewsArticle, DailyBriefing } from "@/types/briefing";
 import { getBriefingIndex, getBriefingsByDate } from "@/lib/api/briefing";
 
@@ -108,6 +108,7 @@ export default function ArchiveDatePage() {
   const params = useParams();
   const dateParam = params.date as string;
   const t = useTranslations("archive");
+  const locale = useLocale();
 
   // date가 period를 포함하는지 확인 (예: 2025-12-17-morning)
   const hasPeriodInUrl = dateParam.endsWith("-morning") || dateParam.endsWith("-afternoon");
@@ -137,8 +138,8 @@ export default function ArchiveDatePage() {
 
         // 병렬로 해당 날짜의 모든 브리핑과 인덱스 가져오기
         const [briefingsData, indexData] = await Promise.all([
-          getBriefingsByDate(date),
-          getBriefingIndex(),
+          getBriefingsByDate(date, locale),
+          getBriefingIndex(locale),
         ]);
 
         if (briefingsData.length > 0) {
@@ -164,7 +165,7 @@ export default function ArchiveDatePage() {
     }
 
     fetchData();
-  }, [date, urlPeriod]);
+  }, [date, urlPeriod, locale, t]);
 
   // 이전/다음 날짜 계산 (실제 데이터가 있는 날짜로)
   const currentIndex = availableDates.indexOf(date);
@@ -210,7 +211,7 @@ export default function ArchiveDatePage() {
 
   const articles = briefing.articles;
 
-  const formattedDate = new Date(date).toLocaleDateString("ko-KR", {
+  const formattedDate = new Date(date).toLocaleDateString(locale === "en" ? "en-US" : "ko-KR", {
     year: "numeric",
     month: "long",
     day: "numeric",
