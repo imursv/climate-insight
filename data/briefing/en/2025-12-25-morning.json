@@ -1,0 +1,966 @@
+{
+  "date": "2025-12-24",
+  "generated_at": "2025-12-24T23:11:17.259077",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for December 24, 2025.",
+    "sections": [
+      {
+        "title": "🇰🇷 Domestic Efforts for Carbon Neutrality and Renewable Energy Expansion",
+        "content": "Today, proactive and multifaceted efforts to address climate change were actively reported domestically. Suncheon City in Jeollanam-do announced its strategy to promote an RE-100 industrial complex, and Gwangju Metropolitan City hosted the nation's first 'Climate Crisis Response Citizens' Assembly,' encouraging community participation [1, 4]. Gyeonggi Province is playing a leading role in carbon neutrality, RE100, and climate insurance, while Hankook Tire received an A rating from CDP for two consecutive years in recognition of its excellence in climate change response [3, 5]. Furthermore, news of KEPCO KPS's support for creating 'carbon-neutral villages' and the Chung Mong-Koo Foundation's Presidential Commendation for carbon neutrality emphasize the social responsibility of corporations and foundations. Efforts such as Jeollanam-do and Korea Development Bank's establishment of a renewable energy development system, and H-Energy's B2C platform strategy, are raising expectations for accelerating the transition to renewable energy [6, 8, 9, 10, 11, 12, 13, 14].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Intensifying Climate Crisis Impacts and Complex Challenges",
+        "content": "Meanwhile, the severity of the climate crisis and its complex challenges also garnered attention. Winter climates are changing due to warming, and extreme weather events are becoming commonplace, with this year's hurricane season cited as one example of climate change [15, 18]. In particular, direct impacts on ecosystems and natural environments, such as the disappearance of wetland habitats in Sussex, UK, and the worsening drought in the Colorado River basin, are being likened to 'canaries in a coal mine,' sounding an alarm [21, 22]. Even symbolic reports that Santa Claus had to cancel global deliveries due to climate change, and the concerns of Christmas tree farmers, illustrate the pervasive impact of climate change on our lives [23, 30]. Amidst these circumstances, dubious claims from 'fake scientists' promoting 'climate crisis denial' or concerns that certain political statements could hinder the renewable energy transition have also been raised, calling for heightened social vigilance [2, 16, 33].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Climate Policies and Adaptation Strategies",
+        "content": "In the international community, various policies and adaptation strategies are being pursued to address climate change. In Hawaii, a new climate change tax on cruise passengers was upheld by a federal ruling, drawing attention to new attempts to secure climate financing [17, 27, 28, 32]. Furthermore, the search for practical solutions is active, including scientists' efforts to save the chocolate industry from climate change, and the presentation of surprisingly simple yet effective climate adaptation methods [24, 29]. Nature-based solutions and corporate carbon neutrality efforts are also continuing, such as Japan's tree-planting technology aiding urban climate change response, and SAAM Towage's Brazilian operations achieving carbon-neutral certification [34, 36]. The optimistic attitude of North Carolina Christmas tree farmers, who suffered from Hurricane Helen last year, towards rebuilding demonstrates the importance of resilience and adaptation to climate disasters [37].",
+        "tone": "neutral"
+      },
+      {
+        "title": "📰 Perception and Social Discourse on Climate Change",
+        "content": "Climate change is emerging as a crucial topic that transcends mere environmental issues, shaping overall societal perception and discourse. In the era of carbon neutrality, new challenges are arising in land, infrastructure, and transport legislation, and calls for a shift in our mindset regarding the climate crisis are growing louder [7, 19]. Research suggesting that polar bears may evolve in response to climate change indicates the adaptability of species, but also highlights the rapid pace of change [20]. In the United States, perceptions are being shaped by a complex interplay of skepticism, dogmatism, and personal experience regarding climate change, and interest from various segments of society is increasing, with youth in Swindon, UK, actively expressing their views on climate change response [25, 31]. The fact that the best books in the environment and climate change sector for 2025 ask 'what it means to live on a damaged planet' demonstrates that climate change is expanding into an ontological question for humanity [35].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing served as an opportunity to reaffirm the importance of societal awareness regarding the intensifying crisis, alongside the diverse domestic and international efforts to address climate change. This concludes the climate briefing for December 24, 2025."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Jeonnam Suncheon City, Proactive Climate Change Action Strategy RE-100 Industrial Complex Promotion - Wikitree",
+      "original_title": "전남 순천시, 기후변화 선제적 행동 전략 RE-100 산단 추진 - 위키트리",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnJRcmx2UTh4RXhJZmVtdGpEbmw2YWJpZFJfMERESnd1bmZ2LVRsZHE2ck54OWtGRUt4ZExxY2MzTHFsRkVuX2JpaGgwcnhWaEg4VHNJWWpIV0J2U09hejQ1Y1RmUHd6aEUzWndwa1QyNTBSR2pmVU55Qmw5SWgxcVp0TzZYcHFBc0hkV0N5bkNvd1oyaVZ3aDFZdWxyNmg5ckNQdmhn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-24T21:09:00",
+      "description": "Jeonnam Suncheon City, Proactive Climate Change Action Strategy RE-100 Industrial Complex Promotion Wikitree",
+      "summary": {
+        "phenomenon": "Suncheon City, Jeonnam Province, announced a strategy to promote an RE-100 industrial complex to proactively respond to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonnam Suncheon City",
+        "Climate Change",
+        "Proactive Action Strategy",
+        "RE-100",
+        "Industrial Complex Promotion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전남 순천시, 기후변화 선제적 행동 전략 RE-100 산단 추진 위키트리"
+    },
+    {
+      "id": "2",
+      "title": "'Climate Crisis Denialism,' Doubt Created by Fake Scientists - Dong-A Science",
+      "original_title": "가짜 과학자가 만들어낸 의심 '기후위기 부정론' - 동아사이언스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81U1VZalJXckVyN183QWFnOFFDR2VudG01SmVDWHZ4NFhLNE9fUDZ6a2s2dzE3ZTFxM1BjQzJ4dGtlc0l5NzI0a2FQRjktUjdGbFNiZkVLY1FITFU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-24T23:00:00",
+      "description": "'Climate Crisis Denialism,' Doubt Created by Fake Scientists Dong-A Science",
+      "summary": {
+        "phenomenon": "Doubt, termed 'climate crisis denialism,' was generated by fake scientists.",
+        "cause": "This is because fake scientists fostered doubt about the climate crisis.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Fake Scientist",
+        "Climate Crisis Denialism",
+        "Doubt",
+        "Climate Crisis",
+        "Dong-A Science"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가짜 과학자가 만들어낸 의심 '기후위기 부정론' 동아사이언스"
+    },
+    {
+      "id": "3",
+      "title": "Hankook Tire, 'Excellent in Climate Change Response,' Achieves CDP A-Grade for 2 Consecutive Years - fnnews.com",
+      "original_title": "'기후변화 대응 우수' 한국타이어, CDP 평가 2년 연속 A등급 획득 - fnnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1veFVub001WnR4TlZKakxUM1ZYN3dSbUpGSmtzalVDVEJRSXV5NVpoNUhwSG02SlphWVN1WnFHZEM5MXI2MG9Eak1FS3JEalJabjZLaVNFZ3FSd9IBXkFVX3lxTE9FMHJqRmQ1UEZWQlB2U3pPanB4ZUs4RzN5R3ZDLWVMd2FwN1Y4aG4wQmt2S2lvVGJTZGV3VlRYRkRKVkZvSVZPbldYcjllM1daMFVvV3ozMjVHRlJ3dlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-24T09:20:39",
+      "description": "Hankook Tire, 'Excellent in Climate Change Response,' Achieves CDP A-Grade for 2 Consecutive Years fnnews.com",
+      "summary": {
+        "phenomenon": "Hankook Tire received an A-grade in the CDP (Carbon Disclosure Project) assessment for two consecutive years, recognized for its excellence in climate change response.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hankook Tire",
+        "CDP Assessment",
+        "A-Grade",
+        "Climate Change Response",
+        "Two Consecutive Years"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'기후변화 대응 우수' 한국타이어, CDP 평가 2년 연속 A등급 획득 fnnews.com"
+    },
+    {
+      "id": "4",
+      "title": "Gwangju Metropolitan City Hosts Nation's First 'Climate Crisis Response Citizens' Assembly' - seoulcity.co.kr",
+      "original_title": "광주광역시, 전국 최초 ‘기후위기 대응 시민총회’ 개최 - seoulcity.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XQWVieFpnbWlubGZrV096Z2NzOW5SbWVLc3AwVzNnZTh2VDJPSFF6aTg1MEMxLWh1Mmh3akhxLUd1SGloSVNxbU0xQmVoRzh2SmNGT1lBMm92ZXBsR0dUb3JGYmJYMEcyVDF2WFg3aw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-24T12:59:06",
+      "description": "Gwangju Metropolitan City Hosts Nation's First 'Climate Crisis Response Citizens' Assembly' seoulcity.co.kr",
+      "summary": {
+        "phenomenon": "Gwangju Metropolitan City hosted the nation's first 'Climate Crisis Response Citizens' Assembly.'",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangju Metropolitan City",
+        "Climate Crisis Response",
+        "Citizens' Assembly",
+        "Nation's First",
+        "Hosting"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광주광역시, 전국 최초 ‘기후위기 대응 시민총회’ 개최 seoulcity.co.kr"
+    },
+    {
+      "id": "5",
+      "title": "Gyeonggi Province, a Climate Economy Partner... Leading Carbon Neutrality, RE100, and Climate Insurance [Gyeonggi Province, the Nation's Primary Partner] - v.daum.net",
+      "original_title": "기후경제 동반자 경기도… 탄소중립과 RE100, 그리고 기후보험 선도 [국정 제1동반자, 경기도] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VblM1QnFpVGtBNEp3ZjI4Z0hnLVJNQVR3am0xVTVtMGVickI2QjBZSmltUVBWaGRnRmdzWU53SkNxSXZyaUYtVldjMEgyUjg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T20:01:00",
+      "description": "Gyeonggi Province, a Climate Economy Partner... Leading Carbon Neutrality, RE100, and Climate Insurance [Gyeonggi Province, the Nation's Primary Partner] v.daum.net",
+      "summary": {
+        "phenomenon": "Gyeonggi Province is demonstrating its role as a climate economy partner by playing a leading role in carbon neutrality, RE100, and climate insurance.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeonggi Province",
+        "Climate Economy",
+        "Carbon Neutrality",
+        "RE100",
+        "Climate Insurance"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후경제 동반자 경기도… 탄소중립과 RE100, 그리고 기후보험 선도 [국정 제1동반자, 경기도] v.daum.net"
+    },
+    {
+      "id": "6",
+      "title": "[KPS News] Support for Creating a 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste, etc. - Busan Ilbo",
+      "original_title": "[한전KPS 소식] 영농폐기물 선순환 ‘탄소중립마을’ 조성 지원 外 - 부산일보사",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HT3dVbFBxenZHb21ZNm9HdC1EVUc2LW1wdFZZSFV3bmxuc3gxUUdVX0k5dDh3M3ZUTVVSVGc1MlcweW8tdmIxdnpFTHVlWXlXYTE1TXJlNFQ3SlJreGFEeE1Ebk1sOVNJR3hPUXhTaVNJUjJQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T10:29:35",
+      "description": "[KPS News] Support for Creating a 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste, etc. Busan Ilbo",
+      "summary": {
+        "phenomenon": "KPS is supporting the creation of 'carbon neutral villages' through the virtuous cycle of agricultural waste.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KPS",
+        "Agricultural Waste",
+        "Virtuous Cycle",
+        "Carbon Neutral Village",
+        "Creation Support"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[한전KPS 소식] 영농폐기물 선순환 ‘탄소중립마을’ 조성 지원 外 부산일보사"
+    },
+    {
+      "id": "7",
+      "title": "[Contribution] \"New Challenges for Land, Infrastructure and Transport Legislation in the Era of Carbon Neutrality\" - Bridge Economy",
+      "original_title": "[기고] “탄소중립 시대, 국토교통 법제의 새로운 과제” - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZazV3aVdfSHhaOWZjdGx3MVozVlVvM2I2UFY3U3hmRHBUd0lQQ19OT2hfWXA2Z0dXOExveDVTNGdzOTBERlFURm5ITVRBVTNHOEZxUE9BWmZRQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T09:18:00",
+      "description": "[Contribution] \"New Challenges for Land, Infrastructure and Transport Legislation in the Era of Carbon Neutrality\" Bridge Economy",
+      "summary": {
+        "phenomenon": "New challenges have emerged for land, infrastructure and transport legislation in the era of carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Carbon Neutrality",
+        "Land, Infrastructure and Transport",
+        "Legislation",
+        "Challenge",
+        "Policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기고] “탄소중립 시대, 국토교통 법제의 새로운 과제” 브릿지경제"
+    },
+    {
+      "id": "8",
+      "title": "KPS Supports Creation of 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste - Today Energy",
+      "original_title": "한전KPS, 영농폐기물 선순환 ‘탄소중립마을’ 조성 지원 - 투데이에너지",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RT1BlV20xQ3dHOTFVS1FkdGh3SHZFcUVRV3hJcXE2ZHdkSlFXTEQ1LW9FbjZvSVRUSVdjaFhuQjZIb3Q0THhTajBub2NkS1prR01SQk4zM2VrR2hUQUM3RmxrRmlXX1dGSGRFTUl3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T08:19:47",
+      "description": "KPS Supports Creation of 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste Today Energy",
+      "summary": {
+        "phenomenon": "KPS is supporting the creation of 'carbon neutral villages' through the virtuous cycle of agricultural waste.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KPS",
+        "Agricultural Waste",
+        "Carbon Neutral Village",
+        "Virtuous Cycle",
+        "Creation Support"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한전KPS, 영농폐기물 선순환 ‘탄소중립마을’ 조성 지원 투데이에너지"
+    },
+    {
+      "id": "9",
+      "title": "KPS Steps Up to Support Creation of 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste - econovill.com",
+      "original_title": "한전KPS, 영농폐기물 선순환 '탄소중립마을' 조성 지원 나서 - econovill.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sU2hRWWJBeElmQVFuU29ENWE0c0VFX09ObDF2a1hfeXhLc2JXSGNnVmNDRExNVDZPWEdMR0tSeElGRmI5TUxVWGFFX3V4Wlc0UzBCTFBJLXBRdzltLXFoUldSOXlpNTkyOWlaQg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T09:52:31",
+      "description": "KPS Steps Up to Support Creation of 'Carbon Neutral Village' through Virtuous Cycle of Agricultural Waste econovill.com",
+      "summary": {
+        "phenomenon": "KPS has stepped up to support the creation of 'carbon neutral villages' through the virtuous cycle of agricultural waste.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KPS",
+        "Agricultural Waste",
+        "Virtuous Cycle",
+        "Carbon Neutral Village",
+        "Creation Support"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한전KPS, 영농폐기물 선순환 '탄소중립마을' 조성 지원 나서 econovill.com"
+    },
+    {
+      "id": "10",
+      "title": "Chung Mong-Koo Foundation Receives Presidential Commendation for Carbon Neutrality - Seoul Shinmun",
+      "original_title": "정몽구재단 탄소중립 대통령 표창 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5venFNLTc3MUFyUEo0RDNuc2dZaG5DSHNpVTZvaGZRYURiTHowRl9EQm9sRHF5SlJadmZnR2V1TlphZ2d1c01OUGlob1lNZVZ3WVJoVzFTdWdTTXBPcU1vb2ZQT0tERzk3OENRZnkxRkQ5YzF3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-24T15:50:21",
+      "description": "Chung Mong-Koo Foundation Receives Presidential Commendation for Carbon Neutrality Seoul Shinmun",
+      "summary": {
+        "phenomenon": "The Chung Mong-Koo Foundation was awarded a presidential commendation in recognition of its contributions to carbon neutrality efforts.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chung Mong-Koo Foundation",
+        "Carbon Neutrality",
+        "Presidential Commendation",
+        "Commendation",
+        "Environment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "정몽구재단 탄소중립 대통령 표창 서울신문"
+    },
+    {
+      "id": "11",
+      "title": "Jeollanam-do and Korea Development Bank Establish Renewable Energy Development System - EToday News",
+      "original_title": "전남도-산업은행, 재생에너지 육성체계 구축 - 이투뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YekRKTF9iS3Y1SV9Fb1BDelNnejRxZjlRUDJHYkdjY0I0TXJXM0hjWTRDbi15cGVkYk9BN1VhSm9JNzd3OS1WOG82S01FSnN6eHgwT0ZqV0RWbkJqeFhyWWZQZXJObFnSAWtBVV95cUxQVkdiazlDWHpJZzM0VXdjSXpkbnZDUUxXbGhiNks5Ui13ZEk0NmxXZWNMN1J6XzRxYUNPN0ljWUpjNUlVSms2UGxjeUxQQnp2NnFwZ0hOQUJqSVZ0Snc1WF96aUJYZktRN1dESQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-24T08:15:36",
+      "description": "Jeollanam-do and Korea Development Bank Establish Renewable Energy Development System EToday News",
+      "summary": {
+        "phenomenon": "Jeollanam-do Province and the Korea Development Bank are establishing a system for fostering renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeollanam-do",
+        "Korea Development Bank",
+        "Renewable Energy",
+        "Development System",
+        "Establishment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전남도-산업은행, 재생에너지 육성체계 구축 이투뉴스"
+    },
+    {
+      "id": "12",
+      "title": "Renewable Energy: Changing Ownership Models, H-Energy's B2C Platform Strategy - Newstab",
+      "original_title": "재생에너지, 소유 방식부터 바꾼다…에이치에너지의 B2C 플랫폼 전략 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90ajFaVjJZYWJCQzdOSWhqMUxESG5XREtkY0hqYXZmV01PRml5a1N2RmZpNjYtU2ZqSkRiaTg1MWd3akxKZlVuZVRGMkJGeE8tWndLREV4VWRzY3pDbkdfektLZ2Eyb1FJM3JTSA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-24T16:06:11",
+      "description": "Renewable Energy: Changing Ownership Models, H-Energy's B2C Platform Strategy Newstab",
+      "summary": {
+        "phenomenon": "H-Energy is transforming the ownership model of renewable energy through its B2C platform strategy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "Ownership Model",
+        "H-Energy",
+        "B2C Platform",
+        "Strategy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지, 소유 방식부터 바꾼다…에이치에너지의 B2C 플랫폼 전략 뉴스탭"
+    },
+    {
+      "id": "13",
+      "title": "Professor Kim Chang-seop of Gachon University Appointed New Electricity Commissioner; Renewable Energy Transition Expected to Accelerate - Electronic Times",
+      "original_title": "신임 전기위원장에 김창섭 가천대 교수…재생에너지 전환 가속화 전망 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9CZWZHYzQ5QV84MS1nZ3ZTY2VkZXJCbnZ6VGNxWElvOGdGcGVISXhmcXpTZnUybkM3elU1TF9fRzZ0NU9CTHpQN21Wa0JjQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-24T08:39:53",
+      "description": "Professor Kim Chang-seop of Gachon University Appointed New Electricity Commissioner; Renewable Energy Transition Expected to Accelerate Electronic Times",
+      "summary": {
+        "phenomenon": "Professor Kim Chang-seop of Gachon University has been appointed as the new Electricity Commissioner.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The appointment of the new Electricity Commissioner is expected to accelerate the transition to renewable energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "New Appointment",
+        "Electricity Commissioner",
+        "Kim Chang-seop",
+        "Renewable Energy",
+        "Transition Acceleration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "신임 전기위원장에 김창섭 가천대 교수…재생에너지 전환 가속화 전망 전자신문"
+    },
+    {
+      "id": "14",
+      "title": "SG Energy Collaborates with BIPV Korea on Solar Power Projects - Energy Newspaper",
+      "original_title": "에스지에너지, BIPV Korea와 태양광 사업 협력 - 에너지신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sY01aRzNaSVl1R0toaXR0T3hWRkpKTjZIWG1MOFFpNlN5eEtFRGhLTUFoT0ljTGZFcXEwTmtkYnR5UVVwd05hZVowS3ltdGZkZ1JLNUpJNW05M2NneDAxVkZTT3hjemlyUnJQcDUyd1Rkdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-24T09:43:33",
+      "description": "SG Energy Collaborates with BIPV Korea on Solar Power Projects Energy Newspaper",
+      "summary": {
+        "phenomenon": "SG Energy and BIPV Korea are collaborating on solar power projects.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "SG Energy",
+        "BIPV Korea",
+        "Solar Power Project",
+        "Collaboration",
+        "BIPV"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "에스지에너지, BIPV Korea와 태양광 사업 협력 에너지신문"
+    },
+    {
+      "id": "15",
+      "title": "[This Week's B-Cut] Unseasonably Warm Winter Amidst Global Warming: An Early Spring Phenomenon",
+      "original_title": "[금주의 B컷]온난화에 열받은 겨울… 비닐옷 봄이 먼저 왔네",
+      "url": "https://www.khan.co.kr/article/202512242110005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2025-12-24T12:10:00",
+      "description": "On the 19th, citizens were seen enjoying the spring flower air dome at the 2025 Hangang Festival 'Spring ON Hangang' in Banpo Hangang Park, Seocho-gu, Seoul. Reporter Seong Dong-hoon questions if this is due to the climate crisis, noting the relatively mild weather and an 'unseasonably warm winter.' Despite the Korea Meteorological Administration's forecast of a colder-than-average winter due to La Niña, the experienced temperature difference is significant, leading many to repeatedly adjust their attire.",
+      "summary": {
+        "phenomenon": "On the 19th, citizens were observed enjoying the spring flower air dome at the 2025 Hangang Festival 'Spring ON Hangang' in Banpo Hangang Park, Seocho-gu, Seoul. This comes amidst a relatively mild and 'unseasonably warm winter,' raising questions about the impact of the climate crisis. The experienced temperatures significantly diverge from the Korea Meteorological Administration's forecast of a colder-than-average winter due to La Niña.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Global Warming",
+        "Winter",
+        "La Niña",
+        "Abnormal Climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "19일 서울 서초구 반포한강공원에서 열린 2025 한강페스티벌 ‘봄ON한강’에서 시민들이 봄꽃 에어돔을 찾아 즐거운 시간을 보내고 있다. 성동훈 기자기후위기 탓일까. 비교적 온화한 날씨, ‘춥지 않은 겨울’이다. 라니냐 발생으로 평년보다 추운 겨울을 예고한 기상청의 발표와는 달리 피부로 체감하는 온도 차이는 크다. 두꺼운 외투를 손에 들었다 놓기를 반복하는···"
+    },
+    {
+      "id": "16",
+      "title": "Trump Calls for Halt to Offshore Wind Power for Security Reasons… Does South Korea Have a Countermeasure?",
+      "original_title": "트럼프, 안보 이유로 “해상풍력 발전 중단”…한국은 대책 있나",
+      "url": "https://www.khan.co.kr/article/202512242103005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2025-12-24T12:03:00",
+      "description": "Governors of U.S. East Coast states protest, citing increased electricity costs and job losses. South Korea also faces 'military operational' conflicts; prompt policy direction and uncertainty reduction are needed. The Trump administration's decision to halt offshore wind power projects on the U.S. East Coast for 'security' reasons has drawn public criticism from governors in the affected regions. As military activities are cited as the biggest obstacle to expanding offshore wind power in South Korea, realistic countermeasures are deemed necessary.",
+      "summary": {
+        "phenomenon": "Governors of U.S. East Coast states are protesting the Trump administration's decision to halt offshore wind power projects for 'security' reasons, citing concerns over increased electricity costs and job losses. This situation highlights similar challenges in South Korea, where military operational conflicts pose a significant obstacle to offshore wind expansion, underscoring the need for clear policy direction and reduced uncertainty.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Offshore Wind Power",
+        "Trump",
+        "Security",
+        "Power Generation Halt",
+        "Military Operationality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "미 동부 연안 주지사들 “전기료 부담 가중, 일자리도 사라져” 반발 한국도 ‘군 작전성’ 충돌…정책 방향 조속한 확정, 불확실성 없애야도널드 트럼프 행정부가 ‘안보’를 이유로 미국 동부의 해상풍력발전 계획을 중단하자, 해당 지역 주지사들이 공개 비판에 나섰다. 한국에서도 해상풍력 확대의 최대 장애 요인으로 군사활동이 꼽히는 만큼 현실적인 대책이 필요하다는 ···"
+    },
+    {
+      "id": "17",
+      "title": "하와이 크루즈 승객, 법원 판결로 새로운 기후세 직면 - CBS 뉴스",
+      "original_title": "Hawaii cruise passengers face new climate change tax after court ruling - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJdFZKUVRnSmpiWS12eDlzX013ZjA2YmsxdlVEaV9iS3FHWFZkVzFhZmlCLU1Tbk03eEZjTUhyTHNiWWs2ZWtUZUFhU3VzVm5PUUMxUHp4OGVRa2IyTm5ET0V2NEhQdkVTd2RHMU9QaHh0OWszNDNpWkp5bFpfZ9IBgwFBVV95cUxPX1lWeEFtaUFfdDlaWnF5S1dFRF9rejZ5Ums0dUs4aTc4V0lhMVh3MGQzdWdKcnpMQzV5eVB5SnZHeE1CWTEtRGN1cy1Xb2FIamhTcXBTSi1mRG5QX24wVzl3S3I3VkE1OFFKaHRxY3pDQWtsRERDcE50MlN2Yy1SajBibw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T20:22:46",
+      "description": "Hawaii cruise passengers face new climate change tax after court ruling CBS News",
+      "summary": {
+        "phenomenon": "Hawaii cruise passengers face new climate change tax after court ruling CBS News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Hawaii",
+        "Cruise",
+        "Climate Tax",
+        "Court Ruling",
+        "Passengers"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Hawaii cruise passengers face new climate change tax after court ruling CBS News"
+    },
+    {
+      "id": "18",
+      "title": "기후 변화는 어떤 모습일까? 올해 허리케인 시즌이 한 가지 예시이다 - NPR",
+      "original_title": "What does climate change look like? This year's hurricane season is one example - NPR",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWURIX0ZOR3ZSS2RmSTVuTHlqMWxWeENGU1E4RERBdGV6dWZWNXB6Y29mNEFTZVhDdWhuWGlOSTZ6V2paZWhyVU00NWNhV0QxZy1UZ0RMM2p2OUt1d3VsU3JrNGpmRl9PTXlRRXhwc2VsWVdQTjF6ay1ZS1ZHRnQtb3JvSmItdWZHaWMwZzZseFdwY1FubnduenZuT3NnS3hz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T10:30:00",
+      "description": "What does climate change look like? This year's hurricane season is one example NPR",
+      "summary": {
+        "phenomenon": "What does climate change look like? This year's hurricane season is one example NPR",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Hurricane",
+        "Climate Crisis",
+        "Natural Disaster",
+        "This Year"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "What does climate change look like? This year's hurricane season is one example NPR"
+    },
+    {
+      "id": "19",
+      "title": "It's time to do a 180 in our thinking about the climate crisis | Op-Ed - The Seattle Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONGpIeTlGeG5MN3Q0cTlxMDBQd292VWVZUWFGaE5xTUhwdHJSSGpqTU85NzlRQnEwNjZGcURUbGVzX3RDc0M4ZUhuQ1pyR21fNEZROC1QM2Y4RC1MeXExQktlRVJLQjZYYnlKanZYSHBlVzBValJhTVhMaFNYOVhybjZvWG1qX2xERGZyTzdSNm9qRVp5bTdJVENxQU5JV0NS?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T16:00:00",
+      "description": "It's time to do a 180 in our thinking about the climate crisis | Op-Ed The Seattle Times",
+      "summary": {
+        "phenomenon": "It's time to do a 180 in our thinking about the climate crisis | Op-Ed The Seattle Times",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "It's time to do a 180 in our thinking about the climate crisis | Op-Ed The Seattle Times"
+    },
+    {
+      "id": "20",
+      "title": "북극곰, 기후 변화에 대응해 진화할 수도 있다: 연구 - 뉴스네이션",
+      "original_title": "Polar bears may be evolving in response to climate change: Study - NewsNation",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNTNYS0NXYXZ1dzNVLUF2Mk5JbGdEYlpGSmw1bkM4TVRreEZrU2NaMVlDT0FsUUdVMmYzVEN1dEZEeml6S3N3U2taakVHWU1nN2lfNWUwdkNUeGJCMG4xZ0ZGTHU5OUtiUGtpeVR5Y3ROcUpkR1JOdnFuNW9FcGR0Wk5TOUpnMTjSAYwBQVVfeXFMTzJOZ1NEMlVBMmh2TnlqdUhLaDB1UExSUzJJSU04bXgyM25rY2xDLWt2ZVpxMXBiQy0zMGdzak9nRGZXWWJVemVlczUwb1ZIdTRDcUUyN0tQdF9rMUFuVV9CUE92dHlEbHk1VGpjX2xfckh4azhiVEFKQjJiZG5QcW1HTkloZDY2U3BYX2Y?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T21:51:13",
+      "description": "Polar bears may be evolving in response to climate change: Study NewsNation",
+      "summary": {
+        "phenomenon": "Polar bears may be evolving in response to climate change: Study NewsNation",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Polar Bear",
+        "Evolution",
+        "Climate Change",
+        "Research",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Polar bears may be evolving in response to climate change: Study NewsNation"
+    },
+    {
+      "id": "21",
+      "title": "서식스의 사라진 습지 서식지는 기후 변화의 '탄광 카나리아'이다 - 스포트라이트 델라웨어",
+      "original_title": "Sussex’s lost wetland habitats are ‘coal mine canaries’ of climate change - Spotlight Delaware",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGptR1A5NjkyY01ucDNuM2tVdFk1ckZvWTZxdHlqZWlKRnYxN0FkVklYX20wRTFqVXpvLWxkSEdTMmZMVUIwVEdHTnNYWlkwVXJkUHoyNkdEcmE3UjFQX3p4ZHhQclZmLWZLSmViMmVONXdMOXRuMWpYUVRTajFjZHNraXgydloybGMzbHBZTTg4c0g3UmNOLUlieF9INTJBX3VtZWJrclBJMFh3OHZLM2d3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T10:00:00",
+      "description": "Sussex’s lost wetland habitats are ‘coal mine canaries’ of climate change Spotlight Delaware",
+      "summary": {
+        "phenomenon": "Wetland habitats in the Sussex region of the UK have disappeared.",
+        "cause": "Wetland habitats have disappeared due to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Sussex",
+        "Wetland",
+        "Loss",
+        "Climate Change",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Sussex’s lost wetland habitats are ‘coal mine canaries’ of climate change Spotlight Delaware"
+    },
+    {
+      "id": "22",
+      "title": "콜로라도 강 가뭄 상황이 기후 변화로 인해 악화되고 있습니다. 2026년에 지도자들은 어떻게 대응할까요? - 아스펜 공영 라디오",
+      "original_title": "Drought conditions on the Colorado River are getting worse because of climate change. How will leaders respond in 2026? - Aspen Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQUJGMlU1X0dyVGEtTWxBcGZ4N0Q0ZXAxRlJPdS0tcDRrZkg1WEdFX01qYTc4ekpZMy1oZERyQnhMNVVEX3pOcjNmRV9UcnNJMzJvZnBjdlFxZk4xR3NqN3JYeHJzSV9FTGtBOVc1a1doSVBQNm1MWkthcTF4clJ3OFhNaHNxb283RU5oblZTRVltYVZDQlpjMWZDZnM4Qk51SkNzbHVKMHpkZ2xIT05XdUVERDRscGUtck9iWE56anlPNy1uY3FKMy1CVlVfbFhRaXJObVZpcHVJVzh5alhkY04tN1haZktoWW10b2hyUzNRMlhrX3VWOExYdk00MURkUWgw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T19:30:00",
+      "description": "Drought conditions on the Colorado River are getting worse because of climate change. How will leaders respond in 2026? Aspen Public Radio",
+      "summary": {
+        "phenomenon": "Drought conditions in the Colorado River basin are worsening.",
+        "cause": "Drought conditions are worsening due to climate change.",
+        "outlook": "A question has been raised regarding how leaders will respond to this situation in 2026."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Colorado River",
+        "Drought",
+        "Climate Change",
+        "Worsening",
+        "Leader Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Drought conditions on the Colorado River are getting worse because of climate change. How will leaders respond in 2026? Aspen Public Radio"
+    },
+    {
+      "id": "23",
+      "title": "산타클로스, 기후 변화로 전 세계 배달 취소할 수밖에 없었다 - LGBTQ 네이션",
+      "original_title": "Santa Claus forced to cancel worldwide delivery due to climate change - LGBTQ Nation",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEF2b2JlVzZyUmVzY3pyUl9PN0FpcVNRTUY5RHNtb0N1X2JmNG1PS29lb1VINmh3TkNSelR6a0ZYM0xDSVBCbDZoZTlpd0dDSGVDX1FFVGR1RU8wWEpFVG9IQm9KSmFRSzJjRm04R1VYNDFxaHhJLWNSMnpLRWFOU1pOSFNCX1FCdm1MOWVHSFMwZld4R1lZTmFOdHN5cWFrZU1MOGx4MTE5dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T14:00:00",
+      "description": "Santa Claus forced to cancel worldwide delivery due to climate change LGBTQ Nation",
+      "summary": {
+        "phenomenon": "Santa Claus was forced to cancel worldwide deliveries due to climate change.",
+        "cause": "Climate change is the cause of Santa Claus's worldwide delivery cancellation.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Santa Claus",
+        "Climate Change",
+        "Delivery Cancellation",
+        "Worldwide",
+        "LGBTQ Nation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Santa Claus forced to cancel worldwide delivery due to climate change LGBTQ Nation"
+    },
+    {
+      "id": "24",
+      "title": "기후 변화로부터 초콜릿 산업을 구하는 과학자들을 만나보세요",
+      "original_title": "Meet the scientists saving the chocolate industry from climate change - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOV0M1dUJ2ZlF1N0VKeVg4YnE5LXcyc0F4Sjl4dTJYaEpCdmVLX19WQzB0VG54dnlrUC10Sy0xN2YzZUgxWG9PZ3hKbnFBZGJITnhQRTZTeFVxYnNRa2JfR283TjBQTGFoZDhFeEQ0ZEtSZGZBWkJ6N0FfWGdqZEtFbTJ4dFNudl9xSGY5TFhsaE5YMlRTdmVZbG5FanpKeVhzZ0FxQU90WGZBN3d5R0VZRGlVS2dCQmJiWnc4VkVaQ192NVNPVUdST0NxZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T10:44:40",
+      "description": "Meet the scientists saving the chocolate industry from climate change Euronews.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Climate change is posing a threat to the chocolate industry.",
+        "outlook": "Scientists are working to save the chocolate industry from climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Scientist",
+        "Chocolate",
+        "Climate Change",
+        "Industry",
+        "Preservation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Meet the scientists saving the chocolate industry from climate change Euronews.com"
+    },
+    {
+      "id": "25",
+      "title": "Understanding climate change in America: Skepticism, dogmatism and personal experience - Cobb Courier",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdTdieDVtczAtczV0MU53OWtEZ3lGTnAxa2IxcG55NUh4N2RhX2U3ZkFQYXB6cU40RzVCRkgycGdmUW45cEpNS1BuVnJUTFRRaTVudUIwaFV3aEpTYnltd3RkR1BPeW1PNGlpdmR1dUVqNGhjWlRNS3Y1QlkwNWpGdGNrNV9RQloyOXZFMW5JLU5Wdkd6b2dGZlpmVHowQWJHbVBKaURKUmNsM3hGUHlHSlZwTW9TY0NpOVl1RUxGTlI?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T13:18:01",
+      "description": "Understanding climate change in America: Skepticism, dogmatism and personal experience Cobb Courier",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Understanding climate change in America: Skepticism, dogmatism and personal experience Cobb Courier"
+    },
+    {
+      "id": "26",
+      "title": "우리는 기후 변화에 대한 에밀리 리텔라의 순간에 도달했습니다 - 데일리 헤럴드",
+      "original_title": "We have reached the Emily Litella moment on climate change - Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS0xhUjViNjU5dXhfQ1k5X2x0VDJrb3ZNTGloWmdhU1ptMWdkUWgwdzRDOVJEZ2JpcU4wbzYtY2dXZ2t1RXNrZGRyVDdITXd0NFhHYkVBNUlFelpSQlpNcEdlX3BJV3pWYUF0MkY0LTFpb1FMRXFrdk1GMnN6ZUM0NklMTF9BWjVHTFBUWmZLOTVBN3FGVV83RXVsUTR1cnlPajN1UW9hQ0ZLdERoTXpLM18xekl6cjB2ZXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T10:00:00",
+      "description": "We have reached the Emily Litella moment on climate change Daily Herald",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Emily Litella",
+        "Critical Moment",
+        "Crisis Awareness",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "We have reached the Emily Litella moment on climate change Daily Herald"
+    },
+    {
+      "id": "27",
+      "title": "연방 판사, 하와이의 크루즈 승객 대상 새 기후변화세 유지 판결",
+      "original_title": "Federal judge upholds Hawaii's new climate change tax on cruise passengers - Ottumwa Courier",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaGVWUld2REliM1FFMjZTWFNLcTFONnFMaG1NcGRGdGpTd0FSY1lHUDhIeTA1blhtejBBMkxDd2xFMTREOVdMcGFNRUpOUUhEbXI4NFFnZkhabGN3dkF1OFhUSnVpYlVWS0EtMGxrc0dDQjJSOW0zLTFpMkFjeFl2VS1tUEp4c0IwdUlQZU9Wb05nZ1luMlo2WWtSUk1Ga0hFVHNqQ2h5UkJMemp6bXpmR25vV1Z6S3o2SjAzd1JZa1lTQXZtQmFNcDhtQ001eXpmNWZabnRlajA2aXNkSUF5bVpyZHVOa0c2S09JM2oycXlCTVl1RkxvYjY4RElNaVQ3UVM4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T19:18:56",
+      "description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers Ottumwa Courier",
+      "summary": {
+        "phenomenon": "A new climate change tax has been imposed on cruise passengers in Hawaii, and a federal judge has upheld this ruling.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Hawaii",
+        "Climate Change Tax",
+        "Cruise Passengers",
+        "Federal Judge",
+        "Ruling"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers Ottumwa Courier"
+    },
+    {
+      "id": "28",
+      "title": "연방 판사, 하와이의 크루즈 승객 대상 새 기후변화세 유지 판결 - 메신저-인콰이어러",
+      "original_title": "Federal judge upholds Hawaii's new climate change tax on cruise passengers - Messenger-Inquirer",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOcm5wazNHTHZlWW5OcGswNXFLTWN4UDFyMmhGVmtvWkN4MEFyUkNjenVyT3Z5cmpsNW45bnFTbXBNWHZQdWlPYUt1WnZ5YmRxTk5kR2Vzbkl0dXh6ZHJKMDRTdUZINGt0QjJtLUZaQWV4M2kwYXI4aC1VVWo3cVFkSTBMaFpwUldab3ZQNFRhUE9DbkdXcEVRZEtpWkhXSGNleHBzd0k3YXpHZDBhSWVnd01mT08tc3NCN3duT1NKSUYtZjRQUjhTeGVSU1BLWGJMQ2JIZGxZcFdYdS1XM0VCS00wWFktSy12cFVtVm1JTDVIak9XOFJLMGRYZGkyc2VaaklMOUQtZEpCUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T19:18:56",
+      "description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers Messenger-Inquirer",
+      "summary": {
+        "phenomenon": "A new climate change tax has been imposed on cruise passengers in Hawaii, and a federal judge has upheld this ruling.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Hawaii",
+        "Climate Change Tax",
+        "Cruise",
+        "Federal Judge",
+        "Ruling"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers Messenger-Inquirer"
+    },
+    {
+      "id": "29",
+      "title": "최고의 기후 적응 방법은 놀랍도록 간단하다 - 보험 저널",
+      "original_title": "The Best Climate Adaptation Methods Are Surprisingly Simple - Insurance Journal",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1MUTk5eUFFZ0RLbVg3QWZjOEZFYkJLc3llbnlVM0RoWDQ0bHRHY29QOG9acWtaUU5MUzRLMjgwdWF5cy1oclJCMndWZFZ1UzZfWW5RTUpiUzVDek9aNDNlZlptLWpBSXhKMXdrRkZTMTZBZHFnLUlNMVhVM2Z6Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T16:12:39",
+      "description": "The Best Climate Adaptation Methods Are Surprisingly Simple Insurance Journal",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "It has been suggested that the best climate adaptation methods are surprisingly simple."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Adaptation",
+        "Simple",
+        "Best",
+        "Methods",
+        "Insurance"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Best Climate Adaptation Methods Are Surprisingly Simple Insurance Journal"
+    },
+    {
+      "id": "30",
+      "title": "오! 크리스마스트리!: 기후 변화가 크리스마스트리 농부들을 걱정시킨다 - 캐나다 정세",
+      "original_title": "Oh! Christmas tree!: Climate change worries Christmas tree farmers - Canadian Affairs",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjZTbzc2N1BBZkxJbklXX0FBQWdQeEdST0c0a2JOaXQ3MGsxdF95LWpJNEw4QUkyTG5ZUk1FbHpxVXEtckNSZlNuN2ZqT0ZRZ291a0NPOTFtZHo2V1BoU1RENWJrWVExN2hFUEgxZlIwdW82eWpZS1FMWUZnNnBXVWpNOTc5bHBRLUE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T22:00:00",
+      "description": "Oh! Christmas tree!: Climate change worries Christmas tree farmers Canadian Affairs",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Climate change is causing concern among Canadian Christmas tree farmers.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Christmas Tree",
+        "Climate Change",
+        "Farmer",
+        "Concern",
+        "Canada"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Oh! Christmas tree!: Climate change worries Christmas tree farmers Canadian Affairs"
+    },
+    {
+      "id": "31",
+      "title": "스윈던 청소년들, 기후 변화 대응에 대한 견해 밝혀 - BBC",
+      "original_title": "Swindon teenagers give their views on tackling climate change - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJanlpUExYeHFyVWVfT3FmOGgwRllEWVZxdF9MZnREMWVxcFhVNDdaN3FsdlV6dGpYczdlZzV5aW01enRZZTk0ZTVmMVh3ZDVTWURLQ1FvWEdRd9IBX0FVX3lxTE9TQXN6NFBFMkRuVnBBN3JERWVHZUVxV0ktR29QemNfMWU0dERFY0N3YW1tT3lpQkcyNzNtVXpWUmxMejIyLWQza3YzeThTMEtFZ19raTNMZVZmOHdoZWRF?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T11:21:38",
+      "description": "Swindon teenagers give their views on tackling climate change BBC",
+      "summary": {
+        "phenomenon": "Teenagers in Swindon, UK, have shared their views on responding to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Youth",
+        "Swindon",
+        "Opinion",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Swindon teenagers give their views on tackling climate change BBC"
+    },
+    {
+      "id": "32",
+      "title": "연방 판사, 하와이의 크루즈 승객 대상 신규 기후 변화 세금 유지 판결",
+      "original_title": "Federal judge upholds Hawaii's new climate change tax on cruise passengers - The Derrick",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPei1DV2lhTWRvVlM1c3NFOUNyZi1DbmV1LW5La3BNTTItMUVIM2poem5taTRISWIzOHVieFdhbGdkd3Rfem5meFNZbzRDUl9xSFVHS3JTVXVYWmttQVpwT2Y0RjB5ODF4UGUxSTY5ZUhDeFRNZjU5Y3lDN18yOTl2aEhtOWFHSTR3aXZkMHBIekYyN2d1U3d6MWZscVVaV01DcnlZYURNMTV1VjJxdlRtUU9wY3JUaXRkX1NtSWdpeklsVWFuZ0tXX1p4S0RlMnJzZVFjODJHc2VSUlI2dllMRHJiSFJKUFUyWTRhOXRJZVZMaW1k?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T19:33:06",
+      "description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers The Derrick",
+      "summary": {
+        "phenomenon": "In Hawaii, a federal judge has upheld the validity of a new climate change tax targeting cruise passengers.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Federal Judge",
+        "Hawaii",
+        "Climate Tax",
+        "Cruise Passengers",
+        "Upholding Ruling"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Federal judge upholds Hawaii's new climate change tax on cruise passengers The Derrick"
+    },
+    {
+      "id": "33",
+      "title": "화석 연료에 대한 불신? 일부 종교 지도자들이 기후 변화에 대해 목소리를 내는 이유",
+      "original_title": "No faith in fossil fuels? Why some religious leaders are speaking out on climate change - Winnipeg Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbkVPUXJ1Y2JVMDVud0lpSmpsbjVEVkpkN3RKY05PZmxsTlFraXlaUnJETFFGSkI0UE9qaGNpRGt4dHJta1lFdmZwbjNLMTAwZEUyRE5KTHRUbHNUdFpZOHZBV1pGOEZPQ3g0WjR0QnBleEY2SzdxOFRuVWdRaXhUX3V6N1d2b3MyLVRlcDg2bVVJRlhwdzF3UlV3cjNPTVNzNFd1bWZHR3lLX0xGbWM2N01ZZXhUVUh2eXh6WDAwUjFUVzE4RndSOXNocEViZVJJX0ZCRkpJNGhvX1pianVqS3o1Rng5NllQTWFORQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T09:01:05",
+      "description": "No faith in fossil fuels? Why some religious leaders are speaking out on climate change Winnipeg Free Press",
+      "summary": {
+        "phenomenon": "Some religious leaders are expressing distrust in fossil fuels and speaking out on climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Fossil Fuels",
+        "Religious Leaders",
+        "Climate Change",
+        "Statement",
+        "Distrust"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "No faith in fossil fuels? Why some religious leaders are speaking out on climate change Winnipeg Free Press"
+    },
+    {
+      "id": "34",
+      "title": "일본 나무 심기 기술, 도시 기후 변화 대응에 도움",
+      "original_title": "Japanese tree-planting technique helps combat climate change in cities - Canada's National Observer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUnZoNVUwdXlOUDFaM1VMdXg0RXNqODF6dzRLTEgwYzAtc2hRS3k2eFJETTgteW1HcTRBUlpiMzFDRVBrTTVsU3lENHBjMkpOOGtVNmJ2N0xaa044ckthZGJYSXlQbVpMaVZoUng0enNaZE9Yc3B2SHBOY05Db1U5cEl4UHh1S29IX3h4WUtIY1FncG9YQXowYQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T09:58:33",
+      "description": "Japanese tree-planting technique helps combat climate change in cities Canada's National Observer",
+      "summary": {
+        "phenomenon": "A Japanese tree-planting technique is helping to combat climate change in urban areas.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Japan",
+        "Tree Planting",
+        "Technology",
+        "Climate Change",
+        "City"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Japanese tree-planting technique helps combat climate change in cities Canada's National Observer"
+    },
+    {
+      "id": "35",
+      "title": "Best books on environment and climate change 2025: Five books that ask what it means to live on a damaged planet - The Indian Express",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHZ2WWpPUlBjUG4yMmw5ck5TSFB5ZmIwUjl3MEM4ZkN1QWF0czlDVHNiSEF6T2Yzd05CcFNYN0tqdl9kd3NfMlJrX2JEYXdOS0g4Q1FpSlFMeXRYYm55UzdRUXdGTmoxOFByQzVQVy1KUnNCbUdZRE12Rzlaa01Kb2RjZXJyTlVhWDZzM2hBZTRGQU54TFNNOVF3Q29rV21ra3gxYVVxSHZ4bkUwcUHSAbQBQVVfeXFMT1hZZVZRamo1dHZSRE56Z1c1empuWkhBMjZYY2VNcHJRdndvUVhaM000N1F0V2hHUW9qWVRxMFFpZ196VDZscVR5bENfc3pGWGpoeFFEdnhFNElPWEJ3MkEzNGwzLXJub0EyT0JBRlRxSl9NMm5aRU5hQkRaMEZOR3FGUTMtMHZqOFl5dEJ2SURVTFJ3NjI3LWRqU3lfZzBTcVkza3N6cVBob2trbHFKenY4MkN5?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-24T15:16:38",
+      "description": "Best books on environment and climate change 2025: Five books that ask what it means to live on a damaged planet The Indian Express",
+      "summary": {
+        "phenomenon": "Five best books in the environment and climate change sector for 2025 have been selected, exploring what it means to live on a damaged planet.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Best books on environment and climate change 2025: Five books that ask what it means to live on a damaged planet The Indian Express"
+    },
+    {
+      "id": "36",
+      "title": "SAAM 토웨지의 브라질 사업, 탄소중립 인증",
+      "original_title": "SAAM Towage’s Brazilian operations certified as carbon neutral - ship.energy",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZzBFYmg1eWpkd1ZveWVCdVZEV1VfOF9ocXNrM1Z4U1hYYWxCeDJPMWwzWXZJQm5jTFNIbDVpeFYyVERqZ2JQeUhsT1lIRXliVUZhUkktRzFwNEd6aGw2NnlXQy1sVjBrLVpKOG1aWm96UjBmcDAwWU1fd1I4bm93eFhQNS1UcXduVWZRUFRXS2xfTmh2MURoMmlB?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2025-12-24T10:35:22",
+      "description": "SAAM Towage’s Brazilian operations certified as carbon neutral ship.energy",
+      "summary": {
+        "phenomenon": "SAAM Towage's Brazilian operations have achieved carbon-neutral certification.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "SAAM Towage",
+        "Brazil",
+        "Carbon Neutral",
+        "Certification",
+        "Shipping"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "SAAM Towage’s Brazilian operations certified as carbon neutral ship.energy"
+    },
+    {
+      "id": "37",
+      "title": "노스캐롤라이나 크리스마스 트리 농부들, 허리케인 헬렌 이후 낙관적",
+      "original_title": "North Carolina Christmas tree farmers are optimistic after Hurricane Helene",
+      "url": "https://www.theguardian.com/us-news/2025/dec/24/christmas-tree-farmers-north-carolina",
+      "source": "guardian_climate",
+      "published_at": "2025-12-24T16:00:15",
+      "description": "More than a year after the storm ripped apart families and farms, growers are bullish about strength of their industryChristmas tree farmers in western North Carolina are still rebuilding from last year’s devastating Hurricane Helene, but growers are optimistic about business and the overall strength of their industry in the region.“There’s still a lot of recovery that needs to happen, but we’re in much better shape than we were this time last year … sales are good,” Kevin Gray, owner of Hickory",
+      "summary": {
+        "phenomenon": "Christmas tree farmers in western North Carolina, who were affected by last year's devastating Hurricane Helene, are currently rebuilding more than a year later and are optimistic about the strength of their industry.",
+        "cause": "Last year's Hurricane Helene caused extensive damage to farms and families.",
+        "outlook": "Farmers stated that while recovery is still needed, they are in a much better condition than last year, are optimistic about their business and the overall strength of the regional industry, and sales are good."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Christmas Tree",
+        "Hurricane Helene",
+        "North Carolina",
+        "Farmer",
+        "Optimistic"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "More than a year after the storm ripped apart families and farms, growers are bullish about strength of their industryChristmas tree farmers in western North Carolina are still rebuilding from last year’s devastating Hurricane Helene, but growers are optimistic about business and the overall strength of their industry in the region.“There’s still a lot of recovery that needs to happen, but we’re in much better shape than we were this time last year … sales are good,” Kevin Gray, owner of Hickory"
+    }
+  ],
+  "summary": {
+    "total_count": 37,
+    "domestic_count": 16,
+    "international_count": 21,
+    "top_keywords": [
+      "Climate Change",
+      "Carbon Neutrality",
+      "Hawaii",
+      "KEPCO KPS",
+      "Agricultural Waste"
+    ],
+    "sentiment_breakdown": {
+      "positive": 17,
+      "negative": 10,
+      "neutral": 7
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "하와이",
+      "한전KPS",
+      "영농폐기물"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
