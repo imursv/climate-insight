@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T04:32:24.822106",
+  "last_updated": "2025-12-24T08:17:16.096346",
   "available_dates": [
     "2025-12-24",
     "2025-12-23",
@@ -16,6 +16,11 @@
         "period": "morning",
         "file": "2025-12-24-morning.json",
         "period_label": "오전"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-24-afternoon.json",
+        "period_label": "오후"
       }
     ],
     "2025-12-23": [
@@ -93,6 +98,6 @@
       }
     ]
   },
-  "latest": "2025-12-24-morning",
-  "total_briefings": 13
+  "latest": "2025-12-24-afternoon",
+  "total_briefings": 14
 }
