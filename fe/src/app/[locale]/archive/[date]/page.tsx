@@ -77,6 +77,15 @@ function DetailedNewsCard({ article, index, t }: { article: NewsArticle; index: 
           </a>
         </div>
 
+        {/* Description (RSS 원본 요약) */}
+        {article.description && (
+          <div className="mt-4 md:mt-5 p-3 md:p-4 bg-[#12121a] rounded-lg border border-[#2a2a38]">
+            <p className="text-sm text-[#a0a0b0] leading-relaxed">
+              {article.description}
+            </p>
+          </div>
+        )}
+
         {/* Keywords */}
         {article.keywords.length > 0 && (
           <div className="flex flex-wrap gap-2 mt-4 md:mt-5">

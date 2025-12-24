@@ -7,6 +7,7 @@ export interface NewsArticle {
   url: string;
   source: string;
   published_at: string;
+  description?: string; // RSS 원본 본문 요약
   summary: {
     phenomenon: string;
     cause: string;

@@ -71,6 +71,24 @@ jobs:
             fi
           done
 
+      - name: Translate briefings to English
+        if: ${{ inputs.skip_gemini != 'true' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          cd BE
+          python translate_briefings.py --data-dir ../data
+          echo "English translation completed"
+
+      - name: Validate English JSON files
+        run: |
+          echo "Validating English briefing files..."
+          for file in data/briefing/en/*.json; do
+            if [ -f "$file" ]; then
+              python -c "import json; json.load(open('$file'))" && echo "Valid: $file"
+            fi
+          done
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -97,9 +115,13 @@ jobs:
           NEWS_COUNT=$(find data/news -name "*.json" ! -name "index.json" | wc -l)
           echo "- News files: $NEWS_COUNT" >> $GITHUB_STEP_SUMMARY
 
-          # 브리핑 파일 개수
-          BRIEFING_COUNT=$(find data/briefing -name "*.json" ! -name "index.json" 2>/dev/null | wc -l)
-          echo "- Briefing files: $BRIEFING_COUNT" >> $GITHUB_STEP_SUMMARY
+          # 브리핑 파일 개수 (한국어)
+          BRIEFING_KO_COUNT=$(find data/briefing -maxdepth 1 -name "*.json" ! -name "index.json" 2>/dev/null | wc -l)
+          echo "- Briefing files (KO): $BRIEFING_KO_COUNT" >> $GITHUB_STEP_SUMMARY
+
+          # 브리핑 파일 개수 (영어)
+          BRIEFING_EN_COUNT=$(find data/briefing/en -name "*.json" ! -name "index.json" 2>/dev/null | wc -l)
+          echo "- Briefing files (EN): $BRIEFING_EN_COUNT" >> $GITHUB_STEP_SUMMARY
 
           # 기후 데이터 파일
           echo "- Climate data files:" >> $GITHUB_STEP_SUMMARY

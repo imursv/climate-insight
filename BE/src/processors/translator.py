@@ -1,6 +1,7 @@
 """브리핑 번역 모듈
 
 한국어 브리핑을 영어로 번역합니다.
+배치 번역으로 API 호출을 최소화합니다.
 """
 import json
 from pathlib import Path
@@ -11,82 +12,188 @@ logger = get_logger(__name__)
 
 
 class BriefingTranslator:
-    """브리핑 번역기"""
+    """브리핑 번역기 (배치 번역 최적화)"""
+
+    BATCH_SIZE = 10  # 한 번에 번역할 기사 수
 
     def __init__(self, gemini_client: GeminiClient):
         self.gemini = gemini_client
 
-    async def translate_text(self, text: str) -> str:
-        """텍스트를 영어로 번역"""
-        if not text:
-            return text
+    async def translate_briefing_content(self, briefing: dict) -> dict:
+        """브리핑 섹션 전체를 한 번에 번역 (1회 API 호출)"""
 
-        prompt = f"""Translate the following Korean text to English.
+        # 번역할 텍스트 수집
+        texts_to_translate = {
+            "opening": briefing.get("opening", ""),
+            "closing": briefing.get("closing", ""),
+        }
+
+        # sections 추가
+        for i, section in enumerate(briefing.get("sections", [])):
+            texts_to_translate[f"section_{i}_title"] = section.get("title", "")
+            texts_to_translate[f"section_{i}_content"] = section.get("content", "")
+
+        prompt = f"""Translate the following Korean texts to English.
 Keep the tone professional and suitable for a climate news briefing.
 Preserve any numbers, references like [1], [2], etc., and emoji if present.
-Only return the translated text, nothing else.
 
-Korean text:
-{text}"""
+Return the translations in the same JSON format with the same keys.
+
+Korean texts:
+{json.dumps(texts_to_translate, ensure_ascii=False, indent=2)}
+
+Return only valid JSON, nothing else."""
 
         try:
-            result = await self.gemini.generate(prompt)
-            return result.strip() if result else text
+            result = await self.gemini.generate(prompt, max_output_tokens=16000)
+            if not result:
+                return briefing
+
+            # JSON 파싱
+            translated = self._parse_json(result)
+            if not translated:
+                logger.warning("브리핑 번역 JSON 파싱 실패, 원본 유지")
+                return briefing
+
+            # 번역 결과 적용
+            briefing["opening"] = translated.get("opening", briefing.get("opening", ""))
+            briefing["closing"] = translated.get("closing", briefing.get("closing", ""))
+
+            for i, section in enumerate(briefing.get("sections", [])):
+                section["title"] = translated.get(f"section_{i}_title", section.get("title", ""))
+                section["content"] = translated.get(f"section_{i}_content", section.get("content", ""))
+
+            logger.info("브리핑 섹션 번역 완료 (1회 API 호출)")
+            return briefing
+
         except Exception as e:
-            logger.error(f"번역 실패: {e}")
-            return text
+            logger.error(f"브리핑 번역 실패: {e}")
+            return briefing
 
-    async def translate_briefing(self, briefing_data: dict) -> dict:
-        """브리핑 전체를 영어로 번역"""
-        translated = briefing_data.copy()
+    async def translate_articles_batch(self, articles: list) -> list:
+        """기사들을 배치로 번역 (10개씩 묶어서 API 호출)"""
 
-        # briefing 섹션 번역
-        if "briefing" in translated:
-            briefing = translated["briefing"]
+        total_batches = (len(articles) + self.BATCH_SIZE - 1) // self.BATCH_SIZE
 
-            # opening 번역
-            if briefing.get("opening"):
-                logger.info("Opening 번역 중...")
-                briefing["opening"] = await self.translate_text(briefing["opening"])
+        for batch_idx in range(total_batches):
+            start_idx = batch_idx * self.BATCH_SIZE
+            end_idx = min(start_idx + self.BATCH_SIZE, len(articles))
+            batch = articles[start_idx:end_idx]
 
-            # sections 번역
-            if briefing.get("sections"):
-                for i, section in enumerate(briefing["sections"]):
-                    logger.info(f"Section {i+1} 번역 중...")
-                    if section.get("title"):
-                        section["title"] = await self.translate_text(section["title"])
-                    if section.get("content"):
-                        section["content"] = await self.translate_text(section["content"])
+            logger.info(f"기사 배치 {batch_idx + 1}/{total_batches} 번역 중 ({start_idx + 1}-{end_idx})")
 
-            # closing 번역
-            if briefing.get("closing"):
-                logger.info("Closing 번역 중...")
-                briefing["closing"] = await self.translate_text(briefing["closing"])
-
-        # articles 섹션의 summary 번역
-        if "articles" in translated:
-            for i, article in enumerate(translated["articles"]):
-                if i % 10 == 0:
-                    logger.info(f"Article {i+1}/{len(translated['articles'])} 번역 중...")
+            # 번역할 데이터 수집
+            batch_data = {}
+            for i, article in enumerate(batch):
+                article_idx = start_idx + i
 
                 # summary 번역
                 if article.get("summary") and isinstance(article["summary"], dict):
                     for key in ["phenomenon", "cause", "outlook"]:
-                        if article["summary"].get(key) and article["summary"][key] != "기사에서 언급되지 않음":
-                            article["summary"][key] = await self.translate_text(article["summary"][key])
-                        elif article["summary"].get(key) == "기사에서 언급되지 않음":
-                            article["summary"][key] = "Not mentioned in the article"
+                        value = article["summary"].get(key, "")
+                        if value and value != "기사에서 언급되지 않음":
+                            batch_data[f"article_{article_idx}_{key}"] = value
 
-                # keywords 번역 (선택적)
+                # keywords 번역
                 if article.get("keywords"):
-                    translated_keywords = []
-                    for keyword in article["keywords"]:
-                        translated_kw = await self.translate_text(keyword)
-                        translated_keywords.append(translated_kw)
-                    article["keywords"] = translated_keywords
+                    batch_data[f"article_{article_idx}_keywords"] = article["keywords"]
+
+            if not batch_data:
+                continue
+
+            prompt = f"""Translate the following Korean texts to English.
+Keep the tone professional and suitable for a climate news briefing.
+For keywords arrays, translate each keyword individually.
+
+Return the translations in the same JSON format with the same keys.
+
+Korean texts:
+{json.dumps(batch_data, ensure_ascii=False, indent=2)}
+
+Return only valid JSON, nothing else."""
+
+            try:
+                result = await self.gemini.generate(prompt, max_output_tokens=16000)
+                if not result:
+                    continue
+
+                translated = self._parse_json(result)
+                if not translated:
+                    logger.warning(f"배치 {batch_idx + 1} JSON 파싱 실패")
+                    continue
+
+                # 번역 결과 적용
+                for i, article in enumerate(batch):
+                    article_idx = start_idx + i
+
+                    # summary 적용
+                    if article.get("summary") and isinstance(article["summary"], dict):
+                        for key in ["phenomenon", "cause", "outlook"]:
+                            trans_key = f"article_{article_idx}_{key}"
+                            if trans_key in translated:
+                                article["summary"][key] = translated[trans_key]
+                            elif article["summary"].get(key) == "기사에서 언급되지 않음":
+                                article["summary"][key] = "Not mentioned in the article"
+
+                    # keywords 적용
+                    kw_key = f"article_{article_idx}_keywords"
+                    if kw_key in translated:
+                        article["keywords"] = translated[kw_key]
+
+            except Exception as e:
+                logger.error(f"배치 {batch_idx + 1} 번역 실패: {e}")
+                continue
+
+        return articles
+
+    async def translate_briefing(self, briefing_data: dict) -> dict:
+        """브리핑 전체를 영어로 번역 (배치 최적화)"""
+        translated = briefing_data.copy()
+
+        # 1. 브리핑 섹션 번역 (1회 API 호출)
+        if "briefing" in translated:
+            logger.info("브리핑 섹션 번역 시작...")
+            translated["briefing"] = await self.translate_briefing_content(translated["briefing"])
+
+        # 2. 기사들 배치 번역 (10개씩)
+        if "articles" in translated:
+            logger.info(f"기사 {len(translated['articles'])}개 번역 시작...")
+            translated["articles"] = await self.translate_articles_batch(translated["articles"])
 
         translated["language"] = "en"
         return translated
+
+    def _parse_json(self, text: str) -> dict | None:
+        """JSON 응답 파싱"""
+        if not text:
+            return None
+
+        try:
+            # ```json ... ``` 형식 처리
+            if "```json" in text:
+                start_idx = text.find("```json") + 7
+                end_idx = text.find("```", start_idx)
+                if end_idx > start_idx:
+                    text = text[start_idx:end_idx]
+                else:
+                    text = text[start_idx:]
+            elif "```" in text:
+                import re
+                match = re.search(r"```\s*([\s\S]*?)(?:```|$)", text)
+                if match:
+                    text = match.group(1)
+
+            # JSON 부분 추출
+            import re
+            match = re.search(r"\{[\s\S]*\}", text)
+            if match:
+                text = match.group(0)
+
+            return json.loads(text)
+
+        except json.JSONDecodeError as e:
+            logger.debug(f"JSON 파싱 실패: {e}")
+            return None
 
 
 async def translate_briefing_file(

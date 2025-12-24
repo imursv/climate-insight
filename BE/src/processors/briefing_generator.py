@@ -398,6 +398,7 @@ class BriefingGenerator:
                 "url": article.link,
                 "source": article.source,
                 "published_at": article.published_at.isoformat() if article.published_at else "",
+                "description": article.summary,  # RSS 원본 본문 요약
                 "summary": summary_data,
                 "sentiment": sentiment,
                 "keywords": keywords,
