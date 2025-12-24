@@ -1,18 +1,99 @@
 {
   "language": "en",
-  "files": [
-    "2025-12-24-morning.json",
-    "2025-12-23-morning.json",
-    "2025-12-23-afternoon.json",
-    "2025-12-22-morning.json",
-    "2025-12-22-afternoon.json",
-    "2025-12-21-morning.json",
-    "2025-12-21-afternoon.json",
-    "2025-12-20-morning.json",
-    "2025-12-20-afternoon.json",
-    "2025-12-19-morning.json",
-    "2025-12-19-afternoon.json",
-    "2025-12-18-afternoon.json",
-    "2025-12-17.json"
-  ]
+  "last_updated": "2025-12-24T13:44:11.753788",
+  "available_dates": [
+    "2025-12-24",
+    "2025-12-23",
+    "2025-12-22",
+    "2025-12-21",
+    "2025-12-20",
+    "2025-12-19",
+    "2025-12-18",
+    "2025-12-17"
+  ],
+  "dates_detail": {
+    "2025-12-22": [
+      {
+        "period": "morning",
+        "file": "2025-12-22-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-22-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2025-12-20": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-20-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-20-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-24": [
+      {
+        "period": "morning",
+        "file": "2025-12-24-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-23": [
+      {
+        "period": "morning",
+        "file": "2025-12-23-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-23-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2025-12-21": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-21-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-21-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-19": [
+      {
+        "period": "morning",
+        "file": "2025-12-19-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-19-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2025-12-17": [
+      {
+        "period": "full",
+        "file": "2025-12-17.json",
+        "period_label": "Full"
+      }
+    ],
+    "2025-12-18": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-18-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ]
+  },
+  "latest": "2025-12-24-morning",
+  "total_briefings": 13
 }
