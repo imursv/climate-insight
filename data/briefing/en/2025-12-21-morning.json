@@ -1,0 +1,540 @@
+{
+  "date": "2025-12-20",
+  "generated_at": "2025-12-20T23:10:13.955657",
+  "briefing": {
+    "opening": "Good morning. I will now begin the climate briefing for December 20, 2025.",
+    "sections": [
+      {
+        "title": "🇰🇷 Domestic Climate Action Achievements and Policy Trends",
+        "content": "Domestically, various efforts for climate change response and carbon neutrality are bearing fruit. aT received the Consumer ESG Innovation Award in the 'Climate Change Response' category [1], and Gochang County won the Climate Energy Award Excellence Prize, proving its status as a leading carbon-neutral city [3, 7]. Furthermore, Kim Su-kang, CEO of Solar Enerbility Co., Ltd., received the 2025 Korea ESG Carbon Neutrality Innovation Grand Prize, acknowledging the private sector's contribution [5]. In Yeongju, a forum on agricultural development strategies for climate change response was held, and the Ansan Environmental Foundation plans to continue its carbon-neutral specialized project, 'Ecomentor,' next year [2, 4]. Concurrently, the Korea Federation of Renewable Energy Organizations announced its launch in April next year [6], and Representative Kim Min-seok mentioned that AI and renewable energy projects are heading towards Jeonnam, expressing expectations for the Honam region's role in climate change response [8, 9].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ The international community's confrontation with the climate crisis and its direct impacts",
+        "content": "The international community is facing direct threats due to climate change, and its impacts are widespread. In Washington State, USA, floods have occurred [10], and analysis has also emerged indicating that climate change is already negatively impacting Americans' incomes [11]. At the summit of Mount Washington, increased crowds and climate change are burdening the environment [14], and climate change phenomena such as heatwaves, cold snaps, and pollution have been shown to increase the risk of heart attacks [16]. Notably, along with a warning that the innocent victims of climate change are suffering the most [20], concerns have also been raised that the climate crisis will accelerate food loss due to crop pests [21].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🔴 Societal Warning on Missing Climate Goals",
+        "content": "Mounting social criticism is directed at the government's inaction in achieving the 1.5-degree climate change target. Extinction Rebellion protesters strongly criticized the international community's consistent inaction on the 1.5-degree target and urged action [13, 18, 19]. Meanwhile, Opera Philadelphia is raising awareness of the severity of the climate crisis through art, performing 'The Four Seasons' set to Vivaldi's melodies, which contains a warning message about climate change [12]. This demonstrates the spread of various movements aimed at raising awareness about climate change and demanding immediate action.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 Global cooperation and clean energy transition",
+        "content": "International cooperation and efforts to transition to clean energy to address climate change are also being actively discussed. In the AI era, the necessity of cooperation between the United States and China has been raised in various fields, from health to climate change [15], suggesting the importance of solidarity among major nations for solving global climate issues. Meanwhile, California successfully reshaped itself into a clean energy powerhouse, recording peak clean energy usage in 2025 [22]. This transition aligns with the argument of a thesis suggesting a hidden positive correlation between economic viability and climate change, emphasizing the importance of clean energy transition for sustainable development [17].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlighted the progress in domestic and international climate action, alongside the deepening crisis, and the importance of international solidarity to overcome it. This concludes the climate briefing for December 20, 2025."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "aT, 소비자 ESG혁신대상 '기후변화 대응' 부문 수상 - 뉴스핌",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nS0RRV3p2X0tsWkNPandIMS1rMGdpRkM5RkFCYUtpUnJIYTRXcTk3T1hPSEJ2WHVNRTdMU0lFLXlzOW9DX1BQU29fSUFibmc1T0F4ZFNTX0dXcno0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-20T11:20:00",
+      "summary": {
+        "phenomenon": "aT received an award in the 'Climate Change Response' category at the Consumer ESG Innovation Awards.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "aT",
+        "Consumer ESG Innovation Grand Prize",
+        "Climate Change Response",
+        "Prime Minister",
+        "ESG"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "영주농업 기후변화 대응 발전전략 포럼 개최…지속 가능한 농업 해법 모색 - 연합시민의소리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Lc002ZU1vT1Rya2pSRjQ5cVhFczZ6b1lRd1N5UWNtZzl1NlNPYnp2Yzg1c1FkUG5GUW5vSzY4RThzZHlnSTN4TjlNcWdFSW5BTnhFOUZ6THMtTW44N04xbHBkS2RRUE9QVk5V?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-20T08:30:08",
+      "summary": {
+        "phenomenon": "The Yeongju Agricultural Development Strategy Forum to address climate change was held in Yeongju.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The forum will explore sustainable agricultural solutions."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yeongju Agriculture",
+        "Climate Change",
+        "Response",
+        "Sustainable agriculture",
+        "Forum"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "고창군, 기후에너지어워드 '우수상'… 탄소중립 선도 도시 입증 - 포인트데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SWVlNRDdNZmFUOHNoSFBDZHF0cGhPdXZWd0ZhY0lpUGpGT19MQnNSckp5RURheVR3bWpmbEpiR2hnWWlhcDluN0ZqMnVZT0h4RjNYUXlVZlNZS1psRTBXWTRBODBsV0hKM00zNFFmVmXSAXRBVV95cUxPWVV1RXg2THhTVzRXdU5SdlJXTFhSblB5T3ZqREJmbTE4UWljdGtaY0ZWZ0hJaGdOZFI3Rklld1lhTUxRbWNNVktKQ2p2OGNTLTZNVFBkenhMYnhyV1NMM1F6Vk5OU2JJYjNoRmN5TFlOZVVQcA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-20T18:58:35",
+      "summary": {
+        "phenomenon": "Gochang County received an Excellence Award at the Climate Energy Awards.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Through this award, Gochang County has proven itself to be a leading carbon-neutral city."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gochang County",
+        "Climate Energy Award",
+        "Award of Excellence",
+        "Carbon neutrality",
+        "Leading City"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "안산환경재단, 탄소중립 특화사업 '에코멘토' 내년에도 운영 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiTW5paGRnZXpXLVhqSXVvNU52blo3MXBVN3NqTWNrRE9GNkZmOVhWNG1lMHNtYnA5ZFZHemF5VVcta1lpV3pZZ2hBZ3M4YmR4UXNvZm5xaHJ5Ym5pWjZLTEZpb0doTEFaM3pQcTVQRVloS1lyV2Q0UA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-20T23:01:00",
+      "summary": {
+        "phenomenon": "The Ansan Environmental Foundation is operating 'Eco-Mentor', a specialized carbon-neutral project.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Ansan Environmental Foundation plans to continue operating the 'Eco-Mentor' program next year."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ansan Environment Foundation",
+        "Carbon neutrality",
+        "Eco-Mentor",
+        "Specialized Initiatives",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "(주)솔라에너빌리티 김수강 대표 \"2025 대한민국 ESG 탄소중립 혁신 대상 수상\" - 투어코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44ZzdBcDNvT0dSUXM5Qm1vaW1kR2pUNXRRSXIySFZrQ0dNSEw2aXM4TEVSMlZ2dTBPZTdPLWVXcUFRN1VXRGNMTDJ1d1dTZmtpckNaYWlZalZtZF9RVXcxcVdjWjNseFV5MElyT2Rn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-20T11:03:59",
+      "summary": {
+        "phenomenon": "Kim Su-kang, CEO of Solar Enability Co., Ltd., was awarded the '2025 Korea ESG Carbon Neutral Innovation Grand Prize'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Solar Enerbility",
+        "CEO Kim Su-kang",
+        "ESG",
+        "Carbon neutrality",
+        "Innovation Award"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "재생에너지단체총연합회, 내년 4월 그린에너지엑스포서 출범식 - 이투뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83U09NNkUyZ3hzUVgxalV5b2Rlc3VramgwZGJrcHRBYV9ubTkybVp6SHZBZEZoZzNiT2hhaW9pWlhMelNOSXpHOHF3QVRkaXJpODlGVDhZMzVSZTlVcG1ubWUydkdiZE3SAWtBVV95cUxPeTEyZG90a1N4dENyQURqbV9nckl3TXN5LURHd0oza3dpV01ab21jZ08zQ0tER2g2MS01V2RhallMLW1vTFUzQncyVHEtQlBOQXdtbmRNcW1hemRwRGFvSk1NenJ4YnBmekRucw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-20T09:29:43",
+      "summary": {
+        "phenomenon": "The Confederation of Renewable Energy Organizations is scheduled to hold its inauguration ceremony in April next year.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The launch ceremony will be held at the Green Energy Expo."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Confederation of Renewable Energy Organizations",
+        "Green Energy Expo",
+        "Inauguration Ceremony",
+        "Renewable energy",
+        "Expo"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "고창군, 신재생에너지조성 정책포럼 개최 - 전라일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42TGdFS1NYeHctU3VRc2VIZzhvOEtKaUdvX2pLNk1fdWdWWG4zeENSRUFMbEdxbXctVG5vSHR6dEtZQUtfdGk0bl9scm4xTjhaQmw4WldySjREcUpubFZhV2dpbktfNXFpNkNFUtIBcEFVX3lxTE9iWmpodGZNWW1OaldsbWtEUFdDTXRteXJ6MFRhWjVjQ0U3WWNHazhsYXJWU0JRSklkTHZ4WnNsYk9ILTlaY2JidUlyZC1kMjdiRDBoM05JOE54WkdkTkxlN3RfZndDajFTYUhVbDh5NUg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-20T08:57:13",
+      "summary": {
+        "phenomenon": "A policy forum for the establishment of renewable energy was held in Gochang County.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Gochang County",
+        "Renewable energy",
+        "Policy Forum",
+        "Holding",
+        "Formation"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "김민석 “호남 향한 李대통령 애정은 ‘찐’…AI·재생에너지 전남으로 향해” - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaeGpCWThvemlxcmR1LTc4MnJrWUw3TjVBSUMtVDJkQUhmQ2hPVHQxdzlvUVVwYnhkMnpqWmxEem0zX0Y4WHowN3lEUU1CUnpNSDBmYjJn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-20T09:50:03",
+      "summary": {
+        "phenomenon": "Representative Kim Min-seok, referencing President Lee Jae-myung's commitment to the Honam region, stated that AI and renewable energy projects are being directed towards Jeonnam.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is projected that AI and renewable energy-related businesses will be concentrated in the Jeonnam region."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable energy",
+        "AI",
+        "South Jeolla Province",
+        "Regional Development",
+        "Policy"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "김민석 \"AI·재생에너지 전남으로…호남 향한 대통령 애정은 '찐'\"(종합) - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lbS1xaUJTU1lQZ3hGem40Y2x2SGpTcVMydC1nNHFTcHZFbVJjRExIcHpPWmZ2b20xM0RKOGJZV1RSelpTaGZHZkhLem5CZ0IxX2k3czNvejloLWw0MVRV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-20T09:39:03",
+      "summary": {
+        "phenomenon": "Representative Kim Min-seok stated that AI and renewable energy-related projects are heading to Jeonnam, mentioning President Lee Jae-myung's affection for Honam.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is projected that businesses related to AI and renewable energy will concentrate in the Jeonnam region."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Renewable energy",
+        "Jeollanam-do",
+        "Kim Min-seok",
+        "President"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "워싱턴 홍수 뒤에, 피할 수 없는 기후 변화의 망령 | 존 탈턴 - 시애틀 타임즈",
+      "original_title": "Behind WA flooding, the inescapable specter of climate change | Jon Talton - The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2gtenE3VGJkU2xqZFprYkM0T19vb256ck1nWk1UbzM2aVJwMUYtVTlxVHEtQUkwRkhiUXJjcWJRZS1NeXBBYlduTnVHTjRaMXNCX0tNLWVNYXRFekExcXhpbUFIV3pWc3lnZUlKcEdzU0FxLU1paVo3Z051c2ZJZlR3WXNCLVBIYnUtREIxQzc2QVY1TWhsN1hHRDRBNGNMcDdRN0txUFpGLUlLN2Z3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T14:00:00",
+      "summary": {
+        "phenomenon": "Flooding has occurred in Washington State (WA), USA.",
+        "cause": "According to the article title, unavoidable climate change is being identified as the cause behind this flood.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Washington",
+        "Flood",
+        "Climate Change",
+        "Specter",
+        "Catastrophe"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "11",
+      "title": "기후 변화가 이미 미국인들의 소득에 타격을 주었다",
+      "original_title": "Climate change has already taken a toll on Americans’ income - futurity.org",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41Sklxck84RGRUOE5DVTgtNEcyYkhicVo2NDFVeHJRbGthNE5manZJZHlOQlJHT2daSlFoMXBPTWgxZDh3emhCdHVXcnEyN1llUG5KUXY5SFdzSnJwM1ZiS1NCOXZSdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T19:24:33",
+      "summary": {
+        "phenomenon": "Climate change is already having a negative impact on Americans' income.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Income",
+        "American",
+        "Economic damage",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "12",
+      "title": "오페라 필라델피아의 '사계'는 비발디의 선율에 맞춰진 경고성 기후 변화 이야기입니다 - MSN",
+      "original_title": "Opera Philadelphia’s ‘The Seasons’ is a cautionary climate change story set to the tunes of Vivaldi - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPejcxX1UtVDMwRnRlTmtieUI4LXRJRU9Ud01iOS03dENLaE4xQko1WG9BOHJRVWotWkJjSExwNzRqdDZZajVWc2E2VEpIVnZaR0FjalI2RkVIeHRVVDkweUxKSThKclpCM0JrZENPY1ljTzE4Y0NURmk2RDZzM3BBaW1LZVUyV1ljdUVrdE85bUJDYzNfVHV4Z0g2dUI1Vlc0WkRENDZUeWptRHFhVVNhaWJ6REY0dUpES3hqMkhVOV9qNlZjdWdPcE96SThyeG9KTXdqcUtXN1dSSXNHRlhj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T21:45:47",
+      "summary": {
+        "phenomenon": "Opera Philadelphia performed 'The Four Seasons,' set to Vivaldi's melodies, conveying a cautionary message about climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Opera",
+        "Climate Change",
+        "Warning",
+        "Vivaldi",
+        "Four seasons"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "13",
+      "title": "멸종 저항 시위, 1.5도 기후 변화 목표에 대한 무대응 비판 - MSN",
+      "original_title": "Extinction Rebellion protest criticises inaction over 1.5C climate change target - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVEJEVUdqeEtnMUl0YktZWkRvQVJjSzQzakI5RXNDWEVVdUxyT2VnVHB3YThod0x5bUJSdmQxYTItOGNJaEZhWWFyZ0VwVEdmWXV4NnUzZHZLV1JudDZwVThuZnlpTzF1Z3N1amVId2tGTlBma2N4M3RaSWJNOUxIR1Y4YndHbGZWNGNjbUtqakRDR0lVN01CVE81OWZoQ3hkVG9DTXhVa3BmRUhIODgxWFBKMWhzYUZWU0ctUFUxTmtpUzFVVE9SX2ZfR3Z0ZEJjYkNncUdNWkxzbno0bTA5VFVoUERmbkRTN1dYbV9ld0hzU2dOUW1PT25sbnExUGpEeDlmTXpDUFNqZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T19:37:43",
+      "summary": {
+        "phenomenon": "Extinction Rebellion protesters criticized the government's inaction on achieving the 1.5-degree climate change target.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extinction Resistance",
+        "Protest",
+        "Inaction",
+        "1.5-degree target",
+        "Climate Change"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "14",
+      "title": "Problems at the peak: Crowds, climate change strain Mt. Washington summit - Eagle-Tribune",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZENnemphc3BaVFAzdzhUeUpoRXRNa3N4aEJDRUpGT1RMU0o0R2FJaGpGaUFUWGRaWEtHMEZjMXVhNlE5cXZjRE9XMHo3djJSS3BPOFljNWE4LTNsRWNCQUtHQmZkZ2FDdFlGMXd6UFU1aGRJQjVka1ptR0tBQjdCQkhRZ3NnUGczX0prZ0FIdU8yMUgyeUozTWV2Qnh1d19reEpMUDVoSWwteDExWURSRGNDYXpXWllROFhiSVhxN3p0VmFYVlkxMEZyd21OUnZFcGUxNXBMY3dDUDdWWC1BSjctWTJyY0c5RHFuRG1wMWxYS2RCU1dxRXNmQnU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T16:45:00",
+      "summary": {
+        "phenomenon": "Problems are arising at the summit of Mt. Washington in the United States due to increased crowds and climate change, putting a strain on the summit environment.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "15",
+      "title": "건강부터 기후 변화까지: AI 시대 미중 협력 분야",
+      "original_title": "Health to climate change: Areas for China-U.S. cooperation in AI era - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDJNbkZYRDZwV01uZFV1VVpUNmFFQ0EtQldYRy01UnhzRG1BT3lESkZpUFg5Q0h3VVdjLVRDTm1rY0dwanFxb042X2tOTF9NaU5Xdi1NaDd3NFJDR25qNFFTUmw2RVc2clF0X0h6cEFUZXFXcVZsNEFjWVhZZ0F1eXdMNXhzdGNqbjZSYmpkaHlnUF9sajZiU2VSMFE3Q2RiSV9CSnhKYzA4R09Td0pHQ0x0ZktDdi0wSDZRU1RqSUVMUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T10:32:47",
+      "summary": {
+        "phenomenon": "The need for cooperation between the United States and China across diverse sectors, ranging from health to climate change, was discussed in the AI era.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "US-China cooperation",
+        "Climate Change",
+        "Health",
+        "AI Era",
+        "Areas of Cooperation"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "16",
+      "title": "폭염, 한파, 오염: 기후 변화가 심장마비 위험을 부추기는 방법",
+      "original_title": "Heatwaves, cold and pollution: How climate change fuels risk of heart attacks - Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY1FUd0JJRFhWbUlfWDg5QndCMVBOS0xWdUIzdU0yYnJiWUVsN04wYzFwUEhFVzl4UHNrUkJlMW04Y09fODFCanBGR2FiWEk4OUdVOEx1VFBMal9ydHhPSkZWN2RZZDFXaENma0tVYXFCTl9MOThObld0c3lrUEtXZWdTUjZxQ1NlUjY4eDVKSFREYlcyMWFWUjdsemxnRTVKLVRqSGZMbGRFeThVaFk3N0QwSFNZZHVfbS01M09PUEg2MmltSnfSAcsBQVVfeXFMTlJGQkVnZlQ3c1gxMjhkVVh6WWZQXzVqU1lZbzlkMHYzYjlCS0p5LVpFdVp3V1pIdDZ4cGxTWkM2SnRVbUV5QzFseWczeERFSlE5Q1lfVVRKTU5zdWVNb3ZnLXBUU0sxcW9tV29aTlNLYVNvVXdtZ1BSdk13dTN1VzBnWWdtcnJYdTZnNks1RnF5ZEN3X19rMEpJQ3d6NmxLaFMzZ2kzNWp0RGUzN0EydkJRU1REZDhGOTVZdDlJUWllQ1Rrdld4SnZwY1E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T12:19:21",
+      "summary": {
+        "phenomenon": "Climate change has been shown to increase the risk of heart attacks through phenomena such as heatwaves, cold spells, and pollution.",
+        "cause": "Climate change causes or exacerbates heatwaves, cold snaps, and pollution, stressing the human body and increasing the risk of heart attacks.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heat wave",
+        "cold wave",
+        "Pollution",
+        "Climate Change",
+        "Heart attack"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "17",
+      "title": "시론: 경제성과 기후 변화 사이의 숨겨진 연관성",
+      "original_title": "VIEWPOINT: The hidden link between affordability and climate change - Eagle Valley News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRlZYZXA2Q0FwVWRqZW5DZkhxRlhkWEdfZTluU3lwTVlMYkF5QzR0TXdqVzdHbDdacU12T3k5N29vei1zQ3FyNy1YT0ROTmNWbmVVX2tDZi1ta2tJYkJtOEd6clRUM0V0WW9zbGc2WkNmZEMzQldfdmhDdHpCYlR5V2FZZUlpMm1TTTlPY18tWF9tRUV3dDJuUmxBYV9YWkZsNDhOQXJRLVhjUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T13:01:19",
+      "summary": {
+        "phenomenon": "An op-ed has been published arguing for the existence of a hidden link between economic performance and climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Economic viability",
+        "Relevance",
+        "Editorial",
+        "Economy"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "18",
+      "title": "멸종 저항 시위, 1.5도 기후 변화 목표에 대한 무대응 비판 - 인디펜던트",
+      "original_title": "Extinction Rebellion protest criticises inaction over 1.5C climate change target - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdV9lcW9GUzFaYXNlLVN2dmVyOHZRbmtXdmhPTEE0TUhmWDlkWURQektQUnRsRjVZa3JURXdXaEJMNXFpUmZ5b2Rpck04aXA5VVhHUEx4d3ExYXhCbWtfMXlVNFQ5aV83Y2hVLWUtSGh6U1JjRGtTNlpKcFVhd2hULUNmYllOSDJ3UDN0am1VODRhbUU3ZlZRR19kcy1aZzZlMHB1Z3NwZ1hBbWtPcWVNSGluRzFTOHJmX2NaM3lTUl9FR1JBT1A5Sjg5SmRVSTQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T14:38:00",
+      "summary": {
+        "phenomenon": "Extinction Rebellion protesters criticized the government's inaction to achieve the 1.5-degree climate change target.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extinction Resistance",
+        "Protest",
+        "Inaction",
+        "1.5°C Climate Target",
+        "Criticism"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "19",
+      "title": "멸종 저항 시위, 1.5도 기후 변화 목표에 대한 무대응 비판 - MSN",
+      "original_title": "Extinction Rebellion protest criticises inaction over 1.5C climate change target - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2tOZWpERzhjdGpwRkJvbHVDNEZnNWxvQ21zc1pCRjlGTjNyWThla2xOOXNHdGE0aWstZWZqbWJxeHhzN1pXSjljU2FVRW5IcWM5dm9ERk1EQmR3TFV3U2VZRUV2ZGduR0lUSFc5bTV4WWZmYi1KSWxXajRtUEFVQ1E0aGdLX2RfNGV1cVFpMVRyQjlMYTc5S0hBZ0xleEF1QmpDWUVITzhYaEw0VGZuTVh6ZEZGanBCaENaWDAyN1I2UE0tZVBTS0V3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T14:25:52",
+      "summary": {
+        "phenomenon": "Extinction Rebellion protesters criticized the government's inaction on achieving the 1.5-degree climate change target.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extinction Resistance",
+        "Protest",
+        "1.5-degree target",
+        "Climate Change",
+        "Inaction"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "20",
+      "title": "DÚLRA: 기후 변화의 무고한 희생자들이 가장 고통받는다 - 벨파스트 미디어 그룹",
+      "original_title": "DÚLRA: The innocent victims of climate change suffer most - Belfast Media Group",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREZ1QnRqTV9YaERibk5naXpYVUtBeEdZb3dqT3dZcWlKTjUzYzRNdWpkbXQtcjB5M25uNWNGLXBVZ2F0N3hYZEFUQXNveFhPQXNlLW5hNlIteUMtdG55WjduOEF5Qm0tVjVkYjlsZ2w3YnE2ME5MVlQ4YVpSTERJSTdTYTI4TFB4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-20T11:10:23",
+      "summary": {
+        "phenomenon": "Due to climate change, the most vulnerable and innocent victims are suffering the most.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Victims",
+        "Suffering",
+        "Damage",
+        "Vulnerable groups"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "21",
+      "title": "‘Borrowed time’: crop pests and food losses supercharged by climate crisis",
+      "original_title": null,
+      "url": "https://www.theguardian.com/global-development/2025/dec/20/crop-pests-food-losses-climate-crisis",
+      "source": "guardian_climate",
+      "published_at": "2025-12-20T10:00:28",
+      "summary": {
+        "phenomenon": "Analysis results indicate that the climate crisis is accelerating the disruption of food supply by crop pests, and losses are expected to surge.",
+        "cause": "Due to rising temperatures, pests are reproducing and spreading more rapidly, and the current simplified food system is already vulnerable.",
+        "outlook": "Food loss due to crop pests is expected to surge, and while the world has so far avoided major shocks, it can no longer afford to be complacent. Therefore, measures such as crop diversification are necessary."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "22",
+      "title": "‘The biggest transformation in a century’: how California remade itself as a clean energy powerhouse",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2025/dec/20/california-renewable-energy",
+      "source": "guardian_climate",
+      "published_at": "2025-12-20T15:00:33",
+      "summary": {
+        "phenomenon": "California (the Golden State) recorded its highest-ever clean energy usage in 2025.",
+        "cause": "Not mentioned in the article",
+        "outlook": "As the Trump administration abandons U.S. climate initiatives, California is expected to fill that void and demonstrate leadership in the clean energy sector."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 22,
+    "domestic_count": 9,
+    "international_count": 13,
+    "top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "재생에너지",
+      "멸종 저항",
+      "시위"
+    ],
+    "sentiment_breakdown": {
+      "positive": 9,
+      "negative": 8,
+      "neutral": 2
+    }
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
