@@ -87,6 +87,10 @@ Return only valid JSON, nothing else."""
             for i, article in enumerate(batch):
                 article_idx = start_idx + i
 
+                # title 번역 (한국어인 경우만)
+                if article.get("title") and article.get("language") == "ko":
+                    batch_data[f"article_{article_idx}_title"] = article["title"]
+
                 # summary 번역
                 if article.get("summary") and isinstance(article["summary"], dict):
                     for key in ["phenomenon", "cause", "outlook"]:
@@ -125,6 +129,12 @@ Return only valid JSON, nothing else."""
                 # 번역 결과 적용
                 for i, article in enumerate(batch):
                     article_idx = start_idx + i
+
+                    # title 적용
+                    title_key = f"article_{article_idx}_title"
+                    if title_key in translated:
+                        article["original_title"] = article["title"]  # 원본 저장
+                        article["title"] = translated[title_key]
 
                     # summary 적용
                     if article.get("summary") and isinstance(article["summary"], dict):
