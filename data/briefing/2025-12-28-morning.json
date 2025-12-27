@@ -1,0 +1,519 @@
+{
+  "date": "2025-12-27",
+  "generated_at": "2025-12-27T23:10:18.089081",
+  "briefing": {
+    "opening": "안녕하십니까. 2025년 12월 27일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 글로벌 기후 위기 확산과 막대한 비용",
+        "content": "2025년 한 해 동안 기후 변화의 심화로 인한 파괴와 비통함, 그리고 회복력을 담은 수많은 사진들이 전 세계적으로 포착되었습니다 [12, 14, 15, 16, 17]. 특히 폭염, 산불, 가뭄, 폭풍 등 극심한 기상 현상으로 인해 전 세계적으로 1,200억 달러 이상의 막대한 경제적 손실이 발생했다는 연구 결과가 발표되어 그 심각성을 더하고 있습니다 [13]. 또한, 27억 명의 인구가 소고기 소비를 줄이지 않을 경우 지구온난화가 가속화될 것이라는 경고가 나오는 등, 인류의 생활 방식 변화가 시급함을 시사하고 있습니다 [1, 2]. 나아가 기후 변화는 단순한 환경 문제를 넘어 인권 위기로까지 인식되며, 여행 산업을 포함한 전 분야의 즉각적인 행동을 촉구하고 있습니다 [21].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ 지역별 이상기후 현상 및 생태계 위협",
+        "content": "국내에서는 광주·전남 지역이 하루 426mm의 집중호우와 29.6일의 폭염일수를 기록하는 등 전례 없는 이상기후 현상에 직면했습니다 [3]. 국제적으로는 유럽 전역의 스키장이 눈 부족으로 인해 운영에 어려움을 겪고 있으며 [9], 극심한 기상 현상이 조류 개체수 감소의 주요 원인으로 지목되는 등 생태계에 미치는 영향이 심각합니다 [10]. 스페인 코스타 브라바 해안에서는 어부들이 기후 변화로부터 희귀 산호를 구하기 위해 필사적인 노력을 기울이고 있으며 [18, 20], 이는 해양 생태계 보전의 시급성을 다시 한번 일깨우고 있습니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 재생에너지 확대 및 기술 혁신을 통한 희망",
+        "content": "암울한 전망 속에서도 희망적인 소식들이 이어지고 있습니다. 중국은 재생에너지 지원 정책을 통해 '선순환' 구조를 구축하며 친환경 연료 생산에서 우위를 점할 것으로 예고되었습니다 [5]. 국내에서도 김성환 의원이 재생에너지 육성 정책에 대한 일관된 추진 의지를 밝혔으며 [6], 전남 지역은 재생에너지 및 전력 여건을 잘 갖춰 AI 및 데이터센터의 최적 입지로 부상하고 있습니다 [8]. 또한, 와이엠텍과 같은 기업들이 EV 릴레이 시장을 선도하며 신재생에너지 전력 분야의 강자로 도약하고 있으며 [7], 인공지능(AI)이 지구 온난화에 맞설 수 있을지에 대한 논의가 활발히 진행되는 등 [19], 기술 혁신을 통한 기후 변화 대응 노력이 다각도로 이루어지고 있습니다.",
+        "tone": "positive"
+      },
+      {
+        "title": "🇰🇷 지역 사회의 탄소중립 실천과 행동 변화의 중요성",
+        "content": "국내 화산면 관동마을에서는 '손끝에서 시작된' 탄소중립 노력을 통해 실질적인 변화가 나타나고 있어, 지역 사회의 자발적인 기후 행동이 큰 의미를 가짐을 보여줍니다 [4]. 한편, 국제 연구에서는 종교성 수준이 기후 위기 행동에 영향을 미친다는 결과가 발표되어 [11], 기후 변화 대응에 있어 사회·문화적 요인과 개인의 가치관이 중요한 역할을 한다는 점을 시사합니다. 이는 기술적 해결책과 더불어 시민 개개인의 인식 변화와 행동 실천이 기후 위기 극복의 핵심임을 강조합니다.",
+        "tone": "positive"
+      }
+    ],
+    "closing": "오늘 브리핑은 전 세계적으로 심화되는 기후 위기의 현실과 그로 인한 막대한 비용, 그리고 지역 사회와 기술 혁신을 통한 희망적인 대응 노력을 동시에 조명했습니다. 지속적인 관심과 행동이 요구됩니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "27억명이 소고기 줄이지 않으면…지구온난화 경고 나왔다 - 서울En",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRnJYSmZvc200cnIxcEwtZGp3MFhhd0lmNEtCSU1jOFk0bi1UY1VNQ3FDN2ZRSndiYTlhQzNKV2EyWHVVUWRHVExtdUJDRUxENHRPV01QREZPZ0FxYWFIb2JtUEM0SXR1NVBENERDd3haZmVhZWpsbFUyOWlENXh2WA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-27T22:47:38",
+      "description": "27억명이 소고기 줄이지 않으면…지구온난화 경고 나왔다 서울En",
+      "summary": {
+        "phenomenon": "27억 명의 인구가 소고기 소비를 줄이지 않을 경우 지구온난화에 대한 경고가 나왔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "지구온난화",
+        "소고기",
+        "경고",
+        "27억명",
+        "식단"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "27억명이 소고기 줄이지 않으면…지구온난화 경고 나왔다 - 서울신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BTWRLVndzWU5qNENWLTFVXzFWUXpHem1DM2JnLUxnWFhuTFBaSGlCUXRfYl84RXYxaTJCeXEtakpsZjRxdjUzRklhQzBZTE9PWkp0aXZLb0FMMHVkMzlqWEp0eEMyd3NLTTVyUXdMSkNjMUxvR0Zr?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-27T22:47:38",
+      "description": "27억명이 소고기 줄이지 않으면…지구온난화 경고 나왔다 서울신문",
+      "summary": {
+        "phenomenon": "27억 명의 인구가 소고기 소비를 줄이지 않을 경우 지구온난화에 대한 경고가 나왔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "지구온난화",
+        "소고기",
+        "경고",
+        "27억명",
+        "식단"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "하루 426㎜ 물폭탄·폭염일수 29.6일…이상기후 직면한 광주·전남 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01NWVJTTZXekFOUDhvYW5aSEd2cURiT0FIVkVHUkEySHVLZkJxOFBNcE43ZXVmb3Y2cXBWMHJ0WVFCbkVfNHdNalgwX2VuZ2NIU2lFcGhqSUhybGRqNVc0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2025-12-27T22:00:00",
+      "description": "하루 426㎜ 물폭탄·폭염일수 29.6일…이상기후 직면한 광주·전남 뉴스1",
+      "summary": {
+        "phenomenon": "광주·전남 지역이 하루 426mm의 집중호우와 29.6일의 폭염일수를 기록하는 등 이상기후 현상에 직면했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "물폭탄",
+        "폭염",
+        "이상기후",
+        "광주·전남",
+        "극한기후"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "[기고]손끝에서 시작된 탄소중립, 화산면 관동마을의 변화 - 데일리저널",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENWxNM3lxRHdsZ3lIRDMtOGxIdWRLZnBOeXNZUHBaaFVBTkFhenA0eThIZ3dJemNFWW9CN1BISDMyNjB6eGRlbDZKYU5rcDZ0b1RROTd1dHpRUTJCcEw0NS1FeTFDMlJZd1E?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2025-12-27T15:03:27",
+      "description": "[기고]손끝에서 시작된 탄소중립, 화산면 관동마을의 변화 데일리저널",
+      "summary": {
+        "phenomenon": "화산면 관동마을에서 '손끝에서 시작된' 탄소중립 노력을 통해 변화가 일어나고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "관동마을",
+        "변화",
+        "지역사회",
+        "개인실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "중국 재생에너지 지원정책이 '선순환' 구축, 친환경 연료 생산도 우위 예고 - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MZ09FSjlUNWd2ajFlczBTbDBzRXdNNElFUGI2dzJJYjhFTVVEMW5scmdUYjNzSTh2enNxbFZ0STRSVE5CZkpFdGNKME1zQnBjVmgxbkQ3QXdJLXJoZkpOSXpKT2t2T1lEMG9NT21jZkh6T2c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-27T21:00:00",
+      "description": "중국 재생에너지 지원정책이 '선순환' 구축, 친환경 연료 생산도 우위 예고 비즈니스포스트",
+      "summary": {
+        "phenomenon": "중국의 재생에너지 지원정책이 '선순환' 구조를 구축하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "중국은 친환경 연료 생산 분야에서 우위를 점할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중국",
+        "재생에너지",
+        "지원정책",
+        "선순환",
+        "친환경 연료"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "김성환, 재생에너지 육성, 배반 안 할 것 \"일관성 주면 비행기는 뜬다\"[기후로운 경제생활] - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HT0tJVms5ay01T194eXlMeGFOOEpwV0RTTDFtMmZwZDdlWU1MYlFnRVllV1hxX1llWkRYdGYxbkhhUEpWWlFxUFBZMHJMb2QzOVRJ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-27T20:02:00",
+      "description": "김성환, 재생에너지 육성, 배반 안 할 것 \"일관성 주면 비행기는 뜬다\"[기후로운 경제생활] 네이트",
+      "summary": {
+        "phenomenon": "김성환 의원이 재생에너지 육성 정책에 대한 일관된 추진 의지를 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "정책의 일관성이 유지될 경우 재생에너지 분야의 발전이 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김성환",
+        "재생에너지",
+        "육성",
+        "일관성",
+        "기후로운 경제생활"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "와이엠텍, EV Relay 시장 선도…신재생에너지 전력 분야 강자로 도약 - 핀포인트뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9maWMxdk5jVTRQbUtRRVRnMGFreWxhT1JrQXVnV29vSENYZFBlcGJubjcxNVBjTjUyLXRkenFHLWt3NHM2WEdydkFLZmVVRjNPb2pVbzl1Y3NyaHk1MEEyTFpwVnJIdnkzck1udVpnVTNuckHSAXdBVV95cUxQM0JuZkIwNEQ5VFBQWEthVFpFQ0duNUItWDV0aEp2bUh5Uk5UWGhnLWtJQ3AzZFVpN2x3YnhjQWpYWFFFUnBqMzJwOEtRRlc0Nk1wUWR3bE9lMUZwNkUxdXI4emx6bDhZSmdPOEs3Z1NiaWFWaHZjSQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-27T10:46:33",
+      "description": "와이엠텍, EV Relay 시장 선도…신재생에너지 전력 분야 강자로 도약 핀포인트뉴스",
+      "summary": {
+        "phenomenon": "와이엠텍이 EV 릴레이 시장을 선도하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "와이엠텍은 신재생에너지 전력 분야의 강자로 도약할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "와이엠텍",
+        "EV Relay",
+        "신재생에너지",
+        "시장 선도",
+        "강자 도약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "재생에너지·전력 여건 갖춘 전남, ‘AI·데이터센터 최적 입지’로 부상 - 열린정책뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0wR3VzbFdSR2RWT1BTRE1vVkpHeVJOelhjNWw1YmRTVnhvZ3VHVTdySFVrN0taaDRKNXNKRklSMTcwWkdaSEtaYVB4OXVVWEJ2WlQ2b1VNbWltdXVNNzljbk9aV2poZmxpZXEw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2025-12-27T08:50:20",
+      "description": "재생에너지·전력 여건 갖춘 전남, ‘AI·데이터센터 최적 입지’로 부상 열린정책뉴스",
+      "summary": {
+        "phenomenon": "전남 지역이 재생에너지 및 전력 여건을 잘 갖추고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "전남은 AI 및 데이터센터의 최적 입지로 부상할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남",
+        "재생에너지",
+        "전력",
+        "AI",
+        "데이터센터"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "Climate change leaves ski fields skimpy across Europe - DW",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdldGUUVCYlNOX2VRaWhSbkh4Y3ZZTkRSUFVPWmQweTBpNlBnREZ0Rk1MMmswYTdrQjg1ZDlRRjJDb0RUbGlVenBWRjFETXZvV3l6Nk1hb0FNRU5QcDhRR1k4eVZaWWUzNDB6aDRvVFFKaU9fQUNiTzFnUFZWN0FYV3poTzVJOHl2X3BkbUg4RQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T16:58:14",
+      "description": "Climate change leaves ski fields skimpy across Europe DW",
+      "summary": {
+        "phenomenon": "유럽 전역의 스키장이 눈 부족으로 인해 빈약해지고 있다.",
+        "cause": "기후 변화로 인해 발생했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "10",
+      "title": "Studies: Extreme weather fueled by climate change is adding to bird declines - The Invading Sea",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlRLSE1DenVPc29ReW1LYTZYVVNNaEFWS0tPeW1GOWlNcHlPOFZHSC1QQkg0T1ZvdEcyYUZMeF9KWkhZLUxYb3FPZWNWNkpVQU0zYnZkSGxiZ05jYXhaVDZnM1hhdEM3VnN5NWUzT2twcFBCMHVYMzMxSW44TF8yRFB4MHk4WDNuTmN5cHlsYndtNXg4SVE2aDBRdjc1akkzRDdpTzZYTFFqbU42dHFZS2VzSWpGOU4tbkVpTUVhbmZGSHdpeHFhQks4MjI?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T13:48:06",
+      "description": "Studies: Extreme weather fueled by climate change is adding to bird declines The Invading Sea",
+      "summary": {
+        "phenomenon": "조류 개체수가 감소하고 있다.",
+        "cause": "기후 변화로 인해 심화된 극한 기상 현상이 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "11",
+      "title": "종교성 수준이 기후 위기 행동에 영향을 미친다 - 더 예루살렘 포스트",
+      "original_title": "Religiosity level influences action on climate crisis - The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hcGJ6bHRKWjB2cHI4OG0wN3k1WnpqYlhjUnY0ajVFeFI3bzZ2N1l5N0NpemhoNkFyRV9tVzU0cU8xdG5obTZNMDJ6QjFKaUZteGlUVF9DUVFmeW80NnZTSkNxQUp0REhhcE1Eak02UVI2TVBUeUE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T22:10:40",
+      "description": "Religiosity level influences action on climate crisis The Jerusalem Post",
+      "summary": {
+        "phenomenon": "종교성 수준이 기후 위기 행동에 영향을 미친다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "종교성",
+        "기후 위기",
+        "행동",
+        "영향",
+        "관계"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "12",
+      "title": "2025년 기후 변화 심화 속 파괴, 비통, 회복력을 담은 사진들 - 로어노크 타임즈",
+      "original_title": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWTJ0THFBWnM2RGpyVXpOMDQzUGpLVFFXUkRNWWVnU0FISnFTSG02SjNnRzJXZFR5WnNGUlFYU3hlYzB6S2JNbUQ4MWl1b0ExRFRWbXp3R3czQURTbFhEcG9GcmVEZVczNjgyT0ROelN1TllSaElDSzFReUc1cVA3UlRRR0YzUm9lYWJsd01BTmQzeWZleXdsRkwwM2wzT0U?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:30:00",
+      "description": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Roanoke Times",
+      "summary": {
+        "phenomenon": "2025년에 기후 변화가 심화되면서 파괴, 비통함, 회복력을 담은 사진들이 포착되었다. (구체적 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기후 변화의 심화가 이러한 현상의 원인으로 지목되었다. (과학적 원인/배경은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "파괴",
+        "비통",
+        "회복력",
+        "2025년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "13",
+      "title": "The real cost of climate change: Heatwaves, wildfires, droughts and storms cost the world more than $120 BILLION in 2025, study reveals - Daily Mail",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM1JybWJiV3dBWU9MR0VvMThGUXlmczVHemJfRzd3T2p3VTYtbTljSG5PUDRRdFBZc2hiVVlOQWp2cDBjWmhTTDVLSHZrckpOWVpKUFhJLVlHckxfejE0MzhIS2ktTk5KdnhkbTRGTUI2b1E0ZFF2OE9uVElaU2YyY3kzRkJVTzJFMVNSLWl0WlB6dHhJWlVsMdIBngFBVV95cUxNQ3VjcEl1eHNYdzR5QVp0ZGNjcjV0MmtZZm1lZkl6bFV2dmxMSmNaSkItTDRVMGR3Z0dGMFctX2huMmZlQXJnbVJGbVN6Z2t2RzgycncyTXMyVGFselZqVHljaWpFNkpfNzFRLXkzMUFiR2NUZ0owalB6bkV5OE93RGFjYXljbF9MUC12QVZlSFEtb0pXZnBSNktrZUhGZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T13:54:47",
+      "description": "The real cost of climate change: Heatwaves, wildfires, droughts and storms cost the world more than $120 BILLION in 2025, study reveals Daily Mail",
+      "summary": {
+        "phenomenon": "2025년에 발생한 폭염, 산불, 가뭄, 폭풍으로 인해 전 세계적으로 1,200억 달러 이상의 비용이 발생했다는 연구 결과가 발표되었다. (구체적 지역은 기사에서 언급되지 않음)",
+        "cause": "이러한 현상들은 기후 변화의 실제 비용으로 제시되어, 기후 변화가 그 원인임을 시사한다. (과학적 원인/배경은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "14",
+      "title": "2025년 기후 변화가 심화되면서 파괴, 비탄, 회복력을 담은 사진들",
+      "original_title": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 - The Beatrice Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVNiVUVLeEtvLWxJS3BpcENCT0JaNXlXYnRBLVNwbXNpaENCTnZHREQ2QkltQUU0N205Q2ZjT1puaGMtejQ4UjZBdXBlcmdCZ2szcEdGZ1FNbEU4OFJ6RTBKQi1oM2gyMUFfWVRxNEZTVElBZmFDRzhpeVJpbzNIY3g5cWxiNktyY3Q0UHd1U0ZfaVVNcDk5OERPWmZjai1RMnp4TndabUxGTWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:30:00",
+      "description": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 The Beatrice Daily Sun",
+      "summary": {
+        "phenomenon": "2025년에 기후 변화가 심화되면서 파괴, 비탄, 회복력을 담은 사진들이 포착되었다. (구체적 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기후 변화의 심화가 이러한 현상의 원인으로 지목되었다. (과학적 원인/배경은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "파괴",
+        "비탄",
+        "회복력",
+        "2025년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "15",
+      "title": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 - Corvallis Gazette-Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSDQ4c3UtbHAwaE80SEd4MTBsVXhjbUJlTGRDQjJjMVVsQ0JoMFd5ZzNWcF9obnZzWVh5Y0lQLVJabUZwR1dfRHN6UUl2QXpRTEc4b25xS0VPak5DQXN4WTVmQkp1ZkxQUGxxakw2SHZIWEV5M1RDZDBMcXhNNkxUZFlCeWYyUnVfUVc3S0ZjZnNXQTJMNm54c0xvVFpTZ0RtUWF1VGVn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:30:00",
+      "description": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Corvallis Gazette-Times",
+      "summary": {
+        "phenomenon": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Corvallis Gazette-Times",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "16",
+      "title": "2025년 기후 변화가 진행되면서 파괴, 비탄, 회복력을 담은 사진들 - 무어스빌 트리뷴",
+      "original_title": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 - Mooresville Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSS00S0FBR3BpRHI3V0RoOXJKV3daaTBrb0xCVmdRc0hLT19VTVp3SERvVURYeVNFS0RFNlYwZHJoUUZWdHNYakE3TDhIdmJBYnRHbFZBcFkycDNFQzI1dGlWeVU4b0dkRjNWbmlvZ0RfUVV1cnhhY0Zjd1cxWlJnUFFtVkY2Ui1YdWpzRVd6TERmbnNVWGVWa1F5bjB4UHhIREg5d2dRdTZfcU42Y1E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:30:00",
+      "description": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Mooresville Tribune",
+      "summary": {
+        "phenomenon": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Mooresville Tribune",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "파괴",
+        "비탄",
+        "회복력",
+        "2025년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "17",
+      "title": "2025년 기후 변화가 심화되면서 파괴, 비통함, 회복력을 담은 사진들 - 와후 신문",
+      "original_title": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 - Wahoo Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSEY2SllDaVl0VjI5ZHJ3dE42MWE5R2hQel96ZHQ1dVpTX2tHeWc5YTZmUkk3SHJKNkx1cjAzeGtRQS1VcjEtM2NiTXhKeU90Ul9ISWV0SnYtYXo0ZXpzVXVQR0FjNXU1d1U0NnNRNnBYSktDaXNOT1dOXzI2OEZaWVQ0RHNBcG1RVnRPM0NKMDVsWmJOTDBVQThieFFBUXRXRE5CRlJkbmhDOVppU2NKQnRB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:30:00",
+      "description": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Wahoo Newspaper",
+      "summary": {
+        "phenomenon": "Photos capture destruction, heartache and resilience as climate change advanced in 2025 Wahoo Newspaper",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "파괴",
+        "비통함",
+        "회복력",
+        "2025년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "18",
+      "title": "‘우리 바다는 미래를 가질 자격이 있다’: 코스타 브라바에서 기후 변화로부터 희귀 산호를 구하기 위해 싸우는 어부들 - 인디펜던트",
+      "original_title": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMnRwWEM3azdmZlpNbkpJVDNRZGZwbm5BcVpVZ1Nub2FTend4d2hJaHRyWXJpeTJqZkE3dGRvRjNraTBfSlkyQ3lVQWdTWTAtR2Y2UUUxcWRLQWlPM21MR3lUZjV3MFZwMHBMN3Q2bi0ycWc2NUZ5UFhCWXNYV3hEUWJ1bTI3Tl85anhvV2paZHQ2MnpsYnNrM1A2bHk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:49:00",
+      "description": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change The Independent",
+      "summary": {
+        "phenomenon": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change The Independent",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "어부",
+        "희귀 산호",
+        "코스타 브라바",
+        "기후 변화",
+        "해양 보존"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "19",
+      "title": "AI X climate change: Can advanced intelligence combat global warming? - The Manila Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS3QzTHlNMjVDVTRpOThldTNSNnVSVE04ME0wWTNNVjR3UEd1Uk9BU1hqdkxfZE9VUGpPODVlQTVMTzhOSmxPNTV6amhScUhfcHQ1WWFXeTlIMi1YQ3dOQkY0QU1oT2diVG9aeDNWeUN5UHo2dW9XV1NLUGZuU3JOUFN3Z3p3UzBjWWdoV3Z2bExUb1JmdDJIRnNiQ052SWdjMkVMeHRQamlDX2hIaGF3SEJGc0dOS0JHMjRDdl92S3lyZGNxNjFVTTlCdGpoTTJaWHlJZjVzclFnd9IB3wFBVV95cUxPOTR2LW5EQVNvalZKUTRCcGp2Ti1hTTZEc2lHVTg2VUx2SU9TY2NoNEFlZ0NOUFFVQ1NETi1MdGl5UmdCMUdXOGw4RzFMRUh1Nmxpb3BQdC1ZaG9tTzVXUl91SXY5VEw0ajY4dXltYmtsT0RwOVpUSXY0SXNseThpUmwzWGt4MEFwQ3lUNXhtaE1vNFRyLTRxUU0ybFpCNHdmcTRYZC16VXVuZ1hVSjBhUlBVSlBCaEluLVdSN0M0Vk5QUnNOREJHejNwcWpRUFoxZE8tNkw1RmVtMzJ6NExn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T16:05:00",
+      "description": "AI X climate change: Can advanced intelligence combat global warming? The Manila Times",
+      "summary": {
+        "phenomenon": "AI X climate change: Can advanced intelligence combat global warming? The Manila Times",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "20",
+      "title": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change - Yahoo News UK",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2VGNkRONTFueUltOVdncktnVUZJQTBKNWZrdUVibUFpNTZ5OVJjOV9WOS1CN0oya1V5TU4xVXBkT0RPQ1ZsVW1XSnhHVFFnUWFwTVMzVlE0Z1kyZmlHX0E1NnZaNXBQUlc2NDlqODJkS2puZzJ6cVJhQ19tRk9HSHB0YVNVdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T14:49:04",
+      "description": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change Yahoo News UK",
+      "summary": {
+        "phenomenon": "‘Our sea deserves a future’: The fishermen battling to save rare corals on the Costa Brava from climate change Yahoo News UK",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "21",
+      "title": "기후 변화는 인권 위기이며, 여행 산업은 행동해야 한다",
+      "original_title": "Climate Change Is a Human Rights Crisis—And the Travel Industry Must Act - eTurboNews",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0tQTEJ4WmJRdWVyQWVVbjlFTlU2NEEySm85NTFYMXl3QjhwdHBlMVpjVzVtN1BKZlM1bGlQeHBlSlNYRHMxc2w0RWlLMDdzdWhPUndMckVTalpVMGhobUw2VXlDX190aFVuVE9qSG40MkQxdFY2U21wTTdCOXBDUnVlVWRZc0JmTUF6d1gwLXZvd0VRdmw1cHRVZTg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2025-12-27T10:31:35",
+      "description": "Climate Change Is a Human Rights Crisis—And the Travel Industry Must Act eTurboNews",
+      "summary": {
+        "phenomenon": "기후 변화가 인권 위기로 인식되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인권 위기",
+        "여행 산업",
+        "행동",
+        "위기"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 21,
+    "domestic_count": 8,
+    "international_count": 13,
+    "top_keywords": [
+      "기후 변화",
+      "파괴",
+      "회복력",
+      "2025년",
+      "재생에너지"
+    ],
+    "sentiment_breakdown": {
+      "positive": 5,
+      "negative": 9,
+      "neutral": 1
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
