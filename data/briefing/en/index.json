@@ -1,7 +1,8 @@
 {
   "language": "en",
-  "last_updated": "2025-12-30T08:19:44.848723",
+  "last_updated": "2025-12-30T23:16:20.872306",
   "available_dates": [
+    "2025-12-31",
     "2025-12-30",
     "2025-12-29",
     "2025-12-28",
@@ -35,6 +36,13 @@
         "period": "full",
         "file": "2025-12-17.json",
         "period_label": "Full"
+      }
+    ],
+    "2025-12-31": [
+      {
+        "period": "morning",
+        "file": "2025-12-31-morning.json",
+        "period_label": "Morning"
       }
     ],
     "2025-12-26": [
@@ -177,6 +185,6 @@
       }
     ]
   },
-  "latest": "2025-12-30-afternoon",
-  "total_briefings": 26
+  "latest": "2025-12-31-morning",
+  "total_briefings": 27
 }
