@@ -1,16 +1,16 @@
 {
   "date": "2026-01-04",
   "metadata": {
-    "collected_at": "2026-01-03T23:10:59.308324",
-    "total_articles": 28,
+    "collected_at": "2026-01-04T08:09:07.490948",
+    "total_articles": 54,
     "sources": {
-      "korean": 12,
-      "international": 16
+      "korean": 32,
+      "international": 22
     },
     "sentiment_distribution": {
-      "positive": 9,
-      "negative": 7,
-      "neutral": 6
+      "positive": 26,
+      "negative": 12,
+      "neutral": 8
     }
   },
   "articles": [
@@ -707,6 +707,672 @@
           "뉴스"
         ]
       }
+    },
+    {
+      "id": "b67181d6a69a7e29",
+      "title": "고등어 귀해진다…기후변화로 어획량 줄고 노르웨이 공급도 '뚝' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GV2lkSC1veVd5NHJWdWs2UW1sZEE0T1A0Z2JXWkRfbjN1SHdINThFZGhwYXp0R2NjZlJrV0V5V3c0aE0ybjhMQzdNalNScXRUbzg4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T00:37:00",
+      "collected_at": "2026-01-04T08:05:53.153617",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "고등어",
+          "기후변화",
+          "어획량",
+          "노르웨이",
+          "공급"
+        ]
+      }
+    },
+    {
+      "id": "8057998e2fdedff2",
+      "title": "서귀포시, 엉또공원 기후대응 도시숲 1단계 조성 완료 - 시사종합신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DMFVTRVJaNHhZWTJ3SUVXWGFlYWFMVURzR0QxNU5lSmJmZnk1bFh3NzNxTjV3WGR0T1Zza2JTellMRzBWa2l3eWx2MHpOMHgyUkxMRmo1eVh6SWZxY0l4Z09lWWlvNTJQTjBucg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T05:33:48",
+      "collected_at": "2026-01-04T08:05:53.154205",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서귀포시",
+          "엉또공원",
+          "기후대응",
+          "도시숲",
+          "조성 완료"
+        ]
+      }
+    },
+    {
+      "id": "1b02c2cab4c8a56b",
+      "title": "'역대 최대' 기후대응기금 운용 기후부로 이관 \"탄소중립 이행 뒷받침\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CSEpHWHBURXpqVzNJbU9ybGptSFo4eWtRNzJzWU05bm1QbGVnb2hTSHlnRGV3bGZOVGF3QUhkMG8xOVhGWi1YWjFvMW45eGFZbURn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T03:01:00",
+      "collected_at": "2026-01-04T08:05:52.991747",
+      "keywords_matched": [
+        "탄소중립",
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후대응기금",
+          "기후부",
+          "탄소중립",
+          "이관",
+          "역대 최대"
+        ]
+      }
+    },
+    {
+      "id": "163d3422ee818b26",
+      "title": "국가철도공단, 탄소중립 실현 위한 ‘그린레일 챌린지’ 개최 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpU1FXd2EyRFhmdjVtekRNRXhaR2szeDNRZ1hKSmVndjlnVVF1WlVzSDBKczRWUVNlaW4wdGxMOWRUWjd2N0oxYjhxNE5pNDVoWXQ5ZXl6SHk3YnJESkU2a2Nyb2tnOTJhSWxQUdIBcEFVX3lxTE8tR0hzbTI1amNpRFZPeVduSUk1dGd2UGlNcC1wS2ZFQmRXRTY4SEhEWWp1QU5CbUp6dVQyckI1LU8zQUlybEdRb0JmaDRCeWRqNTVUd1dtZFhCamJVU2lsaFAwQVZLOGdUSDZGOExoOUI?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T04:31:01",
+      "collected_at": "2026-01-04T08:05:52.991858",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국가철도공단",
+          "탄소중립",
+          "그린레일 챌린지",
+          "실현",
+          "개최"
+        ]
+      }
+    },
+    {
+      "id": "65de223ae621b58e",
+      "title": "국가철도공단 ‘그린레일 챌린지’ 탄소중립 아이디어 공모전 - 중부매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBidXJPa3UydEZyNEpPTWZDaU9MQld5TGhqREl3WGZWcVJlZTR5UHV5MUZtdmU0QURMZTB1UTl0TEZrTUtPZzJ1Mjc5SUViN2E0LUJqS1RfV0J5VmgtUnRRY0sxLUVaVkY1WlHSAW5BVV95cUxOTTVDejdUSDJ4SHhiWVFaSUFhZjVvbFRrbFc5YU5UT3ZrMkVPZ0NvSnVtNld3OXh4VzJrckoxTXVoVk94aEJwRUh3ZVJ0YkI0OWczWWtpY2tialBSVzdlang1Sk5ZSjlDbXh4MVlLUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T05:00:40",
+      "collected_at": "2026-01-04T08:05:52.991929",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국가철도공단",
+          "탄소중립",
+          "아이디어 공모전",
+          "그린레일 챌린지",
+          "철도"
+        ]
+      }
+    },
+    {
+      "id": "fab8a6f91a165ec1",
+      "title": "역대 최대 기후대응기금 운용 기후부로 이관 탄소중립 이행 뒷받침 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FWXdONzloRjhhZXNSQkxxZkc0bjNaanZIaTNXMHZyUEpqNG1BajRjLXJ6XzZaQ3NyMEYtZlJOMERJenZEc0oyMnpCVlpRWjEtVzFTMFE4TnBTZ9IBWEFVX3lxTE9hYlhUZUhmRjBEU1pYX3ctRjVfdWgyTXd2VXlxWWl5Mi02TXB0Y0gwZ18xT3g1LUl0RDUzLXowYVRYZzk1ckxVSzhUMWd2U1F2MDFPQlRLTVM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T03:00:00",
+      "collected_at": "2026-01-04T08:05:52.991958",
+      "keywords_matched": [
+        "탄소중립",
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후대응기금",
+          "기후부",
+          "이관",
+          "탄소중립",
+          "역대 최대"
+        ]
+      }
+    },
+    {
+      "id": "f24b05bb4c612953",
+      "title": "[탄소중독에서 탈탄소로] 효성화학 넷제로 ‘선언’보다 공정부터 손본다 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Lc0dHYlNteUpmZTNxbVNGQXkwNk1kSjdnT2JNOVJOTlhtSHd2Z0hRejNGUEhSQkpMOVR4SXh4aHJTSFNCOENvVnVsQncxVndmNHItVnlTRnVHNnp3V3k4ZU94SWU1LWxRVHhLczBreUbSAXRBVV95cUxOTE8wMVVDVHduTndpWExON3VNWWhLalUzQUJURENqNGx3UmVXSnBXbGpsT1o2WUhiZUhXR3ZrQ1JGWEFheXdRaEVuQ09wUVZDeTVUdEpUQ20wSXRwTElqZTFYejZVb2thTWFiQkdoTnNoWXBROA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-03T23:33:33",
+      "collected_at": "2026-01-04T08:05:52.992074",
+      "keywords_matched": [
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "효성화학",
+          "넷제로",
+          "탈탄소",
+          "공정 개선",
+          "탄소 감축"
+        ]
+      }
+    },
+    {
+      "id": "18f49dec6754f46d",
+      "title": "재생에너지·원전 조화 강조한 정부…‘에너지믹스’의 미래는?[이영민의 알쓸기잡] - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlNlUGJBa0VvMjlRTnNLUXM5a2NlTEpHVTdaU1F3Ym9NZHBKWi1UNlR5ckFXOGlEZmdiSE56UW9Ta0ZZVjh1TWFPelZUUndMQ0JLbVIxX3ZwQUFNXzNnbzJLSFdESkJtTDFSMmxKNk5Va2Y4NHpPYmtyTWJLQ09XRw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T00:20:00",
+      "collected_at": "2026-01-04T08:05:53.275987",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "원전",
+          "정부",
+          "에너지믹스",
+          "조화"
+        ]
+      }
+    },
+    {
+      "id": "e4b5967c1499ef56",
+      "title": "강임준 군산시장 \"대한민국 재생에너지 수도로 도약\" - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mZVRIdmRXdmt3aVlJZFVFeEFocEJfcU9kWEtqTzFFaVVubkx3NFdiRGdtZFowSm1pT2FDeGVfV20wX1FqZ3ZGYjAxdGZhSVVSWFJQZ1hVU3VKbldORUx1ODJVcDdLNjlBWkxJWDk3cVU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-03T23:27:34",
+      "collected_at": "2026-01-04T08:05:53.276078",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "강임준",
+          "군산시장",
+          "재생에너지",
+          "수도",
+          "도약"
+        ]
+      }
+    },
+    {
+      "id": "06e369fdc2d2d453",
+      "title": "충남도, 공공 유휴부지 재생에너지 추진 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jNTd0OWhoUDkzRnJqUjZwdUN4dm5BSmFneG1nM3RaY2tMX3BhZ1pZazFfSFUtMTlaWnJRdU1iR3R4bER2a0tPRW9DeGhOZWU0Z3A0V0Zod1dWLTVIWGFPa0h6dHJFUHZ1UzlYNnl3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T05:39:15",
+      "collected_at": "2026-01-04T08:05:53.276162",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "재생에너지",
+          "공공 유휴부지",
+          "추진",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "c6b10eaeb6a12bd7",
+      "title": "충남도, 재생에너지 설치 시범사업 본격 추진 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OLVJWaHNQZk5ya0FEWU9oS0RLQTZ2ZklXVVlrWndBSWdubjA0cC1ORHZGM0xFcWU4N1dpSnhOeDV5RkxMUm1MblJZWk14YkM0SUhWc3BBbFFGVlBQaF9JMkl1Rm1EN1VrdDd2UDdfcmFGLTR0UnfSAWZBVV95cUxPZ05DcmQ5ckdNRzE3WW1yRnAxNDdzNkx4elh0ckI4UldnZUZpNlRQLVhJczBiRVhYUXpfUy1xM2ZybTFRNEdkME5SUkVMTk4tdTdRNWNMaUlyb01YaGYwajlEdk92WEE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T03:35:00",
+      "collected_at": "2026-01-04T08:05:53.276187",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "재생에너지",
+          "설치",
+          "시범사업",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "62d39b7be24bd0df",
+      "title": "충남도, 삼성디스플레이와 손잡고 재생에너지 시범사업 가동 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zblVxMHJzbThvbkszT2FqOHlCZ2RVYV9UMFhvWnZBbVM1eWVjRkVLS19iaG5PQnBsRmx2NHFjZFJXc0F6Qjg3Q2NVTHVjdVl3ZGpSNXFCQ0RsZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T01:30:00",
+      "collected_at": "2026-01-04T08:05:53.276211",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "삼성디스플레이",
+          "재생에너지",
+          "시범사업",
+          "가동"
+        ]
+      }
+    },
+    {
+      "id": "5e5205988a76fddc",
+      "title": "충남도, 재생에너지 설치 시범사업 본격 추진 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yODFpSzZDclBqVWxfbHBkcmRQUHJLaDNyRW1TTFVfUHNQcy1kVE11RHpabk9DeVRibzBSdlJYdWYySk1YYVZNMlR3QkJwNEF0YjJ2bmVoenhBOEFySWJHTDF6MGRkTmfSAWxBVV95cUxQbVpMbUItd0thQVhNT1lwV3VRYjhzS1kxcExMNk0weXRaNGM0U3liZ01fQ01uOFZGeTFSSmp1Y0JPT3NWVzNBandMZmlqQmd2X3ppeGJXVXFmUEoyNnQ1bXJPdUNUMUNCS1RobU4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T02:24:00",
+      "collected_at": "2026-01-04T08:05:53.276235",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "재생에너지",
+          "시범사업",
+          "설치",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "a562762b2c090cf1",
+      "title": "충남도, 삼성디스플레이와 유휴부지 태양광 설치 시범사업 본격 추진 - 뉴스충청인",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1qbnlKQU9pbUZPbDQxVjhMSWVTWGNuMTZqQUhVeHBRV3dyaGdZZ2hXTlBuUzBIc3pYcl8zVXJZalBHbmVuVmc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T06:36:30",
+      "collected_at": "2026-01-04T08:05:53.276303",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "삼성디스플레이",
+          "태양광",
+          "유휴부지",
+          "시범사업"
+        ]
+      }
+    },
+    {
+      "id": "a50dc41b05daddaa",
+      "title": "신재생 보급용량 2024년 41GW 돌파…태양광 비중 77.2% - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LRFZiS21tTjZNc19aNk5McXFOU2xySWFOZXZxcE9YTGNWeWxKQzJ4U3VsVDhRYVRYOGpSYnBZd2pNbHdyODliQXhxaXFNZnE4QXFJ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T07:20:00",
+      "collected_at": "2026-01-04T08:05:53.276415",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생",
+          "보급용량",
+          "2024년",
+          "41GW",
+          "태양광"
+        ]
+      }
+    },
+    {
+      "id": "696a5004e6d2b505",
+      "title": "충남도, 공공기관 유휴부지 재생에너지 설치 사업 본격 추진 - 충청신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QaGtHa2UzOHJzRGVXVk4xdm0tNnl0Ty1IWEw5bm5hZXhKWGNJbTY5NFJzSVlJVV8wQWpWZWlyQ2JCSzRoUXZWM0gzX2Rabi1OWEhpX0VnRVJrRnI3aVBvTzVHYnVwQk9pZXfSAW5BVV95cUxQbHJnTWtEWmtPRGYyMjFSblM4ODdSbXRPQm9oUW8wVGR1TDRoX1Zic1FwSUNIOE5TZFQ3OUhLWlhmWUtmYlo4anlLNi1TU3FOYzA3LVJ6NW1HYkVVMHZBZlRfSjlpYUl2UEVhR2pBZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T00:38:37",
+      "collected_at": "2026-01-04T08:05:53.276457",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "공공기관",
+          "유휴부지",
+          "재생에너지",
+          "설치 사업"
+        ]
+      }
+    },
+    {
+      "id": "a440ae106161acf9",
+      "title": "충남도, 재생에너지 설치 시범사업 본격 추진 - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wdnVNRjZGOFZPSTl1aGpteWs0WXM0VFFlU0F2ajJXNEJIRTRmSkE4SVhpbzZ0VDhjelJnc0tNVjZnSkF1RHFQUm1hU20yWFVxLWMzMkdyOWp3Wkl4czRQQ0JkWDl3UUlkb1E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-04T06:18:53",
+      "collected_at": "2026-01-04T08:05:53.276486",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "재생에너지",
+          "시범사업",
+          "설치",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "4f4be88a937edfb8",
+      "title": "\"중국이 끄면 한국 멈춘다\"… 태양광의 섬뜩한 경고 - ZUM 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNb2VNMzh5bHhIRGkxcnVDLWFHTVVGcmcwd3gxN2VxNUpvV25HMEVzRUVCQTFUQmtOYy0zdUc3VnFRSURJMFFCa1hnVVBfNGNQWmdiVWRMaGJXbGh2TVhoTFdLcjBuVlQ1Tk92Z1FyM2RMcHlYZDRXdTdrVU5kSFpEUm9sMTNGTUs1VkxxLVA2T0gxcEZMbEE0cnc5OFFmTFd3UENxZGxpTXY0Z1ZFaHF0WTU4LWtXeHFlNjlhcjlQWGlzZm1Ec1hsR2JUNkZkVC1kSEw0X1FUQXNYOVhQbWNwMFhmR0RGYUZLanNVdkxHT19ZYmhUSjhCQ0JqamtVX1l6ZDM5b2ZnSEFIcXJSakpBZm1WZmU0QTZFeUthMjdDNkNRZnBFMlZxdFdXeW15MnlmNThaNWxnUjFLRTZIbThHaldqdERtUVFWX1NwbUFSTVkxX09Jbm9hSk1EYU9rQjg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-03T21:20:00",
+      "collected_at": "2026-01-04T08:05:53.277675",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "한국",
+          "태양광",
+          "경고",
+          "공급망"
+        ]
+      }
+    },
+    {
+      "id": "50edd85a80c12aa6",
+      "title": "2030년 신차 50%는 전기·수소차…오래 가는 전기오토바이는 보조금 더 준다",
+      "link": "https://www.khan.co.kr/article/202601041507001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-01-04T06:07:00",
+      "collected_at": "2026-01-04T08:05:54.613891",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기차",
+          "수소차",
+          "보조금",
+          "저공해차",
+          "2030년"
+        ]
+      }
+    },
+    {
+      "id": "73fc8374bca22b4c",
+      "title": "김윤 삼양그룹 회장 “스페셜티 사업 확대· 글로벌 진출 속도”",
+      "link": "https://www.khan.co.kr/article/202601041312001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-01-04T04:12:00",
+      "collected_at": "2026-01-04T08:05:54.614499",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼양그룹",
+          "김윤 회장",
+          "스페셜티 사업",
+          "글로벌 진출",
+          "친환경 소재"
+        ]
+      }
+    },
+    {
+      "id": "fee81e212954906f",
+      "title": "‘Pushed to the limit’: Europe’s ski resorts face climate change threat - which country has it worst? - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTFhyWW1LWE9XWnVBVDB6WlRxUEpGRG5YanB4cExPQXZTc1JNZmwxT0UwdWdlTkhkclpSUjFod2pCWjdGOHRveHRaWWlpY3dxMERHS1B5ZGlhQXZjd3JCQTFYMXJnMFM0U085bS1yeXFEUzRXTlE2VDlxRUxoWDl2cTZWTklFXzRDQ0daemloaGl4ZF9COHAtNThxWEdnM1FPbGFmVjJMUWd2clVvckthTEc5cE5odXBzYmg3TlV5Q05LNndN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T07:03:59",
+      "collected_at": "2026-01-04T08:05:55.151362",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "‘한계에 내몰리다’: 유럽 스키 리조트, 기후 변화 위협에 직면 – 어느 나라가 최악인가?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "스키 리조트",
+          "기후 변화",
+          "위협",
+          "유럽",
+          "한계"
+        ]
+      }
+    },
+    {
+      "id": "c157fc75157d5e33",
+      "title": "How the common daisy became a ‘visible signal’ of climate change - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVGFZMzhxdS1uUkxEWUpqNGRZaEt6MWI2Tlk1ZmZWaUZXZ1pwRzhDYVpFT2NMdUVDc19DTVZ1LXk1NTQ5aHREbVBKSU9YRDhBYUZMWlRyM0VCM0hpbHFZY3VCbnBYTnF1T193NXRqR3d3dDBRRlFtSGpKYlVrczNUU0x1d3lKRHpOVHY0clFlQUlnb09EcmZPRUNBWlZ1dm50VVFMNHYtdnJsZWdzYXg4VE1XUGpLZEI3TEpodld0dHE1TFg0RXl2dnMyLVg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T08:00:43",
+      "collected_at": "2026-01-04T08:05:55.151712",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2bd36e53480a2eaa",
+      "title": "Ageing Water Systems, Climate Change Linked To Amoebae Threat: Study - indica News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ2pqTVFLWWdyTjkwYk9Cc09QXzZoTFJzNGxoZnNzNS1xOEFoejlkbFlKeWtHXzBRZmFLUUc2aXRUXzF6WnphdGx3NGhlTlRMYVE2V0ZScnYzVDJQWFRKTWQycU1SS09KZWpKTkFpLW5TZEdLMXA1VWRFY2psVTdDa2VTb1ZkYU1KUlZ3SjVPUzNPS2Ux?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T04:55:54",
+      "collected_at": "2026-01-04T08:05:55.151802",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "노후 수도 시스템, 기후 변화 아메바 위협과 연관: 연구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "노후 수도 시스템",
+          "아메바",
+          "위협",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "61c6d09607d11217",
+      "title": "Global ambition to tackle climate change weakened by Trump - RTE.ie",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQVdzUEh0Yy1BLWVqT3ROZ3J6WWNUX1BvNDczcVpxRjl4WmM1VnlnY3BwMVZMZlpoQTF3ZjAwUlh6SlRjTHpCSUhIb2pnbEg5ZDIxYXlyWjFQSnpLcHZuZmozdXJLYWJJeTJCdFFtdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T07:00:30",
+      "collected_at": "2026-01-04T08:05:55.152884",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프에 의해 약화된 기후 변화 대응 전 세계적 야망 - RTE.ie"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "전 세계",
+          "기후 변화",
+          "약화",
+          "트럼프",
+          "야망"
+        ]
+      }
+    },
+    {
+      "id": "715b08f8a04aec7d",
+      "title": "Climate change: taking stock at the end of 2025 - The Malta Independent",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY2lRQXBlaXBvcE9iMlB4b0ZkZXYtVHhEZk0wSy1EYnFQQjdOSFcybWJrQ05PeV9HRkFpYXE3VG1fY1VLNnFVX3pPMnlWX3k4T284eFlaSHBjaWZjbVFIZmxKVlRVRFRmMm5hT1AyZlZ2d19yME1lUVZJd3JpV3hhLVVreV91UU4zbFRUTzJiZGprUHE2MVpoclZKV1BmcnA5MDZCY2hUQ1VxZU9oT0NSZmJkeUpXZ1RFNjRMaEUyLTk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T07:13:00",
+      "collected_at": "2026-01-04T08:05:55.153148",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: 2025년 말 현황 파악 - 몰타 인디펜던트"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "2025년",
+          "현황 파악",
+          "점검",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "68260a2ccb7d8ef1",
+      "title": "Climate change is quietly reshaping childhood in India without us knowing - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSTU1Tk1NcWZydy1JUnc0Wmpvd05YS0d1M1UtTXVGbkE0WUREWGVXdVpNSFMxdlR0MjFsTERSQi1rQS16bFYxYTh5OE5HdjM0LWQ2cW41Qi1tMDZlaURoY3JVWHZUcUxXY2VURlR1WDZmRy1KY1FLWjQ5WEdlNHpYeUxPXzBLUXBFWXQtUkt6RVJiZVI2cmZGNHN3TkZmU0k0dm5mbndVamt3ZzZDcjAwOW9USmpVbFJwOE91RU9WWGY5MWE2ZUZYcTV4SlpmZ2tOT3A0SS1XSy0xOEFpZ2xWa1VOb2R1U2tValdmOXVJY1g3SzkyV1F5blR2Q0lpd9IBgwJBVV95cUxPTi1tclpvZld2dXdpYVkxUDFSY3JFUU9Kc2FEUDFzdFZ0cFQtWTJQbjZqak9tZFlYeUZPQVNJNjlwRUd2c0R1Y09jLWdxckNILXNicjlpek16elJLLTlsRGpJcFl3amtEYjJxLXM5enE3QkNHLXJLZHdvSU5yeC1rMUhJSDJQcmVVT2VtLVBJZXFxeVlIX1lpRWlDbjlwSmxJeGRXUGF6Z29YZk1Va2xzdW5lV0JPLXQzSWs2UlJrWXh0ajhrbER4X0dfY3dUazBQZEdZbnRjeXVkemNLU2tjZnk2amJObVUzNHRZMGI2V09BLVExUkpWSVZpTzk0UGxlOUNB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-04T04:30:00",
+      "collected_at": "2026-01-04T08:05:55.153265",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "last_updated": "2026-01-03T23:12:15.862032",
+  "last_updated": "2026-01-04T08:10:54.101092",
   "available_dates": [
     "2026-01-04",
     "2026-01-03",
@@ -198,6 +198,18 @@
         "period_label": "Morning"
       }
     ],
+    "2026-01-04": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-04-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-04-morning.json",
+        "period_label": "Morning"
+      }
+    ],
     "2025-12-29": [
       {
         "period": "afternoon",
@@ -207,13 +219,6 @@
       {
         "period": "morning",
         "file": "2025-12-29-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-04": [
-      {
-        "period": "morning",
-        "file": "2026-01-04-morning.json",
         "period_label": "Morning"
       }
     ],
@@ -237,6 +242,6 @@
       }
     ]
   },
-  "latest": "2026-01-04-morning",
-  "total_briefings": 35
+  "latest": "2026-01-04-afternoon",
+  "total_briefings": 36
 }
