@@ -1,0 +1,1773 @@
+{
+  "date": "2026-01-06",
+  "generated_at": "2026-01-06T23:15:18.335387",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 1월 6일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 심화되는 기후 위기 경고와 가시적 영향",
+        "content": "최근 기후 변화의 심각성을 알리는 경고음이 더욱 커지고 있으며, 이는 우리 일상과 생태계에 직접적인 영향을 미치고 있습니다. 국내에서는 기후변화로 인한 산불 발생의 악순환이 언급되었으며 [1, 2], 국제적으로는 2025년이 역대 최고 고온의 해로 확정될 것이라는 보고가 나왔습니다 [39]. 실제로 2024년은 이미 19세기 평균보다 1.5°C 이상 더 더웠던 첫 해로 기록되었고, 2025년에는 화석 연료 사용량이 사상 최고치를 기록할 것으로 예상되어 전 세계적인 우려를 낳고 있습니다 [74]. 또한, 미세플라스틱이 해양의 탄소 흡수를 저해하여 기후 변화를 악화시키고 있다는 연구 결과와 함께 [51], 기후 변화가 전 세계적으로 지속적인 강 폭염을 유발하고 인권을 위협한다는 보고도 이어지고 있습니다 [41, 43]. 이러한 현상들은 우리 사회 전반에 걸쳐 기후 위협이 얼마나 광범위하게 확산되고 있는지를 명확히 보여주며, 2026년 기후 변화 위험과 과제에 대한 예측은 보험 업계에도 중요한 화두가 되고 있습니다 [58].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 국내 기후변화 대응 정책 및 제도적 진전",
+        "content": "국내에서는 기후 위기 대응을 위한 제도적 정비와 구체적인 실천 노력이 활발히 전개되고 있습니다. 한국농수산식품유통공사(aT)는 식량 기후위기 대응을 위해 '기후변화대응처'를 신설하고 관련 부서를 확대·신설하는 등 조직을 개편했습니다 [3, 6]. 또한, 탄소중립녹색성장위원회가 1월부터 '국가기후위기대응위원회'로 새롭게 출발하며 기후 위기 대응의 컨트롤 타워 역할을 강화했습니다 [8]. 지자체 차원에서는 순천시가 이상기후에 대응하기 위해 노지 과수농가 지원을 본격화하고 2026년 농가 지원 예산 10억 원을 확보했으며 [7, 10], 연천군은 서울대학교와 기후위기 대응 및 탄소중립 실현을 위한 협약을 체결하는 등 학계와의 협력도 확대하고 있습니다 [13, 16, 17]. 기업과 지역사회에서도 영풍이 2050 탄소중립 로드맵을 가동하고 [11], 서부발전이 순천향대학교에 '탄소중립 캠퍼스'를 조성하며 [15], 천안시에서 탄소중립 시민 전문가 양성 교육과정이 개강하는 등 [19, 20] 다양한 주체들의 참여가 이어지고 있습니다.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 국제 사회의 다각적 기후 행동과 논의",
+        "content": "국제사회 역시 기후 변화에 대한 다각적인 접근과 협력을 모색하고 있습니다. 한국과 중국은 기후변화 및 순환경제, 자연보전 분야에서 포괄적인 ESG 공조를 확대하기로 합의하며 지역적 협력의 중요성을 강조했습니다 [4, 5]. 2026 밀라노·코르티나담페초 동계올림픽은 95% 기존 경기장 활용 및 폐기물 재생 메달 등 친환경 요소를 강조하며 스포츠 분야에서도 기후 행동의 모범을 보이고 있습니다 [27]. 기후 변화 활동가 루이사 노이바우어는 생태학이 징벌적인 힘이 아니라 즐겁고 해방적인 것이어야 한다는 견해를 밝히며 긍정적인 메시지를 전달했고 [35], 동남아시아에서는 넷제로 온실가스 배출 경로를 위한 에너지 시스템 최적화 모델이 개발되는 등 과학적, 기술적 진전도 이루어지고 있습니다 [71]. 그러나 한편으로는 케미 바데노크 영국 과학부 장관이 넷제로 회의론을 언급하며 경제 성장을 위해 더 많은 석유 시추를 제안하는 등 [72], 기후 정책의 방향성에 대한 국제적인 논의와 견해 차이도 여전히 존재합니다.",
+        "tone": "neutral"
+      },
+      {
+        "title": "📰 기후 변화의 생태학적 및 사회경제적 파급효과",
+        "content": "기후 변화는 단순히 기온 상승을 넘어 생태계와 사회경제 전반에 걸쳐 광범위한 파급효과를 미치고 있습니다. 영국에서는 기후 변화로 인해 겨울꽃이 평년보다 일찍 개화하는 현상이 관측되었으며 [34], 전 세계적으로는 새들이 산 위 고지대로 이동하는 생태계 변화가 여러 지역에서 보고되고 있습니다 [37, 48, 52, 54, 55, 57, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69]. 이러한 변화는 고대 치아 연구를 통해 중세 잉글랜드의 기후 변화와 이주 기록을 추적하는 등 [38], 역사적 맥락에서도 기후의 중요성을 재조명하게 합니다. 경제적 측면에서는 기후 변화가 주택 구매 비용에 미치는 영향에 대한 관심이 높아지고 있으며 [32], 캐나다에서는 기후 변화가 우선순위에서 다소 하락했음에도 불구하고 국민의 약 60%가 산불에 대한 강력한 조치를 요구하는 등 [61], 기후 위협에 대한 사회적 인식과 정책 요구가 여전히 높음을 보여주고 있습니다. 기후 변화의 부정적인 영향을 부인하기 위해 빈약한 출처를 사용하는 사례에 대한 경고도 제기되며, 정확한 정보의 중요성이 강조됩니다 [45].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘 수집된 다양한 기후 관련 소식들은 기후 위기의 복합성과 이에 대한 전 지구적 대응의 시급성을 다시 한번 일깨워줍니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "기후변화 악순환 ‘산불’…예방이 최선 - KBS 뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5palE4clUyeVl1aEJ0b0huelliNk9NcjJHbTFFY19IdEFVY0ZuTE1CcUduUVhMS0VVM2xnRllmSFdzZFVuVmdrQ3ZfZk9FRWllalVNRnNHZ3I0QTg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T12:44:00",
+      "description": "기후변화 악순환 ‘산불’…예방이 최선 KBS 뉴스",
+      "summary": {
+        "phenomenon": "기후변화와 관련된 산불이 발생하고 있으며, 이는 악순환의 일부로 언급되었다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "산불",
+        "악순환",
+        "예방",
+        "최선"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "기후변화 악순환 ‘산불’…예방이 최선 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PQ3RjdndPemRaamZzVm9fV3dXVkhSYlpiNUozSGE3aVlsT21pZUlKU2h0UlR0V1R5S1J5MXhUX0tMMmlDcXNlc1d5dVRjNzQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T21:59:00",
+      "description": "기후변화 악순환 ‘산불’…예방이 최선 v.daum.net",
+      "summary": {
+        "phenomenon": "기후변화와 관련된 산불이 발생하고 있으며, 이는 악순환의 일부로 언급되었다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "산불",
+        "악순환",
+        "예방",
+        "최선"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "aT, 식량 기후위기 컨트롤타워 ‘기후변화대응처’ 신설 - 콜드체인뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDc0UyXzMweFF5Y0dfQ1g4Q0Z5dzhjRm1naENQdVVtRVowZ3QwRlJjc2RJbTQzelNDeXJiUF92eENMaVN4S0lVS1lSMTQ3QWZiVXA0LVNFTVFUMzBja0VyMUhzUWk4UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T11:11:31",
+      "description": "aT, 식량 기후위기 컨트롤타워 ‘기후변화대응처’ 신설 콜드체인뉴스",
+      "summary": {
+        "phenomenon": "aT(한국농수산식품유통공사)가 식량 기후위기에 대응하기 위해 '기후변화대응처'를 신설했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "aT",
+        "식량",
+        "기후위기",
+        "컨트롤타워",
+        "기후변화대응처"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "한중, 기후변화·순환경제 포괄적 대응키로 - 에너지신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81N2wtY0lLY2JKMzJ2Sy1lY0NRVVJKWC1FaUc3N0M4MWg4NHR4a2cycHlVZkxuZmU0NmxKNEs0bkRnRWVwcXpRbzNVLUJqcmhFUXpkbms4dDNEcmdrRE4tMV9SYkVtd2VGVk5Gb2pFZXFXUQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T09:33:47",
+      "description": "한중, 기후변화·순환경제 포괄적 대응키로 에너지신문",
+      "summary": {
+        "phenomenon": "한국과 중국이 기후변화 및 순환경제에 대해 포괄적으로 대응하기로 합의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한중",
+        "기후변화",
+        "순환경제",
+        "포괄적",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "韓-中, 기후변화·순환경제·자연보전 'ESG 공조' 확대 - ESG경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yaXc0Wkl0UFlITVN5Ri12T0xCXzE4c2RHOEN5VExReEl2ejduSmZWemNqcWVMdHBQM2ZQandZWUNyUjJOOEpDYWVDelV6WWxhYThHNjh3ZnJqMkRPUmFUeFEzQ2tRU1dVdU1KSA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T08:12:01",
+      "description": "韓-中, 기후변화·순환경제·자연보전 'ESG 공조' 확대 ESG경제",
+      "summary": {
+        "phenomenon": "한국과 중국이 기후변화, 순환경제, 자연보전 분야에서 ESG 공조를 확대하기로 했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한중",
+        "기후변화",
+        "순환경제",
+        "자연보전",
+        "ESG 공조"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "한국농수산식품유통공사, 기후변화대응부서 확대·신설···지역본부 인력 증원 등 조직개편 - 한국농어민신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1EZmVlM3hldDh4NHh6SnJma242c1EtcmlYT1U1NVkwYWpwSTJOdGlKZ3ZUQWxlYXFkUzM3OWlkQl91TG15YXhEY0J0dTB3cVJpQlhGZ2hrTFlUblBhLWk3V2RyVHllcFlmZS0xcw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T10:42:00",
+      "description": "한국농수산식품유통공사, 기후변화대응부서 확대·신설···지역본부 인력 증원 등 조직개편 한국농어민신문",
+      "summary": {
+        "phenomenon": "한국농수산식품유통공사가 기후변화 대응을 위해 부서를 확대·신설하고 지역본부 인력을 증원하는 등 조직개편을 단행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국농수산식품유통공사",
+        "기후변화대응",
+        "조직개편",
+        "부서확대",
+        "인력증원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "순천시, 이상기후 대응 노지 과수농가 지원 본격화 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xc3dGLUpCbl9UakQyWk1fUDR4b19KMThQZjBCM0N0LUdsR1N2Q0JmNXlfQmk0aWlReG5SZXItaTNLekk0NnI3VXNpaW1ydnRNYzNKaF9UdmJpUm9tUlJKRy1xQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T23:00:00",
+      "description": "순천시, 이상기후 대응 노지 과수농가 지원 본격화 매일일보",
+      "summary": {
+        "phenomenon": "순천시가 이상기후에 대응하기 위해 노지 과수농가 지원을 본격화했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "순천시",
+        "이상기후",
+        "노지 과수농가",
+        "지원",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "탄녹위, 1월부터 ‘국가기후위기대응위원회’로 새출발 - 지디넷코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kWC1zMmRCSldzSmZaMVpRNXVib3dtSGVjYUhGallON2E2d3NucUw2bmlKVHhiVVF3clVDUW5Hcks0MTNWYk9ReGNDX0xSdkJQalRQZWVn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T12:44:19",
+      "description": "탄녹위, 1월부터 ‘국가기후위기대응위원회’로 새출발 지디넷코리아",
+      "summary": {
+        "phenomenon": "탄소중립녹색성장위원회가 1월부터 '국가기후위기대응위원회'로 명칭을 변경하고 새롭게 출발했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄녹위",
+        "국가기후위기대응위원회",
+        "새출발",
+        "기후위기",
+        "위원회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "성북구, 탄소중립실천단 길라잡이 양성교육 참가자 모집 - 전국매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oamR6bDRfSFpTSjA5c0lPRVNma3Zic1pXOHNwVG5MQ1Btd0prelByRDRwcHZuR0pXMDJ3cXViSVFyN19qNnlXY1FrXzdZMUVBTE9jdTNMOFZUdkJPNkVtT1JUMkQ2QUo2?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T10:48:31",
+      "description": "성북구, 탄소중립실천단 길라잡이 양성교육 참가자 모집 전국매일신문",
+      "summary": {
+        "phenomenon": "성북구가 탄소중립 실천을 위한 '탄소중립실천단 길라잡이 양성교육' 참가자를 모집하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성북구",
+        "탄소중립",
+        "실천단",
+        "길라잡이",
+        "양성교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "순천시, 이상기후 선제 대응… 2026년 농가 지원 예산 10억 확보 - 천지일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95UURSMl9LMEJkNmNzWmMtcnlqdGIzQW1yaE1kMWx6OWFWUmxBOEZueUd4RHBXaW5SYmV0dU93cFdzWm9tVXJaY3NwMWxBNmhTQlJKTk5LUjVzWmM3X0w1Nk4xMGIzck1LcGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-06T11:41:45",
+      "description": "순천시, 이상기후 선제 대응… 2026년 농가 지원 예산 10억 확보 천지일보",
+      "summary": {
+        "phenomenon": "순천시가 이상기후에 선제적으로 대응하기 위해 2026년 농가 지원 예산 10억 원을 확보했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "순천시",
+        "이상기후",
+        "선제 대응",
+        "농가 지원",
+        "예산 확보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "[신년기획10] 영풍, 2050 탄소중립 로드맵 가동…ZLD·재생에너지로 ESG 전환 가속 - 철강금속신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YaUo4VjBNU0FId1JCQ21RcDVlc1VQd0EtdTRWNWtoclhPTTZOeDRNU1pSaHotZ05QWlZRTERfU21QZU42VHhFVURiM0ZXYVdTVDc4cjhBMG9KUDdtZndoTGtGbEZnNW5B?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T23:00:00",
+      "description": "[신년기획10] 영풍, 2050 탄소중립 로드맵 가동…ZLD·재생에너지로 ESG 전환 가속 철강금속신문",
+      "summary": {
+        "phenomenon": "영풍이 2050년 탄소중립 로드맵을 가동하기 시작했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "영풍은 ZLD(Zero Liquid Discharge) 및 재생에너지를 활용하여 ESG 전환을 가속화할 예정이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영풍",
+        "2050 탄소중립",
+        "로드맵",
+        "ZLD",
+        "재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "[기후경제 시대] 바이오경제, 탄소중립ㆍ녹색성장 두마리 토끼 - 대한경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IODdNOFFnMnRzcEY1T1M1TERkb1FZM0FsVXNQazdKbXdnYWJ0Y2ZiLWFxSFhsMTFlRk16bExXVFRaSkJCZmZ5NmxWNS15Snc3cFo3aVVPRDByWUozeVBSd0xvZkRaWFpMelZqNzVnZG9fMGNf?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T21:00:24",
+      "description": "[기후경제 시대] 바이오경제, 탄소중립ㆍ녹색성장 두마리 토끼 대한경제",
+      "summary": {
+        "phenomenon": "바이오경제가 탄소중립과 녹색성장이라는 두 가지 목표를 동시에 추구하는 현상이 나타나고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후경제",
+        "바이오경제",
+        "탄소중립",
+        "녹색성장",
+        "두마리 토끼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "연천군, 서울大와 기후위기 대응·탄소중립 실현 협약 체결 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQjh2MUJGNmU3cVh0VmpNblVNZWNZWXZXUlpSSGNoMVVSSWVCbV8wMkE2bWtqUlpMQzZXOGNzTk9ESjRxVmplSXk4QUhKSnc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T08:55:00",
+      "description": "연천군, 서울大와 기후위기 대응·탄소중립 실현 협약 체결 v.daum.net",
+      "summary": {
+        "phenomenon": "연천군이 서울대학교와 기후위기 대응 및 탄소중립 실현을 위한 협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "연천군",
+        "서울대학교",
+        "기후위기 대응",
+        "탄소중립",
+        "협약 체결"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "천안시, 탄소중립·지역상권·소통 강화로 시민 체감 정책 확대 - 농수축산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNGNrNVlmNFdtWk5tb2s0Z21WMTIyblNPX2hhZXg0VEJ1VWtvUTEtM1JrOEY2UUlZbEExOE5sNUlSMTJ3ZC1qTEhkaFM5akpGNFdYeFh2Y3NXVXlWTmZkMU5rbXlfdzZuTXh3YQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T09:07:02",
+      "description": "천안시, 탄소중립·지역상권·소통 강화로 시민 체감 정책 확대 농수축산신문",
+      "summary": {
+        "phenomenon": "천안시가 탄소중립, 지역상권 강화, 소통 강화를 통해 시민이 체감할 수 있는 정책을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "천안시",
+        "탄소중립",
+        "지역상권",
+        "소통",
+        "정책 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "서부발전, 순천향大 '탄소중립 캠퍼스' 조성 - 인사이트N파워",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9tVG02SjUxQlhHajFjeDgydXZKUHJJakk2UWpLd0ZPQV9KQzZGZjRHY3NDOE16NHpKZ0tiV05sWjZOc3pDQ0pMYzI4UEctblFBVDRyaUgzcHVPcnZIZWV0RjRFUFdNUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T08:49:12",
+      "description": "서부발전, 순천향大 '탄소중립 캠퍼스' 조성 인사이트N파워",
+      "summary": {
+        "phenomenon": "서부발전이 순천향대학교에 '탄소중립 캠퍼스'를 조성하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부발전",
+        "순천향대학교",
+        "탄소중립",
+        "캠퍼스",
+        "조성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "연천군–서울대학교 환경대학원, 탄소중립·지속가능한 발전 협력 업무협약 체결 - 내외뉴스통신",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xNUZ6VV9xV2oyVEdEN0ZROUw5YXBmcVIyNTl5TXZZYkM4bWItNklWRk1VazRIWGJvRVlBd3hMMGVIMDVCZDlXaDh4MTVLa0szME9oejlseEl4QUZfdUsyRy12TDBvN0s0ZU5PVNIBcEFVX3lxTE5mTkd1NEVrTjlrTDJuT19TbDgzVXFNVFFwWmltbmY4bEpmQ3dCNnpCNWc4Z2NzY3RRR3FpSVp0Mnp4WnI3OHBiMzN6MlRZUVM0aTVCNXhjMGZiREl6VHZ3MGl1SVFCN0ZDX1k1V3VmbGc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T09:57:02",
+      "description": "연천군–서울대학교 환경대학원, 탄소중립·지속가능한 발전 협력 업무협약 체결 내외뉴스통신",
+      "summary": {
+        "phenomenon": "연천군과 서울대학교 환경대학원이 탄소중립 및 지속가능한 발전을 위한 협력 업무협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "연천군",
+        "서울대학교 환경대학원",
+        "탄소중립",
+        "지속가능한 발전",
+        "업무협약 체결"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "연천군, 서울大와 기후위기 대응·탄소중립 실현 협약 체결 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qckVueGNMX3laV1FaNF9QNnZtV01Fdnh5YVRQTnhPYlR2blYzajVRX3VNVU5WcFVpX3k4VGJsUW9aZHJINi03TGtCY3ZRV003MHF0VWVn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T08:54:05",
+      "description": "연천군, 서울大와 기후위기 대응·탄소중립 실현 협약 체결 헤럴드경제",
+      "summary": {
+        "phenomenon": "연천군이 서울대학교와 기후위기 대응 및 탄소중립 실현을 위한 협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "연천군",
+        "서울大",
+        "기후위기 대응",
+        "탄소중립",
+        "협약 체결"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "복대2동 새마을부녀회, 탄소중립 일환 대청소 실시 - 청주일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sVFBBOGxkVHFHYzY4aHJQN1VwUnRwNm1wTVdpcjNhSU9xWWd6RFJ6bkR1aHpHTXRwQ253dDRWLUJKZGh4WXkxSTloRUZTZF92OUFMS0dCNTlFLUxld1cxU1lDYW5BaHItbXc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T09:27:26",
+      "description": "복대2동 새마을부녀회, 탄소중립 일환 대청소 실시 청주일보",
+      "summary": {
+        "phenomenon": "복대2동 새마을부녀회가 탄소중립 활동의 일환으로 대청소를 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "복대2동",
+        "새마을부녀회",
+        "탄소중립",
+        "대청소",
+        "환경보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "천안시, 탄소중립 시민 전문가 양성 교육과정 개강 - 한국시사경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSVGtrZTBTQTRocW9sQy01WnN3a2VVSHpkR0w2TGM1UUg3cHNmenR0Zy1hdEp0NmdqNlFuSzNyeTlHeHNvaDlyUDctWFEtVVpiSTVDVzB0Q3lrLTFpX1V1MHlsNDZKTkhqWGc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T08:10:08",
+      "description": "천안시, 탄소중립 시민 전문가 양성 교육과정 개강 한국시사경제",
+      "summary": {
+        "phenomenon": "천안시에서 탄소중립 시민 전문가 양성 교육과정이 개강했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "천안시",
+        "탄소중립",
+        "시민 전문가",
+        "양성",
+        "교육과정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "천안시, 탄소중립 시민 전문가 양성 교육과정 개강 - 뉴스티앤티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rWk1hc3p5Tzg4QlE0Y0poWmJkRUFSVjJ5N1VadTVCVTZHZzFNeEVuSUFMeUFHRVA0Wlk1RlBOSVF4VHZMU09HUHVRMW9wZ3hiNjVfUkZyQUs5b3NEeEtlUW5UVUNVYV9F?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-06T08:50:14",
+      "description": "천안시, 탄소중립 시민 전문가 양성 교육과정 개강 뉴스티앤티",
+      "summary": {
+        "phenomenon": "천안시에서 탄소중립 시민 전문가 양성 교육과정이 개강했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "천안시",
+        "탄소중립",
+        "시민 전문가",
+        "양성",
+        "교육과정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "[기획④] 재생에너지 전남, 합의는 어떻게 제도가 되는가 - AI타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16SWJXYWd1M3BDV19CZ24zN3psY05vSk5ERXdBUUZRTmZjTklrTDlpdWExbXB3YkJHYlBzbm9SejJxYUhYaTB5dkU1VzVWamNUVy1EbFpCTjR1bVFLV3BVTktFZEZ2bUJkVWc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-06T22:01:19",
+      "description": "[기획④] 재생에너지 전남, 합의는 어떻게 제도가 되는가 AI타임스",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "전남",
+        "합의",
+        "제도",
+        "기획"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "\"1.2GW 수상태양광 등 재생에너지 신속 추진\"…나경균 사장의 포부 - 프레시안",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RdmVYYnpmejAtZUhkbkdwN2EyaHhHQkxVeVVjTVBGUjRnZHp5djhlZWk4MHA1aWhOTUtkNl8yYVVkV2JlU1V2X3NqU2pJOWtpMXdFa2JwYTRQRndhdDNSYm5jZjNNWmkyQlQw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-06T20:48:46",
+      "description": "\"1.2GW 수상태양광 등 재생에너지 신속 추진\"…나경균 사장의 포부 프레시안",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "수상태양광",
+        "재생에너지",
+        "1.2GW",
+        "신속 추진",
+        "포부"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "[기고] 경기도 재생에너지 지산지소를 꿈꾸며 - 경인일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40VFF3Vm5qUkVKM1VxS2dxZHM3WW5ucG51U1Y2MGUyR25mOEpVdUdEdW9UeXdmS3pVRzU4d0lpQXQtWU1vSjB2S2lwOWRyQmU0Y3c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-06T11:11:34",
+      "description": "[기고] 경기도 재생에너지 지산지소를 꿈꾸며 경인일보",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "재생에너지",
+        "지산지소",
+        "에너지 자립",
+        "지속가능성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "5년 내 34GW→100GW 늘린다는데…재생에너지 전환 앞길은 첩첩산중 - 쿠키뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xdW9LYzF2NDdoU0o2T3ItNUxqaVg1SmpUZEdoWVdZd0FqMjZ0eW1QUS1Rcnppclo1dGRucmduVzF3SWtXLV9ScTVfaDl4Z0J2a1BwVkdlbEprejFVN285UjVVTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-06T21:00:10",
+      "description": "5년 내 34GW→100GW 늘린다는데…재생에너지 전환 앞길은 첩첩산중 쿠키뉴스",
+      "summary": {
+        "phenomenon": "현재 재생에너지 용량은 34GW이며, 5년 내 100GW로 늘릴 계획이 언급되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "재생에너지 전환의 앞길이 '첩첩산중'이라고 언급되어, 목표 달성에 어려움이 있을 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "재생에너지",
+        "전환",
+        "100GW",
+        "5년",
+        "첩첩산중"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "속초시, 버려지는 임목폐기물 친환경 재생에너지로 재활용 - 강원일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RdmRESEJOUGNHV3Njbk13WmxRLUJqZG83b3YzXzY2M3lNQjB0dnJZMmNnNXprckYtVFdybzhmQ1Zia3NZM21zRXcyT2JPLWRiWmY0ZGZJclUwWmZlSTlnb0psN2E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-06T15:05:00",
+      "description": "속초시, 버려지는 임목폐기물 친환경 재생에너지로 재활용 강원일보",
+      "summary": {
+        "phenomenon": "속초시에서 버려지는 임목폐기물을 친환경 재생에너지로 재활용하는 활동이 진행되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "속초시",
+        "임목폐기물",
+        "재활용",
+        "친환경",
+        "재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "‘탈탄소 흐름’에 사라진 경유차…전기차 절반에도 못 미쳐",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202601070748001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-01-06T22:48:00",
+      "description": "강변북로에서 폐쇄회로(CC)TV를 통한 노후 경유차 카메라 차량단속 시스템이 운영되고 있다. 김창길 기자지난해 국내 경유(디젤)차 등록 대수가 처음으로 10만대 아래로 떨어진 것으로 나타났다. 전체 등록 대수에서 차지하는 비중도 5.8%에 그쳤다. 탈탄소 흐름에 친환경차가 부상하면서 경유차가 사라질 위기에 처한 것이다.7일 시장조사기관 카이즈유데이터연구소···",
+      "summary": {
+        "phenomenon": "지난해 국내 경유차 등록 대수가 처음으로 10만대 아래로 떨어졌으며, 전체 등록 대수에서 차지하는 비중은 5.8%에 그쳤다.",
+        "cause": "탈탄소 흐름에 따라 친환경차가 부상하면서 경유차의 수요가 감소한 것이 원인으로 지목된다.",
+        "outlook": "경유차가 사라질 위기에 처했으며, 이는 탈탄소 흐름이 지속될 경우 더욱 가속화될 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "경유차",
+        "탈탄소",
+        "친환경차",
+        "등록 대수",
+        "사라질 위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "밀라노·코르티나담페초…역대 동·하계 최초의 ‘두 도시 올림픽’",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202601062111005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-01-06T12:11:00",
+      "description": "밀라노·코르티나담페초 올리픽 컬링 종목 경기가 열릴 코르티나 컬링 올림픽 스타디움. 로이터연합뉴스개회식은 밀라노, 폐회는 베로나 4개 클러스터…95% 기존 경기장 폐기물 재생 메달 등 친환경 강조2026 밀라노·코르티나담페초 동계올림픽은 역대 동·하계 올림픽을 통틀어 처음으로 2개 도시에서 분산 개최된다.국제올림픽위원회(IOC)는 그동안 1개 도시 개최를···",
+      "summary": {
+        "phenomenon": "2026 밀라노·코르티나담페초 동계올림픽은 역대 동·하계 올림픽을 통틀어 처음으로 2개 도시에서 분산 개최되며, 95% 기존 경기장 활용 및 폐기물 재생 메달 등 친환경 요소를 강조한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "밀라노·코르티나담페초",
+        "동계올림픽",
+        "분산 개최",
+        "친환경",
+        "2026"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "기후 행동을 마침내 강제할 수 있는 비밀 병기 - 뉴 사이언티스트",
+      "original_title": "The secret weapon that could finally force climate action - New Scientist",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUTR6ZzhUVm1fQUtfRG9pamQ0SExMeFl3aUU4a0dmLVZXQ1pCNzR0RDA1MjV2blB4emZGbmZidmZBaHJhWUxHcnRFeWtybkRiTml4NlUyV21XTGEtUVd0ck8wVXBCOTNnTWlIT3RDYkFmRWtETk5jY0RaVHFBSUhZR0t4eFBTbk95MXFOclJFdHpRM19xLUdQSHBITlpHSF9mVDd6Wmd3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T16:02:21",
+      "description": "The secret weapon that could finally force climate action New Scientist",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "비밀 병기",
+        "기후 행동",
+        "강제",
+        "해결책",
+        "뉴 사이언티스트"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "29",
+      "title": "You’ve heard of climate change. What is the climate debt doom loop? - Northeastern Global News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UclZaYkZ3RFBmeDhia0RYTTVZNWExWFk1OC1QdGpIOFk2anpsTXlsc19kQUM4clB1NjF2NDNKLWNoS0NiRjExa3BtNk9pODJyTnF2YWxfTUVIMUN2VFp1LVRHMEVkUGNnNFF1Q25rWTl3QQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T19:01:47",
+      "description": "You’ve heard of climate change. What is the climate debt doom loop? Northeastern Global News",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "Snapshot: Tracking Adorable Climate Change Indicators - UConn Today",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2VmOGpwbEtHeWFIcWNYenVuQkJSdnV6RG1md0NaS2tLUXkzZlhBTk82MTR4T2x6a25zOHF2VHdwUjJvM3N1ZXQ3TXVDR1p2YTQ2OHJqSG1ZZmV6WE5hT3RpcHVGY2xBTU90SGE0VTk0cUpnMkJzYkM1ZDFEeFV1ZGx0cll5dEppanljT1pB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T12:50:02",
+      "description": "Snapshot: Tracking Adorable Climate Change Indicators UConn Today",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "자본가들은 당신이 기후 변화 걱정을 멈추길 바란다 - 자코뱅",
+      "original_title": "Capitalists Want You to Stop Worrying About Climate Change - Jacobin",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUMGRUU25kc2RtUU1KLUZlR2xZTkJKRjkxb1BSQjAzd1RFMENjM3I0VXlNSV82LVBmb2RQV3VJbEkxcUhPU0FpYTlHME9qdGpid251dFdOdy1BQ2FKYnJXejVDdTJWYlJhZk92OEFYQzRRTWM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T19:02:57",
+      "description": "Capitalists Want You to Stop Worrying About Climate Change Jacobin",
+      "summary": {
+        "phenomenon": "기사 제목은 자본가들이 사람들이 기후 변화 걱정을 멈추기를 바란다는 내용을 다루고 있습니다. 구체적인 현상, 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "자본가",
+        "기후 변화",
+        "걱정",
+        "자코뱅",
+        "무관심 유도"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "32",
+      "title": "기후 변화가 주택 구매 비용에 미치는 영향은? 여기서 알아보세요.",
+      "original_title": "How does climate change impact the cost of buying a home? Find out here. - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb1ZFZklVOUFCOTZ1YzRXNVpQMTRsNVh2RVhvQWZlX1JJZ1huNFlSdW1GMGVpMDlpMFF2aW9TTHVCcHpXTF9iRU83U3R3aG5mQTFrYUdEZmlseXlYTVM2a19NdHR0Y0VxQVJITXRkSHBNVWVDSU42YWFwMkFCUTVycFJQVW8xdFVBU3UyUllUTGx4QTNwVjNzUERhdTM5OUdnd2o2c2dOQzVSdE9JTnNkSEZhNFk5V0RFcTZuRVhJbDYwNEtHb2VKdGRoVUZqLXNfbzhQdHJfMS1GRENjWHF0YndSUXdwT2VQOXBNRHNmSTNqSTlTVkF2cg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T13:50:00",
+      "description": "How does climate change impact the cost of buying a home? Find out here. The Augusta Chronicle",
+      "summary": {
+        "phenomenon": "기사 제목은 기후 변화가 주택 구매 비용에 미치는 영향에 대해 질문하고 있습니다. 구체적인 현상, 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "주택 구매",
+        "비용",
+        "영향",
+        "부동산"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "33",
+      "title": "Climate change-driven contaminants in water - Nature",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aeEpnclVGWi0wZnNfcWpmeWZrSndRdzZjLVNkUDJvYlY4ZVFVeUp5VF8tMk4tN2dMVWtkZmxCSXBBZmE1UTZxTmtLMy1SUGF1WGUtYnhwT2VqcEZSZFZZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T11:16:00",
+      "description": "Climate change-driven contaminants in water Nature",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 물속에 오염 물질이 발생하고 있습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "오염 물질의 발생 원인은 기후 변화에 의해 유발된 것으로 명시되어 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "34",
+      "title": "영국 겨울꽃, 기후 변화로 계절 온난화되며 조기 개화",
+      "original_title": "UK Winter Flowers Bloom Early As Climate Change Warms Seasons - One Green Planet",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajVwY0FXWmcweUszZ1kxdXFqM2l3V1gzaE01bGVaYmpsR2hqZEZMdTFKYXNSR0ZiVXRRUnQ3NE5rcG9faHFrMWtFRGpSRzl6d2VWTVEwSXM4ZHJ5U0FkVTc5QWFXLXk1NEFsZ3ZxUHpBcVhXWnZ6MG1RQTRyejJpeXZ1bWpic3JvVGJRckJzQzdkaHo2dDVsaUNYWHhNVnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T14:44:10",
+      "description": "UK Winter Flowers Bloom Early As Climate Change Warms Seasons One Green Planet",
+      "summary": {
+        "phenomenon": "영국에서 겨울꽃이 평년보다 일찍 개화하고 있습니다.",
+        "cause": "이러한 조기 개화는 기후 변화로 인해 계절이 온난화되었기 때문입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "영국",
+        "겨울꽃",
+        "조기 개화",
+        "기후 변화",
+        "계절 온난화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "35",
+      "title": "루이사 노이바우어, 기후 변화 활동가: '생태학은 징벌적인 힘이 아니라 즐겁고 해방적인 것이어야 한다' - 엘 파이스 영어",
+      "original_title": "Luisa Neubauer, climate change activist: ‘Ecology shouldn’t be a punitive force, but a joyful and liberating one’ - EL PAÍS English",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNc0ZBTkhsMURnTDRpQmFVSF9KYmYwb2lObDNLa25JU0hjeE9QYUVrWWwzRGxFdV8tZHFqc2Rwc3llOWNEaDJtbE94MGVrcjJ3eHNidkJZbk5HV0JDNEFCT1lET3pJS0VCYjM5RnIzZG55ckthakxxTDZhdTRDaDgxS1hjblBUVE9sTmQ3ZDFYYjkxMlUtN3dUT0h4UEk3UEtQNEdaRktWaWtVNkY1NDA2UVhfMHBnVHY0N3FnU0FGMTFTNHZLRHFGUHRIRjNkYTJNUVlFcktWOFl1SGZ6Z3hvbE5QamkxdXZ5RDlEdHQwc9IBgwJBVV95cUxNOU5yOXRoTUFjMU54dkJET3J1QlNWTTM4S1lpbjhYY2k0VTR2TzVMdWJQMFN6MjR6N1lCSXBEMmVyMEE3aUxDeGoySzZoX05uUk5JT3hBcUZFRUYyUTE1bTY4Tko0cTZDQ0RjaUJVejRBYTJFSzViVG1Fbmx1OE9KcE8wcFNiREFub2RVVEJtVmg5X29ES2VSUHhfeXJGR0tvN0NMbXV4SUhBWXhOdy1aajRudzk5NXpYZ0lMSWY3SmZjTlBsOWNOTEFnaWxFSmplZV9PZVVza3ZTYnNsdVZjNExnQjJrVkJFLWhxSThjRnZRdk5sX3FaRGFjM3JzenZadTVR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T16:29:32",
+      "description": "Luisa Neubauer, climate change activist: ‘Ecology shouldn’t be a punitive force, but a joyful and liberating one’ EL PAÍS English",
+      "summary": {
+        "phenomenon": "기후 변화 활동가 루이사 노이바우어가 생태학은 징벌적인 힘이 아니라 즐겁고 해방적인 것이어야 한다는 견해를 밝혔습니다. 구체적인 현상, 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "루이사 노이바우어",
+        "기후 변화 활동가",
+        "생태학",
+        "즐거운",
+        "해방적인"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "36",
+      "title": "살아있는 교실이 4세 아동에게 기후 변화에 대처하고 칙카소 문화를 보존하는 법을 가르치는 방법 - KOSU",
+      "original_title": "How a living classroom teaches 4-year-olds how to combat climate change, preserve Chickasaw culture - KOSU",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZVllc3BpU1ZOdU9BM0RTNTloM3pYM2tnU1MwelZHZDQ5dVRReGM0T1U1YW1kUE5Zb0N0al85QTJFU0VhZWxMSE1vWDFZWERGblRJblR0d0NCcFRMVmhVYVpLUy1JdVVrQlVnSGdJYXJIOWhzTTBtM0JJMWdTNlR0cHBYbVJVano1bnJydGU3OXJyQUs0WFdsMUhoc05DenZ2VGRPM0xqX0pmSkZYMTJ5Q2NMaWVPWjZMWHVRTWxHUVRhLUlYR25VT25abEw2UjY5VG8tR09ESFQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T11:30:31",
+      "description": "How a living classroom teaches 4-year-olds how to combat climate change, preserve Chickasaw culture KOSU",
+      "summary": {
+        "phenomenon": "살아있는 교실이 4세 아동들에게 기후 변화에 대처하고 칙카소 문화를 보존하는 방법을 가르치고 있습니다. 구체적인 현상, 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "살아있는 교실",
+        "4세 아동",
+        "기후 변화 대응",
+        "칙카소 문화",
+        "환경 교육"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "37",
+      "title": "기후 변화로 새들이 산 위로 더 높이 이동 - KAKE",
+      "original_title": "Climate change causing birds to move higher up mountains - KAKE",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZTRfZ1diZnVNekYzN1BzTHF0MnNIWkNzNi1YMHFnOHF5ZXJYSXRieGx4YzVKLUVNblQ1REZOa1ladVl3RGJXTzVZSHlhU1RBQmRhT2ZWMEI2aGt5WTJ1UjdtcnJfNjgzQkVHY25NMDMwUHd3NXlpS0FuZ3lreExLaEpBZ1U4a0FhcW5nYURDa19sLXBJMWZNcEpfTGUya1VaaXdKZHl5OUxLSVpUSWgwei1oMDZPekl6UVJxUTFHUmp2WUVCVWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains KAKE",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 곳으로 이동하고 있습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "이러한 새들의 이동은 기후 변화로 인해 발생하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "서식지 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "고대 치아가 기후 변화와 중세 잉글랜드 이주를 기록하다 - 디스커버 매거진",
+      "original_title": "Ancient Teeth Record Climate Change and Medieval Migration Into England - Discover Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTG02NURVMjlWdGV5cXNpdFBOWVd4el83TWtWLU1OV2N2WXZ1djVTV1dlRldXUzdUNXU4UXJTMUwtd1FuU1BSSXRoanBYNUp6djlVWV8zRGdYY25NQjBHZDVaZURfblQwV3lJbGpRd1RSRjZ2TFFBWElneHhJVUdPWHhocmRyYnpvWUZTVXpfYUppa2hJdVhEVE1FVFctR3A4SUs4WkMxdEhkQkxnXzg0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T20:28:05",
+      "description": "Ancient Teeth Record Climate Change and Medieval Migration Into England Discover Magazine",
+      "summary": {
+        "phenomenon": "고대 치아를 통해 중세 잉글랜드의 기후 변화와 이주 기록을 확인할 수 있습니다. 시점은 중세, 지역은 잉글랜드입니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "고대 치아",
+        "기후 변화",
+        "중세 이주",
+        "잉글랜드",
+        "과학적 기록"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "39",
+      "title": "기후 변화 보고서, 2025년 역대 최고 고온의 해 확정",
+      "original_title": "Climate Change Report Affirms 2025 as Record Hot Year - worth.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE96Z3dkUWdCOVNKMkdGdHFEdGVjVV9RQXVHa055bE1UOGV0aXl0OGEzQktUOGdRa0I5dk1KRlRLMVl0RGdsVWhWWWxJemhWNktGOU1uVFNiTDRQNDBHaGRlX2xB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:36:36",
+      "description": "Climate Change Report Affirms 2025 as Record Hot Year worth.com",
+      "summary": {
+        "phenomenon": "기후 변화 보고서에 따르면 2025년이 역대 최고 고온의 해가 될 것으로 확정되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "2025년은 역대 최고 고온의 해가 될 것으로 전망됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "보고서",
+        "2025년",
+        "역대 최고 기온",
+        "고온"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "40",
+      "title": "지역사회의 기후 변화 회복력 강화 방안",
+      "original_title": "How to make communities more resilient to climate change - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaC11MFJMb2lMTDFKUmhSMDZxak8zRGlPSWk3R0x4emlLakRlTzhKeEpGaG0xb1Z4ZWh1R3pDZS1GT2NrTlBSVk4yRlRPeF9FYklLNDc5NndyekIxYlRZM1dMamJuakJCUnphZ3ZlZVY3a3htVUJfZE5BcUhIME1heHhfZUhBdFFwT2tvYVlTaEZkbzFoODdGaU1aZG9SbGx5Vlc2LU1abWZDYVdXd2ZKZWlzcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T16:17:48",
+      "description": "How to make communities more resilient to climate change MSN",
+      "summary": {
+        "phenomenon": "기사 제목은 지역사회의 기후 변화 회복력을 강화하는 방안에 대해 다루고 있습니다. 구체적인 현상, 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "지역사회",
+        "기후변화",
+        "회복력",
+        "강화",
+        "방안"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "41",
+      "title": "기후 변화가 인권을 위협하는 방법",
+      "original_title": "How climate change is threatening human rights - mronline.org",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWXJQQUJFOHEwWkR3MC0tRmV5Z3BtbHVIN2JWSDVXemlvVVQzTEVnZEhIZG5yTW9zYlI4MDZXUUpwLXRzUE41MnlkRFNQZm4zbGNrNTBRZnludTFoYnBFSzFrMThkaU9UOENUT0pPRzFhMHQxakt2TWV4bUItSzhmZHZ3TmoxQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T14:32:09",
+      "description": "How climate change is threatening human rights mronline.org",
+      "summary": {
+        "phenomenon": "기후 변화가 인권을 위협하고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인권",
+        "위협",
+        "환경",
+        "사회"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "아이슬란드의 환경, 에너지 및 기후변화 정책 - 오픈 액세스 정부",
+      "original_title": "Environment, energy and climate change policy in Iceland - Open Access Government",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWWNHcklwZHFmcTFOMmE1dXhNXzVCS1d6eHFRUmFJaGxDMW9YLU05ZnhfenVlRHBpU1Z2MVlfeGt2OHNEWjV3T3JSSUZoTjJ6OU5DWFBaZVl3bG1NY0NXZW1EQXpCR0xzLUw3SE8tZkdmQkRVVW13VjVueEtXakZrMDMyXzdsX0x5ZHd1Qmg4VU1QMUpSWm16TGpVOXIyaGktRkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T12:41:08",
+      "description": "Environment, energy and climate change policy in Iceland Open Access Government",
+      "summary": {
+        "phenomenon": "아이슬란드에서 환경, 에너지 및 기후변화 정책이 다루어지고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "환경",
+        "에너지",
+        "기후변화",
+        "정책",
+        "아이슬란드"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "기후 변화로 전 세계에서 지속적인 강 폭염이 발생하고 있다 - 네이처",
+      "original_title": "Persistent river heatwaves are emerging worldwide under climate change - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hOVJCTExuTFpvYlFoV0xrOUVCd0lEc2hUbndseUxGOE1EWHRwa2QycnlJeGJ6eWF4STVZbVdoM3pjUk1uVnJsUVJjMGY5MUNTYzE2V1lXN3E0NXY1bDBN?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T10:34:31",
+      "description": "Persistent river heatwaves are emerging worldwide under climate change Nature",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 전 세계적으로 지속적인 강 폭염이 발생하고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "이러한 강 폭염은 기후 변화의 영향으로 나타나고 있다. (과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "강",
+        "폭염",
+        "기후 변화",
+        "전 세계",
+        "지속적"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "다이앤 워윅, 스위티, 마야, 기후 변화 해결을 위해 협력 - 오케이플레이어",
+      "original_title": "Dionne Warwick, Saweetie and Mya Team Up to Address Climate Change - Okayplayer",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcE05QWJ1MjhLekVOSDZkYzU0d2JWT3ZQV19WV3Y2VWphcDFndG4zVGRfc2lFbllqdTFHMndiWVQwZmg2T0d6VVQzTHZudHA1WE1TMWZWOEZfUmlPNVRCX09KUXdXUkdJM0FFR01ScXdQLTNrWmw4dXl2YnBPQUlKYXFsbi1QRHNxUUhwbkhPNUl4bW9BQ0hOWWNDTW00djR6Znc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T20:39:18",
+      "description": "Dionne Warwick, Saweetie and Mya Team Up to Address Climate Change Okayplayer",
+      "summary": {
+        "phenomenon": "다이앤 워윅, 스위티, 마야가 기후 변화 문제 해결을 위해 협력하고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "다이앤 워윅",
+        "스위티",
+        "마야",
+        "기후 변화",
+        "협력"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "서한: 작가가 기후 변화 부정을 위해 빈약한 출처를 사용하다 - 버팔로 뉴스",
+      "original_title": "Letter: Writer uses poor sources to deny climate change - Buffalo News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQODNGQVJWRmlhWmUzS29WNDZ0WXNRc2VKcEcxdUlLVHE1MEFQdXFYZlhqVjVuazJyNjgyQkZFZEprODlUQUZpR3pqV3FHakFpSzlIcTVDT2g4bmROTFNTYlN2MlZmSmthbkVIc19nNld0cEZxRG5KYjZkMzRLcFdVd0p3SW5pU1dvRUlSNXNkZFJOZG8?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T11:15:00",
+      "description": "Letter: Writer uses poor sources to deny climate change Buffalo News",
+      "summary": {
+        "phenomenon": "한 작가가 기후 변화 부정을 위해 빈약한 출처를 사용했다는 내용의 서한이 버팔로 뉴스에 게재되었다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "부정",
+        "출처",
+        "비판",
+        "서한"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "다이앤 워윅, 스위티, 마야, 기후 변화를 위한 신곡으로 뭉치다 - 더그리오",
+      "original_title": "Dionne Warwick, Saweetie, and Mya team up on a new song for climate change - TheGrio",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi1BdGVtdUNWRXdtNEdleWMwQnR0VUtEc3BwSVU5SzlyM0N5YnRxLWFlUWlDb0FwLXp3NDRCd2lGMnVEUjlkLWNBY2xEaGp4ZW9QNHdkSnBLMlVYZVBtZXdDYlB2emIyVVp3bTU3aTgyY2VrZlZvQkx2M2Nkc255eGVQZDNmZjRCUWtlRlhEZXltQl9Pbm5ObEN3dUtUdF9YT3FZZVZydw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T16:50:56",
+      "description": "Dionne Warwick, Saweetie, and Mya team up on a new song for climate change TheGrio",
+      "summary": {
+        "phenomenon": "다이앤 워윅, 스위티, 마야가 기후 변화를 위한 신곡을 위해 협력했다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "다이앤 워윅",
+        "스위티",
+        "마야",
+        "신곡",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "Climate change accelerates tree deaths across Australian forests, study finds - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BYk5GcFdWSEdQLXdnWld1aDlZMGF3d1pZcmprZG5KZXd1N0F6N1FUZlZpWjdMSHlrN193UGlmcU9va3drWmpMdTl4V21aVDJyTEhTVFdJYXNLdEsxNlJERnNIYzhvN1VhOW5VdWxZbTBIREtzaWk0MS1uZ21sdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:08:05",
+      "description": "Climate change accelerates tree deaths across Australian forests, study finds Phys.org",
+      "summary": {
+        "phenomenon": "Climate change accelerates tree deaths across Australian forests, study finds Phys.org",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "기후 변화로 새들이 산 위 고지대로 이동",
+      "original_title": "Climate change causing birds to move higher up mountains - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVDhjTXVKSVVuODQ5clAwNDEtRTRNT2tQTnVJRDFwenNZd0F5MnZTUHZKNEtIZnRKbVA0VTF2Q0RnbVJEYjVuNGd3US13VHpJZG85TDVLRGN5aHlEcDRFbWdFM1lPYkVQSGJIQ2o2WmJ6VC1WaVBnOG1oUWZLdGViMThrTVNUalZlWWNGczQ0cGgxVG15ZXVvLTktZ0QyZFlUQ21qazRsWlh1SUxEZEJFOTdXdzFNOXR6OEFGR3lfZ2pkdFlEd2VwRE1kVHpiS2ZUQ0daZnlCelFYUFNxYkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Northeast Mississippi Daily Journal",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains Northeast Mississippi Daily Journal",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "고지대"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화 약속 - 카피타",
+      "original_title": "Climate change commitment - Capita",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GejhRRE9FZWxrWTZyRFZqOTFHUHNhUGVtR0xOMW5qcXluSXVnX0JWQnJvQTNmZ2xqanp4Z3B5bzdSRVJLMUdlal9SSHNqQlBCbW1TNGVVVm41YWRMUHNibTFOZVVtWUdv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T19:00:00",
+      "description": "Climate change commitment Capita",
+      "summary": {
+        "phenomenon": "Climate change commitment Capita",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "약속",
+        "카피타",
+        "기업",
+        "환경"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "기후 적응을 위한 농업 시스템 접근법 - 네이처",
+      "original_title": "Farming systems approach to climate adaptation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01dHUwSVBrMEc1M2xQcUtUc05obGxFNUlNNkNfcG9HMF96RkZYazRfM3ljNnNhSHY4SWMtNG5jZW41djltd3hCdmhQUkxjbjNlbWV4Y2RnRm8?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T13:23:05",
+      "description": "Farming systems approach to climate adaptation Nature",
+      "summary": {
+        "phenomenon": "Farming systems approach to climate adaptation Nature",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "농업 시스템",
+        "기후 적응",
+        "접근법",
+        "네이처",
+        "기후"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "미세플라스틱, 해양 탄소 흡수 저해해 기후 변화 악화",
+      "original_title": "Microplastics Impair Oceans' Carbon Absorption, Worsening Climate Change - AZoCleantech",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JeXpzSHE1dG40SkFvSzlHZXJ6ZVg3bWNreFRfYlllcjRuVXBzZkJjdlVXaGJMRWdsdlpkOHVLWVJ1N0xvTWlTY0NSTXlseVJwRVVKeHdiUEJhYTI3dmd1bA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:59:00",
+      "description": "Microplastics Impair Oceans' Carbon Absorption, Worsening Climate Change AZoCleantech",
+      "summary": {
+        "phenomenon": "미세플라스틱이 해양의 탄소 흡수 능력을 저해하는 현상이 발생하고 있다.",
+        "cause": "미세플라스틱이 해양 탄소 흡수를 저해하는 원인으로 지목되고 있으나, 구체적인 과학적 원인이나 배경은 기사에서 언급되지 않았다.",
+        "outlook": "해양의 탄소 흡수 저해는 기후 변화를 악화시키는 결과를 초래한다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미세플라스틱",
+        "해양",
+        "탄소 흡수",
+        "기후 변화",
+        "악화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "기후 변화로 새들이 산 고지대로 이동 - 시민 트리뷴",
+      "original_title": "Climate change causing birds to move higher up mountains - Citizen Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQX01fUDhzMjVDM1hjZXNpUmtxV19kV3pJSjBISWNFbUIwQ3ZsSnV4N0ZtUXNBR3h0VklXY19fNkxuZ0hlMDE5Yk9zUVM4b3FORFB4b3lXWnVEMThoUm9ScmFsYjloSVd4VmF5OWVsck5oZ1hjS3NKYUp3Y0ZpdEkzMkpUVFE4bXhSRDhTc1R6ZGRrVFFFcUxIR0llSTJOeE1YOHVKMFcwVmRTT3l6QjJhdDZBeGJ3bHVlc1Npd1lWNnk5blJaT1RSTVJyM0JoOE9Xd2Z6S3pYYXpzMVkwOUtyUU1pX1RKQUtkVnBqZ0VXdl9uNDVMTHUwT194ZjM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Citizen Tribune",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains Citizen Tribune",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대 이동",
+        "생태계 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "기후 변화가 이제 세계의 시계를 잡아당기고 있습니다",
+      "original_title": "Climate change is now tugging on the world’s clocks - ECOticias.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTIyeDRPMVJSMFJFc0lrdFBVbTMtRGhhY2d1cXkwZTZ6N3lzR2xzVmlKZUk4Ny1mckxNV3VoLUItTVYtU3lycG1sNU44R3kwbHlmWUNVMXZxaHBhOFJySWotR2xzNnpmRkVJQWl4VEV1M0RrNVRxSm5XNEdNUDQtNk5RMUo0dlhCZDVIOW9kYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T12:24:00",
+      "description": "Climate change is now tugging on the world’s clocks ECOticias.com",
+      "summary": {
+        "phenomenon": "Climate change is now tugging on the world’s clocks ECOticias.com",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "시계",
+        "시간",
+        "영향",
+        "지구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "Climate change causing birds to move higher up mountains - Indiana Gazette Online",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOTNmTVk5SEFzM2VyRmYtYWNDeE1ORjRKNHBxYlh0VnEwTXVxcTRDdUlpd3p2enhiU3AydEhwdkRKZlk2OW0tMFdzZDg5MzdHbFQ5UkFqbDA1a3h1YldPTkQ1M1lsRlZCWC1SMGRoZ2huMjgxMnJ2WVpRVW5mQU1hdm5YRXNKZ2YxZlY5WVJkTkhvZldrSXpMVzd1UkVxd1hyZkxxbWlfQkd0UmdoVWRRQ00tNGlRcE5WZXVfVnlSUEd5ZjRZN0dScTFDazNMeUYtZDVtSzBQRkNvS3NxN0dR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Indiana Gazette Online",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains Indiana Gazette Online",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "기후 변화로 새들이 산 위로 더 높이 이동한다 - 잠발라야 뉴스 루이지애나",
+      "original_title": "Climate change causing birds to move higher up mountains - Jambalaya News Louisiana",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNczVfdjYyVHJtVUJtU2otOUxDNkI0eW9LdFNOU2hlcmh2bUJDYmRwRU5iTjZhbGdwZWk2WVdWRXNWN2doUFlxRUhzZG9ZUGp4bmhvc3FNN1hEc2hrUV9IRnc3em96UzdnRlBzNWRabnBsZEpxTWk4c0I3c0kwY01RZVJRaE8wblVYT001QnBsZERGZGRLb2daYnRwMmJSNWgxUFhCekVCZDBTS2tmUGRtVWNPZ00tbDRvZnQ3QWlRTE42V2UyOGpfX0RwY2ZrMGlGRGJ0dnpsQTRrZHNfem10YmRCVVk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Jambalaya News Louisiana",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains Jambalaya News Louisiana",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대",
+        "이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "How writing about places people know makes the climate crisis less abstract - The Conversation",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeDZJS2x1TTYwVDdyQlpBU1JvVUsxX25WbHc1V2pnOUtocklETEhHdUJZMHpQZVpBR1huSFN6Yk1vMWJwSVY5SlVsOEJTbDVILWlxangxQ0xmaUpZUXpwUDc3M1V4ZGR1cUhtaFhrMEdWb080dnVtd2ttbnFGTW1iQmR4emVzR1lOQWlGMGhfMGUyb2VubmFEMVAwbmlKY0xJU0lMTG9tcGlDVUo4S3Br?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T13:12:17",
+      "description": "How writing about places people know makes the climate crisis less abstract The Conversation",
+      "summary": {
+        "phenomenon": "How writing about places people know makes the climate crisis less abstract The Conversation",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "기후 변화로 새들이 산 위로 이동한다 - 더 콘웨이 데일리 선",
+      "original_title": "Climate change causing birds to move higher up mountains - The Conway Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZFNhR3FEa0tjT01lUmNPVkgwN0oyZ1hYLXNRR1dkOVhQSWFJUWVHTi1yWFg1blFINVVtdEs1SHNTemZaZWh4aF9LbXB5TjdxbEJ2dVprZkZTaE8zQmJQRTlCRGNPOTVQMWgyVzNZVlZWaXJCbmNKbGZQbTdHcHdXaUl2REJ5QndTY0V3bElqZ1F4R3NYbHFJWkJobU92eS1NRjN4WE4wRWJMZFlTaFNTcG1pVjVjNG5PSm8xVF9KLS1aTDBoSl9lbURTd0I2VFRRanNSWjQ3RUVtWnRaOUQyM2h6aTEtTG8?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains The Conway Daily Sun",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains The Conway Daily Sun",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "고지대"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "2026년 예측: 기후 변화 위험과 과제 - 보험 업계",
+      "original_title": "Predictions 2026: Climate Change Risks and Challenges - - Insurance Edge",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFVLOTV6VzBIY1dUeHllWDhJUU5DbmhlWWt3TzNQY1JUSEFiaE1mNnBSMjNoQkhpX3BVQUJUOThkaEppbTFnRUFsd19DYVFicG96UEt3NXJvQXhZeWk3QXoyTFpYcURhMVpMYXdpVkJ3dk1sSlZGNUEydi1IWkZvSGFqSzdsaklzRmpQT05xMTRyVm5hbFE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T14:12:25",
+      "description": "Predictions 2026: Climate Change Risks and Challenges - Insurance Edge",
+      "summary": {
+        "phenomenon": "Predictions 2026: Climate Change Risks and Challenges - Insurance Edge",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "위험",
+        "과제",
+        "예측",
+        "보험"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "59",
+      "title": "기후 변화로 새들이 산 위 고지대로 이동한다 - 브라이언 타임즈",
+      "original_title": "Climate change causing birds to move higher up mountains - Bryan Times",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWGhNaTN4VmlkWjFmMlpmTHFBUDE3czRMT2tSSkZCZ2xjYThCWlFsWTFHSXN2MXkweFo4ZS1KSmdESmg3cVJvN3gwTUxhbUVvX3B2aV9tYjRxblRzd21CMXNyZFhUSkNtNThyU2hBYnc3c19zUmJELTR6R1I4bWV5bzVKb2RMcl9lVDZlM3J3cDJkemw3VHZTVUtHVi1QMEJIZ0dicXJxNEU0OHB1bFFOTGpPSFFhUEhNUmhtVURmT2xiLVNHX2EwU3g5VmlwQ0JBeVl5Zg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Bryan Times",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains Bryan Times",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대 이동",
+        "생태계 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "60",
+      "title": "기후 변화로 새들이 산 고지대로 이동 - 샌포드 헤럴드",
+      "original_title": "Climate change causing birds to move higher up mountains - The Sanford Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQ1lPQUswZVU1amFEeGZid3BlVTVpUkt5YmZ5ZTg1Vmo3UjJwQ0h2Umg4QlFFTlFjc2xrUzUtc3pKZmpGV0VXMU9jdFhnVE1PemVUdXFzeXl0VU05dVVicVpCM1pTdjEzWXZaM2M5VHJPSmRkM1oyOVBGblA1TFdMVlY1OVU0MEs1R1R0WU9UNFR6OExuQXFYNl84ajJTMkZrSGhnZFhOaTc5V1pQZ2RoN3UxdG9vRHFQOEJSLVl3SVRIbUZCOVUtT21Ca0NMdFpieV9BQWhxUFJTTkFZZ2tCY3RKNjk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains The Sanford Herald",
+      "summary": {
+        "phenomenon": "Climate change causing birds to move higher up mountains The Sanford Herald",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "서식지 변화",
+        "고지대 이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "61",
+      "title": "소비자 설문조사: 캐나다인 약 60%, 기후 변화 우선순위 하락에도 산불 강력 조치 요구 - RBC",
+      "original_title": "Consumer Survey: Around 60% of Canadians seek strong action on wildfires even as climate change drops on priority list - RBC",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNS3F6S25RYXZmOTNFZ2NITnY5N3lscVhmVFk1SW13YXpOeWgteldYWjA4VlkzUFNwbmpRaG1Fc0hIc3ZSTlZsNWEwTmlXQkRIX3ZQMkRDaUJ4TVFRYkt1RTN2WDc4YVBZdDUyUl9iNGVtVjFSYUJ1dWdiRGFyN2VCSnJuSzVxU2tfR2NpY0M0ZWRwcGYzTEtBSHhsaVBfeExNUjdUX0NQYTRyaFNTQzJqSUZfSnZ1VG1FLWE2ZjUtd0JSSXdZX01iY1VseG14ZE84NzkzTnFFMno4cFdsV1Q1REZWWWVsdGZaUUtZdVBneWxmWHNkWTlKZUhISThGY3B4M3ZHZ1Q1SU03SzRDbVh5eQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:58:17",
+      "description": "Consumer Survey: Around 60% of Canadians seek strong action on wildfires even as climate change drops on priority list RBC",
+      "summary": {
+        "phenomenon": "캐나다인 약 60%가 기후 변화가 우선순위 목록에서 하락했음에도 불구하고 산불에 대한 강력한 조치를 요구하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "소비자 설문조사",
+        "캐나다인",
+        "산불",
+        "기후 변화",
+        "우선순위 하락"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "62",
+      "title": "기후 변화로 새들이 산 위로 이동 - 브랜슨 트리-레이크스 뉴스",
+      "original_title": "Climate change causing birds to move higher up mountains - Branson Tri-Lakes News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLVR2R09sNzNFT2QtazVyWTdHOHlVbmpLLUItN2ZUMldIam03UHRXUndWeE54UFZxWkNIcTdPdTNzZ0phSGw0eGhUZXMzeTdGNmw1Umk3SzJxaEtIUWhhTXRpMG1SR1lfOGlVMlNwZkxyellFWUxYdDRoaS1UdU40TlllblZENllEWVZiRjdpd3dmM2VXMi1WUkVoNkVBN0Vp?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Branson Tri-Lakes News",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "고지대"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "63",
+      "title": "기후 변화로 새들이 산 고지대로 이동한다",
+      "original_title": "Climate change causing birds to move higher up mountains - rrdailyherald.com",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNM1A5dVEtekNQSU9yZmJod054SkwxSS1MeENCc2RFNGVNY1FLeWQ4SmZjc3oySHNVQ194LXFyV0N6V1h4Q2x2VW5BMlg4aWFVOGZkM1Z4djZZQUkwMVZ4UDhiTHNJNUNiMnhGOWJwUnRUc2ViU2pvaXB6RkFocU5FMHFncDlZZnlkSjNEYmR1dGJHb29xd1lqUlhhODVfbHVnNTNZS1ltTHh3aHowaWNUZXBCMVdCX1lYWEFkRXFLeXp3VTZXNzlTMzgxTTVsbWU0TjJuWUNEbzdMd3pFakFrdkhnaXE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains rrdailyherald.com",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대",
+        "이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "64",
+      "title": "기후 변화로 새들이 산 고지대로 이동한다",
+      "original_title": "Climate change causing birds to move higher up mountains - thedigitalcourier.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTDJrWmEwS1gwajFQRFF3a1kzb25yX2ZjLXZTNWdRYzZhbXdUMGZBMElBTUQ4M3RUZ2dCT0NrZTFRbEhVY0piS0RiZ0ZlZ2k5aTNlbU5pZkhQcWRpcDlSUkxyQnZmYWxwY2dTOWFpSEo2TllvV1JMUElBVmRTSzhxRi1aMFRGZ1dFUDBnamUzRFdmdVJicENOZ0xva0Vpa2VPY0xMSU1ON2pSZW1SeHN3R0lfTFh1YU1rZGdzRGhMblhCQ3dUYjdyWWk1Mmt0a2ExZWQ3dkZEbzlweDMwd3FFVE52bVc5QzdHekE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains thedigitalcourier.com",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대",
+        "이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "65",
+      "title": "기후 변화로 새들이 산 위로 더 높이 이동한다",
+      "original_title": "Climate change causing birds to move higher up mountains - News-Topic",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPX3hJd3dlcjJyR3l4bXJsVEpmcE9maVBraDNrdzlfMGdYeVRNVy1WWXZ0RnlnUDVTaExMenhSVGlBb2NpZm1OR1dwRU1KX1NVOS0wOGRYc0VFdDlrN1VSdE95YjByMUJvMUFDV1c3ZVgyN1RkNXFBWF9fYVAwSExjczBDU2czUnJLa0lVVlVYbmFxNTF4RlNOZVJxR0w5WGxmY0hhY29Mek92ZFBvQzQxVXN2V3U2Z21tUmtvWEptZEZlR1k1clZZNWJ4YW9kNXpmZmZUSnltbjFRekZPbnlfWW9ZcXI?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains News-Topic",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대",
+        "이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "66",
+      "title": "기후 변화로 새들이 산 위로 더 높이 이동한다 - 더 헤럴드 팔라디움",
+      "original_title": "Climate change causing birds to move higher up mountains - The Herald Palladium",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMGpfUGNwM3lqRVFMbl9oa2JIc0lkN19rcjNrNkhTeVhVUUtVOGU1aVE3ekE1ZTJUdHA3QVVSZzZ5cktRZGtwbWpiYlh6bVhJYjBxbkxlMVI1amZTbzhpU2FZd2Z4dk1OaERWNk5wcF9rcjY1Y1pJVVVtY2UtdTlEdkN6aUNOdzZLVDR1azBURDllQlVWajRPWUpBWDJmc1lUVkJ6b1FEdmpDMTRsS21HMGQ2aTI0YWJMbzlKTTBVei1vVHZnRGxtZXFZLVlzbW1GYzQ0dmctdEdJS3g5YmMyUUZpREFuZEk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains The Herald Palladium",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대 이동",
+        "서식지 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "67",
+      "title": "기후 변화로 새들이 산 위로 이동하고 있다 - 레바논 데모크랫",
+      "original_title": "Climate change causing birds to move higher up mountains - Lebanon Democrat",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVmRwdU9oOVAtZ1JTY29XRTdsTE5lTm91XzZZU19IdVRvaUlGVnZ1ZjJaVjNLVFpuRnQzMHhMSHVBMjdQZGNTTW9BbS11bm5XLTlfVGlJYVQ3eHhNVzctaXF2Sy1UcFdFQXpFQnNFelk3QWlkcjYxcUNTOFlRXzVjejg3a0k2bW5sZzZsUFNlc0R5QzJnM24tVHgwVXc3d1ozSFVyNmhPR0lMajEzWWlGLU9fT2lOWnlYMGNueF9FQllEWWN0Q2VjX2tucEtSWDd1dThDdGJKSjJGOFA5UDFSU2JGUzlSLVE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains Lebanon Democrat",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "고지대",
+        "이동"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "68",
+      "title": "기후 변화로 새들이 산 위로 이동한다",
+      "original_title": "Climate change causing birds to move higher up mountains - The Daily Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa3ExZDdWRTBnMExiVkMwbHVBMzRwaFUzeEZXT01QaV9NUlljNllPMGRDMVBxSXBXNm9yWnQwX1dUQkpkdVBERFdOellHcFc2NnBsM2luUlpUTXVyZUJrUzY5YTI1QTdlYmZjYWF1a0tPcGdOb2Z0dFFwN05heGU3WFVXVTFjOWxTdUtiLTlnaXJUd2RUSlNDOVlJNWM1MHRwcFp2dkhaOEg4ZDhuTTZxa2ctdVBHdW91dm0wc1pRdHZCUzdHZ29DSGRRakpibWhZRzFyUXhwSzZ2dzFUU2ZfM1VGOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains The Daily Gazette",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "고지대"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "69",
+      "title": "기후 변화로 새들이 산 위로 더 높이 이동 - 로체스터 센티넬",
+      "original_title": "Climate change causing birds to move higher up mountains - The Rochester Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOG45dHU3UFZFTHRTMXJ5dDdyalJ2S211ZzBKRkZIRFE5clRLNUU1ZTVXZm9tTVJoZ3ZtcWFKazRvVF9lNjF3UWtLWU1ITkszMW9kWnR0cTlLNk90aV9QVW5RRTFia1EtYjAyeUFXS1VOMjBaaTBNRy14XzdZS3BlY2NJUGRiVkg5bXAzaE1GWDNuYVNMNkUtc21CWG1wWXg5eDJfYnZQRHpxT1NjQTZvU2ptZ29TU1VmS1hmTzR0bGp2NlcyRzlQZUx1SDZ3bS1qWGVBRlJ6RW5MSlJ1MXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T15:30:36",
+      "description": "Climate change causing birds to move higher up mountains The Rochester Sentinel",
+      "summary": {
+        "phenomenon": "새들이 산 위로 더 높은 고지대로 이동하고 있다.",
+        "cause": "기후 변화가 새들의 이러한 이동을 야기하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "새",
+        "산",
+        "이동",
+        "생태계 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "70",
+      "title": "리도 운하 스케이트웨이의 기후 변화 도전",
+      "original_title": "The Rideau Canal Skateway’s climate change challenge - Canadian Geographic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMG1SdjVlaVJQakFBWGItTmZoMkNXbV9PQnUtWUxtVml0UTRacDlmbTMzQmU0dU8yLVI4N0p1YWNSb3p0M3U1eVRRYzNYUENVeHQtUktxU3U1cDdyRTMxMGV1RGpWbmN3amhqbmhaNE5iX1l4TDhFcV85aWpPRXVYY3hTVXFlVHYwWVl3aFRfMWUxUU8xNHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-06T14:40:45",
+      "description": "The Rideau Canal Skateway’s climate change challenge Canadian Geographic",
+      "summary": {
+        "phenomenon": "캐나다의 리도 운하 스케이트웨이가 기후 변화로 인한 도전에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "리도 운하 스케이트웨이",
+        "기후 변화",
+        "도전",
+        "온난화",
+        "겨울 스포츠"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "71",
+      "title": "동남아시아 넷제로 온실가스 배출 경로를 위한 에너지 시스템 최적화 모델 개발 - 테크 익스플로어",
+      "original_title": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia - Tech Xplore",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMENvdm1fMjFHajhVT3oyU0VRbzNrYmFXQnU1Y0VFLUZrdHBVVjl1ekxPSVdMbG5mWk55SFFybHpyeG5rWWt4Vl8zcXVrVlVlSnZDaDE2ZDZsNFVQdXpIU0sybUtOaUJhaUtUekdtY0NlV0FuTVpESFpQUlkyQ1FZYTFaQ0RoODAxNThEaQ?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-01-06T15:14:31",
+      "description": "Energy system optimization model developed for pathways to net-zero greenhouse gas emissions for Southeast Asia Tech Xplore",
+      "summary": {
+        "phenomenon": "동남아시아의 넷제로 온실가스 배출 경로를 위한 에너지 시스템 최적화 모델이 개발되었다.",
+        "cause": "이 모델은 동남아시아 지역의 넷제로 온실가스 배출 목표 달성을 위한 경로를 식별하기 위해 개발되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에너지 시스템",
+        "최적화 모델",
+        "넷제로",
+        "온실가스",
+        "동남아시아"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "72",
+      "title": "Liz Kendall says Elon Musk’s X must urgently deal with ‘appalling’ sexualised deepfake content produced by Grok AI - as it happened",
+      "original_title": null,
+      "url": "https://www.theguardian.com/politics/live/2026/jan/06/badenoch-trump-venezuela-maduro-starmer-streeting-uk-politics-latest-news-updates",
+      "source": "guardian_climate",
+      "published_at": "2026-01-06T17:49:47",
+      "description": "Science secretary says the deepfake content being produced on the platform is ‘unacceptable in decent society’In her Today programme interview this morning Kemi Badenoch tried to outflank Nigel Farage on net zero scepticism by claiming (wrongly) that she started talking out this before he did.Asked by the presenter, Nick Robinson, to give an example of a single policy that the Conservatives would implement to boost economic growth, Badenoch said that they would allow more drilling for oil in the",
+      "summary": {
+        "phenomenon": "리즈 켄달은 일론 머스크의 X 플랫폼이 Grok AI가 생성한 '끔찍한' 성적 딥페이크 콘텐츠를 시급히 처리해야 한다고 밝혔다. 한편, 케미 바데노크 과학부 장관은 넷제로 회의론에 대해 언급하며 경제 성장을 위해 더 많은 석유 시추를 허용할 것이라고 제안했다.",
+        "cause": "딥페이크 콘텐츠는 Grok AI에 의해 생성되고 있다. 케미 바데노크 장관의 발언은 넷제로 회의론에 대한 정치적 논쟁의 일환으로, 경제 성장을 위한 정책 제안으로 이루어졌다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "73",
+      "title": "Trump taking ‘drill, baby, drill’ plan to Venezuela ‘terrible’ for climate, experts warn",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/jan/06/trump-venezuela-oil-climate-crisis",
+      "source": "guardian_climate",
+      "published_at": "2026-01-06T13:00:13",
+      "description": "‘Everybody loses’ if production supercharged in country with largest known oil reserves, critics sayDonald Trump, by dramatically seizing Nicolás Maduro and claiming dominion over Venezuela’s vast oil reserves, has taken his “drill, baby, drill” mantra global. Achieving the president’s dream of supercharging the country’s oil production would be financially challenging – and if fulfilled, would be “terrible for the climate”, experts say.Trump has aggressively sought to boost oil and gas producti",
+      "summary": {
+        "phenomenon": "도널드 트럼프는 자신의 '시추하라, 아가야, 시추하라(drill, baby, drill)' 정책을 베네수엘라로 확장하여, 세계에서 가장 많은 석유 매장량을 가진 이 나라의 석유 생산량을 대폭 늘리려 하고 있다.",
+        "cause": "트럼프의 정책은 석유 및 가스 생산을 공격적으로 증대시키려는 목표를 가지고 있다.",
+        "outlook": "전문가들은 이 계획이 실현될 경우 '기후에 끔찍한' 결과를 초래할 것이며, '모두가 패배하는' 상황으로 이어질 것이라고 경고한다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "74",
+      "title": "We can safely experiment on reflecting sunlight away from Earth. Here’s how | Dakota Gruener and Daniele Visioni",
+      "original_title": null,
+      "url": "https://www.theguardian.com/commentisfree/2026/jan/06/reflecting-sunlight-climate-crisis-heating",
+      "source": "guardian_climate",
+      "published_at": "2026-01-06T12:00:12",
+      "description": "Reflecting a small fraction of incoming sunlight to reduce global heating is not a new idea. It is time to safely experimentThe world is warming fast – and our options to avoid catastrophic harm are narrowing. 2024 was the first full year more than 1.5C hotter than the 19th-century average. Emissions are still rising, with fossil fuel use expected to hit a new high in 2025. Permanent carbon removal technologies – often cited as a fix – are removing just tens of thousands of tonnes annually, almo",
+      "summary": {
+        "phenomenon": "세계는 빠르게 온난화되고 있으며, 2024년은 19세기 평균보다 1.5°C 이상 더 더웠던 첫 해로 기록되었다. 배출량은 계속 증가하고 있으며, 2025년에는 화석 연료 사용량이 사상 최고치를 기록할 것으로 예상된다.",
+        "cause": "이러한 빠른 온난화는 지속적인 배출량 증가와 화석 연료 사용량 증가에 기인한다.",
+        "outlook": "재앙적인 피해를 피할 수 있는 선택지가 줄어들고 있으며, 영구적인 탄소 제거 기술은 현재 연간 수만 톤만을 제거하여 불충분하다. 기사는 지구 온난화를 줄이기 위해 들어오는 햇빛의 일부를 안전하게 반사하는 실험을 할 때라고 제안한다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 74,
+    "domestic_count": 27,
+    "international_count": 47,
+    "top_keywords": [
+      "기후 변화",
+      "새",
+      "산",
+      "이동",
+      "탄소중립"
+    ],
+    "sentiment_breakdown": {
+      "positive": 32,
+      "negative": 29,
+      "neutral": 4
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
