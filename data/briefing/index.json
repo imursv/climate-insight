@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-01-09T08:13:44.762709",
+  "last_updated": "2026-01-09T23:11:57.074020",
   "available_dates": [
+    "2026-01-10",
     "2026-01-09",
     "2026-01-08",
     "2026-01-07",
@@ -27,6 +28,13 @@
     "2025-12-17"
   ],
   "dates_detail": {
+    "2026-01-10": [
+      {
+        "period": "morning",
+        "file": "2026-01-10-morning.json",
+        "period_label": "오전"
+      }
+    ],
     "2026-01-09": [
       {
         "period": "morning",
@@ -306,6 +314,6 @@
       }
     ]
   },
-  "latest": "2026-01-09-afternoon",
-  "total_briefings": 46
+  "latest": "2026-01-10-morning",
+  "total_briefings": 47
 }
