@@ -1,16 +1,16 @@
 {
   "date": "2026-01-10",
   "metadata": {
-    "collected_at": "2026-01-09T23:11:57.050621",
-    "total_articles": 34,
+    "collected_at": "2026-01-10T08:06:46.088551",
+    "total_articles": 44,
     "sources": {
-      "korean": 17,
-      "international": 17
+      "korean": 19,
+      "international": 25
     },
     "sentiment_distribution": {
-      "positive": 12,
-      "negative": 9,
-      "neutral": 7
+      "positive": 14,
+      "negative": 13,
+      "neutral": 8
     }
   },
   "articles": [
@@ -859,6 +859,246 @@
         "climate action",
         "IPCC"
       ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3d6523c181493feb",
+      "title": "이효원 서울시의원, 시도의회의장협의회 기후위기극복특위 부위원장 선출 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tMjdaZ0d5WXVzOUZkOFoyaGdSUmhxNzFSMXNENWFybUpkbC1lc0ZTbVk5dEhETTNudW1HcnVsNUpsZnZ6VDB0QldObGNiRkxpQzA0aXV1YXhOdE1kX2c0amp1Nnc2c2NJU2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-10T06:44:52",
+      "collected_at": "2026-01-10T08:05:29.299281",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "이효원",
+          "서울시의원",
+          "시도의회의장협의회",
+          "기후위기극복특위",
+          "부위원장 선출"
+        ]
+      }
+    },
+    {
+      "id": "cebceeddcb6b23a6",
+      "title": "AI 데이터센터, 재생에너지·SMR 등으로 자가 발전 고민할 시점 - 산업일보",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tVld2LU15cF9KNXRsSzlCREdkbF9ocDVSbnB6aWw3ZThHVV9KRDd3NGhTVm9kWGs1UVhGcDNoZGZWdUtW?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-10T04:35:28",
+      "collected_at": "2026-01-10T08:05:29.247184",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1d5782f7a09dfd25",
+      "title": "Bill Gates funds many green energy tech solutions, but he says true climate action really needs this to succeed - Fast Company",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFp5Y1VzMUJYSUthVU83UHIwSGN0LWxDZWNocEktQkV4aHp6ZWpNcUdQd3ZIbmhzX1pRUF8wZEFha0t0dHRISkZRWF9sSzlIRkhYZ0U4b1JMQjhpUGFkM2hZT01ESDNaT1VGV00zVTNRWjVCbG53R1R2RXBXNDhpSEZXak5tQ2RWaXVnUE95MmxndWd0bHBfenNDYlZzeWNjMk4tS1lxODhRblpvWmUtQVRnMzVRRTRJcm5LTnRjd3FQVXM4Z0ZubTlISEhGSzZ5RmZ5ck5NY251MDdFeWZiaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-09T20:18:35",
+      "collected_at": "2026-01-10T08:05:31.209354",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d07b94c815ad2de7",
+      "title": "In More Pain? Blame the Weather – and Climate Change - Pain News Network",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmd3MUYwbW9pcDdZUHFTZy1xMmpZbk50SmtRUk5pQUFZV3l2YmhjbEFIWHk1THh3aFRlNDlnNUdSdXp1ZmZVby1ickl5MUpVY25QSjR6aHJxUHkwUmlidHA2TUp5VHpjU0JBd1haUFpvRmRncmlWREJkVkhaaUVhTDlzZW5xRGJGMW95dDRSUkZxY3FJMmRwcTc3c09BUWs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-09T21:37:54",
+      "collected_at": "2026-01-10T08:05:31.209393",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "더 아프다고요? 날씨와 기후 변화를 탓하세요 - 통증 뉴스 네트워크"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "통증",
+          "날씨",
+          "기후 변화",
+          "악화",
+          "원인"
+        ]
+      }
+    },
+    {
+      "id": "a66f21952db6f0bc",
+      "title": "What the US withdrawal from international bodies means for climate change and biodiversity - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWs2Q1BBRmxkTjFScnVwdmY2eHZfbkVCYjVRS1I3ZzVBZzZDY04zNmFwdzJlbEZqV2k5TXdYZjVNUkNNUTc5bk5KUm1oWXAzTW96UjA0V2RSa2lYMTQ2eERJblk5ZFVSVDlFQ29JWlNELURZUmVmN2ZpdFFFbXBVekprYlRZX1A0dGctcENqUjI3WUZuVVJyWm90cFFmUVlRc0ZCQkFacUlRcldzMjktemM2Rmh4d1RnXzhPLXFYTDBVbzFHQjNMSkpuSkZQb0ZpZEQzaUV4Nlp2TG5jQzMxQWMtWmltQ1MzUVBYUGNBNV9wR05HY1hn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-10T03:00:09",
+      "collected_at": "2026-01-10T08:05:31.209471",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "미국의 국제기구 탈퇴가 기후변화와 생물다양성에 미치는 영향"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "국제기구",
+          "탈퇴",
+          "기후변화",
+          "생물다양성"
+        ]
+      }
+    },
+    {
+      "id": "9182c5ada9612cca",
+      "title": "Bill Gates Says Climate Change, Children’s Health Need Funding. AI Will Help. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMirANBVV95cUxQWXk5eURqbGQ0VzRiNmJFM1h4ek42X0tjVUc5UF9FUUNtcU16OFdTVkhkMFI3T3lxZkxmM2VISW00dFBfTHNjTDBuemVKUmxxSVV6Vi1hZnktajh0SFk2YmRxUXgtSzNnVDJuNGY3N0xudFdlYmtfcUxlbUZTV096SFVyb2NWUEE2bUY2THN2dWZLalBJUm44Z0xENmtiZU9FdjkwajZ4YjZvRlE0MXR0S2hOeUdOWlFSSG9ZbXdZb0JTU1hJY3BQNU1jbFZSR1lPWGdqTDZSVGJVNFl0NWw4WDA4QVlzb2pPNldpREtrMlJCelMyMGtQVHZBY29tdmR0UWl3aWQ2R1NLa3lHVXY2RjFUV3ZNNmZqNnJuUzFVRThqWnNubUdsXzFiaExIX25Hejc5Y2ZFdEVLeG5MUVQ2QUFUNVZuV18zZmdTeExKUmU1bEk3dVdwRFo1WVhPSnpydzNpRWF2b0dLeFBSU0hOYWVLMDJtNlBtZi02M2FsVlp0QTRPYlUxT0tuNnktUnVVMjktNGM3NGF4b3RDRHVaaklkUDJETWFIdi1WQg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-09T18:57:00",
+      "collected_at": "2026-01-10T08:05:31.209894",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "빌 게이츠, 기후 변화와 어린이 건강에 자금 필요... AI가 도울 것"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "빌 게이츠",
+          "기후 변화",
+          "어린이 건강",
+          "자금 지원",
+          "인공지능"
+        ]
+      }
+    },
+    {
+      "id": "daea32d4bed024a3",
+      "title": "Biochar: Unlocking the Potential for Climate Change Mitigation and Carbon Markets - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjR3cTBhZEUyRHV3dkFnbU5VbDRYQl9FaGNTbzhCSzlwNExON3VBWG01Rk5sRndJUXctaG5SZ24zalNGTFVrRzc2dHpCZzdjbkN1VE10Z0E1aHdjMmd1cFJuRmU5SzRGNXZrbHpHVzB5RzNJelk2eXlyYVIyX254S0RiWFhNSW9Wc3FyNjBGQWN6TWJQNFZhaVQ1Ui1TaUlrRlV5dUo2ZGo4dw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-10T01:48:22",
+      "collected_at": "2026-01-10T08:05:31.211082",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "바이오차: 기후 변화 완화 및 탄소 시장 잠재력 발휘"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "바이오차",
+          "기후변화",
+          "탄소시장",
+          "완화",
+          "잠재력"
+        ]
+      }
+    },
+    {
+      "id": "0841bc2658882bee",
+      "title": "Your chocolate cravings could soon be punished by climate change - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZUJxRG13TG52cjVac2JlMDYxdnV1LUNxeEFETTRHdzFncmIyRldrUG1EYTFTaXQyVGFhUTdyUzFiUGZGWWtGblU0MnVTdklNQTJrNzhYMUFYUENQN3BGcHl6aXhUZ0RwTWxLc083S3JZcHdpTFJDUWE2VW5CMFgtc3hra1lwcEZyT3FyOWs0S0FCNGd0TnhKVUFtc1dCbXFwbENUR1c4Nk10aHgwYjA2Tnlla1JaY1UwQXBuM0lKRnJrN1pQYzFNeHdJSUdMZDZQalN6SVdHU2MxbWJ2NjdaQ05JTk13WkUzcWR3bw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-10T06:10:45",
+      "collected_at": "2026-01-10T08:05:31.211378",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "당신의 초콜릿 갈망, 기후 변화로 곧 대가를 치를 수도"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "초콜릿",
+          "기후 변화",
+          "식량",
+          "영향",
+          "미래"
+        ]
+      }
+    },
+    {
+      "id": "96b42bba2cdc56c9",
+      "title": "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam",
+      "link": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-01-10T05:00:48",
+      "collected_at": "2026-01-10T08:05:30.834022",
+      "keywords_matched": [
+        "carbon emission"
+      ],
+      "translation": {
+        "title_ko": "옥스팜: 세계 최고 부유층 1%, 2026년 탄소 배출 공정 할당량 이미 소진"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "부유층",
+          "탄소 배출",
+          "옥스팜",
+          "탄소 예산",
+          "기후 불평등"
+        ]
+      }
+    },
+    {
+      "id": "c0f4bcaacce65e5a",
+      "title": "Quebec’s Lake Rouge vanished – but was it a freak natural event or caused by human actions?",
+      "link": "https://www.theguardian.com/world/2026/jan/10/quebecs-lake-rouge-vanished-but-was-it-a-freak-natural-event-or-caused-by-human-actions",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-01-10T06:00:53",
+      "collected_at": "2026-01-10T08:05:30.834600",
+      "keywords_matched": [],
       "translation": null,
       "sentiment": null,
       "keywords": null

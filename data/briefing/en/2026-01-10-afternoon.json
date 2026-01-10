@@ -1,0 +1,309 @@
+{
+  "date": "2026-01-10",
+  "generated_at": "2026-01-10T08:06:46.087400",
+  "briefing": {
+    "opening": "Good morning/afternoon. I will now begin the climate briefing for January 10, 2026.",
+    "sections": [
+      {
+        "title": "🇰🇷 Domestic Climate Response Policies and Energy Transition Discussions",
+        "content": "Domestically, policy efforts to overcome the climate crisis are ongoing, and expectations are building for strengthened climate action at the local council level. An example of this is the election of Seoul City Council member Lee Hyo-won as Vice Chairman of the Special Committee for Overcoming the Climate Crisis of the National Council of Metropolitan and Provincial Council Chairpersons [1]. Concurrently, discussions have arisen suggesting that it is time to actively consider self-generation solutions utilizing renewable energy and SMRs (Small Modular Reactors) to meet the surging power demands of AI data centers [2]. This indicates a critical challenge for achieving both domestic industrial development and climate goals simultaneously.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 Direct Impacts of Climate Change and Global Warnings",
+        "content": "Globally, the direct impacts of climate change are becoming increasingly prominent. Climate change is reshaping the form of winter [6], and reports even indicate that people are experiencing more pain in connection with weather changes [4]. Notably, in Quebec, Canada, an unusual natural phenomenon occurred where Lake Rouge disappeared overnight, traveling approximately 10 km to flow into a larger lake, raising questions about whether this is due to human activity [11]. Furthermore, a warning has been issued that climate change is negatively affecting chocolate production, suggesting that our chocolate cravings may soon come at a cost [9]. These reports clearly demonstrate the widespread and severe impacts of climate change on our daily lives and environment.",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ Deepening Carbon Inequality and International Responsibility",
+        "content": "A shocking report has emerged indicating that the issue of carbon emission inequality in climate crisis response has reached a severe level. According to Oxfam research, the wealthiest 1% globally had already exhausted their fair annual carbon emission allowance within just 10 days of the start of 2026, and the wealthiest 0.1% did so in just 3 days [10]. This strongly suggests that the climate crisis is deeply intertwined with issues of inequality. Meanwhile, concerns have also been raised regarding the impact of the United States' withdrawal from international organizations on climate change and biodiversity, once again emphasizing the importance of global cooperation [5].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Seeking Climate Solutions through Technological Innovation and Funding",
+        "content": "The importance of technological innovation and funding to resolve the climate crisis is also being highlighted. Bill Gates, while funding various green energy technologies, emphasized that 'something more' is needed for true climate action to succeed [3]. He also stated that funding is urgently needed in the areas of climate change and children's health, and that artificial intelligence (AI) can help, raising expectations for the positive role of technology [7]. Concurrently, biochar has been presented as an effective method that can contribute to climate change mitigation and realize carbon market potential, adding hope for new solutions [8].",
+        "tone": "positive"
+      }
+    ],
+    "closing": "Today's briefing has conveyed a complex message encompassing the severe impacts and inequalities of climate change, as well as domestic and international policy efforts and technological innovations to address them. This is a time that calls for sustained attention and action. This concludes the climate briefing for January 10, 2026."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Lee Hyo-won, Seoul City Council Member, Elected Vice Chairperson of the Special Committee for Overcoming Climate Crisis of the National Council of Provincial and Metropolitan City Council Chairpersons - Cheonji Ilbo",
+      "original_title": "이효원 서울시의원, 시도의회의장협의회 기후위기극복특위 부위원장 선출 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tMjdaZ0d5WXVzOUZkOFoyaGdSUmhxNzFSMXNENWFybUpkbC1lc0ZTbVk5dEhETTNudW1HcnVsNUpsZnZ6VDB0QldObGNiRkxpQzA0aXV1YXhOdE1kX2c0amp1Nnc2c2NJU2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-10T06:44:52",
+      "description": "Lee Hyo-won, Seoul City Council Member, Elected Vice Chairperson of the Special Committee for Overcoming Climate Crisis of the National Council of Provincial and Metropolitan City Council Chairpersons Cheonji Ilbo",
+      "summary": {
+        "phenomenon": "Seoul City Council Member Lee Hyo-won was elected as Vice Chairperson of the Special Committee for Overcoming Climate Crisis of the National Council of Provincial and Metropolitan City Council Chairpersons.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Lee Hyo-won",
+        "Seoul City Council Member",
+        "National Council of Provincial and Metropolitan City Council Chairpersons",
+        "Special Committee for Overcoming Climate Crisis",
+        "Election of Vice Chairperson"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "이효원 서울시의원, 시도의회의장협의회 기후위기극복특위 부위원장 선출 천지일보"
+    },
+    {
+      "id": "2",
+      "title": "AI Data Centers: Time to Consider Self-Generation with Renewable Energy and SMRs - Sanup Ilbo",
+      "original_title": "AI 데이터센터, 재생에너지·SMR 등으로 자가 발전 고민할 시점 - 산업일보",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9tVld2LU15cF9KNXRsSzlCREdkbF9ocDVSbnB6aWw3ZThHVV9KRDd3NGhTVm9kWGs1UVhGcDNoZGZWdUtW?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-10T04:35:28",
+      "description": "AI Data Centers: Time to Consider Self-Generation with Renewable Energy and SMRs Sanup Ilbo",
+      "summary": {
+        "phenomenon": "It was mentioned that AI data centers should consider self-generation utilizing renewable energy and SMRs (Small Modular Reactors).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI 데이터센터, 재생에너지·SMR 등으로 자가 발전 고민할 시점 산업일보"
+    },
+    {
+      "id": "3",
+      "title": "Bill Gates funds many green energy tech solutions, but he says true climate action really needs this to succeed - Fast Company",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWFp5Y1VzMUJYSUthVU83UHIwSGN0LWxDZWNocEktQkV4aHp6ZWpNcUdQd3ZIbmhzX1pRUF8wZEFha0t0dHRISkZRWF9sSzlIRkhYZ0U4b1JMQjhpUGFkM2hZT01ESDNaT1VGV00zVTNRWjVCbG53R1R2RXBXNDhpSEZXak5tQ2RWaXVnUE95MmxndWd0bHBfenNDYlZzeWNjMk4tS1lxODhRblpvWmUtQVRnMzVRRTRJcm5LTnRjd3FQVXM4Z0ZubTlISEhGSzZ5RmZ5ck5NY251MDdFeWZiaw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-09T20:18:35",
+      "description": "Bill Gates funds many green energy tech solutions, but he says true climate action really needs this to succeed Fast Company",
+      "summary": {
+        "phenomenon": "Bill Gates funds various green energy technology solutions but stated that 'this' is necessary for true climate action to succeed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bill Gates funds many green energy tech solutions, but he says true climate action really needs this to succeed Fast Company"
+    },
+    {
+      "id": "4",
+      "title": "더 아프다고요? 날씨와 기후 변화를 탓하세요 - 통증 뉴스 네트워크",
+      "original_title": "In More Pain? Blame the Weather – and Climate Change - Pain News Network",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbmd3MUYwbW9pcDdZUHFTZy1xMmpZbk50SmtRUk5pQUFZV3l2YmhjbEFIWHk1THh3aFRlNDlnNUdSdXp1ZmZVby1ickl5MUpVY25QSjR6aHJxUHkwUmlidHA2TUp5VHpjU0JBd1haUFpvRmRncmlWREJkVkhaaUVhTDlzZW5xRGJGMW95dDRSUkZxY3FJMmRwcTc3c09BUWs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-09T21:37:54",
+      "description": "In More Pain? Blame the Weather – and Climate Change Pain News Network",
+      "summary": {
+        "phenomenon": "The phenomenon of people experiencing more pain was suggested to be linked to weather and climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Pain",
+        "Weather",
+        "Climate Change",
+        "Worsening",
+        "Cause"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "In More Pain? Blame the Weather – and Climate Change Pain News Network"
+    },
+    {
+      "id": "5",
+      "title": "미국의 국제기구 탈퇴가 기후변화와 생물다양성에 미치는 영향",
+      "original_title": "What the US withdrawal from international bodies means for climate change and biodiversity - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOSWs2Q1BBRmxkTjFScnVwdmY2eHZfbkVCYjVRS1I3ZzVBZzZDY04zNmFwdzJlbEZqV2k5TXdYZjVNUkNNUTc5bk5KUm1oWXAzTW96UjA0V2RSa2lYMTQ2eERJblk5ZFVSVDlFQ29JWlNELURZUmVmN2ZpdFFFbXBVekprYlRZX1A0dGctcENqUjI3WUZuVVJyWm90cFFmUVlRc0ZCQkFacUlRcldzMjktemM2Rmh4d1RnXzhPLXFYTDBVbzFHQjNMSkpuSkZQb0ZpZEQzaUV4Nlp2TG5jQzMxQWMtWmltQ1MzUVBYUGNBNV9wR05HY1hn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-10T03:00:09",
+      "description": "What the US withdrawal from international bodies means for climate change and biodiversity Le Monde.fr",
+      "summary": {
+        "phenomenon": "The impact of the U.S. withdrawal from international bodies on climate change and biodiversity was discussed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "United States",
+        "International Bodies",
+        "Withdrawal",
+        "Climate Change",
+        "Biodiversity"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "What the US withdrawal from international bodies means for climate change and biodiversity Le Monde.fr"
+    },
+    {
+      "id": "6",
+      "title": "기후 변화가 겨울을 어떻게 재편하는가 - WSHU",
+      "original_title": "How climate change is reshaping Winter - WSHU",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQl9FemlUelBKRXk1eUNENkZvaHJ5QVFvNDU4Q2hBZFA1YWFWU3JETTd6Tm50SktCb0JlbEVOSkF5SVY4a2cyV1NtMXU0X2V5SU9icW8zZVpvMjFINXZ3VEdjMEpWdnhCWHdVTU5XRGpHUVEyMnpMYkZFZGgxakdXMw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-09T17:31:00",
+      "description": "How climate change is reshaping Winter WSHU",
+      "summary": {
+        "phenomenon": "The topic of how climate change is reshaping winter was discussed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Winter",
+        "Seasonal Change",
+        "Temperature Rise",
+        "Environmental Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change is reshaping Winter WSHU"
+    },
+    {
+      "id": "7",
+      "title": "빌 게이츠, 기후 변화와 어린이 건강에 자금 필요... AI가 도울 것",
+      "original_title": "Bill Gates Says Climate Change, Children’s Health Need Funding. AI Will Help. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQWXk5eURqbGQ0VzRiNmJFM1h4ek42X0tjVUc5UF9FUUNtcU16OFdTVkhkMFI3T3lxZkxmM2VISW00dFBfTHNjTDBuemVKUmxxSVV6Vi1hZnktajh0SFk2YmRxUXgtSzNnVDJuNGY3N0xudFdlYmtfcUxlbUZTV096SFVyb2NWUEE2bUY2THN2dWZLalBJUm44Z0xENmtiZU9FdjkwajZ4YjZvRlE0MXR0S2hOeUdOWlFSSG9ZbXdZb0JTU1hJY3BQNU1jbFZSR1lPWGdqTDZSVGJVNFl0NWw4WDA4QVlzb2pPNldpREtrMlJCelMyMGtQVHZBY29tdmR0UWl3aWQ2R1NLa3lHVXY2RjFUV3ZNNmZqNnJuUzFVRThqWnNubUdsXzFiaExIX25Hejc5Y2ZFdEVLeG5MUVQ2QUFUNVZuV18zZmdTeExKUmU1bEk3dVdwRFo1WVhPSnpydzNpRWF2b0dLeFBSU0hOYWVLMDJtNlBtZi02M2FsVlp0QTRPYlUxT0tuNnktUnVVMjktNGM3NGF4b3RDRHVaaklkUDJETWFIdi1WQg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-09T18:57:00",
+      "description": "Bill Gates Says Climate Change, Children’s Health Need Funding. AI Will Help. Barron's",
+      "summary": {
+        "phenomenon": "Bill Gates stated that funding is needed for climate change and children's health, and that Artificial Intelligence (AI) can help.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Bill Gates",
+        "Climate Change",
+        "Children's Health",
+        "Funding",
+        "Artificial Intelligence"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bill Gates Says Climate Change, Children’s Health Need Funding. AI Will Help. Barron's"
+    },
+    {
+      "id": "8",
+      "title": "바이오차: 기후 변화 완화 및 탄소 시장 잠재력 발휘",
+      "original_title": "Biochar: Unlocking the Potential for Climate Change Mitigation and Carbon Markets - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVjR3cTBhZEUyRHV3dkFnbU5VbDRYQl9FaGNTbzhCSzlwNExON3VBWG01Rk5sRndJUXctaG5SZ24zalNGTFVrRzc2dHpCZzdjbkN1VE10Z0E1aHdjMmd1cFJuRmU5SzRGNXZrbHpHVzB5RzNJelk2eXlyYVIyX254S0RiWFhNSW9Wc3FyNjBGQWN6TWJQNFZhaVQ1Ui1TaUlrRlV5dUo2ZGo4dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-10T01:48:22",
+      "description": "Biochar: Unlocking the Potential for Climate Change Mitigation and Carbon Markets vocal.media",
+      "summary": {
+        "phenomenon": "Biochar was presented as a method to unlock potential for climate change mitigation and carbon markets.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Biochar",
+        "Climate Change",
+        "Carbon Market",
+        "Mitigation",
+        "Potential"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Biochar: Unlocking the Potential for Climate Change Mitigation and Carbon Markets vocal.media"
+    },
+    {
+      "id": "9",
+      "title": "당신의 초콜릿 갈망, 기후 변화로 곧 대가를 치를 수도",
+      "original_title": "Your chocolate cravings could soon be punished by climate change - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZUJxRG13TG52cjVac2JlMDYxdnV1LUNxeEFETTRHdzFncmIyRldrUG1EYTFTaXQyVGFhUTdyUzFiUGZGWWtGblU0MnVTdklNQTJrNzhYMUFYUENQN3BGcHl6aXhUZ0RwTWxLc083S3JZcHdpTFJDUWE2VW5CMFgtc3hra1lwcEZyT3FyOWs0S0FCNGd0TnhKVUFtc1dCbXFwbENUR1c4Nk10aHgwYjA2Tnlla1JaY1UwQXBuM0lKRnJrN1pQYzFNeHdJSUdMZDZQalN6SVdHU2MxbWJ2NjdaQ05JTk13WkUzcWR3bw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-10T06:10:45",
+      "description": "Your chocolate cravings could soon be punished by climate change India Today",
+      "summary": {
+        "phenomenon": "It was mentioned that due to climate change, the craving for chocolate could soon come at a cost.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Chocolate",
+        "Climate Change",
+        "Food",
+        "Impact",
+        "Future"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Your chocolate cravings could soon be punished by climate change India Today"
+    },
+    {
+      "id": "10",
+      "title": "옥스팜: 세계 최고 부유층 1%, 2026년 탄소 배출 공정 할당량 이미 소진",
+      "original_title": "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam",
+      "url": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
+      "source": "guardian_climate",
+      "published_at": "2026-01-10T05:00:48",
+      "description": "Richest 1% took 10 days while wealthiest 0.1% needed just three days to exhaust annual carbon budget, study showsThe world’s richest 1% have used up their fair share of carbon emissions just 10 days into 2026, analysis has found.Meanwhile, the richest 0.1% took just three days to exhaust their annual carbon budget, according to the research by Oxfam. Continue reading...",
+      "summary": {
+        "phenomenon": "According to Oxfam research, the world's richest 1% exhausted their annual fair share of carbon emissions in just 10 days after the start of 2026, while the richest 0.1% exhausted theirs in just three days.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Wealthy Class",
+        "Carbon Emissions",
+        "Oxfam",
+        "Carbon Budget",
+        "Climate Inequality"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Richest 1% took 10 days while wealthiest 0.1% needed just three days to exhaust annual carbon budget, study showsThe world’s richest 1% have used up their fair share of carbon emissions just 10 days into 2026, analysis has found.Meanwhile, the richest 0.1% took just three days to exhaust their annual carbon budget, according to the research by Oxfam. Continue reading..."
+    },
+    {
+      "id": "11",
+      "title": "Quebec’s Lake Rouge vanished – but was it a freak natural event or caused by human actions?",
+      "original_title": null,
+      "url": "https://www.theguardian.com/world/2026/jan/10/quebecs-lake-rouge-vanished-but-was-it-a-freak-natural-event-or-caused-by-human-actions",
+      "source": "guardian_climate",
+      "published_at": "2026-01-10T06:00:53",
+      "description": "Experts and community trying to untangle mystery of outburst that saw water travel almost 10km overland into a bigger lakeManoel Dixon had just finished dinner one night last May when a phone dinged nearby with a Facebook message.Dixon, 26, was at his family’s hunting camp near their northern Quebec home town of Waswanipi. They knew the fellow hunter who was messaging Dixon’s father, but what he wrote didn’t make sense. Continue reading...",
+      "summary": {
+        "phenomenon": "In May of last year, Lake Rouge, located near Waswanipi in northern Quebec, Canada, experienced a sudden disappearance, with its waters traveling approximately 10 km overland before flowing into a larger lake.",
+        "cause": "The precise cause of this phenomenon remains undetermined, with experts and local communities actively investigating to ascertain whether it was a natural occurrence or influenced by human activity.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Experts and community trying to untangle mystery of outburst that saw water travel almost 10km overland into a bigger lakeManoel Dixon had just finished dinner one night last May when a phone dinged nearby with a Facebook message.Dixon, 26, was at his family’s hunting camp near their northern Quebec home town of Waswanipi. They knew the fellow hunter who was messaging Dixon’s father, but what he wrote didn’t make sense. Continue reading..."
+    }
+  ],
+  "summary": {
+    "total_count": 11,
+    "domestic_count": 2,
+    "international_count": 9,
+    "top_keywords": [
+      "기후 변화",
+      "기후변화",
+      "이효원",
+      "서울시의원",
+      "시도의회의장협의회"
+    ],
+    "sentiment_breakdown": {
+      "positive": 2,
+      "negative": 5,
+      "neutral": 1
+    }
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
