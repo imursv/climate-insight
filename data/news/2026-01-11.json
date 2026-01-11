@@ -1,16 +1,16 @@
 {
   "date": "2026-01-11",
   "metadata": {
-    "collected_at": "2026-01-10T23:09:48.422705",
-    "total_articles": 16,
+    "collected_at": "2026-01-11T08:08:12.824070",
+    "total_articles": 36,
     "sources": {
-      "korean": 5,
-      "international": 11
+      "korean": 19,
+      "international": 17
     },
     "sentiment_distribution": {
-      "positive": 4,
-      "negative": 5,
-      "neutral": 2
+      "positive": 17,
+      "negative": 10,
+      "neutral": 3
     }
   },
   "articles": [
@@ -391,6 +391,526 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "460079cd29e99763",
+      "title": "국립환경과학원, 기후변화 대응 중장기 연구체계 재정비 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HVERHb215dFlhS1VXZFZlOG5KQ0FGa3ZaMW5OSUh2V1JMRzMwRjdtUDNjMXNyRHZybDh0aU51U1BqMXhZUk1QT0p0RTVyOG5DaWphQWI4c1MwbVk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:00:00",
+      "collected_at": "2026-01-11T08:05:43.427139",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립환경과학원",
+          "기후변화",
+          "대응",
+          "연구체계",
+          "재정비"
+        ]
+      }
+    },
+    {
+      "id": "90fc8297abcb399d",
+      "title": "기후변화에 어획량 줄고 개화 오락가락…지자체 축제도 흔들 - 서울Pn",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZkl3NEIxR19GQmYxOU1vUzB6Q2lVdkdwU1E2MUZ6bE1uMzh5bHF4VGg0aXA0NjExMExhTkRiVFFvM3ZfbERWY1h3V3ZUZ3dEc1d2LVhUSFpZTVE0c3BXNHBxWUg0RjJLc0E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T08:02:33",
+      "collected_at": "2026-01-11T08:05:43.427211",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "어획량",
+          "개화",
+          "지자체 축제",
+          "흔들"
+        ]
+      }
+    },
+    {
+      "id": "0c8ca5f9f33fe63b",
+      "title": "제주도, 기후변화에 맞춰 주요 작물 품종 바꾼다 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdnZkcUQ2ejFBT0JCXzJYNjR3d3hmQVNjZVVsZVdGMldHUkZKcS1VSkRBMlYxRlYwaFVQUzdaXzJvSEFzUnNkRTU0elFhdFBKSTNNQTVuLVBsbTN3ZWdhNXNpVTZ1LWfSAWxBVV95cUxPbl9NRWR0NUJsSHY3NmxkNTlXQXdnekx0RnRBUTViRVFBVUJ2YjB3bGEwaVRONW9KcmxnT0tjQTQ4dWVFUmF6RVd4cVVKTTk5MFBUMmJ6WERnVEN0SXhrZHRObFBsdl8zNTBWZk4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T06:16:00",
+      "collected_at": "2026-01-11T08:05:43.427268",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주도",
+          "기후변화",
+          "작물",
+          "품종",
+          "적응"
+        ]
+      }
+    },
+    {
+      "id": "579652936db6c63d",
+      "title": "국립환경과학원, 중장기 연구계획 수립…기후변화 대응 강화 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUVqOHFnZGpNeFQ4QUN5WU5CbF8wV3pmdlh0WjJnR3hnaHRRLThTZm1JWXd1YjdhcmpwSlZUS0FHOXpRX25rSHQ5MHdjMDZDS2MyRlN6Ym5OTDhMUzdSRlNoUmt2c0VsNkVveTFuQ1VuSUVGbkdHVHhMOC1qSU9kcA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:00:00",
+      "collected_at": "2026-01-11T08:05:43.427299",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립환경과학원",
+          "중장기 연구계획",
+          "기후변화",
+          "대응 강화",
+          "연구 수립"
+        ]
+      }
+    },
+    {
+      "id": "1d2792aedc13f10b",
+      "title": "환경과학원, 중장기 연구종합계획 수립…기후변화 능동 대응 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uNHBuVEJ4SHpkN0ZzSU5oMUt6Qm1xVEMwTGZVWE5vamdiemhjRENYZ0tkT3JCWTBGMXptdFRjUUw5cnY3TDRxcjZBYy1WcDNPSnBIa0YyczhnNVpCOGRnTdIBeEFVX3lxTE1YWjB5U29oaDlwT0FXSzYxbVJvRFE5eFV3a2hCSWtJdjhvVE9uREo5d3VBUTlVRzNGbUZlUXdnXzY2QjBnM3l3VmNnWm54Y3ZKUkVvN0VzTHVoYW9uSUFTeklwMkZHUjRJekJCb0ZOakxvdjhGSWlFcA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:00:00",
+      "collected_at": "2026-01-11T08:05:43.427335",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "환경과학원",
+          "중장기 연구종합계획",
+          "기후변화",
+          "능동 대응",
+          "연구계획"
+        ]
+      }
+    },
+    {
+      "id": "163ba045463121b0",
+      "title": "제주농업 디지털 전환·기후변화 대응 ‘초점’ - 제주매일",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rOGh0eXVRd2x6bC1OYUh0TlV3enRGR2d1SnB1ZWZUdFlHOFVOME1QdTN3Z1g0M1hCdTVxU0xGeFNpb09oUUN3SkdvX1JrdzF4ckVvMDY4R3VtbndNaWs4c0JJOG5BYWduR1RLLQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T04:29:38",
+      "collected_at": "2026-01-11T08:05:43.427429",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주농업",
+          "디지털 전환",
+          "기후변화",
+          "대응",
+          "초점"
+        ]
+      }
+    },
+    {
+      "id": "3b7f06660fb79fef",
+      "title": "강원특별자치도, 기후변화 대응 안전한 연안·항만 공간 구축 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96LS1hVjA0bk9VSkx2LVdhMDE4eDhSenlsUG1HQjlRRmRMSUYwQ2thbGZCOG1GanRlSG9VM2ppblRUY0taXzBRNTV2Ukdudk1TUU5yZEVUaHJZOGpubHptck01VWs?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:10:14",
+      "collected_at": "2026-01-11T08:05:43.427458",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "강원특별자치도",
+          "기후변화",
+          "대응",
+          "연안",
+          "항만"
+        ]
+      }
+    },
+    {
+      "id": "7f4afddcc3a48fe3",
+      "title": "[빅테크칼럼] 빌 게이츠 \"AI 생물테러 공격 가능성·기후변화 대응 실패\" 경고…\"정부정책 강력 개입\" 촉구 - 뉴스스페이스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JT1FqVWlnYnRkSnkyemVacVFNSTFFWnpQd0lxa3NrcjJZMVVSUWgzc0l6aVIyUG5aY0haQ3ZkYl9uX1o5YjhrTTJBbXJ5czJpV1FtMnFRRGlFelMxWU1lZg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T05:30:05",
+      "collected_at": "2026-01-11T08:05:43.427492",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "빌 게이츠",
+          "AI",
+          "기후변화",
+          "경고",
+          "정부정책"
+        ]
+      }
+    },
+    {
+      "id": "6d1e2f6bd9334455",
+      "title": "제주농업 디지털전환·기후변화 대응 총력…농촌진흥사업 추진 - 컬처제주",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfNlJPcjBzaVRuUjBrZmMzTzlLUFdPd016eTE4Y3R5c08yaHk1MVZGbFlqN3E4TWgzQkVXMElkYzJmTjVHUUZzWmJ6blhmQzFnX3o1emcyNWpCOElabE95RXUwSUYtcXVUNjRN?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T00:13:00",
+      "collected_at": "2026-01-11T08:05:43.427582",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주농업",
+          "디지털전환",
+          "기후변화 대응",
+          "농촌진흥사업",
+          "총력"
+        ]
+      }
+    },
+    {
+      "id": "5846cef94db10630",
+      "title": "[단독] 구미 탄소중립산단 뚫은 SK…ESS 중앙계약시장 2차 입찰 승부수 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8wSTFTelZJTlJjTWtKX0ZLRGUyX1A1RkdaMUlVREozVjljcG54QTFfekVKaHVjdWoxUkdLaXZxSnJLNHVrUTlUYXNFTk1NZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:00:00",
+      "collected_at": "2026-01-11T08:05:43.480405",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구미",
+          "탄소중립산단",
+          "SK",
+          "ESS",
+          "중앙계약시장"
+        ]
+      }
+    },
+    {
+      "id": "24abe9e0162d4e24",
+      "title": "동신대-나주대실마을 에너지전환과 탄소중립 지역문제 해결 위한 협약 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZQ1ZOM3dsbzNiWi1QQ0loYms0eXYyalBQbUptbnRqbGkwSzVPOUpWbDNkamtZdnQ4a3QwbVEzdVB3WF9rTFY0MTJrZ3VHLTJRbVg2UGFxT2RrWVhJODN5VklCTWdrY2VhbkF1WjZwejZ3UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T05:50:00",
+      "collected_at": "2026-01-11T08:05:43.480447",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동신대",
+          "나주대실마을",
+          "에너지전환",
+          "탄소중립",
+          "협약"
+        ]
+      }
+    },
+    {
+      "id": "0d599b75024adcc4",
+      "title": "창원시‘탄소중립, 우리가 그리는 미래’그림 공모 수상작 전시 - 경남뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sT1E2T0E2c2h0V1dCeUotUGU2VTF2TVV1dnA3bDFnWFNSNk9EbER0SDJGZzdTOVRxemx6bzlyb3RKUXVxT1dLR0FCTDdXYmdkRTFHYlB1cm5mLXJVYTlLSjlKS0xYcURmdWoyZFhqVzd0UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T05:10:01",
+      "collected_at": "2026-01-11T08:05:43.480478",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창원시",
+          "탄소중립",
+          "그림 공모",
+          "수상작",
+          "전시"
+        ]
+      }
+    },
+    {
+      "id": "69fdff6cc36ffadc",
+      "title": "남부발전, 발전사 최초 '재생에너지 AI 학습용 데이터' 구축…10만건 개방 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1hbVFfSEhOQXJ2dFZwQnZKMFdmUk9aZ0c5OHY5OEdCRnBkVGkwZTdzNGc2QVlSU1o1Z09BUlZaTDFpbXRUVTlGRURVYlI1UUlzMmhLV2xsZ0duZkVwSFJj?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-11T03:28:44",
+      "collected_at": "2026-01-11T08:05:43.655868",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남부발전",
+          "재생에너지",
+          "AI 학습용 데이터",
+          "구축",
+          "개방"
+        ]
+      }
+    },
+    {
+      "id": "99a0f2d242a77afa",
+      "title": "중국 태양광 수출 보조금 4월 폐지…배터리는 내년부터",
+      "link": "https://www.khan.co.kr/article/202601111624001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-01-11T07:24:00",
+      "collected_at": "2026-01-11T08:05:44.736471",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a552cb32cec9eefa",
+      "title": "Whitney Cummings calls out liberal hypocrisy on climate change and vaccine mandates - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmVnMEgyUFUtaUlmc0MyRERSTUdXczhnd2RocTJKNTl0WE8yZm92VlY4RXdoVzJBSHItMmxDOXFuNjNQNnFLbFd4Zk1oOGJWMXdGeGhoaFo2bUhNWXN3dWZvdFI4NHpkNWZNZktrZ1NHOF9DU2tpQ1FhTW0xUlJnY1BXLVRVZjRrMTNTb1Rzc1R4ZnhrWXdSSTRjcDlxcDFDMWhPSzZqUG9maVJkcUZ2M0NFa3DSAboBQVVfeXFMTzRLMUFrbjdlQVQzSXBSMnlHZURrRWtyZERyRmw3WXJIOTRqWjZSNmpjbVZHYUxMM2JyM1llYWhtUzRLYUUxSHlwRVlfQmhWbzFTUHJEYkRnTjhyYTJNYTZpcGl2ekFyMlBqX0s4cjdiSEZjSzZnV2xWVURXbE5rUVZoRXVDRzRYSUdQcmdFWlh4ZVAtb1lKUFI5bnUwQUVxM0s4VXk0emtpQTh0Vk55V2lidUk1LVd1VjFB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-10T22:25:30",
+      "collected_at": "2026-01-11T08:05:45.254848",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "휘트니 커밍스, 기후 변화 및 백신 의무화에 대한 진보의 위선을 비판하다 - 폭스 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "휘트니 커밍스",
+          "진보 위선",
+          "기후 변화",
+          "백신 의무화",
+          "폭스 뉴스"
+        ]
+      }
+    },
+    {
+      "id": "a3c7f8ff1575cd7e",
+      "title": "How developing countries are taking climate action forward - Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU3o1cXY2V21ZaVgxTDktdTlqUkFzeGNRcE95NDkxZDJWcDhaNTB2Z1VxQmk3UDFVMVNsWlhvcVZDRjlhMjZWcmJXdW5JQVl2aHltWXM2aGxOM2hYdUtKdzJKNDBPcDQ1WHMwRnlFVXUzWGpIcnpJSm5MMzQxVHI0ZTZEOTNfUXNnS3paWUJyXzZhMUVLZi1Yd012NkZRbDhz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-11T05:02:54",
+      "collected_at": "2026-01-11T08:05:45.254998",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "개발도상국들이 기후 행동을 어떻게 진전시키고 있는가 - 유엔에 오신 것을 환영합니다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "개발도상국",
+          "기후 행동",
+          "진전",
+          "유엔",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "50feb1238b32822f",
+      "title": "Four ways to transform climate action through innovation and technology - Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFlJRGVCTU81czRkblpzU1ViTktQMi1vZnlWZlVoVmtjY2xmQUpQak9PRnV0cVllUF9CNWloWDFNMnJZZm9ZOXMwMDAyOGRHS1VFdlRJTzZlSHBNX0dHM0FFaS1NLUxvNGd0aldEVDhGUkJRTDdIc203ZmZhbDBTUzhXbzdzUm96bnlGTDdPV29ZUUY0eW9iTFVqVHJ0TWw4aThBVFpzMmQ5WXA3WjRHVTR3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-11T05:02:51",
+      "collected_at": "2026-01-11T08:05:45.255352",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "혁신과 기술을 통해 기후 행동을 전환하는 네 가지 방법 - 유엔에 오신 것을 환영합니다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혁신",
+          "기술",
+          "기후 행동",
+          "전환",
+          "유엔"
+        ]
+      }
+    },
+    {
+      "id": "2cc642d73eec2f07",
+      "title": "univ hosts Climate change talk - Times of India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFpLd08wNF9xQjFqUUpmUVV6cFVLUkVmb0dGWmNvc0VXTG1VRkdvd3hvNnAwTWpEM19BTmRMS0RnQW52cjhkZjRnSTY0TVpBc1lJT2xLalJxR0x6bHphN2tMRW1qQ3lGRk5LbHJNMGp3Y2RDOWdNR0hJR1ZZdG9qYjRXVU9KX1R2LVRpRXB3d0JIR1hYYzBjendEOTQ2MXBCWTlOSmRyVS13bTlU0gGyAUFVX3lxTE1ZWE8xdmhlU01fcW1oeGQzYnNjeHpab3ZHekZGQkJ2Wmw1UV82SjFvU2k4dVZITlpPb0M0cl80UjU5dXZOMUtrYUZlWjVfVVZISEpqNjBIQUswNjZFdlRaNnNpUEJiUm01aWE4RjBLd3czUGdaQzV5ekZJbmNad01OWVFjSkE1dFFqYnRPQl9KM0Vab3h4c0JLZHJtc2ROc3FBZ0NTYnkxT3BCZXk0c3JXU1E?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-11T01:31:00",
+      "collected_at": "2026-01-11T08:05:45.256967",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "대학, 기후 변화 강연 개최 - 타임즈 오브 인디아"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "대학",
+          "기후 변화",
+          "강연",
+          "주최",
+          "인도"
+        ]
+      }
+    },
+    {
+      "id": "a6300c141c2b5896",
+      "title": "‘It was calm … and then just hectic’: David Rigby couldn’t escape the Longwood bushfire so faced the inferno",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/11/it-was-calm-and-then-just-hectic-david-rigby-couldnt-escape-the-longwood-bushfire-so-faced-the-inferno",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-01-11T06:59:06",
+      "collected_at": "2026-01-11T08:05:44.920032",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "‘고요했다가… 순식간에 아수라장’: 데이비드 릭비, 롱우드 산불 피할 수 없어 불길에 맞서다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불",
+          "빅토리아",
+          "가축 피해",
+          "주택 손실",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "38b70c88fb9a1f7f",
+      "title": "I had an abortion due to climate anxiety. How can I come to terms with it? | Ask Annalisa Barbieri",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/11/abortion-climate-anxiety-ask-annalisa-barbieri",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-01-11T06:00:19",
+      "collected_at": "2026-01-11T08:05:44.920098",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": {
+        "title_ko": "기후 불안 때문에 낙태했어요. 어떻게 받아들여야 할까요? | 애널리사 바르비에리에게 묻다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 불안",
+          "낙태",
+          "산후 불안",
+          "슬픔",
+          "기후 위기"
+        ]
+      }
     }
   ]
 }
