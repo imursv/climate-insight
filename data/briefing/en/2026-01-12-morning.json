@@ -1,0 +1,717 @@
+{
+  "date": "2026-01-11",
+  "generated_at": "2026-01-11T23:10:36.259418",
+  "briefing": {
+    "opening": "Hello everyone. I will now begin the climate briefing for January 11, 2026.",
+    "sections": [
+      {
+        "title": "🔴 🇰🇷 Domestic Climate Crisis Warning: Unusual Phenomena and Deepening Damage",
+        "content": "Today, news has emerged domestically regarding unusual phenomena and deepening damage resulting from the direct impacts of climate change. Notably, in the Jangsu region, an apple harvesting experience event was canceled for the first time in 23 years, underscoring the tangible effects of climate change [1]. Furthermore, despite it being January, an unprecedented large-scale wildfire occurred, raising concerns about the complex causes involving both human factors and climate change [2, 5]. These phenomena clearly demonstrate that the threat of climate change to the domestic agricultural economy and ecosystems is no longer a future concern but a present reality.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Community: Climate Change Impacts and Severity",
+        "content": "Across the international community, widespread and severe impacts due to climate change have also been reported. In the United States, salaries have decreased by 12% due to climate change, and economic and social damages are materializing, including the worst power outages in the MISO region over the past decade [17, 20]. Furthermore, it has been confirmed that oceans will reach record high temperatures in 2025, indicating a deepening of climate change impacts [21]. Ecosystem and health issues have also been highlighted, such as an increased risk of super-colonies of bees and wasps in winter [23], and worsening migraines [26]. With news also emerging of climate change occurring in Australia [28], the global climate crisis appears to be intensifying worldwide.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 🌱 Domestic Climate Change Response Policies and Practical Efforts",
+        "content": "Amidst this severity, various policy discussions and practical efforts to address climate change are continuing domestically. In the agricultural sector, there are plans to invest 30 billion won in climate change response and digital transformation [4], and Jeju Province is making specific adaptation efforts, such as changing major crop varieties to suit climate change [6]. Furthermore, Changwon City is raising public awareness by exhibiting carbon-neutral art contest entries [9, 10, 11], and the Head of Ulsan Dong-gu District is discussing renewable energy development directions, with claims that Ulsan is an optimal location for floating offshore wind power [13, 14, 15], indicating high interest in expanding renewable energy. Meanwhile, while the urgency of long-term and strategic climate change response policies is emphasized [3], challenges also exist in the policy-making process, such as strong opposition from the industry regarding moves to include air-source heat in renewable energy [12].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 🌱 International Community: Climate Response Strategies and Discussions",
+        "content": "The international community is approaching climate change adaptation and solution-seeking from multiple angles. Scientists are developing antacids for the ocean to combat global warming [19], and telecom operator Zain demonstrated corporate climate leadership by receiving the top 'A' rating in CDP Climate Change 2025 [24]. Amidst active academic discussions, such as climate change symposiums [18], Nana Akua emphasized the need to adapt to climate change [25], and Czech scientists even proposed logging as a unique solution to combat climate change [27]. However, many challenges still remain for international cooperation and goal achievement, such as Nigeria and South Africa announcing plans to increase fossil fuel production, thereby threatening climate change commitments [22].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing has highlighted the complex situation where the global reality of a deepening climate crisis intersects with diverse domestic and international efforts to combat it. We are once again reminded that responding to climate change is not a singular solution, but a long-term challenge requiring a multifaceted approach and sustained attention. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Jangsu Apple Harvest Experience Canceled for the First Time in 23 Years… 'Impact of Climate Change' - v.daum.net",
+      "original_title": "23년 만에 장수 사과 수확 체험 없애…“기후변화 여파” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80X25nZEtydnVEd1E4OEF1bks4dy03WTZiZmthVGdJZjhyUk9zQnU1azREQ1V2WV9jYkkzWk82cEdib3NIdUthUVUwS1hhMGM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T13:06:00",
+      "description": "Jangsu Apple Harvest Experience Canceled for the First Time in 23 Years… 'Impact of Climate Change' v.daum.net",
+      "summary": {
+        "phenomenon": "The apple harvest experience event in the Jangsu region has been canceled for the first time in 23 years.",
+        "cause": "Mentioned as an impact of climate change, but specific scientific causes were not detailed in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Jangsu apple",
+        "harvest experience",
+        "climate change",
+        "cancellation",
+        "impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "23년 만에 장수 사과 수확 체험 없애…“기후변화 여파” v.daum.net"
+    },
+    {
+      "id": "2",
+      "title": "[Editorial] Unprecedented Large Wildfire in January… Human Error or Climate Change? - Yeongnam Ilbo",
+      "original_title": "[사설]유례없는 1월의 대형 산불…인재인가 기후변화인가 - 영남일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51M1A2T1NSMy1TcDYwRWVyczBMS01pa0ljNmhPeFUteWY4Zzg1UnJQZjhaQXZiRUhOc1kwRS00NVIzWEk0NXVkLVlLTVRqNU5HWS02UFZiemR5SlFHdnBGRF9CLXVvN01hWEJZ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T21:00:00",
+      "description": "[Editorial] Unprecedented Large Wildfire in January… Human Error or Climate Change? Yeongnam Ilbo",
+      "summary": {
+        "phenomenon": "An unprecedented large wildfire occurred in January.",
+        "cause": "The article raises the possibility of human error or climate change, but specific causes are not specified.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "wildfire",
+        "January",
+        "large-scale",
+        "human error",
+        "climate change"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[사설]유례없는 1월의 대형 산불…인재인가 기후변화인가 영남일보"
+    },
+    {
+      "id": "3",
+      "title": "Long-term, Strategic Climate Change Response Policies 'Urgent' - Nongsuchuksan News",
+      "original_title": "장기적·전략적 기후변화 대응 정책 ‘시급’ - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFQ2VQem9hY0VLRmdFSUFXYUt4NGxRUzJnUHQtN0FDM3J3UHU4dHdabjhSYTRnZXV3ZFp2R2ZDWVZPYlhTY2JnZzFiV21RQ1RSY1FWX3d6VzdrYjNoLTN5OWgxQm1sdzNyMlNfcg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T22:15:05",
+      "description": "Long-term, Strategic Climate Change Response Policies 'Urgent' Nongsuchuksan News",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The urgent need for long-term and strategic response policies to climate change was mentioned."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "climate change",
+        "response policy",
+        "long-term",
+        "strategic",
+        "urgent"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "장기적·전략적 기후변화 대응 정책 ‘시급’ 농수축산신문"
+    },
+    {
+      "id": "4",
+      "title": "30 Billion Won Invested in Agricultural Climate Change Response and Digital Transformation - Jeju MBC",
+      "original_title": "농업 기후변화 대응·디지털 전환에 300억 투입 - 제주MBC",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuZndPdU1zbHFraHA1RDJGZ3FUcDJkY19wc1BqZkR3QkVhRi1Xc05qVWVKcjNLUEpSdkhDMFpzbU03cHAtR1FrQnNkcHZkMWM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T22:30:00",
+      "description": "30 Billion Won Invested in Agricultural Climate Change Response and Digital Transformation Jeju MBC",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "30 billion won is planned to be invested in the agricultural sector for climate change response and digital transformation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "agriculture",
+        "climate change",
+        "response",
+        "digital transformation",
+        "30 billion won investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "농업 기후변화 대응·디지털 전환에 300억 투입 제주MBC"
+    },
+    {
+      "id": "5",
+      "title": "[Editorial] Unprecedented Large Wildfire in January… Human Error or Climate Change? - Yeongnam Ilbo",
+      "original_title": "[사설]유례없는 1월의 대형 산불…인재인가 기후변화인가 - 영남일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aMm4yeXhmQ2Z4akczc1hQTngxQkZ2R3c3WEhfUjFlMVBHLVVHWW9CUWw0c09GTjdqQ1k5WFEzN0NJMFI2cVp1aE4xM2FsX1ZnX0RuZFZ4Mk5WelVQSHZzSHJCOWhRWWl1RFE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T21:00:00",
+      "description": "[Editorial] Unprecedented Large Wildfire in January… Human Error or Climate Change? Yeongnam Ilbo",
+      "summary": {
+        "phenomenon": "An unprecedented large wildfire occurred in January.",
+        "cause": "The article raises the possibility of human error or climate change, but specific causes are not specified.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "wildfire",
+        "January",
+        "large-scale",
+        "climate change",
+        "human error"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[사설]유례없는 1월의 대형 산불…인재인가 기후변화인가 영남일보"
+    },
+    {
+      "id": "6",
+      "title": "Jeju Island Changes Major Crop Varieties to Adapt to Climate Change - Kookmin Ilbo",
+      "original_title": "제주도, 기후변화에 맞춰 주요 작물 품종 바꾼다 - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6UGhHeFlWdjBPZmozZ1VUWFVHWnZKUG94by05MjVBb01RZW1mbmpaTkM2a0xKT0hEcWxkWkllejNoWHY2b0lEOVZ5TmtveVhWOXoxRHZmV09zems3b0wxZEdORkhaWDDSAWxBVV95cUxOOXc3d05DYm90Y2RkS1RjT0c5ZG0yZjR4UnZudjBUa19rWnBHZWp6Qk9MUkhLNkdtMGQ4eWJYYVhzM0ZRWDVLWlJMMVFNUXRyOTd1RG5EWWRsV0lYU2JHTEFPdks5MktaWEo5TG8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T15:28:00",
+      "description": "Jeju Island Changes Major Crop Varieties to Adapt to Climate Change Kookmin Ilbo",
+      "summary": {
+        "phenomenon": "Jeju Island is adapting its major crop varieties in response to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeju Island",
+        "climate change",
+        "crop",
+        "variety",
+        "change"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "제주도, 기후변화에 맞춰 주요 작물 품종 바꾼다 국민일보"
+    },
+    {
+      "id": "7",
+      "title": "Seoul City Council Member Lee Hyo-won Elected Vice Chairperson of the Special Committee for Overcoming Climate Crisis of the National Council of Provincial and Metropolitan City Council Chairpersons - ilyoseoul.co.kr",
+      "original_title": "이효원 서울시의원, 시도의회의장협의회 기후위기극복특위 부위원장 선출 - ilyoseoul.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ha0tYVzc1Tlk0YWRHaDQ5eGVxRmhoaFVaT3U1bG1JMEowNFkzbjA1YWFHZnVFb0Z6MzlGZlJuUGFIQVRlRTRtcXl0VG1zWlNpVWNoOVNsWDFQVU5jMlpDVFBSNGpfeUk3MTRaZ01R?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T23:01:29",
+      "description": "Seoul City Council Member Lee Hyo-won Elected Vice Chairperson of the Special Committee for Overcoming Climate Crisis of the National Council of Provincial and Metropolitan City Council Chairpersons ilyoseoul.co.kr",
+      "summary": {
+        "phenomenon": "Seoul City Council Member Lee Hyo-won has been elected as the Vice Chairperson of the Special Committee for Overcoming Climate Crisis within the National Council of Provincial and Metropolitan City Council Chairpersons.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Lee Hyo-won",
+        "Seoul City Council member",
+        "climate crisis",
+        "special committee",
+        "vice chairperson election"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "이효원 서울시의원, 시도의회의장협의회 기후위기극복특위 부위원장 선출 ilyoseoul.co.kr"
+    },
+    {
+      "id": "8",
+      "title": "“Aiming to Tackle Both Fishermen's Income and Climate Change” - v.daum.net",
+      "original_title": "\"어민 소득·기후변화 '두토끼' 잡고 파\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZT2M2eHJMeFlleml5dnJHWFRvcEtUMGQtT3UwVXN2RjlhME1aQW5kSmllWl84N0tpQllocmlMSnRONVhYc2tfYW5oLVpESHc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T08:50:00",
+      "description": "“Aiming to Tackle Both Fishermen's Income and Climate Change” v.daum.net",
+      "summary": {
+        "phenomenon": "The article highlights the dual challenge of improving fishermen's income and addressing climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"어민 소득·기후변화 '두토끼' 잡고 파\" v.daum.net"
+    },
+    {
+      "id": "9",
+      "title": "Changwon City Exhibits Carbon Neutrality Art Contest Entries - Korea AI Real Estate News",
+      "original_title": "창원시, 탄소중립 그림 공모작 전시 - 한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GVnFKRG5oQ09JT2I1X19rb0UyZE1WSk92T0IzcEYwMHpidDFXWUxDZU4zNkZ1b3F2djJtNkl2MDNzRVpYYjdxZXdaeHI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-11T11:43:36",
+      "description": "Changwon City Exhibits Carbon Neutrality Art Contest Entries Korea AI Real Estate News",
+      "summary": {
+        "phenomenon": "Changwon City is exhibiting entries from its carbon neutrality art contest.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Changwon City",
+        "carbon neutrality",
+        "drawing/artwork",
+        "contest entry",
+        "exhibition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원시, 탄소중립 그림 공모작 전시 한국AI부동산신문"
+    },
+    {
+      "id": "10",
+      "title": "Changwon City Exhibits Award-Winning Works from 'Carbon Neutrality: The Future We Draw' Art Contest > News - The Korea",
+      "original_title": "창원시, ‘탄소중립 우리가 그리는 미래’ 그림 공모 수상작 전시 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WZTVGX0FNYi03bGlhUWczSHZmT0QzMnMtQjBQYmxKdEdiMFRDN1RabWVFbWF2SVppVmlRSzdHTmlIakJOMndnci1ESEwtTFVuNEM0NlJTZGFFZ0lrNHNYYnhpeXZnYS1ERVBuZ0l4WE8?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-11T09:16:00",
+      "description": "Changwon City Exhibits Award-Winning Works from 'Carbon Neutrality: The Future We Draw' Art Contest > News The Korea",
+      "summary": {
+        "phenomenon": "Changwon City is exhibiting the award-winning works from its 'Carbon Neutrality: The Future We Draw' art contest.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Changwon City",
+        "carbon neutrality",
+        "art contest",
+        "award-winning work",
+        "exhibition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원시, ‘탄소중립 우리가 그리는 미래’ 그림 공모 수상작 전시 > 뉴스 더코리아"
+    },
+    {
+      "id": "11",
+      "title": "Changwon City Exhibits Carbon Neutrality Art Contest Entries - Korea Public Policy News",
+      "original_title": "창원시, 탄소중립 그림 공모작 전시 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5VRm14ckNaZGFvTmtUOWFfRUpzZTAzczdxMTQ2Zi1ZZ1JuaVJITmd5bUFZeU1WYlZ2bVg2OGNqR21KQ3c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-11T11:43:36",
+      "description": "Changwon City Exhibits Carbon Neutrality Art Contest Entries",
+      "summary": {
+        "phenomenon": "An exhibition of carbon neutrality art contest entries was held in Changwon City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Changwon City",
+        "Carbon Neutrality",
+        "Art Contest",
+        "Exhibition",
+        "Environmental Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원시, 탄소중립 그림 공모작 전시 한국공공정책신문"
+    },
+    {
+      "id": "12",
+      "title": "Strong Industry Opposition to Proposal for Including 'Air Source Heat' in Renewable Energy - Mechanical Facilities News",
+      "original_title": "‘공기열’ 재생에너지 포함 예고에 업계 반대 목소리 ‘거세다’ - 기계설비신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wZDNKaEdIZFp3UjlTNHY4d0VYaUNKa0hVZjRMTmxlTmF4YUJaMjFKUG9RbmIyejUxeGZnd0JkNmtUMHR3ZlU0eFp3T3B6R3ZOUG9PdWJ6U2ZNeGpCcmVsY3NKQnE3bERrRm93?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-11T21:10:00",
+      "description": "Strong Industry Opposition to Proposal for Including 'Air Source Heat' in Renewable Energy",
+      "summary": {
+        "phenomenon": "Strong opposition has emerged from the relevant industry regarding the proposal to include air source heat within the scope of renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Air Source Heat",
+        "Renewable Energy",
+        "Inclusion Proposal",
+        "Industry",
+        "Opposition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘공기열’ 재생에너지 포함 예고에 업계 반대 목소리 ‘거세다’ 기계설비신문"
+    },
+    {
+      "id": "13",
+      "title": "Ulsan Dong-gu District Mayor Kim Jong-hoon Discusses Renewable Energy Development Direction - Ulsan News",
+      "original_title": "김종훈 울산 동구청장, 재생에너지 발전 방향 머리 맞대 - 울산신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBINEFmNW1qRjZuWW4tZmoyOWZjVzdNZk5CZ2NyTnRhbnBPSV9MNjVkcGFPOEMxcm5YX2doVUppbjU4RkdWaGtUa2MxaXFEdk1TanhwYnkwX3hPRHkyVFBCTWZwcmtRc0R3eTdzbEdR0gFyQVVfeXFMT2hDZjJJRHVUSUNwYldBdV9oSGRhRGw5VzJ2VE5TeU5kQ2lUY3lWenVQQnh3RTdxcGVzenhLNldjbWp5d1drLU9MS0lsWXZ1ekZ4QWVkSjFiNFI0c0RLTFF0YVhBVHRWYW12T0g4VVVKaTRn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-11T11:10:00",
+      "description": "Ulsan Dong-gu District Mayor Kim Jong-hoon Discusses Renewable Energy Development Direction",
+      "summary": {
+        "phenomenon": "Ulsan Dong-gu District Mayor Kim Jong-hoon discussed the direction of renewable energy development.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Kim Jong-hoon",
+        "Ulsan Dong-gu District Mayor",
+        "Renewable Energy",
+        "Development Direction",
+        "Discussion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "김종훈 울산 동구청장, 재생에너지 발전 방향 머리 맞대 울산신문"
+    },
+    {
+      "id": "14",
+      "title": "Dong-gu District Mayor Kim Jong-hoon Discusses Ulsan's Renewable Energy Development Direction and Current Status - Ulsan Maeil",
+      "original_title": "김종훈 동구청장, 울산 재생에너지 발전 방향·현황 논의 - 울산매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tM1FZSzBJaHhGV29Fb1RfanBPcmhoUDVOZndrenZTR2cxZ19kN0Z6YlVlZTBUQXRxSnJETHdoRDhNcFd0bFRxMnZ2dXgydm5CS2VPZEpQSzNxb2JVUFlIajI5TWxoSThrZFHSAW5BVV95cUxOM1pMMGJ0eldSMGM0Q1JhTmcxYUFxQ2dabjR4Wm9LNURncExtaTlSSlpQU3lTNVk5N0pyTl9zOWpZRG9GRE4xMExpV25qUFNDbHJNVHRSNGRkX0ZxZEJxUV9RVUNQRUhaMmFPSWowdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-11T08:57:35",
+      "description": "Dong-gu District Mayor Kim Jong-hoon Discusses Ulsan's Renewable Energy Development Direction and Current Status",
+      "summary": {
+        "phenomenon": "Dong-gu District Mayor Kim Jong-hoon discussed the direction and current status of Ulsan's renewable energy development.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Kim Jong-hoon",
+        "Ulsan",
+        "Dong-gu District Mayor",
+        "Renewable Energy",
+        "Discussion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "김종훈 동구청장, 울산 재생에너지 발전 방향·현황 논의 울산매일"
+    },
+    {
+      "id": "15",
+      "title": "“Ulsan is the Optimal Location for Floating Offshore Wind Power… Greatly Benefiting Job Creation and Technological Growth” - Ulsan Jeil Ilbo",
+      "original_title": "“울산은 부유식 해상풍력 최적지… 일자리·기술성장에 큰 도움” - 울산제일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OWDNBSTBYWnd3QWdjeUR2dlpGU2VRYjMyUUNvbU03NExoWG9WUEZfeG9Tay1SMjBLMkZjY3BCWlNieTFRYTFYT2hTTFppQkxSYmtJelloVElhdUhlUEM1RE9FdERpdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-11T09:49:00",
+      "description": "“Ulsan is the Optimal Location for Floating Offshore Wind Power… Greatly Benefiting Job Creation and Technological Growth”",
+      "summary": {
+        "phenomenon": "It has been asserted that Ulsan is the optimal location for floating offshore wind power development.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Floating offshore wind power development is expected to significantly contribute to job creation and technological growth in Ulsan."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ulsan",
+        "Floating Offshore Wind Power",
+        "Optimal Location",
+        "Job Creation",
+        "Technological Growth"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“울산은 부유식 해상풍력 최적지… 일자리·기술성장에 큰 도움” 울산제일일보"
+    },
+    {
+      "id": "16",
+      "title": "Workers Without Rest in -10°C Cold… 'Cold Wave Rest Rights' Under Review",
+      "original_title": "[점선면]영하 10도에 쉴 곳 없는 노동자들…‘한파 휴식권’은 “검토 중”",
+      "url": "https://www.khan.co.kr/article/202601120700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-01-11T22:00:00",
+      "description": "Amidst increasing mobile workers and a lack of early morning shelters, the issue of 'cold wave rest rights' is being discussed, contrasting with existing 'heatwave rest rights.' This highlights the need for worker protection during cold waves, as exemplified by a sudden heavy snowfall in Seoul on February 6 last year, where workers struggled to find rest.",
+      "summary": {
+        "phenomenon": "On February 6 last year, sudden heavy snowfall occurred near Sejong-ro Intersection in Seoul, leading to a situation where mobile workers struggled to find shelter amidst a cold wave of minus 10 degrees Celsius.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The introduction of 'cold wave rest rights' for worker protection during cold waves is currently under review, marking it as the starting point for enhanced worker protection."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "점(사실들) : 늘어나는 이동노동자·새벽 쉼터선(맥락들) : 폭염엔 ‘쉬는 법’, 한파에는 없다면(관점들) : 한파 속 노동자 보호, 이제 출발선갑작스러운 폭설이 내린 지난해 2월6일 시민들이 눈을 맞으며 서울 세종로 사거리 인근을 지나고 있다. 문재원 기자“형님들 이동노동자 쉼터 모르시는 분 없죠? 추울 때는 쉼터 위치 표기해놓는 게 좋아요. ‘콜사’(···"
+    },
+    {
+      "id": "17",
+      "title": "기후 변화로 미국 급여 12% 감소. 더 큰 위기 예고 - BBC 사이언스 포커스 매거진",
+      "original_title": "Climate change has now shrunk US salaries by 12%. And worse is to come - BBC Science Focus Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sUG5qSW1ydlFCQTF6QlFybGxkQnJ1T0Q4cV90Y3VYa1lzeThtb0hCdWJfbmloOHNTRnJGZHJVY2tkaEdqRkpmTF9jN2owZ2NxX0IzR1RuSFg1MDViaE52MFNUNXFYUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T10:00:00",
+      "description": "Climate change has now shrunk US salaries by 12%. And worse is to come BBC Science Focus Magazine",
+      "summary": {
+        "phenomenon": "Due to climate change, US salaries have currently decreased by 12%.",
+        "cause": "Climate Change",
+        "outlook": "A greater crisis has been forewarned for the future."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "US Wages",
+        "Salary Decrease",
+        "Economic Impact",
+        "Worsening Outlook"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change has now shrunk US salaries by 12%. And worse is to come BBC Science Focus Magazine"
+    },
+    {
+      "id": "18",
+      "title": "Announcements: ICL Year in Review Webinar; ITLOS – Nippon Foundation Programme; Climate Change Symposium; Legal Dimensions of Refugee Data Protection Conference; Enforcing Sustainability Standards in Cross-Border Trade Symposium; CfP Univ - EJIL: Talk!",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPTGs0aFZSYk5saDUxa1M0aHVOU1E5NVhYTl9lb1NWQW5paHlzTG40WUR1blBrZ2JVZTRqVFE4d08xdEpaa2l2SUU4VGgyRWFYdThzaVhjaUZITDVEdjdkYkVlMVJYNEdVdjdKR3JFUjhlcUlJcVpxNmFFWEFwU1FiU3AtMXZvN2NDYUVsYlJsenhxWVFxS2c4d1VieTk4b0RSYUZTMXMyRjZ5SWxndGc2VHpNT09nZHpFR0dwUGpRS1IxeVVmRmxTdm1MUkRfaFNHVlBTWFZ2V3ZNU0hZOXpTaHQ5YlI0N1BwR2NJRjVEdUExd3JNc1NHLXV2TURSbXgxU0tnYVRBOFpYcDRXVGdwZTFiZ21ZMFVaOWJ5Y1dZN2I3QWhSc0RJVXY1cDQ3MTVQcDBBS2hB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T10:06:29",
+      "description": "Announcements: ICL Year in Review Webinar; ITLOS – Nippon Foundation Programme; Climate Change Symposium; Legal Dimensions of Refugee Data Protection Conference; Enforcing Sustainability Standards in Cross-Border Trade Symposium; CfP Univ EJIL: Talk!",
+      "summary": {
+        "phenomenon": "Several events were announced, including a Climate Change Symposium, a Conference on the Legal Dimensions of Refugee Data Protection, and a Symposium on Enforcing Sustainability Standards in Cross-Border Trade.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Announcements: ICL Year in Review Webinar; ITLOS – Nippon Foundation Programme; Climate Change Symposium; Legal Dimensions of Refugee Data Protection Conference; Enforcing Sustainability Standards in Cross-Border Trade Symposium; CfP Univ EJIL: Talk!"
+    },
+    {
+      "id": "19",
+      "title": "The Scientists Making Antacids for the Sea to Help Counter Global Warming - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOC03NlJfSjhUeFJQQnhNV3J1bnRwQXlBNWxSampLMC0tR1JpZUhSbGN4R0prc3o3QzU5WUFoSlhFTmpQbkVYeHJBM1Q5eWczUzRsbENWZUFpRElTZFRxUDZveXI2UDZSSDY3RFowcElNYWI3R1loYTdieFJGd3BiNXNkcmt1TWtzSnhUcVZTTDY1Tnp6?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T19:36:00",
+      "description": "The Scientists Making Antacids for the Sea to Help Counter Global Warming The New York Times",
+      "summary": {
+        "phenomenon": "Scientists are developing antacids for the sea to counter global warming.",
+        "cause": "To counter global warming.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Scientists Making Antacids for the Sea to Help Counter Global Warming The New York Times"
+    },
+    {
+      "id": "20",
+      "title": "UCS: Climate Change Induced Worst MISO Outages of the Decade - RTO Insider",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN2UzMXRiUlVhVHpIc255QWZ4SEJwWVFsdE5nZEd6cmt4Ym1QQjdSc3dtbjV4N3FvMklibERQbXFlOWtKRjIzbkU4U1g5a1Y3UWM1cnFlWVV2OXZmcXRxcldWVThSMXpMVDlpX1U2enNvV3FFYXBUVV9YaDRIUG5PZHRDZHU0NldRX2ExZDhaNm8?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T20:46:36",
+      "description": "UCS: Climate Change Induced Worst MISO Outages of the Decade RTO Insider",
+      "summary": {
+        "phenomenon": "Climate change has caused the worst power outages in the MISO region over the past decade.",
+        "cause": "Climate Change",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "UCS: Climate Change Induced Worst MISO Outages of the Decade RTO Insider"
+    },
+    {
+      "id": "21",
+      "title": "2025년 해양, 기록적인 고온 도달: 기후 변화 영향 심화",
+      "original_title": "Oceans reached a record high temperature in 2025: the impact of climate change intensifies - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNjNqd0Vmdjdvd0JtNGllc1huRjFHaVNhZnB3UHpzUFd1cmdtUmZTQzZZUVB3TjBycFZqMW5TNjluck9DQ3d4YmhucENCN1lvMFJCX0xrMDU3dUdxSXhYdTRwaFVSV2pEeVpUakxRN1M1QUozQkFDQkl3dm9DQlpQUmJ3dkVOM3dlRGtYei1KZ2QyNnNlMF9OYW5fTWpvYzFTcVN3aUpNRkw5QVpPX0owMEN2VTVOSGotOXZBV1dUajhoUkV1SExHa0tnTi1PaS1OZ0Rj0gHYAUFVX3lxTE9MZVJlOU1ENmotb1VGN0o5b2JyOFB1Q3ZRWkFZbzFFdVlROC1EekgtRGs5cHhtZm5PWWJYZjlmaDRVdW0yc2xCVGJfM1NGTGFZR0FGRE1veExYUjlsbjlkSURqRHo5amNySWwzVDE3c1pScl9HT3h0cWNqX3M5ZUlPc0hSQkRoU2FqVXNUYkZnZ0s4ODNxaURIN1NMM3dCbU9ka1FUSm8ybkdXQWNkdjhBd2tSbHNfMEpSN1h4VU9EeFAwbzB4bVVVbjlHQ01DekljZUY5eVRjcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T14:06:14",
+      "description": "Oceans reached a record high temperature in 2025: the impact of climate change intensifies Noticias Ambientales",
+      "summary": {
+        "phenomenon": "Oceans reached a record high temperature in 2025.",
+        "cause": "This is due to the intensifying impact of climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Ocean",
+        "Record high temperature",
+        "2025",
+        "Climate change",
+        "Intensifying impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Oceans reached a record high temperature in 2025: the impact of climate change intensifies Noticias Ambientales"
+    },
+    {
+      "id": "22",
+      "title": "나이지리아와 남아프리카공화국, 화석 연료 생산 증대 계획으로 기후 변화 공약 위협 - 더 컨버세이션",
+      "original_title": "Nigeria and South Africa plan to boost fossil fuel production, risking their climate change pledges - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnNpNi1rcGp0eG9JOE5CVkwzcmNic2hGU05lZjdYRDdOWXAxWXdCMlVxVTdELVRMTkJDUkhjSGxYT2JkV0hMZW4wNHJDUUlQSnFFdm9MSnF1TDZaTU5VMENJUG5pMDZVbkMteXRxQm1OVUNtbzNrcGg0NXFsaUFtQzZzams0UjhVaFA1dFBsLUFFWmNOcEVtaDFYUm5lRGFuS1piS0RpYzN1alZwTnJ1ZFN5TFRWR3Zrdk91dU9QRnRYNzdCV3IwNW1IQXpWQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T08:20:28",
+      "description": "Nigeria and South Africa plan to boost fossil fuel production, risking their climate change pledges The Conversation",
+      "summary": {
+        "phenomenon": "Nigeria and South Africa plan to increase fossil fuel production.",
+        "cause": "Not mentioned in the article",
+        "outlook": "These plans could jeopardize both nations' climate change pledges."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nigeria",
+        "South Africa",
+        "Fossil fuels",
+        "Production increase",
+        "Climate change pledges"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Nigeria and South Africa plan to boost fossil fuel production, risking their climate change pledges The Conversation"
+    },
+    {
+      "id": "23",
+      "title": "겨울철 벌과 말벌: 동면과 기후 변화로 인한 초군집 위험 사이",
+      "original_title": "Bees and wasps in winter: between hibernation and the risk of supercolonies favored by climate change - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR3IzNkQxamprSWg0bmtBclczdUg3SE5Bbml4YjUyZV95bFNVdklQTlJfWGNBUUFJeUFoZnVpbFR3UjhELUtpdVRadHpwRWhoMy14OUhiY3hOOEExV012MWRyTVViQTg3WmMzS2p3dFlxMEw5b21HTk1oR2dCUjVEc0JMcTI0UHF6QlpwcjRIbWYxbjkwVjFUTHJRcXZCY1NZRDdXT1hRcy1WX3I4RW1ZeDBaUUZSYXI3S1BIN3VQMUFZcmpsbER4bDJ4SEhpd1cya3IxY29vZlHSAd4BQVVfeXFMT1JDMFlkRGZvUF95RWF0LXVudDBLNHVLQnU5ZnotQW5YUDQxclQxbXJVaC13UV9ZWmg4clZzemZqcUdraENGbXJiTlpHLTN6cE94eW1pZzN2bDQ5Q1JQNUM0UW84dmU1MEdoZ0NsclVQWE04S3MyYi1RdGhEc2lacmdGM09rdFBaczhpRXZ3Vng5VmtwTTJwcEtveVpCTXJZNWdJNXlqNHFXZzVYSTRRVm9VTHlnSC14eWZHZ3prSEwxNWttbTlFT0RERklJXzZvamhFa0U3SUZpN3B0Ukln?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T16:06:35",
+      "description": "Bees and wasps in winter: between hibernation and the risk of supercolonies favored by climate change Noticias Ambientales",
+      "summary": {
+        "phenomenon": "In winter, bees and wasps are caught between hibernation and the risk of supercolonies, a phenomenon favored by climate change.",
+        "cause": "Climate change creates conditions favorable for the formation of bee and wasp supercolonies.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Bees and wasps",
+        "Winter",
+        "Hibernation",
+        "Supercolonies",
+        "Climate change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bees and wasps in winter: between hibernation and the risk of supercolonies favored by climate change Noticias Ambientales"
+    },
+    {
+      "id": "24",
+      "title": "ZAWYA-PRESSR: 자인, CDP 기후변화 2025에서 최고 'A' 등급으로 상향, 이 리더십 수준의 지역 유일 통신사 - 트레이딩뷰 — 모든 시장 추적",
+      "original_title": "ZAWYA-PRESSR: Zain upgraded to top ‘A’ score in CDP Climate Change 2025, region’s only telecom operator at this leadership level - TradingView — Track All Markets",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNcXA3Wm85Z1RONUxoaWRTN2dIQVNUbEI0YUxNemNDaTNIaUFVQWZ1QTVkM0xsVzA1WEs3bjQtZXVfVXFiVzlweU1lWmhHejgwc2dfWnE3TmZxbUtWUGpFZjI3ZDhuZlBGMlZWcmVxTkhWa2lkcmlTRVBta2hvMnBZUWQ2SWRucGQxRERSakN6TVhpamwyVEZZU191VGY5cHkzNFFzcDdGNmVxSnp2X2FEcjV0TWlvQ0F4eF9GaERDQmtERHYxZWszZmUzS2E1dktrVzNhMkhqNER5M0JVWFZiQlpaQnp1Vk1UMEdVWURZM3JKd2dNOHh5MllXUzF2cmdsX3Y0RVFFck1DOElyVThUNXVlWnptX3h2VzI1ZlhvM09WZ21DakdJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T11:25:01",
+      "description": "ZAWYA-PRESSR: Zain upgraded to top ‘A’ score in CDP Climate Change 2025, region’s only telecom operator at this leadership level TradingView — Track All Markets",
+      "summary": {
+        "phenomenon": "Telecom operator Zain has been upgraded to the top 'A' score in CDP Climate Change 2025, becoming the only telecom operator in the region to reach this leadership level.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Zain",
+        "CDP Climate Change",
+        "A score",
+        "Telecom operator",
+        "Leadership level"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "ZAWYA-PRESSR: Zain upgraded to top ‘A’ score in CDP Climate Change 2025, region’s only telecom operator at this leadership level TradingView — Track All Markets"
+    },
+    {
+      "id": "25",
+      "title": "WATCH: Nana Akua says we should try to adapt to climate change - GB News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1RWTEZKSTJmcFB6Zm1rSXl6SDVRYWNnNUJwNDI4bkRuOU1LMm9QMEhEOUZHNEhRQ2lBSENkTHFVemRwdlVmdk0wd2l3OU5KMEhjRGhsa0k1WEtDZ1FWOGt0U1JuT3RuNnNjdzBHS3BDUHpqSUcyZlR0MVdOR3JtUU9DMk5PalI2Um0tQVhFU2VIeE0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T21:05:38",
+      "description": "WATCH: Nana Akua says we should try to adapt to climate change GB News",
+      "summary": {
+        "phenomenon": "Nana Akua stated that we should endeavor to adapt to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "WATCH: Nana Akua says we should try to adapt to climate change GB News"
+    },
+    {
+      "id": "26",
+      "title": "기후 변화가 당신의 편두통을 어떻게 악화시킬 수 있는가",
+      "original_title": "How climate change could be making your migraines worse - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNME43VkFQbGlQRzJQQjFCdkdCSHhsOHFJRzlpYmVHdzdzMFdMSVJta01DLXVXS2hjcXFuVmo0V2RPVXJza0N4clRJRnQ0YVd2UGZUSEhjSktueDVnZXFaeVU1REhKVGpPQjlRSEhDaC05ZDY4cE9LTWdqelVTa05DOUt5VHNxTmprWnlvd3hXMGZKMk5uTi1oZ19OY2VlUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T20:34:16",
+      "description": "How climate change could be making your migraines worse The Daily Star",
+      "summary": {
+        "phenomenon": "Climate change has the potential to exacerbate individuals' migraines.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Migraines",
+        "Worsening",
+        "Health",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change could be making your migraines worse The Daily Star"
+    },
+    {
+      "id": "27",
+      "title": "Czech scientists propose unique solution to fight climate change: Deforestation - Expats.cz",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkpPbldqUFVzNEpsZ0NnS2UxMWswcVlaeXFDWW5ock5JVjBoSTJqdE1PdkxBVkxHTjR4a29YbWJVR2VieWdNYUQzQlVFdHRvMmJacmJSZExPMEc0U1BuUWM2OWwwSUdDQlNUOWJzSmNoZmNjRi1BMFM0Y2FLcjJSeXZLeS1ZSXF0V3VPRU12aGdmcHRsNW9jUGdoZDJtZEZDcmlCZXdSNUZCYUJ1cWJUcTFJcUR5VkFvYlRv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T11:13:00",
+      "description": "Czech scientists propose unique solution to fight climate change: Deforestation Expats.cz",
+      "summary": {
+        "phenomenon": "Czech scientists have proposed deforestation as a unique solution to combat climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Czech scientists propose unique solution to fight climate change: Deforestation Expats.cz"
+    },
+    {
+      "id": "28",
+      "title": "호주의 기후 변화 (고양이 영상 없음) - 데일리 코스",
+      "original_title": "Climate Change in the Land Down Under (no cat videos) - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaVZTdHA1RUJ0UEM2RDdfbVljZlVKdm44WFVSSWZ3X3otZVhoZXlDOFh1OW9Jb0dhdXRYazRUWGI0T0RLS0N3bkgzczM4dW5PMmxKR25lR2VITzY1YXdMRmZVMjE3cmoyVDVMa2xPUUVqenY0RV9FVGhDTGVDR2FSNWJ6VHFQVWpTRS1hYXd6ME9xQXQ3SUJMbURFWUpxSU45WHBv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-11T15:01:55",
+      "description": "Climate Change in the Land Down Under (no cat videos) Daily Kos",
+      "summary": {
+        "phenomenon": "Climate change is occurring in Australia.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Australia",
+        "Environment",
+        "Severity",
+        "News"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change in the Land Down Under (no cat videos) Daily Kos"
+    }
+  ],
+  "summary": {
+    "total_count": 28,
+    "domestic_count": 16,
+    "international_count": 12,
+    "top_keywords": [
+      "Climate Change",
+      "Climate Change",
+      "Changwon City",
+      "Carbon Neutrality",
+      "Exhibition"
+    ],
+    "sentiment_breakdown": {
+      "positive": 7,
+      "negative": 11,
+      "neutral": 3
+    },
+    "original_top_keywords": [
+      "기후변화",
+      "기후 변화",
+      "창원시",
+      "탄소중립",
+      "전시"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
