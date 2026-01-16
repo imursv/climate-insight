@@ -1,0 +1,1383 @@
+{
+  "date": "2026-01-16",
+  "generated_at": "2026-01-16T23:13:36.099592",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 1월 16일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 심화되는 기후 위기와 전방위적 영향",
+        "content": "오늘의 주요 소식은 기후 위기의 심각성을 다시 한번 강조합니다. 2025년 지구 기온이 역대 세 번째로 높을 것으로 전망되며, 이는 기후 위기의 현실을 명확히 보여줍니다 [4]. 실제로 전 세계적으로 3년 연속 기록적인 고온 현상이 이어지고 있으며 [57], 기후 변화로 인해 미국인의 급여가 이미 12% 감소하고 에스와티니 국민들의 삶이 악화되는 등 직접적인 경제적, 사회적 피해가 발생하고 있습니다 [28, 29]. 아프리카의 물 문제가 심화되고 볼리비아에서는 가뭄과 염분 증가로 인한 주민 이주 위협이 커지는 등 전 세계적으로 물 부족과 생존 환경 악화가 심각한 수준에 달했습니다 [36, 56]. 이러한 위협에 대응하여 해수 담수화 사업이 급증하고 있으나, 이는 동시에 물 부족의 심각성을 방증하는 현상입니다 [33, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 국내 탄소중립 및 재생에너지 전환 가속화",
+        "content": "국내에서는 기후 변화 대응과 탄소중립 실현을 위한 노력이 다방면으로 가속화되고 있습니다. 제2회 부탄국제ESG동맹포럼에서 기후변화가 주요 의제로 다루어졌으며 [1], 함안군과 기장군 등 지자체는 기후 변화로 인한 병해충 문제에 선제적으로 대응하고 있습니다 [2, 3]. 탄소중립 스마트도시 거점인 광명 '지-스마트허브' 개관 [6], 원주시의 탄소중립 체험프로그램 운영 [8, 12] 등 생활 속 실천을 독려하는 움직임도 활발합니다. 특히 남부발전이 가축분뇨를 고체연료로 활용하여 탄소중립과 지역경제 활성화를 동시에 추구하고 [7, 10, 11], 한전KPS는 2조 원대 예산을 투입해 탄소중립 분야를 선도하며 [13] 불법 석유 유통을 근절하고 탄소중립 연료로 전환하려는 정책적 의지도 확인되었습니다 [9]. 또한, 충북도, 금강청, 지자체 및 에너지 유관기관들이 재생에너지 보급 가속화를 위한 업무협약을 체결하고 [14, 17], 서부발전이 2040년까지 13.5GW의 재생에너지 보급 목표를 설정하는 등 [16] 국내 주요 기업과 기관들이 재생에너지 확대를 위한 구체적인 계획과 투자를 본격화하고 있습니다 [15, 18, 19, 20, 21].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 국제사회의 기후 변화 적응 및 정책 모색",
+        "content": "국제사회는 기후 변화의 위협에 직면하여 다양한 적응 및 정책적 노력을 기울이고 있습니다. 브라질은 자연과 기후 변화를 위한 생물다양성 서약을 발표하며 생물다양성 손실 방지에 동참하고 [30, 58], 타지키스탄 농부들은 기후 변화에 맞춰 농업 방식을 적응시키고 있습니다 [39]. 이는 농부들이 기후 변화 대응의 핵심 주체임을 인식하고 지원을 제공해야 한다는 세계 경제 포럼의 제안과 맥을 같이 합니다 [23]. 또한, 크루즈 선사들이 승객들에게 극지방 빙하의 기후 변화 추적법을 교육하며 대중의 인식 제고에 기여하고 [40, 54], 스코틀랜드는 기후 변화 계획 초안에 전기차 관련 내용을 포함하는 등 [53] 각국이 구체적인 정책 방향을 제시하고 있습니다. 2025년부터 2033년까지의 탄소 중립 채굴 시장에 대한 조사 보고서가 발행되는 등 [55] 산업 전반에서 탄소 중립 전환을 위한 연구와 준비가 이루어지고 있으며, 2026년 중국의 에너지 및 기후 행동에 대한 전문가들의 기대감도 높아지고 있습니다 [59].",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚠️ 간과되거나 새롭게 부상하는 기후 위협 및 논의",
+        "content": "기후 변화는 예상치 못한 새로운 위협과 사회적 논쟁을 야기하고 있습니다. 이란에서는 가뭄이 유혈 사태의 숨겨진 키워드 중 하나로 지목되며 기후 위기가 사회 불안정을 심화시킬 수 있음을 보여주었습니다 [22]. 또한, 기후 변화로 인한 버섯 중독 사망 사례와 같은 예상치 못한 위협이 발생하고 있으며 [38], 주택 보험에서 기후 변화로 인한 심각한 공백이 드러나 보험 제도의 재정비 필요성이 제기되고 있습니다 [34]. 미시간주의 데이터 센터 논의에서 기후 변화가 다루어지지 않는다는 지적은 경제 개발 과정에서 기후 이슈가 간과될 수 있음을 시사하며 [25], 코스타리카의 운무림이 기후 변화에 대처할 수 있을지에 대한 의문은 생태계의 취약성을 보여줍니다 [35]. 한편, 기후 변화 관련 분쟁의 미래에 대체 분쟁 해결(ADR)이 논의되는 등 [37] 법적, 사회적 대응 방안에 대한 고민도 깊어지고 있습니다.",
+        "tone": "urgent"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후 위기의 전방위적 확산과 이에 대응하는 국내외의 다양한 노력, 그리고 새롭게 부상하는 위협과 논의들을 조명했습니다. 지속적인 감시와 신속한 행동이 그 어느 때보다 중요합니다. 이상으로 2026년 1월 16일 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "[부탄ESG] 제2회 부탄국제ESG동맹포럼, 기후변화 주제 기조강연 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5haUVscWkweHR3RDFaTHBKczBUNVdzRkw5N2xTQVZoMk9ReTNtV3JyZlk4SGluZmRHdVMyOFJ6TzNobXVHd05Oc2p3RXRVeU5CZGZiQUpZWG1KZGpxampINTNYZm0xWlgxOWdILXl3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-16T08:11:59",
+      "description": "[부탄ESG] 제2회 부탄국제ESG동맹포럼, 기후변화 주제 기조강연 gukjenews.com",
+      "summary": {
+        "phenomenon": "제2회 부탄국제ESG동맹포럼이 개최되었으며, 기후변화를 주제로 한 기조강연이 진행되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "부탄",
+        "ESG",
+        "국제동맹포럼",
+        "기후변화",
+        "기조강연"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "함안군, 일손 부족 해소 및 기후변화에 선제적 대응 - 브레이크뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BVXlwTXFQcnJYaWFGQmltSGNHM3E2dUZuaFpZTUd6OWk4b29TbWtSRXh0Tll3UUtyTEVwVm1IMGhCanhEYnVJ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-16T12:02:00",
+      "description": "함안군, 일손 부족 해소 및 기후변화에 선제적 대응 브레이크뉴스",
+      "summary": {
+        "phenomenon": "함안군이 기후변화에 선제적으로 대응하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "함안군",
+        "일손 부족",
+        "기후변화",
+        "선제적 대응",
+        "해소"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "기장군, 기후변화 대비 병해충 선제 대응 - 포인트경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2YmhDSFUwdDdJa2lnTmkzdWRrT2xSR2F1bURYdE8ydTl6aTVyT2NiM1ZMTXFBUm01ZVp3c09qUkRNSGlVdWduWE9kZ1JnZVpxeGlPQ0NyVGdfbTdyQldVcHUxREVHN3ViQVE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-16T08:36:00",
+      "description": "기장군, 기후변화 대비 병해충 선제 대응 포인트경제",
+      "summary": {
+        "phenomenon": "기장군이 기후변화에 대비하여 병해충에 선제적으로 대응하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기장군",
+        "기후변화",
+        "병해충",
+        "선제 대응",
+        "대비"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "기후위기, 2025년 지구 기온 3위…한국 2035 감축목표·탄소시장 시험대 - 비건뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3LXJzbWYzVzJ6VEFvN2puTXl0X0JaNkMzd3M1ZE8zTGhibHFkb3pmOUMyN2lSdm95VkhjbTVBcEVZMGlRMThVdjFOcFZIUUlYaXlRbnZLdmE0RzVxN3NJbkRNblRsdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-16T09:16:24",
+      "description": "기후위기, 2025년 지구 기온 3위…한국 2035 감축목표·탄소시장 시험대 비건뉴스",
+      "summary": {
+        "phenomenon": "2025년 지구 기온이 역대 3위를 기록할 것으로 전망되며, 이는 기후위기를 나타냅니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "한국의 2035년 감축목표와 탄소시장이 시험대에 오를 것입니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "지구 기온",
+        "한국",
+        "2035 감축목표",
+        "탄소시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "[알쓸정책-산업편] 탄소중립 지원·수출스타 500·기술사업화 R&D·녹색채권 - 헬로티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15a2F4Vi1HMEp5TDNNT2VHUGc1TEplV1l6QU5rNmYzUEp0cEJNTUE4MmxwUlp1WTBsNlBBZVM5VjFjdlE5YklkUmREcmJOWEZqb1hlUFRjM0M4d1FlU2FR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T09:49:04",
+      "description": "[알쓸정책-산업편] 탄소중립 지원·수출스타 500·기술사업화 R&D·녹색채권 헬로티",
+      "summary": {
+        "phenomenon": "탄소중립 지원을 포함한 산업 정책들이 추진되고 있으며, 이는 수출스타 500, 기술사업화 R&D, 녹색채권 등과 함께 언급되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "녹색채권",
+        "기술사업화",
+        "R&D",
+        "수출스타"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "탄소중립 스마트도시 거점…광명 '지-스마트허브' 개관 - B world",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tNzItQjE4NXFpQk5RVFV6R2ZCNHR1SFI3SVA0NGlhQTZCTGxsU1I4OTBrNU1DbTBPU1JKd2VFT20tU2FFYTI2NTd1RnpwSWdlaVM2ZVNBTjFKeUVBSjJxb0pKYzVaUmpVd3kwZTNaUjg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T09:17:51",
+      "description": "탄소중립 스마트도시 거점…광명 '지-스마트허브' 개관 B world",
+      "summary": {
+        "phenomenon": "광명에 탄소중립 스마트도시의 거점이 될 '지-스마트허브'가 개관했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "스마트도시",
+        "광명",
+        "지-스마트허브",
+        "개관"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "남부발전, 가축분뇨 고체연료로 탄소중립과 지역경제 ‘두마리 토끼’ 잡는다 - 스트레이트뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzSFBEdHN6TTdtaWthSTQzV05jVVFkUFg1LUIycVV3YnFxc0ZlTTNZWmRLZ3lZR25fd3AtcU5KbFdzMFNEUFB6d2VfSnFnVVotS2hCVDlGTi1TTjJ4LTJiUzlmQllOQkp5dzFGdWp4Q21hZzjSAXdBVV95cUxOZlBoc3ViZ00yOHBoZ2RKSlhscEYyVTFEcFVUcVU3MTNtcVpGMENmWjEzSTRrRWtXOWxnR2RFYW5fWGFLUWRrOEtfSG0weUdvQzBpaV9SRWwyRzFyX0t1UUtpUDJWY1JVTVVYM0lPYUdidFQzcXdodw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T08:33:07",
+      "description": "남부발전, 가축분뇨 고체연료로 탄소중립과 지역경제 ‘두마리 토끼’ 잡는다 스트레이트뉴스",
+      "summary": {
+        "phenomenon": "남부발전이 가축분뇨를 고체연료로 활용하여 탄소중립을 추진하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 노력을 통해 탄소중립 달성과 지역경제 활성화라는 두 가지 목표를 동시에 이룰 것으로 기대됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남부발전",
+        "가축분뇨",
+        "고체연료",
+        "탄소중립",
+        "지역경제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "원주시, 겨울방학 탄소중립 체험프로그램 운영 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE82cUhianJvcXVuMEQ3REdYd1hYc2dTRFRMTEhzZXJHUm5jME1UNmJSOHJxRUJUbHlzbmhfZzJIamV0OG9nb1UyRXFNZWp1M1pZS0JsMDhHRDB0bVBfYndPZmMxS0VMOW02XzRrb3lZbnVRZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T15:41:02",
+      "description": "원주시, 겨울방학 탄소중립 체험프로그램 운영 웹이코노미",
+      "summary": {
+        "phenomenon": "원주시가 겨울방학 기간 동안 탄소중립 체험프로그램을 운영하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "겨울방학",
+        "탄소중립",
+        "체험프로그램",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "“불법 석유유통 끊고 탄소중립 연료로 간다” - 국토일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40dS1EUHVqWWpsck5VY3FWVVU0UTMtOTd6UFQ0T1JaS2d0dVNja2FHRHU3Z1pPRHRxalB3NmhPYUZFQnVRT3pnOW9vUWltU2F1dGxWcjRPd3B3QlRRb3E2eXFPOA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T08:29:25",
+      "description": "“불법 석유유통 끊고 탄소중립 연료로 간다” 국토일보",
+      "summary": {
+        "phenomenon": "불법 석유 유통을 근절하고 탄소중립 연료로 전환하려는 움직임이 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "불법 석유유통",
+        "탄소중립 연료",
+        "탄소중립",
+        "연료 전환",
+        "정책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "남부발전, 축분연료로 탄소중립 가속 - thepowernews.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMY3hFaGFBNGw4czdWZ205VmRSSHdTZTl0Z1JRRXJzRVB6WXVtT2JnVm94SldlRjdjeklGSXlRRHEzUHlCM3BvZnNPTmszWUJ3NXllSXBJZ1R4VUpTVmRsY2NDVWNxQ2hiMjM4NWcxV2k5UDUzSW4wcTUtamZIQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T08:37:43",
+      "description": "남부발전, 축분연료로 탄소중립 가속 thepowernews.co.kr",
+      "summary": {
+        "phenomenon": "남부발전이 축분 연료를 사용하여 탄소중립 달성 노력을 가속화하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남부발전",
+        "축분연료",
+        "탄소중립",
+        "바이오에너지",
+        "에너지 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "남부발전, 가축분뇨로 전기 만든다⋯탄소중립·악취 해결 - 이투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Ja1B3RUdJX0hYZ1dGUFNQc1JzUVNuRlNFcGRrNFQ5TlN6bkhqOW5jdG1oSnF6cE91cGxvdXgzb1pOQlhzYWw3b3luY2d0cmx4OGQ5cA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T08:33:00",
+      "description": "남부발전, 가축분뇨로 전기 만든다⋯탄소중립·악취 해결 이투데이",
+      "summary": {
+        "phenomenon": "남부발전이 가축분뇨를 활용하여 전기를 생산하는 사업을 진행하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "이 사업을 통해 탄소중립과 악취 문제를 해결할 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남부발전",
+        "가축분뇨",
+        "전기",
+        "탄소중립",
+        "악취 해결"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "원주시 '2026년 겨울방학 탄소중립 체험프로그램' 운영 개시 - 로이슈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPMWVDSjVlMXdWQjM5MDdhVDVkeThCeHkxRmlMV0JUREIxc2twS3VkMjN1Z2pWdi1CbUFjb0gxSHV4RmR6ODdfVmUyMnpTMEdwdkV2RF9fTktNNHB5M1NOY3ZUanpxZDZINURpU3dqcVpBOEw5TDhjNENR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T10:39:30",
+      "description": "원주시 '2026년 겨울방학 탄소중립 체험프로그램' 운영 개시 로이슈",
+      "summary": {
+        "phenomenon": "원주시가 2026년 겨울방학 기간에 '탄소중립 체험프로그램' 운영을 개시한다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "탄소중립",
+        "체험프로그램",
+        "겨울방학",
+        "운영 개시"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "[정책 선도 예산혁신]한전KPS, 2조 원대 예산으로 AI·안전·탄소중립 선도 집행 - 전국뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tSUV2TWFzNHRkLXd0M1QxYlQ3TkotQ1d3TXBfbEhwQTY2MEZzMTM0QnFhTEFwVTRnMU9GbzhZYzNCdk5YdHM4QTVLeV9JaGIxTzdxRTV0V2p4WUxUTnpaRlN1T2E5c3l4LWFkcEJhamg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-16T08:36:38",
+      "description": "[정책 선도 예산혁신]한전KPS, 2조 원대 예산으로 AI·안전·탄소중립 선도 집행 전국뉴스",
+      "summary": {
+        "phenomenon": "한전KPS가 2조 원대 예산을 투입하여 AI, 안전, 탄소중립 분야를 선도적으로 집행한다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한전KPS",
+        "2조 원대 예산",
+        "AI",
+        "안전",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "충북도, 재생에너지 보급 가속화 업무협약 체결 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Kc2hCN0dweTgyeUtKRGUyUFU0Vnd1Q0hYZS0zRlJjSmRTdlI1UnBiS1lGc2FXekYxOXZUUXE1RUIzVUdULWVQM0Vrb3JWSVhTUzNMUXVpZzR3czlJTVlmVGFyVlZROFB5TmN3dy13?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T08:22:09",
+      "description": "충북도, 재생에너지 보급 가속화 업무협약 체결 gukjenews.com",
+      "summary": {
+        "phenomenon": "충북도가 재생에너지 보급을 가속화하기 위한 업무협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충북도",
+        "재생에너지",
+        "보급",
+        "가속화",
+        "업무협약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "최재관 이사장 “재생에너지 확대, 에너지효율 혁신에 집중” - 이투뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNanNMVWVFdFE5TGMxM0tnYUNMQXpOZkdOQTFvNmxrRnU2RTB2Y0NDdTFxeUhYSTA2QVBnSXJJNUU5NUJwVGRfcy04R3RGNTB0WldTVUJHWEpPc0EwaFhhc0pXQ3RQMDjSAWtBVV95cUxOV0NJYVlYUTZTQ3FaTFdyQnh1S2tXTFE2Tkh5Mm1nbFZzSzNnY2FtTjFDakJ0QXZOWTBnWnlLSFBsNnVlWExld2p0cnJoOTd4Z002X0lyQlFROGlLNS1fVHhCb3A0UEhxYkl1aw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T08:41:34",
+      "description": "최재관 이사장 “재생에너지 확대, 에너지효율 혁신에 집중” 이투뉴스",
+      "summary": {
+        "phenomenon": "최재관 이사장이 재생에너지 확대와 에너지효율 혁신에 집중하겠다는 의지를 밝혔다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "에너지효율",
+        "확대",
+        "혁신",
+        "최재관 이사장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "서부발전, 재생에너지 사업 본격화… 2040년 13.5GW 목표 설정 - 솔라투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRUmRldDR0SjdUNUNwSkphUHktZkZhMGJoYUtHTVVaY2I3QUcySVNKYmFZZ1plVGYtdTVPQnFvUXV4aHZTNDA4cERUUDZjSGYxVlNwcHJfbjdKaTdEUTNod0ExRHZYbFlsQVM3TnJ4Nkk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T08:28:37",
+      "description": "서부발전, 재생에너지 사업 본격화… 2040년 13.5GW 목표 설정 솔라투데이",
+      "summary": {
+        "phenomenon": "서부발전이 재생에너지 사업을 본격화하며, 2040년까지 13.5GW의 재생에너지 보급 목표를 설정했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부발전",
+        "재생에너지",
+        "사업 본격화",
+        "13.5GW",
+        "2040년"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "기후위기 대응 강화 및 재생에너지 보급 가속화를 위한 금강청·지자체·에너지 유관 기관 업무협약 체결 - 도민연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQnlpeTRZbWl3RVVpeE55VzN6NEdhWXNFMEFVdjJ1bl8zZmc0SDUwaVVxOTBxcHZZR0NTNUdLS3BSY2YtdTd1LTJxc3pBTk5lMkdvNHc4RHIxNjRRYVlMNW85TlBtYlNl?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T12:58:02",
+      "description": "기후위기 대응 강화 및 재생에너지 보급 가속화를 위한 금강청·지자체·에너지 유관 기관 업무협약 체결 도민연합뉴스",
+      "summary": {
+        "phenomenon": "금강청, 지자체, 에너지 유관 기관들이 기후위기 대응 강화 및 재생에너지 보급 가속화를 위한 업무협약을 체결했다.",
+        "cause": "기후위기 대응의 필요성 및 재생에너지 보급 가속화의 중요성이 배경으로 작용했다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "재생에너지",
+        "업무협약",
+        "금강청",
+        "지자체"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "제8차 전력개발계획에 따라 투자자들이 재생에너지 프로젝트를 시행할 수 있도록 지속적으로 지원하겠습니다. - Vietnam.vn",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDZhREVVNzV5T3ZrVk4tdklwZWJJUmZVXzBPY0drekZ3dzFrRjJZaFBtaFRUclViNDNPZE5zU0xrWVlSeHZGSUNMYnZCczMtZG54TllWZlFSeUtNWmZjTDFIcGRrZloxbERsWUxER2s1eUw1UF9fZWFsSmpLdmpzOTNHWWVCdldIaDhSdmRmQ3FJMkQtSXZOMktJRmk1d0xSYjBicU9GRGdMZDJGaHVFVnktc3drclpB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T10:38:45",
+      "description": "제8차 전력개발계획에 따라 투자자들이 재생에너지 프로젝트를 시행할 수 있도록 지속적으로 지원하겠습니다. Vietnam.vn",
+      "summary": {
+        "phenomenon": "제8차 전력개발계획에 의거하여 투자자들이 재생에너지 프로젝트를 시행할 수 있도록 지속적인 지원이 이루어질 예정이다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전력개발계획",
+        "재생에너지",
+        "투자자",
+        "지원",
+        "프로젝트"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "포스코스틸리온, 공장 지붕을 태양광 발전소로… “전력 6% 재생에너지로 충당” - 아이씨엔매거진",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQWG5rMEMwdkViZ2RJbGRMTEVBUC1lWjlBaksxemxBRTBkNFV6Rkw1cXNZdG9POHNZdmQ5ekdEcGNCWHlVcVJLLVdhemUwRElFLXVYd2tMa0RhVjh3amtNaHFxbVZTZV9yMlhINFAxMU1aWDFJVmtwTTBLU2lpajh4TElmVkE3MnN5QTkxS1ZJREg2UHRlc0JPZUhwMEpJaVdjbEZUT3VKcTdNUnVTZVJKemZyeXBMZXZ1ZW1YVXE1Xzg1V2d3SkJIc0dQVThHdnNxeDhlbFlJSFAwVW1NTVFiZkpfOElRbUs3ZGRjLVJZU2dNVU1Pb3FlRk5kMVFQVDUzYldrYWxNWDVnSF9CMWdpZXgtZFhSZVZOaDMxZHJacFI2dUVQYW1Bc0J3cGZDdExGak15Rm0wUDRJc0U?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T10:40:38",
+      "description": "포스코스틸리온, 공장 지붕을 태양광 발전소로… “전력 6% 재생에너지로 충당” 아이씨엔매거진",
+      "summary": {
+        "phenomenon": "포스코스틸리온이 공장 지붕을 활용하여 태양광 발전소를 구축하고, 이를 통해 전체 전력의 6%를 재생에너지로 충당할 계획이다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "포스코스틸리온",
+        "태양광 발전",
+        "재생에너지",
+        "공장 지붕",
+        "전력 충당"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "동서발전, 2050 탄소중립 위한 에너지 전환 본격화 - 한국전력신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EVEE2QWhVQ24wbF9TRGdyVTV4SEYtNWlTMnc5QjNBbF9qWWFDWmpjTE94Q0tZWi1nbWF2VmQyb2UxcmlDdjZ4d1g5Y0xXcEZtNzVNS0lSUkhzUkJNZVhKUzFpOGNQam1ISFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T10:53:05",
+      "description": "동서발전, 2050 탄소중립 위한 에너지 전환 본격화 한국전력신문",
+      "summary": {
+        "phenomenon": "동서발전이 2050년 탄소중립 목표 달성을 위해 에너지 전환을 본격화하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "동서발전",
+        "탄소중립",
+        "에너지 전환",
+        "2050",
+        "본격화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "인피니언, 전 세계 사업장 ‘탄소 제로’ 가속 페달… “100% 친환경 전력 사용 달성” - 아이씨엔매거진",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQV0ZMWHZIZ0NZdDV4QUdMYzloZ3J1c3E1ekUwOGEzNGF4RWhUdlJIWlFWOFFfb0tYQ2JCQk5jUjl4LVBvZmtuM09vOXFfc3VqOEhFbHBMc2hpSjY2QTVaM0d3dXVuS05aaGFXdy1jQ2NySmZCQ1BUaGtwSkthdi12NnNFd2tPWXNST2lDYlJaTDFSekJwSFZZaENKZ1RWMUl6bjJVek1BNmNUNXE3dy1aaVo4cjQtanN2Q2ZsYlhTckhMTWNoWFJyQnhaZDJMVVhncEVpOW1JWDNpamNSdFVfMm9yNmpSVjgtcTM2YXZjeHFUUjV6ekpnQTFCNEhKWUk2SzFpcDh1TmViTE43TDhLN2xZT3dlVVdIakYwc0ZpMjltdGdFODZjdzNiTTFSOEVmNzkycUF3VWQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-16T09:46:09",
+      "description": "인피니언, 전 세계 사업장 ‘탄소 제로’ 가속 페달… “100% 친환경 전력 사용 달성” 아이씨엔매거진",
+      "summary": {
+        "phenomenon": "인피니언이 전 세계 사업장에서 100% 친환경 전력 사용을 달성하며 '탄소 제로'를 가속화하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인피니언",
+        "탄소 제로",
+        "친환경 전력",
+        "사업장",
+        "가속 페달"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "[뉴스 깊이보기] 이란 ‘최악 유혈사태’에 숨겨진 키워드 셋···은행 파산·가뭄·인터넷",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202601170600041/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-01-16T21:00:04",
+      "description": "지난 8일 이란 테헤란 거리에 반정부 시위대가 모여 있다. 게티이미지지난달 28일(현지시간) 이란 테헤란의 그랜드 바자르(전통시장) 상인들이 가게 문을 닫고 거리에 나설 때만 해도 이 시위가 1979년 이란 이슬람 공화국 수립 이후 최악의 유혈사태로 기록될 시위로 번질 것이라고는 예상치 못했다. 이란 리알화 폭락과 물가 급등으로 촉발된 시위는 이란 전역과 ···",
+      "summary": {
+        "phenomenon": "지난달 28일(현지시간) 이란 테헤란의 그랜드 바자르 상인들의 시위가 1979년 이란 이슬람 공화국 수립 이후 최악의 유혈사태로 번졌다.",
+        "cause": "시위는 이란 리알화 폭락과 물가 급등으로 촉발되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "이란",
+        "유혈사태",
+        "가뭄",
+        "시위",
+        "경제 위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "농부들은 기후 변화 대응의 핵심이다 – 이제 그들에게 합당한 지원을 제공할 때이다 - 세계 경제 포럼",
+      "original_title": "Farmers are key to fighting climate change – it’s time we gave them the support they deserve - The World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN0dxWnZVeXdmaXEwU0FIZG1zZjNZT3JnSUZjMWxZSlZEYUE3VmNEZDV4ZUJBVHFnUV9sYWVsTlpPTkM3VFJlM1RSWUw3OUVjZ0ZjbnpHRkRwYXBtY2V5YkdZc3VjRWJLYy00YWpTaXlseWZzSmd5T1YwMVY3cXZfSlFCNFFURE9aU1M4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T13:10:30",
+      "description": "Farmers are key to fighting climate change – it’s time we gave them the support they deserve The World Economic Forum",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "농부들이 기후 변화 대응의 핵심이므로, 그들에게 합당한 지원을 제공해야 할 때이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "농부",
+        "기후 변화",
+        "지원",
+        "세계 경제 포럼",
+        "핵심"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "24",
+      "title": "타코마 파크 작가, 자신의 거리에서 기후 변화 탐구 - 몽고메리 커뮤니티 미디어",
+      "original_title": "Takoma Park author explores climate change on his own street - Montgomery Community Media",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUm9ZclNlMks3b3FYQ25XclRNZXJMbkd3M1VoUGt6dm90X1FyRlNWTEhEeFdGcGdpMUE1dmVSaHdoTVNXdEh0UmlQQjd4MVJNSG5WcUtLNUo3dDdFLW1xT3RCNVdvVXRXUWV5ZnJYWFVZZGducGJYS3VkajY2QnpkeWJHYjk2cG1FRHl5TmdJWWs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T22:33:05",
+      "description": "Takoma Park author explores climate change on his own street Montgomery Community Media",
+      "summary": {
+        "phenomenon": "타코마 파크의 한 작가가 자신의 거리에서 기후 변화를 탐구하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "작가",
+        "타코마 파크",
+        "지역",
+        "탐구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "25",
+      "title": "Opinion | Climate change missing from the debate about data centers in Michigan - Bridge Michigan",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM3NXd3NabVUyOGNvb0RRZHVma3IzcWNVY191cXN3ZzJjb1BMcXFJMjBDQlBUWm5Ga0tZQWt2ZU9YWTlYczNPYURQemhpaVFMYkxoM2ZMc1EwNlJlbEs0cU1pTmwwQ2NndUp2N0p2MldXM2VMbVNPdUVmdGRqT2tNRTB3a09PQlZ1X1ctZVVNWU9TZnRkRXJGUUxYa3h1ZXVfSmotSXNtNGJuTlNuMFlQdlkzY011VmM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T16:10:07",
+      "description": "Opinion | Climate change missing from the debate about data centers in Michigan Bridge Michigan",
+      "summary": {
+        "phenomenon": "미시간주의 데이터 센터 관련 논의에서 기후 변화가 다루어지지 않고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "26",
+      "title": "Rob Reiner’s ‘The American President’ shows the path we could have taken on climate change - Yale Climate Connections",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMENqTU9KU01yVmJoVkQ3bHljeE9Pa05MM1NFaUxuSG5sRWFiN21DUC1sNGJmTGR2S2lueVJQSkhUNDlCTmRXYTFiM0lTR1J4WWpMck9nbnhKaUNNbXVTc1R4bjNocFhQbXF3X3dZX0QwWXFqTkFVZ3hTeF9nTnlYZ28tWWVwV21ReHp4MExYTTBWNkRRTjdSdFAzakNaVGtpQ0hTNHhhUWxaVC1ld0dfeEZ4NW1CZ0p0cDEwWnZkeU9zYUktT3ktbm5Pdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T19:54:08",
+      "description": "Rob Reiner’s ‘The American President’ shows the path we could have taken on climate change Yale Climate Connections",
+      "summary": {
+        "phenomenon": "롭 라이너 감독의 영화 '아메리칸 프레지던트'가 기후 변화에 대해 우리가 취할 수 있었던 길을 보여준다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "27",
+      "title": "스탠포드 대학교: 기후 변화가 미국인의 이주에 미치는 제한적인 영향",
+      "original_title": "The Limited Effects of Climate Change on American Migration - Stanford University",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3VScFFRcFdlT0luMHFhcHZGenhTdXNMMzc4akVnMllOZDByNVQ5dlFoQ21CV2VsNVdORk9XVk5sQkx6U29iM3ZmTUFfempmYkFmN1pYaW1qWW5HYmVMVk10aXRxUHZycFdwXzBFLUJSV1lKQWJRWk50OFg4cTlGcUdIMExYb2xDM19tNUdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T12:00:00",
+      "description": "The Limited Effects of Climate Change on American Migration Stanford University",
+      "summary": {
+        "phenomenon": "기후 변화가 미국인의 이주에 미치는 영향이 제한적이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "미국",
+        "이주",
+        "제한적 영향",
+        "스탠포드 대학교"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "28",
+      "title": "기후 변화로 미국 급여가 이미 12% 감소했다 - ZME 사이언스",
+      "original_title": "Climate Change Has Already Shrunk US Salaries By 12% - ZME Science",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWd3Y09ITnpnY0ZWbWpRTkpwNVg3YnVJSkVZcjIyNVh6bFNZdjYxUU5WRGFnM3F5MV9wWHJjN0ZMbVRQWThTQnAyeU1KcjI0aXhiV0VoOHZtYXlsRXZVaVl5cWc0UHg4c1hVV3RJX1ZRcVM1dzhPNVladExMeWVVUEtQNEVLcDhFSTdsYnRpYUs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T16:43:17",
+      "description": "Climate Change Has Already Shrunk US Salaries By 12% ZME Science",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 미국인의 급여가 이미 12% 감소했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "미국 임금",
+        "급여 감소",
+        "경제적 영향",
+        "12%"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "29",
+      "title": "AD1114: 에스와티니 국민들, 기후 변화로 삶이 악화되고 있다고 말하며 부유국들의 행동 촉구 - 아프로바로미터",
+      "original_title": "AD1114: Emaswati say climate change is making life worse, call on rich countries to act - Afrobarometer",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdFczeDBKcmZwZXBQTmdzLWVwdFhCT3lRRTIyaURINlJPclZ4LVhnZGNQc2JlMUNpWWtVeUJ0MjdqU21tbmh4d3BKZWVCTzlLZXEzSDEyQllzYWRSZTA3cl9BR19UYU5hX0w0RzktY1FjZUkwVGFnNU5IOURhOU5MbjZzRmwyOFJMZl93TV9pT0g0emJoUUVYYWN6V0laamtpcEpfSGNFdHZVQ3FneGRxTFo3Uy1KUHRFbi1HaVBwS1g1c0syTFZr?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T12:39:22",
+      "description": "AD1114: Emaswati say climate change is making life worse, call on rich countries to act Afrobarometer",
+      "summary": {
+        "phenomenon": "에스와티니 국민들이 기후 변화로 인해 삶이 악화되고 있다고 말한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "에스와티니 국민들은 부유국들이 기후 변화에 대해 행동할 것을 촉구하고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "에스와티니",
+        "기후 변화",
+        "삶의 악화",
+        "부유국 책임",
+        "행동 촉구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "브라질의 생물다양성 서약: 자연과 기후 변화를 위한 6가지 핵심 시사점 - 카본 브리프",
+      "original_title": "Brazil’s biodiversity pledge: Six key takeaways for nature and climate change - Carbon Brief",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYnZHMGxBNHRlMWxyQWlGSVgySk5IbHBFWkVHZzlfSTNqRFlNdExUZHVoUVR0TVV2Wl9HaWZTcEhnMFZUeTA4elhBcDF1WU1nZl9oWHczblFYNDdUMFNOSW8tekNucThBSDU3aHktb3NMNHQwajEtVnNrWVFvdTdNU2pkSjQzTTh0dTd3WmxHQlZ0NWxSd05RRXdQMXFHbVBMLVJ0dmo4UQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:45:00",
+      "description": "Brazil’s biodiversity pledge: Six key takeaways for nature and climate change Carbon Brief",
+      "summary": {
+        "phenomenon": "브라질이 자연과 기후 변화를 위한 생물다양성 서약을 발표했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "브라질",
+        "생물다양성",
+        "서약",
+        "자연",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "'Spotlight' Director Tom McCarthy to Adapt Climate Change Book 'Losing Earth' for Sony Pictures Classics - TheWrap",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZnJzZnlkVVkyQ1BNSExpcExGUVZjekxWUXBoN0FQc3VfakJvYkg5ZW1md0xDNUJ4cUhDY04yeFA5ci1Vel85aG9PT3VwZER2ejJZMnhnWVl5X2VMbElnLUhsWnYxTGR6V21SZkE0V1NXTHN3NmJEaUlaMDFvNVVvR3g4YWdwaThVdTJSWnRTd2NJN2g2NXVjY0tyZ2lySzZwb2tSS0trX1FUT3Z5eHBTdEozb20ydmN2Y21pVXNVMVRBbFBEQndVa1Q3UEVjUENqZmJldFc3RV9jNFdwYXQtOWdwbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T21:00:00",
+      "description": "'Spotlight' Director Tom McCarthy to Adapt Climate Change Book 'Losing Earth' for Sony Pictures Classics TheWrap",
+      "summary": {
+        "phenomenon": "영화 '스포트라이트'의 톰 매카시 감독이 기후 변화 관련 서적 'Losing Earth'를 소니 픽처스 클래식스에서 영화로 각색할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "32",
+      "title": "스포츠 산업, 기후 변화와 비활동으로 1.6조 달러 위협에 직면 - 스포츠프로",
+      "original_title": "Sport industry faces US$1.6tn climate change and inactivity threat - SportsPro",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWUV3RXB0RzljemxVa2ZLOXhKQUYyVkR5aVZkRFV3QnN4VlhIenJ6U2VEeGl6QlFwdV9XR3duMExybVBXcHMwZkhpazNCSFRzN0xvY0h6SmZvYmM2OVBCMXRUMnBZVy1NVWNNT2tydnpCaUJTSjljbG9rQ0RBR01TZU1sREQyNzhkVjdvVzNxN0Q4VU5BSFNlcm9SUXRTRWNyVGpBSFRQaTU3Y0hhZlpKV1E3ZGE1b1NyUW1Ueg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T12:44:30",
+      "description": "Sport industry faces US$1.6tn climate change and inactivity threat SportsPro",
+      "summary": {
+        "phenomenon": "스포츠 산업이 기후 변화와 비활동으로 인해 1.6조 달러 규모의 위협에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "스포츠 산업",
+        "기후 변화",
+        "비활동",
+        "경제적 위협",
+        "1.6조 달러"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "33",
+      "title": "Climate change is fueling a desalination boom - Arizona Daily Star",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY0RES1lVdDdMUi1Wdjc2b05ZTjVCVkkybFdJcXdqVENVOUlLUUMxdlpETEJYLXlUVnM1NFM4cGktckVXX0s5WkpxaUEtc0VJR000RVBLTEdNbGVFMFR1VEVmcWFMc1dSX2hVbEVBMGpIQmpPdHZ1a1ozZDZYSTZDbkxKZ2VVX2hSSHdoX2dyaXl6aVBnSE80d0FkRWtwZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:06:05",
+      "description": "Climate change is fueling a desalination boom Arizona Daily Star",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 담수화(desalination) 사업이 급증하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "34",
+      "title": "기후 변화, 주택 보험의 심각한 공백을 드러내다",
+      "original_title": "Climate Change Exposes a Major Home Insurance Gap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDM1amxyZnIwSjZuTlFISUY5d2tsTEJHTWU2V3NfVkhzd1BEU3dXZC1NNnFzekVDVWlSd05JMEpaZGhzWTFvSko5ZnlHdmZSQ21WdGJJUHZERjRvMmZVaklRSzI2RGdCVDNpNG11a1B2VUlEX0d1YlBWZTh5cTdJRFpRZmZEMXh0WkI4eUc5X3pwcFZjOVA5bXVleDFveTN5MjJzNURR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T13:19:49",
+      "description": "Climate Change Exposes a Major Home Insurance Gap Bloomberg.com",
+      "summary": {
+        "phenomenon": "기후 변화가 주택 보험에 심각한 공백을 드러내고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "주택 보험",
+        "보험 공백",
+        "위험 노출",
+        "재정적 위험"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "35",
+      "title": "코스타리카의 운무림은 기후 변화에 대처할 수 있을까?",
+      "original_title": "Can Costa Rica's cloud forests cope with climate change? - thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWXlwdnVWeml5ZzluV2NHZ1FnbW40QjBINmxpZnVfUmlyVnV5UGxNbkdzSmdiZ3V1cTN1RmFGc244QU5aeUgySC1tYUp2anl3UVl0VTE2bFZITVVMWXVUMVRfMmVfQ3FIcnBuLTQ4cGFjLXExWmdPLW5WMHNjaEl2eDcxTkhfX2M2R3YxLWctV3VOQVg3a2QtdjU5dzJPbnRtVHJfaE5jZ3pOdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T18:07:06",
+      "description": "Can Costa Rica's cloud forests cope with climate change? thenationalnews.com",
+      "summary": {
+        "phenomenon": "코스타리카의 운무림이 기후 변화에 대처할 수 있는지에 대한 의문이 제기되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "코스타리카",
+        "운무림",
+        "기후 변화",
+        "적응",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "36",
+      "title": "기후 변화 심화에 따른 아프리카의 물 문제 심화",
+      "original_title": "Africa’s water challenges grow as climate change escalates - African Business",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd090czJQOF9uRDlKaUtXU19hRE1YZklZQk0wTWs3RWx2ZFVINUdEeDlncnJVQWhvWE43WGVQSWlTdFJjOTVYY3N3TGJ3QVpVTmxsLXdvRXVmSy01RzFlRUk4R2VUZm9telNpd01PSUxjOERSaVZJR1dEZExadEpZM0ZfemdkWU5RUllXa0dVdWlwSkp1QnNwUG0yYVhRbXZPamc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T11:41:11",
+      "description": "Africa’s water challenges grow as climate change escalates African Business",
+      "summary": {
+        "phenomenon": "기후 변화가 심화됨에 따라 아프리카의 물 문제가 더욱 악화되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "아프리카",
+        "물 문제",
+        "기후 변화",
+        "심화",
+        "물 부족"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "37",
+      "title": "ADR과 기후 변화 분쟁의 미래 - Law.com",
+      "original_title": "ADR and the Future of Climate Change Disputes - Law.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRnJWVC03bmdtMGVlQWExcnc4QWhvQnN2X2RhM1hKeXRGbWRGY2FLRWFsWWIyNDBLVDRZeFZIOGxULWYwaloyT19LRndSdTV0WTRNdElkNEIzaDNTTXZCRkx0WnUtR2dEbkUybno5dXVpSzhLVjdMaVk5OGZOWDFiS2d6d252RlJaVGZScU95Q1I4T085aVkyQTJJOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T17:47:00",
+      "description": "ADR and the Future of Climate Change Disputes Law.com",
+      "summary": {
+        "phenomenon": "대체 분쟁 해결(ADR)이 기후 변화 관련 분쟁의 미래와 관련하여 논의되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "ADR",
+        "기후 변화",
+        "분쟁",
+        "미래",
+        "법률"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "예상치 못한 기후 변화 위협: 버섯 중독으로 인한 사망 - 야후",
+      "original_title": "A Climate Change Threat You Wouldn't Expect: Death by Mushroom Poisoning - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUE5NYVVjdW01SEZ3U0lYWTJIeGNpc1pIcVQ4aG1VSDVvVTVBWXM3cUhOeUVjQUQ2Y2I2eTBtbHhuNXFaLUVjdTZjQXRwUGxGa3dGZ3dfaUpudWhVQ00zNFVoOGEyb08tdEVlTEFJbHc0SUxIRU5GWFd3SU9XQzh0b3N5Um1ZajZkTEIwQnNtbVY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T14:40:15",
+      "description": "A Climate Change Threat You Wouldn't Expect: Death by Mushroom Poisoning Yahoo",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 예상치 못한 위협인 버섯 중독으로 인한 사망 사례가 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "버섯 중독",
+        "사망",
+        "예상치 못한",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "39",
+      "title": "타지크 농부들, 기후 변화에 농업 적응",
+      "original_title": "Tajik farmers adapt agriculture to climate change - Hortidaily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekNkZmpDZGY1aHQtVVhBeVduSjV2TXl1T1lNTUtPY3pBVG5aSFhGd3QwN3dtc3N4bEh1NW5xNGowWkVQQWFISkNRNlZPYzlBbDl4R0F4TDFSVFZzWWJEaU1OY210QTRQYVVjNzNtcnVOaEZQOWYxRlRVSTRoZ0hqUkR0M0kyVVA2akpBa3BGaUEwNkg5SXdVVw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T12:34:57",
+      "description": "Tajik farmers adapt agriculture to climate change Hortidaily",
+      "summary": {
+        "phenomenon": "타지키스탄 농부들이 기후 변화에 맞춰 농업 방식을 적응시키고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "타지크",
+        "농부",
+        "농업",
+        "기후 변화",
+        "적응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "40",
+      "title": "이 크루즈 선사, 승객들에게 극지방 빙하 기후 변화 추적법 교육",
+      "original_title": "This cruise line is teaching guests how to track climate change in polar ice caps - Yahoo News New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94dEhJdVg0djBPZTVMOHlzRk5JN2ZTQkZrc3VVdDZiejV5TXhBWkttWVZJd29HN0JKQzh3Y19lUUR0azNUN29ua2RMY0JVLUtaRU01TmQxVHVEODItcXZ2SlRmMHdZWTJPaVVXSkd2dnBRUjluWldqOEdyQ0c3Vzg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:14:08",
+      "description": "This cruise line is teaching guests how to track climate change in polar ice caps Yahoo News New Zealand",
+      "summary": {
+        "phenomenon": "한 크루즈 선사가 승객들에게 극지방 빙하에서 기후 변화를 추적하는 방법을 교육하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "크루즈",
+        "기후 변화",
+        "극지방",
+        "교육",
+        "참여"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "41",
+      "title": "Climate change is fueling a desalination boom - Ravalli Republic",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZW1FQ1dhQ2NLYXJzUFgtSEVHOE41RGxpMWFwSDNLNlRoWWkzbm9iX2JDV3hGdlF5QWVick5QeGRBZ29uWkNNcjlTUTZSOWxqOFpZbHlmSTRxOHV4bXA4THRVOTJqUW9SbjI1ZlJ6b0lOMnlEOC0tdFhlTkJnQnJZNWFpcldwdWpfSGdzZ1F0eU5ieW9vbVE3VWtTeTdFdUN1dTR3UDJ5LVRCZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T14:57:11",
+      "description": "Climate change is fueling a desalination boom Ravalli Republic",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "유럽의 기후 변화와 계절성 - 트래블 투모로우",
+      "original_title": "Climate change and seasonality in Europe - Travel Tomorrow",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhTkxYeTZnYVZRMThjU2ZTdnY3ZG1ZQ1ZZOTVpNFhyakw1MXhpYk5UOWZDZ3BNWjJ4QmVHbkJvSXYzVUJqVDVoRWlxekhLYWljZkhCYUtGWFBCbXZnRWJYUUx1em83OV9QWWJDUUl3Tk9Hb2oxYVRj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T10:24:30",
+      "description": "Climate change and seasonality in Europe Travel Tomorrow",
+      "summary": {
+        "phenomenon": "유럽에서 기후 변화와 계절성 간의 관계가 논의되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "계절성",
+        "유럽",
+        "여행",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "USD 17Bn from Climate Change in Agriculture - Albanian Daily News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGt0STI5Qksxbl9PMThsN2E1WmVrYzdaWjdoQlFkUG1tUXVrbElvVjhjUXc0RlhMYzVaU3JRYVptUVhuRkpHSDZqdkl5Y05pRzJ5NFY3NHVuRjR3VllkRUdHaXdwQ0o2RWI0aWM0bVllQlhyV2Zkb19HaVo2YU9MdGZzWlE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T16:57:19",
+      "description": "USD 17Bn from Climate Change in Agriculture Albanian Daily News",
+      "summary": {
+        "phenomenon": "농업 분야에서 기후 변화와 관련된 170억 달러 규모의 현상이 보고되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "Climate change is fueling a desalination boom - The Independent Record",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDA0aU9tSHpyMXg1S1pmVXFKdkhXd1VjOG43NWlTNVhqR01SN01CSXBvUUtnWVppOEdhVlBabWQwSEdXLVFMaENSdUFSY2pZbGVKMnVCMlZQMGdjb1lROU5CMUdOMDVGSWVHMzVrZ0RLei01NVBDWmxjYjhSNjBLRUdqRklJcHdNSEpqSzJaWGk3Y3J6UmU4d3Z4aVl3RGR4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T14:58:04",
+      "description": "Climate change is fueling a desalination boom The Independent Record",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "기후 변화가 해수 담수화 붐을 부채질하고 있다 - 래피드 시티 저널",
+      "original_title": "Climate change is fueling a desalination boom - Rapid City Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFYxN1VHSFkxOEUxNEw5aXFOb1U0SWJYQkNLekxyUC02OXFMeVNpRWVMTEd2Yk41YXU1U2hycXVMZ2MyR2NvbXZmVTVjYng3NTlKcXlXZzg0T0kxN1NHWERUcG1tam1nSnpsVDQxS2pZVW9hc1dxUU8zMUJXbzA3Zk1OS0xpZngycGhGRmFPc3dmcmpFWU5oQUs4Y2xFbElhMHZPRVpobFpFN28?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:04:17",
+      "description": "Climate change is fueling a desalination boom Rapid City Journal",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "해수 담수화",
+        "물 부족",
+        "급증",
+        "수자원"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "Climate change is fueling a desalination boom - Lincoln Journal Star",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaXdkWGhyWUl5Y2ZxUUs3V3F4bGN5alhXbU1lQ0ZVYXNJd2RHMkFYeEpJbGt4SmtILWtTWmxLRTlKQUIxSTFzZ25kR3M1OUxzTGZJM2lzMm9KZ2xneC1rMmJrU3lRby1ZRlBXLVRON3N0VEFEWWhUNWlYeWNCVzBWbUlqVWgzVkpyZ1B0ZnpJMVRnbVBVb1dMZkJaSFVIaDhoS1JNeQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:17:07",
+      "description": "Climate change is fueling a desalination boom Lincoln Journal Star",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "Climate change is fueling a desalination boom - nwitimes.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2tpaWFTRkRyQVpYdEhfeE9CTXhrdzkwRk45bmNhcGlZUmFtQ3JtSzBuQ2FzYXJ6d0hVaVZ3Znh1eEtvaGg1ZkVZaWR4Y01vZEtTY0pzMEl6dUU5Q3BlZllwd3hLUWgwQWdkVnhwQWQ3aFZidnc3Q0Q5MGVKUVpBdFFhWWlWMGhrR3ZyS3pLWU9OUERqU0h2LWs3UTc1V0Jr?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:01:11",
+      "description": "Climate change is fueling a desalination boom nwitimes.com",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "Climate change is fueling a desalination boom - Elko Daily Free Press",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmx0ODhrYWdReDFnMFhtQzc0WWZlR0hZVzBxZzhIeTVhT0I2X0lEUEtIRjFMNkhDVzFNZXRCTFRSX1gtcHhpdnpuSWhoZVVVOUJjU3RDWWVRc0xwc1M5dTN2R3FTNi1VYUFYbUVyRTJBTGVib1Y3YVlWQXJZdjZhQzBjdmp6Nm1FWEIyd3dhYnp4dDF5VS1jVGllN0dCTFV1aEE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:02:18",
+      "description": "Climate change is fueling a desalination boom Elko Daily Free Press",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "Climate change is fueling a desalination boom - Hickory Daily Record",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUlWaDNkcXN6eUlYdmdoNnRMNkRmcnM1cjlQMzVnMjY0QnhlTkpCaDhQZ2Uybk5mVkRjOWlMTjBGbmxQZXEwR1NkeEpBRC1SMXNWLVlJRXJFR05DcVVpWGU5MVNPLXQ4X0Eya18zaEhCY3pZbmpKbFFHREc5U2M5NzROdVFkRkJuZXpocXBUYnhSREFRaDdaNmZiVURsd0t0bXpyUzVvdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:06:58",
+      "description": "Climate change is fueling a desalination boom Hickory Daily Record",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "Climate change is fueling a desalination boom - The Daily Progress",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXNvV2VjcklwV2Z4QXBKYWlyRnB4YU1jNDZsRWFaNHc5V0xSS09LNW9wRkh3N0Z4ZmV4WDczMWlvbEZCZlRxalJETHFvUnd6dU9qaldEWjF0dEZvUjZITDlwYnJoQXRpY3YzRW1HNVpZaUdBcmUzekdSSHF0WTcwX21NazE5VUFQY0dLUEZZUEFwdEFSby1sNWNhbVA5bU45QU5NZndrUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T17:42:21",
+      "description": "Climate change is fueling a desalination boom The Daily Progress",
+      "summary": {
+        "phenomenon": "해수 담수화 붐이 일어나고 있습니다.",
+        "cause": "기후 변화가 해수 담수화 붐을 부채질하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "기후 변화가 담수화 붐을 부채질하고 있다 - 미줄리안",
+      "original_title": "Climate change is fueling a desalination boom - The Missoulian",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmhaX2d1LThlY05TQnFMZF9sRTljOENZMlhzTzJZOVoyenJYdWRCWmx5OHluSG52blV6Ui1OUUhfcTdLdklSeHVWQXNJblU3eHdxQVJ1N3l2a25ucGpIMHJaS18yZzFaVzJmSWpBanQydm9QUUxGNkgtdURudU5UMEtrWXNwVHByd3FwbDlDT2FFSkdIOWhXU0x0VUlqR1c3Z1ZZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T14:56:07",
+      "description": "Climate change is fueling a desalination boom The Missoulian",
+      "summary": {
+        "phenomenon": "담수화 붐이 일어나고 있습니다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기후 변화가 담수화 붐을 부채질하고 있습니다. (과학적 원인/배경은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "담수화",
+        "붐",
+        "물 부족",
+        "해수"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "기후 변화, 해수 담수화 붐 촉진",
+      "original_title": "Climate change is fueling a desalination boom - Buffalo News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTGFRdV81d01UMFlXM2JSZTJPTUN0RUxrS2p1Wmt5d2NYcUw3MDdlYkFqVGgxWEhWeHg0ZnFsVjV1THgzdXY1cER3WGRPZUU0bEVjWk1fdE9oZ2p1Wkl3dnN6dkFJSVJ3N0pLeE9uVGMtSFJFWXNmRGoxb3M0YndIUkxR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T14:48:01",
+      "description": "Climate change is fueling a desalination boom Buffalo News",
+      "summary": {
+        "phenomenon": "담수화 붐이 촉진되고 있습니다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기후 변화가 담수화 붐을 부채질하고 있습니다. (과학적 원인/배경은 기사에서 언급되지 않음)",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "해수 담수화",
+        "물 부족",
+        "급증",
+        "환경 문제"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "스코틀랜드 기후변화 계획 초안의 전기차 측면 - SPICe 스포트라이트",
+      "original_title": "Electric vehicle aspects of Scotland's draft Climate Change Plan. - SPICe Spotlight",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY2tfWW1IWkpMaEdmU1B2M2RaMGZ4U2hrdHFHODNDU1hEWjlYZUVuM1VHMzVNZm1RN3VCbk5QV3VRSHM0bDhyWHVIQTNBRTJicnQ2YWxmVWlScUJoRFhZNTlxZkVKckxlMDlNeHNsQU5DZWI5bi1Ub0ZfVDQ3TmJHRmw2Z1Jjbnc1TnZ0bzN0c05qM2R5ZFEzeTdJaE1Vdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:11:17",
+      "description": "Electric vehicle aspects of Scotland's draft Climate Change Plan. SPICe Spotlight",
+      "summary": {
+        "phenomenon": "스코틀랜드의 기후변화 계획 초안에 전기차 관련 내용이 포함되어 있습니다. (구체적 수치, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "전기차",
+        "스코틀랜드",
+        "기후변화",
+        "계획",
+        "초안"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "이 크루즈선, 승객들에게 극지방 빙하 기후 변화 추적법 가르쳐",
+      "original_title": "This cruise line is teaching guests how to track climate change in polar ice caps - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlV1d2RKQ2VYaHVzbTRVNzBOdkNuWW85T1BkaldnaVE2VUFqR09xT3FNX1IteDU4RnNNMHpaZGxpODRtVWhTWWdSWU5xVS1EY1BJZTZGVlNsR1k2Mm5DcDUxV3FHeU0xb2JjNTVVQXV1c2FkSlFRSE9nTTlNT0FMSnFQZ2VoNmloeEE5cGRnM3Vmb3Q4N0xKeC1FUHlwVHpiVllZZXNfMHZKTWpY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-16T15:14:00",
+      "description": "This cruise line is teaching guests how to track climate change in polar ice caps The Independent",
+      "summary": {
+        "phenomenon": "한 크루즈선이 승객들에게 극지방 빙하의 기후 변화를 추적하는 방법을 가르치고 있습니다. (구체적 수치, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "크루즈선",
+        "기후 변화",
+        "극지방 빙하",
+        "교육",
+        "추적"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "탄소 중립 채굴 시장 조사 보고서 2025-2033 (글로벌뉴스 와이어)",
+      "original_title": "Carbon Neutral Mining Market Research Report 2025-2033 by - GlobeNewswire",
+      "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNWHMyS3Z1Vjlkc0p4UnYxa1RwRzFDWEpha2FiLTFCUXAtblhTM3BjUHQwemhtUEFwYVdIaG9XV0RTU1BZLVpGUWVCOHA4TVV4UTBKOXplMlg0WWJOdWs1aFJtX2NuMUZSOVZ3bmVRdGk4X3ltZ21zQk1NdE5POF9KQVB3NERORFdKZkJEeHM4SGE5VlNpT2l1UWd1Vk1vTHl0aEp3VTBMR3VWNW4tTTZHSGtJUUtrZVU4U2ZrMHpqT0NrYnJyVWdpdDRrZVFiejd5b25rYWlKSHJVOE41NjEzRFFjRlozSUJ0cGdjcHZmTm1PMFgzSVZpdnF2cERTVm4tc01nNFVOSXJUUk85X3hVeXhMWDJ1RmdUTWdZVHFxeXRrOEZVZmg4WDVjX0c1SDRTSHdFTG1BODNyVjJxODhYMThaMWRIbjdjS1NqRGpjX0p2VjRWRkpKa2JmV3M?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-01-16T12:24:41",
+      "description": "Carbon Neutral Mining Market Research Report 2025-2033 by GlobeNewswire",
+      "summary": {
+        "phenomenon": "2025년부터 2033년까지의 탄소 중립 채굴 시장에 대한 조사 보고서가 발행되었습니다. (구체적 사건이나 변화는 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "탄소 중립",
+        "채굴",
+        "시장",
+        "보고서",
+        "연구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "‘We’re in danger of extinction’: can Bolivia’s ‘water people’ survive a rising tide of salt and migration?",
+      "original_title": null,
+      "url": "https://www.theguardian.com/global-development/2026/jan/16/bolivia-uru-chipaya-climate-crisis-water-oldest-civilisation-salinity",
+      "source": "guardian_climate",
+      "published_at": "2026-01-16T13:00:57",
+      "description": "The Uru Chipaya, one of South America’s most ancient civilisations, are battling drought, salinity and an exodus of their people as the climate crisis wreaks havoc on their landIn the small town of Chipaya, everything is dry. Only a few people walk along the sandy streets, and many houses look abandoned – some secured with a padlock. The wind is so strong that it forces you to close your eyes.Chipaya lies on Bolivia’s Altiplano, 35 miles from the Chilean border. The vast plateau, nearly 4,000 me",
+      "summary": {
+        "phenomenon": "볼리비아 알티플라노(칠레 국경에서 35마일, 거의 4,000m 고도)의 치파야 마을에 사는 우루 치파야족은 심각한 가뭄, 염분 증가, 그리고 인구 유출을 겪고 있습니다. 마을은 건조하며 많은 집들이 버려진 상태입니다.",
+        "cause": "기후 위기가 그들의 땅에 큰 피해를 입히고 있으며, 이는 가뭄과 염분 증가로 이어지고 있습니다.",
+        "outlook": "우루 치파야족은 소금과 이주의 증가하는 흐름 속에서 생존에 어려움을 겪으며 멸종 위기에 처해 있습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "DeBriefed 16 January 2026: Three years of record heat; China and India coal milestone; Beijing’s 2026 climate outlook",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/debriefed-16-january-2026-three-years-of-record-heat-china-and-india-coal-milestone-beijings-2026-climate-outlook/",
+      "source": "carbonbrief",
+      "published_at": "2026-01-16T13:57:18",
+      "description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 16 January 2026: Three years of record heat; China and India coal milestone; Beijing’s 2026 climate outlook appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "2026년 1월 16일 기준으로 3년 연속 기록적인 고온 현상이 발생했습니다. 또한 중국과 인도가 석탄 관련 이정표를 달성했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "베이징의 2026년 기후 전망이 주요 동향 중 하나입니다. (구체적인 전망 내용은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "브라질의 생물다양성 서약: 자연과 기후변화를 위한 6가지 핵심 시사점",
+      "original_title": "Brazil’s biodiversity pledge: Six key takeaways for nature and climate change",
+      "url": "https://www.carbonbrief.org/brazils-biodiversity-pledge-six-key-takeaways-for-nature-and-climate-change/",
+      "source": "carbonbrief",
+      "published_at": "2026-01-16T13:36:59",
+      "description": "The world’s most biodiverse nation, Brazil, has belatedly published its UN plan for halting and... The post Brazil’s biodiversity pledge: Six key takeaways for nature and climate change appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "세계에서 가장 생물다양성이 풍부한 국가인 브라질이 생물다양성 손실을 막기 위한 유엔 계획을 뒤늦게 발표했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "브라질의 서약은 자연과 기후 변화에 대한 6가지 핵심 시사점을 제공할 것으로 예상됩니다. (구체적인 시사점 내용은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "브라질",
+        "생물다양성",
+        "기후변화",
+        "유엔",
+        "서약"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "59",
+      "title": "전문가들: 2026년 중국의 에너지 및 기후 행동에서 무엇을 기대할 것인가",
+      "original_title": "Experts: What to expect from China on energy and climate action in 2026",
+      "url": "https://www.carbonbrief.org/experts-what-to-expect-from-china-on-energy-and-climate-action-in-2026/",
+      "source": "carbonbrief",
+      "published_at": "2026-01-16T13:12:19",
+      "description": "The year ahead in 2026 is an important period for China’s climate policy, amid hints... The post Experts: What to expect from China on energy and climate action in 2026 appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "2026년은 중국의 기후 정책과 에너지 행동에 있어 중요한 시기로 지목되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "전문가들은 2026년 중국의 에너지 및 기후 행동에서 무엇을 기대할지에 대해 논의하고 있으며, 향후 정책 방향에 대한 암시가 있습니다. (구체적인 기대 내용은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "중국",
+        "에너지",
+        "기후 행동",
+        "2026년",
+        "기후 정책"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 59,
+    "domestic_count": 22,
+    "international_count": 37,
+    "top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "재생에너지",
+      "기후변화",
+      "물 부족"
+    ],
+    "sentiment_breakdown": {
+      "positive": 25,
+      "negative": 12,
+      "neutral": 8
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
