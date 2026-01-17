@@ -1,16 +1,16 @@
 {
   "date": "2026-01-17",
   "metadata": {
-    "collected_at": "2026-01-16T23:13:36.101558",
-    "total_articles": 59,
+    "collected_at": "2026-01-17T08:08:17.824680",
+    "total_articles": 80,
     "sources": {
-      "korean": 22,
-      "international": 37
+      "korean": 34,
+      "international": 46
     },
     "sentiment_distribution": {
-      "positive": 25,
-      "negative": 12,
-      "neutral": 8
+      "positive": 35,
+      "negative": 17,
+      "neutral": 9
     }
   },
   "articles": [
@@ -1454,6 +1454,512 @@
           "기후 행동",
           "2026년",
           "기후 정책"
+        ]
+      }
+    },
+    {
+      "id": "9f0b44f8f5b25af3",
+      "title": "[인싸M] 지구와 충돌하지 않고 착륙하는 방법. \"넷제로는 재앙적 이데올로기\" | 기후인사이트 16 - MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nNTk3cGVVYnFfdGRQVTNFSGswRWI3bGJnSEstVk01VUMtckZXWnFHcFloQ0M2UEtsQWp0R21OaUlPYmJvd0ZSck5LQ2FWck1yeHhabFAwOEpFVzhQdXlpY1BaR09aMmNBRm5fRElZdXR6WGM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T00:00:09",
+      "collected_at": "2026-01-17T08:05:15.179366",
+      "keywords_matched": [
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "da3ae39f3b31ba61",
+      "title": "부산 기장군, 기후변화 대비 농작물 병해충 선제 관리나서 - 스포츠동아",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yTGFVRXNPN0FLQ0Zfc2sxcm8ycWVBYXRwSklpejVSNUxmdEE4MlhnTUdrLTZWZlFSSnpfTzkzX3J3eDdJZE9XZGVDdFJEd3dTUnVieG1YWll2RmJhbGNIcENVeEJkbWszLTM0aGxsRU5zdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T04:53:45",
+      "collected_at": "2026-01-17T08:05:15.179597",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기장군",
+          "기후변화",
+          "농작물",
+          "병해충",
+          "선제 관리"
+        ]
+      }
+    },
+    {
+      "id": "15e019e65221e816",
+      "title": "호주는 40도를 넘는 폭염 속에서 대형 산불이 확산, 북유럽은 기록적인 한파 - yjb0802.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQ3dZOU9UdWRDdzFoaGFjdkR6dk5NTmlYdFZrWGFxdTRpRzhaUlliUWFQZE9uM2I3WkNNdjJORVFoa3p1OVcwZ1hyYUpoeFp4bnhCeHQtZ0J4SjY4OUR4ZEtYbnU0ek0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T00:56:24",
+      "collected_at": "2026-01-17T08:05:15.180668",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "호주",
+          "폭염",
+          "산불",
+          "북유럽",
+          "한파"
+        ]
+      }
+    },
+    {
+      "id": "5f23d1b74c559d63",
+      "title": "'탄소중립 스마트도시' 광명 G-스마트허브 개소 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdDFmeTVFaHV6VENoVTRZTFRzclAyZzREaHkzWWJlTHFWaFJyTzlXTGUyNl9vaU1DckFzaUIzTVVlUFl2U2h0a2hyUDhxbllOVEx4azgzWEE5bWhNdHhOeG9vMUlzNGcwX0RmX0dka3k4WlJjM0hRVA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-16T23:15:00",
+      "collected_at": "2026-01-17T08:05:15.090873",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "스마트도시",
+          "광명",
+          "G-스마트허브",
+          "개소"
+        ]
+      }
+    },
+    {
+      "id": "5d46294b774bc343",
+      "title": "한전KPS, 올해 예산 'AI·안전·지역 협력·탄소중립' 집중 집행 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVX2xoeXRJTUJjYWhrWEN5YmpNQkRHMWtfZXdhcUZVNzZ2VmFqWEFaZmVvT0w0SFBXWGV3XzJBX0hveVpjZVBONFl5SjVlYTlrR1Z0dEwtdHloOURKZ0VNMm9ualhyc1Rh?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T01:41:46",
+      "collected_at": "2026-01-17T08:05:15.090940",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KPS",
+          "예산",
+          "AI",
+          "안전",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "7cbfcc69c0d39624",
+      "title": "'탄소중립 스마트도시' 광명 G-스마트허브 개소 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ROG8walEtaGlUejluaEVZVFMxMGVyZUJrY2ZVUEFWTFdhT2ItRmdEaTUwZHlHaUt5UTFNWmIzWm9zT3hfS3l1T0Z6eVNYN2xyNkZN?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-16T23:15:00",
+      "collected_at": "2026-01-17T08:05:15.091146",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "스마트도시",
+          "광명",
+          "G-스마트허브",
+          "개소"
+        ]
+      }
+    },
+    {
+      "id": "1a1c30c6149ded24",
+      "title": "충북도 재생에너지 보급 가속화 업무협약 체결 - 내외뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pNVhFc3VUdnA0ZmNMeVhER2lKd2NfWGVndVg4QU5CWjhSd205OU5LckEydGh4SzEtbDlTb1ZmNjhBT0REblBvQS1KTlNzRE45SHJEaXJTbjBzUGJlMWJHSGRZUzZLbjFiYlFyX9IBcEFVX3lxTFBZdzg5blZCQ2k2ZlF2dnQtd0k4LXhKYnNCbGZtdVRIdEVzWWtMWFhVNWlvdks5MDdtZ0FzLVRFZnVFZVdGOURCXzIwSnFIdFg3Y2Zhd0xSdEJfVHJwTmo5eENKZ2MtdmlIaHVqU0NjMFo?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T05:30:42",
+      "collected_at": "2026-01-17T08:05:15.048397",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충북도",
+          "재생에너지",
+          "보급",
+          "가속화",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "e9777911a2a8750f",
+      "title": "재생에너지 파는 도시, 매출 1200억 중소기업 고민 풀었다[넷제로 케이스스터디] - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT3ZHM3VjeGRRVXdnS3VUUzNYMUJxQWd2cHRodmlUeTFwV1JQNXNsUFZvX2xxOVlLZWk1V1NILUtiZ29xSnJvUGRtd1BSbmMxMUY2MzJWeWlTXzRaQngzYzNzV3UxS2xDTS02SA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T00:30:01",
+      "collected_at": "2026-01-17T08:05:15.048433",
+      "keywords_matched": [
+        "재생에너지",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "도시",
+          "중소기업",
+          "넷제로",
+          "고민 해결"
+        ]
+      }
+    },
+    {
+      "id": "55c24843d0ada085",
+      "title": "[시평] 재생에너지 PPA 거래 시장 활성화 원년을 기대하며 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5eFBFcHBxa0dFTWlGdUkwcEk5SVd6QlUtaWJnZGhncWM4anZibGptSmEyUjJINmloRzJwYzlyRFFQS3BUbXhFdDF5cTgxdGpDMXNJZ01YV1hCUm8zWTcweVVtU3cxeGQwcERDODNR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-16T23:32:30",
+      "collected_at": "2026-01-17T08:05:15.048546",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "PPA",
+          "거래 시장",
+          "활성화",
+          "기대"
+        ]
+      }
+    },
+    {
+      "id": "c40e4bbc78fc8b63",
+      "title": "【임팩트온 딥토크】류준우 그리드위즈 사장, \"AI·재생에너지 시대, '전력 유연성'이 돈 되는 세상 온다\" - 임팩트온",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5WF9qM2pHT2FuNkJKVkNBUF8tLURTbUUxcm9WVzVxNk9zTF95dzZlWE9iUlJ2eW5LUmVhVEx4SUZON3Y0RnVjLWFZbVpRQVJHem9NR0NtUUxoR0lkcXBEc0JEdkNaclpn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T00:23:23",
+      "collected_at": "2026-01-17T08:05:15.048580",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "재생에너지",
+          "전력 유연성",
+          "그리드위즈",
+          "수익 창출"
+        ]
+      }
+    },
+    {
+      "id": "ee0d0864ad814439",
+      "title": "재생에너지 파는 도시, 매출 1200억 중소기업 고민 풀었다[넷제로 케이스스터디] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByTkQ4TW4zZ3AtbGZudnYyZnFyZmlIUDlYUXNyaXpjX0x5VTl5OUlrTk1SVEgyLTJHbVlNWDB1MWREb010dTZFZldlTUtJSFh4Ui1N?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T00:30:00",
+      "collected_at": "2026-01-17T08:05:15.048630",
+      "keywords_matched": [
+        "재생에너지",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "도시",
+          "중소기업",
+          "넷제로",
+          "매출"
+        ]
+      }
+    },
+    {
+      "id": "ac70c3c3b95856d9",
+      "title": "중부발전, 오만 이브리3 태양광·BESS 금융종결 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xQld3LU1jbmsyX0plcndzdzNBNV94a0RDZnE4QlJJQThTYTlFSTF2ckNHX2tpMUhHajhQVkc2dy1DSFhWc2J0M3dLRU43X2lYSmJwV1RBMGtfeVFIVi1pZWhfY3BIUGMzNWtxbw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-17T01:09:00",
+      "collected_at": "2026-01-17T08:05:15.048827",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중부발전",
+          "오만",
+          "태양광",
+          "BESS",
+          "금융종결"
+        ]
+      }
+    },
+    {
+      "id": "a5ef494449dca6a8",
+      "title": "Opinion | What in the world will we do about climate change? - The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0V5YTMtN3BWN2JBR3VrMXNWM0hERzJaU2czMTFnb0k1bk5OZTlBRDNfXzgyb1IyY2xHZGgtOXZjbVMwYUtjUlYwOGtVbUh2Xzd0V1BzS1VGZE1qekxJbXV5aDBOS3hKXy1uWFh1a1VrT2IyZkdscDFKUDE3eUN3c3BzSWNBY0k?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-17T07:35:34",
+      "collected_at": "2026-01-17T08:05:16.523249",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1936fe7a009f06b0",
+      "title": "Early spring wildflowers are blooming even earlier thanks to climate change - The Allegheny Front",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1Uxb1ZSZm41ai1jbW1QeV82WFprNnpKcUdKNWtSWUg4Q2YxQW85amYzZEN6RFBRYkVFT0hLTjQ0dm9OTVhhWE1tQzhRMmk1YlVZakQ1UjV0OHFDcmNKaENObnc5QkhlWV9oVjdEbU9SaUNHSFN4ZW9JSnYzaVRvOGpfQW42bmJ6Q1VhUVBQSHZ1Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-16T21:31:07",
+      "collected_at": "2026-01-17T08:05:16.523483",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c02e531cb0eadbd1",
+      "title": "First Alert Weather In-Depth: What NOAA’s latest data tells us about climate change - WHEC.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZHh1ZXFUVTRlM0h2cHBCX0t0MmJJS2l1RHJYX2d3WFdfN2syYWRYM3NHTXMteXc3SDlPYVh2UE00eW5wMGNLN2NHdWZfVHppMzQyN2dBZC12UXA5elhjYjZrWmNiTmNuYVpmaEhMcFlOVy1IZG1DT00xZk5JdFJuV0xqWTNPTTNHTWlRZzdFRkgtbjFETFl5ZkpaYmlMVVdUNU5EWDNsRHlmOUstOFVmMGtB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-16T21:00:40",
+      "collected_at": "2026-01-17T08:05:16.523839",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "첫 번째 경보 날씨 심층 분석: NOAA의 최신 데이터가 말하는 기후 변화"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "NOAA",
+          "기후 변화",
+          "최신 데이터",
+          "날씨",
+          "심층 분석"
+        ]
+      }
+    },
+    {
+      "id": "f2b769e9373eb69f",
+      "title": "A Climate Change Threat You Wouldn’t Expect: Death by Mushroom Poisoning - jezebel.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU2E1a2RoYksxckpkUWN1OTFMVVZDcG5WNmdQZDlGUVRqX3dIaUFacTZjU0R5czVVNWlHTExLZEhlaTRtd0dkaHNWUU10dXdhLVpVUkpmTVRuOGZpelo0SEZHRm9LdTdHa1NqRENsb01Cb2lNRDM2akQ5Q05VLVFGUDhwN1FKdTBYb1lMU0Z5VzhDcUxmVGxLWW52SDhqaDhDbXlTa2NrUXBDLV92NEQ0elZGZWdudEph?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-16T19:52:46",
+      "collected_at": "2026-01-17T08:05:16.523986",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "예상치 못한 기후 변화 위협: 버섯 중독으로 인한 사망"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "버섯 중독",
+          "사망",
+          "예상치 못한",
+          "위협"
+        ]
+      }
+    },
+    {
+      "id": "506ed2cf66848ac4",
+      "title": "Experts point to climate change as root cause of Victoria’s January blossoms - The Northern View",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb1BlRkZuRFFJTTBEZzEwLV9rclRtR21LZEk4UzRjdkxEWGplU1lhUG5idHI3ZEpVeVVBLVJOcGZoaUtRNFd4NE45VG5sV2s1SWNYNHZjV3R5R1BQZTdsUjk5Nm4xYW1memc1TmlZRlRkWkZVdm1PdXYzbjB0VWVsZXlnNHNzdUZvaGNnbnFfeFd5dHp4RDlDQ0htSkxwb19wZjVRRk5DWFlFOVZ3bFd3S1RfMnlsdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-16T23:33:25",
+      "collected_at": "2026-01-17T08:05:16.524285",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "전문가들, 빅토리아 1월 개화의 근본 원인으로 기후 변화 지목"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "빅토리아",
+          "1월 개화",
+          "전문가",
+          "근본 원인"
+        ]
+      }
+    },
+    {
+      "id": "6f8b456f6c9465a4",
+      "title": "How ISRO is helping India adapt, respond and fight climate change - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUZQN0o1WF9BOWlRSnFWUUJRNEFuejM1dU5wdVlOd1Nwd0l4TmVPWDlBRnNyLXF6VTVzNHlZa0FPTGgtODQyNE9UcjR0c3FHV3doS2g2WHVSWXFSVG9BMHBTWjJ5OTJzMXpGWUV1YzdTTlBHMklial9CNTRmYXRRTVpyN3RwVnBfTUE5WTVudHQwd0tPckhzcDUtSmMybmF4RmtSdlNSdGU4UFVGclBKRFhXbw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-17T06:02:30",
+      "collected_at": "2026-01-17T08:05:16.524402",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ed338156fbd21e82",
+      "title": "Climate change is repricing agriculture; Investors haven’t caught up - ET Edge Insights - ET Edge Insights",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbG1zRHVyY3h5UUJGdkxGTE1aYlRIVFkzMWdTSEJXcWt1R3ZWTEl6bzJhaTFXMWFZakpFbWhobnBxMl9wbGo5aWJsMng0ZjdERXFJbFF0b1RqUXIxRDRqcHQ5RXhFRDZoQmZXUjJYNzFjcXdON0UwSGh4QnVWRmdYd25zYlRNZDlnOU1qREdkTlJHbFpOTkpBR0hwMW9NbVRwZ0VvZGVHOVNVdGRYN1NRQVgyX1haUHfSAbwBQVVfeXFMUGZiYWZObkxTN0tJOE1mem1IQlhpcWJka0l4U3RHUTIxLWxadFpDQUJpUEhDRXRkWm5LV0U4alFQX1FfU0hrRXE4VVVCWVdiS2hwUi1IVlpJcllBNmpWMHdUaVJ5dXNmM1RZOFFtYXMzZmtWMmlqV0dDUEVwYkRCSXVObDdPOW5MS1ZoVTFIb2IyMkNoa2N6M3JudVdZRDRhUHFDUWVySkVJRlMtNHIwOGNRTzkxcEk0dTFHQ1g?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-17T03:35:40",
+      "collected_at": "2026-01-17T08:05:16.524436",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2c17c5bcbb8dfb4c",
+      "title": "Climate change: our fight - Dawn",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zVWZ4RDdiOVdfdUg3RjFjam11a2FxMklBR0xwSmlRWVZBU3YwSGt4bGhnWUw4bUJwcjRuTTY1WjAzbWFtSXI3Tnd4d3dzLTh2TnVETnV2Y284ZHFrLTRmc1lZQVhDcWZuZUHSAU5BVV95cUxNWUdadmRsT19qZ1BFaXFTWkxRQ3VzVVQ4VG9hQXdWbmN2R3ZRTXEwLWhlSXVtbUE3ZWM0REswSlAtR3FTbzBUTHF1dEFjNnc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-17T02:59:04",
+      "collected_at": "2026-01-17T08:05:16.524837",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: 우리의 싸움"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "싸움",
+          "우리",
+          "대응",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "9091601c50832469",
+      "title": "Guterres warns of ‘powerful forces’ undermining ‘global cooperation’",
+      "link": "https://www.theguardian.com/world/2026/jan/17/antonio-guterres-warns-forces-undermining-global-cooperation-un-80th-anniversary-secretary-general-multilateralism-international-law",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-01-17T07:00:19",
+      "collected_at": "2026-01-17T08:05:16.081933",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "구테흐스, '국제 협력을 저해하는 강력한 세력' 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔",
+          "구테흐스",
+          "국제 협력",
+          "다자주의",
+          "경고"
         ]
       }
     }
