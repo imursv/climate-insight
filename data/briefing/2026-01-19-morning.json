@@ -1,0 +1,1431 @@
+{
+  "date": "2026-01-18",
+  "generated_at": "2026-01-18T23:12:52.000165",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 1월 18일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "⚠️🇰🇷 국내 기후변화의 직접적 영향과 대응 필요성",
+        "content": "국내 재난 현장에서 기후변화의 직접적인 영향이 뚜렷하게 관찰되고 있습니다. 지난해 화재 출동 건수가 증가하고 벌집 제거 및 구조 출동 건수가 감소하는 현상이 나타났으며, 이송 환자의 고령화 현상도 확인되어 재난 대응 체계의 변화가 시급함을 시사합니다 [2, 5, 8]. 해양수산부는 기후위기로 인한 수산 질병의 진화에 대응하여 수산질병 관리대책을 발표했습니다 [4, 7]. 또한, 원주시는 도시기후변화 재해취약성 분석 최종보고서를 완성하고 충청북도는 기후위기 대비 업무협약을 체결하는 등, 각 지자체는 기후변화의 위협에 대한 분석과 선제적 대응을 모색하고 있습니다 [6, 27]. 이러한 변화는 기후변화가 우리 사회 전반에 미치는 영향을 명확히 보여주며, 다각적인 대비와 적응 노력의 중요성을 강조합니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱🇰🇷 국내 탄소중립 및 녹색 전환 노력",
+        "content": "국내에서는 기후변화에 대응하고 탄소중립을 실현하기 위한 다양한 노력이 활발히 전개되고 있습니다. 강릉시는 공원 및 녹지 힐링공간을 조성하며 기후변화 대응에 박차를 가하고 있으며 [1], 동대문구는 '일상 속 탄소중립' 활동으로 사회적가치 대상을 수상하며 탄소중립 노력을 캠페인에서 일상으로 전환하고 있습니다 [10, 11, 13]. 서울에너지드림센터는 '탄소중립체험관'을 시범 운영할 예정이며 [12], 충남도는 2045 탄소중립 목표 달성을 위해 민간 녹색건축물 확산을 추진하고 있습니다 [14, 18, 19, 20]. 해남군은 자원순환복합센터를 탄소중립 거점으로 부상시키고, 대전 서구와 세종시 역시 탄소중립 실천 아파트 경진대회와 일상 속 녹색전환을 추진하는 등 지역사회 전반에서 탄소중립 이행에 힘쓰고 있습니다 [17, 21, 22, 23]. 더불어, 진주시의 수소차 보급 확대 [24]와 한국동서발전의 재생에너지 간헐성 보완을 위한 무탄소 연료 전환 및 양수발전의 중요성 강조 [16], 그리고 K변압기의 재생에너지 분야 기술력 성장 [25] 및 신재생에너지 교육훈련과정 강화 [26]는 에너지 전환을 통한 탄소중립 목표 달성에 긍정적인 신호를 보여줍니다.",
+        "tone": "positive"
+      },
+      {
+        "title": "🔴🌍 국제 기후위기의 광범위한 영향",
+        "content": "국제적으로 기후변화는 스포츠 행사부터 인권 문제, 그리고 해양 생태계에 이르기까지 광범위한 영향을 미치고 있습니다. 특히, 기후변화로 인해 올림픽을 개최할 수 있는 도시 목록이 지속적으로 줄어들고 있으며, 유럽의 잠재적 동계 올림픽 개최지도 감소하고 있음이 여러 차례 보고되었습니다 [31, 33, 38, 39, 41, 42, 44, 45, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58]. 한 연구에 따르면, 해양 피해가 기후변화로 인한 전반적인 비용을 거의 두 배로 증가시키는 것으로 나타나, 생태계 파괴가 경제적 부담으로 직결됨을 경고합니다 [35, 37]. 또한, 기후변화는 인권을 위협하는 방식으로 작용하며, 기후 난민 과학자인 카밀 파마산은 기후변화가 생명에 미치는 실제 영향을 밝히는 등, 인간의 삶과 존엄성에 대한 심각한 위협으로 부상하고 있습니다 [36, 40]. 이러한 보고들은 기후위기가 더 이상 특정 지역의 문제가 아닌, 전 지구적인 재앙임을 명확히 보여줍니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제 정책 및 금융 동향, 그리고 해결 노력",
+        "content": "기후변화에 대한 국제사회의 대응은 긍정적인 노력과 함께 도전적인 양상을 동시에 보이고 있습니다. 일부에서는 월스트리트가 기후변화에 등을 돌리거나 기후변화 사각지대가 재무제표상 부채로 인식되는 현상이 나타나는 등, 금융 시장에서의 기후 리스크 반영에 대한 우려가 제기되고 있습니다 [29, 30]. 또한, 미국이 글로벌 기후변화 네트워크에서 탈퇴했다는 소식은 국제 협력의 중요성을 다시금 상기시킵니다 [32]. 그러나 동시에 긍정적인 움직임도 관찰됩니다. 한 크루즈선은 승객들에게 극지방 빙하의 기후변화 추적법을 교육하며 시민 참여를 독려하고 있으며 [43], 인도우주연구기구(ISRO)는 인도의 기후변화 적응, 대응 및 극복을 지원하는 등 [46], 과학 기술과 교육을 통한 해결 노력이 지속되고 있습니다. 이러한 다층적인 국제 동향은 기후위기 대응에 있어 정책적 의지와 금융적 책임, 그리고 대중의 인식을 높이는 노력이 모두 중요함을 보여줍니다.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후변화가 국내외적으로 미치는 광범위한 영향과 이에 대한 다각적인 대응 노력을 조명했습니다. 기후위기 극복을 위한 우리의 꾸준한 관심과 실천이 중요합니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "강릉시, 기후변화 대응 공원·녹지 힐링공간 조성 박차 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82aW8zaUxZV04zb3FFLUh3b0JEdEJMUFNKTVBVZlpiOXZYbUIzMEwxWWwxdC05aHpXNm1lTW85dzJDMHRUMkhzLTkzMVRwTHlrLTdfUVk0M3pUd1pIdXdlQUJVelJ4X0dKQ3o5Zl9n?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T22:26:17",
+      "description": "강릉시, 기후변화 대응 공원·녹지 힐링공간 조성 박차 gukjenews.com",
+      "summary": {
+        "phenomenon": "강릉시가 기후변화에 대응하기 위해 공원 및 녹지 힐링공간 조성에 박차를 가하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "강릉시",
+        "기후변화 대응",
+        "공원",
+        "녹지",
+        "힐링공간"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "기후변화로 바뀐 재난 현장…\"대응 체계도 바껴야\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90TmhqVXVqTTFzYXZIdFlqTW0wUGhtYXdqYl9RSi1sWW1sV29IQ0xDcGxXaXByUm5wYWtFLVVHOHQwclZVQTFEVzB4WVVYcnhSOVZr?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T20:42:00",
+      "description": "기후변화로 바뀐 재난 현장…\"대응 체계도 바껴야\" 네이트기후변화에…‘화재’ 늘고 ‘구조’ 줄어 경향신문'기후 변화'에 작년 화재 늘고, 구조 줄어…이송 환자는 '고령화' 뉴시스",
+      "summary": {
+        "phenomenon": "지난해 재난 현장에서 화재 출동 건수가 증가하고 구조 출동 건수가 감소하는 변화가 나타났으며, 이송 환자의 고령화 현상도 관찰되었다.",
+        "cause": "기후변화가 재난 현장의 변화를 야기한 원인으로 지목되었다.",
+        "outlook": "기후변화로 인해 변화된 재난 현장에 맞춰 대응 체계도 바뀌어야 할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "재난",
+        "대응 체계",
+        "화재",
+        "구조"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "\"트럼프가 부정하는 지구온난화가 그린란드 가치 높여\" - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tNGlCLW83RTk5b0tkcVRUblBLOUpnSFBOZk9seUYzdnJ2T3hScFJuY29sdXBOdlF2WUJ1cV95Z0RRUXFCYXBIS0lUVmxTYnRYQm85NVp3OGRxSEnSAWBBVV95cUxPZnp3cm5FRDhmYXNXVlhUWFExNlRld1RmR251a1BQem1RdldWWWY5aXpBNDNNMXZBNXlOb1V1a0EzbDFySTBVWGs0Uy1uVS1iek45Yi0wQmlHNDE0dHN4MG0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T15:53:10",
+      "description": "\"트럼프가 부정하는 지구온난화가 그린란드 가치 높여\" 연합뉴스",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "지구온난화가 그린란드의 가치를 높이는 원인으로 제시되었다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "트럼프",
+        "지구온난화",
+        "그린란드",
+        "가치",
+        "부정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "기후변화에도 ‘수산물 안심’…해수부, 수산질병 관리대책 발표 - 아시아투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tZEhxc0NONkdMTHNPUFQ2cXZKS3VpWEtqeU9VSV90VnhTdl9Lck5CT0hlcC02N18wMksxM2tBOW02d0VvdXpCVWNPd2tVQkVOUmVzNHM0cVNZeWJWQ28tTEVLWVBFNDgyMGNLR2Z3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T08:08:27",
+      "description": "기후변화에도 ‘수산물 안심’…해수부, 수산질병 관리대책 발표 아시아투데이",
+      "summary": {
+        "phenomenon": "해양수산부가 기후변화에 대응하여 수산질병 관리대책을 발표했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "해수부의 대책 발표로 기후변화 상황에서도 수산물을 안심하고 소비할 수 있을 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "수산물",
+        "해수부",
+        "수산질병",
+        "관리대책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "기후변화에… 화재 출동↑ 벌집 제거 ↓ - 세계일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BSkZMZW1pNTFqNzVMenhFN3dHbHF2XzEwOXh4UkV1ekhEWGhfeUQxS3o1VWF5bFR6bWk4MnZtaDE4MHRoZ2tiMUVJSWF3ejNCdzJYdDB1X0bSAVRBVV95cUxPNVYxd0tVWnU2ZURhRk1xQWQ1R1dUQmtacWJZZk5EM2tIU3RPLUpnZk9EeEJiNWpNMndzZzgxejdDRTRXVi1yUFNHel83S3BTcHFXTk8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T10:59:21",
+      "description": "기후변화에… 화재 출동↑ 벌집 제거 ↓ 세계일보",
+      "summary": {
+        "phenomenon": "화재 출동 건수가 증가하고 벌집 제거 출동 건수가 감소하는 현상이 나타났다.",
+        "cause": "기후변화가 이러한 출동 유형 변화의 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "화재",
+        "출동",
+        "벌집",
+        "제거"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "원주시, 도시기후변화 재해취약성 분석 최종보고서 완성 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mU2VMWXprWnQ5ZXVEZWItekw1b2hyUEl0aFJ0QzJ2RVFrZDU5YldZWkdpMUdKcHF3STNqZ0FOem41UFBicUt0ZnlxSTRHN3NJXzduTmYtYzV6S1lxMDhWV1lMa21XVXdYamZHb1V0a1VLZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T15:29:45",
+      "description": "원주시, 도시기후변화 재해취약성 분석 최종보고서 완성 웹이코노미",
+      "summary": {
+        "phenomenon": "원주시가 도시기후변화 재해취약성 분석 최종보고서를 완성했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "원주시",
+        "도시기후변화",
+        "재해취약성",
+        "분석",
+        "최종보고서"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "기후위기로 질병도 진화…수산 질병 관리판 바꾼다 - 문화일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KVXVVOXY0Q3JzZVVPZXlKekZnVU50R29CRDFOQktZLTB0WTJad2RLQzRrNHh3WUxHbEhIaHlfRGZUU2FaM0E1azZYNmJ6NnM0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T08:18:38",
+      "description": "기후위기로 질병도 진화…수산 질병 관리판 바꾼다 문화일보",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기후위기로 인해 질병이 진화하고 있으며, 이로 인해 수산 질병 관리 체계의 변화가 필요해졌다.",
+        "outlook": "기후위기로 인한 질병 진화에 대응하기 위해 수산 질병 관리 체계가 바뀔 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "질병",
+        "수산",
+        "관리",
+        "진화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "화재출동↑ 벌집제거↓…\"재난현장도 기후변화 영향\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d0pLQjE1RURDWWFDYzRfaHdfTEhIaWw4WUwzNlZia3o1b3pVMHdKZHZHQVVBNFpNNmp3V18tN0ZabF9NWVRhZEpxTEtLVVlqb1UxMWVfdHd5SzR5bkEyVE9rUEJ1TEhKcDhuMlRhRTZXbVNoQnJObA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T08:34:00",
+      "description": "화재출동↑ 벌집제거↓…\"재난현장도 기후변화 영향\" 네이트",
+      "summary": {
+        "phenomenon": "재난 현장에서 화재 출동 건수가 증가하고 벌집 제거 출동 건수가 감소하는 변화가 나타났다.",
+        "cause": "기후변화가 재난 현장의 이러한 변화에 영향을 미친 것으로 분석되었다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "화재출동",
+        "벌집제거",
+        "재난현장",
+        "기후변화",
+        "영향"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "\"트럼프가 부정하는 지구온난화가 그린란드 가치 높여\" - YTN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PdDFKY2N0VHBBdU5mOGg0eVV1TjVCTE40aE5nc196cUZwYUNPempFR1JMZUgtT2x4aEUwbjVjQ255U1VrRjBRMGlLT1Q4dDVzS182TjQzUTFiUi1YLXfSAYMBQVVfeXFMUDVvZEhITE4zWHZJemZ1bzJuNzkxU2hEZ0xpMmNTQXhZQXF6c3Y3TmUzejZCUzQtR25NOU5TX3dtZ3N3V0lKd1NNbFNRc2lCLTNQT3ZiUUdoVWhXdVNackdBX0E0R2hUSGxhT0g5MjVVdFp5VHdiVnZoRXBoaEphc1dZZGM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-01-18T16:33:00",
+      "description": "\"트럼프가 부정하는 지구온난화가 그린란드 가치 높여\" YTN",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "지구온난화가 그린란드의 가치를 높이는 원인으로 제시되었다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "동대문구, ‘일상 속 탄소중립’으로 사회적가치 대상 수상 - 문화일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1bDRzVXJiTkNpUXBiczZuVzV3UjBqSElxV3UxOW5nVmRPcFFId05kNU85Vko2YnlaNDdkMnFwa2VLMU1BbHBPT0IzMWhhT1U4?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T21:31:24",
+      "description": "동대문구, ‘일상 속 탄소중립’으로 사회적가치 대상 수상 문화일보",
+      "summary": {
+        "phenomenon": "동대문구가 '일상 속 탄소중립' 활동을 통해 사회적가치 대상을 수상했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "동대문구",
+        "탄소중립",
+        "일상",
+        "사회적가치",
+        "대상 수상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "동대문구 ‘사회적가치 대상’ 수상…탄소중립 ‘캠페인’에서 ‘일상’으로 바꾸다 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vcTFPaFl6MDd4d3NJTURsM1FIMF8zZVhFOFQzVlFfSmNzLXl1UnBuRnI0bU5FazNhcUdnZWRjVXJaT3Z4S29kWFFkWV9KTTg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T21:52:37",
+      "description": "동대문구 ‘사회적가치 대상’ 수상…탄소중립 ‘캠페인’에서 ‘일상’으로 바꾸다 v.daum.net",
+      "summary": {
+        "phenomenon": "동대문구가 '사회적가치 대상'을 수상했으며, 탄소중립 노력을 '캠페인'에서 '일상'으로 전환하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "동대문구",
+        "사회적가치 대상",
+        "탄소중립",
+        "캠페인",
+        "일상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "서울에너지드림센터, 내달 ‘탄소중립체험관’ 시범 운영 - 에너지신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NZ1pvVUpFQnIwcHpISEpsNi1zcVhmMXdEZWVRaVZYNFVzM2oyRzdlWjEtUGZQSW92RVA0U0lPellsaGlBREI0YWdNbC16UF95dkVndFVoM0lmTWs3NlNsU2ZESVJVS2NVQVZOa1M0TEJfdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T14:03:56",
+      "description": "서울에너지드림센터, 내달 ‘탄소중립체험관’ 시범 운영 에너지신문",
+      "summary": {
+        "phenomenon": "서울에너지드림센터가 다음 달(내달)부터 '탄소중립체험관'을 시범 운영할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서울에너지드림센터",
+        "탄소중립체험관",
+        "시범 운영",
+        "탄소중립",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "동대문구 ‘사회적가치 대상’ 수상…탄소중립 ‘캠페인’에서 ‘일상’으로 바꾸다 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JU3VRa3FUcHE2RkhNUS1BaUtqN0dUamdTSGtJZFNZcmdvQ1ZRbWt6eGdEMEFKV29mSGlwNEhkZ05qaTAwcW9HZG1PUEFHMXF3bTJvVEp3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T21:51:03",
+      "description": "동대문구 ‘사회적가치 대상’ 수상…탄소중립 ‘캠페인’에서 ‘일상’으로 바꾸다 헤럴드경제",
+      "summary": {
+        "phenomenon": "동대문구가 '사회적가치 대상'을 수상했으며, 탄소중립 노력을 '캠페인'에서 '일상'으로 전환하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "동대문구",
+        "사회적가치 대상",
+        "수상",
+        "탄소중립",
+        "일상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "충남도, '탄소중립' 위한 민간 녹색건축물 확산 나서 - TJB 대전방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE16anE2T1VBYktGalFVNURaR0xGTzhhb0xtby1IdUdiQWZ4MUZvUTZaQjdleGVaSTZLRmhBd2pwa1EtNU5sTHN4WG5JQ1pGNmhkMW5jcDhkT1ZPZkZy?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T10:16:15",
+      "description": "충남도, '탄소중립' 위한 민간 녹색건축물 확산 나서 TJB 대전방송",
+      "summary": {
+        "phenomenon": "충남도, '탄소중립' 위한 민간 녹색건축물 확산 나서 TJB 대전방송",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "녹색건축물",
+        "민간",
+        "확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "강숙영 김대중재단 탄소중립위원장, 북콘서트 개최 - 전남일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pMWQ4MVpJa2pvZktqQWpoUGlVTHNQOTZMc2I0d2xGcUQzU2t3bmtKa195djJiVlFYTFd2ZlZNS2ZqSUJyMl9WeTFOSFJfWGZfVGtMaVotSjdSeVdHS3hORnFDS0s5Uk9Id2lwTkhGSQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T08:20:09",
+      "description": "강숙영 김대중재단 탄소중립위원장, 북콘서트 개최 전남일보",
+      "summary": {
+        "phenomenon": "강숙영 김대중재단 탄소중립위원장, 북콘서트 개최 전남일보",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "강숙영",
+        "김대중재단",
+        "탄소중립위원장",
+        "북콘서트",
+        "개최"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "한국동서발전 \"재생에너지 '간헐성' 보완 위해 무탄소 연료 전환·양수발전 필수\" - 글로벌이코노믹",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSXBLckNfZWlzN3RmdlZEazUyUUR1SEVLVDUzRG9yWklQVUY4Y01RTU9ETDdqaFdYSWZydmhwLVd1RWg3UGZJRVE2Mm11cDZJOTJOc0p4UUQyaVhaWlkxMGRQZFJpV2VSVXR0cml0OXZiTDEyYnFCSzhydWhFci1BaVd2NElnaEJET0l3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T22:35:37",
+      "description": "한국동서발전 \"재생에너지 '간헐성' 보완 위해 무탄소 연료 전환·양수발전 필수\" 글로벌이코노믹",
+      "summary": {
+        "phenomenon": "한국동서발전 \"재생에너지 '간헐성' 보완 위해 무탄소 연료 전환·양수발전 필수\" 글로벌이코노믹",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "한국동서발전",
+        "재생에너지",
+        "간헐성",
+        "무탄소 연료",
+        "양수발전"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "해남군 자원순환복합센터, ‘탄소중립 거점’ 부상 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3R2tSX1ZUVXliWUVxS0NRX2NXbjhGZTFiZm1vYnFzQ25aVlE0ejNiY21ITnI0bWtCMEVFVlFURFBsd2JScmdXTExidTdtZlE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T08:16:00",
+      "description": "해남군 자원순환복합센터, ‘탄소중립 거점’ 부상 v.daum.net",
+      "summary": {
+        "phenomenon": "해남군 자원순환복합센터, ‘탄소중립 거점’ 부상 v.daum.net",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해남군",
+        "자원순환복합센터",
+        "탄소중립",
+        "거점",
+        "부상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "충남도, 민간 녹색건축물 확산 추진…\"2045 탄소중립 목표 달성\" - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15dFF5enBJN2gtdGRqLVZqS0cyY3lkaXgtbzBfMHQzcnpZVzY4RWtpSFJvTmctMy1BdUVieXl0VUtadHktbWdjd19FVHdkbllHbUFRbVJFdzliS2hldktHRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T09:26:40",
+      "description": "충남도, 민간 녹색건축물 확산 추진…\"2045 탄소중립 목표 달성\" 뉴스1",
+      "summary": {
+        "phenomenon": "충남도, 민간 녹색건축물 확산 추진…\"2045 탄소중립 목표 달성\" 뉴스1",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "녹색건축물",
+        "탄소중립",
+        "확산",
+        "2045"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "충남도, ‘탄소중립’ 녹색건축물 확산 나선다 [힘쎈충남 브리핑] - 쿠키뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16eHZCeUxPRlhCRDhPQk9TU0k2SmlzMXZVSzEtLVQtU29NRkQ0VUZ6T09XcTRHRnBrV3hGVmEzRE5RZW50THNMOFpfUGVvMEljaGZld3FYZ0hYMlB2ZlM1b0RiOA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T14:32:32",
+      "description": "충남도, ‘탄소중립’ 녹색건축물 확산 나선다 [힘쎈충남 브리핑] 쿠키뉴스",
+      "summary": {
+        "phenomenon": "충남도, ‘탄소중립’ 녹색건축물 확산 나선다 [힘쎈충남 브리핑] 쿠키뉴스",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "녹색건축물",
+        "확산",
+        "정책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "충남도 2045 탄소중립 목표 민간 녹색건축물 확산 추진 - 뉴스충청인",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBISFVUQ1hOakNtSkpYQ200dHdlN3VjN21jTTdaQkRFMFRzT2UwemZRZVExeU5jWHAydjlMbFB0TTEycjhSSXc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T09:14:00",
+      "description": "충남도 2045 탄소중립 목표 민간 녹색건축물 확산 추진 뉴스충청인",
+      "summary": {
+        "phenomenon": "충남도 2045 탄소중립 목표 민간 녹색건축물 확산 추진 뉴스충청인",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "2045 탄소중립",
+        "녹색건축물",
+        "확산 추진",
+        "목표"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "대전 서구, 탄소중립 실천 아파트 경진대회 참가 단지 모집 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rZzlyNlUyOGNRdGdUUndFWkxLbFpzUVppMDA0S2dRVTJMN3BaRW55dWlVQlE5ZzlHWFFFQ3hVV1pnVGtpQ0xCQW1jOHBab0pVNEE3TE9EWDBhbmNqZ1psakdqWEVQdG16UGY1VmpicG9Rdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T15:28:49",
+      "description": "대전 서구, 탄소중립 실천 아파트 경진대회 참가 단지 모집 웹이코노미",
+      "summary": {
+        "phenomenon": "대전 서구에서 탄소중립 실천을 위한 아파트 경진대회 참가 단지를 모집하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전 서구",
+        "탄소중립",
+        "아파트",
+        "경진대회",
+        "모집"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "대전 서구, 탄소중립 실천 아파트 경진대회 참가 모집 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwWGV4UldvYU1pcFNCQ0wzTy0wMExySHRPWFVpMFRVR09YZWtJek51SER0ZVM3NS1Ec1pHVDRDU1ZWNlRTOFV4MXpmRUxBb1FiQjFOMDVYMmFJZGRleVYxMVVEdHg1enNUVGlPZC1OU3A?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T10:02:00",
+      "description": "대전 서구, 탄소중립 실천 아파트 경진대회 참가 모집 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "대전 서구에서 탄소중립 실천을 위한 아파트 경진대회 참가 단지를 모집하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전 서구",
+        "탄소중립",
+        "아파트",
+        "경진대회",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "세종시, 일상 속 탄소중립 및 녹색전환 추진 - 뉴스티앤티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sbVpnUVY5SjdYam1QblRaVEI3dnhGbUpaSGtybXVuenE5Mk5sOWowc3Q0WThKTk54ZnhRZFJaZVZIMjQtd2RLNHktVFFFeEM3SXk0dGZaZkF0SGlsUUthckItSGxQUF9M?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T17:32:10",
+      "description": "세종시, 일상 속 탄소중립 및 녹색전환 추진 뉴스티앤티",
+      "summary": {
+        "phenomenon": "세종시에서 일상생활 속 탄소중립 및 녹색전환을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "세종시",
+        "탄소중립",
+        "녹색전환",
+        "추진",
+        "일상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "진주시, 수소차 보급 확대…탄소중립 실현 박차 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tOFA1NERkODJXLVZqbXFBQmE1QTA1U2YweXNtZEJoclBkVGo2aGIzMnF4aEJodUhRM094WGpxZjJzbXkyMHJrQ2poYlVTR19FXzBGR1hRQURKTVBNamJuN3hOYjRpbHlZQ2dyMnJoN1NSdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-01-18T09:04:28",
+      "description": "진주시, 수소차 보급 확대…탄소중립 실현 박차 웹이코노미",
+      "summary": {
+        "phenomenon": "진주시에서 수소차 보급을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "진주시는 이를 통해 탄소중립 실현에 박차를 가할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진주시",
+        "수소차",
+        "보급 확대",
+        "탄소중립",
+        "실현 박차"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "관세 장벽 넘은 K변압기…AI·재생에너지 순풍에 기술력 더해 '퀀텀점프' - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aNVBwdm43Y01oc1JUUEROeXQ5TzhpT0FrYVRjTlo0UmZyaXhjVnYtQVgyc2NTVm9kUk9RRHJEUnlHOHc4Uk16Z2hIYVl3UFAzZUow?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-18T19:31:00",
+      "description": "관세 장벽 넘은 K변압기…AI·재생에너지 순풍에 기술력 더해 '퀀텀점프' 네이트",
+      "summary": {
+        "phenomenon": "K변압기가 관세 장벽을 넘어섰으며, AI 및 재생에너지 분야의 성장에 힘입어 기술력이 더해져 큰 발전을 이루고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "K변압기",
+        "AI",
+        "재생에너지",
+        "관세 장벽",
+        "퀀텀점프"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "신재생E 교육훈련과정…RE100·분산E 등 강화 (#신재생에너지협회) - 에너지타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJSS1GYWNfUmZwcXdZWXl2bEZJbU9BdUo2dFlqSGk4OXNhNWhiQkpqNmVibDkxblZXNmdDNzFRWHNYZjJkeWxxbUV6Z2czU1RySmRuNUlKQ0xmNzVIcXc0TDJKTHBmdW5ua2ZOSg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-18T10:06:00",
+      "description": "신재생E 교육훈련과정…RE100·분산E 등 강화 (#신재생에너지협회) 에너지타임즈",
+      "summary": {
+        "phenomenon": "신재생에너지 교육훈련과정에서 RE100 및 분산에너지 등 관련 내용이 강화되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신재생E",
+        "교육훈련과정",
+        "RE100",
+        "분산E",
+        "강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "충북도, 기후위기 대비해 업무협약 - 충청도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oVHFENDBFcElmZ1M5RE1ma1RwRWZNNzBIZG1XZmtaMTQ3bEdZMDZsOWpXQ1IyWThpa2ZmMGo2R29IR0QxT085SDd5UHNxYl9fci1DYUN4TFo4NFZqZmtaVmRJdG5yR1pySndCTA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-01-18T08:13:58",
+      "description": "충북도, 기후위기 대비해 업무협약 충청도민일보",
+      "summary": {
+        "phenomenon": "충청북도에서 기후위기에 대비하기 위한 업무협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충북도",
+        "기후위기",
+        "업무협약",
+        "대비",
+        "협력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "허재, 전태풍에 ‘농구 명가 육아법’ 전수",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202601182118005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-01-18T12:18:00",
+      "description": "SBS ‘동상이몽 시즌 2’19일 SBS 에서는 전태풍과 ‘한국 농구계 레전드’ 허재의 사제 케미스트리가 공개된다. 과거 한 팀에서 우승의 기쁨을 나눈 허재가 전태풍·지미나 부부의 집을 찾는다. 미국에서 귀화한 전태풍은 그를 ‘한국 아버지’라고 부른다. 17년을 알고 지낸 사이답게, 허재는 전태풍의 ‘날라리 남편···",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "월스트리트가 기후 변화에 등을 돌린 방법",
+      "original_title": "How Wall Street Turned Its Back on Climate Change - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDVvaXZzcWZVa2ZEOXcxM1JMVmFfSkwtN3hFR3VGY1ppc2ZJaC1VSlJVSHo3TnpsSW9VeHlCZzY4RDA5N2g4V3pTdjQtZHdqZE1ZdHhDbkV1Y1pfZHVqN0ctejQzLTdMTEZUazJrLWl2VDZpRkp3TEpVWllSZFdTMkpCMTlTQzdEcHlscTlNYllBN2Y3OE9Va3JYX2x1UQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T22:07:17",
+      "description": "How Wall Street Turned Its Back on Climate Change The New York Times",
+      "summary": {
+        "phenomenon": "월스트리트가 기후 변화에 등을 돌리는 현상이 발생했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "월스트리트",
+        "기후변화",
+        "외면",
+        "금융권",
+        "투자철회"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "왜 기후 변화 사각지대가 재무제표상 부채가 되고 있는가",
+      "original_title": "Why Climate Change Blind Spots Are Becoming Balance Sheet Liabilities - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakI2SmE0NmZpcU9Cd3hZdjVpQk9qcmh4N0xvYlBTQmVWWXRLLThBMGVOejM4NDZVSVpZa0x3X01reXBGd1ZGTWlmQWdSbzhlaHUzaG9QNjU4cjM2Zy1mQUVLOVlab0RIWnlZWnB6TWxWRFR2WVRCMWNEcGM0UWVBUE5MRU1WN2l4eDA4OGtjb1g5MktYQzR5cktTNnBkdWZINVRzSzFPa0ZlRG5mLWt2STRtU3BFNTBXNnVEWlRBSWY4Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T17:34:33",
+      "description": "Why Climate Change Blind Spots Are Becoming Balance Sheet Liabilities Forbes",
+      "summary": {
+        "phenomenon": "기후 변화 사각지대가 재무제표상 부채로 인식되는 현상이 나타나고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "사각지대",
+        "재무제표",
+        "부채",
+        "기업 리스크"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVnp2RVNCcTN4VHI2cUV1azAxbVpFRHVZc3RVSnctaFlNWFVJclJSQnBzT0l6OFk0ajRLZHlkRlVLTXY1eWczcjRJRF9hV3hnNm1zSHk5dXE4cXMyMW54N3hrNVloUXpVbkU0R0V2SzAtb1JvS1p3azFBQTBvN3l2dGtSWUtrSGtvcWRIcXo2WDlkVGlTOHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Wisconsin State Journal",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 올림픽 개최 가능 도시 목록이 줄어들고 있다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상된다. 구체적인 영향은 기사에 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "32",
+      "title": "미국, 글로벌 기후 변화 네트워크 탈퇴 - 플래닛티즌",
+      "original_title": "The United States Exits Global Climate Change Network - Planetizen",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDgtbTlTZndSbzliVWtfT29Hd0NiVjRtR21IYlVkN3NIdy1PSUNNY1BPX3VIZDA1Q0xoUy12dEV0Q09Md0VSOWJOaVZmazlwUnhaM1ZjRGtndlN1MlY2UWQ4b3kxTmR3eVpVdVE4Q0xYd0RqbG9iM0lhM1V4Q0hVcFBjUDQ1eE9CRTRjaHV5dzYzS2RmWWNzQzd2NTnSAaIBQVVfeXFMUEw1ZVpybzFYZlJraEVkdk1oQllOYk5Ea0VQZXM0UHdFMlIyekdqWkNmQTFFa0dSZmp6ZzA0QlZSUnhMZ3E0eG1ObXJYZFRVdW9WckJSZm9XVlBiUmpDeWgwMWExVjFqd1liOXFMRDBxb21hai1qQ3M3SUtTaWtBLTNMU21HbGs4RFJ5N21ieC13V0kyT3M5SXlZNlAwenA2MEZB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T17:00:00",
+      "description": "The United States Exits Global Climate Change Network Planetizen",
+      "summary": {
+        "phenomenon": "미국이 글로벌 기후 변화 네트워크에서 탈퇴했다. 구체적인 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미국",
+        "탈퇴",
+        "기후 변화",
+        "글로벌 네트워크",
+        "플래닛티즌"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "33",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 개최 가능 도시 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Channel 3000",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOTHZ2MlVjYWR6WEN2MV9OQ2dxVXhJWU9VQ212Mm9Oa1pEeHlUQnZfcEQyQzJvemV4ckRXTWFiS3p4eXowQnhaYzg3bUItYWhWcVkzdjNXVWxNVkNRUjhUVXJPNGMwazBlZ0ZrWGxnampJRVdpdW9MQjlIVExIeElVdW5sRnlhMElCQWdPM3BUdDRvbEVVaFNtYXo5ajNNOUkyMmZ0R1V5Z3hkeks5NVdRbExRcFYyTmZnb2dodGQySFZVaFljeGRPS3lfN3lkSTZMOF9hMjFPWVE4RHVXOXpDYVV3LTVqdDNMek4ycmhyNjVPcUpWSF9lVi1QMDBsQVJiQ05JUks2TUFic1ZrLTVtZS0xaFBaTUEzS2c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Channel 3000",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 올림픽 개최 가능 도시 목록이 줄어들고 있다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상된다. 구체적인 영향은 기사에 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "34",
+      "title": "기후 변화 경고주의에 의문을 제기하는 여배우들 - MSN",
+      "original_title": "Actresses who question climate change alarmism - MSN",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjNLdUdoMlN1Mm9MbjZ2V1dDekU0bWtKNHg0a2dsdXUxVDRMTlh2RHNmZkxMbFpWS2RfdC1HQ24yV01UcHRDODhCOXdmS0Q1NnpERXNoWXd5MzNkSDA4WDhNMHhjWTRHVUhJU2xTMUZ6a1AwaklCcmVtejFjUzJYaWF3VkEyLU5BUVJjLWNsY1FmdDNqQ3FCd1UwMA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T17:07:49",
+      "description": "Actresses who question climate change alarmism MSN",
+      "summary": {
+        "phenomenon": "기후 변화 경고주의에 의문을 제기하는 여배우들이 있다. 구체적인 인물, 발언, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "여배우",
+        "기후 변화",
+        "경고주의",
+        "의문 제기",
+        "MSN"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "35",
+      "title": "연구: 해양 피해, 기후 변화 비용 거의 두 배로 증가",
+      "original_title": "Study finds ocean damage nearly doubles climate change costs - Key Biscayne Portal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNNHBrN2NuSk1VbzV2VUwtdXZ1ZFZFSG41R2RUZkRvWFBaRDBNLTV1Ym15M3FwMW1PZlItTGpidk5iak1MQlR4RmJ1OWFwdFlQblFVeEFZR3NVY1FWOW9TTjRSRWxUalp0cnlVMy02NGl5S3gxYVJTRDJCVXVIS0pJVlZ5bXBXWGVLWmxFS3h6OXBTbXQtblZrc3VQVlZNcW9oWUZEN0Z3RGI5UkVhbG1rSUVEUTVLb3VqaFJsRjJmRWxOanVJZHFjV2Znam5hYzNMc2YtbExFeE5sYjJiMDdsak8tajNiTzU1eWlDNjkwYkY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T20:00:00",
+      "description": "Study finds ocean damage nearly doubles climate change costs Key Biscayne Portal",
+      "summary": {
+        "phenomenon": "한 연구에 따르면, 해양 피해가 기후 변화로 인한 비용을 거의 두 배로 증가시키는 것으로 나타났다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "해양 피해",
+        "기후 변화",
+        "비용 증가",
+        "연구 결과",
+        "경제적 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "36",
+      "title": "기후 변화가 인권을 위협하는 방식 - 에코 비즈니스",
+      "original_title": "How climate change is threatening human rights - Eco-Business",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObjZQY3BYNEliUHhOeFdjMjROVFItelhWOTRQcWNLRjBxejM4TzQ0cVgwbFlCR3NzUGpNejNTODdwQlFpS08wRk5obmZDQkt5dkZrTnFOTTVXczgwRUw4VkJuMWhJNDdobk1FRmtRUGNxWUcwZ0FKNlRIRHpOY2E4enYtVmdpUTgzV2U0V1U5YXMxNjNXTkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T22:47:00",
+      "description": "How climate change is threatening human rights Eco-Business",
+      "summary": {
+        "phenomenon": "기후 변화가 인권을 위협하고 있다. 구체적인 사례, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화가 인권을 위협할 것으로 예상된다. 구체적인 영향은 기사에 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인권",
+        "위협",
+        "환경 문제",
+        "사회적 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "37",
+      "title": "연구: 해양 피해, 기후 변화 비용 거의 두 배로 증가시켜",
+      "original_title": "Study finds ocean damage nearly doubles climate change costs - IslanderNews.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX2JkVmh1RW1STEd6ZUhoNWY3UkpJVzR4TE1mLS1tcV9uNXZ3bWx3ZFF1SnEwaFkzRkdLbjBobnZyY3puYkVEMHNYZnFkeGUxRXFad2xZdDJ0NkdqQUFlVkVSRC1qeXhOWk5LOGN1bF9mNVc5dEp3MUFuWWdMNVNHTWpOLWlRYWR4TlBUQVJSU2t0U2xJblI4ZTJWUUVMQ0RsQmFDUnJLTGtHVGZFRUkxem1hLWx5QS1KQjQ4QU5HTVc4ZlFvcG80OXI3VF9kNVpPZ2ZUUHJLckRMem5JQVU1QWt3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T20:00:00",
+      "description": "Study finds ocean damage nearly doubles climate change costs IslanderNews.com",
+      "summary": {
+        "phenomenon": "한 연구에 따르면, 해양 피해가 기후 변화로 인한 비용을 거의 두 배로 증가시키는 것으로 나타났다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "해양 피해",
+        "기후 변화",
+        "경제적 비용",
+        "연구 결과",
+        "비용 증가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Press of Atlantic City",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUUdmS2RSS2dSYjRjYUlvNk5hMXpVUVFPMlgwQXhHVmc0LUZaZ3ppUlF4cVotOHFSenBSOW5QMWROQ1BSYllUeXkzemZiWEtXLXEwTzRVUF9rbHN4S183a0N4VTJNOVpCQnFwN1plVFhNZkkyOTlNODE0cmtKeHloQjZ5Q3dWVFFRS3RfWXZXR1ptLWpZalBlSHhoak5BY01FNkJtVjR3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Press of Atlantic City",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 올림픽 개최 가능 도시 목록이 줄어들고 있다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상된다. 구체적인 영향은 기사에 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "39",
+      "title": "기후 변화는 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Journal Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnF2Vzd0WDdvbW80OHFvZzJhMmhqUlh1VUJZczVOVGh5NzNRVGw3RWlJV3VPOGtzbVNuQmVXU3NzR21DNUNITjFvOGJTM3N0aVN0X1JnalhHUVhMNXd5WTdlczA2R05nWUJfN0Voc2FST3EwaFZFVzJrZW50R3JHdUt4Q0ZXNVp1ZDFQc0gya1JJZVBBdldDWDcyMU4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Journal Times",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 올림픽 개최 가능 도시 목록이 줄어들고 있다. 구체적인 수치, 지역, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상된다. 구체적인 영향은 기사에 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "40",
+      "title": "카밀 파마산: 기후 난민 과학자가 기후 변화가 생명에 미치는 실제 영향을 밝히다",
+      "original_title": "Camille Parmesan: climate refugee scientist reveals what climate change really does to life - Futura, Le média qui explore le monde",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNenltTzR3SnJ6dEY5UVRTdnRYRW5IM2xGNzVFTEhLWU5OcHRaQ3YtdGZCWUNVb29QRnc2dTRvOGlPZ2ZiVnVjUUJERW9jZXkxRV83aW1TcWNzTmJaVExIM1dZdVBjejh5YnlOLThUaVNzek1CdjZlMFE4SkRXeXFCWlNPUldSTEFuc1RmR19qQm1FdnhJUlpxazRIeGF3azFVUUh2aS1lMTdJeFdHb05YMXhuQ1E0TVNyemFBckpIUHRNWTUya1JENUZqT0Q?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T14:00:00",
+      "description": "Camille Parmesan: climate refugee scientist reveals what climate change really does to life Futura, Le média qui explore le monde",
+      "summary": {
+        "phenomenon": "기후 난민 과학자 카밀 파마산이 기후 변화가 생명에 미치는 실제 영향을 밝히고 있다. 구체적인 영향, 시점은 기사에 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "카밀 파마산",
+        "기후 난민",
+        "과학자",
+        "기후 변화",
+        "생명"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "41",
+      "title": "기후 변화는 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Elko Daily Free Press",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlNRMlAzV0N2NGptR3FVUG1xSm1lOWZSalFnSEdmalB0T1dPRmZTQ0djdXRSek9HTllGaVMtWGR3Rl9JbVZJanZZeHJCWVR0NjFycjJ4eEQ3N0Z1SlRJUG1CZ2hSdEV6b1VKX2VlV2N2ZEpaSTFCQi15Wm1MQmVXTHZNWjg0LUdPZ3c3RU1UQ0tzZ3JlbGtmNQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Elko Daily Free Press",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - STLtoday.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUHduQjQtU1prcWVCN01TYzJVRmViSWpFLU9tTjdaYmdVM0lmUGxUUWJocl94Z0dwYUVnOTYtTVB2dUhLcHZpdnYwd0ZhUDlTYXF5RXhETEx1ZjdCZk9CeTVpU0NrblBaN1RnQTdwWlJlZVNJbzhnQVljaHFwODh0MkpvX3cwSFI4RjFxbF9TVE5iWGp3TXE0U1h2bGM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking STLtoday.com",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "이 크루즈선, 승객들에게 극지방 빙하 기후 변화 추적법 교육",
+      "original_title": "This cruise line is teaching guests how to track climate change in polar ice caps - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNzB3NzViZkJ0Q241c29jbVVTaDBKajBrdXNfbGJ6d2tFMXY3UEhlcGI3NURZVFN5RmpTdW9IRUtiaHRsWF8tNV8xZ2YxaUN0ZVMwLU9MSmhQdTdoa1JOLUZDQl9McndDZ3lPYU9LSGhoZjJnN0lyd09sMnNlNGU5eVFYOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T11:44:50",
+      "description": "This cruise line is teaching guests how to track climate change in polar ice caps AOL.com",
+      "summary": {
+        "phenomenon": "한 크루즈선이 승객들에게 극지방 빙하의 기후 변화를 추적하는 방법을 교육하고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "크루즈선",
+        "기후변화",
+        "극지방",
+        "빙하",
+        "교육"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Roanoke Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRnFrV2htcEtzSzNQTURUQms4c2VrWnR5bW5TMmUtRU1RQ1h1SEYzZlE5bS10a0s5ei1pNHFCVUdwSVBtWWdheWM2NjhqTGNKTF9vSFRNRFZVb1lCckF0TjItaWhWWVZaYkw3R3hqNXBlX29xdGNaeVhKeDhUWkdUNlNHWWwzVWF4OHd2WU1UMUlpczJqeHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Roanoke Times",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "기후 변화는 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Lincoln Journal Star",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzlzc1JvaUlCMFB2UkZ4SU91cHZtclpWUk5tTlIwaTNJNk42ZGNKU2o0MUxNaGg3REgyMDc3dlB2cUwwc3VKTkNYNWdtRzlDcFNCM2RYaEkxTXltNEo2T1JRc0RzQmo3X1M3ZjdlWDVRa3NXVkRUMXJXWWhaSy1Fd2lXbWpGbkZzQVV2SEhyZE9LVmY4bk9yQV9ZRQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Lincoln Journal Star",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "ISRO가 인도의 기후 변화 적응, 대응 및 극복을 어떻게 돕고 있는가 - MSN",
+      "original_title": "How ISRO is helping India adapt, respond and fight climate change - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUZQN0o1WF9BOWlRSnFWUUJRNEFuejM1dU5wdVlOd1Nwd0l4TmVPWDlBRnNyLXF6VTVzNHlZa0FPTGgtODQyNE9UcjR0c3FHV3doS2g2WHVSWXFSVG9BMHBTWjJ5OTJzMXpGWUV1YzdTTlBHMklial9CNTRmYXRRTVpyN3RwVnBfTUE5WTVudHQwd0tPckhzcDUtSmMybmF4RmtSdlNSdGU4UFVGclBKRFhXbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T16:55:58",
+      "description": "How ISRO is helping India adapt, respond and fight climate change MSN",
+      "summary": {
+        "phenomenon": "인도우주연구기구(ISRO)가 인도의 기후 변화 적응, 대응 및 극복을 지원하고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ISRO",
+        "인도",
+        "기후 변화",
+        "적응",
+        "대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다 - 스테이츠빌 레코드",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Statesville Record",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTUljN09QaURPSVpJVVFHdE8yQThxZXpqbGFSTW1jWC1laFdyUVFQTTlYVkloRHdCMHBBN05Ta2g4TVk1VDJrdGJpVlVfVVFpaFhUZGVMT0dVdTRhWTF6QlJpSnFyMUQ4N3FJOHVRYXE3M2ZnZFltZ2xmaG1XVG5Dekx6QkU1Y0x2MDNPU2lRV0FsUDhROHRfT3U4MA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Statesville Record",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - cumberlink.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlpXN1FQN29IVndtVW1fOERIWkxPSUM2V1dmcGdWS2xTSXJuMnR4S3V5Ym5ySTNSSGp3WmE3aG9BZndtdU9SaUpGZXhXbkdpQU1sd1p0YmtEOUk0bjM4cE1NalZlTlZHOGxNMHJta3hMeEpqd0JsVDktQmxtdkRUTGdUOGVxeGt3MzRPc25pMVg4Rk53c3YtZWl3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking cumberlink.com",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Bryan College Station Eagle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmxiTjV1eWNVV1hVQ3FsRlFlbi1veWgwMHJ3LWlLSHFzSklQWDFncGw0RmoyanVDa2ZaYUV6LUpoQnRFVkJ6REpxUjZ4RlRVUDhtejIwSzJJa1JQYWpwU09hWDE1ZmtOQjNDMWF1TFBkaGxYaUNiUTNfSEVXQzg1MDVOdnk4V1dqMUU1UGlBSTdOVURCUlo0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Bryan College Station Eagle",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 개최 가능 도시 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Martinsville Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQmg0RXhiNzRhdmx0dGxfblZFc2RKUzhXanIyOURiSTVoNnpNWUx1Sk5YdnJ5SlNQS0ZxR2JJTWc3NjZTckVOQjBLTWtuOTFqcnNKZDVaR3pNbE1odjlsYjFVVFhpdmNGMmFMSFlxM1huNDlBZW5UWDI1OC1WSWdyR0RvRGUzcDZRWWhVR0RCUjUzTUk4SDVGZUxUQkQxZGd1YkYzQWFaOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Martinsville Bulletin",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 도시 목록이 줄어들고 있습니다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기후 변화가 올림픽을 재편하고 있기 때문입니다. 과학적 원인/배경에 대한 추가 설명은 기사에서 언급되지 않았습니다.",
+        "outlook": "기후 변화가 올림픽 개최지 선정에 영향을 미칠 것으로 보입니다. 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다 - 요크 뉴스-타임스",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - York News-Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPblZJc1NhSGJVX25OVFh4Mi1DTmktNkRwbm1hTnpJaE5fNG5mc1JYRktYS0g3MjFaRXpxaDk5T29iLURrTnMxRm1QLVJ6RXFuNGJkWERmb3MyMmVsM3QwOVJUc2I3R0NfMnFISDI1VTg1MF9Xc3dxS3RkakU0X2hhR0JpRjdFM3JDMENmSlRKV1JYNWt3MFRscUsxakVrQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking York News-Times",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "기후 변화는 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다 - SWVA Today",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - SWVA Today",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc3hnSjcyeHRFUkduNXl3NWFDaUtNb3dtbUxISkxtbmpfd2VTakdObEdTbE5LUTVKSDlQcmphcVBIWXlIeVowanRmM0t4ZW52azk2UmxYaGJPYnpfSGF1UVdPOWVlb2JFcjEteUlGOE83cWR3TVRmMm9iYTJVRW5WdzkxNHI2bmJVcFp4UVpjcWdQQkJMaDZ2Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking SWVA Today",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "기후 변화는 올림픽을 어떻게 재편할 것인가? 가능한 개최지 목록이 줄어들고 있다.",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - The Grand Island Independent",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMDBoSnNMcUNzYzVzckNsMkdQdkdLNHpma1AwXzYzdm4wd3VLdlhrZ2llaVdJSE4yX1E1RVg4eU9UZndzdmRVSlM2UnZiYzZfeGxRWjZ2V0VDRUxIYkF0RkdzRk5XOXJ2dkoyTDlTbFlEeTZlSzBIRmlZZ25SRkdsR0h2M2cxRk5LWURFcURISVp5Vm1zcUFldmZ5UVdnZVE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking The Grand Island Independent",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다 - 디스패치 아거스",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Dispatch Argus",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXEzb3V4S1M0ZXdVSUxrajIxVzQyN2hELUt6bmJidXUxeFZMNmF5bU5VRzc3UXREZkU2cEtDWmRPdW9tWWlHMDhSWXB3X3dYNUE4aWxtQld2cWtuSk9Pb0E3cVFlUmNzQlctS2tfUmFja2ctV2dNMlZ2dFZISGdJZXZpWlpxMk5jTlJMN3lLeXVTbEQ4c1pv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Dispatch Argus",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - The Danville Register and Bee",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekplVHNHUWtpSzFyN2hBMFNoX2Qzdk1ZYnExemFqTkpxMWUtN3FTaDRGbEpQSHIxN244M3YyT2VaaHB0eWp3WTBXZS1YYi1GdktfWFdhUnJsTjFLU2NRc3ZpeGIzZTRMX3dNRGxCUTlNYUtYeGRpRmlBNWZ1Q2dSUUlTbS04UmFrNE52LU1sUk5pN2dkYllwczVB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking The Danville Register and Bee",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Fremont Tribune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajdSSWgzd1RsTGZJVkpRcFMyVHBqZlJ4cVgtYzdBTUJHeDBUU2xmMDlBWGFmWFBRRV8xT05zZnFRVGhQRzNSQVhEQUhMdEZLbU5rdjJlT0dZbTRxNnFqaDlWZlRNWkhQZURHN1QxMS1LZmo2Y000R3IweTYwZVVhY09EU2V4MkFhZ0ZGZEc3c3ZNTDRvYWZXX0drTS1acnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Fremont Tribune",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "기후 변화가 올림픽을 어떻게 재편할까? 가능한 개최지 목록이 줄어들고 있다",
+      "original_title": "How will climate change reshape the Olympics? The list of possible host sites is shrinking - Mooresville Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUM5T1lBbFJZTGVOZld4bHVRbl9oUzNST2k3VTRkZ0xDczVlZjUySEwwcjVDQjBUNzhZckppcDh3MG5NSlR3TGxJYmJmN2RqQXdYazdtUlhMcGNTVm9YLUJmZ3NIQjRjVENCdTREVXNPU2Ezbks2VFJoeHVJOXBNanVERk1tX1RhMjB2Y0dWZVNrTFk2SmdYZ0t2M2tYZG56aDNnTA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T13:30:00",
+      "description": "How will climate change reshape the Olympics? The list of possible host sites is shrinking Mooresville Tribune",
+      "summary": {
+        "phenomenon": "올림픽 개최 가능 지역 목록이 줄어들고 있습니다.",
+        "cause": "기후 변화가 이러한 현상의 원인입니다.",
+        "outlook": "기후 변화가 올림픽을 재편할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "올림픽",
+        "개최지",
+        "축소",
+        "재편"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "기후 변화로 유럽의 잠재적 동계 올림픽 개최지 감소",
+      "original_title": "Climate Change Reduces Potential Winter Olympics Sites in Europe - filmogaz.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxM1ZsZnJQRDdKWlY4Q1MwM1ZXUVhaRlE0SnVxajdKT3dFb1B0X2RiZGszUEE0ZWRyeEpTY19fb0d1MzZsR1E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-01-18T08:35:22",
+      "description": "Climate Change Reduces Potential Winter Olympics Sites in Europe filmogaz.com",
+      "summary": {
+        "phenomenon": "유럽에서 잠재적인 동계 올림픽 개최지 수가 감소하고 있습니다.",
+        "cause": "기후 변화가 이러한 감소의 원인입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "동계 올림픽",
+        "개최지",
+        "유럽",
+        "감소"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 58,
+    "domestic_count": 28,
+    "international_count": 30,
+    "top_keywords": [
+      "기후 변화",
+      "개최지",
+      "올림픽",
+      "축소",
+      "탄소중립"
+    ],
+    "sentiment_breakdown": {
+      "positive": 20,
+      "negative": 32,
+      "neutral": 4
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
