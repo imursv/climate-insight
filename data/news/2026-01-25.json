@@ -1,16 +1,16 @@
 {
   "date": "2026-01-25",
   "metadata": {
-    "collected_at": "2026-01-24T23:09:36.983950",
-    "total_articles": 14,
+    "collected_at": "2026-01-25T08:07:50.810534",
+    "total_articles": 35,
     "sources": {
-      "korean": 5,
-      "international": 9
+      "korean": 23,
+      "international": 12
     },
     "sentiment_distribution": {
-      "positive": 4,
-      "negative": 4,
-      "neutral": 4
+      "positive": 14,
+      "negative": 11,
+      "neutral": 5
     }
   },
   "articles": [
@@ -371,6 +371,527 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "74e86fc1926b39a4",
+      "title": "[김성우 시평] 주식과 AI vs 기후변화 - 에너지경제신문 모바일",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ST1hzQ3E5X2YyZW9TVVhRMXQybjR4emlyVEF6MVVoUW1PakNPcVVBMkdYNGJEQnVFU3I4Vmh0MXJRREtQRzIxOEFkY1RfbDJCdEd4MHFJX0drREE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T01:30:00",
+      "collected_at": "2026-01-25T08:05:30.876237",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "주식",
+          "AI",
+          "시평",
+          "에너지경제"
+        ]
+      }
+    },
+    {
+      "id": "0793567c3f0246e4",
+      "title": "한라산 한라솜다리·암매의 처절한 사투…기후변화 등으로 위기 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRTFzd1IteVpWZzlJTmt0TlRPWVR5V2o1TG1XaXQ0NFc5bGQyLURzMVNsOXJrZlBob3R4Q2xWeU5wQnRIa3g1UkZJLWF3clNXZXljeVR0U1NYb2JFWm00NNIBeEFVX3lxTE9SV2l0Sk9XT0JFX2c2MTA3Y25nQXFMSTd6X0VscDhoLWpyT0NhWkZva25KSHdfbXVDYmh2NzhnSFEzWWhkWFJDVU9aQzgwTnFsWXlfQTg3RlJaUFREY1JqUm1sMHFyV0J4R25zd2lhOV9ObnVSZ1lIYQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-24T23:46:20",
+      "collected_at": "2026-01-25T08:05:30.876270",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "한라산",
+          "한라솜다리",
+          "암매",
+          "기후변화",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "90bd6e4bb1c02b05",
+      "title": "[스마트 안전농촌]'기후변화·고령화' 등 농업 관리도 시대에 따라 맞춤형으로 대응 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5aLXpxRUdsbFVJZEh4RFIwcXBFbEJaTkZpbUVCZUFENmtTdm1zV1JndlE1SFlFckMtN3hkQ2Zaam9TeDRqaVJ2aUd5Sk5HUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T05:07:00",
+      "collected_at": "2026-01-25T08:05:30.876301",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "스마트 안전농촌",
+          "기후변화",
+          "고령화",
+          "농업 관리",
+          "맞춤형 대응"
+        ]
+      }
+    },
+    {
+      "id": "93440064f63e72a4",
+      "title": "충북도민 10명 중 7명, “기후위기 관심 있다” - joongdo.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lNEMyZXRHSkhGb1NuYzU0QTVGUzZRVHpmeGhzLWtobms0bWk3OG12bFpPTkFPSjRRODl0aFdqbFJ1RTV0eWN1dF9YMU1GemhFeHNtV2p4RTc3RjBVSHltS2txSDc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-24T23:18:26",
+      "collected_at": "2026-01-25T08:05:30.876407",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "충북도민",
+          "기후위기",
+          "관심",
+          "인식",
+          "여론"
+        ]
+      }
+    },
+    {
+      "id": "ea4a5b7a4718a826",
+      "title": "충북도민 10명 중 7명 “기후위기 관심”…전년보다 14.6%p 증가 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HTEQ4aVlaUFprSzl4WW9JS0pkSmMtd2NBVUUzbEZBYnRnb2MwTS1pNDNMTGZzLVY4VS1oVkRfVklwTFhHN3c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T04:35:38",
+      "collected_at": "2026-01-25T08:05:30.876503",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충북도민",
+          "기후위기",
+          "관심",
+          "인식",
+          "증가"
+        ]
+      }
+    },
+    {
+      "id": "f2f5573b858fbfd1",
+      "title": "김연준 기후회복실천문화원 원장이 말하는 기후위기의 본질과 시민의 역할 - cj-ilbo.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jbkNZWExxRkZGaXphc2kxbW90cVZvREp2UXBzZTJrQTZyTzVJSlpQWXBpMmNKVm1pQjJrOExLOEI5VzJ2c3EzWjctN1RpNmctd3BaMXZBU1VzNVJHeFdBdjZXRU9wT0JjaU5B?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T05:51:26",
+      "collected_at": "2026-01-25T08:05:30.876720",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "시민의 역할",
+          "김연준",
+          "기후회복실천문화원",
+          "본질"
+        ]
+      }
+    },
+    {
+      "id": "81dcb21e08bf61cc",
+      "title": "“탄소중립정책, 광역단위서 체계적 추진해야” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xUnVCQWdPbVk3elA0MDZQc2dHOTctSzJRa2hGckM2ZU9GOVdpLUMxbnZsdjE2T0w3SUgwRFlySl9UYVpmeVY3MFplTkdrWWs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T07:11:36",
+      "collected_at": "2026-01-25T08:05:30.782812",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1580ede2e18ca122",
+      "title": "경북 동해안 심해 블루카본, 대한민국 탄소중립의 숨은 해법 - kbmaeil.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40NmFaYlhRZ0tVOTVaOTNtSHp0dXZBVTljWTB0THBQTHVFRmtrUEgxNWVNejlQMVlaNG15b0o1QUxBdU9GcnRlS0l3cXpvYzdBOGFvTERlaWpSQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T05:17:00",
+      "collected_at": "2026-01-25T08:05:30.782997",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "블루카본",
+          "탄소중립",
+          "경북 동해안",
+          "심해",
+          "해법"
+        ]
+      }
+    },
+    {
+      "id": "1389c10a88fc2651",
+      "title": "제천시, '탄소중립과 기업의 대응전략 워크숍' 개최 - inews365.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zV3VmaDltbHJqYzlsZEdKQ0JwVmk3MXYyZ3J6OE9OWkpIR0lrdG1LczFtYlZwUnpaaUJMb1JkREl5T18wNnBqc0dxNjVfTm5vellHOEpqdENTVlBIdlpaLXBR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T05:58:15",
+      "collected_at": "2026-01-25T08:05:30.783025",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "탄소중립",
+          "기업",
+          "대응전략",
+          "워크숍"
+        ]
+      }
+    },
+    {
+      "id": "ac3430a5c07ab884",
+      "title": "제천시-제천·단양상공회의소 탄소중립 협력체계 구축 - daejonilbo.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jRFBuY2VIbzMxS2plM2FaNDVkRVc3Nkx3eHNSbTdpS19wQm9hY3FzblB6ODZxU2pRbUJoMkhmMHJKaDdBUlRxMk5qNTUwRWY0TEE0SGphRTQtMlNOS2VsdWQ4TXUxWFMyS252T2Zzb9IBc0FVX3lxTE1JTzVNdlhoNzRrM3FacFhEalVyMjBCNDd2QkpBYnp0Y2VhRkZKVTVCMWJ1Rkc1aF9PbjJBSm1SREliZVY0anVaT0VqSURaS2h6YmsyWC0tXzhkVkhucjlxNExPcW9FWEcyTlMzREVXVFpCMmM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T03:31:00",
+      "collected_at": "2026-01-25T08:05:30.783052",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "제천단양상공회의소",
+          "탄소중립",
+          "협력체계",
+          "구축"
+        ]
+      }
+    },
+    {
+      "id": "e769c4602a1ae03e",
+      "title": "광주시, 탄소중립 시민추진단 그린리더 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qNXk2ZjZwS2llaFJMZ0MxQWdxWlJyQldlcFFRUXNNMGhIY25nVnNIUnRDQzZ0ckM3dG5rbHB4bWNsc0JWeFZtMmltY1ZMRFlGT1NxcDQ4bkVUeXlMSlRFYnNmbEZiRHE3WGhZU2hremYxUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T03:38:06",
+      "collected_at": "2026-01-25T08:05:30.783076",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광주시",
+          "탄소중립",
+          "시민추진단",
+          "그린리더",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "a5c1bd2bbcedd007",
+      "title": "제천시, 탄소중립 지원 워크숍 개최 - dominilbo.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbGhEYzhQLTBXNk5mTFU4LTY5N2JZMUN5b3hhZ3c3ZXZMN0wzMURWR2twTEFkZWl6TlFscWZPQmttdG9GT2xEMWhOYUtFUkluNE8wWUVtQUk0Nlh0VHpWTXp0ZzJFenF6djBIYg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T07:01:03",
+      "collected_at": "2026-01-25T08:05:30.783181",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "탄소중립",
+          "워크숍",
+          "지원",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "3bc6462ced1ddf49",
+      "title": "조달 어려운 재생에너지…韓 기업, 'PPA' 개선 목소리[이영민의 알쓸기잡] - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObmptVmVoX3Z3eWxVRkFHUlRGei1wTlphUEtoc0Qta2Y5aWJqblZON3RuckRDSEw5S0w0czJuc09MUGlXYjJTWkNhS1ROdXZQVWxDeU12SXRUM1A1c19xWmZZYWVDRm5WNE5ZYUwwaHM2OEJfWTFwM2FTSElEazVtUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T00:45:00",
+      "collected_at": "2026-01-25T08:05:30.730706",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "PPA",
+          "한국 기업",
+          "조달",
+          "개선"
+        ]
+      }
+    },
+    {
+      "id": "5e06fcb1072e803d",
+      "title": "서난이 전북도의원, 재생에너지 확대 방안을 위한 영농형 태양광 도입 마련 토론회 개최 - domin.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Z1BUak5QUW1aUV9Qdk1EX3hjQjNoVmdPUXQ0Z3pLUm4zOUg4M2JrTmcwRWszWm85YlluOWdKeGl4Wl9DazZhc0IyX0lnTGp3YXJKd3NmbnZKWklyZ1VZLWk1VW9ReWw2dkE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T01:16:14",
+      "collected_at": "2026-01-25T08:05:30.730840",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서난이",
+          "전북도의원",
+          "재생에너지",
+          "영농형 태양광",
+          "토론회"
+        ]
+      }
+    },
+    {
+      "id": "828dd3d95ced7fd0",
+      "title": "보수·노인·TK=원전, 진보·20대·전라=재생에너지…정치가 만든 ‘에너지 양극화’ - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9STThyXzV2eHNLMnNrUUNHdUZ3N0hrUW1QZFpUZUQxcVdXRHdYbGczVFVIWU1qbXdHeXRuOG5seEdsdkx4VGRpR1pOZkltTzNGVHlfWEZaTWF6UWdBTnJUYXBHRDVINVlnQzRMMQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T07:39:00",
+      "collected_at": "2026-01-25T08:05:30.730899",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6b77705ae1730640",
+      "title": "서난이 의원 “전북을 재생에너지·미래 산업 중심지로\" - jbjnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0MzZmYnZXUGtyODE2TFl2cjI5ckNsSlhpb3ZidEhvcWRLdGctRHlfbjIwX0huWjQ4bGJyWDZiMjNTeWVEQ3NtSzR2TmxtTUhVQXBSZk1lY05ibE5yVmpnOTVBQTNneEkwRUE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T03:04:38",
+      "collected_at": "2026-01-25T08:05:30.730928",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서난이 의원",
+          "전북",
+          "재생에너지",
+          "미래 산업",
+          "중심지"
+        ]
+      }
+    },
+    {
+      "id": "fd3a269c1119f25f",
+      "title": "유럽연합은 재생에너지 개발 촉진을 지원합니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMkhiRGFTY0JESF9YaEdNQVBlcTZvb1FlbmlnZ1ByNXVXRUxMbDZBa2hZZnNkS1VLUzYtalhRMm5fRHc2eXctaV9hZHFVWG90eUQyVG1EZFdjQ0p3M0RCYVk2ZVJ3R2xZWWcxQ1ZoRmFaRHpzekF3UHB5ZEZrbTg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T01:33:16",
+      "collected_at": "2026-01-25T08:05:30.730955",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽연합",
+          "재생에너지",
+          "개발",
+          "촉진",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "5bce71f51905b2b8",
+      "title": "[통제 불능의 '녹색 쓰나미'… 중국발 재생에너지 혁명이 가져온 거대한 혼란] 마이너스 전기 요금: 중국 산둥성이나 독일 등지에서는 전기가 너무 많이 생산되어 발전 사업자가 돈을 주고 전기를 버려야 하는 '마이너스 가격' 현상이 일상화 - AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5LNVdicDZicnRiTURYeHMtZHFDS1owakFWSUlzTUM2aGVMU1lxNmI4eUplWEE4Z2d3RGJReFBfa3U?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T00:58:00",
+      "collected_at": "2026-01-25T08:05:30.731055",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "마이너스 전기 요금",
+          "전력 과잉 생산",
+          "중국",
+          "혼란"
+        ]
+      }
+    },
+    {
+      "id": "49286d9402ee9cc0",
+      "title": "Nigerian farmers talk about how climate change is affecting staple food crops – and what can help - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRjRqcWtRWFh2VmJrYzRYYVRFUEpHdnNfakFZZFVCb2F2S0VLTV96NzVYa2tpX2ttRWlUWFNVa1ZHZGRoV1dKelVWRmVfNWJmcmFKbGx0dktVc2thWHhLUHBTY2RBUUxTaWtCRnJOV0ZyVmJfY2FpMFAycFJlZnlnNGIwS1I0Vk54SkQ4VTl2U3IxWXhFNUg3UTBjVWJuM011UWQxNkdOdndablBhMWZKXzZJTDZTdXpQYVlnWG93MHhvVkhNTy14UnhB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-25T05:04:50",
+      "collected_at": "2026-01-25T08:05:31.736527",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cbce41bf0ddc027d",
+      "title": "Learning About Public Consensus On Climate Change Does Little To Boost People’s Support For Action - eurasiareview.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOelUydW9nUkFwUjVTdTdkdmN2WFhVUnd3S2U0Zzc1OXFRMFJNQzZjWnZfNkhIcW1RR0hPcElTUVBzSlJCQS0wTXNTcjNmZXViaEU0aEJPY0p2dHJkQm1sZTl1ZUtod1RXNURGOWhZd3RaMVdKY19YdFVKSmY3WGZVOWU0U0RjczNESXBUM0RadmJMUnYzQkNQUHJ4LWRNRTA3X1dLaFRYLTRmVDRhbDJVN2lhOUhKMTR4Z280dmFZeU42enZXd1Uyd0ZLNlJ3TnV1cWNR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-24T23:40:28",
+      "collected_at": "2026-01-25T08:05:31.736628",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화에 대한 대중적 합의를 아는 것이 사람들의 행동 지지 증진에 거의 도움이 되지 않는다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "대중적 합의",
+          "기후 변화",
+          "행동 지지",
+          "학습 효과",
+          "영향 미미"
+        ]
+      }
+    },
+    {
+      "id": "7c205b2eec3ed17e",
+      "title": "Australian heatwave five times more likely due to climate change: Study - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFZNQWdPN0RKY0dlMjZpc2NBU1Nidl9GcHdxRFAyTkdhdGxUT2ZIdW03d1BiTVlLY3gxWm1iQ21HLUJRYjRYMmNMWGp2Z3JKUnljUmtLMF9JVzJQWGVVNTBUdTFVdk8za3lqVHNydGRpTjVUdV9vTEdLZVYxTjNRb1UzVHQ2RHVFSmh4TEJYNVMyMmRtc0hjZExaSmY1Tno4TUdnaDExODYxbngxZ0E?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-24T23:28:23",
+      "collected_at": "2026-01-25T08:05:31.737717",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "호주 폭염, 기후 변화로 5배 더 발생 가능성: 연구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "호주",
+          "폭염",
+          "기후 변화",
+          "연구",
+          "5배"
+        ]
+      }
     }
   ]
 }
