@@ -1,16 +1,16 @@
 {
   "date": "2026-01-26",
   "metadata": {
-    "collected_at": "2026-01-25T23:10:47.141094",
-    "total_articles": 23,
+    "collected_at": "2026-01-26T08:13:56.804263",
+    "total_articles": 113,
     "sources": {
-      "korean": 12,
-      "international": 11
+      "korean": 97,
+      "international": 16
     },
     "sentiment_distribution": {
-      "positive": 7,
-      "negative": 10,
-      "neutral": 1
+      "positive": 73,
+      "negative": 23,
+      "neutral": 10
     }
   },
   "articles": [
@@ -578,6 +578,2343 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "d7dcea1da08ef65d",
+      "title": "\"플라스틱 빨대 금지로 온실가스 해결 안 돼\", 기후책임에 기업과 정부 나서라는 목소리 커져 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aUVM2azcyeHJMS0czallWUkhCU051OWNhX3RnQlVDdmtoM1hoNGktbU5HUVoyNjBWUlZhbXZOYU9MMlRGYUxDOVZCMFdISWhQM2Nhc0NNd1JfZDNWeEVvaGNUVlc4VmxiUHo3aHlVNA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:58:03",
+      "collected_at": "2026-01-26T08:06:29.530099",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "플라스틱 빨대",
+          "온실가스",
+          "기후책임",
+          "기업",
+          "정부"
+        ]
+      }
+    },
+    {
+      "id": "938e712853ae800c",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wYmkyZWw2WlhiQ05yQXZhYVgzTkdOYkowdjhaUnBZZFJZVDc1ZGEweHhZTjdzcHNvcF9MTFhVcTF0YlZJVHpqNFl4RVlvUEpabnFjRGFaUHlLSzhEMjBqadIBeEFVX3lxTE1fejhFLVUtQjgwU2xiVXI3aVR3QkE5WGtOOUg4cndNVEcwek9reGRJUEZQb0ZPSFJ3bndHMEVsMjlzNTRwWlFPQ1lpWVBueXFjQjBpMWNSVUJwVDBwZ2xtazhVMVBCOWQySVlyTF8zUXNHN0M1WS1oUg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:19:10",
+      "collected_at": "2026-01-26T08:06:29.530145",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "c6a70294e9552714",
+      "title": "여수시, 탄소중립포인트제로 기후변화 선도 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KcjFIZl9Dc0ZwWEozeXJ3M1lGNWxaeGYtc1R6Zm5TN2lzQ0YtTnIycEdtWWhBUVJybEZwcGU0LWNUU2NQZHVRdjZLZ2NodFdqY3lZ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:16:00",
+      "collected_at": "2026-01-26T08:06:29.530241",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "여수시",
+          "탄소중립포인트제",
+          "기후변화",
+          "선도",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "fe9b54a33d2f1d50",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득…국내 철강사 유일 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSXpGd1czTFpqYy1EQkNGcWdBNmJhTWhPak9kcWpQaWFYeGhYMjV2ckxRT1NUVGFGZW9jd1o3VjByNlRqZHF5NnJnVUREV3RsY2dQVlhpQ0thczJwNnNvbW42WTM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:48:52",
+      "collected_at": "2026-01-26T08:06:29.530380",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "ba040c2094a17f31",
+      "title": "한국법제연구원, ‘지속가능·기후변화 법령 세미나’ 개최 - 로스쿨타임즈",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zM1pIRUw1MUhva2c2Z2NUVE1nb0NvVXJvYlFaV1RWZDBxQVhfb2xYaU1zXzIta0xCNXNoYktxQTlFTGlZUFBYOFlHUEo4Z3p0UHp2cUpGdDVsdUVQVjV6RUpJNEJ5N205b29malhLRXYwQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:31:20",
+      "collected_at": "2026-01-26T08:06:29.530407",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "한국법제연구원",
+          "지속가능",
+          "기후변화",
+          "법령",
+          "세미나"
+        ]
+      }
+    },
+    {
+      "id": "ff11dfb6cd25fcc9",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십 A-’ 등급 획득…1등급↑ - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tNEhkQm1LMjRZeXB4NFpPeUJ1MVUwWUNwbXlWTUtPZEZnMWduWUF6M2VVWUhJazJId3FUZXpibklNeEl1dTlXYlFON3VuY0ot?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:09:39",
+      "collected_at": "2026-01-26T08:06:29.530442",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A- 등급",
+          "1등급 상승"
+        ]
+      }
+    },
+    {
+      "id": "4d9bbec31d7a9866",
+      "title": "[중화학 ON] 현대제철, CDP 기후변화 대응 'A-' 획득 外 - 딜사이트",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5dFB6N3hRMmE1Y1hIS1FqcjU1OGVxN09XNWR5dXpJcVN3UmpSa2NVbFJsNXBhUUw3UTlQd09GZ1lRYnZDY0dEQXl6X1N2NUk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T05:19:08",
+      "collected_at": "2026-01-26T08:06:29.530469",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "A- 획득",
+          "중화학"
+        ]
+      }
+    },
+    {
+      "id": "12c1d5de76981d17",
+      "title": "현대제철, 기후변화 대응 국내 철강사 중 ‘최우수’ - joongboo.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56X1laWEw3S3JhNDZxb0ZuUkwwQ0ZGZkJYcEpITTJKOUdFbWtkMEx4dVV2OG1FX3VkemJsX3JUOV9GYlJNYWFLazh6bC1Da3FCTDM2bU55dFRzZTE5WVVUZ0ZQb0d5TUlrSklabE94RQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:46:00",
+      "collected_at": "2026-01-26T08:06:29.530495",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "기후변화 대응",
+          "철강사",
+          "최우수",
+          "국내"
+        ]
+      }
+    },
+    {
+      "id": "ea6128e10711bad2",
+      "title": "[경북] 기후변화 대응 병해충 진단 지침서 발간 - 월간친환경",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Jak5BZmxNRXJhZjh0ZWprRlFNdGsxOFNmRWtzblNVdk0zcExrd2lJWFFIakRMdUlCallFTDJxQ3BaYjh4LV9XWFBybzQybk1CQ0NpQkdvT3pyNWR0SGNRdGNXTjR3MURabEtaQTVMS1kyZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:36:17",
+      "collected_at": "2026-01-26T08:06:29.530519",
+      "keywords_matched": [
+        "기후변화",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경북",
+          "기후변화",
+          "병해충",
+          "진단",
+          "지침서"
+        ]
+      }
+    },
+    {
+      "id": "d218acafb775cd91",
+      "title": "바다 폭염·지하수 고갈…당신이 알아야 할 기후연구 10가지 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3cWx4ZVNYUXVwV2laRk9WY2JRVURTTHhvQXRDbURMNG9YcG9wMERwaDB1RV9sSVFMR1ZDVVlFZzRaQklZSGhXeFNNdWhMamp1dnRiY1BrejFKRWNGLVRsWFc0OVlOUzFkUktHeA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T03:01:00",
+      "collected_at": "2026-01-26T08:06:29.530545",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "바다 폭염",
+          "지하수 고갈",
+          "기후연구",
+          "기후",
+          "기후 위기"
+        ]
+      }
+    },
+    {
+      "id": "332d59f2175528c8",
+      "title": "현대제철, CDP 기후변화 '리더십' 등급 획득…국내 철강사 유일 - 페로타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzM1ZSU1lyN205UDVRZmcwc1R6aThoaFF5LUxKNm1Kc2lqS0wwYVBrMGo0Z2Q3WEd6ZTRTUUl3alFEYkpaVFpwTXlkTWM2bHFKOWYxbkEtQUxXYkxjV0JHeDhjOGlKakFmSXB1aw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:19:53",
+      "collected_at": "2026-01-26T08:06:29.530569",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화",
+          "리더십 등급",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "f6c7f42e39469c94",
+      "title": "현대제철, CDP 기후변화 대응 '리더십 A-' 등급 획득 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tZ2pkWkdzY2VXOGpnZ0t1V2xiUG45VTVSOTRIQTlnTy04VmV3Um5RRmFSa19aQk1DSU9HdUZjdVF5UE1SNmlKNEdHSW56aU5YZkpJdFhLQmpWamJxWm9uRDhjMF8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:45:46",
+      "collected_at": "2026-01-26T08:06:29.530594",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A-",
+          "등급 획득"
+        ]
+      }
+    },
+    {
+      "id": "db2dd2cc593f702d",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56QU9uVC1RajRnM1pLblVQZmFWVE1mRUd5Mnkzc0wweEdmdkYzNTMzV0JNcGMyRjdCeXBBczhwVDEwTjRPTWxhNDQ2OHFBRnRkenRjREhMeW9IbjBqMUtHVkJJcFVJS09vdkNoRk94d0o?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:17:56",
+      "collected_at": "2026-01-26T08:06:29.530622",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "06893fd77f5734b6",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득... 국내 철강사 중 유일 - indifocus.kr",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAtS1VSTXhjNVR3anpaUG5kbXlhei1ac0NDWXNWZUN2dEVuMkFTME9faEExZU1xdThOckhPTTdHMUJBaFk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:27:00",
+      "collected_at": "2026-01-26T08:06:29.530650",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "d3dbe79a1e55279c",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십’ 등급 획득 - 나눔경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SdzN0dWppWjVKVWN6SndpNUxVSTVIT3VrT2dsckVqOW0tWGtTNzV5QXZWN1k1cDZjcUFJYmRYcmFBS196WHRzcHBOaWx5RzZ2aGpaVEhZTndXSlBuVzNFME9VejJHZHVIc1FTaQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:35:11",
+      "collected_at": "2026-01-26T08:06:29.530685",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화",
+          "리더십 등급",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "fcdf74efcf07f750",
+      "title": "현대제철, ‘CDP 기후변화 대응 평가’ 리더십 등급 획득 - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04T0RVa2tCcGZxM1R5bkIydWl4eWs1MFlXdGc0TlNNQmR1ZVJFOGQ2NTNEdEQ5Zl9SdHV1ck03Ym9MUU9UbERkYUQyUTZ0QWZ0aWJLYVVheXhqaFpYQUwtTFg3VzZfYzR3eFE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:57:00",
+      "collected_at": "2026-01-26T08:06:29.530715",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "aa101993ae336328",
+      "title": "[기후의 역습(195)] 미국·유럽 덮친 '역사적 겨울 폭풍'⋯기후변화가 키운 역설의 재난 - 포커스온경제",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqSzlGTl9oaHhHVTA4TEpLT29hQU01b293N1FxblZ2cTlWZWhsZXNrVVRSbkNkU1FIbk43d3kxVko4OXRSVXl1QzVtdTZBbHktdllCdVNjazZma1o0b2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:23:00",
+      "collected_at": "2026-01-26T08:06:29.530767",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "유럽",
+          "겨울 폭풍",
+          "기후변화",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "211b7f2b9172e934",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십 A-’ 획득 - 이지경제",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWTA0ME4xY0xvNkJzT2NOTFRReFhrek5lQl9VOUtiUHBzdGZOM2xkenNUT2Iyc3VqZHZiUzg2dUxTXzNvRDZjUGNIU0x5aV9qcTNnNXFjbVVleGE0Ym5RYUNOSlREZENBa19CU2Jn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:56:03",
+      "collected_at": "2026-01-26T08:06:29.530791",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A-",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "cbbe56273d3d62e7",
+      "title": "현대제철, CDP 기후변화 평가 국내 철강사 유일 A- 획득 - 이코노믹데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BOVBQZVJmRGNhRFdJeTlYU3p2ajhibkhQdTQ5Rmowd0VObUVtV2NSUFhEcVk4YjRFX2Nfd2FzaHcyS3hPZDREbUR6a2tqVEZaclBlTmNvUl8tcTFUUjdpeNIBXEFVX3lxTE5jNHRGQjZPWnY3THAyUVZaRFVjcDJsd0dDeEswWGt6TjlVbDVfWEM4MS00TzNSY0tJMUx4Q1loTlFsdkRZVDRoU2N5cVpDWnBOaVBLZVJFYUVkdURR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:40:26",
+      "collected_at": "2026-01-26T08:06:29.530816",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 평가",
+          "A- 획득",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "e1544668e36a6633",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십 A-’ 획득…국내 철강사 최고 등급 - 서울타임즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42dkdDUEZ3TjlzcXQzc2dVQjk1Q1ZhUU1JM1ZoeEVSTTl2NndxanRlbnc3YU5JQ21TMkExZHJ4NWdCQThwMEdaUmtvb0JBYlI4RkRuVldsLU5HT2VrNUF1dWpXR0JEXzJjTENz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:27:15",
+      "collected_at": "2026-01-26T08:06:29.530842",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A-",
+          "최고 등급"
+        ]
+      }
+    },
+    {
+      "id": "c458e687a9ff1e57",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십’ 등급 획득 - 인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE10MkVvQ3k3SzRlZThibl9uZ18zcGc1UzJKRzg0YURiRDNubm1FRVRnZGVCV0pjTkMySGlTaXFka3VUT3k3bGlTdV9UMjI3UEhnMTQzdEpxRE9jS2FEVVFQMXFhTEo?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:06:47",
+      "collected_at": "2026-01-26T08:06:29.530882",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "지속가능경영"
+        ]
+      }
+    },
+    {
+      "id": "b57223242b93a5c1",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DN0xEQ1JCeG5NMVRZSkVmbWQySU9VaW4td0xHTE1xQV85LTJqd0hLaWRJSVpFYWJ5eE5SOU1BSDZ6ZFE3S0oxTC1lYTFwYTBCRGdXZHNPejdTeTNpVnZUaHliWTJ3b0V5SjRqMF9Sa3BKUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:49:02",
+      "collected_at": "2026-01-26T08:06:29.530907",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "기업 평가"
+        ]
+      }
+    },
+    {
+      "id": "f4917fa490cfc3ce",
+      "title": "현대제철, CDP 기후변화 대응 평가 ‘리더십’…국내 철강사 중 유일 - 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UNVB2TlhocGlfZU1aQzdBcVdRTk9lejc2cUZNU2s0NmhOX21jTUtfei1IM2dNQkZldm5CbXdmT0lPUXduUUpucEZmOTN5b0xhVHpZT0dBaWlKZlk4WEE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:29:00",
+      "collected_at": "2026-01-26T08:06:29.530933",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "b5ca788a03deb65a",
+      "title": "현대제철, 글로벌 ‘CDP 기후변화 평가’서 철강업계 최고등급 획득 - 산경투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aWHBpVmdaT0oySnlHNl9tbjctS3JDVXRrdk9INHlfOVdURHozc3dXd2EybXE2dFR1YmkwM1ZMQWEtMUNxdEN0NUdHX1FrdnlVM0lEV0hUcDBub0NJclJtYjJicDJGUWtzWDE5YUtDUnDSAXRBVV95cUxNa1pobFEzVFltb2JKcUt1NGxzSnBvcEZZbldyUTZ5TzJoZWRkcDVnMy1rOGEtWmhscVJ6cEtEVDhneHVpam9DUHBCRlhYR0hmbnV2SDlSM25zeEsxa2pMR3JfV09KNmJRTVJtZV9weFR0VEZ4dw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:12:34",
+      "collected_at": "2026-01-26T08:06:29.530959",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP 기후변화 평가",
+          "최고등급",
+          "철강업계",
+          "글로벌"
+        ]
+      }
+    },
+    {
+      "id": "1cf94f6c5854ffa2",
+      "title": "현대제철, CDP 기후변화 대응 `리더십` 등급 획득 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lb3ZQaEZYblRYTndVY0t1T2ZaWkJYVU1IYjU5akhzeE91NzhEVUJVRW1USlVEdDM5QWZNMFV3RWtreEc5RmRRMGlKOWtMcFZfejh3SG5YQzVVMkVmT2VOZVBFcEo?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:26:00",
+      "collected_at": "2026-01-26T08:06:29.530983",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "300b5d94308a74ae",
+      "title": "현대제철, 2025 기후변화 평가에서 '리더십 A-' 획득…국내 철강업계 최고 등극 - 공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uNjV6eEl3dF92X0QwcllnRFJPZE9YNHYzM2xvYzROQmI5NDJwN2oyNHBGZzhYbVJGckY4NXFtVXhTdzhhcXprcHo4WEdMVERVSkt4aHo0S3dRVHlqNENkQzhqTjBRVUVi?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:44:28",
+      "collected_at": "2026-01-26T08:06:29.531014",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "기후변화 평가",
+          "리더십 A-",
+          "철강업계",
+          "최고 등극"
+        ]
+      }
+    },
+    {
+      "id": "be56b077539bcbcb",
+      "title": "현대제철, CDP 기후변화 대응 ‘리더십’ 등급 획득 - dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50TmtvcktxbnBHU3NmdHZ1azVBWFJUZl9mdENWVHNsVVFNUmJRY0pocFpFSXdETTItMzRDLTkyVXN2enlINXlWTnNBX2Jldw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:44:17",
+      "collected_at": "2026-01-26T08:06:29.531057",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "91c541779aedddce",
+      "title": "현대제철, 국내 철강사 유일 CDP 기후변화 대응 '리더십' 등급 획득 - 더페어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUMHU1RGVEbUdsTFZnNVBqLXFCZ0trSGtfOTl4R29Lc193NWlsUTJzQzZzdE5RWjdIaGhvQ1lvdTJrdFhHQlBXamJPTXFWTUdHQmR3MXJSQTJ1QTBaUjNwVk0tM1FOYU94d3lEUEFkUU_SAXRBVV95cUxNeEowbnIwbTNHel91Vl9LUnFyWDNHYjNmODkzVXc3Y1JSbTdURGZZWm4xcnNFM3h1TlFEamRxRHBhMXhVWGRWSDlXM0g5UVNFZFpMdExHUXp3YVFBV3ZjcnpHTFBkSEUzM3VtdkJqNFR0STJEWg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:02:54",
+      "collected_at": "2026-01-26T08:06:29.531086",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "9899e2e39bbe90ea",
+      "title": "현대제철, 글로벌 기후변화 대응서 국내 철강사 중 '최고 등급' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tc1phbHZCV2ZKZjZ2RldYTVZOZHI4WDhDZ0tRdFFfTkZzTUtHT2h0RXZtN3VFUjliWS0tVWpsVzBkQ0RXRGtfbXZJcG4zeTZaY25n?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:16:00",
+      "collected_at": "2026-01-26T08:06:29.531111",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "글로벌 기후변화 대응",
+          "최고 등급",
+          "국내 철강사",
+          "철강사"
+        ]
+      }
+    },
+    {
+      "id": "5894894f07ec23e7",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02T0wtMFEyUkNPcDFtU2pqaXB5dmxiaV9HV3lKYXJmWksta1F5bXN5dUgwRjlYblh6NnJXTmVvVmdPd1Z6SElhYjlOR1NpV1l0MFdB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:08:00",
+      "collected_at": "2026-01-26T08:06:29.531159",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "97cee3c14ad155ed",
+      "title": "현대제철, CDP 기후변화 대응 '리더십' 등급 획득 - 소비자가 만드는 신문",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54aDZGQjMzenhJeHd6SE82UlN1elVVUWsxMWZPLTJXcjZFZkhiTVBQOG40ZEpkM1lxX2RnTlI3Y19LNVkxVEpSQ25Cb2VVNmF2eFpqc2xtZzhkR09GcGkzSk45UHZuWW1JYWZQN3pBVjl2a2M?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:59:37",
+      "collected_at": "2026-01-26T08:06:29.531366",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대제철",
+          "CDP",
+          "기후변화 대응",
+          "리더십 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "28ff9a36b611877a",
+      "title": "인천시, ‘분산에너지지원센터’ 개소… 에너지 자립·탄소중립 ‘가속도 - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBTm9oQXlrZ1hleTF1cllCN3pTZEFRZ3VUQnlwRXNlVjgyQjN1U3pGR1FWbjZBbk80M2VJUGJib3lnbEZIZnVfQ0lFX0pvNi1W?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:35:12",
+      "collected_at": "2026-01-26T08:06:29.455578",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "분산에너지지원센터",
+          "에너지 자립",
+          "탄소중립",
+          "개소"
+        ]
+      }
+    },
+    {
+      "id": "192bc0db96924ee9",
+      "title": "청주시, 무공해차 5158대 지원으로 탄소중립 가속화 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aX0s2dmxjdThabG1LbFBHX0g3TUMydDQ0eWQzam9TaEc2UzdzTzBkNnJWTWdxS3BCVFk1QzlsQTFhOG9wUGdMalpCMWNwVTFKYXBaQk5NWFg3UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T23:47:56",
+      "collected_at": "2026-01-26T08:06:29.455609",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청주시",
+          "무공해차",
+          "지원",
+          "탄소중립",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "430896fd4ca0526e",
+      "title": "동서발전, ‘2025 탄소중립·환경보전 공동사업 결과보고회’ 개최...참여형 친환경 문화 확산 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd012Vl93MVVyUERTVFlxSmJwRGdMXzFBUjYwTE5lOWx2M19IZl9HRklDaXF6SGZYb1QwN1VVa1QxN2lkQXQ4dV9KWk1lNFJxajVtd292N1ljRm41UklfNk5LZzJhT3hhWGRmdndHT3kybUZMYk5rUEVwYWhXdEhTSFFuOVk5TC1kX1E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:37:00",
+      "collected_at": "2026-01-26T08:06:29.455675",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동서발전",
+          "탄소중립",
+          "환경보전",
+          "공동사업",
+          "친환경 문화"
+        ]
+      }
+    },
+    {
+      "id": "4e8c656e3e53d01c",
+      "title": "전남개발공사-한전KPS, 신재생에너지 대전환 및 탄소중립 실현 '맞손' - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pZm1pMmtVbGJ3ZGRmZ2hCV0xtSlVVQlM2OWNxeXQ4eGZCSVRVaDF6VmpBUFpKeUJuWHd6dGlSWG9fZUdBVWxqZG80QmhkbHJiLXpPT19mVVdmZ9IBXkFVX3lxTE1vZHk1Y1lQUXpmTFN0VmllWkhyaDRuOVMtemtyWjJQWEFqLWRfUTF0ZnEwUUlmS0lDekFlTWZxdk42LWRjYlQ1OGtKbU93aHhqYzRNdlFXM2pZZDhWeUE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:19:06",
+      "collected_at": "2026-01-26T08:06:29.455705",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남개발공사",
+          "한전KPS",
+          "신재생에너지",
+          "탄소중립",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "85a16a7ef162b10c",
+      "title": "광주전남 통합 직능별 시민공청회..\"탄소중립정책 광역단위서 체계적 추진\" - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vemFHTnlvZlBDcFhOLUs0ejVpVW55VlhtMHp5QTByNC13dEZ5YVBJYnFrT2Jtc0lNQ0hzS1lTU200M0FWYUFXanUwODc3ZHoxWnc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:31:52",
+      "collected_at": "2026-01-26T08:06:29.455781",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립정책",
+          "광주전남",
+          "시민공청회",
+          "광역단위",
+          "체계적 추진"
+        ]
+      }
+    },
+    {
+      "id": "6750a2f6ed4d9192",
+      "title": "제천·단양 기업, 온실가스 감축실천 의지 다졌다 - cctoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LTm84RmVpUFAyQlQ4Qkc2c0ZYeVJSc3Fob2VTNlAyblR2WnlLb1h6eVZaMUlhMjJJY2lQcGw1N3NadXNtZWVDeG5DT0l5c0huSWQ5c0JtQlVtQ0NhUTMwWkpQQXdtWWlTVkc5UWJB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:05:49",
+      "collected_at": "2026-01-26T08:06:29.455810",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천",
+          "단양",
+          "기업",
+          "온실가스",
+          "감축실천"
+        ]
+      }
+    },
+    {
+      "id": "6bf3d780b45b683e",
+      "title": "여수시, 에너지·자동차 분야 탄소중립포인트제 지속 추진 - netongs.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mek1XZExKYW4tMkctMFM5em9vazV3d1NPSlFESWE5LTBDQjVYM1I4dVV5NXlNZWVXczFZNXI1LUY1Z2JsdUo4SjFTci0tc3QtUGFiT2VHak1SM0F0Mlp1aUg2eWRxNjlyTlE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:44:59",
+      "collected_at": "2026-01-26T08:06:29.455837",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "여수시",
+          "탄소중립포인트제",
+          "에너지",
+          "자동차",
+          "지속 추진"
+        ]
+      }
+    },
+    {
+      "id": "9082459a1745f566",
+      "title": "동서발전, ‘2025 탄소중립 공동사업 결과보고회’ 개최 - 인사이트N파워",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RSTVrb3UtWHdOYjcta3RHUkhBbnVraHBaQjAyd2htNmp5bXNhaGNlRnNYSWJRZjdQN3pPQm9mTDU1MzJTejRMX0gyNGh4YzVxMlF2VV9maFhpVlEtblFzbFpVLXBTQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:34:44",
+      "collected_at": "2026-01-26T08:06:29.455882",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동서발전",
+          "탄소중립",
+          "공동사업",
+          "결과보고회",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "40529d81349fca21",
+      "title": "[미세플라스틱, 어떻게] 플라스틱 섬이 탄소중립의 '골든타임'을 갉아먹고 있다 - 교육플러스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoVWpjRTJkRE1OUU81ai1lSWkxV2VxSkxVVXNyWU1Ya1RPUWZtWlV1YWxfQ2M0aXhtUWlybDI5MmQwam93NFVvLUhYb0VrbnF4N2JhdG5aTGpxd09IeFJMYzZ0dmw4UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:11:24",
+      "collected_at": "2026-01-26T08:06:29.455911",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미세플라스틱",
+          "플라스틱 섬",
+          "탄소중립",
+          "골든타임",
+          "환경오염"
+        ]
+      }
+    },
+    {
+      "id": "4a4ac764f7eb622e",
+      "title": "‘현실성 없다’던 원전, 다시 추진… AI·탄소중립 명분 삼은 정책 유턴 - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EcGNUZ1pZTDJMOC03RXZvbUc5ZklYNzIxVFZ3N0V5Nkl0bXpjNHg3ZzlaNTZMSU5Cal9DOUxJWjE4aVMxeHktTWZQS0VIVFFSeVdVMjUyZmotZnNkVDdVczB4WFg5alZJNXc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:45:16",
+      "collected_at": "2026-01-26T08:06:29.455940",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "9923c0288d506ea8",
+      "title": "제천시, 탄소중립과 기업의 대응전략 워크숍 개최 - 중앙매일",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yQUNMRGVEVlJCOTQ2X1ZqU0hiM3BWeF9oTzdwX3VWNnNUVkFlNExCODhLYkhqU0JuZmhWbEtlVGsxbk5FbjU0N0ZqRHBNazNwQ2xFcFktWkNjRkxCR0plQnJfMTg4Zw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:01:50",
+      "collected_at": "2026-01-26T08:06:29.455966",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "탄소중립",
+          "기업",
+          "대응전략",
+          "워크숍"
+        ]
+      }
+    },
+    {
+      "id": "7752e5f941c90f3f",
+      "title": "탄소중립 갈림길 선 석유화학… \"NCC 전기화 없인 해법 없다” - 에너지프로슈머",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA1cjhIb1NPV2d5UGswZ3dCMjBOM0hBckFCZ095TVBJdVRGc1R0R2Uzck1YLUxuT1FlLUVqWWtzaVZYcFFOd0JJQnhLaGQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:32:00",
+      "collected_at": "2026-01-26T08:06:29.455993",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "석유화학",
+          "NCC",
+          "전기화",
+          "해법"
+        ]
+      }
+    },
+    {
+      "id": "a0c5e0b527abcf24",
+      "title": "[기획1편] 원자력과 RE100, 공존은 가능한가?…탄소중립시대, 에너지전환의 딜레마 - wbcb.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQeklxWlFqcEVydnBzVTdSQU5JV293V0dkdjY5NlhDWjZ5MUpNbllJYmdtNDJDQkh3RnRpRmRidEdZNDdCZ3dnQzY5MExqOVBmUzdOcEFzSkZjSHN2dXZ4UUx6NWN5UW8?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T23:57:35",
+      "collected_at": "2026-01-26T08:06:29.456045",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "원자력",
+          "RE100",
+          "탄소중립",
+          "에너지전환",
+          "딜레마"
+        ]
+      }
+    },
+    {
+      "id": "f712c3f6ced557e9",
+      "title": "우리가 믿었던 ‘2050 탄소중립’의 역설 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHWGs0V2dPOUx4ZzNiVnh3blVaM1NHdndPa0F0V2xBQVZKSURTbkJYdFZNWGx6YjlGaXR3TXctWklEYjVhWXJ4Sy1yR21nZmxHZGJld1Rtbk4xbWhJcXF3aV9iMmJER05HRUs4Mnp5bw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:00:30",
+      "collected_at": "2026-01-26T08:06:29.456119",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "2050 탄소중립",
+          "역설",
+          "기후변화",
+          "온실가스",
+          "목표"
+        ]
+      }
+    },
+    {
+      "id": "5a1c91bd0b8f76b0",
+      "title": "“예쁜 농산물에서, 건강한 농산물로”…한국탄소중립농업협회 ‘탄소중립 농업 운동’ 선언 - 우먼컨슈머",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Rc2xhVUxLZnNUd3Uwa1dUWmNMNUdFaF8xdFJqNS1FV25sQkhNaGhIQXJ5STZ6ZXctU0JWem5CVUhQZE5Cc01COTZjQmF4LVpNWkdycFJ5ZTFucmxJUm9kY1o2UUVDSXhpNnc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:49:56",
+      "collected_at": "2026-01-26T08:06:29.456145",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국탄소중립농업협회",
+          "탄소중립 농업",
+          "농업 운동",
+          "건강한 농산물",
+          "선언"
+        ]
+      }
+    },
+    {
+      "id": "2bf0b23cde1916c3",
+      "title": "네덜란드 탄소중립 가속화, 롤스로이스 SMR 도입 ‘청신호’ - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yZjhJaU54MHA1ZjdtalA5VS0wOHR4V2pndFZtQml1akQxMWpHTlVKM2FNUlVZWlhmQWhUQmtZbTJ4Z0NtUzFVLUxxUjdLaVo5M3JNX3FhdGJmbEg0Nk5XMDNaWHY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T19:02:11",
+      "collected_at": "2026-01-26T08:06:29.456170",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "네덜란드",
+          "탄소중립",
+          "롤스로이스",
+          "SMR",
+          "청신호"
+        ]
+      }
+    },
+    {
+      "id": "9efcad2d9d9214b5",
+      "title": "서울시, 생활폐기물 감량 프로젝트로 탄소중립 앞당긴다 - mediaccbb.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mVzFpUXFNQ3BTb2pnWGpjc1NkakY1ZGcwSEdrZ0pkUzJnZENmN1JFUGtrcVdpQ2RMbXJYdU5rV0QzNVFpQVNwcmw0dTYxek5Md1FMandKQmVuUWtVVFNKclpJNzE2TkxfMmNsMENwY1dpdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:00:34",
+      "collected_at": "2026-01-26T08:06:29.456221",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "생활폐기물",
+          "감량",
+          "탄소중립",
+          "프로젝트"
+        ]
+      }
+    },
+    {
+      "id": "fec1dd3116e30d2e",
+      "title": "여수시, 에너지·자동차 분야 탄소중립포인트제 이어간다 - jnnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBraHRiTHQtalRsbFdnMzgwNUg3ZnlPOFRNWE1ZSDVpZTRkR0FVb0RxTF9NOUphWkVES0YzTlR2N3VMbXh4ZEVnSDBFVjlPbE1mUHcwd09vWGNPOTdq?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:41:11",
+      "collected_at": "2026-01-26T08:06:29.456248",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "여수시",
+          "탄소중립포인트제",
+          "에너지",
+          "자동차",
+          "이어간다"
+        ]
+      }
+    },
+    {
+      "id": "99e4361e669c4daa",
+      "title": "한국생활개선무안군연합회, 연시총회 열고 탄소중립 실천 다짐 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA0eWE3M3FoREhmZ0U4VjJ1cDZFS2ZGd2xKQU5JcnNwSXVMamxsQ3ZueW1ESmFmT1FON2FMVEI0bmFjZGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:28:00",
+      "collected_at": "2026-01-26T08:06:29.456322",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국생활개선무안군연합회",
+          "연시총회",
+          "탄소중립",
+          "실천",
+          "다짐"
+        ]
+      }
+    },
+    {
+      "id": "8df2fc80995e4d77",
+      "title": "\"UCL과 '탄소중립 원천기술' 연구 착수\"…글로벌 대학과 접점 늘리는 '현대차' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TSFRJMklueGl4MndWOXpOLTRZTkxOb3NGZTFvRmQyQm5RbFBlQUdPbW5BT29YOFE1bnpxdFpmTzJjRlhES09IdW1RdHI3VGFBM1ow?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:34:00",
+      "collected_at": "2026-01-26T08:06:29.456348",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "UCL",
+          "탄소중립",
+          "원천기술",
+          "연구",
+          "현대차"
+        ]
+      }
+    },
+    {
+      "id": "71541a2e4cfe2f60",
+      "title": "[ESG NOW] '탄소 영수증' 면죄부 시대는 끝났다 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsaFZuVzRUYTlTNGdoMDZ4eS1ZUWRKbXY2M21iVUJyMmw1dlM2NzhYRmtyNzBTTE9vT01qY1YtUm9xMnhhLUlCeGJzaHk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T00:00:02",
+      "collected_at": "2026-01-26T08:06:29.456435",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소 영수증",
+          "면죄부",
+          "ESG",
+          "탄소 배출",
+          "규제 강화"
+        ]
+      }
+    },
+    {
+      "id": "fb75a74d79847c41",
+      "title": "창원특례시, 2026년 수소전기차 민간보급사업 시행 승용차·버스 등 총 111대 보급, 친환경 교통 확대 및 탄소중립 실현 박차 - 서프라이즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5SG01VjJfN1RSQ2FDeDVHS2RRV1FGMUlDSUdFRTZKRDNOYTh5ZmlveTEwSW5ZVkRJRDNuM3NnZW5pbWhxNWNPb195YzVyWV9ZR0V3Yk1WbWliTkxpZWpGcWRzeDl1MkJpYnUwNXVB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:24:51",
+      "collected_at": "2026-01-26T08:06:29.456527",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창원특례시",
+          "수소전기차",
+          "민간보급사업",
+          "친환경 교통",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "f9e78ce097ef8345",
+      "title": "광주 서구의회 '기후위기대응특별위원회 회의 개최' - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0ZDR2FtVUU4eTZmeXlSVXhjUC03RW5ZQlR5WFhFZDVFSHgxMkdaRHc3ck8zT3Nuc19BX0RWekZRUF9hTnRYM3U0bVpGZUVyZE54ZlBqYTVNQkdiZTFwclYyRDN0aFVzVXFPd21uZ9IBc0FVX3lxTFBVaUR2OWJzcjhQc2Q5ZkNSZEtiMFhuZFhHMkFpQ2JfdzlWNGkzSi1HblVTeHlaWWxiY2stcU1maE0wakRfWGxDU0JYbnFoMy1BRzRpX0plb0J3QTdXaGQxQW9vMDd0TERxUUwxYlBWN2lvaDQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T05:23:13",
+      "collected_at": "2026-01-26T08:06:29.456653",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "광주 서구의회",
+          "기후위기대응특별위원회",
+          "회의",
+          "기후위기",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "839063a29ac153bf",
+      "title": "제천시, 탄소중립과 기업의 대응전략 워크숍 열어 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81ckF2Y2hEWTEwc3d6RXMwVzY5ZDFua2UzOWhDUHczN3ZOWk5qeEptRUV5YWt1Zk1jUi1JVFFRQVRjaE96ZDdfMnFQZDlhdFdQNHVUWWFjSjZ1NUEzVHNUUndWU1ptbTVMNWg0WG83TGLSAXRBVV95cUxPLXVxaUQwLXRPVXVYM0g4VXY5bjNkckF3TkJTalI5QTdjUEZiOWVCcF9KMGNZU2dFcEZIb0NTQy1uYmVNc19BSmg2YlVYWFM3VGtRN0FFclBFU3dGbHFLMUQ2S2xRa1ZBcFhKcng4QW80UnB4ZA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-01-25T23:10:00",
+      "collected_at": "2026-01-26T08:06:29.456895",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "탄소중립",
+          "기업",
+          "대응전략",
+          "워크숍"
+        ]
+      }
+    },
+    {
+      "id": "d0d41f422eb73684",
+      "title": "에너지공단, 제로에너지건축 대지 외 재생에너지 활용 시범사업 공모 - 전기저널",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5QUg0a1VZWmpQTHJlNHZZUDNTZkp2dGJDTFBTVXpVT1VyOFlsTy1ibDhsMlBVUFBJRi1lRl9qbUxVckdWZ0tCLW90VWtGajdjVjBwX3RTVDNDZ3dObElSZg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T05:08:18",
+      "collected_at": "2026-01-26T08:06:29.590120",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지공단",
+          "제로에너지건축",
+          "재생에너지",
+          "시범사업",
+          "공모"
+        ]
+      }
+    },
+    {
+      "id": "ee212b2032fd8db5",
+      "title": "제주감귤, 전국 최초 '재생에너지 100%' 생산...\"1차산업 에너지 혁신\" - headlinejeju.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GbXMxSl9TM0ZWR05jM1BIai0wUDY3RHRmSDFUUW01NWZFLVJrY29iRFZTbXJXcXBidjF0MktWUm95Wm51Y3F3M25pVlJtYkF3emVldjdhM0ZfbnFTM0MzYTNnR0x6RHZoTHpjSHptbkt1NmM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:00:00",
+      "collected_at": "2026-01-26T08:06:29.590155",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주감귤",
+          "재생에너지",
+          "100% 생산",
+          "전국 최초",
+          "1차산업 에너지 혁신"
+        ]
+      }
+    },
+    {
+      "id": "017816d37dbf0551",
+      "title": "\"재생에너지로 키웠다\"…'RE100 감귤' 제주서 전국 최초 출시 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZanFNei14WWdOTGJ6OHNESUhfanppM3RqWXJhVGNrMlFvMmlKMnBReGhzX3p2YkE2V250NTdyZVFrdGF5YWNuaGZYd3J3SFJ4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:55:17",
+      "collected_at": "2026-01-26T08:06:29.590184",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "RE100",
+          "감귤",
+          "제주",
+          "전국 최초"
+        ]
+      }
+    },
+    {
+      "id": "af5208e980b01ffc",
+      "title": "정부, 재생에너지 확대 속 태양광 수급 관리 체계 고도화 나서 - 솔라투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bldZb0ZPTXVQLWpzV2E5dkdXYThEVnE2WEpENjR3aFR0cV9NcDl5eUMxZEpvdGJLYmg5QXMwTGFjaHVGZzF2YzBrdE5Fay1Md3lVdWpmQ2R0a3NERzdxaXFfQV9peFphS3BrUTltSDY?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T05:38:36",
+      "collected_at": "2026-01-26T08:06:29.590211",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "재생에너지",
+          "태양광",
+          "수급 관리",
+          "고도화"
+        ]
+      }
+    },
+    {
+      "id": "4f1affbe518f1835",
+      "title": "“광주·전남특별시 재생에너지 발전 사업에 한전 참여 허용은 불공정” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15UEhtdmljWnlTbmhiME9VQ3Y4dFBPVTRLaC1fcVBwRGJuQkt3NUtNZlgzLXNpdkRiYVpwM0FOVFQwdS11NzM3N0lSdkxRZERVRWdRbzRvcGhfcC1JNlllbg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:41:00",
+      "collected_at": "2026-01-26T08:06:29.590237",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "광주·전남특별시",
+          "재생에너지",
+          "발전 사업",
+          "한전",
+          "불공정"
+        ]
+      }
+    },
+    {
+      "id": "a903584f77001a66",
+      "title": "제주서 재생에너지로만 키운 'RE100 감귤' 첫 생산 - jnuri.net",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XS0t4VmlybGpIbTVXbnpUdzNaN1JIdzdQSWQwN1dpT2VsbUZQV3BfUWlRTzl3Z3JuMC11aWxuTHFEQzJwbUNXa0RZOWtxMjJpTXhVTy1STThsS0lX?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T08:01:26",
+      "collected_at": "2026-01-26T08:06:29.590289",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "RE100",
+          "감귤",
+          "첫 생산"
+        ]
+      }
+    },
+    {
+      "id": "52110858cd94133f",
+      "title": "전기안전공사, 풍력발전 산업 관계자 초청 간담회 개최 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFNjlxZ0MxMG1JMENjSFh6aTgxdmIxTWlNbGxYcVNwLWlHalc3TzBuN05OMEozTmZMU0tqM1l5ejFFUk9sSnBSU1QxMVhBZnJSVGJodFpmdWZyaVRNUl9OUlhxQ0hTMXM2N0lfdTVxaUk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:20:55",
+      "collected_at": "2026-01-26T08:06:29.590314",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "전기안전공사",
+          "풍력발전",
+          "산업",
+          "관계자",
+          "간담회"
+        ]
+      }
+    },
+    {
+      "id": "27dc9a441be8f40d",
+      "title": "대형 원전 2기 건설 계획대로 추진, 기후부 \"재생에너지·원전 중심 전력 운영\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yLUFuQ3dyOEozQkZjX3N0cGptdGlnVmVfWktnSWJ4aEpHSjNhUjZ5UTRoSVRTZ2RtQk5vRHRfNXNpUzJJcFktQkxTc21ScElaZ3RuT3FzeUJ5RWwxVzRaQXp3S2xJSmdkMkhaZVhqYy1NUEU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:26:22",
+      "collected_at": "2026-01-26T08:06:29.590341",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원전 건설",
+          "재생에너지",
+          "기후부",
+          "전력 운영",
+          "계획 추진"
+        ]
+      }
+    },
+    {
+      "id": "64fa276927c349e9",
+      "title": "한국전기안전공사, 정부 재생에너지 정책 선도 - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RRlNVRTFvYWd5V01rcHhPMlhSZlp5S0NfM0xHa3hnVnd0NXM0Ynl6QXVyU1F0emFzVkRvekNtbGFQZzZTUE83X01vY3NqYUxfemtOX1Nuc3JXUmd0dDFEWG9wclE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:30:41",
+      "collected_at": "2026-01-26T08:06:29.590390",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국전기안전공사",
+          "재생에너지",
+          "정부 정책",
+          "선도",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "6bf013bb3152ade4",
+      "title": "EU: 재생에너지가 처음으로 화석연료를 넘어섰습니다. - vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xTWxBczR0ZHJ2ZlIzYTdYMC14eHFoSF9ORWpGalhZamhReksxMDd2clFERHFZQmI4R1liOXNmWnhNMVdnLUN2MUNFY1ZiWUpoUzlkRE93OUlOajlITzk4ak9oSDF6VlMxUlhwY2NrWGpBNTJodEUyMQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:50:09",
+      "collected_at": "2026-01-26T08:06:29.590416",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "EU",
+          "재생에너지",
+          "화석연료",
+          "에너지 전환",
+          "기록"
+        ]
+      }
+    },
+    {
+      "id": "cd3a0f1f6018b025",
+      "title": "전남개발공사·한전KPS, 신재생에너지 협력 맞손 - namdonews.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hM2JGOGRrVzZIQi1Kamg2Vm9VXzFZSTcybXJiNzNvb3BDLUJzRWtERkxFc1JXYXJENmp0UWVubHBsbXVxVklvendkc0ozbU5MTW9ZRlB3Ry1RQURJZjlnd3pHNV9xNVBVbVNYYQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:00:00",
+      "collected_at": "2026-01-26T08:06:29.590441",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남개발공사",
+          "한전KPS",
+          "신재생에너지",
+          "협력",
+          "맞손"
+        ]
+      }
+    },
+    {
+      "id": "f2703b5f2c4f9d48",
+      "title": "\"재생에너지 키운다\"…한전KPS·전남개발공사 맞손 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10VWpWa3VralY0eklTY0xVRjdqdjVvYWxub3J6bHJxTENOaXMxdlJIeWxnNG5rSnBERzN0VkF4dnBfWmc0bmtxSndLZVFzQlp6LW04Z1pBdGliSnBEUEpyaNIBeEFVX3lxTE51bG40VnpfN0xLZkowVWVKcXZMa0ItZlJocUhnY3hnSUlqS01ZWHlmUUlTNEllRFJLZXRhWG9WTU91aW5aanVwbjRRWjktU0Q3TnJwQV83MnM3Znc0ZE0zX0hXYnROYm5RUFRjZnRmOFVlalVXSUlhVQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:13:23",
+      "collected_at": "2026-01-26T08:06:29.590465",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "한전KPS",
+          "전남개발공사",
+          "협약",
+          "친환경"
+        ]
+      }
+    },
+    {
+      "id": "457a8ada4508f42f",
+      "title": "서부발전, 순천향대 캠퍼스에 재생에너지 보급 - 전기저널",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wbUdtYS05cm9NN2dadWt1SjRNVEdnLURjZUlkUmt1ZVZkZnpPMk5CajdrZ2JqUG5QVTM1b2FNbDY2cEVrUU5oZlRDMGJveFdzczNSc2VpeTlMSlFvTWNJaQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T05:03:21",
+      "collected_at": "2026-01-26T08:06:29.590556",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서부발전",
+          "순천향대",
+          "캠퍼스",
+          "재생에너지",
+          "보급"
+        ]
+      }
+    },
+    {
+      "id": "1e88ab68bbb9d02d",
+      "title": "전남개발공사-한전KPS, 신재생에너지 사업 맞손 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00QmhBRXVRTDVybVh1WEp6dWRDdVhCaDQ0SjlTQkxqc3NYdW9idzFMM0Qzc0h0V0FYRUZudlRWektzRTEya1hIZWU1dGxXSkZpYnltajVKWk45eURWa0Jn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:27:14",
+      "collected_at": "2026-01-26T08:06:29.590578",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남개발공사",
+          "한전KPS",
+          "신재생에너지",
+          "사업",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "8f9fa756c2ddee27",
+      "title": "전남·광주 “한전에 발전사업 허가 추진”…민간 태양광 반발 - 에너지경제신문 모바일",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10NFktenpGSTRkb1FNX3hVdVZXWEFydFR3SVh3VHpHNEZqVmJJSWxnSnN6SmdQQUZmVWxwM0dYVS1EZ1ZOUjdUTXp3a09wN2U1djVDYllmRUh3RGo1RnlLRTRWYw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:59:07",
+      "collected_at": "2026-01-26T08:06:29.590603",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "전남",
+          "광주",
+          "한전",
+          "발전사업 허가",
+          "민간 태양광"
+        ]
+      }
+    },
+    {
+      "id": "57775c2883c773cf",
+      "title": "한전KPS, 에너지 대전환 전남 재생에너지 자원 활용한다 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0dEVtNFcwVGV5WDY2VjU0WE10QTlZTHZfeUZLWDNoOGNSYnRwQzQyZGh0TWw5SjRfbWgydHItLW9pdzlNaUFwQWRNZFpNTTE2bDkzSGpnb1BaSzdJNDRidtIBeEFVX3lxTFBjV0ZUVDZoOXB2U3hOM0Vqb2RCbzVRX01YRTEwZ3FTQ1FKN0FuUEVReExmczF1VXRodjRmc3JsbHc0cktNNjZCaFlsR3dvYy1NV2w0RjBZNldNbnNDUUhsWW1kSWxlX1hUX2JnS1M3V2VnSnB4LVdSbQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:43:35",
+      "collected_at": "2026-01-26T08:06:29.590627",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KPS",
+          "에너지 대전환",
+          "전남",
+          "재생에너지",
+          "자원 활용"
+        ]
+      }
+    },
+    {
+      "id": "f224c9f4930fe360",
+      "title": "재생에너지 100%로 생산…RE100 제주감귤, 전국 첫 출시 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxdi1GTl9vX3hpUVl6YlMzRFN2UXVaYk5tTDJZMks4eGpCVVlFMksxdTNqcUsyWG54d3Q3MkUtSTAyZE44YW42aFZSMy1taWVtSzRCdnF4ekR6ckJfeGs3dtIBeEFVX3lxTE16WXFkcVNJUkt3ZTVsQWVqTVhoZW5zdGxwaF9PTlNiS0gyNzY1UmlwNlJKdDNoOGxxWGpUR3haNlo4SWFkRGdPa0N4WFc0em82YUxWUm1uSVlTeFhnTkg1ZGlLR0Q1d1hpeXFiT2JMb2FFTXA1cVhCSg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:42:31",
+      "collected_at": "2026-01-26T08:06:29.590651",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "RE100",
+          "제주감귤",
+          "전국 첫 출시",
+          "친환경"
+        ]
+      }
+    },
+    {
+      "id": "9277e67c0b9c5baa",
+      "title": "기후장관 \"신규원전 원래 계획대로...'재생에너지+원전' 주축\" - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nRjE0d3cwZzNKMFBxV1hiN2NGY1o1Rk9SSjBiMGpjQUVHNmZFYXUzc2NKM1NoX2pqMXFiNHVtRGdHUG1kQkZQaWEySWt1Y0ZYRFk4UVVqeTdNTnA0ajNN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T06:30:44",
+      "collected_at": "2026-01-26T08:06:29.590723",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후장관",
+          "신규원전",
+          "재생에너지",
+          "원전",
+          "주축"
+        ]
+      }
+    },
+    {
+      "id": "e4aae71ccf6e7083",
+      "title": "기후부, 신규원전 건설 계획대로 추진...\"재생에너지와 원전 중심 전력 운영 필요\" - 열린뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOcFN1YktVYmMxMmExLWs0MUUyY0RtZUZLLTk2NGNhZTBoLUhBMG85cjJ5M3VfSzl5S2JmeU80cTQyRGFnbjRUajJQdmFJTlhRcXJCS3pzeGRORnFaekVRWXdoa2VHdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:15:53",
+      "collected_at": "2026-01-26T08:06:29.590769",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후부",
+          "신규원전",
+          "재생에너지",
+          "전력 운영",
+          "건설 추진"
+        ]
+      }
+    },
+    {
+      "id": "e91fced440720c58",
+      "title": "김재준, 군산시장 출마…\"새만금을 신재생에너지 수도로\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yVUx6SFpQRXJYMXg1Mko4TUwxY1lWQVBGZjA2VTQ5d3pBV1dYdVNocnpYSkFVdGVwZWZtMllfY1dXU2o5bEl2RHBHQTRBM0RKcVA4VVRLOC1NY0NlTjdCN9IBeEFVX3lxTE4wQnItVHRKT1pvbWx2SU1USmhVRnprRmp5X2c1cWt2Sjkza2tFZlREX2FpWTRCaERxTXZ5bFExTkdvbjZCQUU3SGtKdE9qSDhZX1RzVVpqVmxvSWxUYkk1YzZBS1pvNnI5bm9MVG8zYTRPNmFHajZJRA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T04:06:00",
+      "collected_at": "2026-01-26T08:06:29.590815",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "김재준",
+          "군산시장",
+          "새만금",
+          "신재생에너지",
+          "수도"
+        ]
+      }
+    },
+    {
+      "id": "f76aef68686fb0e3",
+      "title": "광주 시민단체, 한전 재생에너지 허용에 \"독점 특혜\" 반발 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iTGxBQU9aakY1cUhCc2dNSmdQZFdfS2F1RXhwZHhFck1WeGo4NHpOWHVZdUZIVWd4V0s1VDNZb1JGYW93aUZOdDZpNk1lLTg2bDZ3dDBoemN1ZGVxN1kzMNIBeEFVX3lxTE16clFfT080Smh1WkFRTG5WcUcwZGotU2J1cnFPR3JaTllmQ2I5eXRHb1UyV09lemo5dWFjaURwMUlxYi1VNHZMYkJlZEFjYzdWLW8zTmctX2lhMXRDV0NOM0l5YWUxYUxwV09ESHFYVmxfdVM2Ym0tYw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:04:58",
+      "collected_at": "2026-01-26T08:06:29.590839",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "광주 시민단체",
+          "한전",
+          "재생에너지",
+          "독점 특혜",
+          "반발"
+        ]
+      }
+    },
+    {
+      "id": "6455e0a695dddf29",
+      "title": "전남개발공사-한전KPS, 에너지 전환정책·탄소중립 실현 공동대응 '맞손' - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MTnFYTjJzMnk1Q0pqOVJkQ0JMamRYODdEUnQ5Wjk5aS1jMDF2RmJfYXZuQ1RhOVlnMjNLbklzaTNSRVNENGJ6N1BnYzJERlFMeG5kb1VzczAySXM0QzlVNkpqbkQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:12:10",
+      "collected_at": "2026-01-26T08:06:29.590888",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남개발공사",
+          "한전KPS",
+          "에너지 전환정책",
+          "탄소중립",
+          "공동대응"
+        ]
+      }
+    },
+    {
+      "id": "988a892f597d488d",
+      "title": "재생에너지·원전·전력망 패키지 수출 추진 \"필요시 적극 진행\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PYzRqWGpmSC1WcGFCS3NIdFlDY0lENmdOXzZ3OWU1N2ZoWm01d2h5enlMcUhCOXVVcS1hSE9kWThWSkZ5SGR0U055SVJ0NEs1TVdV?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:52:00",
+      "collected_at": "2026-01-26T08:06:29.590914",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "원전",
+          "전력망",
+          "패키지 수출",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "699cde88451b8719",
+      "title": "'재생에너지로만 키운 감귤' 제주서 RE100 감귤 첫 생산 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14anR4VDBMTHB3c3BsMkdqQ21wR3laaTdnRHUxTEx6Mm1MM1dnNzJwYnhLWlkzRlIyNkg1cVY1V0l5WmlOTkx2bklxaXBKU09Pb05z?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:01:00",
+      "collected_at": "2026-01-26T08:06:29.590972",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "감귤",
+          "RE100",
+          "제주",
+          "첫 생산"
+        ]
+      }
+    },
+    {
+      "id": "a79998e07203279b",
+      "title": "에기평, AI 연계 영농형 태양광 스마트팜 개발 추진 - 에너지경제신문 모바일",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LWllrMDFBYUhyWjhJTnpsMWtDZ0VaOGR0WXVxOWZfYzZQdWRWTGFadHdEWFRDel9xU2JoT3MxeVFkVUQzWGJGeGJOSmRNVGIzY2pxT2tRUFBBcExpWHpDVk5EMA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T02:18:17",
+      "collected_at": "2026-01-26T08:06:29.591045",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에기평",
+          "AI",
+          "영농형 태양광",
+          "스마트팜",
+          "개발"
+        ]
+      }
+    },
+    {
+      "id": "368c83c8fd603476",
+      "title": "전기안전공사, 풍력발전 ‘검사 문턱’ 낮추고 ‘안전’ 입힌다 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRUZtSVZKXzN4TXZBdHBfQjZ6QzhCZm1FbVF2VzFHNzY5TlJVc19vUmVpdTFOVXdzUjJnRVJ1SS1qN0ZKZkozOEtfU0R0cUwwUndVUVR6eUNBSXlwaklza1Y5aDZtRTg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:30:02",
+      "collected_at": "2026-01-26T08:06:29.591092",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기안전공사",
+          "풍력발전",
+          "검사 문턱",
+          "안전",
+          "규제 완화"
+        ]
+      }
+    },
+    {
+      "id": "30d6f5af0717e007",
+      "title": "농업도 RE100 시대···제주, 재생에너지 감귤 전국 첫 출시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuRzlJcm10NDBwTE1uOHVDT1MtZXhITGxGTTVpSjliUkx0a29SdWRYVjJTck90THZlYkxZdzJpZTFQZ0dWVE5wMWxJYnk0N1BLQ19j?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T07:42:00",
+      "collected_at": "2026-01-26T08:06:29.591223",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "RE100",
+          "재생에너지",
+          "농업",
+          "제주",
+          "감귤"
+        ]
+      }
+    },
+    {
+      "id": "929b3348e4394614",
+      "title": "신규원전 건설 원안대로 추진…\"재생에너지·원전 중심 전력 운영 필요\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMb1p5eWNtQV96eUdhSUwyWXVkd2pwOEZKWVJDN2U4SzVsTDZKNXNwYVdfelJsRFcxS0FIUEZfQU1BcnRBS2dEcHV0enZaOHFTVW5r?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:31:00",
+      "collected_at": "2026-01-26T08:06:29.591264",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "신규원전",
+          "건설",
+          "재생에너지",
+          "전력운영",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "1b353e58c168ecdc",
+      "title": "정부, 대형원전 2기 신규 건설 확정…김성환 \"재생에너지, 원전 중심 전력 운용 필요\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtQ2cyN1BwajdFYzZVTTBROTBobFlzRE51T1hIS1lPdERUTWwxb204WmpZNUtqclhIWVRJRE5ITVpXXzNXaDBSN1o5a1FLakJzb3ZN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-01-26T01:57:00",
+      "collected_at": "2026-01-26T08:06:29.591540",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "대형원전",
+          "신규 건설",
+          "재생에너지",
+          "전력 운용"
+        ]
+      }
+    },
+    {
+      "id": "0e0998c76d507e3c",
+      "title": "농업도 RE100 시대···제주, 재생에너지 감귤 전국 첫 출시",
+      "link": "https://www.khan.co.kr/article/202601261641001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-01-26T07:41:00",
+      "collected_at": "2026-01-26T08:06:30.239520",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "RE100 감귤",
+          "재생에너지",
+          "제주",
+          "탄소중립",
+          "청정에너지 농업"
+        ]
+      }
+    },
+    {
+      "id": "65438e1041bf87c2",
+      "title": "Reimagining agricultural governance in the climate change era [Commentary] - Mongabay-India",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTBVS09hbFczOG0xQTNwZWoxdUFDMFpwOXVRaUJUNEw4RUNvV1JqalZHc21JSEpTQV9qbzZFTmQwZWlhTDNsdVZVUmdkVEgtbVVJOFdNOXg4LUpweWdNcWI3dTl6VnRxcklIMFFNNUdsUHZTV0tiemxORTdVOUNJY0hKVzFyeWpUZFNTYzNaRXF5MGxlN1FXeXgyRmdtSGZkYjhPVnhES0Jmb2ZH?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-26T06:28:10",
+      "collected_at": "2026-01-26T08:06:30.822688",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2c2f75da5f9e1035",
+      "title": "Climate Change Threatening Future of Winter Olympics - RealClearEnergy",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1hyTG41bXE4TzJzY09IYXVYOW5Eb3VkODF3Q3Nab19HTFRBclo5NkVZSGFKZGNJdXdCOE1XeDR0a0IwSDg3N053cDNickN1WUhFUmlaTWxSTkRIWVdQMHhRanFzUmk5Mzd2WDNJMXNKazZfYzJRX3F1eW53cWFiZ0Y4aWtBWEluSm9HQnAyS3hkZFFvU054SS03cjhUOC02c3NSMnZCZ005T3dS?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-26T05:26:36",
+      "collected_at": "2026-01-26T08:06:30.822759",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 동계 올림픽의 미래를 위협하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "동계 올림픽",
+          "위협",
+          "미래",
+          "스포츠"
+        ]
+      }
+    },
+    {
+      "id": "fd94b4f3b6af7930",
+      "title": "Zambia, Zimbabwe ignore climate change risks, proceed with hydro project on drying Zambezi River •There were serious misgivings about the viability of the long-stalled hydroelectric project on the Zambezi River due to the worsening effects of climate change - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNWmx3VGFLWGREeURFc1FPeUFBZlBFckJjYU8xSVBKYTZtc2Q5M3h6dXdHQmZRaC1kMHR4X3NranhXdWtPUTB0ODQ3NlYyc0wxUTF0ZWEwOGhfbk04b3JPUlhWOGp5TEpLNXpNQmgzSUoybWRlY1ZTSmFHZ1RGNFEtMEVSaGhwT2IyVDN2bC1ZczlzRTZkT1NuSlkySGh0S0txMnJJMlprR3Z2SFltVk1ScjJkQlpBZEl5X3VnOEdqejhJazZ6dk5ZZUZuejVmZmVqdmM4Skc4SkZobVQyTkQzRVhUZ0M?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-26T04:43:59",
+      "collected_at": "2026-01-26T08:06:30.823050",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "잠비아, 짐바브웨, 말라가는 잠베지강에 수력 발전 프로젝트를 추진하며 기후 변화 위험을 외면"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "잠비아",
+          "짐바브웨",
+          "수력발전",
+          "기후변화 위험",
+          "잠베지강"
+        ]
+      }
+    },
+    {
+      "id": "e36ba3b823e15e49",
+      "title": "How Permanent Is Trump’s Assault on Climate Action? - The Good Men Project",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2FGbzhINUNKQ1EwdXlkazRacnhjYU5ITV9ieVdQV2lQSnNBbW44My1yNkstRjU5QzBWdGJQZlZaZG45LXNrQmtFNEN4VWpKSWZIRmkwU0ZGX1pCNHh4blVqQU5PYWttOVRUWmNRTUR4b2RTVTVEeVdPQ1Z0TWRaa2pxUXRTOTVlYnd0ZkJSd20wMWpzOXVLZlRB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-01-26T07:31:31",
+      "collected_at": "2026-01-26T08:06:30.823716",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "트럼프의 기후 행동 공격은 얼마나 영구적인가?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후 행동",
+          "공격",
+          "영구적",
+          "정책"
+        ]
+      }
+    },
+    {
+      "id": "7cf23bddfbd0ba7a",
+      "title": "European nations reinforce wind power commitment with 100 GW pledge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0FYWUUxZjQ5ZDF5dXd1SV8wNTRjVlREQmppR3pTYVJQbkdZYjcxMzU4UExPcXBUdzRHdUNRdFVCTnJPeFp1UHpmb0tWRlpRUmVqNTEwN0xYSzJ3Qlg3NTRuUTRsZWVLUHh4SUJveGJmZTRkMkFkTDFDSG5tRnBlTU5yUzJhdVhvUGw5SVo5bUt0azdHam1tOWJMUjRaMDB6QVJOQTlDc0VjSXZYM0hzcnh1RTJRbTlQRTEtbzgxd2t4aGZZV3Q0WV9Tc2NNdw?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-01-26T01:26:00",
+      "collected_at": "2026-01-26T08:06:31.354726",
+      "keywords_matched": [
+        "wind power"
+      ],
+      "translation": {
+        "title_ko": "유럽 국가들, 100 GW 공약으로 풍력 발전 약속 강화 - 로이터"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "풍력",
+          "100 GW",
+          "공약",
+          "강화"
+        ]
+      }
     }
   ]
 }
