@@ -3,22 +3,18 @@
   "source": "NOAA_GML",
   "location": "Mauna Loa Observatory, Hawaii",
   "source_url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_daily_mlo.csv",
-  "collected_at": "2026-02-05T08:13:30.071594",
+  "collected_at": "2026-02-05T23:10:30.850789",
   "unit": "ppm",
   "latest_daily": {
-    "date": "2026-02-03",
-    "co2_ppm": 427.98
+    "date": "2026-02-04",
+    "co2_ppm": 428.87
   },
   "latest_monthly": {
     "year": 2025,
-    "month": 10,
-    "co2_ppm": 424.54
+    "month": 11,
+    "co2_ppm": 426.48
   },
   "daily_data": [
-    {
-      "date": "2025-12-29",
-      "co2_ppm": 428.22
-    },
     {
       "date": "2025-12-30",
       "co2_ppm": 428.44
@@ -134,14 +130,13 @@
     {
       "date": "2026-02-03",
       "co2_ppm": 427.98
+    },
+    {
+      "date": "2026-02-04",
+      "co2_ppm": 428.87
     }
   ],
   "monthly_data": [
-    {
-      "year": 2023,
-      "month": 11,
-      "co2_ppm": 420.4
-    },
     {
       "year": 2023,
       "month": 12,
@@ -170,12 +165,12 @@
     {
       "year": 2024,
       "month": 5,
-      "co2_ppm": 423.94
+      "co2_ppm": 423.95
     },
     {
       "year": 2024,
       "month": 6,
-      "co2_ppm": 423.22
+      "co2_ppm": 423.23
     },
     {
       "year": 2024,
@@ -200,7 +195,7 @@
     {
       "year": 2024,
       "month": 11,
-      "co2_ppm": 424.07
+      "co2_ppm": 424.06
     },
     {
       "year": 2024,
@@ -210,27 +205,27 @@
     {
       "year": 2025,
       "month": 1,
-      "co2_ppm": 425.97
+      "co2_ppm": 426.0
     },
     {
       "year": 2025,
       "month": 2,
-      "co2_ppm": 426.4
+      "co2_ppm": 426.45
     },
     {
       "year": 2025,
       "month": 3,
-      "co2_ppm": 426.54
+      "co2_ppm": 426.6
     },
     {
       "year": 2025,
       "month": 4,
-      "co2_ppm": 426.87
+      "co2_ppm": 426.94
     },
     {
       "year": 2025,
       "month": 5,
-      "co2_ppm": 426.84
+      "co2_ppm": 426.92
     },
     {
       "year": 2025,
@@ -240,22 +235,27 @@
     {
       "year": 2025,
       "month": 7,
-      "co2_ppm": 424.28
+      "co2_ppm": 424.21
     },
     {
       "year": 2025,
       "month": 8,
-      "co2_ppm": 423.07
+      "co2_ppm": 423.02
     },
     {
       "year": 2025,
       "month": 9,
-      "co2_ppm": 423.12
+      "co2_ppm": 423.15
     },
     {
       "year": 2025,
       "month": 10,
-      "co2_ppm": 424.54
+      "co2_ppm": 424.73
+    },
+    {
+      "year": 2025,
+      "month": 11,
+      "co2_ppm": 426.48
     }
   ]
 }
