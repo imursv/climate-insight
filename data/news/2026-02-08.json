@@ -1,16 +1,16 @@
 {
   "date": "2026-02-08",
   "metadata": {
-    "collected_at": "2026-02-07T23:14:10.749679",
-    "total_articles": 20,
+    "collected_at": "2026-02-08T08:10:41.407835",
+    "total_articles": 62,
     "sources": {
-      "korean": 3,
-      "international": 17
+      "korean": 39,
+      "international": 23
     },
     "sentiment_distribution": {
-      "positive": 3,
-      "negative": 11,
-      "neutral": 2
+      "positive": 40,
+      "negative": 12,
+      "neutral": 4
     }
   },
   "articles": [
@@ -517,6 +517,1089 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "43c2a4bd780d5fac",
+      "title": "경남도, 기후위기 속 양봉농가 37억 투입 구조 개선 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VVptQWRyM0I4bS1UeWZkTzlkdzkyMnhJdmRLYS1XR2hJeXg2QVZTeWxUanBqRm95RlRaeHhsMTJIZ3lYT2IzbzVrRVFnMmFET2F0S3J5b3RYM1F4ZnJlWVdQZVlvWjRI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:52:54",
+      "collected_at": "2026-02-08T08:07:16.768593",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "기후위기",
+          "양봉농가",
+          "37억 투입",
+          "구조 개선"
+        ]
+      }
+    },
+    {
+      "id": "bd4d53f7c4d0973b",
+      "title": "기후위기 대응 최전선, 공무원 역량강화 나선 경남도 - 누리일보",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVU9vYk1CeGszcjVlbjZuZzltWGxJVWM1RFM3R1F6OUVYa3hIemxjNGxBVzFPWENPZ1Noa0lVejZqdUU5Skt3QmRPN2owYU00M0s4bWx3dDJHc3FxcFJB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T07:51:09",
+      "collected_at": "2026-02-08T08:07:16.768670",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응",
+          "공무원",
+          "역량강화",
+          "경남도"
+        ]
+      }
+    },
+    {
+      "id": "63fa0e21492eade7",
+      "title": "\"학교서 배출하는 탄소 줄인다\"⋯서울 모든 학교서 탄소중립 실천 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4ajhwMGZYQ1hfdnYtTGVPSjh4UXl5T2FhNGg2TUNScHloNFZpRTR1Z09MTDB0WTNHZ00xUVdDM3ZlbDNqV0k2aDFuZWZ2elRoSDFoZA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:00:00",
+      "collected_at": "2026-02-08T08:07:16.657379",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "학교",
+          "탄소 배출",
+          "탄소중립",
+          "서울",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "97e35f763e1ee5ed",
+      "title": "서울 탄소중립 중점 학교 44개교 지정…에너지효율 강화 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiVTdxU2J4cDNkS3haWFpDbWFQZXRPekIxWnlEZ2xmd2FRcXRJRTZ4VmtmVmpoS21CS0o2SXJNVGU2bHlKU2RSdGtOU1dqOTBXQUN2SnNPdF9RVVZhRVBqLQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:00:00",
+      "collected_at": "2026-02-08T08:07:16.657457",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울",
+          "탄소중립",
+          "중점 학교",
+          "에너지효율",
+          "지정"
+        ]
+      }
+    },
+    {
+      "id": "3d4dee9b6ecb1516",
+      "title": "충남도, 노인 일자리 연계 탄소중립 실천 - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02WHRoNGpvTW1USlVLbmZqaHlnb3hKaV9ZWmRlU21KUXA3c2xtVHhiRTZ3WHJ6azdfQ01MYzRHRDhLRGhXaEV2YlpJWmJPRnd1NmdsQUg5M1ZXMFVyRFh4Vlh5Y0loMGh5SlE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T06:13:56",
+      "collected_at": "2026-02-08T08:07:16.657522",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "노인 일자리",
+          "탄소중립",
+          "실천",
+          "연계"
+        ]
+      }
+    },
+    {
+      "id": "5185d68bb13bc9e1",
+      "title": "서울시교육청, 모든 학교 탄소중립 실천 본격화…자가진단·맞춤지원 확대 - 교육플러스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tOHNTa1VEUUxmQnJ5OHN5X2Q2MHJ6QzJETFZ6Q0F0OXdzLXRXaHpiR3pDaWlDdV9yQkhLQnZQdmFEWVpLT3liZHBoUlcxbU8yYjd4YVRNQXNDbHF6R19tTGM0bmw1SWc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T01:38:20",
+      "collected_at": "2026-02-08T08:07:16.657607",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "학교",
+          "실천",
+          "맞춤지원"
+        ]
+      }
+    },
+    {
+      "id": "67691d875c44563b",
+      "title": "[기자수첩] 서산, ‘석유화학의 심장’에서 ‘글로벌 탄소중립 전초기지’로의 대전환 - 충청타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoOTZlVDMtLUpZTV9hTmpwenF3aG9ReFQ1cTA2aEdzM3VLX1BpQzktSTI3LVUyS0ZDN3Izd2d4MkkyUnUxTXVIbXZLLTRPOHdpMmFrNXNHNzA3RkNKWW1hNG1YbFpFak95?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T06:21:00",
+      "collected_at": "2026-02-08T08:07:16.657634",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서산",
+          "석유화학",
+          "탄소중립",
+          "대전환",
+          "전초기지"
+        ]
+      }
+    },
+    {
+      "id": "e8b2c84992f9fe7d",
+      "title": "서울시교육청,'모든 학교에서의 탄소중립 실천' - 청년투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9WcXRyNVdMamNPVkZQYkM2NnVGdzlJZWhwLVduM292WEhGRDlGMmRPWGh5ZzFxUUVlS2U5ZUZ1b28wM2sxb2RKUVd2Nk1LRFY1cDhSZGNkN3Z2NzMzY25lc0s4NjlmRXVPQ3c?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T06:31:53",
+      "collected_at": "2026-02-08T08:07:16.657659",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "학교",
+          "실천",
+          "기후교육"
+        ]
+      }
+    },
+    {
+      "id": "ac34b344862706ca",
+      "title": "[탄소중독에서 탈탄소로] 현대모비스 ‘부품사형 탄소중립’ 속도 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rd18telZGSG41cDVpNUlPdFp0Nk0zMjFpa1VSc1ZzckdXU05yQ1lLTXZUamZOMnZXODBFQnZOelpqRV9rbUM5X25WVDJtOGRDcHo3MzJZWlRPYVFWbHNaR3h0enRwUnFUdl9haDY3REjSAXRBVV95cUxOTWdWNFBuaEU3cGxybHdzMS0xSkZpTHM5U0wyTTMxaVo4Mm82UXBWeXRBMF9Vd01ZSDdZZ2Ftb1J1S2pDUGItZlhCczY0eGczZzhIQW5TM1RhWWd4MzJOc1ZRQm5GSUFnYVlMUWRTWklJSXJhWA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:38:05",
+      "collected_at": "2026-02-08T08:07:16.657701",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대모비스",
+          "탄소중립",
+          "탈탄소",
+          "부품사",
+          "속도"
+        ]
+      }
+    },
+    {
+      "id": "f7ad0df1a6dad978",
+      "title": "[경남] 기후위기 대응 최전선… 경남도, 공무원 탄소중립 역량 강화 - 해양레저신문",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VUjNJSVhkNVRZRUpMc1h2OEdEeFpxUDJmVlMwSWZYNVlNbzRvZVljUFo3RFc5amUyY2V3azJidWY0Q2Rrc0Y5UTVoZXpHYmwtT3ZLaGo2Yw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:46:00",
+      "collected_at": "2026-02-08T08:07:16.657731",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "기후위기 대응",
+          "탄소중립",
+          "공무원",
+          "역량 강화"
+        ]
+      }
+    },
+    {
+      "id": "9835e8842a2badb1",
+      "title": "서울시교육청, 2026년 ‘학교 탄소중립 실천’ 본격 추진 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vUlROUTRpVGR1ZEozOUhtYU9Oejc4U3NyekdldWFGTjg3eFNyMzFuRmcyaGw0VlNPdFh2MnctdktYTUVhd2ludlJudF9qTjVUaHFwaG1Ocm1UeFZidjF4ZVVBdUZvejBIMFhCWFpFRnV4N2PSAXdBVV95cUxPVF9sNXN4cENhdVl1ZjlCcEdRZmRidHRsVkVwTkk4MUh6dXZrMFQtaXhEY2x6akpsVGswUUZaX3RsV0wxc2RVLWQ1X0pxSUZyV0hwY0hiU016SDM2Skd2T0k2eXpSS3lEeGhMVmVodk4xWEdPcmt3TQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T01:05:44",
+      "collected_at": "2026-02-08T08:07:16.657758",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "학교",
+          "2026년",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "c7dd0cc2d84e8f86",
+      "title": "서울 학교 '탄소중립 의무화'…자가진단 도입·중점학교 44곳 운영 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1femEzR1p0ZmtfM0xNRW9vcEtIbUxMUk02M0c5Sk1tM2l6cmw0Q0lIZ19DVFVjTG9fWkJsVGpTaUlnbFUzUGdHS01BSWc0N0ZzSFZKM0VZNFltZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:00:00",
+      "collected_at": "2026-02-08T08:07:16.657785",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울 학교",
+          "탄소중립",
+          "의무화",
+          "자가진단",
+          "중점학교"
+        ]
+      }
+    },
+    {
+      "id": "9f6b184c98c48678",
+      "title": "“울릉군, 탄소중립 친환경섬을 향한 전기차 보급사업 시작” - 한국시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvaWk0UTFZNnF6UDNPTmdYek43cHdLQXlzcWtaQ0t4aUJPb0hJbVFzMnJ3MHZmXzN5RHFwWmNITi10eFdmclBBZ21NWVhjUEpWLUJPYWhlekNhUzIwTkNkVDZLaW9ER3M0QUE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T07:52:18",
+      "collected_at": "2026-02-08T08:07:16.657811",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "울릉군",
+          "탄소중립",
+          "친환경섬",
+          "전기차",
+          "보급사업"
+        ]
+      }
+    },
+    {
+      "id": "392d079f9bed3741",
+      "title": "“냉난방기 사용 줄이자” 서울 전 학교 ‘탄소중립’ 실천 추진 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWTlpc3Q0SmhCNXItZFl0V3ZwdFVLc0gwNm95eHNJQ1NYY0U0cV9Ec18xeFpwMzNVd0Z2RzRNaWZKMUV6QW9qeDMybm5hWlJ4WVgtMTRR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:37:04",
+      "collected_at": "2026-02-08T08:07:16.657837",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "냉난방기",
+          "서울 학교",
+          "탄소중립",
+          "실천",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "4b2f07c62e318fd9",
+      "title": "[한국사회적경제신문] 서울시교육청, 모든 학교 ‘탄소중립 실천’ 본격화…진단부터 환류까지 현장 중심 운영 - 한국사회적경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1obnBMbzNEMDVZcWlucVhIZ0tYMkRwb2pUVk9ZYWZibUNfZkZ3WlpROXNHZVh2ZHYwVTExUC14MllkZlFDR3I3WkFXRnZJQ1JBczdBTEkwdE92ZDA3Sk1B?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T03:55:21",
+      "collected_at": "2026-02-08T08:07:16.657873",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "학교",
+          "실천",
+          "현장 중심 운영"
+        ]
+      }
+    },
+    {
+      "id": "398930b4e88d0675",
+      "title": "서울교육청, 모든 학교 ‘탄소중립 실천’ 추진… 컨설팅 제공 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTWnBTZ2J4QzFNT0VqSEJkc1FucjhpZlZUbHJyeDlPS0s4am1QT2txYXRPY25RUEZnWmVmdEZxblc3bjJiLUlGYlFRb1MyRlpfa3V3NDR4Vm5VZmJGY3BST2EzUWdtRU1PSVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:00:00",
+      "collected_at": "2026-02-08T08:07:16.657900",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울교육청",
+          "탄소중립",
+          "학교",
+          "실천",
+          "컨설팅"
+        ]
+      }
+    },
+    {
+      "id": "9abae64552679a00",
+      "title": "기후위기 대응 최전선, 공무원 역량강화 나선 경남도 - 거제타임라인",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aWEJNS2k5cHRoSURVcjVsYkZkdlFrRGxVcG10UmdRRl9LS0c0ZldKanhsUy11cy1qbHZWNDZ4U0pSenNvbXBDd1dTR0JRWUpzWGYxYlVCX3dVZ0VxeVI2WXB0X2tiQzQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T01:41:54",
+      "collected_at": "2026-02-08T08:07:16.657971",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응",
+          "공무원",
+          "역량강화",
+          "경남도"
+        ]
+      }
+    },
+    {
+      "id": "c364f2f2ec53336e",
+      "title": "부산 영도구, 탄소중립 선도 도시…탄소중립 계획 평가서 'A' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2T3BsZVZjX1MyTW1PbjNyLUVoUWRUQ3JGMHpPTUJzeXFyUFFrWW8yNjZaWkxleEdiRWNTNFB1clFrNUhyVFE1dkZHbUtHdWRSNm5V?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-07T23:47:00",
+      "collected_at": "2026-02-08T08:07:16.657997",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "부산 영도구",
+          "탄소중립",
+          "선도 도시",
+          "계획 평가",
+          "A 등급"
+        ]
+      }
+    },
+    {
+      "id": "1fcad553f63b110a",
+      "title": "삼성바이오로직스, ‘제품탄소발자국 제3자 검증’ 완료…“ESG 경영 고도화” - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3Tkl4SG9lbFd6Mm44N3hvN0JvWGpLeS02VnQxall2c0Y2dWt4eHk3ZUdOMFY5MkFTYzQ0dEJjeXkyZkRZSDMyelZLRFhTWGJEMm1QQ3RNampjRmc1TE5yOE9aSExENmxyVkZn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T02:34:21",
+      "collected_at": "2026-02-08T08:07:16.658044",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성바이오로직스",
+          "제품탄소발자국",
+          "제3자 검증",
+          "ESG 경영",
+          "고도화"
+        ]
+      }
+    },
+    {
+      "id": "746daa22f53f4230",
+      "title": "서울시교육청, 2026년 ‘모든 학교 탄소중립 실천’ 본격 추진 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBONHEtaHF4UjhsdnNJZFhDTUZ2SjA5V1RkeTdaMDVueFpHSDBlbFhjai13N3VpZVphTzNSLVduVE1qV0cyZVBtenNvekpsYXBXbkU2WXVtSm5SM2oyU0FObG8xYTBZbkRmX29Na1V3dzjSAXRBVV95cUxNZGZRYmltb1JnMjltUGVreV9iY1pVTG5YYno4SkxpZzhieTJRdzlLLWhBcXYxRlkzOUh3c0NYREtfdXpYei1qRVVDQ3VOcFNzZndhMmtWbGJicERENTRnLUY5cjdDbU51WVNzRFNSU3FCZ0U5Wg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:35:00",
+      "collected_at": "2026-02-08T08:07:16.658072",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "모든 학교",
+          "2026년",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "1cf6e6a4ea83310a",
+      "title": "서울시교육청, 전 학교 '2026 탄소중립 실천' 추진…자가진단 도구 새 도입 - newspim.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBpS0FETVBmTWVWbzlzNkNkcC04WFF3Yk1rT2RpUEtLYU9wNkVrTW1RbldaRW9Sa1F2VjdSTTE1VzF0WjNpaWpQOFJkeEhKVW1zeTJ4UFQtbC1rZ1kw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-07T23:30:00",
+      "collected_at": "2026-02-08T08:07:16.658123",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시교육청",
+          "탄소중립",
+          "학교",
+          "2026",
+          "자가진단 도구"
+        ]
+      }
+    },
+    {
+      "id": "b7d70a9fd851b3aa",
+      "title": "삼성바이오 \"제품 탄소발자국 시스템 검증…ESG 강화\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mcF9QR0x3QWo1WlM0R19oams1azJEd1Z5UzFyNzJseFU3aTdPOC0yT19LeVpmcHZ3aTJwdE5udUV0Y2c4SGRuQm9scEhJclNKS29ObnpVT3V2TnZpeTVwc9IBeEFVX3lxTFBtUlJMbmpfTjNrLVMxM0JHZ1Jua2NOckIzaTBJbWVvTlZUOVljX3dub0hkb1lzSUtwak9NS2M4TXFNbElTM25CQk9PREo2V056MDgzUmtjclBsNWRWVjVnZzNpZUxaNmhkNjhFbWxmajBTTlZFTlNWZQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-07T23:53:41",
+      "collected_at": "2026-02-08T08:07:16.658283",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성바이오",
+          "탄소발자국",
+          "시스템 검증",
+          "ESG",
+          "강화"
+        ]
+      }
+    },
+    {
+      "id": "1e81d5bea66c8960",
+      "title": "ESG 강화하는 삼성바이오, 제품 탄소발자국 시스템 글로벌 인증 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBybi14Rk9QM3FXTk41dUpKRHdYN2NfYzNJY2dJcEd2Z2VwaWVxUEVXV0prQzZYRkExdHNVSktGWXlvamZwQVo4VzN1N19ycEVuUnRN?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:11:00",
+      "collected_at": "2026-02-08T08:07:16.658934",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성바이오",
+          "ESG",
+          "탄소발자국",
+          "글로벌 인증",
+          "강화"
+        ]
+      }
+    },
+    {
+      "id": "ef02a3518e976592",
+      "title": "삼성바이오로직스 ‘ESG경영 고도화’…제품탄소발자국 제3자 검증 완료 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11WGRGanE1Y3B2SmVscVhrS0hyZktvU2FwVm1DZFJmSlo4N3RTaTZTWlIwRmg5dHZCb2Q1NU1sX05OZlJEZS00U2pSVmlZZW8xeDdZTQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T00:45:00",
+      "collected_at": "2026-02-08T08:07:16.659291",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성바이오로직스",
+          "ESG경영",
+          "고도화",
+          "제품탄소발자국",
+          "제3자 검증"
+        ]
+      }
+    },
+    {
+      "id": "ee724c53652e2578",
+      "title": "경남도, 재생에너지 확대…마을소득·RE100·복지까지 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xTXB0c21CRDJ4dzJ3UnRCN1Y1TFVORmNQZFplTTRrYmtGVkR4MzZ1SWF6ZTRFcWtpMkhtWXpJUGxfSF91bnJlLWpYVWJVYUZpblJ6T0NUb0V1Tjh1MFJrSUZndGZvZTQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:47:20",
+      "collected_at": "2026-02-08T08:07:16.605518",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "재생에너지",
+          "확대",
+          "마을소득",
+          "RE100"
+        ]
+      }
+    },
+    {
+      "id": "cc6123f772762007",
+      "title": "한전, 괌 재생에너지 사업 7000억 PF 성사...보증 없이 '신뢰만으로' - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSlpyN09PZlJmU0h5T1pIV3FWQ0tDWi14RG9pTnZHRXRnSnI0aHA0X0M5dU9GeVpYTWF2UWxjZ1pwRWkxU1ZnaVREdlpOcHVUdDFBYzJJbHhyM3RiQ1RmQTNxTEhVanV0TUFCalNxRVlFWFVjLTR6Z1M1eUxDQkRaa3NNVkF6akRhaU1j?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T08:05:00",
+      "collected_at": "2026-02-08T08:07:16.605561",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전",
+          "괌",
+          "재생에너지",
+          "PF 성사",
+          "7000억"
+        ]
+      }
+    },
+    {
+      "id": "2fb150b36dc232a5",
+      "title": "고려아연 호주 신재생에너지 자회사, 뉴사우스웨일스 州정부와 계약 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Da09xUDJMRU1sMjB1Z19ZWndQRnJOM29QRDlwTjFtYWwzbFJNbzV2TFRzMnMxbm5OMU5sdGkzRTFLVFNUM0tJTmVzczBnZmt3WExyNXpSSzMycjZ5Tjdxb9IBeEFVX3lxTE55Rm5OYUw3Q0o3THF0QVY3R0xnYVRXcUgtSXlzSkUza2UzNl94dlB3VG1PMGNackdhdFpHbDMxZFQzU1o0WWpmV29IaVdCYV9CT25wLWU5RXdfUm5ZbjRpZ3Q1WlFrT0FsRXd4S0JoUDBrcWRsWFNmTA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T05:14:54",
+      "collected_at": "2026-02-08T08:07:16.605706",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "신재생에너지",
+          "호주",
+          "뉴사우스웨일스",
+          "계약"
+        ]
+      }
+    },
+    {
+      "id": "d3221599617ef062",
+      "title": "신한은행, 한화솔루션과 美 신재생에너지 투자 지원 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySG12aWM0YjlSUlh4XzNEUkd2WFdtUWFYVGp3cTdiMF9qNi04ejhHakhJRVhuRU9FWEJKVFRiN1NzNFV5bHJINzI0UnFBNjE2dVNMbGJJbDMtTE00NHpVSHlmQTV5UGhVLXp0LdIBb0FVX3lxTFA1a0FHcUdxLXhCOGlsSF9SSGs2cWxLWWtfaC1jMklSVTZYREJTMlFycVpXQmw2OTUtVzlsdXNRY0FvMFR1QlRuTjNnanVHOFItMmdPMHBSd1drWUtwWU10d1NTSi1PQmVQSElfWHFwdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-07T23:48:14",
+      "collected_at": "2026-02-08T08:07:16.605740",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한은행",
+          "한화솔루션",
+          "美",
+          "신재생에너지",
+          "투자 지원"
+        ]
+      }
+    },
+    {
+      "id": "a955e50b576fe525",
+      "title": "고려아연 아크에너지, 호주 주정부와 '에너지 서비스 장기 계약' 체결… 친환경 사업 탄력 - 이로운넷",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBka1dsZ25Bcnk1emRiWjFuVFNTRlFuZTdBdzhzbmlKbnBQcEV4ZTBsdUhMMU5NOXNZYklHbHR1V3JYLWYzWnZpaUp2bnF0eW1ETl91TEdPcWF2eWdOT2trcUdtRVVNdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:21:57",
+      "collected_at": "2026-02-08T08:07:16.605834",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "아크에너지",
+          "호주 주정부",
+          "에너지 서비스 계약",
+          "친환경 사업"
+        ]
+      }
+    },
+    {
+      "id": "fefd53af1663e447",
+      "title": "경남도, 2026년 재생에너지 보급 사업 전방위 확대 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0TWZXcE1fbkcwTXh1aFV3WTRoTW4ycm9IVFI0ZDRtTGsyN1EyZUsxYmNUdzhYZ2xLeVpnTE9lejgxU2psMUtVcTI3RFhFcGNIM1QtWkYtbDlpOHVhel9ZaHFJbHc5a2w3YU84OUZaN0d3QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T02:07:49",
+      "collected_at": "2026-02-08T08:07:16.605884",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "재생에너지",
+          "보급 사업",
+          "확대",
+          "2026년"
+        ]
+      }
+    },
+    {
+      "id": "917266f1ac29df4b",
+      "title": "고려아연 호주 자회사 '아크에너지', 신재생에너지 사업성과 가속화 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BUk9KX1BVRVRTdnRCeHl5bF9kT2htVzN3aEJZWkJBelMzRzl3QUk4cnQ3bm04TWY0d1l3UGljaEw5UGlocmFZSXozbnpHZS0ySlow?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T06:15:00",
+      "collected_at": "2026-02-08T08:07:16.605971",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "아크에너지",
+          "신재생에너지",
+          "사업성과",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "c87b21ec6ef72a65",
+      "title": "고려아연 자회사 아크에너지, 호주 친환경 사업 ‘탄력’ - 울산매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZQm1ic1JJUzhQcHpJZzZEWml0bFdaeFFLZmgwYlNfMTBRaEJwT2U1RDkyTEhHenRTLXJveHJXeGxHbTlveW9TVmNMbWQwOU8yNm11dzB6RnlfdGN2LXl4X2RKZ25UcXRDVGfSAW5BVV95cUxOSlJRc3lNWlBaM3hicFNKSjE5cXhrbWl5T3JBR1BoWDVVcGMtNFNEcDdqakJ1U3FPSzhFUktZZnpjSXVZcmFHbVVMemVLVFdWMmpiQkg3LUd5azlzU0xibmdUUFo2dkhYbkMzZlltQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T06:21:16",
+      "collected_at": "2026-02-08T08:07:16.605999",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "아크에너지",
+          "호주",
+          "친환경 사업",
+          "탄력"
+        ]
+      }
+    },
+    {
+      "id": "c4c7a0f4f13596dd",
+      "title": "고려아연 자회사, 濠 주정부와 에너지 서비스 장기 계약 체결…“친환경 사업 탄력” - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85cDhmU0dnVUQwWXVEbVA3OV9WaFV3dFIza0pIdVdUdWozeTViYVFzMFZnWXNJSmRjb21HSWFzLUJSV1NaeWFxd0JyTkhOM2VwaHhGYkdB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:36:31",
+      "collected_at": "2026-02-08T08:07:16.606103",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "호주 주정부",
+          "에너지 서비스",
+          "장기 계약",
+          "친환경 사업"
+        ]
+      }
+    },
+    {
+      "id": "ff52c4063b32948a",
+      "title": "‘태양광의 귀환’ 한화솔루션 주가 폭등랠리… 美 보조금 잭팟 터졌다 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2d05TU2txNnNLbm8yVDU1d3U3Q0xzRUc1N3FjR2RhbUN3RUNKVFZSUXJ0TldwUkllVW0zNlJWOTJ3OEFtLXJsc25IczUxNmRYQTdiYWI5U1ZzYlJvUGdBdGUyS185dkowOTliRnc2QmFEcmPSAXdBVV95cUxOejc1R09Fc3NTazhlREhOd1puOVBBZmR4bDZlakNDT0ZEUXhZaVd4RC1MSE1QWm9RTm9YYzJlUEJpVnFPWlVPOU8zdHRsbXVCTmY3aGQzcm9rclFpWXpXb1FaR0tISTFzUXkyY0lkOWwzMktrOTIwRQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:26:06",
+      "collected_at": "2026-02-08T08:07:16.606313",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한화솔루션",
+          "태양광",
+          "주가",
+          "미국 보조금",
+          "폭등"
+        ]
+      }
+    },
+    {
+      "id": "61796d3511b0831c",
+      "title": "고려아연 자회사 아크에너지 ‘호주 친환경 사업’도 탄력 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEOUJ2a1NZWnJ0Wi0wUXlReVA4U1oyN0ZVOVRGRk95N0luZUVvMmR1SlU5WDBIUWJhVlBhVnRCdEpTczZUdnJWQkdFYkcxYVZNcHJYa3NyRlppUdIBVEFVX3lxTE5CZFFJZ2thSmd2YUVQaTZQSzB4cVRlZ2h1VEw2YWpJTDJ5TWNESlZnWlJqcVYtY0NXZkJ2cl9BaWc0ajVXaW9XQjVKQ0hOQ00ycEhfTQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T04:03:07",
+      "collected_at": "2026-02-08T08:07:16.606339",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "아크에너지",
+          "호주",
+          "친환경 사업",
+          "탄력"
+        ]
+      }
+    },
+    {
+      "id": "720ea0e5b78315e4",
+      "title": "고려아연 자회사 아크에너지 '호주 친환경 사업' 탄력 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXRnhlMzlYUVRlNjN6MEJrVGxFeUwwZzdvN1o0NkFxOFh0UkU5dlRlT1J5aXZEM3pBVVk0d0J3OTMxcFBUcDk3bHBBdVp3MW5KNEhv?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-08T05:57:00",
+      "collected_at": "2026-02-08T08:07:16.607028",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려아연",
+          "아크에너지",
+          "호주",
+          "친환경 사업",
+          "탄력"
+        ]
+      }
+    },
+    {
+      "id": "b207d6f21a054633",
+      "title": "The surprising tie between global warming and heavy snow in Pennsylvania - 90.5 WESA",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjRfd0VoaFdvQWtZaGloS1RYRlcwZzljVFhOZVFPdWFrOURIYjZKSlRWX25lLTdCanVXWWJFd2VueXd3bzFtamROVERxNmtQTGhxUlBhNXZRa29MdzR4N3hTX0NsanJMZU9veERlQ2NzODhXWXZsVV9kLW9ETm9Vc1JuTkNvdzQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-07T19:00:00",
+      "collected_at": "2026-02-08T08:07:17.952928",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "펜실베이니아 폭설과 지구 온난화의 놀라운 연관성"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "폭설",
+          "펜실베이니아",
+          "연관성",
+          "기후변화"
+        ]
+      }
+    },
+    {
+      "id": "9f004ccf37f81252",
+      "title": "How climate change is transforming avalanches - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWtEMXo1XzJYcUhYOU1pM0lmRmJqTzhuZW9mVW4wWXQ4OWwtTVNlMDJNUHVPOVVaV2FISTZMZHJSc090Y1JpejRIVWZ5Q2dMWjdGVWwzSXZGbFI1bGtpdDNzVzBRaGUtUnpWbUJZM0NCWURTUkJudDRvZGRTcWk0WFVDQlRlZ3JwQXY4MkFTMXo0WEZLODFzaFcybUhBaklqdkMyUmdFX1l3QVVSSDVlTkIwYV9lWHlNUTdj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-08T04:40:16",
+      "collected_at": "2026-02-08T08:07:17.953035",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 눈사태를 어떻게 변화시키고 있는가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "눈사태",
+          "변화",
+          "영향",
+          "자연재해"
+        ]
+      }
+    },
+    {
+      "id": "12dd564d88e255ea",
+      "title": "The 8 States Where Climate Change Hasn’t Shown Up (Yet) - Study Finds",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdF9HMUV0OThSY2RrUXNuUzNrZjk4dV9qQjhKYXRfa2ZkUTVvaFVYbW0yN0l0OGhqMF9LSVFieEpzN281V3ZmYURrTllpbFJiOHJ0TnU4RGNCVTlBY3QwMHdHOTBDRkl0aWM1Zm02djREemFwSk10eGJNR1h6TjE3VExhNTR0WkZSSWs2N2tpSHJXTUE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-07T23:12:46",
+      "collected_at": "2026-02-08T08:07:17.953131",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 아직 나타나지 않은 8개 주 (연구 결과)"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "미국 주",
+          "영향",
+          "연구",
+          "아직"
+        ]
+      }
+    },
+    {
+      "id": "9c6a20032b783f37",
+      "title": "UF’s new Climate Action Plan in limbo as indefinite pause continues - The Independent Florida Alligator",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSTRCdUFXdnFzbWdSd2YxQUtRRHhmazFxcHNySThPWTZQMjJmN0c5WnRzREh2OE9ORURUVW4xZnJJYUJyV1luYnAtT1BvNXpnU0hmekwzSWtOVGtHSHpPaFltdjBOOGNRZmp2WWgxdDBFUW02N1Y2bUdaYVU0WkhMT1N1bUpDUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-08T01:14:00",
+      "collected_at": "2026-02-08T08:07:17.953166",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e003f7340ea5c974",
+      "title": "Climate change is bringing dangerous interlopers to Venice’s lagoon - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXBNMXhCazNNaVlUSWxRRzBWQ0hsYXB1R19aUXNmU29hUEpseGd5cUo5SHhUbXVCb3dWWnRLV013V0c5NFBjaHZ1VTFtbjVDTG1mclVDeUlZMDR6Zml4N2NFTEM1Vmctb1g4RDZsZlFrVEZGbkVuVDkxSGRZTnM3Y0hsZ2NZNU1lakJwajluTFlBNlJmZ01tU1M0TDIwNnhGM29jZFlLaUJjMXFsSDQwYXpIbm1PVko3RDJSaWg0QTI0T3dkS282TUFwUkM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-08T06:02:54",
+      "collected_at": "2026-02-08T08:07:17.953218",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d92b493da352c062",
+      "title": "Lupin Receives “A-” Leadership Rating from CDP in Two Categories – Climate Change and Water Security - lupin.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWNNaTB1c01SV0ppR3k4Zm1sRUc3V0paZk1JcUZuMF8zcUFBOGpfanEtVWo0NFZpazFqVDl6eHV4dkUxMUVzR2o5MzRRMEJ6dFFoX3BKazZTV01hTUlLcktaa3dmWlFNRVhkOG9uMzVMOUkxUm11SkFXa1d2NFY5LWkwM3RvczJ0TTlwMnRqa1kzdEhBNWpJMzFDY3h4eEhWS2t5UnRuUkxGZFIxenhPM1gwXzY2eUdLRllYUEthV04xTGpLUm9QT2xxNkhlYjRZT1Y3MQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-07T22:20:03",
+      "collected_at": "2026-02-08T08:07:17.953669",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "루핀, CDP로부터 기후 변화 및 물 안보 두 부문에서 “A-” 리더십 등급 획득"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "루핀",
+          "CDP",
+          "A- 등급",
+          "기후 변화",
+          "물 안보"
+        ]
+      }
     }
   ]
 }
