@@ -1,16 +1,16 @@
 {
   "date": "2026-02-13",
   "metadata": {
-    "collected_at": "2026-02-12T23:21:15.446009",
-    "total_articles": 122,
+    "collected_at": "2026-02-13T08:28:26.466797",
+    "total_articles": 267,
     "sources": {
-      "korean": 73,
-      "international": 49
+      "korean": 183,
+      "international": 84
     },
     "sentiment_distribution": {
-      "positive": 56,
-      "negative": 41,
-      "neutral": 11
+      "positive": 140,
+      "negative": 78,
+      "neutral": 23
     }
   },
   "articles": [
@@ -3132,6 +3132,3721 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "d0ecc96989a77f41",
+      "title": "미, 기후변화 대응에서 손 뗀다…온실가스 규제 근거 폐기한 트럼프 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RcFZGd1pZNGxtc20xOTFRVGtjN2lwaVJvZ2gycGNGSHl6YjFzQWdlMG1vN3JCNW5lU3RyX0owNEtRclQxTUpMZ1NtV2ZyNXRmZ05adUZMZzljQdIBX0FVX3lxTFBpdGtmdEJRX2xZemRtcEdNdFhZc2ZJeUplcjhTMnZnUy13NGFDS0Y3LTBzeGFoQ3lfNXNlZm5uNTRFZl9RT052MW1MQmRaQUhBclo1TzA1VUtzYUUtQ0k0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:43:00",
+      "collected_at": "2026-02-13T08:14:14.527805",
+      "keywords_matched": [
+        "기후변화",
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "기후변화",
+          "트럼프",
+          "온실가스 규제",
+          "대응 철회"
+        ]
+      }
+    },
+    {
+      "id": "91200520bc1b45ec",
+      "title": "유엔기후변화협약 총장 \"재생에너지는 에너지 주권 확립 수단, 안보에 핵심\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zMVlWcmtUQ1F3Qnl2amhCdVdJWlUxYkZObTNoc2pfaG8zWjk5ZUVEMU81eVN3ZVdaLXVKR0FvN214ZGlvOW43M3VvZEJnVGFnR0k4UU1sWTg0cDdLWnFSeDQtb3ZsYXBicy1HTS16WUVsa1E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:52:10",
+      "collected_at": "2026-02-13T08:14:14.527837",
+      "keywords_matched": [
+        "기후변화",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔기후변화협약",
+          "재생에너지",
+          "에너지 주권",
+          "안보",
+          "총장"
+        ]
+      }
+    },
+    {
+      "id": "2f6e9dbf0720e0f0",
+      "title": "포항시, 유엔기후변화협약 당사국총회(UNFCCC COP) 유치 홍보 설명회 개최 - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TX2Nxb0x3RDhnMHl3UlNJTTc3dEVhN19kaUxMcjQzaUlnX0JiTjh5YjRaeVJWcE11a3I1akJFVzFLVmQ3OHBGeVJCUmZXWWQ4NEx4emE1bE02a05iT0lsV0hvZGRYbUFibU1PUHkzelpGN0nSAXdBVV95cUxNZnlzSVFJTWhEbTY2YVVKbEpFajJ0N2ZySjk4ekNhNGVQRUg1eWJndkdUdXA5Z0U3bW5ZVkNDbC0zZ0hKTV9NNzkzc0EtMm1ZcmZXZ050UGxKbzlXNk1QUHFtMTdFbUY0U2J5S0JmU1Zqejh1REdaMA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:05:37",
+      "collected_at": "2026-02-13T08:14:14.527866",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "UNFCCC COP",
+          "유치",
+          "홍보",
+          "설명회"
+        ]
+      }
+    },
+    {
+      "id": "35f2d24d461bf4cf",
+      "title": "포항시, 유엔기후변화협약 COP 유치 공감대 확산 나서 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lWHA2QTBBbmFSV0JhWWM5QTdfd0p5VHh2WVNIa1FlUzROV29ZSng0TVludTl2enRvRUM3VVdlejdpWUthMGhBQnhKYVFMNlRudUduRkxYVlJlVE8xc2t3ZWRLWkgyMUNmUV9r?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:05:06",
+      "collected_at": "2026-02-13T08:14:14.527892",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "유엔기후변화협약",
+          "COP",
+          "유치",
+          "공감대 확산"
+        ]
+      }
+    },
+    {
+      "id": "43ae0128b0666ec8",
+      "title": "기후변화센터 최재철 이사장, 프랑스 국가공로훈장 수훈 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wdEdGZTd0azZmVTVzX2g1UGRRNTBjUndsZ3dnUlZPT2xUdERZdHdZalpxaWE3dkRla1JVSU94V2lnbGI3Rm5sMDN5RmRTeUh6ejFuQ1dVSWZRYTJlRXlXalo5dlFGcnhqUmdKZg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:24:31",
+      "collected_at": "2026-02-13T08:14:14.527958",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화센터",
+          "최재철",
+          "이사장",
+          "프랑스",
+          "국가공로훈장"
+        ]
+      }
+    },
+    {
+      "id": "54927a3c5bf58095",
+      "title": "포항시, 유엔기후변화협약 당사국총회(UNFCCC COP) 유치 홍보 설명회 개최 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOVNENG11a3prLUVrcmFuQzYtdm81cVpvWGxUbExPaktQT3BKblNYRV9LcTJxSk9pTUpnSTJ0b2RkQ0RoMXloaFc2YzFNT29RVDE5a2FVc0Q1YUJOSjhjejdBQXBTMEl4VEV3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:51:01",
+      "collected_at": "2026-02-13T08:14:14.528047",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "UNFCCC COP",
+          "유치",
+          "홍보",
+          "설명회"
+        ]
+      }
+    },
+    {
+      "id": "e7fffbebfeda575e",
+      "title": "기후변화로 '독버섯' 증가...美 캘리포니아서 중독사고 급증 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUQU1zbU9heHUzN1hXdWs0ZG5HbFRGQzh3eUVsOUMxME5VaTZFNW41aXBOamFkeUo5d0tPdEJtVThKY21kQnZ6TXczZWFxOU1MaUVxYWppanpXc2RE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:07:28",
+      "collected_at": "2026-02-13T08:14:14.528093",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "독버섯",
+          "캘리포니아",
+          "중독사고",
+          "증가"
+        ]
+      }
+    },
+    {
+      "id": "5f0533dbdf2c3873",
+      "title": "겨울, 기후변화와 함께 찾아온 새로운 건강 관리 - 데일리연합",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DRnkzYTFMX2dKQU9hQnFhYngyLTVnYTdDel85c2pZOFg2elJOWUptdVJoQmpqc1dBX2htbm1ZWlVkQ19BejRwNUdubmdCaUtDMTZ4bVB1NUdHdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:50:49",
+      "collected_at": "2026-02-13T08:14:14.528117",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d24e0284b4435f82",
+      "title": "최재철 기후변화센터 이사장, 佛국가공로훈장 수훈 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSlR6aGxQVk1lUEhIcHdLeGwwd0VMOTNaSVZPYzFsU3RXdHZIZ0RrTF9ydzZDVkVwSzl6ODBycEp0eUUtM1NfQlFyWjAzeFZjODJoLUJicThQR3FralFmV2F4TTBjR1dtUEhRYkFxb3VXUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:19:21",
+      "collected_at": "2026-02-13T08:14:14.528141",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "최재철",
+          "기후변화센터",
+          "이사장",
+          "佛국가공로훈장",
+          "수훈"
+        ]
+      }
+    },
+    {
+      "id": "094bcec080d256d1",
+      "title": "국립수목원 기후변화 연구 18년, ‘시민과학’과 손잡고 더 촘촘해진다 - 산림신문",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWWkg5Rmx5dEZGZnVxdVIzOGZ2ejlOZUV3aVgzUnZUUWdjaWVOTmZmaGVrdkpQbDV3MWdnR1hlUktUUVFPVVZ0ME45dndteDBLN3o3UGl3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:32:00",
+      "collected_at": "2026-02-13T08:14:14.528166",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립수목원",
+          "기후변화 연구",
+          "시민과학",
+          "18년",
+          "촘촘해진다"
+        ]
+      }
+    },
+    {
+      "id": "1e7d38bfef3aa578",
+      "title": "경기도-시군 공동연구사업 올해 2건 확정… 안성, 기후변화 대응 찰옥수수 품종 개발 추진 - 24news.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBaOUx5OWJnZDRLWGxXZzJlemtxWEg3dzlDc2Nvbm4zYlJjLTEwN3NKZEM5UjV4NEhRbDRuTEFRMnVmMWdMRmhjMTlqZExXVy1pVkZVSXZYVVZYU0dpQTg5S0QyZU5QZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:18:05",
+      "collected_at": "2026-02-13T08:14:14.528196",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경기도",
+          "시군 공동연구사업",
+          "안성",
+          "기후변화 대응",
+          "찰옥수수 품종 개발"
+        ]
+      }
+    },
+    {
+      "id": "cdb5d44f3b8f67f8",
+      "title": "포항시, 유엔기후변화협약 당사국총회 유치 준비 ‘착착’ - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NY3RFZUlON0wweXhjWnZaNW8zMjRLaElTUzM3b2xsWllkUHhyNDNLMDg5RGFjRWF1NTRQY1FXaXMwWjBqV3l2dWhNbUluZWlkT0E1eVVfSV9CT1Rybm04VWt2aw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:37:03",
+      "collected_at": "2026-02-13T08:14:14.528221",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "유엔기후변화협약",
+          "당사국총회",
+          "유치",
+          "준비"
+        ]
+      }
+    },
+    {
+      "id": "60c32bea070836fc",
+      "title": "미 환경보호청(EPA), 주요 기후변화 규제 철회...\"기후 변화 정책 후퇴\" - 프리진경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ya05waEFxdjVUeU4xZTh2TVdzUXJIcDRlUEttZndDQzVUZUZURHpJcFZxRVZ4RUhSMHpIM0xUVWVXYVh6NFRZUFhKTTAtTXhSckVEN1Y4eDZpS19nWmlZWDN6WG44X0Z2b1M1MQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:09:10",
+      "collected_at": "2026-02-13T08:14:14.528246",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미 환경보호청",
+          "EPA",
+          "기후변화 규제",
+          "철회",
+          "정책 후퇴"
+        ]
+      }
+    },
+    {
+      "id": "b92a973c388e3b89",
+      "title": "포항시, 유엔기후변화협약 당사국총회(UNFCCC COP) 유치 홍보 설명회 개최 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Jc2R3Z3VmazM4bHZtOHNqU3N1RTV1dC1iSUhkaTNEQnpMTDZLTkktX0JGcnNOVkZ0ZVVDZ3hWZFMxX2dpN3EydzVSQTYzN2RGbFpPTENueXU4WHczbU5XcW5OOWw5Y1QzZTlCMFB3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:28:15",
+      "collected_at": "2026-02-13T08:14:14.528273",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "UNFCCC COP",
+          "유치",
+          "홍보",
+          "설명회"
+        ]
+      }
+    },
+    {
+      "id": "7993e304a20ff9c4",
+      "title": "'돈' 앞에 '과학'도 무시…트럼프, 온실가스 규제 근거 공식 폐기 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mRTRhQ3J1R1h1NVFLYVBZX3BtMWFYSm01T2NaOE5SRThrWDJSZTJxdFludTFHSklKbENqdzl0N1VmWnJrRWdsWDQ4UjQ2b3c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:05:24",
+      "collected_at": "2026-02-13T08:14:14.528303",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "온실가스",
+          "규제",
+          "폐기",
+          "과학"
+        ]
+      }
+    },
+    {
+      "id": "0ded6cc4b1436137",
+      "title": "[포토] 기후변화 규제 폐기 선언하는 트럼프 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tS1h6aGtpZEpCbVYwMG9ybVd3bEh1R3ZGcmkwb3hZVHFENW55TEhJSXNoN2FwRjlSdXNhSkFSamcwNUtFOHpCR1FMcVdWTzFUWFljVHczNHlSZTlKS3dldw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:03:00",
+      "collected_at": "2026-02-13T08:14:14.528328",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "규제",
+          "폐기",
+          "선언"
+        ]
+      }
+    },
+    {
+      "id": "a20e0ee6aa9f7aa9",
+      "title": "기후부, 풍력발전설비 긴급 현장점검 - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95NEMtZV9IOG5MUDhwS3o3QmE3S0NXN1ZIZkhBZWFYdkVMQUVnd2ZKdU1VQURWWW40S3pHMWNPSVNzdmlKRUdGWE5FTEFwOGQyRU5pOFNWMWo5Z3JmSHNHLTItNHBLTXI0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:23:32",
+      "collected_at": "2026-02-13T08:14:14.528350",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후부",
+          "풍력발전설비",
+          "긴급",
+          "현장점검",
+          "점검"
+        ]
+      }
+    },
+    {
+      "id": "6f255db99dc23098",
+      "title": "美, ‘온실가스 규제 근거’ 폐기…글로벌 탄소 감축 적신호 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiMGZqMHVHdnpPSndpb21GRGZUd2JSZUYyMGNZT1p4cGpxcS15eG1nMXh2VmhELVVubjZZT0F3VlFDWHpHRE9oMHhGT1hOaEttVUUyLWI4WDJ6YkM2TE05S0FIYmZrSkN0OF9vU9IBcEFVX3lxTE5kdGRIYkVTVW9pZkV5bXJiU3JpdlI5YmUzS2o1VTNoZzZrT0haalhlMUZJS2xReFhQWm1FRldieXVwdkJrMDBrdXFXMl9fZ0lybnVfZ1lhb0IzaWtrQ0JsR1h3b3I3ZjA3S0d2dUJSeTk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:39:09",
+      "collected_at": "2026-02-13T08:14:14.528390",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "온실가스 규제",
+          "폐기",
+          "탄소 감축",
+          "적신호"
+        ]
+      }
+    },
+    {
+      "id": "4777e3642ebf0a62",
+      "title": "“미국 사상 최대의 기후정책 퇴행”…온실가스 ‘위해성 판단’ 공식 폐기 파장 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44cldMaWl6c01aeEtNb1o1US14VmpQb1M4b1RlbmZhc3V5dnRsM2U1Y2JnTE5fYUtqRnhPUmZmdGxMLUZJbThnWTRRQmdkbkJVUkU0Wnotb09wWEE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:39:00",
+      "collected_at": "2026-02-13T08:14:14.528443",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "기후정책",
+          "퇴행",
+          "온실가스",
+          "위해성 판단"
+        ]
+      }
+    },
+    {
+      "id": "bc567e98a8e0ba0d",
+      "title": "울산시 \"기후변화 대응'배 농가 경쟁력 강화'나선다\" - 서프라이즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCVHdrcVQtd3lIYzlJOFNYa1B0a2s4ZXVnVzllNWdNRWVYdkd3ZUhFc0dJV0FGM3R2OVhJMmJVdHM3ZjJXbGV5aUNjd3NlanMwY21MMENWX0lfc3otUTFWemM1M1JVaDhkYnhmNEVn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:09:28",
+      "collected_at": "2026-02-13T08:14:14.528467",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "울산시",
+          "기후변화",
+          "대응",
+          "배 농가",
+          "경쟁력 강화"
+        ]
+      }
+    },
+    {
+      "id": "ce545b16e76010fc",
+      "title": "기후변화로 주요 어종 수급 불안 심화…WWF-이마트, 수산물 공급망 리스크 진단 - 데일리매거진",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0tSE1Xa2dCeWkwbkVqRXUzZC1KeXU0VXBXbml2OEVMdEVwSTdubklsX3c1Slc5d25DR0ZjX2lSS0JnVVVWYmNDSXR3OGJ5d3ZMVk1Zckcxa2hvcUtTOVQ3VGFRYzdjRTJiOVF3b281Q19KZUg5OWx1Yk1IMA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:35:53",
+      "collected_at": "2026-02-13T08:14:14.528492",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "어종 수급 불안",
+          "WWF",
+          "이마트",
+          "수산물 공급망 리스크"
+        ]
+      }
+    },
+    {
+      "id": "d1998d2bf854b607",
+      "title": "미국, 앞으로 기후변화 안 막는다… 트럼프, 온실가스 규제 근거 폐지-국제ㅣ한국일보 - 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94M24zZ3J1c0ExeXJKUmU1TDdLX1Y3M2xiNjlTY3hRWlRiODVJbnNHM3BpNzV2WGg2aUFlU25fcWQwN3FXMC01cFc0OXB0UG5STjNaT0JQUlRSa1haMkdneVF4dWJkckM5T1g5bTFB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T22:04:00",
+      "collected_at": "2026-02-13T08:14:14.528536",
+      "keywords_matched": [
+        "기후변화",
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "트럼프",
+          "기후변화",
+          "온실가스 규제",
+          "근거 폐지"
+        ]
+      }
+    },
+    {
+      "id": "7b224284ce138e7e",
+      "title": "트럼프 “온실가스 규제 근거 폐기…차값 430만원 싸질 것” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1MHdKNjNXMVkwQUlUall1cXJxWm5rbkJra0tEdVM5X1c0QmVtblpPTHU1dVJlaTZXTUdWU1pYdEFwSXk1M3hNT0hWa3Z3aHc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:19:54",
+      "collected_at": "2026-02-13T08:14:14.528583",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d345ed9770fb2fbb",
+      "title": "이대로면 미래세대에게 큰 짐... 온실가스 감축 논의, 제대로 해야 - 오마이뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qY3lrZ1dWNkFhNWwxbVE5OURnTFdiSlVhaGhKaHh4VURBZU1tcE54bkhzTG1kSEhFdXNHa0txOFRYS1A5Vk9feG1NcUdxQXlPYnZLSlpoLW1NN0xZWTNnS01MUWdxNG1lTzdQYnlZdjZnQjItU1NB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:56:00",
+      "collected_at": "2026-02-13T08:14:14.528626",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미래세대",
+          "온실가스 감축",
+          "기후위기",
+          "부담",
+          "정책 논의"
+        ]
+      }
+    },
+    {
+      "id": "e5028e6e8620213b",
+      "title": "[농진청] 망고·파파야 난방 에너지 얼마나 들까 - 월간친환경",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fNlBIeUsyV2R0WjN2c2s1d1FsSWZwRFRRT3dSYkhadTAwLTJXZE9YSHJDU2NQczM3SU9FR1NuX3JvQm5OSTIwMmtxVFRMTHdSbVNfU3pTNVNKRFIzQnhQbDEtSnYtWnJQRHVoQlVwQTcwdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:36:08",
+      "collected_at": "2026-02-13T08:14:14.528702",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "농진청",
+          "망고",
+          "파파야",
+          "난방 에너지",
+          "비용"
+        ]
+      }
+    },
+    {
+      "id": "8082a37025333ce2",
+      "title": "美 온실가스 규제 폐기 발표에 '발칵'...\"4.7조달러 비용 발생할 것\" - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDZWJ5ZHl2d3NnMWktSnAzb0pvVmU3a1BZWU5pNVdSQVJTc0VXQ3hFNTdleTUwd0lLc29GUzFoSlJRcWJ2cG1oX0dWU1JEU21RcDBoYTZLenFCMTBO?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T03:14:37",
+      "collected_at": "2026-02-13T08:14:14.528727",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "온실가스 규제",
+          "규제 폐기",
+          "4.7조달러 비용",
+          "발칵"
+        ]
+      }
+    },
+    {
+      "id": "48dd66e227b6807e",
+      "title": "코카-콜라 재단, 포항에 2ha 해안방재림 조성…기후위기 대응 ‘자연 해법’ 시동 - 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50WF93VzFEdXJKRGhQSjd3ZDlWSWR0UDRGM1pBNXJIZFVibngzT0ZIUHdtV1hPYXl1QzVVVFl1Nkt2bi15X1BFU2pBTHlXb3Y3T01tUVVhVGQ0VkwxNHRRd2ExdEk4cG9pR3pNNA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:07:55",
+      "collected_at": "2026-02-13T08:14:14.528817",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "코카-콜라 재단",
+          "포항",
+          "해안방재림",
+          "기후위기 대응",
+          "자연 해법"
+        ]
+      }
+    },
+    {
+      "id": "80b7908648dbc3a5",
+      "title": "[자막뉴스] 미, 온실가스 규제 근거 폐지…\"기후 위기 부정\" 줄소송 예고 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZLXhmNDNkMmtCMDczMzhiaFRxamtFdHRQSEtyOEFhd1hnME9EQzBaNGxUckxWVGtxaTluanBuaUhuNW1QOTJYRGJBcF96d0VyaXo4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T08:00:00",
+      "collected_at": "2026-02-13T08:14:14.528895",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "온실가스",
+          "규제 폐지",
+          "기후 위기",
+          "줄소송"
+        ]
+      }
+    },
+    {
+      "id": "7f59d6ea39c44311",
+      "title": "산림청 국립수목원,기후대응...수목원·식물원 교육 평가 지침서 발간 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WZWNNMXlxRWloblFRWk5TWWhhYjl6M1pfOGRPZnJoWmJkdHlQVjlVenZGVEdxanVwQXdZVVdFUGJJMWxvU0JnNENSS3FCdFY4NXctWll5UDZ0WGZFak8zckwzcHFoT2s3bWlCTl9R?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:06:54",
+      "collected_at": "2026-02-13T08:14:14.529086",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립수목원",
+          "기후대응",
+          "수목원",
+          "식물원",
+          "교육 평가 지침서"
+        ]
+      }
+    },
+    {
+      "id": "276f07340d2e458a",
+      "title": "'돈' 앞에 '과학'도 무시…트럼프, 온실가스 규제 근거 공식 폐기 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QeDh4NG5ic001V044c01HMl9Sd1pBM1Rna0FSTVd2OC03bmVJcG10S2pGa0ZyZUF2cEprY2oxbnh4T0VIWFdiTlIyZ1ZkVzBPckF3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:05:00",
+      "collected_at": "2026-02-13T08:14:14.529203",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "온실가스",
+          "규제",
+          "폐기",
+          "과학"
+        ]
+      }
+    },
+    {
+      "id": "58890bd252902864",
+      "title": "美, 온실가스 '위해성 판단' 공식 폐기…기후 규제 근간 흔들 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96TVFOMkRLQklFMlBZQllONEpsN3ZLaHI4Z3dHdEItZHA0VlR4U0drOHV6aFQ1MlhiOVhqbnRlZlJ4QUNTRjh3YVZ6SXd0ZFBQd18w?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:18:00",
+      "collected_at": "2026-02-13T08:14:14.529302",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "온실가스",
+          "위해성 판단",
+          "폐기",
+          "기후 규제"
+        ]
+      }
+    },
+    {
+      "id": "7cbd5e72d11f968e",
+      "title": "오바마 \"트럼프 온실가스 규제 폐지, 화석연료 돈 벌기 위한 것\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTVWktSkZmU2lyNXN4S1YxV19NcVl1Q2NpNHlFOE1FMVdBeGZZUHIzVVkzdW9zTWZnckgxb19KbGVjX1NsRTJVTUtpTExHZXJqLWhz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:59:00",
+      "collected_at": "2026-02-13T08:14:14.529483",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "오바마",
+          "트럼프",
+          "온실가스 규제",
+          "폐지",
+          "화석연료"
+        ]
+      }
+    },
+    {
+      "id": "3eeb63dd7fb296b7",
+      "title": "美, 온실가스 규제 근거 폐기…차량·발전소 규제 대폭 완화 선언 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xTTdOSUxaOGk3SUd4V1M3dUhMSGI5Y1djVEw2TGFqODB6MzRhVFpzTEpvS2hwMU8telhFTl9lb0F1ZlNqdjhwZGNvZWF2UGtoRm1Z?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:50:00",
+      "collected_at": "2026-02-13T08:14:14.529556",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "온실가스",
+          "규제 폐기",
+          "규제 완화",
+          "차량·발전소"
+        ]
+      }
+    },
+    {
+      "id": "c54e22ce1239bc51",
+      "title": "\"대형 전기트럭 시장 개척해 韓 탄소중립 정책 지원할것\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52VDZQQWR5Vlo3c3htNzFHakd5TFNoeGdiSDRBSG5NQi1jZUtpZ1V6dUl0aGhyNUl0cEpTQlprSlI4SWZrQUQzaXBpX285dms?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:36:08",
+      "collected_at": "2026-02-13T08:14:14.476146",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기트럭",
+          "탄소중립",
+          "시장 개척",
+          "정책 지원",
+          "대형"
+        ]
+      }
+    },
+    {
+      "id": "f87953dbd4412aaa",
+      "title": "시흥시, 탄소중립 실천 앱 '시흥탄소가계부 플러스' 출시 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TdEh2bUJ4cnN6b1NFNGltM2Q2RUE4RGhNNFh6d0xQV291Q296RTRmbU96SlRJUFdzNjZUTENJblBZV0JpZXZzbTBtb1ZXZWpRRVo4UVBOOHp0OFVFUHJGZQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:21:00",
+      "collected_at": "2026-02-13T08:14:14.476181",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "모바일 앱",
+          "환경 실천",
+          "서비스 출시"
+        ]
+      }
+    },
+    {
+      "id": "c51a7009f292c756",
+      "title": "시흥시, 일상 속 탄소중립 실천 돕는 '시흥탄소가계부 플러스' 앱 출시 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsaXNMQWxkclgxQzRYOS1LX3NZS014TER5cTJhNTZZYTJZa2ZRZUVjaWd2aGpnc3BQTFdjTUlvbm9hNmo4YXZ1cHRRU19kcklUeG5XeExDTlUwd1E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:25:00",
+      "collected_at": "2026-02-13T08:14:14.476211",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "앱",
+          "출시",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "b815ea95c7e88564",
+      "title": "\"인증하면 숲이 자란다\"…시흥시, 생활밀착형 탄소중립 앱 출시 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNQ1FlemloZ1czWnB0UlVkWC16VVBnRlEyT0lTQmJHOG1tQTY3V05oWkpTMTdlRjNkcFZ5Z1NkTV91ekM4SDZnWXp2VjRmdC1LZXN3aVlUM0IzX3Q4Szd1eW41WTFhc3pkTkE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:53:47",
+      "collected_at": "2026-02-13T08:14:14.476239",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "앱 출시",
+          "생활밀착형",
+          "숲"
+        ]
+      }
+    },
+    {
+      "id": "653e86d86c19cab8",
+      "title": "한양대 에리카, 광명시 '탄소중립 스마트도시 1차 교육' 성료 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1U3JkTjZJMF9RY0tsVGhwVUx0T1FFVG1pNTZUUUJTYWwtZGswMDFwS0JNTlk5NnB0NFZQbGxqOEMweko4THlMZF8tVlZzU3BmOExUdGtfR3ZKaFZ1LXZjVdIBeEFVX3lxTE85cU13ci11dHhPSTNGc0VDSlc0UVpvREVjM0pqZzNBNTMwZFl2YThoVHdaMVl6cEllNkxueUo0eTV6YkdJaW9rWlJjbTl2OGJRRUFqSXRiR3FkNHB3TGV4bEFPX0JPTDVJRUxnN1p2djQwRWdWakZPSQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:22:24",
+      "collected_at": "2026-02-13T08:14:14.476267",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한양대 에리카",
+          "광명시",
+          "탄소중립",
+          "스마트도시",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "7e446819fb8b4d5d",
+      "title": "경기 광명시, '탄소중립 스마트도시' 청사진 발표 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tUHFYVVhnOC1wOGdjc3hQalRPLVoyRzJqbUZNXzRfR095d0l0a201cExFTXRncUplWXcwUXRlcmRSWWMwRVVrTzVmbkpEN1E2NDVr?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:47:00",
+      "collected_at": "2026-02-13T08:14:14.476292",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "스마트도시",
+          "청사진",
+          "발표"
+        ]
+      }
+    },
+    {
+      "id": "0962079275b12b1e",
+      "title": "광명시, '탄소중립형 도시 재생' 목표 집수리 지원사업 시행 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9waVZ6ekhOSVdvSlBZRlRabXlET0wwcXZKXzBldUlMVWFZc2lFekU5bzFudjNURmZIN0VfMFFRUFR4VElVTXhDc2NMUW5hekhVNG9GVDFLNXVIcUhEdG9RWDNGWVZWbkpEd19N?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:39:00",
+      "collected_at": "2026-02-13T08:14:14.476317",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립형",
+          "도시 재생",
+          "집수리",
+          "지원사업"
+        ]
+      }
+    },
+    {
+      "id": "eb4cb45f2f96da51",
+      "title": "설 장터 한복판에서 시작된 변화… 화순, 탄소중립에 불을 붙였다 - 디트NEWS24",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6d1hfTTdoNlg4ZGtOdUdoa1ZldEt3MDBnRWc1cndLZU9Cd0Z4MS1iTjF2OTgxdTdfSnZRMHdKNDhwLWxSMXRVdGFUcWVoYmV0YldOY3FuM1QzV1dqMFhaMFV3VnExMU01Wmc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:44:32",
+      "collected_at": "2026-02-13T08:14:14.476419",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화순",
+          "탄소중립",
+          "변화",
+          "설 장터",
+          "시작"
+        ]
+      }
+    },
+    {
+      "id": "01c2fe721a2231db",
+      "title": "기후환경교육 법적 근거 강화… 탄소중립 기본법 개정안 발의 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EV2hLT1ZrcFdaUWRFaV9NVzRfTTE0M2twQzRYSTh6ZDc0bEZGUGhna2I0VkFEVGQ2Y1JDTGNDdk8tODFKOW9DMkZId3pOYmFvZW4yZl9SRzR4MEZfUnZ6YS1RVURCb0VTb2RHSlMtUUM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:08:00",
+      "collected_at": "2026-02-13T08:14:14.476546",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후환경교육",
+          "법적 근거",
+          "탄소중립 기본법",
+          "개정안",
+          "발의"
+        ]
+      }
+    },
+    {
+      "id": "4c123093b9fba25d",
+      "title": "광명시 “탄소중립 실천하고 어려운 이웃도 도와요~” - G밸리타임스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FOUdpRHAwUV9XYW1qUVpVdUdTWk54Q2tyNEZEMDFSRjdXS1NDVmZib3F2VXpsNzZqNEFneDhMM3RGUGxWRDI2dHM5V3phNTFVRjRoWWE3OFVFa1NvanRkd2szSU9BZ21DNXQtRXNB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:40:00",
+      "collected_at": "2026-02-13T08:14:14.476572",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "실천",
+          "어려운 이웃",
+          "돕다"
+        ]
+      }
+    },
+    {
+      "id": "7bca30653ada8228",
+      "title": "광명시, 탄소중립 실천 포인트 기부해 ‘기후 취약가구’ 돕는다 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaenBEY1BwTW84czI5bW5fY0lTVEhGRG1EQVJhQnBfQ0dQS1N6TFRweExrQTRFR1ZwVzhLUGlndW43eXY2VGJLVHlZMGVXWlcwMXhqZHZUZ1MxZ9IBX0FVX3lxTE5pdC04eDhjNEdSYm40Q3dfb2VlRmxXZXdpa3ZHSmF5T0k2YlRJb2pKcjU1ckFxa01YcENvQW9wSDJSc0NwWUE4Z1B0YVhuSWZHZG56V3ZrejJCMm4xZkhz?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:03:00",
+      "collected_at": "2026-02-13T08:14:14.476597",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립 포인트",
+          "기부",
+          "기후 취약가구",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "4468e5c4cb68f74d",
+      "title": "[광명 24시] 헌집 고쳐 ‘탄소중립 도시’로…광명시의 ‘녹색 집수리’ 실험 - 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JbncwX3BWY1l4RjdLckpNUS1vdjhqV3pPMTc1MUNIdC12SXQzNXVUX3Y0dWlRLThxWEhlMTh4UmotSHQ5WmluRzBUWkRFRVYwZkFteGdlNUp0Vk5EQmNSNWN3djFZRnFma0l2cTluRdIBc0FVX3lxTFBwWnBYNC1nUk5xRU15NEJTWmFEbndnUmYyeW1veTJrNWQ3M3hwVGxJcmRhaEhSLWJTWEZfUXp5WVVsUC1qblFGOVpxZ0dkOHdYU2JuTUN4dHJjUkpxZXBwZ3VaZE5QcW9vNVF1UzVVZ19OYkU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:41:11",
+      "collected_at": "2026-02-13T08:14:14.476624",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립 도시",
+          "녹색 집수리",
+          "헌집",
+          "실험"
+        ]
+      }
+    },
+    {
+      "id": "f549e131fd5bc7f5",
+      "title": "한국SGS ·탄소중립교육원, 탄소규제 대응 교육 협력 MOU 체결 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtSkg2UHZ0VklscnNBd0tKaDRHdVdyYW1Lb0ZzSDZkLWVqV2lVVFVkd3dfd0ZCMFRqOWh1UW9WT01nTHR2dkpCNXRjVjFYS2NvaHVHNG5YS0NrVUdFZTdad293VHFVdE1jVXJZaQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:37:31",
+      "collected_at": "2026-02-13T08:14:14.476650",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국SGS",
+          "탄소중립교육원",
+          "탄소규제",
+          "교육",
+          "MOU 체결"
+        ]
+      }
+    },
+    {
+      "id": "47899b2fd6ea4308",
+      "title": "'태양광 전기료'로 이웃 돕고 탄소중립도 실천한다 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2TkRzMnNNYzlIcUVLekNoZ3A1UHVHaFJhaXpoc2h2b1FGRlZPY3ZUd0NBQ0lnbU1XRVJadTMxNzZhcHQzVjJWemJQT0hLbzdZWTk2TzBKdjdwc1BFUktZSUE1N01aaHc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:36:41",
+      "collected_at": "2026-02-13T08:14:14.476674",
+      "keywords_matched": [
+        "탄소중립",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "전기료",
+          "이웃돕기",
+          "탄소중립",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "b9cfc0092fe9258b",
+      "title": "광명시, 집수리로 탄소중립 실천 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YcU05TklvdUdTWFludFlvYkNhRVFHYVA1bGp3NEQza2dlTHJOR2RyN1ZoQzVUbG1DMk9oQmpxVmVwcGd3cGZSdWdVVG5sTjYwWnF3VXo0bnVhTG43RkRuQTh0NFQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:47:09",
+      "collected_at": "2026-02-13T08:14:14.476696",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4e9c383d789bef2f",
+      "title": "보성군연합회, 연시총회・탄소중립 실천 결의 - 농업인신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PdnFWSVNlbW9BOFhFcTNoc2l3Q2pUdnVERWdmdU02X05YM2w3U0tTMVFlMGRna01tYW1kVlp6d0RIOE52eXhfSEZfYzd3R3FqNWc2MWFqSnJaMXhSQzN4UDZMcWNRb0dBSTBMVg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:14:28",
+      "collected_at": "2026-02-13T08:14:14.476719",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보성군연합회",
+          "연시총회",
+          "탄소중립",
+          "실천",
+          "결의"
+        ]
+      }
+    },
+    {
+      "id": "7a95d9a67f85ef2a",
+      "title": "통영시청소년문화의집 방과후아카데미, ‘생태·순환·탄소중립’ 주중캠프 성료 - 한산신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFOXF6a09qQTMzRGY0MDhOZ0NicHNMd2haZl85c2JBVzVNdk9oMl9zR0NSWTA2el82aUdwY2NVN0tnMTIwOFYxOHBNWm90SWJNQmt1eXFOX1Vpb3R6MjhqTmE5STNYZ0lOM3RfUTVR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:54:46",
+      "collected_at": "2026-02-13T08:14:14.476743",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "통영시청소년문화의집",
+          "방과후아카데미",
+          "생태",
+          "순환",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "da74318963097384",
+      "title": "창원특례시, 2026년 탄소중립포인트제(자동차 분야) 참여자 모집 - 코리아이글뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SUkJiRWlVMFBsSy1hQU55WEtSN3VUbVowWjd3MUNyaGFzZVlNTHpYNnZCcERBaHcwMVhmZzA5M25vMmhQeFZFUjZkTEREX1p4WldVcWVNVFJKblRva184U2dfczAwSHM3engyMVFiTjVCQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:04:34",
+      "collected_at": "2026-02-13T08:14:14.476769",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창원특례시",
+          "탄소중립포인트제",
+          "자동차 분야",
+          "참여자 모집",
+          "2026년"
+        ]
+      }
+    },
+    {
+      "id": "9ef7ea849960945c",
+      "title": "“탄소중립 실천, 생활 속 작은 변화에서 시작” - 화순매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oQTRXYm9RbU1IeXE3ZHoxMXJzZVRVbU9oQjR5WV9vQ19LTzZqMkRoSVBITmptZk5ZQ3lmQWFBNGN3VWtGTHc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:38:00",
+      "collected_at": "2026-02-13T08:14:14.476793",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "실천",
+          "생활",
+          "변화",
+          "시작"
+        ]
+      }
+    },
+    {
+      "id": "d0107da41344f86d",
+      "title": "중기부, ’26년 탄소중립 설비투자 지원 사업 일반‧고도화 참여기업 모집 - 산업단지신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BQTJrcGg0a3hLd0pPM0JHcU1VTVRZVVh2T3hySGoySXc5ck9WSjNkdXNSOWxlaUhJeXRZaS1QZVI1bUdGR3A0bHFHd1RhVkFtQVpleTQ3V2tVTHpLRm5UQV82ZVZxWk5IMU9VcXZOOA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:16:39",
+      "collected_at": "2026-02-13T08:14:14.476822",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중기부",
+          "탄소중립",
+          "설비투자",
+          "지원 사업",
+          "참여기업"
+        ]
+      }
+    },
+    {
+      "id": "d70bd8e6c825ec15",
+      "title": "시흥시, 모바일 ‘시흥탄소가계부 플러스’ 출시...생활 속 탄소중립 플랫폼 본격 가동 - 경인매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ia1FpUVMyX2FBZkMtRWVTNXNJUS1qb2ZzeW1teXZqREp0eDlqenZPNjB5cEV4VHNQM3FCN09XWGpRVFhvT0dUMU9QOXRxM2JIZWw4amh2NkVjNjZvaXF0MEFfWEFpWTFY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:57:48",
+      "collected_at": "2026-02-13T08:14:14.476849",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소가계부",
+          "탄소중립",
+          "모바일",
+          "플랫폼"
+        ]
+      }
+    },
+    {
+      "id": "ac914dee2be6c552",
+      "title": "자발적 탄소시장 거래소 연내 신설…탄소중립 예산 8조로 확대 - 에너지프로슈머",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50NzBOWG9ranNJcllzeG1NSGozdjdUazRvWm15TUNLdVU3ZzhPX0hKMjB4bjltMjdMaGd2QkJTMEZTdWNQdm9sM3Y0S1A?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:30:00",
+      "collected_at": "2026-02-13T08:14:14.476900",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "자발적 탄소시장",
+          "거래소 신설",
+          "탄소중립",
+          "예산 확대",
+          "8조"
+        ]
+      }
+    },
+    {
+      "id": "9f020c6d8c7b303e",
+      "title": "[초점] ‘녹색생활’에서 ‘기후환경교육’으로… 탄소중립 교육정책 무게중심 이동 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UFdzRy15aXJZN1p5Y3BrMF8tdVQ5dmVydnA2MmF2ajlLcnJuVUZsV213MU0wYm9icFgza3I5OUNSZXpwUjF3S1QxVzFXTEhxeXd3R3hlSC1lS2pUeVBmaHltaTFSamVqaS1ac2lWd3M?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:26:56",
+      "collected_at": "2026-02-13T08:14:14.476925",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "녹색생활",
+          "기후환경교육",
+          "탄소중립",
+          "교육정책",
+          "무게중심 이동"
+        ]
+      }
+    },
+    {
+      "id": "2d8f5612bb861b97",
+      "title": "양산시시설관리공단, 폐전자제품 자원순환으로 탄소중립 실천 - 양산신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpTHBaYUUtMzJMNXlUN0pYZ0liTXp2cGZLM2ZJZTRKSVJBS1pBa1hSbmRpZDhjSHBvdkZHdWZHbFRHV1VwU096aTE5ZnNST0RvbmU4cnVsU1N6ZXdBc1Z2U1NnZFZuRWVBLThWSEo2UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T22:30:00",
+      "collected_at": "2026-02-13T08:14:14.476948",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "양산시시설관리공단",
+          "폐전자제품",
+          "자원순환",
+          "탄소중립",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "db8530e9f23b1580",
+      "title": "이대로면 미래세대에게 큰 짐... 온실가스 감축 논의, 제대로 해야 [소셜 코리아] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KdFFIUGFDbjFxaUpCSnNRWDhUVGVWeEI1enVSbzdIMEZQSHYtQ054ZU9BeXByR3JxQUxUc3M1UlVlOW01cHhvbzNXR1FPdGM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:02:42",
+      "collected_at": "2026-02-13T08:14:14.477000",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미래세대",
+          "온실가스 감축",
+          "기후 위기",
+          "환경 부담",
+          "정책 논의"
+        ]
+      }
+    },
+    {
+      "id": "81f11968e58b8272",
+      "title": "화순군, 설맞이 '탄소중립 녹색생활 실천 캠페인' 실시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CUVpkWmpuVWZxeTB1c1JqY3dyTEZkQ09GdXZYcWlmdVZuLUdBNnpRNG41bnFlVjFPVlp2ajIxRXpsNGluUEI4RUp1THBXNzhmUWhF?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:38:00",
+      "collected_at": "2026-02-13T08:14:14.477024",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화순군",
+          "탄소중립",
+          "녹색생활",
+          "캠페인",
+          "설맞이"
+        ]
+      }
+    },
+    {
+      "id": "cf49674ef646ab34",
+      "title": "광명시, '탄소중립' 노후주택 개선…'최대 1600만원' 지원 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xLTJ4R0NKNEJKaENQNEFMYWRDa2F4ck9JM0RIU0VhRXBjSm1DZXpSaFRqQ1pQRlltSnRQTTBJQjhnQlIyVTZCcENfNXduQlR3VHFreFdRWE1CUTJjRUFxc9IBeEFVX3lxTE9ZWXkyOEotSTBuTVFIQ0h4WUVqWHFOQXhxdjR4ZnFVZ21iczdKVFdJSVRRV1dZMUxUajdCd0NjUGItZWFvVmRnbmlPbjdmUm5Jc195d2d0endaYU5TdUl6U0F3b1AtRXZpbEVnT2dkSWVvSFdRcUF3Rg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:42:13",
+      "collected_at": "2026-02-13T08:14:14.477069",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "노후주택",
+          "개선",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "b89101959a4190e8",
+      "title": "화순군, 설 명절 맞아 ‘탄소중립 녹색생활’ 캠페인 전개 - 더페어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VEk2MVo1QlduSWstZ0d2cXBCVE1aM0JKN2ZtZEFUQmkzYlYtN242NHFMa19MRXh0dTZYX2lRMk9TLVE2aVY2U281MF9Kc0NHX2poWW9XaWRzSk00ejQxbUt2RUVWNkZxcmxUTDZxRC3SAXRBVV95cUxPNzFmbUJVT3hNM1FLSWhMX2twZi1uRG1zbVdHQ25LZndaTmtPOEZ4bTFVVmJXdFBucGN2Q09ONHFLZ2hMZXBuNzNMbThTRDVaZEdicGFOWUJyb2hNYlMyTVloY3dlU1hWdXpVSU0yMUlvVTFWYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T03:55:38",
+      "collected_at": "2026-02-13T08:14:14.477099",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화순군",
+          "설 명절",
+          "탄소중립",
+          "녹색생활",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "51695ce379fedb10",
+      "title": "서산시, 탄소중립실증지원센터 개소 - 서산태안신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGTVlFV1pvYmtBWjZSMUJZNDNjeEtaTXo4N0RhQkdqTER2N1k2RTdNek1RNGVpUEdVTlliZFJpdkhDWlphcV9vQ2hodlJvYjVuZ1c0cEt1SWM2cnhnRGFmallOSHdFSDBu?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:58:26",
+      "collected_at": "2026-02-13T08:14:14.477158",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서산시",
+          "탄소중립",
+          "실증지원센터",
+          "개소",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "34aa3528bd7683e3",
+      "title": "\"인증하면 숲이 자란다\"…시흥시, 생활밀착형 탄소중립 앱 출시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfbU9mZ1k3b1RCZk53NzBTZWtUWGEwVGdoR3BubUVJTXZ5QTF6M3EyNTNpYWJCN2RKMTNTVGhDN0ZyNkltTHY0VHRBUWlITmM2QjNJ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:54:00",
+      "collected_at": "2026-02-13T08:14:14.477204",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "앱 출시",
+          "생활밀착형",
+          "인증"
+        ]
+      }
+    },
+    {
+      "id": "32b3f2a4964a2f6f",
+      "title": "시흥시, 탄소중립 실천 앱 '시흥탄소가계부 플러스' 출시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ybnhZNEFJOUc3TllmcjlERXFiT1JreUhzUXJ0TTYwc2NwblZMUXlSMjhEZmpidFpHcWhPelVWUXRiTnY1TDhraWt1emgyUkpQb2pZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:52:00",
+      "collected_at": "2026-02-13T08:14:14.477228",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "실천 앱",
+          "시흥탄소가계부 플러스",
+          "출시"
+        ]
+      }
+    },
+    {
+      "id": "b19a0e8a86517cc7",
+      "title": "한준섭 지미션 대표, '2026 기술경영인상' 디지털혁신·탄소중립 부문 수상 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Eb3d2NU5zLU9nTkRTWWx0SHQ3UndEWEx1dzZybndNN25jVS1VQUNUMkJIc25IelRfTXAyUFBZcHNaWHZRWFo3UDl0b3FRVEZKTU04?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:21:00",
+      "collected_at": "2026-02-13T08:14:14.477291",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한준섭",
+          "지미션",
+          "기술경영인상",
+          "디지털혁신",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "6302ea5ef998fc86",
+      "title": "김포시, 친환경농업 교육으로 탄소중립 실천 독려 - 중부시사신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Bb1RjRTdLeEVSMHo3SWNIa2RZQlhZQWplTE8wMU5FR0pTR0RqYS1UMWJjTGkxUHJ3SGw0Y09TSC04TjY2SG5SS0JVeExSelhGM1BJQ25oWnVFVmVjdDFCUE1lSQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:51:03",
+      "collected_at": "2026-02-13T08:14:14.477408",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "김포시",
+          "친환경농업",
+          "교육",
+          "탄소중립",
+          "실천 독려"
+        ]
+      }
+    },
+    {
+      "id": "68ad452b12f97fdb",
+      "title": "[에너지이슈] ‘신에너지·재생에너지’ 불편한 25년 동거 끝…재생에너지 촉진법 12일 국회 통과 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SYWx5c1JxdURhMVFPMkpwc01tMk5mRDRvSFdKdkY3YlllTmpBd240Slp1LVNMa0kyNDJYT3RTdXJGbzVlTzk2eURfTTdjNEFHN2VvWWl2ZHozTk8wQnliZ1BMTW4tWFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:21:59",
+      "collected_at": "2026-02-13T08:14:14.477453",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "신에너지",
+          "촉진법",
+          "국회 통과",
+          "에너지 정책"
+        ]
+      }
+    },
+    {
+      "id": "f4d240d6151b2c15",
+      "title": "광명시, 노후주택 수리로 탄소중립 실천…에너지 성능 높인다 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16Vmd2N1pUU3MtbVROS1NYeVdMTkRUY2kyRVNIQWhsSEV5MzByQVdYalpza2w3SV9EbHA0TEl1YXJBYTNxVHgtTnhBQVE5OWJaT2tFNnprNzcxZGpEaGVjbzZTZzVCMElQUFVsblozT2Zudw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:01:02",
+      "collected_at": "2026-02-13T08:14:14.477622",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "노후주택",
+          "수리",
+          "탄소중립",
+          "에너지 성능"
+        ]
+      }
+    },
+    {
+      "id": "81e272e52c695c5d",
+      "title": "한양대 ERICA, 광명 시민 대상 ‘탄소중립 스마트도시 기본교육 1차’ 성료 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xdVVwUG9WR0NaQ2JBcGdBc2gzR2xIdGM0aGN1Slloa2JER0RCbnhoaXd3QUI1TFZkX0otUUM5OHhSMnpUdk5IQ085cGhFaFhHUi1xMUVMd2UyRTNZZVlDZS00R2NyWXEz?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:53:19",
+      "collected_at": "2026-02-13T08:14:14.477760",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "스마트도시",
+          "기본교육",
+          "한양대 ERICA",
+          "광명 시민"
+        ]
+      }
+    },
+    {
+      "id": "2c7c8a3ec06405da",
+      "title": "시흥시, 시민 참여형 탄소중립 실천 앱 '시흥탄소가계부 플러스' 출시 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5WHJhazR6NmlVRzQwR2w1Y1ppZEdBWjhMcDJ3a181bzdEdVhXdjRKVnVGN1hSMkE2X184QTVNLUpyeV9SdlQwdmF3NjExYTV5Z3lGUUw3bDVyZWRNdWczNGJnZzBSdTBXMG1CcTZn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:31:33",
+      "collected_at": "2026-02-13T08:14:14.477809",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "탄소중립",
+          "시민 참여",
+          "실천 앱",
+          "시흥탄소가계부 플러스"
+        ]
+      }
+    },
+    {
+      "id": "0345c300d6146458",
+      "title": "재생에너지 공동접속설비 법적 지위 명확화 추진 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TaEkxRzVsT1NkeUQwdFptam5WYkU4TEZZY3p3d3MyY2JLMk05OFJGZF9vVnYwcVFaOS05WmZhWkVrZVo4bzRucTZVeHVIcl9uVzA4dHMwLWVRbUVhc004R2s5Ukd4MFRpN2dVV2VjOHQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:00:39",
+      "collected_at": "2026-02-13T08:14:14.421528",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "공동접속설비",
+          "법적 지위",
+          "명확화",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "5f7d641331d69666",
+      "title": "재생에너지법 개정안, 국회 통과…태양광·풍력 발전시설 등 `이격거리 규제` 대폭 완화 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LVWJPWW1FbUhZTFIxM1JrTDdxX25aYlJGeGE0a09iQXF6YU04ZU9Fdkc3ckRjajA4T1pYX3BGTUxNQjFxYkp0djFURjlFOG5NVzlJSy10VVpaSS1FZjJWczNoTktYSTdySFFkVlJuS2QzT3Vf?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T03:38:23",
+      "collected_at": "2026-02-13T08:14:14.421644",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지법",
+          "이격거리 규제",
+          "태양광",
+          "풍력",
+          "국회 통과"
+        ]
+      }
+    },
+    {
+      "id": "6e8d53dd43e71eb3",
+      "title": "태양광 이격거리 규제 완화…신재생에너지법 국회 통과 - 농수축산신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QMW5UNU5rVklYOE5uRFYyMG5YVWFsV19ORjJjR0xKa2l3cGhPZTFocWhVRjBRUFg2THlpZzN5RkNpeEh4U3A4RGlxYjJnbE9tZ3o4MUxqdmtmZTZKdWpyTVZwN09SbkxXRWlaaw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:04:40",
+      "collected_at": "2026-02-13T08:14:14.421672",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "이격거리 규제",
+          "규제 완화",
+          "신재생에너지법",
+          "국회 통과"
+        ]
+      }
+    },
+    {
+      "id": "31dda2959f37d0dc",
+      "title": "[ESG] 태양광 이격거리 규제 신재생에너지법 개정…시민사회 ‘환영’ 입장 - 대한데일리",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zcU5sMXNhM1lpNmdhMjUydExkb3BiYzhJQk1CdWRaamZ4VDhpQXQtbkpTYVIwSWhsb1JULXVKcU82LUV1OTZPblB2RlhBTzlKU2FVY2hCd2hGUTJSN2ptOTJhMXR4WW05LVE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:58:53",
+      "collected_at": "2026-02-13T08:14:14.421701",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "이격거리 규제",
+          "신재생에너지법",
+          "법 개정",
+          "시민사회 환영"
+        ]
+      }
+    },
+    {
+      "id": "6c51c0a9a67adef4",
+      "title": "농어촌 재생에너지, ‘현장소통·규제개선’으로 해법 모색 - 축산신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XWDVXcHkzSFQ5eUluODQtM0dOY0h5MHI1Q1BYMlUxWkoydDRHRFJWX0NaVm5WcjhPWnkxejVpLW40U0ZtbW52SkdyS2liZEd4cnMyVlcxY3N5SFE2V01BN0xpYU41M25Y?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:07:33",
+      "collected_at": "2026-02-13T08:14:14.421728",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농어촌",
+          "재생에너지",
+          "현장소통",
+          "규제개선",
+          "해법 모색"
+        ]
+      }
+    },
+    {
+      "id": "ee27e8b4db819605",
+      "title": "신재생에너지, ‘신에너지’와 ‘재생에너지’ 분리한다 - 기계설비신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zcHE4Q1lSbW1VT3BvaVpSUXVPeVNlNTBTT1d4eDZib0dRR2FnYlUxVlpkMXQxS2dBM05NTmdHeWRaMTNXZ1lqRVc0VmNOa19hMTFNOWYyeWxMd1YwY3Ywd0pRV1JTQnI3MDVr?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:19:21",
+      "collected_at": "2026-02-13T08:14:14.421752",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지",
+          "신에너지",
+          "재생에너지",
+          "분리",
+          "기계설비신문"
+        ]
+      }
+    },
+    {
+      "id": "3dec363c9be12838",
+      "title": "임미애 대표발의 ‘재생에너지법 개정안’ 본회의 통과 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hTFZhdno3XzhucFhRNFpWcklvTTBQQmo0b0cwVkhPOWtXNUV2T1VVLTRNaGFVOGF2d0taZUhmS3dCeHIzaWxCelh2M0JWakhfcGRUWl8xemxnY0V6a2FmdzNDdnBjVDNnMzNF?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:33:15",
+      "collected_at": "2026-02-13T08:14:14.421776",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "임미애",
+          "재생에너지법",
+          "개정안",
+          "본회의",
+          "통과"
+        ]
+      }
+    },
+    {
+      "id": "492e6ed2ae80bb9b",
+      "title": "재생에너지 이격거리 규제 개선…국회, 8개 법률 개정안 통과 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50VjZDLTFWbm93SWx2Wi1WSHhkWldkUFJVamZmUFVqSGNYeC05NjhJbEFwRXJVaHFjaFRHZUgtV3RMNGtGNnpRaGFpTG1faHdRUHNJWXZvYklmaE9TU3p3OWhKVTBRZ0k1QVAtSA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:03:08",
+      "collected_at": "2026-02-13T08:14:14.421807",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "이격거리 규제",
+          "개선",
+          "국회",
+          "법률 개정안"
+        ]
+      }
+    },
+    {
+      "id": "59741f29f1b69fe5",
+      "title": "'SK그룹 신재생에너지 재편' 소식에…SK이터닉스, 26% 급등[핫종목] - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83NnNkcDhkN3pGYzUwSXhoZVNRQU0wVjBDVHBia2cxaDVaU2ZzSldDcTQ5ZWFZZGt1WDJQbkdkdDBORjNaNzN2YXpLTTNta2hvLTRpWFRWbm9NWXM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:24:01",
+      "collected_at": "2026-02-13T08:14:14.421835",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SK그룹",
+          "신재생에너지",
+          "재편",
+          "SK이터닉스",
+          "급등"
+        ]
+      }
+    },
+    {
+      "id": "3d8383e08822cc80",
+      "title": "[국회] 이격거리 규제 국가기준 일원화, 재생에너지 보급 확대 전기 마련 - 월간친환경",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uNmJiSTBheldJV3p1bEFrUk45bmpXQnFkZk1jU3NOVHBwcHFJTnJGb0gyQVNpcE9HanJWa0I2MmY3djJPQjhOVEx4VWJWOGdXVEluWGtzdVl4N09ZT0ZJbXkyUVg0S0dLdG5haWpHekp2QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:59:13",
+      "collected_at": "2026-02-13T08:14:14.421916",
+      "keywords_matched": [
+        "재생에너지",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국회",
+          "이격거리 규제",
+          "국가기준 일원화",
+          "재생에너지 보급 확대",
+          "전기 마련"
+        ]
+      }
+    },
+    {
+      "id": "c0340edafab74919",
+      "title": "광명시-농협 광명시지부, 태양광 절감 전기료 사회환원 '맞손' - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HVUZPem40c0lrSzQ2N3FINWZOQXFnQ0FWb002czNuOHFfYW45eGpLbHZ6clVHcHVwSVg5S3pyLVdzT3hBN3V6VzRqYXpkSHhleDdiVEhJUkdwX1nSAWBBVV95cUxQWXQ0dUR0aEptQUo4aTg5VTZYMjV5Zzhsd2ZoNXhQcVpOcmVsSFRkLXFqRGhHRi1aa1BBQ1FDMi0wQm53M2g1MzBoR0t6djNwU2k0ZUIzQzk4eVNaZk4tWTk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:20:12",
+      "collected_at": "2026-02-13T08:14:14.421942",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "농협 광명시지부",
+          "태양광",
+          "전기료 절감",
+          "사회환원"
+        ]
+      }
+    },
+    {
+      "id": "bc73c370d584bd88",
+      "title": "광명시, 재생에너지로 절감한 비용 사회 환원 '에너지 선순환' 추진 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kZXRhdHJ4QS1iaHpWSU5OSV9rQUdiXzFqbXhWWFoxdEhhTnhJN2dEbncwbTliM2FtWHRHV3A2b2JjWXRiVjZ1OFlJdDlPcmdYWFkwZUMwNXZYODZ1TmFzYkpFTzFFaFNtR3hN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:35:51",
+      "collected_at": "2026-02-13T08:14:14.422044",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "재생에너지",
+          "비용 절감",
+          "사회 환원",
+          "에너지 선순환"
+        ]
+      }
+    },
+    {
+      "id": "1a0d239352a565c8",
+      "title": "태양광 '이격거리 규제' 대폭 완화된다...재생에너지 촉진법, 12일 열린 국회 본회의서 통과 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrc2lRMFphdWZPWmZXYTdEVUQtUHVFOXFkZWFSakpOYmVXTFI3TTVSTzJrclJUSm5GSnRiNHhwcXR2SzYtcmNCWVA1Qy03c0xmRExWYk1BdG9yT21TU3hZcG9Ybmx5dFU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:10:24",
+      "collected_at": "2026-02-13T08:14:14.422071",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "이격거리 규제",
+          "완화",
+          "재생에너지 촉진법",
+          "국회 통과"
+        ]
+      }
+    },
+    {
+      "id": "e9a79a23c4142b4d",
+      "title": "중부발전, 대불산단 입주기업 재생에너지 공급 추진 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLTkV0MGRBZ2oxTDFkMjBiME1qVHQzWjF0ZndZSldJNFpSbzhCeXJVZEMzUzh2c3hXajNrOTFfc0JXS2daTEhDSHR3SjZjUlpqSmc5emduWmVoSmxLLTV6WG9BeTZyX2lhYlpKTw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:31:46",
+      "collected_at": "2026-02-13T08:14:14.422094",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중부발전",
+          "대불산단",
+          "입주기업",
+          "재생에너지",
+          "공급 추진"
+        ]
+      }
+    },
+    {
+      "id": "92a15429afc0aa9a",
+      "title": "SK그룹, 신재생에너지 합작법인 설립 추진 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRWJwV2lSMWFwdkxyeUxvVFRRb3BsUi1hcmVJNTU5Nzd3VFRFYmxxZ0VfeEl2ejBYZUlXYmMtcUFwN3d5d3l5VGRabE1XOXAtdzNXSGVybjlyNUdMRkVTR1ZuRXozTVBfSG5zMA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:24:01",
+      "collected_at": "2026-02-13T08:14:14.422117",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SK그룹",
+          "신재생에너지",
+          "합작법인",
+          "사업",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "21db5a4c5a775b81",
+      "title": "[똑똑키워드] 전력기기 빅3, AI·재생에너지 수요에 '슈퍼사이클' 진입 - 뉴스워치",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jVDBjUGd5MFVOdWFZX09CekRxb2RSWHRQRE5KVWxEQlR1bUNMRG5lY1VBejBkb1dpMk5IM2dYOFBjRWNpQzAySm96VWtxQzliY1VLaFZ4TndLcWNVbFNqVWpXeDZ1VmRF?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:18:17",
+      "collected_at": "2026-02-13T08:14:14.422164",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전력기기",
+          "AI",
+          "재생에너지",
+          "슈퍼사이클",
+          "수요"
+        ]
+      }
+    },
+    {
+      "id": "b48f964b1b511f67",
+      "title": "태양광 규제 대수술…이격거리 사실상 폐지 - 뉴스탑전남",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NT2w3UmhDYzJXbTh4cWpTOWd5cU1WQzVoQzNEUzZZOGxZSERYNEE5TWx2Q1U4QmxMU0ZtZ0VOZ3N5VXlua3RXalNudTJEMkhuMm5qQVBMRXptQjF0OHNwc2VCOFJldw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:40:37",
+      "collected_at": "2026-02-13T08:14:14.422188",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "규제",
+          "이격거리",
+          "폐지",
+          "대수술"
+        ]
+      }
+    },
+    {
+      "id": "7635fc2df2df5d40",
+      "title": "광명시-NH농협은행 광명시지부, 태양광으로 아낀 전기요금 사회에 환원 - 세계환경신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zS1kyQWN4NlBDWGR3Uy1RcV9JWlZhM2tpVkRyOG0yLUtIVmUzcGxVRUNuU2pCTjEwNk5GM1FPNC1rMXR6b2dXRHFlNzRiMldKUG1wMDNpOHFBTjduY3Yw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:21:37",
+      "collected_at": "2026-02-13T08:14:14.422242",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "NH농협은행",
+          "태양광",
+          "전기요금",
+          "사회 환원"
+        ]
+      }
+    },
+    {
+      "id": "c334a0278266d44f",
+      "title": "[0213시황레이더] SK이터닉스, SK그룹 신재생에너지 사업 재편 추진 등 By 인포스탁데일리 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tci1YemVzM2FxcVVuektyXy1GM0dvR2lrNXlhVkw2bkpXTjk0STFYaGUwb1FXMWFGVWZ6Nkl6Rjk2VXBVdk9FVG55S0xvenhHT0xDSnFyckp2MVc1WWpaU3ByWVM4RENQVG5ZZUJLSTI?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T02:57:00",
+      "collected_at": "2026-02-13T08:14:14.422271",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "SK이터닉스",
+          "SK그룹",
+          "신재생에너지",
+          "사업 재편",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "470f6fd0afb02d3f",
+      "title": "[특징주] SK, KRR과 신재생에너지 사업 재편…SK이터닉스 19%↑ - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBySTJoWGs4SlpnSk9oRUM5RFlWaUVOWEFmSzMwRmZsWXQ1X2lPTUFhQzhObjN4ZnUyUlNnWnQwam5oWlJnVVlGUTR1Wm03RjlnbmNZSzRjUHBGNjQ3T0pTeWNUUVc0SzVlN0RPQlFlUdIBc0FVX3lxTFB6b2dDWG9VRkZPdzBpSU5FM0pZMGYzSV9XNkFON0RYZVFGZjAwaUl5eHNnd0dDZ2V3Tlo1QkR6NXdpLTkzamk0TXpaaXFsOGNtUlM2ejVnMzJiRTc0MTJrdkpTTDVadHhEWVBkLTNNT0pkS3M?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:22:32",
+      "collected_at": "2026-02-13T08:14:14.422297",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SK",
+          "KRR",
+          "신재생에너지",
+          "사업 재편",
+          "SK이터닉스"
+        ]
+      }
+    },
+    {
+      "id": "c5b33f7a7192e3ac",
+      "title": "임미애 의원, ‘신재생에너지법’ 본회의 통과 - 울진투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NV1o2bzg3azNGbUFtY0xxV09DTVQ2R0ZnaXRjWThRQVhodjBVSVpNUHhrNUNTdWpyQ2NvWVVmbk0zQmt6ajV2Z1JhVHRuNGpxUTEyc19zeUVLYUxVU25SZUNYY0xqVnllYkZF?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T03:13:20",
+      "collected_at": "2026-02-13T08:14:14.422319",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "임미애 의원",
+          "신재생에너지법",
+          "본회의 통과",
+          "신재생에너지",
+          "법"
+        ]
+      }
+    },
+    {
+      "id": "94abb603be5bfb2a",
+      "title": "한전KDN, 세네갈 재생에너지청과 에너지ICT 상호협력 ‘맞손’ - 시사포커스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83UU4tMzJkb0Nlbm1YSk1WeUw2VEpkX1ZsY1BoVkhYTEtFZmE1aUstUE1aUUhtNk1iOHA2SkIxWnhuSldGM3RXYThPSHRYTThTTlhKQkJiamh0NlNGX0J2NVVRNExybnhsNGZKdGhvZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T06:08:25",
+      "collected_at": "2026-02-13T08:14:14.422343",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KDN",
+          "세네갈",
+          "재생에너지청",
+          "에너지ICT",
+          "상호협력"
+        ]
+      }
+    },
+    {
+      "id": "e38c23550060b6d1",
+      "title": "부안 신재생에너지 테마체험관, 설 연휴 맞아 특별 운영 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pbHl3azMxSkR1WjZjZDJsOG1FTUtOQWZIMVR2NEdXUzFONzZ2YVRrNzdwMXNwSjhpbXQtZFdtOGpKVFhJRVFWaGMwa0E2emR2SDY0UWM3eERHQkdMaXk2UngyYWM2U1M4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:14:41",
+      "collected_at": "2026-02-13T08:14:14.422400",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "부안",
+          "신재생에너지",
+          "테마체험관",
+          "설 연휴",
+          "특별 운영"
+        ]
+      }
+    },
+    {
+      "id": "02489a5e788bc9bc",
+      "title": "재생에너지법 개정안 등 8개 법안 국회 통과 - 포쓰저널",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JQ2NwMzFiRGdwRm9BRXlOYjBiR3Z5R2dITTgxWTVtdE12TktQRS12X0tLMlZFSGcxTVJFQThST1Y2Qjg5enNaNExOeWgxXzQ5cmhSTzVfOFdWQ2N5SkJ2dWItOE8?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T01:16:55",
+      "collected_at": "2026-02-13T08:14:14.422425",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지법",
+          "개정안",
+          "법안",
+          "국회",
+          "통과"
+        ]
+      }
+    },
+    {
+      "id": "641eaf0c34783d97",
+      "title": "LS일렉, 에이스침대에 태양광 연계 에너지관리 설루션 구축 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wQ0l3RXh1UWszMFN0S3pBekhQRk1iTTdabDRMRDVGYnN1cnhFZVZ2bmZ1M2xRQXJ4R09zWEZpaG82VEdLcXJNeFNfZlJ1OG5iWC0xdXZhQWJJV2PSAWBBVV95cUxQZ1FlUGtBd1FMd1Vod2VNcWM4SlBNN3FSeFh2ZDE1dFN5SWlSM1dET0lUc3NuMVFrdjhrWjh6dTJKc3FZOXJzQk9ydDNtRzZyOGZRbFM1R05VME4xWVdGcG0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:36:01",
+      "collected_at": "2026-02-13T08:14:14.422653",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉",
+          "에이스침대",
+          "태양광",
+          "에너지관리",
+          "설루션 구축"
+        ]
+      }
+    },
+    {
+      "id": "687edb2e57d980ae",
+      "title": "[배터리 2라운드/③]ESS발 슈퍼사이클 온다…전력망·AI·재생에너지 '삼각축' - 비즈니스플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ETUowZC16bk5Ua1F6UE45dnIxMVJWbThTZUt1Mmw5WmJJZnZNWXAzWTd2RGRpbl91bjE0MkNWWWUwSFNtWm5GM1JlN2VfWHFQYnVtUVhHLXhrM0xtUElaMmNMekZTNUVJX0F6STh3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:41:06",
+      "collected_at": "2026-02-13T08:14:14.422678",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESS",
+          "슈퍼사이클",
+          "전력망",
+          "AI",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "e029ccb9ae832022",
+      "title": "LS일렉트릭, 에이스침대 재생에너지 활용 돕는다…태양광 연계 시스템 구축 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RZGFYLWsyb0ItY1BjQWJQNWtTOXItYjQxTXNWSlZ1bkw1NlNfVUkzU2tKWkxIdVFjdUtDb2hCMzA4TWVFNW5SOTNleEhPc3BvaXdBQVh2dkV5bGplODg5SdIBeEFVX3lxTFB4V3Q0SVA3cjU4a0tLWjRWRXBSMjBPd2pzOUFiY3plYW9BVWR3SUptM0Q2WkVjRHAtZ0ZkU1FESHBEcE1OenlFSFF6YzBHRTJ3T2I3QTluSTJFa2JZQm9MWENuZGhnTHVMUlVVSkx3eTltS3dJYlVNag?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:31:52",
+      "collected_at": "2026-02-13T08:14:14.422703",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉트릭",
+          "에이스침대",
+          "재생에너지",
+          "태양광",
+          "시스템 구축"
+        ]
+      }
+    },
+    {
+      "id": "16ea03d64be961c3",
+      "title": "LS일렉트릭, 에이스침대에 태양광 연계 에너지관리 솔루션 구축 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sczBYUklFd050Rmp2bXRMSi1yWnZOSnJiZ3l0ckNWaVBNX1h3ZGV6ZXZScXZ3TmlIa2tnelFWSFNfVlFwR0o1VVplOHRaYnc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:04:24",
+      "collected_at": "2026-02-13T08:14:14.422728",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉트릭",
+          "에이스침대",
+          "태양광",
+          "에너지관리",
+          "솔루션"
+        ]
+      }
+    },
+    {
+      "id": "d63a37fc69c8f2e1",
+      "title": "SK그룹, 계열사 신재생에너지 사업 통합 추진...FI 유치 속도 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3eERHMlItUWFCSjZpdGt1TG8yWUlOalRTMGRiZVNpR0tpOEc0VzF3dGt1d1Rya29BN1F6YUZOZ01BRjZzdTNvVGNoMndpZkw3dk9Nb0x0UGxiZ9IBWEFVX3lxTE1VWmk2cmxFYkNiUUpXMXpORUkwRHNJbFAtRktBeW1fTHZKSDhhLWVfUGZXYmRCaVl2VG53aDZER0sxYkJvenY1WDRTOWpHVVBVYlVoRE9JQnM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:05:40",
+      "collected_at": "2026-02-13T08:14:14.422753",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SK그룹",
+          "신재생에너지",
+          "사업 통합",
+          "FI 유치",
+          "계열사"
+        ]
+      }
+    },
+    {
+      "id": "16a04691d585a45a",
+      "title": "LS일렉트릭, 에이스침대에 태양광 연계 FEMS 구축 완료 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwZVhKZXdhUVpSTkV6UXVuc2ZwZ0FTTE4zcXFHU3RXM3ZpZkphWUVNSlpsY3ZyVlR1Z29TZ2pFV0ljb3pzaEZKYk5mVzNjb0VXLVYycEh0eG5CVkt6WFo5ZnhGUGFVU004clF3dFFEUmM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T05:32:43",
+      "collected_at": "2026-02-13T08:14:14.422920",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉트릭",
+          "에이스침대",
+          "태양광",
+          "FEMS",
+          "구축 완료"
+        ]
+      }
+    },
+    {
+      "id": "d98c0ebf6acbba0f",
+      "title": "LS일렉트릭, 에이스침대에 ‘태양광 에너지 솔루션’ 구축…RE100 이행 가속 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFByWVR2LVVITjZwdjJSY3d5NWFfTVlvWGxGVjVlRk9WMzBnWFBfZlF2dlpkMWV5QTItZVNNZzJaVXN6UXFCV0VGaDk2dUtVQnBtX3JtWDgwcWI3TzVfMEIwY1NMc0s?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:40:11",
+      "collected_at": "2026-02-13T08:14:14.422945",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉트릭",
+          "에이스침대",
+          "태양광 에너지",
+          "RE100",
+          "이행 가속"
+        ]
+      }
+    },
+    {
+      "id": "e87767a4783e3857",
+      "title": "평창 공영주차장 4곳에 차양형 태양광 설치 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WTC1KMi1wcmZpdHlLRUQ2UGNkTEctM3FFSWdhSjRhZnltLThkN2RacmxKcjNIY1pDbk1VR08wZURzVXh3Nnh4N1QxdDJwa0N6V0J0Y1RJcFZXNC0zc0xOa0l0QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T03:02:42",
+      "collected_at": "2026-02-13T08:14:14.423021",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "평창",
+          "공영주차장",
+          "차양형",
+          "태양광",
+          "설치"
+        ]
+      }
+    },
+    {
+      "id": "2d26b74843d1be75",
+      "title": "한전KDN-세네갈 재생에너지청, 에너지ICT 협력 MOU 체결 - 브레이크뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBqYWV0R0xnM2J5YU9UeV9QX3k4U3NxUGVWcXlzcWJMQ3NsTE5JbzlNREFNOGxmQXlLSmtkVzNSMldHUkVFRHk2dA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T17:47:00",
+      "collected_at": "2026-02-13T08:14:14.423068",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KDN",
+          "세네갈 재생에너지청",
+          "에너지ICT",
+          "협력",
+          "MOU 체결"
+        ]
+      }
+    },
+    {
+      "id": "532766019a3ef6c6",
+      "title": "한국중부발전, ‘대불국가산업단지 내 재생에너지 직접 공급·RE100 지원' 다자간 업무협약 체결 - 이코노믹포스트",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05RTROT1plcDdKMl9mcGpBQ2xOcWF0WDRaQzhzaFo0a2pTRG9ERXFPTkRONDNIb1BLSDhxN29QREdoaGpIU2hYRElib0U?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T21:46:00",
+      "collected_at": "2026-02-13T08:14:14.423094",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국중부발전",
+          "대불국가산업단지",
+          "재생에너지",
+          "RE100",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "dfc1f7d13239bf57",
+      "title": "수원특례시, ‘아파트 알이(RE)100 옥상형 태양광 시범사업’ 추진..., 공용전기료 절감 기대 - 한국뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5obU1kZFozcGZvN0UxcnJfSTlIZng3ZkQ2c1pONXRLRGJRcVhtUmlyODYyVWNlY19rV3lzOUh3VF9HVVI2VjIwd01HZHdSUk1pQlU1R0dJVEJFUU5PR0FyakhHZ0xEZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T07:20:19",
+      "collected_at": "2026-02-13T08:14:14.423120",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수원특례시",
+          "아파트",
+          "RE100",
+          "태양광",
+          "시범사업"
+        ]
+      }
+    },
+    {
+      "id": "4ad61f22669725b2",
+      "title": "재생에너지 이격거리 규제 '합리화'…임미애 의원 발의안, 국회 본회의 통과 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CWTVDRVFHY2x5OFRjaTF6QWJOTmk2dGdRWFQxeGJPci1pdGRfTWF2V1JiUUtPOThEZERuZUs3cVhPbGdMb055WVNlMkpicVNQXzI4VTAyVDJ4STTSAVZBVV95cUxQZTNjeDM3cXBONGMtdWNhZ3pzdWNFbGFBc09tWE9QN09rOHpWZk5hQnV2SGU1SU0ydC1ydWwwX0I0SmFpOUJLU0lsUkRZTVdWVFFjalpRQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:32:47",
+      "collected_at": "2026-02-13T08:14:14.423168",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "이격거리 규제",
+          "합리화",
+          "임미애 의원",
+          "국회 본회의 통과"
+        ]
+      }
+    },
+    {
+      "id": "355c1c81f434a113",
+      "title": "LS ELECTRIC, 에이스침대에 태양광 연계 에너지관리 솔루션 구축 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16UHJadEZjM2YyalNLc0FrdnpYWk5Ub1praFo4bVRkRFBiNWhwNzNSOVUwT1RGdlp5UjhpRFdVQk5Fb3VaN3podkJ0aU9KWHdVM3IybGRXVmVjNW5TaGI3NlJFRHBpRGg5c2hNaXRmWFA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:43:40",
+      "collected_at": "2026-02-13T08:14:14.423195",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS ELECTRIC",
+          "에이스침대",
+          "태양광",
+          "에너지관리",
+          "솔루션"
+        ]
+      }
+    },
+    {
+      "id": "3de90ec34b6de4a2",
+      "title": "태양광발전 설비 설치로 아낀 전기요금, 사회에 환원 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MMC1zQnh1ZE1jTTEzNUtMcGR3eFJuaS1DWndUNDloVERHOVZZRHJ3eU5nd2Z3Y0tKdmF6SHNIdGlNMFViWFRvalplaldZNHdCTEtnQ0xUSnZZRU5BQnZpUA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T04:04:24",
+      "collected_at": "2026-02-13T08:14:14.423304",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광발전",
+          "설비 설치",
+          "전기요금",
+          "사회 환원",
+          "에너지 절약"
+        ]
+      }
+    },
+    {
+      "id": "7e0c46778bbf4cb9",
+      "title": "SK그룹 신재생에너지 사업 재편 소식에 SK이터닉스 22%대 강세 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFMXZOYkVyTXZmLVN3enBnR1VGY1NRT2RuN0xadHdFZS1feXRlV1FiQjQ3UnFuQkE5Z3B4cWdtWnNaaG04aXh1QU1nTXZxMjBxOGlr?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T00:52:00",
+      "collected_at": "2026-02-13T08:14:14.423401",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SK그룹",
+          "신재생에너지",
+          "사업 재편",
+          "SK이터닉스",
+          "강세"
+        ]
+      }
+    },
+    {
+      "id": "d603d09a2b98d01a",
+      "title": "LS일렉트릭, 에이스침대에 태양광 연계 에너지관리 솔루션 구축 - 인포스탁데일리",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5OUhBbEtxTU9yQ2VIMXdoeVl2aU5CalVGT2V4RERySGphaElncWhTaEdrOHZMWFA2MUY0RXNCY0pGMmg1azdpVDdNYmd4Y0pKR0JoNndKd1JpbndDZFdpYmIzTm5PYzNFTXBiYW5rdG8wVGJkSFE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-12T23:25:49",
+      "collected_at": "2026-02-13T08:14:14.423611",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS일렉트릭",
+          "에이스침대",
+          "태양광",
+          "에너지관리",
+          "솔루션 구축"
+        ]
+      }
+    },
+    {
+      "id": "d12d9b0097ae9bc4",
+      "title": "In the fight against climate change, Trump sides with climate change - vox.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzZtWWZMQ3hyOXdPY0ZpakpHR2xzeGhkT29uLVZNMFM3ak5lUUxsTnV4TDVLN0hvQkFhYlQxZmRJS0YwbURnSDdQZWxtaVN0YWo0WElnc3hIbFZjOUk3ZWlkSVVKX3ptX3VDOVA3R3NveWRRQk9ndm42bURaM1ZSQmNHaXV3TDhnT2dnTjRjZDI2MURkTjZFYXo1Tm4xS1NxUFBoUkZNajhrN2JZOWl5SzdLTVVLWkFz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T23:30:00",
+      "collected_at": "2026-02-13T08:14:15.876749",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화와의 싸움에서, 트럼프는 기후 변화의 편에 선다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "트럼프",
+          "대응",
+          "입장",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "55cefaa2b00fc8d6",
+      "title": "Trump’s EPA decides climate change doesn’t endanger public health – the evidence says otherwise - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObXMwTWFITEVHUVRydEhkUnRiR19nMHVNTURRVVloTFpGYVQ1NkFVMXJhX0FlX0huY0pNczdzMVNocWNkd0gtMFlCZ2tmNjdwblQ1X3lOQm1rNTJ1eDFkcEhXZ2dJSkMxVUpGQ2JUbTBnX0RVcjhRcFhtVWZHclFMQzdpZnhLYzkzX2M4czhpb0x1R1dmbVBoVldCdDJ4X1didnlCdDF6SUZacDFPMEJ2MFd0SGlzanJwVDFhT1d3ZW1jUmxX?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T19:11:25",
+      "collected_at": "2026-02-13T08:14:15.876788",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 EPA, 기후 변화가 공중 보건을 위협하지 않는다고 결정 – 증거는 그 반대"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "EPA",
+          "기후 변화",
+          "공중 보건",
+          "증거"
+        ]
+      }
+    },
+    {
+      "id": "cede8f164e476ce6",
+      "title": "Trump revokes US scientific finding behind climate change regulations - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNVZxVHJLdnRuZWZVSl9ibDVmUjFDZ3J2R3dNM0lFaTFvUVhyY3pDX1VnazI2dm95MURWQ2tuOEpucUx5dUtuWms3dDVuM0dLaXBncl8yQnV4aHZIS194U0lCS3pTVkZLbXdULU80NUIzTnV5RTJnVVA2SmI0SFJGRlRIRERDTlpkamJXNkpHREZJdzVlZ0FINDFScUxJU205VmVrMW9HeERGUTZSTXlZ0gG0AUFVX3lxTE9zekV6cy1VMERUZThxcGNZdVZLeXFHNTdmdXlhVlNjQVgyLVdQM0N4Rm5la21Za09aR0NNZjZ0OVZTaFNoU1RpUEgwWGtXcnl1R1MwVzZnMDhLMmlCclFzMGJWRmV5NURHNHpwbFFaY01rN3NZQVY1MUtSV3cxbWlDVjJ1cTdlb3VPcmloMmFRTHJTUGVwSXEtcnI3YmNfNEdEMENid21hbWk0YTR4dHliSE42Mg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:12:03",
+      "collected_at": "2026-02-13T08:14:15.876818",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 기후 변화 규제 근거 美 과학적 발견 철회 - 알자지라"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "규제",
+          "과학적발견",
+          "철회"
+        ]
+      }
+    },
+    {
+      "id": "72d2b55bbd2861c8",
+      "title": "Marc Thiessen says climate change is not ‘existential,’ but a ‘problem that can be managed’ - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52LWlWb3Jkd0hVTmo1TDNkb2dhbDBrVUxMRldibkVpU1FHTnp2aVF0aTU0QUlyYlZpeUpmZFpaakYzRHRmc1ZObzJONlN6WkdNVGc3SlNR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T02:46:39",
+      "collected_at": "2026-02-13T08:14:15.876941",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cbb6a93a24423e2c",
+      "title": "The U.S. Government Now Says Climate Change Doesn’t Harm Human Health - Capital B News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iRHZsMnVaWTdXZUhvU1VKclNjcHE5OVNsMEQ3N05ZVHR0dzVyMHV2OEJLVjRaWFpRaHFXaFYxdldVX2JjeXBVUENDb2JfY1l3YkVmQ1p2RjRtSkFpV3Vkd2pHNFotY1o0aG15MHhCX1FaTU1jU2Q5aUJQeWd1Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T22:15:00",
+      "collected_at": "2026-02-13T08:14:15.877163",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "73adfdc44174b292",
+      "title": "EPA rules greenhouse gases are no danger. What's Wisconsin fallout? - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOXRJTmRwUWtBUDZQUkYybnFNWXp4bC1aOU9GUHVIeGFTdlJZekh1S2RIeHB4MmxXRTEtbVZ0Y05aenQ2c2dIS2RtVkRCM09qY0FlTjF1SmxXR2hFeEdGMTRHVzFtYW4zbmZDTWllYURnaDRERml4LWRsSXQ1UHBXdzZiWDQ3WVVJZDdMai1rM241VkU3ZTM2M1ptTXp2ZVZjNGFuTGUtaEIycDlKSFptV2R5VFZaZGJvbzhoNzFKS3NBSEhmTXBKVGZ5dFFmVW9ZNVE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T03:17:00",
+      "collected_at": "2026-02-13T08:14:15.877250",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "EPA, 온실가스 무해 판정. 위스콘신에 미칠 파장은?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "EPA",
+          "온실가스",
+          "무해",
+          "위스콘신",
+          "파장"
+        ]
+      }
+    },
+    {
+      "id": "c485df3599d4e28b",
+      "title": "Portland mayor, Multnomah County chair blast Trump EPA for rollback of key climate change finding - KGW",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVlhsRDIwbVBjc3FwRERvdUgxMVhnVFpSUGZYRHRIZlQtaTBCakN4eUM4QWlXcm1fM1h2LWhQOEZUbUhYcnNnVXBxY0dYLVlCdVFEQjhjcFdnbjJZS1MxX0dmTFdCTWprRlJZRUxNUkZlZXpYVlV1cVdTdTVZdEVMMV9aRk1FUHRnUnA0VEZPSFZPcjlubmRUVWFzbHpGWjVPb1VUWXFMcmdKZkhkS3RXLXI4dkR0dGFhSDBFanFaOU9jb2htNk1fRzMxdi1jWVFoWG1RUWF6RkhkUlR1OEhsdHFwQXhpSjZ5Z2tlWTdyVFQyd0xnR1locnVsYVQxS2duaHlDLU1XczRveWJ6eV9yUA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T04:18:00",
+      "collected_at": "2026-02-13T08:14:15.877424",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "포틀랜드 시장, 멀트노마 카운티 의장, 트럼프 EPA의 핵심 기후변화 조사 결과 철회 맹비난 - KGW"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "포틀랜드",
+          "트럼프 EPA",
+          "기후변화",
+          "철회",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "d9c9006a307dca57",
+      "title": "Obama says US 'less safe' after Trump erases power to fight climate change - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdGdyNHlTRktpT0lvTlI2UlpBVGl6ZENQX3U2QkZza2dXVks3QllVU0xHb0lET2dfelI1UWVhMTY5MU5BdmxFRW91YTlsT21mSndzbzRYc1BkbExfNEVBaG1YcnZNVF93bktNekZ5VklaOEtla0dLeElmbFdUQ2owVk9RZFI0N2p3NFV2RE5TM3VkaVRZenNfTXVlWmRteTdidlJfYVA1UGsybHE1cENta2VERVRUcjA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T23:08:00",
+      "collected_at": "2026-02-13T08:14:15.877454",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "오바마, 트럼프의 기후 변화 대응 권한 삭제 후 미국 '덜 안전' 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "오바마",
+          "트럼프",
+          "기후 변화",
+          "미국",
+          "안보"
+        ]
+      }
+    },
+    {
+      "id": "6ecd90274b534bf0",
+      "title": "Opinion | An Onslaught of Climate Change Litigation - The Wall Street Journal",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxNVGg0RDR6TEZzYV9fOGZfSldGRWk3TG1iN2JjZUs2dUtnZ2xnSGFSdENQVjNRa2N2Z2VzYy0wV3dzTXJ3b2N3RmJlZXZmWU5mdjVFWWVsdHVFWkp1bXgtQ1loQTVyNVVSTnoySHlma1htM3A4Uk1fUTJnTHFPZEU0anA4OHJCbkpmVFQ3cHVUMVpEZVlBMFRmb0NvbGlqWWJUM0pjNldDbGFKWGlyV3I1X0xvLU1feTNXdHVPd2tJMzUweDR4Y2xLN0tRNFZfTU9zbGhYVHctLXlrNVlKbUVSYzlBOEJWemZBSVd4Z1RsczVBZnlSd19rTjQ5eUkwNmYzbmp1UkttOExjLUhmVlV5WWNMUVIxRDNWb3VjVE1TVjduc050cnk0UTg4OEJsZ0IwWkJZZ2N6SGQxZGVxNGxKSHZicWxJcGl5SWJvVlFSdHpkVmtyZUtYQkx5THh4X0RoTEFNYnQ1Vzc0OVROeF9mcFo5eWMySDF4RkFzLUZzWG95ZFVUQ2wwYkZB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T18:47:00",
+      "collected_at": "2026-02-13T08:14:15.877504",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ed53cd1f45883583",
+      "title": "Judge quashes small town's climate change suit against Duke Energy - Courthouse News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0RaMGpydGppRjJpSGFNUmIzQXhQaGdZN29PWGRNZ0ZSQ1hZcDRQMG1yNWdTYmNNVk1La2h2b05aTjVQY0lJT2lhS3d0RHNCbmZXQ193dzlodjRYQ21XMlJvVDJ5Nmw5Tl9OYXVYemZ1OGFTR2J3blJfRnNkcGtpbGgtQllnQkVHREtpNUtWY3Q2bmpqV2NGTg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T02:03:45",
+      "collected_at": "2026-02-13T08:14:15.877764",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "판사, 듀크 에너지 상대 소도시 기후 변화 소송 기각 - 법원 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "판사",
+          "기각",
+          "소도시",
+          "기후 변화 소송",
+          "듀크 에너지"
+        ]
+      }
+    },
+    {
+      "id": "00f89393f2711ae3",
+      "title": "Scientific studies calculate climate change as health danger, while Trump calls it a ‘scam’ - AccessWDUN",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHg2VXdyOHBMTGhHMVFPenY0T1lBbEQwVTkyMmhsS3I0MU9nd1dBTFNOYXFmUVhQWG04MmExZEdQZ3BRZVVOSjBGcU1fb3FxTmxqc1RnY0xMTkw5aXBOc1BoNll6cGE3RENHNUkwQnJTdHJrRHFZOVFQSjk3TFp0N2R2RHF6UHl5czFPcGUwVnp6UlU5ZjI1ZVBzZ0s2YjZhcEFwalFZblNtV2w3Q2NXamlPbWg4RGR6eGg3d2Ziaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T01:38:57",
+      "collected_at": "2026-02-13T08:14:15.877872",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4623c6c56b64462e",
+      "title": "Trump's revokes scientific finding that underpinned US climate change - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPODdUQzRkVE5qYTJzeGYxNWFaazJNUlRwVDZxLTBraTYxeTNzWjUtbFFoN0t6cXM4SWkwc1BIdjA1azI5djl6em5welhGSlhMM3JZLUJwZ3JnTVZpR0JvSFBLRFVCSXdsRmFFeXd2eWFxWlg5cEtBTi1wWGpFSU4xSldGWmVTR0l0Zlh3Z3lNaHNQb1Nhc0d6YUkzNjl5OFFEVUloSThSeDlLLWV5TlExUXBSaDd4UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T05:05:32",
+      "collected_at": "2026-02-13T08:14:15.877958",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 미국 기후변화의 근거가 된 과학적 발견을 철회 - 유로뉴스닷컴"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "과학적_발견",
+          "철회",
+          "미국_기후변화",
+          "근거"
+        ]
+      }
+    },
+    {
+      "id": "a2fedf9dba3b98ef",
+      "title": "Trump administration dismantles US ability to fight climate change; environmentalists vow to appeal - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2NnQVlkeUxqSFFjS0lhMkFwZW83LVhYOGJyQ2plRzI0bUxlN1IxanhROVJSWjZLcXhSYUZPTWg1RXFyb2FodHNRbGJBWk5Nb0NaUFRuUFNtRG9mR0ZyRWJVQ3JxYzZ3QVNDWTNpM2MyOTMyXzZCdGNWc0F4Y00yNnBOQjAydWZMaEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:32:51",
+      "collected_at": "2026-02-13T08:14:15.877987",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, 미국의 기후변화 대응 능력 해체; 환경운동가들 항소 다짐 - 시카고 트리뷴"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "기후변화",
+          "대응 능력",
+          "해체",
+          "환경운동가"
+        ]
+      }
+    },
+    {
+      "id": "f6448d22a0cae259",
+      "title": "Trump administration revokes EPA's ability to regulate climate change - FOX 35 Orlando",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUHZnWDNtenJ3SHhYZ0NsSnBJenRrM1ZEbHRPZU53VEJFcmUwZ0Joei1QbkpYZlJyTGpENkRfM21XMTBqa2k0NWZqRHZNUWMzbE1BRDlMMWx5RS01NEZRXzNYUjNZVXAyZlZQaHB5REE5S2ZIRGNiclN2YXZ6QzQ2ZllyX0VYaVhXdEstaWU2ZjB3cXhLblhwMVJaTHVTZTlR0gGmAUFVX3lxTE4tRDM5YWhIdWxCMnlWRDBMZS1vR3RDYW1sci1Fd1VrMFdkVFJDTzN1ekhQa2l4S090RzBpdkhnMW8tUWJhd3lZNE9CcW9TWG50akI1WTAtZEFFeVoxVnk4Qld1ZXpKbXNnOVlkQWhQZWVfT012SHgyelF0LWlLLWxmYWZ5MGJQcFFIZ3lURWdOVjJfUkcxa2tobjVITDdKWTFubWZDR3c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T20:45:13",
+      "collected_at": "2026-02-13T08:14:15.878040",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, EPA의 기후 변화 규제 권한 박탈 - FOX 35 올랜도"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "EPA",
+          "기후 변화",
+          "규제",
+          "권한 박탈"
+        ]
+      }
+    },
+    {
+      "id": "d96a6d7b6c8142d1",
+      "title": "Defanging landmark finding, Trump cements anti-climate change agenda - Courthouse News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcm43aUdFRDFwNlZtWlBLeVdfd2pKNzlUYkJraFhtd1RGdkRaVFUtVjgyMUMwRGduTWd6bG5wcUhna1ZmWHdxMHhXTEZPNkEyWHU2cjAwSElObW11NXlsZDVWS0tMbEx4QVVheDI5UjBpNXhCbXZXbnF4Vk53LWdHOWtiUzlaQmJsVUlxNi0tLTRlWjJKbUswa21GUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:01:21",
+      "collected_at": "2026-02-13T08:14:15.878098",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6af6530cced3dca1",
+      "title": "EPA reverses long-standing climate change finding - 9News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWtzMlJyaVVEX3JNeTdJNVZVY1l0TmNPUmdzeEhuZXh6bnk5SHp6YjNjTmtyZUJrd0ktT1dOdm54c2pRWUlkQk5zTGtwa0xpcXpLZldmVTgydkY4RnpTdy02dmlqTjk1N3BHa1dLTkFVNGN6ZzdJTHNpbjItZV9WOHBCSHI1LU0zZlNLVExhSjRSVDV1MVNrYkhqRDZaQXFvUHZpZnBrZVJBOXRqQnZtUGxIdHQ0WVdlbHpXSllhUDJjSzM4MExFWVp5cw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T04:24:00",
+      "collected_at": "2026-02-13T08:14:15.878155",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EPA, 장기적인 기후 변화 결정 번복 - 9뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "EPA",
+          "기후 변화",
+          "번복",
+          "결정",
+          "장기적"
+        ]
+      }
+    },
+    {
+      "id": "d28d2a26fab7a553",
+      "title": "EPA rescinds landmark climate change ruling, clearing way for Trump to shred more environmental rules - Stocktonia",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORlNlQ3RPS0RoV1dwWFlEU3lYWXptOWJ4MnVPNER1N3FoNmdCcUJ3ZU8yWkpqMmU2MEtlWkNHQTdwRm1GU0hOUzFLVjBPaTZ4eTh1X3R6ZHFtU21mRndkQ3VpcTVNUXBhYjRwdm12SXVkeEhnYXRKX0o5Q0pOT3I1Wnh6QmFWWlV3ZjhPTnZyQ0tidzdVckN6TmtCUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T23:10:43",
+      "collected_at": "2026-02-13T08:14:15.878208",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EPA, 획기적인 기후변화 규정 철회… 트럼프의 추가 환경 규제 폐기 길 열어 - 스톡토니아"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "환경보호청",
+          "기후변화",
+          "규제 철회",
+          "트럼프",
+          "환경 정책"
+        ]
+      }
+    },
+    {
+      "id": "241fca5a1209bd3b",
+      "title": "Analysis: Trump's EPA erases main government tool to fight climate change - KING5.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaE9wUjJidTVXNmFBdHF2NUNKWnB4Y3FhYzNKTGRqZzFCazNZbGREek44dllaY2VtQndPM2h4Tjlyb0xaaUhiQ09ld1JMTzBNSFRfcXVjMFk5d21BTE5ibWJFWk9xZWtIYlhfd3Y2R3g4WWNBVkhyMkppcXNfd3hoZzhfVkV5TFR5MFhPZzhISWtXNFFMTGpWU1p5b2tMNFp2TlF3djd5cWtVZWl4ckJuWUZPclowam5wb253Tg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T01:59:00",
+      "collected_at": "2026-02-13T08:14:15.878234",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "분석: 트럼프 EPA, 기후 변화 대응 주요 정부 수단 삭제"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "EPA",
+          "기후변화",
+          "정부도구",
+          "폐지"
+        ]
+      }
+    },
+    {
+      "id": "eff1defc1cce8b26",
+      "title": "Wyoming Cheers End Of Obama-Era EPA Climate Change Rule - Cowboy State Daily",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemxDOEcxLTBlaGY5WGl4TnE4eF9yMWQwMkVoTW9XZnhUT3dpSTZXMS1NU0J3NElxV3lGTU9rV2ZmSEllSHM5djdwbnJ5U0hLdzR0VzNWbWpROHR4MmxmMzlWZ211Q2hCaFhRN0hNczZiekdNX2J4VjRfV3hJZlg4SXhGbHBWdTk5a3RXTHNvU1pfMkE5bXdmUm5QYkw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:41:00",
+      "collected_at": "2026-02-13T08:14:15.878260",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "와이오밍, 오바마 시대 EPA 기후변화 규제 종료를 환영하다 - 카우보이 스테이트 데일리"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "와이오밍",
+          "EPA",
+          "기후변화 규제",
+          "종료",
+          "환영"
+        ]
+      }
+    },
+    {
+      "id": "f0d6bc5ccb6350ab",
+      "title": "Trump reverses conclusion that climate change is harming Americans - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtdlpZNXNQSk5vbWZieXdOUmwyZUVnM1pCTG5YbzNGaEJfQnNRdXg2bUxEcHFPemk1czF6VUFSTTZlblA2a0FfVW42R3hjREZJMEZLemZZTmJZUTlMTTJ3VlRGay1HN2MwQm1mcGZjLTdkdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:32:00",
+      "collected_at": "2026-02-13T08:14:15.878578",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 기후 변화가 미국인에게 해를 끼친다는 결론을 번복하다 - 로스앤젤레스 타임스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "결론 번복",
+          "미국인 피해",
+          "로스앤젤레스 타임스"
+        ]
+      }
+    },
+    {
+      "id": "973cf897cb7f648f",
+      "title": "Trump repeals US power to fight climate change, erases finding it endangers health and environment - Juneau Independent",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb1ZJNy0ySi1NVU1VUmVZZHFDYk80cWV6QmlDa19ucEtvdTlsaVpJZVU2bnBJdkhRUFZUVEtKWmpXQ1ZKTmRIY2dVWV9ra1ROazQyYm1PRFU1ZkRsdGdPY1JUd1JTdUpNQzZGT01IMkVsaU50WnpuWUJMNnNZbG5rR1piNWRJWGFBVGFWdi1HUktmYVRsTTlHcEJzem8?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T19:57:57",
+      "collected_at": "2026-02-13T08:14:15.878632",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 기후변화 대응 美 권한 폐지… 건강·환경 위협 발견 삭제"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "권한 폐지",
+          "환경 위협",
+          "미국 정책"
+        ]
+      }
+    },
+    {
+      "id": "f6e3d02adb482c69",
+      "title": "Trump revokes landmark climate change rule; Newsom vows to sue - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTWgwWmJmajMyMzYtMlBFTTE5RkZ4am5vMldRUkpCdWpRZE54QUQ0ZVh5M01FbDZrU0lkaWN6NklKZ0t1aWJXa1pRNDk3Tm1mUzRJQnluMHFjQ082d2otcUx2ZVJHaGlicDB4WURVUjgxLTU2R2FHeEh3R1BuVldKNFEzOEU3NUVpR19jZkFEeF9FVm9rWnNva0ZETXRtRkwwNVo2dVNaUl9UOWFFaUE4djltcWp1aHpvdTdfa0RRbTRFTGV10gHKAUFVX3lxTE9PZm91UVZ4bjk2S3J5dlo5VlJXN3dNVG5BR3puSWVQYzlSdEZhR1duR3h3T2tZUzdTZnJ4VlYzaVJYMHk4djNZZVVWZTgteXdhRERGNldibXgzN202dUk2WHlxVFcxdzVMeUQ4OXBDdGtRdFhEaDRaODlKS0dodlBXOG9qVENYX0dsNnFsRFd6SXkxUUFuRXZMU01CTU5jNjk5SEJCWktFeV9rNnpzeGM0aWxycUJWMk9tTTQ3RWMwcFRyVFhFZ0JnSVE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T18:44:00",
+      "collected_at": "2026-02-13T08:14:15.878660",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 획기적인 기후변화 규제 철회; 뉴섬, 소송 예고 - 더 머큐리 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화 규제",
+          "철회",
+          "뉴섬",
+          "소송"
+        ]
+      }
+    },
+    {
+      "id": "cfece0a3657e8ee0",
+      "title": "Trump scraps key US scientific finding used to justify climate change regulations - People Daily",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaDZLMlppbjl3Y3pkdE5jUWgyTkxJT01ZS1RyV2JFdjhHRGhmcHUwS1JPQVpCa3pJSTQ5aUNMLTE1b0l0UXJlUEkxRjBzalEwdk9YbHNfQ21xa2JrSi1MaUxldE1fM3J5Z3owRlhRLUFiUHVBMTJRRzM5ZXNRSlp5S2RPTnRoTXhISkxmOFpYWEx2SlpFYVFpZEh5ZHRkYk9UX3kzaHZHME1vNlBvN2EyVVBNYzc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T05:49:28",
+      "collected_at": "2026-02-13T08:14:15.878729",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "fc1c95e5d195ecd3",
+      "title": "🎥Trump's EPA rolls back Obama-era climate change rules - North Platte Post",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QRXNOVi1lQTE3OWFad2hTWWQzMDlYUVAtSnIyWVk0WHdiWndrUHlWdTNDa1BWbkNDR0hfdGloOEdCZUo4cGszZktubVFrOXNxanNaMWpYMVE2Y0k3dm9henN2YnhlcmVzejRZOEtHOEg4TUFUWWhIZDhn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:04:46",
+      "collected_at": "2026-02-13T08:14:15.878793",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 환경보호청, 오바마 시대 기후변화 규제 철회 - 노스 플랫 포스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "EPA",
+          "기후변화",
+          "규제완화",
+          "오바마"
+        ]
+      }
+    },
+    {
+      "id": "d219d1fc8f0ab26e",
+      "title": "🎥Trump's EPA rolls back Obama-era climate change rules - Salina Post",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZaG9KMHN1TzR3ZjNZM3dmY3pPVVdWclQ1dXY4eFZhS2R5ZTlxS1B3YlhuZDdOeHlLX1JYcXYyZVl5OUdFeHd6TUFVNlA1TDctLXE1Um5HOHdPTEdVYWU2eGJDd0trMjZKM1BDSnNJVlRpNDA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T00:01:05",
+      "collected_at": "2026-02-13T08:14:15.878933",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 EPA, 오바마 시대 기후변화 규제 철회 - 살리나 포스트"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "EPA",
+          "기후변화 규제",
+          "오바마 시대",
+          "규제 완화"
+        ]
+      }
+    },
+    {
+      "id": "1d03d8324ea115cd",
+      "title": "Trump repeals landmark ruling on climate change - Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRGcwTmJ4dG5jZDFoWkNNaGd1X3lVcUFiVDlXdU4yMjRWZGRranQxcUpZQWdWNFNOUDVUTW9xbVNwRnlJVVVXcHFic0IwbTBZNFl4WFF0bEdmZDV0NVl3N0F1VW12dGdYbGtkdVI1MVUwcDlod2pETkEybTZwRFRnR3IyRTBzS3RzNlMtQ29kcDhDMUtsdkItV1VjTm05VWZqUm16NmJ4SG1qVF9P?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T02:00:00",
+      "collected_at": "2026-02-13T08:14:15.878959",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 기후 변화 획기적 판결 폐지 - 호주 방송 공사"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후 변화",
+          "폐지",
+          "판결",
+          "획기적"
+        ]
+      }
+    },
+    {
+      "id": "5eab2b1c1fcb4993",
+      "title": "Trump revokes scientific finding underpinning US climate change regulations - NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0tpMDRsb3Ytek5ZcnV4X3FZV1ZOejVtWTJUOTlPdmtjcDZEcVNieHQxWUo3OUVZZWdubkxEbWxxQVowQ3lHM2xCQ1Q2MnlwdTEtVVotS3FMR05sOHpOYU5pLVExVXc4ekFjTm5WLUI0bzhJUnM3ZDZGcnJ0SVdzUDVyVVI1WERUS3ZubW9CcHJSYXhzcTZFWGpIcHpfekJXNUJOSWdULWdxbm10UTUzUVUyV3RoZU1vUEFUdGN3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T03:41:23",
+      "collected_at": "2026-02-13T08:14:15.878984",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 미국 기후변화 규제 근거 과학적 발견 철회 - 뉴스바이트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "규제",
+          "과학적 발견",
+          "철회"
+        ]
+      }
+    },
+    {
+      "id": "03f310c41107ef98",
+      "title": "Trump terminates Obama-era climate change policy - Todayville",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMlpqQl9BdVlwcFBpV2FKQmV5Sng2aDhZVW5iTWNRei13d0M3QjdXSS0tWDFISGdUSndlRFVhU2RyN3JNYnZLcXI2cFZMcE5ma0ZJSDB6YW1VdGhSSGJnaWV0aDc5TWRWT0RQZk01TGJGM0FLelVxZ0dZcjdVNDJxellR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T07:58:55",
+      "collected_at": "2026-02-13T08:14:15.879006",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 오바마 시대 기후변화 정책 폐기 - 투데이빌"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "오바마",
+          "기후변화",
+          "정책",
+          "폐기"
+        ]
+      }
+    },
+    {
+      "id": "606f66e20b165db4",
+      "title": "Donald Trump sets fire to US climate change standards in major greenhouse gas rollback - The Mirror",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2lBNUJpWWZqTWxDN1E0NThtR2hVMDloUWN0UHpqNnRUTXVlZmk4dmpyVzNBaTdVYjdFMmY3UFNUdmhDZUJjcDY3Z0VXWDlWc2NuRXoteXh0Qk5BQUpHdmNfTkxlNFRXZWoyZmdtSm9wLXFiRFVCOWxvWHdlT1R1a1R2TdIBiAFBVV95cUxQRmFRRzlScUVuN3E5Q05ZS05aNXRRMjFSWERRM3U4QzJHN1BiZFhpN21WQWlHbm5HY1lhOUFmYnpfZ1M4c0FPc1NyYjdKbXNtdTRZZEtNWW5zU01lNzJqYmVHQVdONHFBXzlvcnNPLTlYSy1LRVBKMXBsdUE3a2paWGRQekhVSXlw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T18:58:00",
+      "collected_at": "2026-02-13T08:14:15.879052",
+      "keywords_matched": [
+        "climate change",
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "도널드 트럼프, 주요 온실가스 규제 완화로 미국 기후변화 기준에 불을 지르다 - 더 미러"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "도널드 트럼프",
+          "기후변화",
+          "온실가스",
+          "규제 완화",
+          "미국"
+        ]
+      }
+    },
+    {
+      "id": "42486551858360fa",
+      "title": "Trump administration rolls back ‘con job’ climate change scientific finding on air policy - News24",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSS1oT2dfSHYxcHFfSjFuaEZWcmpjTFVsT3hIUWxhU0VFOVZvLXplajY0NUd6WTA4a0haMUhzTlU2U3RJbGU4WXNlREIwZE1WTUtVN3NBRmFJSjFOOXVwRk9WUWxXZ1BpTGxkYWUxd0xvcWZ3b0hkOVpWNEV3dGk1UzNoNzVnSjg3Q2NfSUE0aFlBVmlVQVVJV2F5UlZ3V3QyZzl4eEVIeE9ablBCaGh1eDU3Y2FMYjFEV3dQTkcyV3VGNkZJdUdoU3Vn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T06:33:27",
+      "collected_at": "2026-02-13T08:14:15.879274",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "11ee1dd9ba78a846",
+      "title": "Key things to know as Trump revokes landmark climate change finding - The i Paper",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUs0aTRGQ0NMM2Njb3J3NFVfNmlkX2YtcmVXbV9TZ05CTHJha3RfR2ZwTXhLYk1fZnd4bEVxandla1BrbkFINXpzWXNsdVdmNUhiRDA0QWtuZS02cjJsb2dkXzFiWEJRX0RTeVk1OWFOZl9jaElQcTVuT2tTamg0NVkzbTMtVmJUVGppaGkxczl5cDlQaU9wT3RsWUdTdVY0c3c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T05:07:13",
+      "collected_at": "2026-02-13T08:14:15.879301",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 획기적 기후변화 결정 취소: 알아야 할 핵심 사항 - 디 아이 페이퍼"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "취소",
+          "획기적",
+          "결정"
+        ]
+      }
+    },
+    {
+      "id": "dd90a051a6edeb84",
+      "title": "Trump condemned for revoking scientific finding on climate change - Irish Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSHE4TXZiQk5YX255MjNLUW1fRWhrZDFESEFyWkJ6MTh3X1lUUGhJX1BhY0xGLWNzMnhEVG0yMXF3UURMblFLcWtyd0hOVjlIUFZ4dEpCU1dOQ2hhYkJkd0hvVGU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-12T22:31:00",
+      "collected_at": "2026-02-13T08:14:15.879326",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 기후 변화 과학적 발견 철회로 비난받아 - 아이리시 이그재미너"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "비난",
+          "철회",
+          "과학적 발견",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "728bd97ebed2033d",
+      "title": "Qld coalmine expansion approved by Albanese government will clear habitat and fuel climate crisis, scientists say",
+      "link": "https://www.theguardian.com/environment/2026/feb/13/qld-coalmine-expansion-approved-by-albanese-government-will-clear-habitat-and-fuel-climate-crisis-scientists-say",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-13T07:03:52",
+      "collected_at": "2026-02-13T08:14:15.448348",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "61ef20bae6663390",
+      "title": "Tony Blair’s thinktank accuses Ed Miliband of driving up energy prices",
+      "link": "https://www.theguardian.com/environment/2026/feb/13/tony-blair-institute-thinktank-ed-miliband-energy-prices",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-13T00:01:30",
+      "collected_at": "2026-02-13T08:14:15.448430",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3cc8f8d89f9cac95",
+      "title": "US publishes interim tax credit rules meant to restrict China clean energy influence - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnkydU8ycU9RVGxtMU1abGdFeHlnbXNra1VqeFV3eVZUUTVybnBYdFdKRXFDVGJTYlZnLWFrZDFLY3RXRUZfcWdlNTZDdkRTMU80WGtwSnY5ZG15M05kOWFoYVBXQkZxTnM4dWppSy1nVmRpRXJnMC1iN3dHaGVuSENCdE1LT0FTTENHUjlTX1lmOGQ1cXhaYUp5XzVtcVFHN0Q2RnUzYzJQQkpIb1ByVzZjSQ?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-02-12T22:40:48",
+      "collected_at": "2026-02-13T08:14:16.103731",
+      "keywords_matched": [
+        "clean energy"
+      ],
+      "translation": {
+        "title_ko": "미국, 중국 청정에너지 영향력 제한 위한 잠정 세액 공제 규정 발표"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "세액 공제",
+          "중국",
+          "청정에너지",
+          "영향력 제한"
+        ]
+      }
     }
   ]
 }
