@@ -1,16 +1,16 @@
 {
   "date": "2026-02-14",
   "metadata": {
-    "collected_at": "2026-02-13T23:19:24.389547",
-    "total_articles": 57,
+    "collected_at": "2026-02-14T08:10:19.708938",
+    "total_articles": 73,
     "sources": {
-      "korean": 20,
-      "international": 37
+      "korean": 26,
+      "international": 47
     },
     "sentiment_distribution": {
-      "positive": 7,
-      "negative": 30,
-      "neutral": 7
+      "positive": 10,
+      "negative": 38,
+      "neutral": 9
     }
   },
   "articles": [
@@ -1414,6 +1414,404 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "697427d1de100974",
+      "title": "기후변화로 강릉까지 올라온 남방큰돌고래…해양생태계 변화 가속 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5USFdmV1BNeEpzTjIxSTZ6SUFlUkZIXzRhUlZVZU00OWVOakgyQUhHbFBqdFV2cUJCcVRLc0xYd3ZDdDlFblJDQ21TbDBnVFZjM2ZMUw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T03:00:00",
+      "collected_at": "2026-02-14T08:07:23.791867",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "남방큰돌고래",
+          "강릉",
+          "해양생태계",
+          "변화 가속"
+        ]
+      }
+    },
+    {
+      "id": "909c2695e9ea2dbb",
+      "title": "국립수목원, 기후대응 교육 효과 진단 ‘평가 지침서’ 발간 - 환경과조경",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBweEZ1ZEFGeW5OZmRROHhGczFLcExRT1J4WURjWHFpUnIzcUpQUmhGNkltemc1d0xYN1dVTXBidlh0WWdkWHdCamVYc0lBcVd1eUNPRVlzN2FVcDBQbXc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T00:43:35",
+      "collected_at": "2026-02-14T08:07:23.792161",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립수목원",
+          "기후대응",
+          "교육",
+          "효과 진단",
+          "평가 지침서"
+        ]
+      }
+    },
+    {
+      "id": "bc603d468fe915cc",
+      "title": "미국 너머 전 지구적으로 민폐끼치는 트럼프…온실가스 규제 법적 근거 폐기 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VlV5dExEV1lTRWxZcFpBQ0VqNnFGeVRYRmFidHpxZ3pkY3owNFQ4dVJlSHNBOTVGcUZZMnlpMUR4NktVUVR0Q3JQQlAyeGNFaWkydEtyWlRRVmhXa1BUaUlCXzZpSi1DU0E4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T07:07:02",
+      "collected_at": "2026-02-14T08:07:23.792250",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "온실가스",
+          "규제",
+          "법적 근거 폐기",
+          "전 지구적"
+        ]
+      }
+    },
+    {
+      "id": "c889df42bd424981",
+      "title": "기후변화에 들쭉날쭉 감귤 방제 시기, 디지털 달력으로 알려준다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yQzhVOXJRVjFzXzA0ZjYyZFBJbDZfT2ZRZm9vbWlqYmVibXY3X0FqZkducVFBdzJDMmF1a2tyenJ5ekJBZk51Y2ZKTjBZcV95R2hr?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T23:05:00",
+      "collected_at": "2026-02-14T08:07:23.792310",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "감귤",
+          "방제",
+          "디지털 달력",
+          "농업"
+        ]
+      }
+    },
+    {
+      "id": "75b28b8622481e2b",
+      "title": "[분석] 탄소중립의 후퇴인가, ‘에너지 현실주의’의 공습인가 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CZ2FRbU9HbC1tSEpwWVBOSHc2VTlyNzVVVlBRTWx4bURkbk9XazBlcjJPN0p0TDczQXg0MlJpWmJlelFiQzRMXzdyRVpWUmxTbnpJYnZXM0hKby1qSFljQ2ZMbVBTTkRkZ2xYQm93?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-13T22:00:00",
+      "collected_at": "2026-02-14T08:07:23.608078",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "에너지 현실주의",
+          "후퇴",
+          "공습",
+          "기후 정책"
+        ]
+      }
+    },
+    {
+      "id": "5d3a3f99af8348c1",
+      "title": "농어촌 재생에너지,‘현장소통’과 ‘규제개선’으로 돌파구를 찾는다! - 뉴스N제주",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEYUNzTF9jb1V6UzdGOXlZWlkyLV9OUlhqMFVrRW4ycFhFZC1KRzIxVXNNZGI3RTFKOWl1bjBtWjdYNUtiZE04XzgtQmRkV000Rm5NeHJaRHNJSkFmNjFtZ3JoQWlzZDlIUWVB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T00:49:08",
+      "collected_at": "2026-02-14T08:07:23.652765",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농어촌",
+          "재생에너지",
+          "현장소통",
+          "규제개선",
+          "돌파구"
+        ]
+      }
+    },
+    {
+      "id": "9315d51ce10fd16a",
+      "title": "US pressures Vanuatu at UN over ICJ’s landmark climate change ruling - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcF9KRmZSNTR4TkNnQk1hb0hSUlg3cFpTSlZYazRYSjFZZkE2RUdhV2Z0WUJCdTN2YVMwZmQ1MFRlXzV1RGN5V0JZSzVlazI2d3NyQjN1LW0xTHIxeE1YcVdJakQxTzlIc0s2T0lVdE5xSTJvTjlIOV9OcmxCeU5FS3g2d0s5SGNWaWxvUVFqQ0dPZnd5ZmVuM0ZEdjFib0Z1SFVjVXBLWkVDUjVh0gGyAUFVX3lxTE1LbXVkQ1ZHSkx0eEVibUI2ZDJ6aUR0b3M0Ul93UkdmYUlpN2RENmk1aG8xYV9mSk83MmpGVWs3S290QkUwSU5XVTN1ZnZqNEJsTkxYMzdDci1yaHRUZklJZEV1NWRFaUxXXzJzbWJFdmk2MklBdERsQVpPYTNIaW5iMkNGSE5pRWdHV3lqLWx2X1FzN1RxVVRmSTNIWjdSVDZTbzNNZFZ2S0tocWJIRlc2OXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-14T05:57:39",
+      "collected_at": "2026-02-14T08:07:25.198498",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "94ab8084e625c909",
+      "title": "Fossil evidence reveals how gray wolves adapt diets to climate change - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrX3g5X1h4WEhGLXprX29fSEZ1VGR6NUtFRVI4d3ViMXY3RElKQjZnaXFPNlhsTE5WNV8xdGdPU0ZTWnZpS1ZnVS1paWRFVTRQdF9yY2VqWGd4dHZsMGRMdldsMXNfUU9LYmRjWWVUbWNUQWdBYVVVQVpn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T19:00:01",
+      "collected_at": "2026-02-14T08:07:25.199033",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "화석 증거, 회색 늑대의 기후 변화 식단 적응 방식 밝혀내"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "화석 증거",
+          "회색 늑대",
+          "식단 적응",
+          "기후 변화",
+          "생존 전략"
+        ]
+      }
+    },
+    {
+      "id": "5937078079792ac1",
+      "title": "Letter: It’s time to act on climate change - Bangor Daily News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOWVyN2w3c19GdGZ0dS1MQzlEWXlJOS13N29lVDl0Nnd4OHNiQnlwN3BfdklnNmFXZVNUWUxKcEdMc0xSdmlZVVhxRUl1VGp0NnRsWTA0RWkwMFlVQTNBbVZUUnhvMC1ad0tFeURSM2hMN3hMZmhYTEtlMmxvMlkzNUhKTW4wYkp4MjV3dGN1LUN6Nm12cnRjeGhoYmRvenpZbUJkS2dR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-14T06:00:00",
+      "collected_at": "2026-02-14T08:07:25.199214",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "편지: 기후 변화에 행동할 때입니다 - 뱅거 데일리 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "행동",
+          "촉구",
+          "위기",
+          "편지"
+        ]
+      }
+    },
+    {
+      "id": "59737b43731016db",
+      "title": "Reader: Urge State Legislators to Support Climate Change Superfund Legislation - newbritainprogressive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFdoYkRQQTUzbVNCLUtCZFEtakFGZDZhWHFDX0lVbkxjWXRVTWo1cFFiUzR2Sng5T3ZWemM2Rl9iU05rR2VfWmVsdEcwYzVMZW9FcGVaSTU3cVF3VXJ5RU5kUmZ1eTdJOVU4OFl6M1l5T19jX1IwZ2RMQk9qTEdPN3gtRmhaeUlVSDlrQmFKaGpGamZYaUt5N080OHhHUkYxeHNmNVNGUHczdHNrTTdkN0g0VUd3S0ZnRUNIdHVkaGE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-14T02:17:07",
+      "collected_at": "2026-02-14T08:07:25.199360",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3e5317b76ea91a89",
+      "title": "The hidden costs of the EPA's new climate change policy - marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbC0xSGtCMHJLamo3U2NDN1ZlMzYyUEQ0UjNneC1HWHl5TkY5YngxRXdKZGpnb0ctR2wzNDU1T1gxeFRCWDZiRG5pUklmX1pGYlMtQlI3LVJQMzFyQUdYb0hiWG1mdGFoNjI2R1h0TFVjMk8wZER3RnRlZ051aElNLWwxQ1JYUjlKbktyM29LendzT19Z?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T21:27:00",
+      "collected_at": "2026-02-14T08:07:25.199587",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EPA의 새로운 기후변화 정책의 숨겨진 비용"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "EPA",
+          "기후변화 정책",
+          "숨겨진 비용",
+          "정책",
+          "비용"
+        ]
+      }
+    },
+    {
+      "id": "6bae85c381d29998",
+      "title": "Frog love songs and the sounds of climate change - Daily Democrat",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOHZEZjlDOXJTVVAxaTQ0RFgwb0Q2V0VfMW5Xd3BSZU5CSV9EbTd0clY0UVZMYkd4RXRLRGxiLVpfSUtuT01mRDBhV1l5SG5ISU40Q0dpUzJTTGdXcXhXUW5LR0dpeWVwd0V3cjlSaTFTRDdTQlZKdGFTU2NmWTVMNHFGeW9mTmRDUGo3ZmJQX0k3RWNs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T17:30:37",
+      "collected_at": "2026-02-14T08:07:25.199677",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "개구리 사랑 노래와 기후 변화의 소리 - 데일리 데모크랫"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "개구리",
+          "기후 변화",
+          "사랑 노래",
+          "환경 영향",
+          "생물 다양성"
+        ]
+      }
+    },
+    {
+      "id": "3586156fa3ec114a",
+      "title": "2-12-2026 We discuss climate change in light of the administration’s denials of it… - My Bellingham Now",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMWNfNTNlQl9pMTByMG05a0lFVXB4Y0dzdHdURWFaOWtyT3ZPOUdqMlVtcHpkS1d1ZzljVElyQW9PNVVPVEk0OFVrMGxRaWhFSjVGWENrUld1M0RDM0Q4TURiZlAzVERzNmhFMzQ1S2NNaW1UYXJ3UG1ENEl4cFAwZlFxMWZmLTNLM3l3a3Z3cjhiazdQVW9xX2o0ZTBUQzdoMzZtVm9sekgybnp4TG1uaVhlSkRXTUQxUVVB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T23:27:26",
+      "collected_at": "2026-02-14T08:07:25.199923",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b6fc2686cfa787a9",
+      "title": "Warming ice awakens microbes that could speed climate change - The Brighter Side of News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUNNUFBhcXYxSmt1RGZOOVhJeEp0dlFZUjJaQUlZM2ZhTGE3NHZSMkZta1dwd1hNQkQ2UFhqU3h0alBCRlBYM2JnWFk3bVRQeGhzZzBYdzFMV2d1a21OVDRRZFdhRHJGVVdhT2d0QWR1WW45UjJVcXRKam8tOE5VQU5sb2tEU0NFc0RELVlBWEZqSTRjczNmN29WbUNRaWJX?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-13T19:07:00",
+      "collected_at": "2026-02-14T08:07:25.200111",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "온난화되는 얼음이 기후 변화를 가속화할 수 있는 미생물을 깨운다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "얼음 온난화",
+          "미생물",
+          "기후 변화",
+          "가속화",
+          "환경 위협"
+        ]
+      }
+    },
+    {
+      "id": "a2e226e614bfe983",
+      "title": "Is climate change responsible for this sighting of a butterfly in winter? - The Irish Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON1Rmc1RPZEFYR0NTS1dvWFQ1Q0FvcXY0RTRHMzFyZjVidFZ0OERoVzJjQmI0ZGc3a09kOWVhUHhkZTJPTzkxUE1PaDRBT2g4M3pDdTV6QVZWVUJjQVJJYWtkNFAxTGY2TlVxVlBHQVJzYlVqNUVweTBfWmlXR0NpdHV1REFXenlERDAxckEwakxIUzJ4dVZlczR1cWZoVTg5eEFJYmYxcG05OHlqMW5XV0trbHdvTlBhY1RkWTJxaHg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-14T06:06:37",
+      "collected_at": "2026-02-14T08:07:25.200329",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "겨울에 나비가 목격된 것이 기후 변화 때문일까? - 아이리시 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "나비",
+          "겨울",
+          "목격",
+          "이상 현상"
+        ]
+      }
+    },
+    {
+      "id": "cf1fc13893d7f312",
+      "title": "‘Seasons have become confused’: the people struggling in UK’s relentless rain",
+      "link": "https://www.theguardian.com/uk-news/2026/feb/14/uk-bad-weather-rain-flood-warnings-struggling-business",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-14T06:00:48",
+      "collected_at": "2026-02-14T08:07:24.751637",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "'계절이 혼란스러워졌다': 영국의 끊임없는 비 속에서 고통받는 사람들"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "영국",
+          "지속적인 비",
+          "생계 어려움",
+          "홍수 경보",
+          "계절 혼란"
+        ]
+      }
     }
   ]
 }
