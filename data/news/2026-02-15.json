@@ -1,16 +1,16 @@
 {
   "date": "2026-02-15",
   "metadata": {
-    "collected_at": "2026-02-14T23:11:56.884521",
-    "total_articles": 20,
+    "collected_at": "2026-02-15T08:10:34.047449",
+    "total_articles": 45,
     "sources": {
-      "korean": 8,
-      "international": 12
+      "korean": 18,
+      "international": 27
     },
     "sentiment_distribution": {
-      "positive": 1,
-      "negative": 10,
-      "neutral": 4
+      "positive": 5,
+      "negative": 21,
+      "neutral": 8
     }
   },
   "articles": [
@@ -498,6 +498,611 @@
           "대기 오염",
           "규제 폐지",
           "기후 위기"
+        ]
+      }
+    },
+    {
+      "id": "a78ae75de2babcd3",
+      "title": "[지구칼럼] 따뜻한 물이 개구리의 사랑 노래를 더 빠르게 만든다…기후변화가 부른 양서류의 번식 신호재편 '우려' - 뉴스스페이스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUDhJekxIWlQ2djhjck91UFZqWWhZakMtaUNUQnFzcjFRSThxOWhraVNqRFFtNS10OFkxREFXR1pPU3hQWHhFeXF5M0RuUFA0WUI0cFZjQ1FNaHEyR3FhTA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T07:56:02",
+      "collected_at": "2026-02-15T08:07:39.561139",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "따뜻한 물",
+          "개구리",
+          "번식 신호",
+          "우려"
+        ]
+      }
+    },
+    {
+      "id": "d456e1e002ce7bbd",
+      "title": "코카-콜라, 포항에 2ha 해안방재림 조성...기후위기 대응 ‘자연기반해법’ 본격화 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZYy0teUZBdmFCZERhSFBNdGE3WXhBZFNiR0dXanhpbi0zOTY4SjRqaUR6cC1NbjNlTGZrVFR0ZmVUTnQ5aFBQRlByelp3VVBTdXdzSGdiaFk3ZWxxVXI5QTBqRE9mS05IV1BGTHQ4V19TTWc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T19:45:00",
+      "collected_at": "2026-02-15T08:07:39.561347",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "코카-콜라",
+          "포항",
+          "해안방재림",
+          "기후위기",
+          "자연기반해법"
+        ]
+      }
+    },
+    {
+      "id": "fdfaebd8ce3b3664",
+      "title": "EV 침체에 디젤차 다시 꺼내는 스텔란티스…탄소중립은 나 몰라라 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEYmpFZWJhTUJqdUxWaWUtQU9majJkeDdoWDgxVlZsOEZ2SDRxcEpMcDhIYk9LZF9SOVdnT2FiYXBlMlNEcTJvS2F5eXJuVWNrckhJ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T00:07:00",
+      "collected_at": "2026-02-15T08:07:39.510177",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "EV 침체",
+          "디젤차",
+          "스텔란티스",
+          "탄소중립",
+          "자동차"
+        ]
+      }
+    },
+    {
+      "id": "648c8be72cae139e",
+      "title": "[칼럼] 자연휴양림의 에너지 효율을 높이고 탄소중립을 실현하자 - 정필",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WNzlSMUVNVTJUUnFTZUFrbWtINEsyZUY5d295TlM4bFlIUUVZcWgxVEVoY3VlcmhvODFOOVFsYjhjcGxIWlJj?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T01:44:00",
+      "collected_at": "2026-02-15T08:07:39.510399",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "자연휴양림",
+          "에너지 효율",
+          "탄소중립",
+          "실현",
+          "향상"
+        ]
+      }
+    },
+    {
+      "id": "5e729064213c5be0",
+      "title": "원점 돌아온 원전 vs 재생에너지 논쟁…승자는 누구 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR3U2UTM3MVQ2d0NfOEFnSmQ2VlctLUN5RTNFSXBSWFE0WHVKVHViZTRSV2J3dDFIVXlTNzlObmZlZGllMEZNVEZfNWg1cTdoRngtTGNjMVRuRUpLVXFGR29QaThCQWdRb1FYcWp3NTdmVlI5SV9Vd1ZTLUR6S2JVMQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T04:00:02",
+      "collected_at": "2026-02-15T08:07:39.458999",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원전",
+          "재생에너지",
+          "논쟁",
+          "에너지",
+          "원점"
+        ]
+      }
+    },
+    {
+      "id": "b54af6f2ae6371d9",
+      "title": "평창군-군시설관리공단, 공영주차장 신재생에너지 설비설치 협약 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ycFh4ZkhUUEl1WlQybXluSGNEbUJUaXpGNEI3R2FxVkI0bFR4b1Z0Q2RITHFHdXc5ajhfOTI0VEN2d0ZiN0RFaWxJX2hfb3JCOGxRbTR2dG9UNUdBaUwtWTJ3ZklKMFU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T00:50:25",
+      "collected_at": "2026-02-15T08:07:39.459186",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "평창군",
+          "신재생에너지",
+          "공영주차장",
+          "설비설치",
+          "협약"
+        ]
+      }
+    },
+    {
+      "id": "1e2827e97ca927fa",
+      "title": "부안 신재생에너지 테마체험관, 설연휴 맞아 특별 운영 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yM1k1M004bjhQVkVCZWwtZ1lDdVdEdnNpMkh6OUxUNVg5TzVDejYtdjZrSFdHRHM2Y3lpanhXRDI1ajlzbFRKVy1hTjJORnVHa1RNcEpXSDhjcHRJanA4c9IBeEFVX3lxTE1Lamd1b3NvdHpSZXJ1Tno5MlAyM2ZPYlY1TUJMaWtsUGhKd2NsRHBrVVo0YmZRTUdVLUNzYkd4N1g5MEZmc3p1WFNfLXN6VWgwRmcwakNfeV9PeEoyU2VTZGw5Z0hTb0VteHpIdzlsSFNVSi11bEFhWA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-14T23:44:10",
+      "collected_at": "2026-02-15T08:07:39.459311",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "부안",
+          "신재생에너지",
+          "테마체험관",
+          "설연휴",
+          "특별 운영"
+        ]
+      }
+    },
+    {
+      "id": "660082596cecb6e8",
+      "title": "재생에너지 확대 속 '간헐성' 숙제…\"설비확대·계통투자 병행해야\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TWWZ4aEJwRDQ1djA1SW1BSXhycEhXQUxueFVwSGszaEVfQnJOT0hPNlhvR2dSNEtGR1E2VTNoTVVjbHgwVGd4UjdWdkw3aDgySWNJ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T00:02:00",
+      "collected_at": "2026-02-15T08:07:39.459358",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "간헐성",
+          "설비확대",
+          "계통투자",
+          "숙제"
+        ]
+      }
+    },
+    {
+      "id": "3b424b5aea203798",
+      "title": "[강철수의 칼럼] 새만금 태양광이 남긴 질문 ? - bzeronews.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UNEx2X2Z2QjVtN2lueW5RUDdUbksxVk5ZM2Rqa000dzZ2Zi1OS3lsalYxeHhOc2lwQXM5TlhENHNlbWZ0aHktWnhIbEdsR3QtWE83d1pldVJxRnlJbG43V0VnNEl4MmFpQmtsTQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-15T05:19:59",
+      "collected_at": "2026-02-15T08:07:39.459581",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "새만금 태양광",
+          "질문",
+          "칼럼",
+          "논란",
+          "에너지 정책"
+        ]
+      }
+    },
+    {
+      "id": "9f876a8d48e7e1e6",
+      "title": "없어서 못 파는 ‘새조개’에 ‘백두쫀쿠’까지···연휴 인기 가족 여행지는?",
+      "link": "https://www.khan.co.kr/article/202602151524001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-02-15T06:24:00",
+      "collected_at": "2026-02-15T08:07:40.965434",
+      "keywords_matched": [
+        "폭염",
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "새조개",
+          "홍성",
+          "작황 회복",
+          "수요 급증",
+          "이상기후"
+        ]
+      }
+    },
+    {
+      "id": "5c9dd74e1bc283ab",
+      "title": "Climate change could expose 1.1 billion people to hunger by 2100 (but there’s good news too) – AI modelling study - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPakFic1B4ZFEwZ28yZG96T1E2RVVwX1A5Rjl3ZWt6LWM1RTBvUWNibzVhVnd5UEJXMGpsYzdxRVg1WXBLNVJWOEdXZXYwU01BOFIwNUZpOXdSQkNKaEFuREhKRTVkeUNMWVVydlJ1blhGYlpOdTZBb3A3ODIxd2NXREhfWW5FSzdVeS1CeE9PR0hxalJ2M3l5enJTcGVBalIxc2tPQ0d5VWFkWkpLWTBCMFJkZDVSdE53MHhfcXJlb2Rkdm5WQTFOaXZNWG50UlR2ekxNMkVrVUhXZmM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T05:45:44",
+      "collected_at": "2026-02-15T08:07:41.578622",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 2100년까지 11억 명이 기아에 노출될 수 있다 (하지만 좋은 소식도 있다) – AI 모델링 연구 - 더 컨버세이션"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "기아",
+          "AI 모델링",
+          "좋은 소식",
+          "11억 명"
+        ]
+      }
+    },
+    {
+      "id": "475bfa39cc7ebee7",
+      "title": "The greening of career education: Students learn new skills they’ll need as climate change advances - The Hechinger Report",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlZ3b3pKcjZOZzlobXlWWnpiN3hCZjQ0ejlqMjJmcFVYc0cwY0NmN3hORDdhNU04Y21Qd3NoZ2o3Wm5hdVZnVmFsV3JRYWhOQkZPVGlabFZ5ZWNiTU83Mld1SkpuVG90V2RXcnh2TWtEc0R6NTRCU09hNVdDTjJlZGJNU2FyeFppS0VPdmhvTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T06:00:00",
+      "collected_at": "2026-02-15T08:07:41.578856",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "adcbc73f21a38fd5",
+      "title": "EPA Greenhouse Gas: California leaders speak out against Trump administration's repeal of historic findings - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRlBmaUpCSWN6ckpnM0tEMTE5RDFiQXdaVXJzNjJha0RnZkZxOU5OYlVPN3lOcnJTUHlldmZtRWgwMnpBRklTcHdVSXBWc3liMXkyZkM2Z3Rtb1R3eDczTVBabEszMFlWSFBETm5PRzk5SnJFc3pzTE1jMW5lTmJXOHVlSUhYUEtyeVZxY0ludmtoUGR6RlUybVQybUJxbnhpUWlQTFFEcWRqdnJqUWZKNzRoNTI0T0o1d3N1c25qSHoweXMw0gHKAUFVX3lxTE55ZEY0aGNPUF9oVl94N1NsZ0hDUG1MMTl5QXkyaF9fNkFJV2tSRTZOeHo1RjlUUGhEakYxUW9VanRBSm02RnlmSGRmYjBteGJpTVhmUFR0WXVhamZnaTF1eGRKTDNhY092ZjY3Q0RxS2l0bE5HTlhOVWRINlU1UzVhai1HRXFMeDdNMWJCaGg3eHZmWEt5SlZqd2dNNElLSjdseWwxZmttbHFXemFYZmM2U0NQLUxSZlVmNGRqeEZrRnlZMzhCaWNVMUE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T00:51:04",
+      "collected_at": "2026-02-15T08:07:41.579063",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "환경보호청 온실가스: 캘리포니아 지도자들, 트럼프 행정부의 역사적 결정 철회에 반대 목소리 내 - ABC7 샌프란시스코"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "환경보호청",
+          "온실가스",
+          "캘리포니아",
+          "트럼프 행정부",
+          "철회"
+        ]
+      }
+    },
+    {
+      "id": "3193b0b1ee63974c",
+      "title": "Japan's 'godless' lake warns of creeping climate change - Northeast Mississippi Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTzY2eDRyYkgtUTRqNlRsWFRuLU14TjdBSGFKTVk2bXJOYmlRSXRSRVM0YXJzOW1qeFVBdnBENm9pWmQ0YXZaNVlLWENNaTRjVFZXRG5YdkM5YUtwbGhEYlpIeElPeUNKUVhVUjNGLS1KU0UybnY5MUZrU0YyM3RPMmVXUHFzS2VSS19PeExBbVVkZnp6a1VvWHJ6bHRNNzVUVlRFRWJHWFp6ZXFrZ0VvOUhaSVhwRHhlRGU0XzZUVVp0ZFlRSU85ZWpLS0VyMzlxZGR2bGs1NWs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:28:49",
+      "collected_at": "2026-02-15T08:07:41.579092",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "일본의 '신 없는' 호수, 서서히 다가오는 기후 변화를 경고하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "일본",
+          "호수",
+          "기후 변화",
+          "경고",
+          "환경 문제"
+        ]
+      }
+    },
+    {
+      "id": "63322532e6808673",
+      "title": "Japan's 'godless' lake warns of creeping climate change | National | lebanondemocrat.com - Lebanon Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdkZtMlpkX2pEQjRlVmN1Q2RqQVF6SzZzWl9DaURJeklwM3UtQUNZZjJHazhqeGRFLUZyd21pV1ZoNklRVTNDV1RJQmxHM0dVWjlTZWRJUEtEMU05Y1BjblRzR3dGTjBoemlydE1WX1RLUlJ6cDlhQ3dxUVpHLXIwSDFJekFMSGNwbkVjUG5zbmx2UXZMVll5dnlmWnFVNkEwbGVpeUREamJabG5aYzFJQllhMlVxcUhILWl3bl95OW5WbGY5QWxyZ1RvV2ZQb0hQZUdGd2RyRTN5R1ZaeGJrSHlB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:28:49",
+      "collected_at": "2026-02-15T08:07:41.579238",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "일본의 '신 없는' 호수, 점진적 기후 변화 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "일본",
+          "호수",
+          "기후 변화",
+          "경고",
+          "점진적"
+        ]
+      }
+    },
+    {
+      "id": "f00f6dfb7fccd883",
+      "title": "A Japanese priest and his parishioners gather before dawn, hoping climate change hasn't robbed them of a rare communion with the sacred - themercury.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQTmE0YVJxZGotUnl5cDZhSUU2NGt4QzVzQ0ZVSF9RS0IxRnFBWExFanRVendZQTl1eFg0SGhMTEVNZFlpZkRMOVJJcHplNldrVjI4SmM2Y3hPV3A2VWZGYlk5ekREc1NlQVVBNlNJUEZ3Smo0QjZNMExaNkxSUDRJTHlxOGQwZ2xQb0ttSXRNcWtodzRjSkF0cDg0YnJmWGV4X0NaRGs0YzN3X19HakNBT19sZ2VVc3ExdDE1MVVWUFhTYW05Q1JDU3N1eERKMVdjRXYzNHo3QkdldGRNaVBUckF5OXoxRk5TbDZEb3VPTjg3WGdOSW1Ramc2dTc0bVJkREtYNVRWdlRWUHowUTlF?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T07:02:28",
+      "collected_at": "2026-02-15T08:07:41.579273",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f047b368eb802960",
+      "title": "Japan's 'godless' lake warns of creeping climate change - Community Newspaper Group",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS3JDelhUUHh6aFRpRVB2bkhuRzB6UFp2NVZaMElVc2RsbXlKNEhPemlGX25LbzJWZHM3VFRjS1RjTDJremZvdm1vTEVPTEt3dG90Qm9JUFRLbTBRWlpYRm5JT0o5YUdfRlItMTdzWHZzSVRWSTY0bVR5ZE8tNTZZTUgwNDlRMnM1TVpPdFQtc1ducmFNNkh4dEg4eHZuSVZ2ajFsNHFNZndEMUVxdzdKOGVwcnFTMWtqaEFZQkVQekRROXBidlZkeDZ6LVlXYkQyajJ2NFozMVdEUDdYQkxyTjdxMmVzSFZwRXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:28:49",
+      "collected_at": "2026-02-15T08:07:41.579300",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "일본의 '신 없는' 호수, 점진적 기후 변화 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "일본",
+          "호수",
+          "기후 변화",
+          "경고",
+          "점진적"
+        ]
+      }
+    },
+    {
+      "id": "513f1a97c5dc7bbd",
+      "title": "Trump administration overturns 'endangerment finding,' limiting power to fight climate change - The Charge",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOXVJcm5HT2VVZ05tckd6ckdsMllpVURwZF9lcUZQRTJQdlVIc0dSTDRYNjJoZHZUZlRTOWMxdDVMcncteGpYaHE4NnQ1M1Fudzh5eGwzMGt4UmpFS0tnM21CelRBay1LNVJjYlNyMW9QNFJtcFE3a2JxMXJjWlZaN2h4MUZ1OTFvdHc0WlJjM1cyTUxkb2ZlRjdoOFFFa3REQmhnM2NOc1dIRklWWXhtNDB4ek44REh1RHNzV2tLMGg3MFNYdEFIeXNidGl0ekp5UExkNW5KN1FDQXU2VVQ2TzNkNUJQOWJTWU9aRXFDSHFybDVPMWtuSExWMmRPaHgwWnR4ZGNDVkV3RHE1QktKbg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T02:29:00",
+      "collected_at": "2026-02-15T08:07:41.579501",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, '위해성 결정' 뒤집어 기후 변화 대응 권한 제한"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "위해성 결정",
+          "기후 변화",
+          "권한 제한",
+          "폐기"
+        ]
+      }
+    },
+    {
+      "id": "0c413398a57f8ccf",
+      "title": "Japan's 'godless' lake warns of creeping climate change - Indiana Gazette Online",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT3pwalhXZlVYUEh2QnZXX3ZSa0NpZkpIT0J5QXVfbDVzQ0xQSk04alhBb1FaejN1TjRLWkFNQzBqdzVBMmRmcWtyMnpwTnV5MHNtTFozYnpiWVpZd3Z1ZEZ6SUVZdzVCY3lnRmM4TWNKeXdsQS1oZTNyX3NYNkotNlRXc0hYOVFSRGRvY0NjXzdwTFBmSUNMOGlwcnUxWnliaTUzRVBGNEJFZWhFREdPSFNfZHFBaldLclB6N3h2ZXZCQ3ZWcUZjNzdlbkdYVlBsaDZ1LTVOSWVLQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:28:49",
+      "collected_at": "2026-02-15T08:07:41.579643",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "53e6adcbbf3e16e3",
+      "title": "The Latest: Trump’s EPA revokes scientific finding that underpinned US fight against climate change - Action News Now",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPVjlaRWNsdmtKR3Qtd3hzVkV6NnJZU3VsbllfSHZfcGJUNURyTVc0dW9mMUZsbXZjNGRrR3NlakhaeGRjeWlUTzV0UE5wcTJjU3FJVHN2VU1DMG5ndHhKWk16QWM4bnZ1WlN2emxfQ3ptZUNCQ3FXQUJvNDBEd3RfVUhWOVlTWlJkeEN3VHdhZEdjWnR3b0ZTbHJzZ0RZeTJBeW5BaFJUSTVQa0hidkE2ekRGSDlyZExkR1dfMmdwQmcxdGVPemhuazUyenF3YmU1ZmhTeVVjUHA5TVBfOHR0d2RrSTNFaFJFbnp6aVRhN19iTzRzaU9rZ3Uyem4yS1NqX2hWTmRRUFZZUzYwRkZOYQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:47:08",
+      "collected_at": "2026-02-15T08:07:41.579881",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "속보: 트럼프 EPA, 미국 기후변화 대응의 토대였던 과학적 발견 철회 - 액션 뉴스 나우"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "EPA",
+          "과학적 발견",
+          "기후 변화",
+          "철회"
+        ]
+      }
+    },
+    {
+      "id": "e809270cabd95dce",
+      "title": "Is global warming dooming snow sports and the Winter Olympics? - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWldIR2NYS0RTTHlETGpOLWRnVmhXQVZzRk9FU0RPLVpsWmtyLU5kbnhuc3ZXMHpKY0pfSkJDVVZxSzRmWEpram43NTlRLXpGa0l1Mm1QYmFvVWhJRXFxNXo5M0JnSmxFam9rZTlVUnRfTDlKa1NibkduR1huTU9xWlNwVG1sZmFmdnhBZVBzWVQ3RlJmZGRjdGNPOWVrZjFLbFZ5QXhwZlJYUWtQd0tubg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T06:53:00",
+      "collected_at": "2026-02-15T08:07:41.579984",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a3b4658f5d17fda2",
+      "title": "Japan's 'godless' lake warns of creeping climate change | National | dailygazette.com - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcWRwcFA2T2V5dmZoLWxSMjNkRDQxS0pZS2F4N3FfVHlYVmdSaUdBcExyQTM3MTZYU3ZPcmthU2hteG4zcG5Gb2FyaG9XTE1JY3l1REFiRVYycTJRQk83VXp4OVZoTVBLSXZBdVRIT21yNjFwU1RuRXQ5VnBQa19tS19nMjUyV1hWY0dDd200ZFYxSGtEaWw5M2ZualczYW5GMkJZUlN4dVlib1gxLXdJcFFsYURZbVQ4c2t3TjNaS2hBcUxJem96emhOMkJyZHlBT0diQkdVZElic3BtUXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-15T03:28:49",
+      "collected_at": "2026-02-15T08:07:41.580177",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2f271b9f50ba54d5",
+      "title": "Climate Change Linked to Rising Leptospirosis Disease Risk - Oz Arab Media",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFN4dHdtQThTbTFFSzF6VTFiWGx2ZjRzOWFxSlVWWlJDWDVjTXltZGlhMDF5VDNWQ2RISzhUUnhrNlp6ZWpNa0RPa1dranR0bWM4aGZHcW03VDhWUmhVNkRrLUZWLVVWQXVvVWQtZkRUVVQxd21CWVZ1T2NxR28wZ3Y3TW1vTUU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-14T20:30:25",
+      "collected_at": "2026-02-15T08:07:41.580606",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 렙토스피라증 질병 위험 증가와 연관"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "렙토스피라증",
+          "질병 위험",
+          "증가",
+          "연관"
+        ]
+      }
+    },
+    {
+      "id": "44d042a2632b7b9b",
+      "title": "‘What do we want gardens to sound like?’ It began with a frog pond – then suburban rewilding became an obsession",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/feb/15/wild-gardening-rewilding-garden-sounds",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-14T19:00:03",
+      "collected_at": "2026-02-15T08:07:41.066703",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7a79341d6f2c862d",
+      "title": "‘What’s more important, the electricity or food?’: extreme heat is driving up power bills in central Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/15/extreme-heat-driving-up-power-bills-central-australia-prepaid-electricity-northern-territory",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-14T19:00:02",
+      "collected_at": "2026-02-15T08:07:41.066778",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "'전기가 더 중요할까, 음식이 더 중요할까?': 호주 중부의 폭염이 전기 요금을 치솟게 하고 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "전기요금",
+          "호주중부",
+          "기후변화",
+          "생활고"
         ]
       }
     }
