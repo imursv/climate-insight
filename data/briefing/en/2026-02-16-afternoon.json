@@ -1,0 +1,640 @@
+{
+  "date": "2026-02-16",
+  "generated_at": "2026-02-16T08:17:07.283395",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for February 16, 2026.",
+    "sections": [
+      {
+        "title": "⚠️ The Dangers of Climate Change Denial and Misinformation",
+        "content": "Former President Trump recently claimed that climate change is a 'hoax,' a statement that dismisses the severity of the climate crisis and raises significant concerns [1]. Furthermore, perspectives are emerging where corporations and governments are accused of promoting misinformation about climate change and downplaying humanity's role, underscoring the importance of accurate information dissemination [19]. Last year, the United States experienced 23 extreme weather and climate-related disasters totaling $115 billion, breaking previous records. The Guardian pointed out that, in contrast to the situation in the U.S., China is accelerating its climate response [24]. Such misinformation and denial of reality act as serious obstacles, hindering the urgency of addressing the climate crisis.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🔴 Deepening Climate Crisis and Global Impacts",
+        "content": "Globally, the direct impacts of climate change are becoming increasingly evident. Recent research confirms that optimal plant habitats are shifting due to climate change, raising alarms about ecosystem disruption [18]. Additionally, journalists have warned about the effects of climate change-induced population displacement, emphasizing that this could lead to serious social problems worldwide [17]. In the Kampong Khleang region, as climate change transforms ways of life, young people are actively taking action in response, demonstrating the future generation's sense of crisis [23]. These phenomena clearly show that the climate crisis is no longer a distant future problem but an ongoing reality.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Domestic Climate Change Adaptation and Carbon Neutrality Efforts",
+        "content": "Domestically, various efforts are underway to adapt to climate change and achieve carbon neutrality. Ulsan City is investing 8.3 billion KRW in pear farming households to cope with climate change, launching an all-out effort to strengthen farmers' competitiveness [2, 4]. Discussions are also taking place on ways to alleviate inequality caused by climate change [3]. Furthermore, specific initiatives for achieving carbon neutrality are active across local communities, including 'balcony carbon neutrality' [5], the establishment of a National Carbon Neutrality Edu-Center in Haenam-gun [6], metropolitan-basic cooperation by Mokpo City's Carbon Neutrality Support Center [8], Changwon City's Carbon Neutrality Point System [9], and Cheongju City's establishment of a paper pack resource circulation system [10]. Internationally, scientific solutions continue to be sought, such as research on scaling up enhanced rock weathering for equitable climate change mitigation [16].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Renewable Energy Expansion and Policy Challenges",
+        "content": "Expanding renewable energy is a crucial path to carbon neutrality, but numerous challenges remain. In China, despite an increase in renewable energy generation, issues of waste due to inefficient power transmission are arising, and the country is making an all-out effort to build 'power highways' to address this [11]. Domestically, the Renewable Energy Act stands at a critical juncture for expanding renewable energy supply, and uncertainties or questions are being raised regarding the direction of renewable energy policy [12, 13]. Meanwhile, K-battery companies are actively shifting their focus from electric vehicles to Energy Storage Systems (ESS), seeking to transform into energy infrastructure companies [14]. Furthermore, nuclear power stocks are re-emerging amidst concerns for energy security and the drive for carbon neutrality [7]. The launch of electric vehicle models like the high-performance electric SUV 'Genesis GV60 Magma' represents one aspect of the energy transition [15].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 Climate Change Reporting and Youth Action",
+        "content": "Public awareness of climate change and the role of the media are becoming increasingly important. The Hill Times argued that climate change should be a major news story in 2026, urging intensive media coverage [21]. Indeed, research shows that India is ahead of the U.S. and China in reporting on the links between climate change and health risks, indicating that media in certain regions are actively covering climate issues [20]. In the Kampong Khleang region, as climate change transforms lives, youth are taking direct action, highlighting the prominent participation of future generations [23]. This trend suggests that the dissemination of information about climate change and the enhancement of civic awareness will be crucial drivers in fostering global climate action [22].",
+        "tone": "positive"
+      }
+    ],
+    "closing": "Today's briefing has covered the dangers of climate change denial, various domestic and international response efforts, and the complex challenges of energy transition, once again emphasizing that global cooperation and sustained attention are essential to overcome the climate crisis. This concludes the climate briefing for February 16, 2026."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Trump Calls Climate Change a 'Hoax,' Criticized for Lack of Farming Experience - Hankyoreh",
+      "original_title": "트럼프 “기후변화는 사기극”…농사를 안 지어봐서 하는 소리다 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MNHQ2Wl94bGpLM0gtcVAtZlJid0E0akZfWC0zTVUtNVdQalRES0pUTG9lb1N4QndWbEdIbWdwQXZ4YkVkN1VQSEkyM01WZDJqTl91WTRqeWpRZ29wV25LUVNCalUtelBDazh5SVZDMDRFQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-16T03:07:00",
+      "description": "Trump Calls Climate Change a 'Hoax,' Criticized for Lack of Farming Experience - Hankyoreh",
+      "summary": {
+        "phenomenon": "Former President Trump made remarks claiming climate change is a 'hoax'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Trump",
+        "Climate Change",
+        "Hoax",
+        "Farming",
+        "Hankyoreh"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "트럼프 “기후변화는 사기극”…농사를 안 지어봐서 하는 소리다 한겨레"
+    },
+    {
+      "id": "2",
+      "title": "Ulsan City to Support Pear Farmers Responding to Climate Change, Investing 8.3 Billion Won - Newsis",
+      "original_title": "울산시, 기후변화 대응 배 재배 농가 지원…83억원 투입 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fMVJ2cXZLaGdFZVp5WjljR0haOHdlenY5RTloY1kzak9YdUViV1JxYllqNGNZWE5LOWNDZUNkaW1BRHVUNy1NWXoyeDRPQmNETHRMYlNjSk03TWpkMzh3cNIBeEFVX3lxTE5rSDFVSGdsOUJycGdRcVVpNmsxMG1uVXVKZTR0X1Z6cXJMaVpZQnI1SzAxOGhhMm9BcjQwZ0pvYVVObDN4RjBGSUl1NzB3My1OeHBlU2Eza29sdDRROGVDWFc2Qjk4UkU3NUhld01xLWJ1YzNNM05iZQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-15T22:15:38",
+      "description": "Ulsan City to Support Pear Farmers Responding to Climate Change, Investing 8.3 Billion Won - Newsis",
+      "summary": {
+        "phenomenon": "Ulsan City announced a plan to invest 8.3 billion won to support pear farmers in response to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ulsan City",
+        "Climate Change",
+        "Pear Cultivation",
+        "Farmer Support",
+        "8.3 Billion Won Investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "울산시, 기후변화 대응 배 재배 농가 지원…83억원 투입 뉴시스"
+    },
+    {
+      "id": "3",
+      "title": "[Dr. Han Hyun-woo's Column 018] Solutions to Inequality Caused by Climate Change - CareU News",
+      "original_title": "[한현우 박사 칼럼 018] 기후변화로 인한 불평등 해소방안 - 캐어유 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42elZuZ1NKSXVEbVpQRWN3cllUd1hpNVZIeEpxVGlSNTh4N19IbW1ZNHNodGhBUzdFLTEyMVJJS2Y1d1ZKYWxKcTU2dGNyWktOMF84UmUyMDlfSDJ1OEFpVzFjM3hBUjRqSkFETQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-16T00:00:00",
+      "description": "[Dr. Han Hyun-woo's Column 018] Solutions to Inequality Caused by Climate Change - CareU News",
+      "summary": {
+        "phenomenon": "Dr. Han Hyun-woo's column discusses solutions to inequality caused by climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Inequality",
+        "Solutions",
+        "Dr. Han Hyun-woo",
+        "Column"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[한현우 박사 칼럼 018] 기후변화로 인한 불평등 해소방안 캐어유 뉴스"
+    },
+    {
+      "id": "4",
+      "title": "\"Overcoming the Wave of Climate Crisis\": Ulsan City's All-Out Effort to Strengthen Pear Farmers' Competitiveness - Nate",
+      "original_title": "\"기후위기 파고 넘는다\"…울산시, 배 농가 경쟁력 강화 총력전 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04ZXBYdTlyTlBJNlBFaUFYUFpmV0d5RmRiXzlkdUpYb0JaT2xfbEVEc3FBR3J1SEZIeEszc0RoS3NHNkVGQ1Bxd2VCS2I0VWViSVh3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-16T00:01:00",
+      "description": "\"Overcoming the Wave of Climate Crisis\": Ulsan City's All-Out Effort to Strengthen Pear Farmers' Competitiveness - Nate",
+      "summary": {
+        "phenomenon": "Ulsan City is making an all-out effort to strengthen the competitiveness of pear farmers to overcome the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Crisis",
+        "Ulsan City",
+        "Pear Farmers",
+        "Strengthening Competitiveness",
+        "All-Out Effort"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"기후위기 파고 넘는다\"…울산시, 배 농가 경쟁력 강화 총력전 네이트"
+    },
+    {
+      "id": "5",
+      "title": "[Refreshing Eco-Friendly Tip 35] Carbon Neutrality Starting from the Balcony, Connecting to a Self-Sufficient Lifestyle - Environment Daily",
+      "original_title": "[톡 쏘는 친환경 꿀팁㉟] 베란다에서 시작하는 탄소중립, 자급자족 라이프로 연결 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JWjgtaDBJeDRteHJWNlVaZzg0M1Z6a0pEdnhxcDlkUFA4a1dQdkNLYnhRSEtYendjdHlmZXcxTVktWnJ3UE4tNkpjeXFXbkNuRmZnTEpnenRWbDEtME90ZHpWWXluX2Va?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-16T07:40:00",
+      "description": "[Refreshing Eco-Friendly Tip 35] Carbon Neutrality Starting from the Balcony, Connecting to a Self-Sufficient Lifestyle - Environment Daily",
+      "summary": {
+        "phenomenon": "An eco-friendly tip suggests starting carbon neutrality from the balcony, connecting it to a self-sufficient lifestyle.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Self-Sufficiency",
+        "Balcony",
+        "Eco-Friendly",
+        "Lifestyle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[톡 쏘는 친환경 꿀팁㉟] 베란다에서 시작하는 탄소중립, 자급자족 라이프로 연결 환경일보"
+    },
+    {
+      "id": "6",
+      "title": "Haenam County to Break Ground on National Carbon Neutrality Edu-Center in Second Half of This Year - Seoul Shinmun",
+      "original_title": "해남군, 국가 탄소중립 에듀센터 올 하반기 첫 삽 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qN2toSkdRdzR3ZW5IcG5JYkdTc21fRjNXdENJYi13OGdIaU94RVlsWkJodEdfNnBPMUp1VWdEWU9WeG9GZXdkOHBtN0dwX0pyYW56cEpaeUFrZlBBWkluZTJtQU51YjAxLW5rMF91UQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-16T02:34:17",
+      "description": "Haenam County to Break Ground on National Carbon Neutrality Edu-Center in Second Half of This Year - Seoul Shinmun",
+      "summary": {
+        "phenomenon": "Haenam County is scheduled to break ground on the National Carbon Neutrality Edu-Center in the second half of this year.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Haenam County",
+        "National Carbon Neutrality Edu-Center",
+        "Carbon Neutrality",
+        "Edu-Center",
+        "Groundbreaking"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해남군, 국가 탄소중립 에듀센터 올 하반기 첫 삽 서울신문"
+    },
+    {
+      "id": "7",
+      "title": "Nuclear Power Stocks Re-emerge Amidst Energy Security and Carbon Neutrality Push, Following Czech Order and SMR Momentum [Sector Inside] - E-Today",
+      "original_title": "에너지 안보·탄소중립 바람에 '원전주' 재부각...체코 수주 이어 SMR 모멘텀까지 [섹터 인사이드] - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zWm81RVU2WXpUSXVqb1hKQnh2b09fY0xXVWFjLWRFbDBjd3VSSmNRYlBzNnpHVUs3dW5Gbm9PTGJOb1BraVM0T05heEVWVGxGbFNFVg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-15T23:00:00",
+      "description": "Nuclear Power Stocks Re-emerge Amidst Energy Security and Carbon Neutrality Push, Following Czech Order and SMR Momentum [Sector Inside] - E-Today",
+      "summary": {
+        "phenomenon": "Nuclear power stocks are re-emerging due to the focus on energy security and carbon neutrality, with momentum from the Czech order and SMRs.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Energy Security",
+        "Carbon Neutrality",
+        "Nuclear Power Stocks",
+        "Czech Order",
+        "SMR"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "에너지 안보·탄소중립 바람에 '원전주' 재부각...체코 수주 이어 SMR 모멘텀까지 [섹터 인사이드] 이투데이"
+    },
+    {
+      "id": "8",
+      "title": "Mokpo City Carbon Neutrality Support Center and Jeonnam Province Cooperate for Carbon Neutrality Realization - Break News",
+      "original_title": "목포시탄소중립지원센터, 전남 탄소중립 실현 위해 ‘광역-기초’ 맞손 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE93aG96d3k3eXhyQ3dCMkZqSUhCUGktaGxFUUU1MEJRY3JIYnBNMTRNeEVRLU9yTUNpWFhjZjBqaGRxZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-15T22:03:00",
+      "description": "Mokpo City Carbon Neutrality Support Center and Jeonnam Province Cooperate for Carbon Neutrality Realization - Break News",
+      "summary": {
+        "phenomenon": "The Mokpo City Carbon Neutrality Support Center is collaborating with Jeonnam Province (regional and local governments) to realize carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Mokpo City",
+        "Jeonnam Province",
+        "Cooperation",
+        "Support Center"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "목포시탄소중립지원센터, 전남 탄소중립 실현 위해 ‘광역-기초’ 맞손 브레이크뉴스"
+    },
+    {
+      "id": "9",
+      "title": "[Environment] Changwon City Recruiting Participants for 'Carbon Neutrality Point System (Vehicles),' Offering Up to 100,000 Won in Incentives - The Korea",
+      "original_title": "[환경] 창원시, '탄소중립포인트제(자동차)' 참여자 모집… 최대 10만 원 인센티브 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lQXNqZXA1VEt6ZmtvOS1qblNCcTJXd0huOFJUTmxXYWQyMUg5VFozVzc3czhfaEhyTXRVU2FLaGpaREpFa1BQY0xPeVd3WE5iRHo0VkE0U3R5UHhHUmxkTmZEOTlUdWt3dGVzWmd0QjA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-15T22:48:00",
+      "description": "[Environment] Changwon City Recruiting Participants for 'Carbon Neutrality Point System (Vehicles),' Offering Up to 100,000 Won in Incentives - The Korea",
+      "summary": {
+        "phenomenon": "Changwon City is recruiting participants for its 'Carbon Neutrality Point System (Vehicles),' offering incentives of up to 100,000 won.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Changwon City",
+        "Carbon Neutrality Point System",
+        "Vehicles",
+        "Participant Recruitment",
+        "Incentives"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[환경] 창원시, '탄소중립포인트제(자동차)' 참여자 모집… 최대 10만 원 인센티브 > 뉴스 더코리아"
+    },
+    {
+      "id": "10",
+      "title": "Cheongju City Establishes 'Public-Private Cooperative Paper Pack Resource Circulation System,' Accelerating Carbon Neutrality Realization - gukjenews.com",
+      "original_title": "청주시 '민·관 협력형 종이팩 자원순환 체계' 구축…탄소중립 실현 속도 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zWlJwYkIzSVlyMDZUQ3ZLR3ZRME5LcEtoVC0tVFJsV2pCYjB5QW01RW8yaldnZS1aMFp1cnZpMVZqOG1haUlMVEJVNEhmaDN5cGVTY1JCd3FzcExEcjhUOG90RDJJd0dTRUJrLWVB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-15T23:05:01",
+      "description": "Cheongju City Establishes 'Public-Private Cooperative Paper Pack Resource Circulation System,' Accelerating Carbon Neutrality Realization - gukjenews.com",
+      "summary": {
+        "phenomenon": "Cheongju City is establishing a 'public-private cooperative paper pack resource circulation system' to accelerate the realization of carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongju City",
+        "Paper Pack",
+        "Resource Circulation",
+        "Public-Private Cooperation",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시 '민·관 협력형 종이팩 자원순환 체계' 구축…탄소중립 실현 속도 gukjenews.com"
+    },
+    {
+      "id": "11",
+      "title": "China: Transmission More Urgent Than Generation; Commits Fully to 'Power Highways' to Prevent Renewable Energy Waste - Global Economic",
+      "original_title": "中, ‘발전’보다 ‘전송’이 급선무… 재생에너지 낭비 막을 ‘전력 고속도로’에 사활 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTDNzRVBSTS0weGpQQmV0T1ZCM1NWZjhGN3hqMDhmeXpnOGRRZWtyVjEwVlVBTHIyeS14SVdUQTVFd2VvcTVsMDJvNmprYlJxakJIMjJPY2JveUNHNFNtbDhPX1NScDlCWnNFNnlEMV96ZFdiVmNwenJhdmhVWW9xOUFZWEFKSm5m?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-15T20:50:00",
+      "description": "China: Transmission is a more urgent priority than generation; commits fully to 'power highways' to prevent renewable energy waste Global Economic",
+      "summary": {
+        "phenomenon": "While renewable energy generation is increasing in China, the electricity produced is not being efficiently transmitted, leading to waste.",
+        "cause": "Not mentioned in the article",
+        "outlook": "China plans to reduce renewable energy waste and ensure efficient power supply by focusing on building 'power highways'."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "China",
+        "Renewable Energy",
+        "Transmission",
+        "Power Highway",
+        "Energy Waste"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "中, ‘발전’보다 ‘전송’이 급선무… 재생에너지 낭비 막을 ‘전력 고속도로’에 사활 글로벌이코노믹"
+    },
+    {
+      "id": "12",
+      "title": "[Column] Renewable Energy Act Stands at a Crossroads for Expanding Renewable Energy Adoption - Jeongpil",
+      "original_title": "[칼럼] 신재생에너지법, 재생에너지 보급 확대의 기로에 서다 - 정필",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50Z2liX0t4OU5oOWlNZmFPYWVseUNIdWVZejQwQl9oMFRWdXNOZ3N0amV5akpaX1M2eXNISDVLVDVnZDJ2ZGVF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-16T00:42:00",
+      "description": "[Column] Renewable Energy Act Stands at a Crossroads for Expanding Renewable Energy Adoption Jeongpil",
+      "summary": {
+        "phenomenon": "The Renewable Energy Act is at a critical turning point for expanding renewable energy adoption.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Renewable Energy Act",
+        "Renewable Energy",
+        "Expansion of Supply",
+        "Crossroads",
+        "Energy Policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[칼럼] 신재생에너지법, 재생에너지 보급 확대의 기로에 서다 정필"
+    },
+    {
+      "id": "13",
+      "title": "[Column] So, What is the Plan for Renewable Energy? - E2 News",
+      "original_title": "[칼럼] 그래서 재생에너지를 어쩌겠다는 건가? - 이투뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9td1NpZjlBdkhKbXBDODJkWkJpU2pBaDdHOGJYa1hrTEV5VzVEeWR5WXRyNmRVUmZmZlJOVmctOGJBNkxuVV80eGI4OTZrV2NybkRxYzBtbi1RLWd2TFNleERDcG1EUGfSAWtBVV95cUxOSGREa1hIMVh3VmNQUTdmb08zc2hZV09OUklscFQyRUF0bGstdjdtcHRuclphVVVIaldXNlZReHUtM0NhNm15ZTl4TC1sbjVFdGYweEhlUS00dkUtYWN3bGxfMDdkdlJaUVQ4dw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-15T22:00:00",
+      "description": "[Column] So, What is the Plan for Renewable Energy? E2 News",
+      "summary": {
+        "phenomenon": "Uncertainty or questions are being raised regarding the direction and implementation methods of renewable energy policy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable Energy",
+        "Energy Policy",
+        "Column",
+        "Challenge",
+        "Strategy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[칼럼] 그래서 재생에너지를 어쩌겠다는 건가? 이투뉴스"
+    },
+    {
+      "id": "14",
+      "title": "[Industry Report] From EVs to ESS… K-Battery Sector Begins Full-Scale Transformation into 'Energy Infrastructure Companies' - Today e-Economic",
+      "original_title": "[업계 리포트] 전기차 대신 ESS로… K-배터리, ‘에너지 인프라 기업’으로 체질 전환 본격화 - 투데이e코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtWGY2RDdxblduX1I3Q1FFWkJjdVJHbndrUC1XU2FqRmxwVGlXcUlYRzRabDN6NXVIRGlnTml1c2xIVVJEQnNaODhFenFYSVF5NWV0U3ZpR3ZZdDVrZTVLZ2hoXzdZNUU?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-16T07:06:19",
+      "description": "[Industry Report] From EVs to ESS… K-Battery Sector Begins Full-Scale Transformation into 'Energy Infrastructure Companies' Today e-Economic",
+      "summary": {
+        "phenomenon": "[Industry Report] From EVs to ESS… K-Battery Sector Begins Full-Scale Transformation into 'Energy Infrastructure Companies' Today e-Economic",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "K-Battery",
+        "ESS",
+        "Energy Infrastructure",
+        "Structural Transformation",
+        "Electric Vehicle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[업계 리포트] 전기차 대신 ESS로… K-배터리, ‘에너지 인프라 기업’으로 체질 전환 본격화 투데이e코노믹"
+    },
+    {
+      "id": "15",
+      "title": "[Test Drive] Korean High-Performance Electric SUV 'Genesis GV60 Magma'... 'Explosive Power Condensed in Restraint'",
+      "original_title": "[타보니]한국형 고성능 전기 SUV ‘제네시스 GV60 마그마’…“절제 속에 응축된 폭발력”",
+      "url": "https://www.khan.co.kr/article/202602161319001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-02-16T04:19:00",
+      "description": "Genesis GV60 Magma. Provided by Hyundai Motor Group. Genesis recently unveiled its first mass-produced high-performance electric vehicle model, the 'GV60 Magma.' With the Magma, Genesis aims to compete with luxury high-performance brands such as BMW's M, Mercedes-Benz's AMG, and Audi's RS in the global market.",
+      "summary": {
+        "phenomenon": "Genesis GV60 Magma. Provided by Hyundai Motor Group. Genesis recently introduced its first mass-produced high-performance electric vehicle model, the 'GV60 Magma.' The Magma aims for Genesis to compete with luxury high-performance brands like BMW's M and Mercedes-Benz in the global market.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "제네시스 GV60 마그마. 현대차그룹 제공설 연휴 잘 보내고 계시는지요? 설에 어울리는 콘텐츠로 뭐가 좋을까 고민하던 차에 제네시스의 브랜드 첫 양산형 고성능 전기차 모델 ‘GV60 마그마’를 최근 만났습니다. 마그마는 제네시스가 세계 시장에서 BMW의 M, 메르세데스-벤츠의 AMG, 아우디의 RS 등 럭셔리 고성능 브랜드와 어깨를 나란히 하겠다는 목표로 ···"
+    },
+    {
+      "id": "16",
+      "title": "공평한 기후변화 완화를 위한 강화된 암석 풍화 규모 확대 - 네이처",
+      "original_title": "Scaling up enhanced rock weathering for equitable climate change mitigation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUUNXXzYtTDN3RWwxYm5wYllRWl9WSDNpRUJkXzNfMFRtcFQ4ZW4xM0phX0FqSUJBRy1wdUJjOVQwbnBfbGsxRmF6eU50Ry1WbndBbS0wVm1lT0NUSTRV?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T05:00:25",
+      "description": "Scaling up enhanced rock weathering for equitable climate change mitigation Nature",
+      "summary": {
+        "phenomenon": "Scaling up enhanced rock weathering for equitable climate change mitigation Nature",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Enhanced Rock Weathering",
+        "Climate Change Mitigation",
+        "Scaling Up",
+        "Equitable",
+        "Carbon Removal"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scaling up enhanced rock weathering for equitable climate change mitigation Nature"
+    },
+    {
+      "id": "17",
+      "title": "Journalists Warn of the Displacing Effects of Climate Change at Clough Center Event – The Heights - bcheights.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcklWaGdBci1MSmlDNFBCN2R4dk9nV29CTzY2djVHTGhSSUZONFRMU1AydlBYeTl2MkdkbEQtYVVzak5VeUNYU1MzZ2RvMzVkY25PdXBMdll4cE45WWR6S1BGRTV0R2pJSzlVc0pRTTZobzZodFYtTnA1TW1EQ20xWlpMTmVxM0Y3b3dYc1hsMkVLejkzMVp3QTdXV2hNRHBwQmEta3hMSkp5dlRBTllRVjNrZFdKUDRpUlE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T00:54:05",
+      "description": "Journalists Warn of the Displacing Effects of Climate Change at Clough Center Event – The Heights bcheights.com",
+      "summary": {
+        "phenomenon": "Journalists Warn of the Displacing Effects of Climate Change at Clough Center Event – The Heights bcheights.com",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Journalists Warn of the Displacing Effects of Climate Change at Clough Center Event – The Heights bcheights.com"
+    },
+    {
+      "id": "18",
+      "title": "기후 변화, 식물 최적 서식지 이동",
+      "original_title": "Climate change shifting best places for plants - chronicleonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQczZ2S3ZRVnpJa0dQdGJMWmNqYUs5anpJMkJaM1RwY0EtbWpoVHZHM0FaRE41S2Y1SVc5a19tc3F4ajBYWEg2bHlCUGVoRU5xNHBGaGlrUThTSnhVZTlBbVV3RTFKc0VOSmdmWGNtZDMxSVNKX0c5TkZxNjZZRkV0QURtVTVyOXlWSnZYWGhua1VhV2Vycms2RktIOVE0b3hnZzRtVHJmcFRETTBmd0xhU2hXNjJNbjhMNnFXNFNHZVg4Z0FMeUNMd1Q0TGU1TXJwYi1wQzRsanZqUFE5bGVXTA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T04:00:00",
+      "description": "Climate change shifting best places for plants chronicleonline.com",
+      "summary": {
+        "phenomenon": "Climate change shifting best places for plants chronicleonline.com",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Plants",
+        "Habitat",
+        "Shifting",
+        "Distribution"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change shifting best places for plants chronicleonline.com"
+    },
+    {
+      "id": "19",
+      "title": "관점: 기업과 정부가 어떻게 허위 정보를 조장하고 기후 변화에서 인간의 역할을 경시하는가 - Genetic Literacy Project",
+      "original_title": "Viewpoint: How corporations and governments drive disinformation and downplay the human role in climate change - Genetic Literacy Project",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNS1loMy1IWHVYZ0RjYk5ieTQwd3ZpRmUzYUpSdG1GRHl4SnRXdEx4Rkstd2d2dUlJU09MWTZ4MjhVUlowMUM4elRIbkt0dk1NVV9HdnAxVGFETXgxaWlZTXg2UndCb01qdEJGd1liUS1UWUc1THZ2RFRnUGN6TkNMdGVWRXhrallfd18zcnlQazN4aHZCc29Zbl9LU0tPdzhodDBDTmhTUXNwTVJ2b0gyaWdqdGFHUGVZSUV6TTVZbUE1YmpvSnlQRV9ETmttTDdZc0RTOUkydkNRN0lRU0J0eUpISktPQ1FSUm9XTw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T05:07:03",
+      "description": "Viewpoint: How corporations and governments drive disinformation and downplay the human role in climate change Genetic Literacy Project",
+      "summary": {
+        "phenomenon": "Viewpoint: How corporations and governments drive disinformation and downplay the human role in climate change Genetic Literacy Project",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Corporations",
+        "Governments",
+        "Disinformation",
+        "Human Role"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Viewpoint: How corporations and governments drive disinformation and downplay the human role in climate change Genetic Literacy Project"
+    },
+    {
+      "id": "20",
+      "title": "인도, 기후변화-건강 위험 연관 보도에서 미국·중국 앞서: 연구 - 더 힌두",
+      "original_title": "India ahead of U.S., China in linking climate change to health risks in news coverage: Study - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbDUwMlZiODR4Tnp3b3BLSnZVQTBoa0tuUVN0M05aY21FWjg3UG0wNFYzNFo0dmFhZGxCakhmZExHcktCMDRaOGRxSVRDVTJCUmdqdEljWG5CYVZwQ3M0VWpEQ3JjckZEX0d2OXdMaHBXNFRiLUZnenk4S21EU2dVN1RTbDZRQzNFaE1xcjNXT09yXzdCZkFYNmVmSWJ0eUZPSHdScG4xWk11QjRUd0JxdTA0dGFQQUZGQl9IZDhEU1JPcl80Qi0tcE92VTFyR1dYOGk1dGJPdTI4VUM1aEVXWjlEQdIB6gFBVV95cUxQc1RUa3pFc2E2dnNGV3NzUHBSOWE4NUl4MHNLV0lmWnUzSmc1QjRYR3NiSktQR2tyU2VaQlFJSTE5b2lpUFg0TV9pNnJKZWxWZnNrSmVNMmYtNEZTV3o5YzBzZnhXQTdxWFZ2MmM3Y0VPZVFOSVpzckNXa2pBZVlJejJRc1pwd28zdDZuTHdwLXlsQjhsYm1OcnpmNUduMHJBZDB5djhxNFBoMnJuNVI3dDZ3LTNmSy1PdXQza1REdWgyRUZRZFBPbXdFeTJzZ1k4cENONW5USHJxWnVtelk5Q1d3MzhKRUtEelE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T07:33:00",
+      "description": "India ahead of U.S., China in linking climate change to health risks in news coverage: Study The Hindu",
+      "summary": {
+        "phenomenon": "India ahead of U.S., China in linking climate change to health risks in news coverage: Study The Hindu",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "India",
+        "Climate Change",
+        "Health Risks",
+        "News Coverage",
+        "Ahead"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "India ahead of U.S., China in linking climate change to health risks in news coverage: Study The Hindu"
+    },
+    {
+      "id": "21",
+      "title": "기후 변화는 2026년의 주요 뉴스가 되어야 한다 - 더 힐 타임즈",
+      "original_title": "Climate change should be the big story of 2026 - The Hill Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDA5WE5ITkYxYkZIdkludElyeEJQSFVNendEN0FIQk9yblFVUDJmWTU5ZVJ3UWJUMUJZTU5BMHZnU09zTjJKNm1rUFRuMGxGWFZpZENkY1hwbnZ4MURKSW5sSTI4X3NETDRfWFlIZlBYVzRKcjVFQVVINnc3S2RPZmlndmktdXRSbTN5dUFWaTlrS0hrbDNiNFhkbkU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T06:00:00",
+      "description": "Climate change should be the big story of 2026 The Hill Times",
+      "summary": {
+        "phenomenon": "The Hill Times asserted that climate change should be the top story of 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "2026",
+        "Major issue",
+        "Priority",
+        "Future outlook"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change should be the big story of 2026 The Hill Times"
+    },
+    {
+      "id": "22",
+      "title": "태평양 사전 COP에 왜 위치가 중요한가 - 로위 연구소",
+      "original_title": "Why location matters for the Pacific Pre-COP - Lowy Institute",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLUdPVC1XWjFhR3Q4emZKajNrSktsdjA1eDRiR0lmNFp2a0pwY3g1WnZEdkQ2dHJKNklqWURzZTdKUm5FN1lQZ0lsd0VpZkx6T25SUVdodUJmZTREdk1vNW1PS05KMHlJYnh4VHkyYWJZclNlUXptRDNEYTRQTDZMbE1BaHUwVVcyRXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-15T23:51:55",
+      "description": "Why location matters for the Pacific Pre-COP Lowy Institute",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Pacific",
+        "COP",
+        "Pre-COP",
+        "Location",
+        "Lowy Institute"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why location matters for the Pacific Pre-COP Lowy Institute"
+    },
+    {
+      "id": "23",
+      "title": "Youth take action as climate change reshapes life in Kampong Khleang - Kiripost",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWUtHUFotcGhlWm9YcjZMUUMyMEZ5MUNuZWFmN0FKTkxRbWxmRkRKeGVvYlBESG9paUJZRUM0OS1IUjE0UnVqblFta1ktTmtudlpjZEhhZGVmR0RWYjFxUDFzN1J3N0RubTZ2Q0Z2dmIwOGZMQjMza0hZRHJuY2tKOThfZHU2QUlhTDVHWmxXSXlQc0ZSRFZxQXMxbVVaQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-16T04:13:47",
+      "description": "Youth take action as climate change reshapes life in Kampong Khleang Kiripost",
+      "summary": {
+        "phenomenon": "In the Kampong Khleang region, climate change is reshaping life, and in response, youth are taking action.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Youth take action as climate change reshapes life in Kampong Khleang Kiripost"
+    },
+    {
+      "id": "24",
+      "title": "The Guardian view on Donald Trump and the climate crisis: the US is in reverse while China ploughs ahead | Editorial",
+      "original_title": null,
+      "url": "https://www.theguardian.com/commentisfree/2026/feb/15/the-guardian-view-on-donald-trump-and-the-climate-crisis-the-us-is-in-reverse-while-china-ploughs-ahead",
+      "source": "guardian_climate",
+      "published_at": "2026-02-15T17:30:27",
+      "description": "The president’s destructive policies enrich fossil fuel billionaires, while Beijing has bet big on the green transitionDevastating wildfires, flooding and winter storms were among the 23 extreme weather and climate-related disasters in the US which cost more than a billion dollars last year – at an estimated total loss of $115bn. The last three years have shattered previous records for such events. Last Wednesday, scientists said that we are closer than ever to the point after which global heati",
+      "summary": {
+        "phenomenon": "Last year in the United States, 23 extreme weather and climate-related disasters occurred, including devastating wildfires, floods, and winter storms, each causing over a billion dollars in damage, resulting in a total loss of $115 billion. Over the past three years, these events have broken previous records.",
+        "cause": "These disasters are classified as climate-related disasters, and scientists have stated that we are closer than ever to the tipping point of global warming.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The president’s destructive policies enrich fossil fuel billionaires, while Beijing has bet big on the green transitionDevastating wildfires, flooding and winter storms were among the 23 extreme weather and climate-related disasters in the US which cost more than a billion dollars last year – at an estimated total loss of $115bn. The last three years have shattered previous records for such events. Last Wednesday, scientists said that we are closer than ever to the point after which global heati"
+    }
+  ],
+  "summary": {
+    "total_count": 24,
+    "domestic_count": 15,
+    "international_count": 9,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Climate change",
+      "Renewable energy",
+      "Climate change",
+      "Ulsan"
+    ],
+    "sentiment_breakdown": {
+      "positive": 12,
+      "negative": 5,
+      "neutral": 3
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "기후변화",
+      "재생에너지",
+      "기후 변화",
+      "울산시"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
