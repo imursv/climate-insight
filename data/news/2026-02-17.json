@@ -1,16 +1,16 @@
 {
   "date": "2026-02-17",
   "metadata": {
-    "collected_at": "2026-02-16T23:15:59.475192",
-    "total_articles": 38,
+    "collected_at": "2026-02-17T08:19:20.313670",
+    "total_articles": 77,
     "sources": {
-      "korean": 5,
-      "international": 33
+      "korean": 18,
+      "international": 59
     },
     "sentiment_distribution": {
-      "positive": 4,
-      "negative": 22,
-      "neutral": 5
+      "positive": 10,
+      "negative": 43,
+      "neutral": 10
     }
   },
   "articles": [
@@ -980,6 +980,996 @@
           "폐지",
           "기후 행동",
           "미국"
+        ]
+      }
+    },
+    {
+      "id": "2c4c75cda79378f1",
+      "title": "경북농업기술원, 2026년 연구과제 추진…AI 기술 활용 연구 및 기후변화 대응 과제 비중 높여 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XNE5JMnRWaXBMZVhpclBFQ3ByRldWYWZKNUFoU3J6UlNjdGFvQVc0RjBGNUN1bklidHNOU0Vtd1AwTUg3NXRMUlhBazdCZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T01:22:09",
+      "collected_at": "2026-02-17T08:14:33.603579",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경북농업기술원",
+          "2026년",
+          "연구과제",
+          "AI 기술",
+          "기후변화 대응"
+        ]
+      }
+    },
+    {
+      "id": "e0c2e66daa094af5",
+      "title": "과학 무시 트럼프…그 끝은 어디 [지금은 기후위기] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04d0l4ekRlTTBtekZmZUd4cnZGNE1LMnZBN3RzclNtTXRYWXZkUEQ2S203WU5Oa2MwbVlLRWpjNm1RWHEwU1FBSExlY0QxSXc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T01:23:03",
+      "collected_at": "2026-02-17T08:14:33.603626",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1bc7b94a0f768cd4",
+      "title": "김해시, 설 맞이 탄소중립 체험형 프로그램 운영 - 영남매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80MDRJbWJEcWMxSUJtYzVyY0diWVo3YzZZLXRyTDZPVzJZM0FuN0l4ZTM0N2RFMGxxRTRsTFdOSWltYUV1ZDdpS01GTkFUTGxLeHRPWjBLa0U2R3M4M1RxRUVoN0d3VjA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T00:11:00",
+      "collected_at": "2026-02-17T08:14:33.497130",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "김해시",
+          "설 맞이",
+          "탄소중립",
+          "체험형 프로그램",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "6d5060b2cd67c755",
+      "title": "[심층진단] 탄소중립 열쇠 'SMR', 자금난·공급망 등 해결 과제 산더미 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DS0picy12NllyTjBTbUFZWmxIempaWDN1MGx6N0ZDM2lFX2lMZmVaTDB5eG1fNldWNlNWbmZUTDF0cENGUi1LWjZCN0J5Wkp2cHY0bGR0eUlQS25SSXJ6Y2FMWDU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-16T20:05:00",
+      "collected_at": "2026-02-17T08:14:33.497171",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "SMR",
+          "탄소중립",
+          "자금난",
+          "공급망",
+          "해결 과제"
+        ]
+      }
+    },
+    {
+      "id": "34d325ab3ef45c15",
+      "title": "삼성전자, 올해 상반기 중 중남미 100% 재생에너지 전환…2027년 완료 박차 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53WFI3YTd4dEMxVHZ3QzRSbWduLVN5MlptaVlQaE1fMUw1VDJWbjhCLWFIT0E1d1hGeFU1bEd4LWc5WGRkR1JpNXBEclFIQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-16T21:00:00",
+      "collected_at": "2026-02-17T08:14:33.497205",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전자",
+          "재생에너지",
+          "중남미",
+          "100% 전환",
+          "2027년"
+        ]
+      }
+    },
+    {
+      "id": "60aebef0d03e937c",
+      "title": "정부, 2030년 재생에너지 100GW 달성 박차… 발전단가 100원 시대 연다 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcm9zRFp2Vm84QzhlSDZ0TTEzNEdNNWp1MF9pdWFsbmN2dG5VbUlodU0wSFhLdzVERW5hRHM0U1JOd1RyWFYtek1IVjRfaTlMUmktR0J4d3E0X3BkSzVjcTk5RWlTcEpMTlhXWWwwUWVPYkR3Wl9CTHMzM3d4UXBwUVM3blVFNXRmamxZ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T00:22:53",
+      "collected_at": "2026-02-17T08:14:33.548516",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "재생에너지",
+          "2030년",
+          "100GW",
+          "발전단가"
+        ]
+      }
+    },
+    {
+      "id": "744ad5fa942afb18",
+      "title": "재생에너지 2030년 100GW 보급…발전단가 100원 가능한가[에너지 대전환①] - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NYWN6enozX1VkV2h0MUZmNm40LXRfb05vWmZaWm5SdmtxUGRqcGtRNzhucVk1ZmhqOEFVUXdJYlFERG16RDJKdkQ4WHlJUnIxbHoyQWlDWGxEeU1TNVVyUNIBeEFVX3lxTE02QkhJenZYaEFwOS0yV2Y5Q1lLS01LbkZTMVBjaFZXeGtiSUxfNktjenQya1pnU3hKb002ZTdhZGNiQzRjcE9hdnNDUGVtcGxZcXlDcUxZaERwV2M2SlBsTnNwR25aQXBkdy0xWEZyQlg2S2loVVIzeA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-16T23:00:00",
+      "collected_at": "2026-02-17T08:14:33.548548",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "2030년",
+          "100GW",
+          "발전단가",
+          "에너지 대전환"
+        ]
+      }
+    },
+    {
+      "id": "007ef53515dc4dec",
+      "title": "“원전·재생에너지 모두 필요…정책 불확실성 줄여야” - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdjJJNkE1NUcycmphMDNQN1ZmekFPeXFWV3JPLTVXOVlzQzdVajlOUWl1YkxZcVFrX2RHQmpOV0ZZdEZUZU5IZFlRQlR5MjRfVXZMYjhxaTFaWjU1Y21GUTl4akt2bXdnTFNoSE1yVHZvRHRVeGlZenpsWUc4aDVVdA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T06:03:25",
+      "collected_at": "2026-02-17T08:14:33.548577",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원전",
+          "재생에너지",
+          "정책",
+          "불확실성",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "db7b6aef7dddf936",
+      "title": "“원전 비중 늘리면 사회 후생 증가”…재생에너지는 비용 하락이 관건 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QRFFyTTJlLVM0NWdjUlRWYXF0eUkzLWgxclRYR0pJNklBSHJHaXJmWXlYamk0MlVNMTJOdjRJeWdKakZid0ZhXzBsNXlRdVBNcGZOYURoOVcta0ZqNWdMZ3dEVU0xUVU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T05:31:00",
+      "collected_at": "2026-02-17T08:14:33.548606",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원전",
+          "사회 후생",
+          "재생에너지",
+          "비용 하락",
+          "에너지 비중"
+        ]
+      }
+    },
+    {
+      "id": "46d93d9314f5c6a2",
+      "title": "재생에너지 '숫자' 늘었지만 '체감' 못하는 이유 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OUjVxNjNYVkVDZW84anpCMWFreVh2UVJROFE1QTRpN2M1OTV1dUpwaThlZ01NQ2ppSmFSU0RGSlpabXlGanRVNEdDcVhWbTJyMDh3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T00:08:00",
+      "collected_at": "2026-02-17T08:14:33.548664",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "숫자",
+          "체감",
+          "증가",
+          "격차"
+        ]
+      }
+    },
+    {
+      "id": "7166a6f6e423f4bd",
+      "title": "[재생에너지 100% 시대 성큼… 남호주 전력 가격 '급락'] 가격 하락은 태양광 및 풍력 등 재생에너지가 전력 공급의 주도권을 잡은 데 따른 결과다 - AI넷",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9tSC1YNXczeS1XcmM3cEJyQld5Y0lSVThuU01hYm9OQTE1UldwTlMtdkxycU1QXzdZVGRCWDR4bDQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T01:20:00",
+      "collected_at": "2026-02-17T08:14:33.548813",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "be39638f03a1ae60",
+      "title": "600년 전 조선에도 ‘기후대응’이 있었다···산림 보호, 취약계층 지원에 에너지 정책까지",
+      "link": "https://www.khan.co.kr/article/202602171633001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-02-17T07:33:00",
+      "collected_at": "2026-02-17T08:14:34.819540",
+      "keywords_matched": [
+        "기후위기",
+        "온실가스",
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후대응",
+          "조선",
+          "산림 보호",
+          "취약계층",
+          "에너지 정책"
+        ]
+      }
+    },
+    {
+      "id": "468fef923361d27f",
+      "title": "세액공제 종료·부품 관세 폭탄에 미 전기차 판매 대수 감소···현대차그룹, 테슬라 이어 2위",
+      "link": "https://www.khan.co.kr/article/202602171135001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-02-17T02:35:00",
+      "collected_at": "2026-02-17T08:14:34.819975",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국 전기차",
+          "판매 감소",
+          "현대차그룹",
+          "세액공제",
+          "테슬라"
+        ]
+      }
+    },
+    {
+      "id": "86a3291cd91b5695",
+      "title": "EU countries need to 'urgently coordinate' to adapt to climate change, EU's advisory board warns - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR3Btcy03NjlPWFRibWJrTFVHQU1kQXhnLUlYWktOOVFfTjB5S1VlWERoejYtbmVrSHBaUUFKQTQ3cjZCQ2h2YU9uM3hkbmlISE4tNVNpTjBzbE5OVHJGdVFtam1KYmhrS0JrVHVCY0otYmtzYk1Ub0J0bjMtY3UtVlhGcGw2X1RkbmlvcEZSdWVKTm5YQjdWTE9fTTJoUTNPMWZzTTFMT3p4cmNaOGE3NjlvMUNxZ3RGeGJjT2lDVUFPUUVzbFB2WlVpaUM5Y0VFc2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T07:00:49",
+      "collected_at": "2026-02-17T08:14:35.298306",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EU 자문 위원회, EU 국가들에 기후 변화 적응 위한 '긴급 조율' 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "EU 국가",
+          "기후 변화",
+          "적응",
+          "긴급 조율",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "1cfae2dc0bfca7ab",
+      "title": "Loggerhead turtles face four-pronged threats due to climate change - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZTVJWHdreDNIX3ZGY19xeW9zeENXZmI2ckNlSFB2WDIzWENUQU0tcExsVlhRdEhuNk5kYjZFQXRqMnRJLUU0S2x6RVlrU2VyWDBOejdad1cwWVdxUmJtZDJVMzl1S1JoUUloczJyc0pKWnZfcW1WZ0pvYnlwam0tUmRDbUpJU1M3NGlqSEJib3FIaTJ1OGdZWGp3bHctbHdIc19XMkc1Y1Uwal9pU3RkaDJZc2sxR09MTTh6blJCMjZVbG1teGx6bEhvMVB4NHJrcHdhTXROMjRoVzTSAeIBQVVfeXFMUDNMelZwTThsWm9GNEVhMzJiTGZuMGZNV0FCWmR5ZjR2TU9mQUJhdEZPN0RfQ2Y3dzN5QktjWnJ5WUJFdTlRZXhzQ24wVmpqT052UWp5ZHVBc0IzYnJzUVhQWGxIZTBaSmF5d3JMbFBSRFlhM2hkNXVSVHVWTjVpWS03TnFjWEY3Sk93U2x5SXg1d2NxR003WXYyQ0dlU3VmTFZKRUJJX3VYaGZ4MFdKLXgxWjRZcUFSdVlkc2FQM1dWdHhONWNTTmpGR3NYRjV2MkhieVBYdkRvV1pydVB6Rmp6UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T00:30:00",
+      "collected_at": "2026-02-17T08:14:35.298515",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "붉은바다거북, 기후 변화로 인한 4가지 다각적인 위협에 직면 - 더 힌두"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "붉은바다거북",
+          "기후변화",
+          "위협",
+          "멸종위기",
+          "환경문제"
+        ]
+      }
+    },
+    {
+      "id": "e4ec3eb8dea01273",
+      "title": "A Greenland sled dog champion fears for his culture as climate change melts the ice - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzUtTG43UW5EVDZodTBZVG1Pa1YyOVJkRlhYZjR4eVF0Y2hkczA2UzkxWGZZY21UM2FMel84Z0dFQjhDeUt2S0ZOTlNiWTNRUXhjaGhpSkkxLUVBNF85am9kSW1wUXpVMjM5QjhweDBPeUczYXFBUzlIWUZFa0pLVlcwOGpfb1M2THVtSUlreFh2d2gwZ1BCT3RFZmg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:22:00",
+      "collected_at": "2026-02-17T08:14:35.298548",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c8e74d64e09ec051",
+      "title": "EU ill-prepared for worsening climate change, advisers say - WKZO",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOGhhQWNhSGwzaktlSzRVR2U5ZGZ3Yk9TMWhOSnQ4WVF3b0p0QVN2SG85U0RSaURMMk0xOGtocE54RnVQNkMtSlhQbWN2ZFY3M3JGeTlVNnlIV2pOLUZjNldCVnpYRi1YTjcyYXZvTzk1bmUwWE9lRlYwZnBoRktySHItblRxUFNLZy1LTnJ3aw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:15:00",
+      "collected_at": "2026-02-17T08:14:35.298705",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EU, 악화하는 기후변화에 대비 미흡하다는 자문단"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽연합",
+          "기후변화",
+          "대비 부족",
+          "악화",
+          "자문단"
+        ]
+      }
+    },
+    {
+      "id": "878113031b449975",
+      "title": "Floods linked to climate change hit nearly 1 million in Southern Africa - news - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdFg4eVlPaUVjVk1mS0tZMS1SZjNsbEY0MG1pYXMyRlhLSVNZamNNcWN3SlF2X3RNYmViTENTVlBRdlUyb25iNWIxb1JZRmdfbVgyM0hwb0JrVXZhaVo2Qks2MDZIc3lXdm0xS0JYc284Ylk3OFVvTWJrNmZxNjJqbk40SXVMWk5VYTdiZTVXaC01cm1RNVZTR1JfVWpsWnpBaW9aaHF1cUUyZ9IBrwFBVV95cUxQX2RvTnBFbHJTN05ISmkyYXlTdTlyOVphaGIzZzNhZTExblhDNHFjWWtrNjRVd0s4WnhxOTl3QllLLTFHUXlpRDItNGRiTnVNQ0t5TFNGNVV2cmp2LTVlaXZmcWhfS3JUT1VIc0NTUkVoZGMzN1pYYnVoUEd1TVo5eEZPWnI3VEdVWl9JcV8zZUE5blNKOWJSZmdWcVNieTN5S2RiQTVrTFE3UndKTm5r?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T07:23:18",
+      "collected_at": "2026-02-17T08:14:35.298735",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "남아프리카, 기후 변화 연관 홍수로 100만 명 가까이 피해"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "홍수",
+          "기후 변화",
+          "남아프리카",
+          "피해",
+          "100만 명"
+        ]
+      }
+    },
+    {
+      "id": "a78fd9cad911de47",
+      "title": "On the Road to COP31: Strong Message from Istanbul for New Era of Climate Action - Welcome to the United Nations",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmlNeTkyeEx3SDZWVmlMV3lfMXFoRWItYUVfT2diaDhJd3pIMjdvUXNTZFI3M2tZaVJBZnpjRG10dzl2UGdzNDNpb2hRRG05VVlLTnhUUUxMWHJlMWgzMWRYN3lQV1BaYTNhTW0zWHFvRVpOQXZUT2JGdXpKc0ZHbE05TnJjR2R6ZWhVTGh6d0M2N2to?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T06:42:33",
+      "collected_at": "2026-02-17T08:14:35.298795",
+      "keywords_matched": [
+        "climate action",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31을 향한 길: 이스탄불에서 온 새로운 기후 행동 시대를 위한 강력한 메시지 - 유엔에 오신 것을 환영합니다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "이스탄불",
+          "기후 행동",
+          "유엔",
+          "새로운 시대"
+        ]
+      }
+    },
+    {
+      "id": "10c5392982b2f0da",
+      "title": "Letter to the editor: Why climate change matters when talking snowpack - SummitDaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTXNDd0wxcnluZ1FvZm5RSEEybzNXUi10UzZ4ZjFJem1PYVgzNGMwbWdJS1RGeG5USWZlWTFMOHVaS1l4WUlGSHk4VnZzS2U1dTgxSngwZHpMVmIza1hQR1FQVk04NVgwOU55bWhHaFBhOFZiZTFTTV9qWVN0amZ1OVVmMGtvdmQzV3A5cUw5eUd4eVdOdjBVVG8tR2c5ZXNGWEM0dTZUSDFYQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T01:08:07",
+      "collected_at": "2026-02-17T08:14:35.298856",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "독자 투고: 적설량 논의 시 기후 변화가 중요한 이유 - SummitDaily.com"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "적설량",
+          "중요성",
+          "독자 투고",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "01e0d53365f6bd33",
+      "title": "A Greenland sled dog champion fears for his culture as climate change melts the ice - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXRtQlBDNWtNSGRIQl9NWlRkM040OXhKY1B2NkNLN2xyR1RDallBX2MtY2ZQb1g2T2VNdXpxbTYxRUVObnd0Mnc3Z1d4aXM1Z0VCVUNITTlXaEU3UVpzNTFDY3Fqams4cmZoU3hyenMtdDZPdC13b3FQNmMxVThYUjVHek84dG4zbVZHRg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:22:46",
+      "collected_at": "2026-02-17T08:14:35.298918",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "그린란드 썰매개 챔피언, 기후 변화로 얼음 녹자 문화 위기 우려 - 야후"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그린란드",
+          "썰매개",
+          "기후 변화",
+          "문화",
+          "얼음 녹음"
+        ]
+      }
+    },
+    {
+      "id": "b7de514a5ee08b52",
+      "title": "How climate change is reshaping Arctic geopolitics - 360info.org",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjRTNCN1ZXNjNXWjFVbVphY0pwcFNlQmtoZ1V3Xy1SWnRQMWQ3M3p3Nl8xVzZMU19FM19QRmZ3dEwwRzFtXzBiMFR3X1IxSXNYSkdqY25VaFNUbE5pVlB6OG85YlR2TG9ITEJvcGZLdHF6OGJWTlpqSU5zaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T04:07:11",
+      "collected_at": "2026-02-17T08:14:35.299060",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cdb63190177730c8",
+      "title": "Global warming hits 1st tipping point as security risks rise, senior officials warn at Munich Security Conference - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNHhCX01CQ29lQzdvcnByNnN3QV95cEk1M2FEV0pXa0VBOVRZTjRtUkkxcjg1Slo2bXRRc2R1Y0hSb3h4THdPaW9ZVzJ3WFZKc29ZQ0hSQzhQWUgzc0ZKODN2S1NBU25OQXpPUkZoUkRndjVwM19TanM4eFhISGpEUEMwWVROeVFjS2xHdDNSYTlKZ1pjZnU0WWFGUnRjOGNzMHEyeEpfazVRVFAzWk54TnBXRnZLbGc2eHpWN0RwQzlJbjJ4VHN3cHFfWktrVlZpVS1RMXdMZlJFaW5ONEZGR2JOVHdUa3VFVlRpaVdLa2gtXy0zS2Q4VEJsbG1Odlk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-16T22:08:18",
+      "collected_at": "2026-02-17T08:14:35.299320",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "지구 온난화, 첫 티핑 포인트 도달…안보 위험 증가 경고 (고위 관계자들, 뮌헨 안보 회의)"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "티핑 포인트",
+          "안보 위험",
+          "고위 관계자",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "edab39c6c820e308",
+      "title": "Trump’s War on Somalia: Bombings, Slashing Food Aid, Promoting Climate Change - Informed Comment",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KTnQ4aHhObDI0elA5aWQzcmtuVVJncVlLczQ1UlJKUTFVSmhaQ3RpTW1fVmYtcm1qODNIanVWenpIWEJaVXhZS2VmVnRCR3NWSzVIMG8yUlZsXzF4QURZajVOVHhlOFd0bmdNcDJndnM0YWc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:15:53",
+      "collected_at": "2026-02-17T08:14:35.299351",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프의 소말리아 전쟁: 폭격, 식량 원조 삭감, 기후 변화 조장 - 인폼드 코멘트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "소말리아",
+          "폭격",
+          "식량 원조",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "cc3653e8fcf91721",
+      "title": "Greenland sled dog champion fears losing his culture as climate change melts ice - Shoreline Media Group",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQSVIwdGt0OTlSb2Q1dU9vZkhkZnNQYk1OeGZWNHFmZUQxNV9reEtuNkJ2WlZnMURWQU04dmtPNHRGajdCT1J2bjN4bGh4bk9jTGhLQ2dKeVJ5UkJya1IyZTdvM1NqUUNzNnI0SEkwRWpHbkVLNVdDdHJ0RGtMYWpxb0xqZDlJS05JTGFvLS1sWVdtSFlIdWxHUHRSVWp4Q1VnTTF6WjFtOHVXU3JleUp3SG53TWxXNk5XOGVsWG42S3h2aEVoSGEyU2JYLV9CY2ExTmFta1NlX3JDRll5UFlrTmZIWjVTZ3hjNmx4WTF3d3NLU25USk5fc3hheE05NHhXdVJ6WEdmN1dhQms3QmpyWjR0ZmZZdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:01:10",
+      "collected_at": "2026-02-17T08:14:35.299551",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "그린란드 썰매개 챔피언, 기후 변화로 얼음 녹아 문화 잃을까 두려워해 - Shoreline Media Group"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그린란드",
+          "썰매개",
+          "문화",
+          "기후 변화",
+          "얼음 녹음"
+        ]
+      }
+    },
+    {
+      "id": "03abd1766dec64dd",
+      "title": "How climate research in San Diego helped the government’s landmark ruling that greenhouse gases endanger public health - KPBS",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORzBoVU92QmJXTGo1YmVzUERYNEl4SE9iYkxqUUhQSEtxTXd3anU5ekpYV1Z6dm00aUVSRkpndTl4bkMwMjJsSE43Tk9hRmJDQXd0LVJ4NW5xeDlMZmtWZFVsb1U0UGQzNlE5czltdzBicVA4LTk2bW0zX3JHbWZqMnpyal9ON2R0aklOZnJPdC1aOVpteEJBNEduTW53TTZ3VEZCU2tnZm9iZFlyM1lnWUdQbU54Uy1yMUpQWnJ5NGYycFZjc2ZQWmRDbTlNQk9xY1ZkX2xCMWZMNEM0X3dXN2NMZGlOTDRzWFhHZnVmRThSV1pKMG5iaHNn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T01:15:00",
+      "collected_at": "2026-02-17T08:14:35.299730",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "샌디에이고 기후 연구가 온실가스가 공중 보건을 위협한다는 정부의 획기적인 판결에 기여한 방법 - KPBS"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 연구",
+          "샌디에이고",
+          "정부 판결",
+          "온실가스",
+          "공중 보건"
+        ]
+      }
+    },
+    {
+      "id": "cf02710e2625f86d",
+      "title": "2-16-2026 Climate change… - My Bellingham Now",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKMDE2UWZHbXVDbkpFTkxlMkN1RVBqbWVjQklQSkF0MU1rWEtfSkgwZVRpWEV5Qy1pc0RHejFCbThhVkRyRE9VbVVSU2JvNDYtaGdvU1BMWl96cVAwakI5eHN3LVBSbjV5WXluOENnaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T01:19:57",
+      "collected_at": "2026-02-17T08:14:35.299812",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "2026년 2월 16일 기후 변화… - 마이 벨링햄 나우"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "벨링햄",
+          "뉴스",
+          "미래",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "be3c7743d2ee0bcd",
+      "title": "A Greenland sled dog champion fears for his culture as climate change melts the ice - oskaloosa.com",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR1FMc2xjVjdOWGhNaVBZLVAzWm9KS09ORDVWR0xQME45aDN3a0V6RkNpekx4eWpjXzNseTZuS0E1QXdLeWxsZjJRME5iT1JVRWVwdXFURGIyTHZYbjE3ekU5Zk1ncGs1Q3lHeExhS0MxUi1LTlZLVElYczlmTUVURlFOejNsZXF0WHV1cjljbFFGYmR4Z24yWG1MMjRnR29DeWFVT3pMRTI2ejNVSjY2Ni1nN2FWQ1puQ2JqOFZxWnFma3JMY182NTJXXzlvZmVMbEJMeDhtdnVaSm9GSnZYYnp1M2g1cmdsaEdNUzJBRkRLOFhseGJWSTMxLVlZdDJjdVROSVNIbHozdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:22:47",
+      "collected_at": "2026-02-17T08:14:35.299864",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "그린란드 썰매개 챔피언, 기후 변화로 얼음 녹아 문화 사라질까 우려"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그린란드",
+          "썰매개",
+          "문화",
+          "기후 변화",
+          "얼음 녹음"
+        ]
+      }
+    },
+    {
+      "id": "c1eae95ab4b30cb7",
+      "title": "A Greenland sled dog champion fears for his culture as climate change melts the ice - Jonesboro Sun",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNWTdnaXVKamt4ZWhnTnozUnVGOWF0aVpWS2lPUFhoVjY5YkpNbmhtcGZMWXRoX3BDVkhFaFp6TWRuTFVNUHZZRzRWWUFOZExQcTNaTFBDdEUtUnl1WGVwN2p2Y245cFRqUXJnQ1kyYlVGMWFJUEZWZGJQRE9DUGRnYVBiSGhocFY4UmtqODNQYjh1enRXX0J4bEdlejZIQUFUbF8zeHJ2N2lvUVpnTjR1MHhrUWd0TXB2Wi1iSEp1Vi0tT0dPUXBHV3owZTh5WElneUpqblR2b1lTM1FTUVpQOXdvN0R1MzBVOUJaclFlYmItcmFFREpVZVdiUHhDRThqM3Nj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:22:47",
+      "collected_at": "2026-02-17T08:14:35.299958",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "5eeaaa602df5f625",
+      "title": "Is AI really fighting climate change? Experts weigh in on big techs ‘greenwashing’ - The News International",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUtWNFRMMzc1YW0tMG40NUlRQTYtdUstT3dmWXFCcUU3bHc0SjYtRUZzaExxU1p1Yjl1cUw1eDltN0lPYVlhY2thM0dhTFQya0ZSRzlGZ1EzWHNSdldOSmRsUUNOS1dTeFFiUWY4SHpDd1NrZFd3SjlweDh1R3VvM041c0pNOHlFclI5MDhKcklpVEpYUmRfTUtmd3lyRHpiWEY0T3VVaDh1SXl1WkNpREM5MXp3X0dFS19WaUNn0gG6AUFVX3lxTE5zOU1wRDNkTGdWcF9JV3hmQXR2M1JTYU5RRDlHZHhxaHRObnNaY0swTzRIYTRGNzJhY2pYMGlGbW5ld0JOMDE4RUU3bkNVcDZRYnFfQ2o4NjFzVVVJQjd6d3dVSDZBT0xyUHQzbkprYS1YdWZHODA2ckprdjNxUk9mZE9pcmVKUzVZSDBkMjEwdDhZQ2RjM2IxSFV0YnRDQ3h1SEx5LTdRVE40aWpjbFpHU3BYVmkzNzhUZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T07:29:00",
+      "collected_at": "2026-02-17T08:14:35.300066",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "AI, 정말 기후 변화와 싸우고 있나? 전문가들, 빅테크의 '그린워싱'에 대해 논하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "인공지능",
+          "기후변화",
+          "그린워싱",
+          "빅테크",
+          "전문가"
+        ]
+      }
+    },
+    {
+      "id": "b9d96fe9d632cfea",
+      "title": "A Greenland sled dog champion fears for his culture as climate change melts the ice - The Derrick",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNHhoOVo3VkxpYTY5bHhZRXktZVdUTEZxa0Z1aWROX3dTaGRGVk8tQTlGNG9BeU5aSnA5R0piSmFLQ3BaMk5VWndMeUQzcjQxRTM1Wm5JQ01oMXQ3VmYxRi1oZ044bEFBNkd1dG50RjktRWlvbG5jbG5KblFETThLU2N3aEI1VlFrU1dhSTBfUXBWT3pJcGxKbnA2QzAteHU5SV83YnJBLTRnMV95dERLNjB4Q1RTM1lLN2VMYVFkeXBTVVdSZlJiNlhJVlkxWmJoRnk0VldMaV9rTXRVTnEzSUxsVkpUQ2tObDJHZ3VobW1xc1lNTE02V2dXT0dkdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:22:47",
+      "collected_at": "2026-02-17T08:14:35.300382",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "그린란드 썰매개 챔피언, 기후 변화로 얼음 녹아 문화 소멸 우려 - 더 데릭"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그린란드",
+          "썰매개",
+          "기후 변화",
+          "문화",
+          "해빙"
+        ]
+      }
+    },
+    {
+      "id": "50e5e18725b393ab",
+      "title": "Greenland sled dog champion fears losing his culture as climate change melts ice (Video) - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnpmVWNFSkdGdlBkaVQ4bWc2OXJJR3B4OGhOV0NFaG1jQjZrVnBrRHdadEVpVjQ4UjFBaWY5allXYlZfUzd6VWZlSVQyejFsVUUydzFqZXJrVVZXMkw2RzRnc1JNTEZtV2RnSDhjWkNMZ0plOFNfNi1HSEx2WjN6SjN3S0M3YXV0MlRmdEFISUltU2lfMEs1Y2VCRUJoVHJpU3YzSVBWYU5GTDV0M0djc2RZeXhNTlNZN0NwTThIeGNJMW8?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T05:16:19",
+      "collected_at": "2026-02-17T08:14:35.300752",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "그린란드 썰매개 챔피언, 기후 변화로 얼음 녹아 문화 상실 우려"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그린란드",
+          "썰매개",
+          "문화",
+          "기후 변화",
+          "얼음 녹음"
+        ]
+      }
+    },
+    {
+      "id": "9e5d043d680dae83",
+      "title": "EU ill-prepared for worsening climate change, advisers say - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wVlFwWEczMVF5SHFjMFd6YnZiWDdZUlRBV216Wm5SZEpLX0NfdktwbmxkempSS0NQYVFyVGUxTUlpVUc3SG9IWk5KVVFhTmxTOWx0M3Zab1VRVWxzS0NSWmlzQXZhQ0hIR3RrTFFnM3R1QVBvZ1REUGlESW8zV0U?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-16T23:10:16",
+      "collected_at": "2026-02-17T08:14:35.300778",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "EU, 악화되는 기후 변화에 대비 미흡하다는 자문단 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽연합",
+          "대비 부족",
+          "기후 변화",
+          "악화",
+          "자문단"
+        ]
+      }
+    },
+    {
+      "id": "836a7c18ad7afffb",
+      "title": "Climate change cuts hilsa haul, raising long-term supply risks - New Age BD",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeER3cEgzRUtuYklqU1RoWEhXNWd3eWE0S0FoTTc5Qi1QeERIcFJCTnhoc2pIUW1mdE1VaklwWTVNMnVUaDd6WWxHM0tlYk0xN0pGMm50VUMwazRJdDBBbE14MmpVcmpaVnJyVk9wbjlxVkNJWVMzWGo5X3NZY29PaWp4bzRfeTdKTURkbi1kdFIxZVRiejdTWEktMGtVbkZodG01Yw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-16T19:05:17",
+      "collected_at": "2026-02-17T08:14:35.300855",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 힐사 어획량 감소, 장기적 공급 위험 증가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "힐사",
+          "어획량 감소",
+          "공급 위험",
+          "장기적"
+        ]
+      }
+    },
+    {
+      "id": "0ae175ec5c7264d0",
+      "title": "IDR Ground up | Has climate change complicated silkworm rearing in Meghalaya? - India Development Review",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUm1FbjU1SzZSZ2h0ZHhOUlU4dlQwclVQREt3XzQtNXoxRVpqSjh3YkpldkFKV3V1MXF6V05JX2pOYmtqUmY2ZE1TT0ZOYXpKSHg2UGl1Umw2N01mczl4Qkg0ZmptdjhTWHZSVW1jbTJYQWROUF9INTRkYy1yaXpUYTNNUEFkYjlRbHZTZGF3MkRZUUJ3ZWM5c21FSFQ0MXp6NTVyR3V3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T07:11:49",
+      "collected_at": "2026-02-17T08:14:35.300906",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "dd9d3778873aa7aa",
+      "title": "Claims that AI can help fix climate dismissed as greenwashing",
+      "link": "https://www.theguardian.com/technology/2026/feb/17/tech-companies-traditional-ai-generative-climate-breakdown-report",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-17T05:00:47",
+      "collected_at": "2026-02-17T08:14:34.911339",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "AI의 기후 문제 해결 주장, 그린워싱으로 일축"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "인공지능",
+          "기후 위기",
+          "그린워싱",
+          "에너지 소비",
+          "생성형 AI"
+        ]
+      }
+    },
+    {
+      "id": "8843721adcaab423",
+      "title": "‘Landmark’ greenwashing case against Australian gas giant Santos dismissed by federal court",
+      "link": "https://www.theguardian.com/australia-news/2026/feb/17/santos-greenwashing-court-case-dismissed",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-17T04:41:31",
+      "collected_at": "2026-02-17T08:14:34.911412",
+      "keywords_matched": [
+        "net zero",
+        "clean energy"
+      ],
+      "translation": {
+        "title_ko": "호주 가스 대기업 산토스에 대한 ‘획기적인’ 그린워싱 소송, 연방 법원에서 기각"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산토스",
+          "그린워싱",
+          "소송 기각",
+          "넷제로",
+          "기후 운동가"
+        ]
+      }
+    },
+    {
+      "id": "39f006c809e3c492",
+      "title": "Guest post: The challenges in projecting future global sea levels",
+      "link": "https://www.carbonbrief.org/guest-post-the-challenges-in-projecting-future-global-sea-levels/",
+      "summary": null,
+      "source": "carbonbrief",
+      "language": "en",
+      "published_at": "2026-02-17T08:00:00",
+      "collected_at": "2026-02-17T08:14:35.162261",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "dca5d27f7e49ae24",
+      "title": "Australian gas producer Santos wins court fight over net zero claims - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQME1hNVhHMUdxdWt0cmVFc0hFNV9XSl9PTVBLMXl0ektxWmZVQXpoM0tHSHh1dWM3U1BtRHBOZU5HTUY5eUFBNlhlOVJJZW11U3ctbHJpWUVnMzFXZUZlck1qa1pEbHA4OWJnd3N5NEkzbVBfcGg1Q3J1S1I0a1NMdFJFM0VLNEtiVmg2cFJKYUFhWmhzal8xVjFPRjRLVXBkeURwRXRPXzF5NDM3WlBKM0tuSXc3SGZrN1kwVU5QQmY3NUR5YmNJY3BLamk3ak0?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-02-16T23:11:12",
+      "collected_at": "2026-02-17T08:14:35.522946",
+      "keywords_matched": [
+        "net zero"
+      ],
+      "translation": {
+        "title_ko": "호주 가스 생산자 산토스, 넷제로 주장 관련 소송 승리 - 로이터"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "산토스",
+          "넷제로",
+          "소송",
+          "승리",
+          "호주"
         ]
       }
     }
