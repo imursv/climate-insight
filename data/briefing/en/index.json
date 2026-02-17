@@ -1,7 +1,8 @@
 {
   "language": "en",
-  "last_updated": "2026-02-17T08:20:48.457978",
+  "last_updated": "2026-02-17T23:20:00.908606",
   "available_dates": [
+    "2026-02-18",
     "2026-02-17",
     "2026-02-16",
     "2026-02-15",
@@ -662,6 +663,13 @@
         "period_label": "Afternoon"
       }
     ],
+    "2026-02-18": [
+      {
+        "period": "morning",
+        "file": "2026-02-18-morning.json",
+        "period_label": "Morning"
+      }
+    ],
     "2026-02-03": [
       {
         "period": "morning",
@@ -814,6 +822,6 @@
       }
     ]
   },
-  "latest": "2026-02-17-afternoon",
-  "total_briefings": 124
+  "latest": "2026-02-18-morning",
+  "total_briefings": 125
 }
