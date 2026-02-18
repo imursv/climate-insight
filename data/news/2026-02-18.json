@@ -1,16 +1,16 @@
 {
   "date": "2026-02-18",
   "metadata": {
-    "collected_at": "2026-02-17T23:18:03.702665",
-    "total_articles": 60,
+    "collected_at": "2026-02-18T08:19:31.273248",
+    "total_articles": 109,
     "sources": {
-      "korean": 10,
-      "international": 50
+      "korean": 44,
+      "international": 65
     },
     "sentiment_distribution": {
-      "positive": 8,
-      "negative": 28,
-      "neutral": 8
+      "positive": 29,
+      "negative": 45,
+      "neutral": 12
     }
   },
   "articles": [
@@ -1487,6 +1487,1242 @@
       "collected_at": "2026-02-17T23:12:45.044358",
       "keywords_matched": [
         "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "00dc58fadcf2ba6f",
+      "title": "“이제 3도 상승에 대비해야” 유럽 기후과학자들, 파리협정 목표 초과한 상황에 대비 권고 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtRzhUODJQMHhzOU1oSVdYbG1jaXpKMjBVMk9tZWxGVVpYZ1YzemQ3eWx0bkdyQ29Xa3JaalgzWEh6TmZNRXVNbkJTUUxIQVJPenl1NlR5OEpKd9IBX0FVX3lxTE1mN0NSeWY2ODN5VWFHR084SU1QMlgwRUdQUHJmWk9VbmVLbTMyTVlERmotUmZCeFJIX19rVVNlRUVCZjJHR3h4amNyUllSWXFuZU9HSm41bjh3bG1CWDlz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T07:12:00",
+      "collected_at": "2026-02-18T08:13:33.288326",
+      "keywords_matched": [
+        "파리협정"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "3도 상승",
+          "유럽 기후과학자",
+          "파리협정 목표",
+          "초과",
+          "대비 권고"
+        ]
+      }
+    },
+    {
+      "id": "4c37ae9a2b1f044d",
+      "title": "기후변화 대응 일자리, 2032년까지 11만8000개 늘어난다 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdXNsejBKZGUtNmV1aWNqRWNaXzZ0M0d6Y1NxTHVxRG5GVE01d2RYSlhZeGJBc2RXbTRGUkd6ZUVtZ1g4Y2xoTlNJUkpJM3ZHY3MyMXU2Mm1GTkV6NVhTS2RsQlVTRmNFYjFJMHhKLUhoMWN1dmRkT2swUldzTzRtS3dLVWprQdIBmgFBVV95cUxPODZ1SkNfQk5tSWRJZnpsb2RYSjJNaGxKU1VZUVBDQ2lfN1dQeTh0TkI3YThMS0N5NkhmWV9xUWIyejRadjUyYVFCbWU5eGdaN0N5dTQyeUxWcmtybVNsOE1mak14SGg2aXdpRnVZY1BoS01BVHVDNUdGNm5LaERNOUcxYVJGbW9vU01rQi1KYU52UDg5WWpId0hB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T03:04:00",
+      "collected_at": "2026-02-18T08:13:33.288386",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f590bc0a2445c519",
+      "title": "기후위기 대응 산업이 일자리 만든다…‘10년 새 11만명’ 연구결과 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sR1dYVldqQlZvLVhyZEkyM0hOTWx2emlNQTdSc0cwenJDY2puY1Q3bEJ2TUNrYS0wWTBkTVRSclVRc0tPUEFKbVJodUZHNkg2WkdQT0E2WGlXSjhJZnE5eTU2Nmt3cUpFa3lBRQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T04:45:00",
+      "collected_at": "2026-02-18T08:13:33.288415",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응 산업",
+          "일자리",
+          "11만명",
+          "연구결과"
+        ]
+      }
+    },
+    {
+      "id": "a0b71fbacde4a83e",
+      "title": "[이슈 분석] 트럼프, 미 온실가스 규제 공식 폐기...기후변화 대응 큰 파장 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lcFl6ZDZvUi1rV3hIUkotMzZmem90NG56SmtPU2VzTmtPTU45QUptQjV5OFd1TXktM0pNdVhZbHJtazRMdFBHbkhuS25rWGw3NDliaDdLNXpHekxQX3R6bmEzeVhYcFg1RTU5cHZR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T21:10:00",
+      "collected_at": "2026-02-18T08:13:33.288460",
+      "keywords_matched": [
+        "기후변화",
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "온실가스 규제",
+          "폐기",
+          "기후변화",
+          "파장"
+        ]
+      }
+    },
+    {
+      "id": "3ac967ffb60bd54f",
+      "title": "美, 국제에너지기구 탈퇴 가능성 시사···“탄소중립 필요없어” - sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lT0ZhT3FfU190Vml1aUpaUzlGbjNzZ3daMURqVC16OUh0T3d0a2dEMmFwTkdreVVTVTN5Z3ljNUwwdi01bDZoRG5QdWYxRHM2b1E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T01:54:57",
+      "collected_at": "2026-02-18T08:13:33.288485",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "국제에너지기구",
+          "탈퇴",
+          "탄소중립",
+          "기후정책"
+        ]
+      }
+    },
+    {
+      "id": "9e42392cd9409c22",
+      "title": "기후변화 대응이 '미래 일자리'…2032년까지 연평균 3.6%↑ - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Vb3VoRUM5b1B3ZTFPVUZTX2VDNzAzTFlVRXp3RHVBRWplam96NmcxOGxXang1YUh3d0xVcE5admdxMVRmV3NqaFV5NzQ3SFdRTWpB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T21:07:00",
+      "collected_at": "2026-02-18T08:13:33.288509",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화 대응",
+          "미래 일자리",
+          "일자리 증가",
+          "2032년",
+          "3.6% 증가율"
+        ]
+      }
+    },
+    {
+      "id": "ddd9a1a327c291ee",
+      "title": "“이제 3도 상승에 대비해야” 유럽 기후과학자들, 파리협정 목표 초과한 상황에 대비 권고 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zenZBcVhpZmJMd3h6Q0RtNElVNEFacHNjX3RoaTY5LXNhR0Nha044c3FEcE5ubXhkYVlNOVBRODEwNm00WDhfT3RBMmNZenM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T07:14:44",
+      "collected_at": "2026-02-18T08:13:33.288593",
+      "keywords_matched": [
+        "파리협정"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "3도 상승",
+          "기후과학자",
+          "파리협정",
+          "목표 초과",
+          "대비 권고"
+        ]
+      }
+    },
+    {
+      "id": "ff7b05af925333d3",
+      "title": "미국·EU, 기후질서 대균열…IEA 탈퇴 위협 vs. 온실가스 90% 감축 목표 법제화 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5UaTV3dXdXUlNaMjc2aGdnYUE4RjdzX3g5Q082N2ozX2hSaXl1UnhfRnBmOWg0Q3VCQzNVaUdfQllWQjZ1cU1xMjJiazN3bmpvZ1VMZg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T07:01:00",
+      "collected_at": "2026-02-18T08:13:33.288641",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "EU",
+          "기후질서",
+          "IEA",
+          "온실가스 감축"
+        ]
+      }
+    },
+    {
+      "id": "2b8ba3e3ef1022b9",
+      "title": "美 \"탄소중립 필요 없다\"...IEA 탈퇴 위협-Xinhua - 신화망",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52dll5czM2b2VRZUlOY0tUcGM1SlB5cGpEU0ZqSmJxQ1BNNWh0akQxelNLQ29IclZhVHhKSEtzOXZVLWtROV93dnoxbHFJdE10STNxYkJOb1hOQ0VhV1pHcWQ0Qm5GcDFmU1RHcU1hMFpSS1R1?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T07:16:27",
+      "collected_at": "2026-02-18T08:13:33.288707",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "탄소중립",
+          "IEA",
+          "탈퇴 위협",
+          "기후 정책"
+        ]
+      }
+    },
+    {
+      "id": "b7508c4915dfcfc4",
+      "title": "양천구, 지구를 지키는 ‘EGG 탐험대’ 운영…친환경 녹색세대 키운다 - 미디어투데이",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA4TkFmeVlQS0tDWVNjTzFtcmNTTExTQ1RDbV9wLWpkMmVmWHRwVlJtakR4aUpVTXJUakd5emFIUlI3QnhGVkRiVk9R?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T01:34:00",
+      "collected_at": "2026-02-18T08:13:33.288805",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "양천구",
+          "EGG 탐험대",
+          "친환경",
+          "녹색세대",
+          "환경 교육"
+        ]
+      }
+    },
+    {
+      "id": "034e841d95f4c07f",
+      "title": "미국 에너지장관 “탄소중립 수용 필요없다” IEA 탈퇴 가능성 밝혀 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OQ0RqRWFCNzZMUW9PbTNEYzBwZEpBMTA1aGx5ZXB6TV9nMjduUXJFVUFHMlJsaTE5VlNGcktzSC04V2pKeDh5OEFiMjNPTDQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:44:45",
+      "collected_at": "2026-02-18T08:13:33.288830",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국 에너지장관",
+          "탄소중립",
+          "수용 거부",
+          "IEA",
+          "탈퇴 가능성"
+        ]
+      }
+    },
+    {
+      "id": "0c89ff988fc1cc16",
+      "title": "춘천시탄소중립지원센터 정책지원 연구과제 공모 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VUmhxWGItUlhVRlVSYW5lR2RfVzd4S215bWh1cFlGd3ZCZE45cUJSZzM2MVd1VWxuWHVHcHp6bS1TWEh1aXRONE5uMDU1YzBFVEplRnJQN2l6ME5HX2ZvUVNDcGV1VFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T05:56:54",
+      "collected_at": "2026-02-18T08:13:33.194001",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "춘천시",
+          "탄소중립지원센터",
+          "정책지원",
+          "연구과제",
+          "공모"
+        ]
+      }
+    },
+    {
+      "id": "caa4e60a4db76c36",
+      "title": "에쓰오일, 전자영수증 탄소중립포인트 누적 168만건 적립 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QUzhiOFFUcW0xUEpXWTEyX2IxLXhFNHhKWnV0TGlqYTdmOGxtV0M4aW9VSnI0ZWF5eXR2Qkdvelp6MHgtdVRYZmppME14bWwtRENBWk5vR0FDYUkzNFpqLTV4ZWRqaFZ2ckItMVI5UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T06:50:04",
+      "collected_at": "2026-02-18T08:13:33.194032",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에쓰오일",
+          "전자영수증",
+          "탄소중립포인트",
+          "누적",
+          "168만건"
+        ]
+      }
+    },
+    {
+      "id": "5ca8a0ea20724f45",
+      "title": "[특별진단]철강 탈탄소 시대 임박…전력 및 탄소중립 이슈 해결방안은? - 철강금속신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRjk1c0lza29NdnJ6bkw5ZkJscTRubWw0NlZYaWV3UjVYOUtMM3MwanpEcGpXMGZCRU9BZWh4VGJYd1dXajRTdEduS0prSEg2TjVDdlF3T1FSamd0NDJiT2ZhcklYTjd5?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-17T22:00:00",
+      "collected_at": "2026-02-18T08:13:33.194061",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "철강",
+          "탈탄소",
+          "탄소중립",
+          "전력",
+          "해결방안"
+        ]
+      }
+    },
+    {
+      "id": "c4dc1b470e5d943f",
+      "title": "S-OIL, 탄소중립 전자영수증 발급 168만건…친환경 실천 확산 - fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sNjV3X0FvWGxPdlQtX0k3ZUJyejI2Y0dXbFdCUFAyNDFjNFR6c1Zrc2J5ZFNjX01oc0FzR1haZldGaGxQTkZ4MG1vRjdCd3lldWpzTGkwZHgtX0pBN1dr?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T02:15:41",
+      "collected_at": "2026-02-18T08:13:33.194088",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "S-OIL",
+          "탄소중립",
+          "전자영수증",
+          "친환경",
+          "실천 확산"
+        ]
+      }
+    },
+    {
+      "id": "df0a98777da75e7c",
+      "title": "출하량 감소에 탄소중립, 전기료 상승까지…시멘트업계 악재 지속 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uZElNS3RCMC1VUTZ2VWo0dGcxWlRDeUFTczhTNzcxajFsYTdYbEZQWXBVc1Q5VWFINUpaQTJXaFZJeDdXU3B1dU5pU21kZUFEd2tOYmoxSmFLMDQ2RHpSb053WWs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T03:00:00",
+      "collected_at": "2026-02-18T08:13:33.194112",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "시멘트업계",
+          "출하량 감소",
+          "탄소중립",
+          "전기료 상승",
+          "악재 지속"
+        ]
+      }
+    },
+    {
+      "id": "6be09b8deca16fe8",
+      "title": "에쓰오일, 전자영수증 발급 누적 168만건 돌파 … 탄소중립포인트 적립하고 친환경 실천 확산 - 워크투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GT0R4SWdXT1lWQzdxdVdCV0RGTGlWZVZtQ2pHaklWVWRPN3RKUkFTRzJrcFNJa0c5REl2RmQxOFNTajN3b18yMXpvVEprMlBhbDNUTXhLQ25fNGRPVVN5ZEVZT3V6b3VNTEhvSQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T02:48:56",
+      "collected_at": "2026-02-18T08:13:33.194148",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에쓰오일",
+          "전자영수증",
+          "탄소중립포인트",
+          "친환경 실천",
+          "168만건"
+        ]
+      }
+    },
+    {
+      "id": "65d1ea65a171d95b",
+      "title": "탄소중립의 승부처는 지역이다 - 충청일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05U0pQSm1mSkFYSHVpVm1abXZoZXFzaFFibnlnRC1hSmY2MUVkUVVrLXR6SUVFUXR0ZDZvUHZRei05QndaSjZZcEtKcE9uX19JMUo5SkdvWkVCUERmS0dsRi0tal9KX2lla3k4QWhTcw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T05:00:00",
+      "collected_at": "2026-02-18T08:13:33.194172",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "지역",
+          "승부처",
+          "기후",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "261326234490efbc",
+      "title": "[최경영 칼럼] 탄소배출권의 패러다임 전환…‘비용’에서 ‘미래 자원’으로 - 교육플러스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyODRac1RRZlU1NVg2ZG9fb2ExV0RwTUxEZ0FoY0VfZmtyc1djT2kyNHZUWllvWkJvbzdIMnpxSVA3ZmkxMkFJWHdkTEhVSGJhbTFaNlB0STN4ZFBwallON1VLNGlldw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T07:50:42",
+      "collected_at": "2026-02-18T08:13:33.194200",
+      "keywords_matched": [
+        "탄소배출"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ec0fc4e0b6762737",
+      "title": "[국제] 美 \"탄소중립 필요 없다\"...IEA 탈퇴 위협 - 동방일보",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91QUFXRjJmU2VCVnNoNW9PdzVzV2h5NERsRmpQZXA3dGNibTQ1SXRGZjRhUEx5Rk1sdTJNNWh6dmxrUE5tN2lGeXVJVUtZZzlvOHBSd1hIdUlWRzIyeG9zVDFEQ1kya2NibVdrNF9RTmJmUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T02:30:24",
+      "collected_at": "2026-02-18T08:13:33.194269",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "탄소중립",
+          "IEA",
+          "탈퇴 위협",
+          "기후 정책"
+        ]
+      }
+    },
+    {
+      "id": "e1967d2f2d34a9f0",
+      "title": "S-OIL 전자영수증 168만 건 돌파…탄소중립포인트로 ESG 일상화 - 한국면세뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMlZ2MWxGTFhhQUFiajVsUkhjT2hWS1NZNkZlSzVOX2Z4eFBQVUs2T29ONUlGWnc5NFU5RXp2aUZUejlwWnBqOXQzVV8yVnhfM0JWQm1OSUlmMGZYYjZlTU9ZZDk1TVJ2TFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:53:12",
+      "collected_at": "2026-02-18T08:13:33.194316",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "S-OIL",
+          "전자영수증",
+          "탄소중립포인트",
+          "ESG",
+          "일상화"
+        ]
+      }
+    },
+    {
+      "id": "e13f4ab298f7e4e6",
+      "title": "\"종이 한 장 줄였을 뿐인데\" 탄소 168만 건 감축 S-OIL, 디지털 친환경 행보 가속 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rekR2ZVE2MkNtVzY5U0xhSmZMbUI0X2Vzak1aNjlGMjQ3U2RUSi1Dakg3WVVYWVpmOGFJZ2dwbXNnZlVaVEI0bVRoWDRDXzExVzRzSVl3N1doYWg5Mm9sc3BlWlRfeDB3cnJfSQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:19:12",
+      "collected_at": "2026-02-18T08:13:33.194448",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "S-OIL",
+          "탄소 감축",
+          "디지털 친환경",
+          "행보 가속",
+          "종이 절감"
+        ]
+      }
+    },
+    {
+      "id": "c5fef81e3227c55d",
+      "title": "지자체마다 재생에너지 설치 '고무줄 규제' 없어진다 - 대구MBC",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tZGd2Qzc0T1ZGTEVFMXl6RVZGVmFDUmlMY0dNcFJic2F6dDZoS2hqTWNVY1pPWVBDaEl3aDZZZllyd1lLc2NGMWNrOEo?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T01:00:00",
+      "collected_at": "2026-02-18T08:13:33.237841",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "지자체",
+          "규제",
+          "설치",
+          "완화"
+        ]
+      }
+    },
+    {
+      "id": "2f6e846c16e5a433",
+      "title": "한전 거치지 않고 기업에 전기 공급…대불산단 ‘재생에너지 지산지소’ 현실화 - 베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LUzhHZ3FKbTU2WUJBNWZWRlRSamtPdzdmRkNfdURxX1NsaEhaWUJPZ1pSejFJWGFZbXh3REV0cFpUUTNDZndrRTN0cDEyUGNSRHRDTGZ5YThkTEowY0RMb3hsUnQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T06:07:09",
+      "collected_at": "2026-02-18T08:13:33.237877",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "지산지소",
+          "대불산단",
+          "직접 전력 공급",
+          "에너지 자립"
+        ]
+      }
+    },
+    {
+      "id": "f74e745c9a0f9d63",
+      "title": "대불산단 생산 재생에너지 전기, 입주기업에 직접 공급한다 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4UGYyWU95Q2JYSTV4d3hjdXBvenlrS05NOW8yUUZwbi12UXgtWXdjd3BFdDlRU0JuY1V5OXEyWTRQaHA4UkNoblJ0ajZ3UVhEQXdGdFhYZWdZMmtiZU50Rg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T01:54:06",
+      "collected_at": "2026-02-18T08:13:33.237939",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대불산단",
+          "재생에너지",
+          "전기",
+          "직접 공급",
+          "입주기업"
+        ]
+      }
+    },
+    {
+      "id": "dab74906cb7f0c79",
+      "title": "신한은행, 현대건설 추진 데이터센터·신재생에너지 프로젝트 금융 파트너로 - smarttoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3RUN5Sk1XUUpOUHNGU2IzQWE3X3FiTEE2V0N2UTM1YTJ4VU9pMGdYWHZwUnVGWEJiamtyTU5idDJvZU9hZ3oyUkpSakE4VGY2NF9Ra01Ybk9wVFE4OG9n?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:00:00",
+      "collected_at": "2026-02-18T08:13:33.237967",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한은행",
+          "현대건설",
+          "데이터센터",
+          "신재생에너지",
+          "프로젝트 금융"
+        ]
+      }
+    },
+    {
+      "id": "175416624559350f",
+      "title": "전남도, 2조원 규모 ESS 정부 입찰 물량 모두 확보...재생에너지 출력 제어 완화 기대 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sM0k4MFhxNnJ5Wm93MmJ2aUlFRl9jQnEwazh5TF9fR3dmdjQ5TWxkOGQzbnBtQlE2UkpxRTRLaGI1LWxqSkZBN00zd3FpS2xTVURHbGdKaXRnUdIBXkFVX3lxTFBVblozbk5QWHlZSnJ0UmdSTmRpcVB4cXI0aS16cmJEaC1zOUZWZG85RDdtd3dKMmFfOGs5ZjNodVJ0anpteFF6MWFUcVZ2Q2lHZ1BxX1UyUmxZaF9MbVE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T01:00:35",
+      "collected_at": "2026-02-18T08:13:33.237998",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남도",
+          "ESS",
+          "정부 입찰",
+          "재생에너지",
+          "출력 제어 완화"
+        ]
+      }
+    },
+    {
+      "id": "206d317871c45d1d",
+      "title": "광명시, 태양광으로 아낀 전기요금 사회적 가치로 환원 - 현대일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmak40dFIyU2VrRmNZRDJ3c2xFQ0JUZG5pSkt5VkhORDh5V2RDNWxGUHVLdHFNV1U3VW85VEprTU5DOGhKMzZoQzNHWVB1NnBUQ3hmTkllaW9EbW5ISGhVUTQtaUlLR1ZtQU9Fc3Zn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T06:53:15",
+      "collected_at": "2026-02-18T08:13:33.238023",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "태양광",
+          "전기요금",
+          "사회적 가치",
+          "환원"
+        ]
+      }
+    },
+    {
+      "id": "5d032f2f5ec4a6d5",
+      "title": "대불산단 재생에너지 지산지소, 온사이트 전력직접거래 첫 단추 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DY05GLWllRVVVVUg5VTBZTWR5S0JrWUp0U3AyWTdOY09RdVprNm1XS0lmSVRDSGJQSEM1T19CQnlrTFZDRXd4ZGdrM3NiaDlYWHNsZzVEajZqd9IBWEFVX3lxTFAzLTFRejRGSFVRRExicjZQYUY4WFFrYmJrdG5hSnlzVmp1RHJNb0h0dUhJNFVpSmxQYVBXNGh5WklrMDBMWHNHVVljOGtlaXRPU08wbzRkeWE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:31:37",
+      "collected_at": "2026-02-18T08:13:33.238107",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대불산단",
+          "재생에너지",
+          "지산지소",
+          "온사이트 전력직접거래",
+          "첫 단추"
+        ]
+      }
+    },
+    {
+      "id": "aee902890eb4ed5a",
+      "title": "수원시 ‘아파트 RE100 옥상형 태양광 시범사업’ 추진 - cenews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mclJ3Q0xKaHg3aWFWOFZnOW1rajBmQk9waDBIaE5hdTdsdE5CWkFvRU5vZnhfc0tFczlpYTFOaS01Z1RYWDJwNE5TRU1HVGU0RVRESWRMeUQzOGxha0NaYzJlQ1VfdC1n?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T02:57:52",
+      "collected_at": "2026-02-18T08:13:33.238132",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수원시",
+          "아파트",
+          "RE100",
+          "옥상형 태양광",
+          "시범사업"
+        ]
+      }
+    },
+    {
+      "id": "ac15e4e6f03c7ec2",
+      "title": "신한은행, 현대건설과 ‘생산적 금융’ 맞손...데이터센터·신재생에너지 금융지원 확대 - 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MSXJjYXFuQWNlY2xJbnJDM1cybVU1MTB0RHlQeG1XUERXQkJFZW5jVGIwZ05GeERPUlE5U0xJM25mQ2x3NV9JSmNUUUp0MnZvZmFFTjFyTC1IeHRRN3h0MnViVl9nZkU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T02:12:00",
+      "collected_at": "2026-02-18T08:13:33.238179",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한은행",
+          "현대건설",
+          "생산적 금융",
+          "데이터센터",
+          "신재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "db515b4dab6643a4",
+      "title": "신한은행, 현대건설과 데이터센터·신재생에너지 분야 생산적 금융 협력 - 더게이트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Td1p3S1JKTkJFbUNxeWwxME1yMGk3X0hvWWtGcjRTNG5jUm1hWEZ5M185UlFZdmhWcXJXZmdhaHZseDEzSFAwbDQ5clg5V2dFOWswUjNjMmhLeUVQX2FZLTBLVFVrNXFO0gFsQVVfeXFMT2tWT3Q3eWRxSmViYkJoNnprTWxJM0FpLUVJNzJlSDRWa3Z6Y004Ym52RERGQU5TbDhwRzlPa2dMMm1MSFVhSE81MG44N2dTclBKUnhVRF9fTkVSTV9DTXVpcEJNUDByTjd1T0Ux?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-18T00:00:00",
+      "collected_at": "2026-02-18T08:13:33.238224",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한은행",
+          "현대건설",
+          "데이터센터",
+          "신재생에너지",
+          "금융 협력"
+        ]
+      }
+    },
+    {
+      "id": "786d4b1be9de4052",
+      "title": "‘1.5도 제한’ 약속했는데···“이젠 3도 상승에 대비해야” 유럽 기후과학자들의 호소",
+      "link": "https://www.khan.co.kr/article/202602181612001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-02-18T07:12:00",
+      "collected_at": "2026-02-18T08:13:34.363938",
+      "keywords_matched": [
+        "기후변화",
+        "파리협정",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "287b912a38c514bc",
+      "title": "대청호 뱃길 42년 만에 열린다…옥천군, 내달 친환경 전기선 ‘정지용호’ 운항",
+      "link": "https://www.khan.co.kr/article/202602181355001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-02-18T04:55:00",
+      "collected_at": "2026-02-18T08:13:34.365095",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대청호",
+          "옥천군",
+          "뱃길",
+          "전기선",
+          "정지용호"
+        ]
+      }
+    },
+    {
+      "id": "4e080981502ef44b",
+      "title": "Climate change is accelerating but nature is slowing down - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5qd0RWb2Yxem5qblRJUVU1NWNQd3lhUFhjem9sZjY1MkhQV09tUXVBc1NLeGd0TmRZbkRSLVBBbG8xUFBrYVNzaUF3VVBESzV1bVIxNzNnSzV6RVJxSFVnMXFnczMzNWdQS1dwWk5JSQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T05:23:44",
+      "collected_at": "2026-02-18T08:13:34.797675",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화는 가속화되지만 자연은 둔화되고 있다 - 사이언스데일리"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "가속화",
+          "자연",
+          "둔화",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "43227d81add0bd28",
+      "title": "Austin Moody to Present on Developments in Climate Change Litigation and Coverage Implications - White and Williams LLP",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWUVBcU0wN2FKekhDcFczVGRad3JWYzl4VzVzbEN5aEpTcEdveENyZGNUUW53UGR6YzhIM3RqQWx6a0dNZkQ1b2ZMZmY0c0lwTUJoaVcxdXFoQjB1SFNQQ24xbFJHcHNaSkFTWklDOGExWTUteFYyMjFwa1lTWG1HeXUtYU9MMVp1RUNDclRMZG1LR01yaC1ySk5jVEk2amtSM2lUWkhBQ21ISFhOOExDbi1zcFBIV3BNTVV6V3BacnZCeW91anQ2Mnc2NW8zMTQzSGhtRVFWRWVnZWl2?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T23:38:13",
+      "collected_at": "2026-02-18T08:13:34.797865",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "오스틴 무디, 기후 변화 소송 및 보험 적용 영향 동향 발표 - 화이트 앤 윌리엄스 LLP"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화 소송",
+          "보험 적용",
+          "법률",
+          "발표",
+          "동향"
+        ]
+      }
+    },
+    {
+      "id": "28484a56e7f95673",
+      "title": "Lee Zeldin: Obama-era climate change rule rollback ‘big’ for Americans - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRkw5ZG5rMVk2QlYxb1FoSUlvd01IdHBOU29qSXNmaV9vY19Cb0dVNktsak1YMkVIVzNaYlpjd2ZXeTZDZ003WkU2R0w3NDdGVjRycFF6V0ZEOGp6S3ZkbmtXUXI0X2s1WkdpNFBHcEcwSkZKREFpSnd0U1JibXBYNGJ4ZEJMU1RLY1hZYnZESjQycHpjNXFNY2pCYjdYb3pYc0JQTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T04:00:37",
+      "collected_at": "2026-02-18T08:13:34.797937",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "28f3d95b5161e345",
+      "title": "What climate change means for Greenland’s traditional Inuit lifestyle and the world - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWGhiZnhhWmQ1TEFhU08zMExfTEJuZFR0bmplcm8zQ3FGaFhMTkR6NzMtZkFHNVRsdDlZMDZtR1VEbVJSNVhjaG9pVjUxQlpwSWM1dDJJUG9vR3V4T2RZMEhZUnBzeDlTeXlTdzRrMUJjQVNfQWNtZTdjdzdQSDBNUGVSZDRGU1E2Vkx5Nw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T00:39:19",
+      "collected_at": "2026-02-18T08:13:34.798046",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 그린란드의 전통적인 이누이트 생활 방식과 세계에 어떤 의미인가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "그린란드",
+          "이누이트",
+          "전통 생활 방식",
+          "세계"
+        ]
+      }
+    },
+    {
+      "id": "dfa016b38c736a77",
+      "title": "Why climate change is a global health issue - University College London",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb3BLQy1ZMGgxM0huNUdpdnBNclgyWmVna1JMdVRyTEdaTk9va3JlSFUyaVEzNGlKYkRXRTVrUGZpSHdRT0o2a3h6ZUFNU0RFU204Z0k5bGg5MkJvTXd6WW9FQ0x3VXYyRzRmN3pGTjgwMVMzQ0dXSkttMTlRZW1FSHBOTWtMX0VHdjlJWDdZUWlZWmFYYkszb3pR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T03:34:42",
+      "collected_at": "2026-02-18T08:13:34.798547",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 세계 보건 문제인 이유 - 유니버시티 칼리지 런던"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "건강 문제",
+          "세계 보건",
+          "UCL",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "b162e57f49eb80ad",
+      "title": "Japan's 'godless' lake warns of creeping climate change - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZll6VWViUFhqOHg2Sk5vZ3FMNHI2SUpOQlR0TEE2WWtzaGF1QkZaNkpmUVllREVzcDY0UFFucjdzVjR6d0tHblEtTTM2dEppaWtjNEh0T3BBeUhjUGNZVktGSlJZSWEycS1xYTdTREtmTzNUbXZFTS1ONnJzd3RaNkptcktsUDhYRnAwOGVzTjU1VVhU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T02:14:00",
+      "collected_at": "2026-02-18T08:13:34.798718",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "281b6c3c69e5a6c4",
+      "title": "Research reveals wolves eat bone to cope with climate change - Key Biscayne Portal",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeDRWN3JMekVYeEVuVXI1QWd0MmUtS2M2cGtHQ0FBcDUtTTZpMFAtdksza1JfZS1zeV9jdlJSSFZoTkk3dFE4blp0ekhfN3pKNVQ2OFlZLVZndkh3NUhRWEhEOTFtS2Z5VzdTQ0tEZXJ4TDNuX1ZQYjdkZXZoZHVYS2doVnI5RW1hTzFUOXRKRDlYMHJ0NVRWRTc5ZHZIekE2bWZRNWhYeUFvVHN4ZExSX0dRejhPaXNlX0NleUN0ZE43WkctU1JyNE0yUjVPV0V1bVhZV3pVZUx4ZWt4MVluVGFoek5YdV80eTRKM2Rpaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T18:37:54",
+      "collected_at": "2026-02-18T08:13:34.798839",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "연구: 늑대, 기후 변화에 대처하기 위해 뼈 섭취"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "늑대",
+          "뼈",
+          "기후 변화",
+          "대처",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "8a33ecf95cd1ba42",
+      "title": "Research reveals wolves eat bone to cope with climate change - FOX 28 Spokane",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY3dTMnR6QWRFQTNiSDhwS25jQV9zYmxiM004TUQ2NXRaeWZqdGE3T3k0cmdYNWpua0xPN3NkdWUtZTNZX2xpVDR3ZFVUa3dNZzc1YndOSlB3dkMtZmVPQmtnaFZRN0x3SXVWcDNNMFBNMDVwRkRxVmxubDBKSWRISGkzcDZ1eDlGTVV2aG1yT2RkYXNW?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T18:37:54",
+      "collected_at": "2026-02-18T08:13:34.799006",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "174ee4cd5e7e985d",
+      "title": "Research reveals wolves eat bone to cope with climate change - Lebanon Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU3VLbXpJU3paeGNGT0lVelo4a0xPRlNRdGZfaXRvTGRteVZJZmJLcEZEOFV4dDJ0eDJyV0lHcTF6ckdXUDhnZWRGbTNrQnl6MjdTLW1sRHBrOTNJTlBzWTNPMVp6dGlRRl9YNVBMTXY5RlVFclVoaG01OEszSUlVdmxUOHl3ZzNPZDc4R0ota0NXMVM2UjVVdUdBMjY1RGItT1N3WlVzVER0ZUYzdjFIMlRhemtteFEzQzhNeS0wYXRzWGhyLVEtY21EOWZidDFLOGVaQmg4R2JFWmpMVHRxTHFHSElxXzdjb3E0M3JhdHhzNXNobFY2cmxpakI?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T18:37:54",
+      "collected_at": "2026-02-18T08:13:34.799074",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "연구 결과: 늑대, 기후 변화에 대처하기 위해 뼈 섭취 - 레바논 데모크랫"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "늑대",
+          "뼈",
+          "기후 변화",
+          "대처",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "82630d92827544a2",
+      "title": "Will climate change really turn Iceland into ‘one giant glacier’? - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmtLOGVHQnJERVVsZk9sVjJocy1JMVB4cm1famFrYnJLZmxpUktyeHlrZUc2azIxZTNiV3pTYUZWekZzQ0txSUlVU1h0Q2dWZl9jSjBrU0ZDT09sZDM5czFuVlU3OW5jaFVudjhMam5SaW1TWjVHOVBTZFRIbHpwdE5FYUlqVkJ3X05ldjVQc3hEMlp3cGl2a3R1MURZSGdVSWwydlFFUG02bDBEZER4ZTI4Y0ctUGVBaDFPOG9Qc0NKR1owNFZETXVB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T06:00:55",
+      "collected_at": "2026-02-18T08:13:34.799198",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 정말 아이슬란드를 '하나의 거대한 빙하'로 만들까?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "아이슬란드",
+          "빙하",
+          "미래",
+          "의문"
+        ]
+      }
+    },
+    {
+      "id": "29aa3ae5589bcdc9",
+      "title": "Point Arena council to consider amending General Plan in wake of climate change - Local News Matters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbDBiLVp2MTJjNTlyYkJlbXQ3Y01lQ1gtd1pWWGlJV2thOV9GU0NUc1NIX0o1cGlMQlZUaF9IYUJLRlJEdEhpU0dvM3UyNkl3M3FMNFRLOEIxdWkxbXNUV1RJQzAyS2cwNWJzaWNmSmdER0ZseVJ1MEpPUUlBSzZiRVdESVFPUWc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T19:00:00",
+      "collected_at": "2026-02-18T08:13:34.799267",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "포인트 아레나 시의회, 기후 변화 여파로 종합 계획 수정 고려 - 지역 뉴스 매터스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "포인트 아레나",
+          "시의회",
+          "종합 계획",
+          "기후 변화",
+          "계획 수정"
+        ]
+      }
+    },
+    {
+      "id": "eeb66bb865dac974",
+      "title": "Coffee faces more extreme heat days due to climate change - The Sun Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOHctR1d0N2p0Q3VXZmJrX2dqQkcwekdBakxuY2k0OGJOVUxLV0lRRW9qbFVJbUdyTmE4SHIzUHA1QVBaUXZhXzkwWnI1VVB1eHZjTU5uLVZkbXVUelVpSi1ZcHRuTHM3UVNKYlhkb2N0ZHl2Tzl0b3pjYzRDZVF5ODRkdGZFRy1zUk8tWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-18T06:14:11",
+      "collected_at": "2026-02-18T08:13:34.799703",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "커피, 기후 변화로 인한 극심한 더위 일수 증가 - 더 선 말레이시아"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "커피",
+          "기후 변화",
+          "극심한 더위",
+          "작물",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "ad33bccd550169c3",
+      "title": "Research reveals wolves eat bone to cope with climate change - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQazZTVjVIcU5pZmpWbG9VbTRRY0V6NzFMOEdNWFR1NlBzb0F0U3N5RllsZ1IwWTJMLXl2UG1iNFFQTVpnalRVT2J3cXRTRzdfUmJwX1FHeldnMUdMMFBpMnRjcEthQndyUFFNcU5OZENQNmNvbGsyYW9ZVUxieVB6cnhnUlpXa1c3WVV2S1BPX245QTgyT2lYZV9neWdpTndyRlZJenFQSTdkOVUzOGZSNVZ5X3hnRFJsSWNaM3pEWGtyamJTTUJMTXRKdm51UkczejZYVExNR0dNekprNktIeUVUbWVZd2xNQ0g3a0dtaTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-17T18:37:54",
+      "collected_at": "2026-02-18T08:13:34.799727",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "연구 결과: 늑대, 기후 변화에 대처하기 위해 뼈를 먹는다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "늑대",
+          "뼈",
+          "기후 변화",
+          "대처",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "c7e05450630cfe48",
+      "title": "Plaid promises Welsh communities share of renewable energy profits",
+      "link": "https://www.bbc.com/news/articles/ckg180x2dq7o?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-02-18T07:14:54",
+      "collected_at": "2026-02-18T08:13:34.814155",
+      "keywords_matched": [
+        "renewable energy"
+      ],
+      "translation": {
+        "title_ko": "플라이드, 웨일스 지역 사회에 재생 에너지 수익 공유 약속"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "플라이드 컴리",
+          "재생 에너지",
+          "지역 사회",
+          "이익 공유",
+          "웨일스"
+        ]
+      }
+    },
+    {
+      "id": "063e713eb3322068",
+      "title": "Excruciating tropical disease can now be transmitted in most of Europe, study finds",
+      "link": "https://www.theguardian.com/science/2026/feb/18/tropical-disease-chikungunya-transmitted-europe-study",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-18T05:00:03",
+      "collected_at": "2026-02-18T08:13:34.510730",
+      "keywords_matched": [
+        "climate crisis"
       ],
       "translation": null,
       "sentiment": null,
