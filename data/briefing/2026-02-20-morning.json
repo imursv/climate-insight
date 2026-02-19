@@ -1,0 +1,1749 @@
+{
+  "date": "2026-02-19",
+  "generated_at": "2026-02-19T23:20:12.567536",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 2월 19일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 기후변화의 심각한 영향과 증대되는 위험",
+        "content": "오늘의 뉴스에서는 기후변화가 초래하는 심각한 위험들이 국내외에서 동시다발적으로 보고되었습니다. 국내에서는 지난 45년간 '산불 위험한 날'이 3배로 급증하며 기후가 키운 산불에 대한 우려가 커지고 있으며, 탄소중립만으로는 이를 막기 어렵다는 지적이 나왔습니다 [3, 4, 10]. 국제적으로는 미국 동부 해안에서 해변 이용객의 세균 감염이 증가하고, 폭염과 가뭄이 국경 지역에서 분열을 야기하며, 건물이 기후변화에 더 빠르게 적응해야 한다는 보고서가 발표되는 등 직접적인 영향이 확산되고 있습니다 [42, 45, 46]. 또한, 기후변화가 '보험 사막'을 만들고 '생태 불안'과 같은 정신 건강 문제를 야기하며, 지역 생태계와 자연의 둔화를 가져올 수 있다는 경고도 이어졌습니다 [52, 53, 62, 64]. 캘리포니아에서는 스키어 사망 후 눈사태 위험이 여전히 높은 가운데, 시드니 대학교의 실험에서는 미래의 폭염이 인간에게 참을 수 없는 경험이 될 것이라는 영상이 공개되며 기후 위기의 현실성을 더욱 부각시켰습니다 [71, 72].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 국내외 탄소중립 노력 및 정책 추진",
+        "content": "이러한 위기 속에서도 국내외에서 탄소중립 실현을 위한 다양한 노력이 활발하게 전개되고 있습니다. 국내에서는 서울 도봉구가 기후위기 대응 분야에서 4년 연속 최고 등급을 받았으며, 청송군, 전주시, 진주시 등 여러 지자체가 탄소중립, 물관리, 미세먼지 저감에 총력을 기울이고 있습니다 [1, 5, 7, 12, 15, 16, 26]. 특히 김천시와 김해시는 자동차 탄소중립포인트제 참여자를 모집하고 실천 운전자에게 인센티브를 지급하며, 부산시는 '우리동네 ESG 센터'를 개소하고 동대문구는 탄소중립 원팀을 출범하는 등 지역사회의 참여를 독려하고 있습니다 [13, 18, 19, 20, 21]. 국제적으로는 CDP가 픽서스(Pyxus)의 기후변화 및 산림 분야 노력을 인정했으며, 투발루는 '디지털 국가'로의 전환을 통해 기후변화 대응에 희망을 찾고 있습니다 [56, 59]. 중국 또한 이산화탄소 배출량이 정체되거나 감소하고 있으며, 마쥔은 더 저렴한 재생에너지로 인해 중국 석탄 발전이 사업성이 없다고 언급하며 긍정적인 변화를 시사했습니다 [73, 74].",
+        "tone": "positive"
+      },
+      {
+        "title": "📰 에너지 전환 가속화와 정책적 과제",
+        "content": "에너지 전환은 기후 위기 대응의 핵심 과제로 지속적인 논의가 이루어지고 있습니다. 국내에서는 대불산업단지에서 생산된 재생에너지가 입주기업에 직접 공급될 예정이며, 마이크로소프트는 AI 데이터센터의 전력 수요를 위해 재생에너지 확보에 사활을 걸고 100% 목표를 세웠습니다 [28, 29, 32, 34]. 중부발전은 3.4조원 규모의 해상풍력 사업에 참여하며 'K-재생에너지' 확대를 위한 승부수를 띄웠고, K-조선 산업 역시 풍력 사업으로 포트폴리오를 확장하는 등 재생에너지 분야에 대한 투자가 확대되고 있습니다 [30, 33]. 그러나 탄소중립 달성을 위해 '싼 전기'만을 추구하는 것이 최선이 아니며, 계통안정성 확보와 합리적인 전원믹스 구성, 그리고 사회적 논의가 우선되어야 한다는 중요한 의견들이 제시되었습니다 [8, 9, 11, 22]. 이는 에너지 전환 과정에서 기술적, 경제적 측면뿐만 아니라 사회적 합의의 중요성을 강조하는 대목입니다.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 국제사회의 기후변화 대응과 갈등",
+        "content": "국제사회에서는 기후변화 대응을 둘러싼 다양한 움직임과 함께 갈등 양상도 나타나고 있습니다. 미국은 국제에너지기구(IEA)에 기후변화 초점 축소를 지시하고, 서방 에너지 감시 기구에 '넷제로 초점 폐기 안 하면 탈퇴'를 경고하는 등 에너지 안보와 기후변화 대응 사이의 균형점을 모색하는 과정에서 이견을 드러냈습니다 [37, 75]. 한편, 토탈에너지스(TotalEnergies)는 기후변화와 관련하여 프랑스에서 중대한 재판에 직면하며 기업의 기후 책임에 대한 국제적 압박이 커지고 있음을 보여주었습니다 [38, 48, 49, 50, 54, 58, 67]. 이와 함께 버몬트 주에서는 학교에 기후변화 교육 의무화를 위한 법안이 발의되었고, 예일 기후 변화 소통 프로그램과 세계교회협의회는 각각 '지구 온난화의 여섯 아메리카'와 사순절 캠페인을 통해 기후변화 인식 제고를 위한 노력을 기울이고 있습니다 [40, 47, 63]. 또한 2026 동계올림픽 폐회식에서 기후변화와 동물보호 메시지가 전달될 예정이며, 벨루가 고래의 기후 변화 회복력 단서를 찾기 위한 연구 등 다양한 분야에서 기후변화에 대한 관심과 논의가 이어지고 있습니다 [2, 41, 43].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후변화가 가져오는 다양한 위협과 이에 맞서는 국내외의 다각적인 노력, 그리고 에너지 전환과 국제사회 협력의 중요성을 다시 한번 상기시켜 주었습니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "[서울25]도봉구, 기후위기 대응 4년 연속 ‘최고 등급’ 인증 - 경향신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KTHJoZjdXWkg0dWJpcU1HTHRGdUZ3V3hsRDgtbjd6S2FhS3VxWVNyQzM4ZnBiUmwzbEVDWnAtUFltQnA3d2cyS3FKT3VHMUY3S2tIWlgzX2ZZZ9IBX0FVX3lxTE1neGZvUVFYSUxMZGczUVAxalZlTklfMXZnSmVheDMySUoxSFJOTURETlBYUXRoTE5uN1hQUGJwTVdoREoweG5hMndjZzgtcjhseWxLWU1MUkh1al9iemJj?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-19T11:50:00",
+      "description": "[서울25]도봉구, 기후위기 대응 4년 연속 ‘최고 등급’ 인증 경향신문",
+      "summary": {
+        "phenomenon": "서울 도봉구가 기후위기 대응 분야에서 4년 연속 '최고 등급' 인증을 받았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "도봉구",
+        "기후위기 대응",
+        "최고 등급",
+        "4년 연속",
+        "인증"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "폐회식은 고대 검투사 경기장…기후변화·동물보호 메시지 전달[2026 동계올림픽] - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBob29uMld5dFdyUTV6X3VxZjhWZkRzTmxKT2wzN3BpdnFWUFpWQWMwaDJEVXMySEhpRl9rc0YtRzhZNnJId2NfdGZnM3J2enJ1bFhiZ2c3RG8zR05pQjNLTtIBeEFVX3lxTE81S21lQ1JOajdBOTVRdDJmbUNweVdMdjMzTlpxbVJMaDA2R2drd1FiNlNoNXVaNzdidFY3c3VzXzhDWmJiN2FadFhIQlJRX2lTamhzdlkyZWc2UHJmTXFuM29Ub3Vtb1JnZEd4QjRZeUxlSWZVdVFNaQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-19T14:05:24",
+      "description": "폐회식은 고대 검투사 경기장…기후변화·동물보호 메시지 전달[2026 동계올림픽] 뉴시스",
+      "summary": {
+        "phenomenon": "2026 동계올림픽 폐회식에서 기후변화와 동물보호 메시지가 전달될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "2026 동계올림픽",
+        "폐회식",
+        "기후변화",
+        "동물보호",
+        "검투사 경기장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "기후변화로 산불 위험도 급증…'산불 위험한 날' 45년 새 3배로 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sWkFPbEpEbGhoYXYyQUhVemx6TkVzcVg4SGQxZUVKd25JS0Rzd01sclE5TkdDV3hfVWdVN1I5V3RmY2tGU19qNUZUTVByanZPQXRiNjFYb2VWNE5yMmwxaVJjZXJMLVBOb1E5T0VnOEpBbnAzNHhEcA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-19T11:13:00",
+      "description": "기후변화로 산불 위험도 급증…'산불 위험한 날' 45년 새 3배로 네이트",
+      "summary": {
+        "phenomenon": "'산불 위험한 날'이 지난 45년 동안 3배로 급증했다.",
+        "cause": "기후변화로 인해 산불 위험도가 급증했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "산불",
+        "위험",
+        "급증",
+        "3배"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "기후가 키운 산불, 탄소중립만으로는 못 막는다 - 미디어경북",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOGxERV9QT0RpbnJSWGN6bXpyWUNSbXZ6aWQwQjZ4M0dEQkktRHRHLTdFLTczb18zWnlWLVBDR1RwOTg1UUJMaGlmbHc0QzZEVmJlNjctaEY?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-19T17:02:27",
+      "description": "기후가 키운 산불, 탄소중립만으로는 못 막는다 미디어경북",
+      "summary": {
+        "phenomenon": "기후로 인해 산불이 커지고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "탄소중립만으로는 기후로 인해 커진 산불을 막을 수 없을 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후",
+        "산불",
+        "탄소중립",
+        "한계",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "“기후위기 넘는다”…청송군, 탄소중립·맑은 물·미세먼지 저감 총력 - 쿠키뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KMUNYUzhBT2tlMU9OZl9HcUlVb0dNYXdwRWJ1YlNsejZQRk1makJBaER5UXNGMWk2VEVibGZwNExLSmJVc0RrVmstbVlqN1RYMGRXdFpHbGFzSkZEckl0Z0NKSQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-19T08:15:00",
+      "description": "“기후위기 넘는다”…청송군, 탄소중립·맑은 물·미세먼지 저감 총력 쿠키뉴스",
+      "summary": {
+        "phenomenon": "청송군이 기후위기를 넘기 위해 탄소중립, 맑은 물, 미세먼지 저감에 총력을 기울이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "청송군",
+        "탄소중립",
+        "맑은 물",
+        "미세먼지 저감"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "수성구, ‘탄소중립 도시환경’ 해법 모색 포럼 개최 - 뉴데일리 대구경북",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ja3VsTzJjdlQxbHM3OTBhNXRUUGhwb2pSVnJOVEd3eWg4WVpYX0xxd2J5NWFMaTlxMl9YLTBqb1RDVzl6Zm5SMlU5QTh2THh1T1ZQT251LXFjekdDdTUwRmxfU0V0SDJlVG01MnBqbVR6alhZNi1CcTJn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T12:08:38",
+      "description": "수성구, ‘탄소중립 도시환경’ 해법 모색 포럼 개최 뉴데일리 대구경북",
+      "summary": {
+        "phenomenon": "수성구에서 '탄소중립 도시환경' 해법을 모색하기 위한 포럼이 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "수성구",
+        "탄소중립",
+        "도시환경",
+        "해법 모색",
+        "포럼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "\"기후위기 넘는다\"…청송군, 탄소중립·맑은 물·미세먼지 저감 총력 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15ZWtUU2tZN1c1SnZ2WTNWelQ0Zk5RWUFKc2xURi12SkxFU1BzZXZVa2c1MThVek0yMEl4LVpSSE4yR1NBVWdUM1VJUmt1QmN2RGk4?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:16:00",
+      "description": "\"기후위기 넘는다\"…청송군, 탄소중립·맑은 물·미세먼지 저감 총력 네이트",
+      "summary": {
+        "phenomenon": "청송군이 기후위기 극복을 위해 탄소중립, 맑은 물, 미세먼지 저감에 총력을 기울이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "청송군",
+        "탄소중립",
+        "맑은 물",
+        "미세먼지 저감"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "“싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선” - 미주중앙일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZVZMTFBzSnltUUxNS3NsR1Npd1hERHIzVnFMOE5Fa2tkczc3dVVzQUdlTUtuMlZMSzNWTWhtZlE3RUl4NEY2RldldUJHTGFLOHhPVThuc0V1VFM0U3hJQ1Nn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T15:01:00",
+      "description": "“싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선” 미주중앙일보",
+      "summary": {
+        "phenomenon": "탄소중립 달성을 위해 싼 전기만을 추구하는 것이 최선이 아니며, 사회적 논의가 우선되어야 한다는 주장이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "“싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선” - 중앙일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIVURlNm1UX1JvMVl0SlVobGp2aGU5cG90eXNOcVVGbUZOSHA1dGJoX3YweklZOEpmMnBUMFFOdzFwdXVfQy1aWExPNFkzdEozSHFGT1Fn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T15:01:00",
+      "description": "“싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선” 중앙일보",
+      "summary": {
+        "phenomenon": "탄소중립을 위해서는 싼 전기만을 고려하기보다 사회적 논의가 우선되어야 한다는 의견이 제시되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "싼 전기",
+        "탄소중립",
+        "사회적 논의",
+        "에너지 정책",
+        "우선"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "[과기원NOW] 기후가 키운 산불, 탄소중립만으로는 못 막는다 外 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwa1E4RHgzNGNoNVVhNjdHVW9PVER3Qk9HeV8zeU02NTdhTUNfNE5URVA0QlhqM1ZObFVpVV9nQ3F5WXkyeUw5cDNkLWVISnM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T10:23:42",
+      "description": "[과기원NOW] 기후가 키운 산불, 탄소중립만으로는 못 막는다 外 v.daum.net",
+      "summary": {
+        "phenomenon": "기후로 인해 산불이 커지고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "탄소중립만으로는 기후로 인해 커진 산불을 막을 수 없을 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후",
+        "산불",
+        "탄소중립",
+        "대응",
+        "과기원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "“계통안정성, 합리적 전원믹스 구성 등 중요”… 탄소중립 위한 에너지 정책·방안 등 논의 - 한국대학신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MdVp0b09CRHJ1WWNWXzMtemdxbjkwVkY2NnlnS3lNZUhOVkd6VUd0aEhMb2M2Z3NwSXNNWmRyOHcydE1zNHRnTXlBVHlvLXdjWmhJM0NWUlpvOERWRmZhb0h2TU9DZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:40:00",
+      "description": "“계통안정성, 합리적 전원믹스 구성 등 중요”… 탄소중립 위한 에너지 정책·방안 등 논의 한국대학신문",
+      "summary": {
+        "phenomenon": "탄소중립을 위한 에너지 정책 및 방안 논의가 이루어졌으며, 이 과정에서 계통안정성 및 합리적 전원믹스 구성의 중요성이 강조되었다. 구체적 시점, 지역, 주체는 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "계통안정성",
+        "전원믹스",
+        "탄소중립",
+        "에너지 정책",
+        "방안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "청송군, 2026년 ‘지속가능한 산소카페’ 구현 박차… 탄소중립·물관리 총력 - 청송군민신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90QkJnc3JoS1VBdnQ5SG9hc3k0TDhUWjdGWGdlMTNSTFo3OHNndXY2NlhrVFE4QXFDY1pUbDJvTmk1bTJ6XzY3WkF5YlYwT3JxN05ITkY3MWVBdU8tWVgxZUd1OUFvbmUxVHZjUEpXanpiYlk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T20:58:49",
+      "description": "청송군, 2026년 ‘지속가능한 산소카페’ 구현 박차… 탄소중립·물관리 총력 청송군민신문",
+      "summary": {
+        "phenomenon": "청송군이 2026년까지 '지속가능한 산소카페' 구현을 목표로 탄소중립 및 물관리에 총력을 기울이고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "청송군은 2026년까지 지속가능한 산소카페를 구현할 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "김천시, 자동차 탄소중립포인트제 선착순 450대 모집 - 경북일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBKRjhxSXVRdEM3YlBNMmF0cDVFNVVCWk5uWDBrdXY4N2wzRnUwZXktX3FqRnBrS1NVSWczdEx2QXNUaTFnOG55NVdhMURydUUyY2Y4SklnSlA2ZUFyU0xXaEpUbjBqYXJSNTltdElYVQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:38:16",
+      "description": "김천시, 자동차 탄소중립포인트제 선착순 450대 모집 경북일보",
+      "summary": {
+        "phenomenon": "김천시에서 자동차 탄소중립포인트제 참여자 450대를 선착순으로 모집하고 있다. 구체적 모집 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김천시",
+        "자동차",
+        "탄소중립포인트제",
+        "모집",
+        "선착순"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "대구 수성구, ‘녹색×건축’ 탄소중립 도시환경 포럼 개최 - BBS불교방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FdG81aHgtVkRmMXVVTDAyY0IxQURWT1N6OHEzWEdrWjdmQ3VqZ1hhc21WbllOa1VWT1ZNYkJXVlNWZ2pzdTYxaFR6WVY1Ri0wTTlwZGlSZlNldTFvc3BJbnJqczFGTXNnZkVR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:16:15",
+      "description": "대구 수성구, ‘녹색×건축’ 탄소중립 도시환경 포럼 개최 BBS불교방송",
+      "summary": {
+        "phenomenon": "대구 수성구에서 '녹색×건축'을 주제로 탄소중립 도시환경 포럼이 개최되었다. 구체적 개최 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대구 수성구",
+        "녹색 건축",
+        "탄소중립",
+        "도시환경",
+        "포럼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "전주시, 복지·환경 ‘투트랙’ 강화…AI돌봄·탄소중립 속도 - 전북도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUxGZ0dYZkpxRTBvalRkanVRbzlzeUhILTRlYjlDTzlTUl82OVRLdHIxcDl5ZGV1c2NQaVU3T0VZbExDY2dabDFPNHYyY1RuMy1jQnB4d3Q4NWZQbHp5ZUxrRVVyQ25NU1hDNl9xSEdSSHlkNHdxa2doVVNFLUI2d0ZYX0M0Tkk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:40:30",
+      "description": "전주시, 복지·환경 ‘투트랙’ 강화…AI돌봄·탄소중립 속도 전북도민일보",
+      "summary": {
+        "phenomenon": "전주시가 복지 및 환경 분야에서 '투트랙' 전략을 강화하며 AI 돌봄과 탄소중립 추진에 속도를 내고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전주시",
+        "복지",
+        "환경",
+        "AI돌봄",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "청송군, 2026년 탄소중립 및 지속가능 환경 전략 발표 - 한스경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vb21RQnVLd1JBREJySFNUVkFTOTVGMk5Ud2M2VEJsQWZkaFJmOVNPSkZVVFdDQ3JPT3QySDFod1M2SXk3MkoycG5KWTdDU0VkVDNQdEo4dTFkN2toMkJQTlFnRS1OdS0zTlRv0gFvQVVfeXFMTlVfamtCOXRDZ084ZXFYQTlGUkdKQW1YUWJITnFGQ1Q5VTZTcGs4VGx6QTdUcUdZczMwSkdNc242N2JBRlpXaS1aYnYwSnNtRE50RkxtanBJTldra2Z6dHhoUnMxLUhibjRFRzh5eWRz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T14:17:46",
+      "description": "청송군, 2026년 탄소중립 및 지속가능 환경 전략 발표 한스경제",
+      "summary": {
+        "phenomenon": "청송군이 2026년 탄소중립 및 지속가능 환경 전략을 발표했다. 구체적 발표 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "청송군",
+        "탄소중립",
+        "지속가능 환경",
+        "전략 발표",
+        "2026년"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "해남군, 탄소중립에듀센터 조성… 교육거점 도약 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBweHZEb2U4ZHpHbVJiMUY3MmpUS09TZmIyalFvdVVlMUZpN05BM2hMV01UNGkzS2NJbHo2ZHJkZUZSLTFzRG9ubTNZX3A2cmM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T09:00:56",
+      "description": "해남군, 탄소중립에듀센터 조성… 교육거점 도약 v.daum.net",
+      "summary": {
+        "phenomenon": "해남군이 탄소중립에듀센터를 조성하고 있다. 구체적 조성 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "해남군은 탄소중립에듀센터 조성을 통해 교육 거점으로 도약할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해남군",
+        "탄소중립",
+        "교육센터",
+        "조성",
+        "교육거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "[김해시] 2026년 탄소중립포인트(자동차) 참여자 모집 외 - 일요신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qWmF3Nm9TVGhRc2o1MjRxYUtab2M1b25udGtzZThiWERnOUptMThNSzVwTldsY2RYN2dOT0M5cDlseFBMSHFTRVkyNGNnRmlaSnRvNTdEbjhhYmVTX3ZURFg1M1FSUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T15:01:34",
+      "description": "[김해시] 2026년 탄소중립포인트(자동차) 참여자 모집 외 일요신문",
+      "summary": {
+        "phenomenon": "김해시에서 2026년 탄소중립포인트(자동차) 참여자를 모집하고 있다. 구체적 모집 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김해시",
+        "탄소중립포인트",
+        "자동차",
+        "참여자 모집",
+        "2026년"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "부산시, ‘우리동네 ESG 센터’ 7호 개소... 탄소중립 거점 키운다 - 우리일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtQllhT3BzTjBVNWVraWFfVEtjcTVQV01ySU5zUllxajNXVW9Kb3h4Z2ZvZ05saGloMm1nQ25CdjJhVWg1cWQ5UGo0RVgxUWJhNC14UWF5ZFplalQzYzVDRzlR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T10:07:33",
+      "description": "부산시, ‘우리동네 ESG 센터’ 7호 개소... 탄소중립 거점 키운다 우리일보",
+      "summary": {
+        "phenomenon": "부산시에서 '우리동네 ESG 센터' 7호가 개소되었다. 구체적 개소 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "부산시는 '우리동네 ESG 센터'를 통해 탄소중립 거점을 키울 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "부산시",
+        "ESG 센터",
+        "탄소중립",
+        "개소",
+        "거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "동대문구 탄소중립 원팀 출범 지역사회 대전환 가동 - 동대문신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS1FBOGxMR0JJV0JGbTg0eUNHWEJTbW5MaHZwdVFSTUV4czJjRmRwbHlzQVAtamZUY3pJalRJQ2ZCQVBCbXV0eHc0dzJlSkJRVHdlRklidTlmX0RLWmJ2LWZPbXBxN0Y1WWI1dTlMR1dRS1pSNHF1VGhwV0xqMjhYdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T09:38:21",
+      "description": "동대문구 탄소중립 원팀 출범 지역사회 대전환 가동 동대문신문",
+      "summary": {
+        "phenomenon": "동대문구에서 탄소중립 원팀이 출범하여 지역사회 대전환을 가동하고 있다. 구체적 출범 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "동대문구",
+        "탄소중립",
+        "원팀",
+        "지역사회",
+        "대전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "김해시, 탄소중립 실천 운전자 10만원 지급 - 경남매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02bzRlX2NFZ29CcFRGc285Q0IwTWdzUlV3ckEtZ0tGWjRmWDVWMHg4a1oxdVE0aGZ1dWpCR1NCZC1KZ2hLOFI4TjhUNnlYOFRPOUFJdGxWS0w2SFdaUGpwTTdVYWxWNTE0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T11:28:09",
+      "description": "김해시, 탄소중립 실천 운전자 10만원 지급 경남매일",
+      "summary": {
+        "phenomenon": "김해시에서 탄소중립 실천 운전자에게 10만원을 지급하는 정책이 시행되고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김해시",
+        "탄소중립",
+        "운전자",
+        "10만원 지급",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "\"싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94VlhfZEF0SjBpMmxKLV9maUhfaUJmeXFWeElDM2pUSVd5ZGFPV3ZsM2xGX2RDUEVMdXVFYlNwUUJRckp1ZHYtWDhKS0pDV0J2TU1Z?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T15:02:00",
+      "description": "\"싼 전기가 최선 아니다…탄소중립, 사회적 논의가 우선\" 네이트",
+      "summary": {
+        "phenomenon": "탄소중립 실현을 위해 '싼 전기'만을 추구하는 것이 최선이 아니며, 사회적 논의가 우선되어야 한다는 주장이 제기되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "탄소중립",
+        "사회적 논의",
+        "싼 전기",
+        "에너지 정책",
+        "우선"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "대구 수성구 ‘녹색×건축’ 수미창조 포럼 개최…탄소중립 도시환경 모색 - 여성종합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RR3NqTFNudGVobEZHeHpWOW1LajJ5bHBibGtHUHpTY0toVmJMMGluYmNHdWc0Nm1fZ1B5LWRHWE1lSWktdm56OUtuLW5USTN4QTBfM01OV2twUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:52:20",
+      "description": "대구 수성구 ‘녹색×건축’ 수미창조 포럼 개최…탄소중립 도시환경 모색 여성종합뉴스",
+      "summary": {
+        "phenomenon": "대구 수성구에서 '녹색×건축' 수미창조 포럼이 개최되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "포럼을 통해 탄소중립 도시환경을 모색할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대구 수성구",
+        "녹색 건축",
+        "탄소중립",
+        "도시환경",
+        "포럼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "헌법불합치 탄소중립기본법 개정 위한 '의제숙의단' 구성 확정 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAweVhpRHh5ajFvaVg3Qi1VYXNlZ2ZYV0xXMFFoU01jMTNzN3VLZE90eWp0NFliSVM0Slp3RFNROW8xQWYyVWxsRHZKajItWng3TmVz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T10:47:00",
+      "description": "헌법불합치 탄소중립기본법 개정 위한 '의제숙의단' 구성 확정 네이트",
+      "summary": {
+        "phenomenon": "헌법불합치 판정을 받은 탄소중립기본법을 개정하기 위한 '의제숙의단' 구성이 확정되었다.",
+        "cause": "탄소중립기본법이 헌법불합치 판정을 받았기 때문이다.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "[서울특별시] 전국 최초, 지방정부 주도 '전기차 충전기 수리검정’ 현장검정 체계 가동...'2050 탄소중립 실현' 앞당겨 - 한국지방정부신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Yb3k4eGVHT1lTSThlZEw4X0hqVWNWLWJWWTFnMktMaXFjTjgwZHF0YVZBQThOc1BOTFM3TW53ZnpOQTVOY0FjOE5vSjBGRDh3azlKM1dfT05tLTF3U0JEa0NldnY0ODAwUTFDWHpnMXBLdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T14:04:34",
+      "description": "[서울특별시] 전국 최초, 지방정부 주도 '전기차 충전기 수리검정’ 현장검정 체계 가동...'2050 탄소중립 실현' 앞당겨 한국지방정부신문",
+      "summary": {
+        "phenomenon": "서울특별시에서 전국 최초로 지방정부 주도의 '전기차 충전기 수리검정' 현장검정 체계가 가동되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "이 체계 가동을 통해 2050 탄소중립 실현을 앞당길 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서울특별시",
+        "전기차 충전기",
+        "수리검정",
+        "탄소중립",
+        "지방정부"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "진주시, 기후위기 대응 '녹색 발걸음' 속도 낸다 - 경남매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTRFN4TVFvN1ZfMFY1S2JKRlNqdHhWZHlMeE9Db0g0cm9BR0R4MWw1a3BiSHI3dEVnakE2TEQzSXA4NWU3RFM1RFh1dExnV2VkckN1dnlMWnZ2VzNXTUI0Q3JXVWQybE10?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T11:28:40",
+      "description": "진주시, 기후위기 대응 '녹색 발걸음' 속도 낸다 경남매일",
+      "summary": {
+        "phenomenon": "진주시가 기후위기 대응을 위한 '녹색 발걸음'에 속도를 내고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진주시",
+        "기후위기",
+        "대응",
+        "녹색 발걸음",
+        "속도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "한국자동차환경협회,모빌리티⦁ESG⦁환경영향평가⦁LCA 학회와 ’탄소중립 이행’ 강화 맞손 - 한국AI부동산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sYkJfQ1Fzbzl5aVl1TDliS2NuZF8zTVM0aUlfWU8ycjZjak52NVE0MTgzckk5elRSSktNVzJUdkJfcnB2Sndhb0sza1A?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-19T08:55:55",
+      "description": "한국자동차환경협회,모빌리티⦁ESG⦁환경영향평가⦁LCA 학회와 ’탄소중립 이행’ 강화 맞손 한국AI부동산신문",
+      "summary": {
+        "phenomenon": "한국자동차환경협회가 모빌리티, ESG, 환경영향평가, LCA 학회와 협력하여 '탄소중립 이행'을 강화하기로 했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국자동차환경협회",
+        "탄소중립",
+        "모빌리티",
+        "ESG",
+        "LCA"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "대불산단産 재생에너지, 입주기업에 직접 공급 - 아시아경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81aXdDSWNIeXhjWC1hUjJRaUlNRVBRNFUzc3RXazhMMUYyR0FCWUtKcHNDV0M3WHM4WlN0NFdrWHU1NmV6Z3ZDRWRtOVR1VG1OWEZ0d1FKQzlfR2ZXYlBPNA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T08:48:00",
+      "description": "대불산단産 재생에너지, 입주기업에 직접 공급 아시아경제",
+      "summary": {
+        "phenomenon": "대불산업단지에서 생산된 재생에너지가 입주기업에 직접 공급되고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대불산단",
+        "재생에너지",
+        "입주기업",
+        "직접 공급",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "[美특징주]마이크로소프트, AI 데이터센터 전력수요위해 재생에너지 확보 사활…\"100% 목표\" - edaily.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeEhKanlXSDhTZS15aXUyS0VFcmxnMVhPZE9wcmFNVGJ3QUd1azFMNlNzT1ItS3hlYm5MY19MR0k2dzhFWEdEUU54WENlaW1aQldJZXVrcFp2SjJRelpIZ1VNLWdFWllHMlBLY0RZcDNId1BlNHU4M2MwTVVhQUc3dw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T12:00:55",
+      "description": "[美특징주]마이크로소프트, AI 데이터센터 전력수요위해 재생에너지 확보 사활…\"100% 목표\" edaily.co.kr",
+      "summary": {
+        "phenomenon": "마이크로소프트가 AI 데이터센터의 전력 수요를 충족시키기 위해 재생에너지 확보에 사활을 걸고 있으며, 100% 재생에너지 사용을 목표로 하고 있다.",
+        "cause": "AI 데이터센터의 전력 수요가 증가하고 있기 때문이다.",
+        "outlook": "마이크로소프트는 AI 데이터센터의 전력 수요를 100% 재생에너지로 충당하는 것을 목표로 하고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "마이크로소프트",
+        "AI 데이터센터",
+        "전력수요",
+        "재생에너지",
+        "100% 목표"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "중부발전, 'K-재생에너지' 승부수...3.4조 '신안우이 해상풍력' SI로 참여 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oSFdheVkzN0p5cVBqQU1kUXZyNUxQMGZvUW16ZVMydWY2Z1dYdFZrSWM2alhWbm5lN0hOYm5QZGxjd2VZOFFHa01kXzhWRXBwT1ItQVNWcnZoWFVwdFFPOXYtX082cmM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T09:43:08",
+      "description": "중부발전, 'K-재생에너지' 승부수...3.4조 '신안우이 해상풍력' SI로 참여 산경e뉴스",
+      "summary": {
+        "phenomenon": "중부발전이 3.4조원 규모의 '신안우이 해상풍력' 사업에 전략적 투자자(SI)로 참여하며 'K-재생에너지' 확대를 위한 승부수를 띄웠다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "중부발전은 이 참여를 통해 'K-재생에너지'를 확대할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중부발전",
+        "K-재생에너지",
+        "해상풍력",
+        "SI 참여",
+        "3.4조"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "김원이 의원 \"광주·전남 미래, 재생에너지 확보에 달려\"[와이드이슈] - KBC광주방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ueXpjbUkzNVFCbVFPdlhJY1hYdDhzWHc3NFJqVnlsUzZvbDRvaHZWZVN5a3JjSWNEeDN6czVSWWVjVlRjcGkycW4zbnJkYTJycmwzblV3N1ZzRi1DR2M0YmRB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T10:00:02",
+      "description": "김원이 의원 \"광주·전남 미래, 재생에너지 확보에 달려\"[와이드이슈] KBC광주방송",
+      "summary": {
+        "phenomenon": "김원이 의원이 광주·전남 지역의 미래가 재생에너지 확보에 달려있다고 언급했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김원이 의원",
+        "광주·전남",
+        "미래",
+        "재생에너지",
+        "확보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "[영암] 대불산단 생산 재생에너지, 입주기업에 직접 공급 - newsinjn.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PRlpBV25xTHktN3c4MXZiSUhWUHJwVm5tTWFDdUlNU0JjenlSSTB4aGl0cmJpRWFPaUdrWWFqdjAzVHBvN09nVlhvaHZMV1pLZDhGczA4RkJfV3FBSG1mbGZRREs0YTZRX3c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T09:28:41",
+      "description": "[영암] 대불산단 생산 재생에너지, 입주기업에 직접 공급 newsinjn.com",
+      "summary": {
+        "phenomenon": "영암 대불산업단지에서 생산된 재생에너지가 입주기업에 직접 공급될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영암",
+        "대불산단",
+        "재생에너지",
+        "직접 공급",
+        "입주기업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "K-조선, 사업 포트폴리오 확장 속도…풍력·교육서비스업 추가 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOQjR3UVZjU2QtcFVJSXFMMUdEcUg5NU0wNkI5SHlFaFBPdkh3WmFqS203bkhCaTB1TmhrUjJsd1ZqSW5rREFtOG9VclFlQ19SX29tTV8yYkx4ZWNTZ3lPcWk2eWo?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T22:20:00",
+      "description": "K-조선, 사업 포트폴리오 확장 속도…풍력·교육서비스업 추가 뉴스1",
+      "summary": {
+        "phenomenon": "K-조선 산업이 사업 포트폴리오를 확장하며 풍력 및 교육서비스업을 추가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "K-조선",
+        "사업 포트폴리오",
+        "확장",
+        "풍력",
+        "교육서비스업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "대불산단産 재생에너지, 입주기업에 직접 공급 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTNFNkczA0eVFDeXlxZUdfMG1ncEEzdFRrVWhsamhWbFN6aGtobU1CX3dXVWVlSUhKaC1PMXZYdU5GQjdZVldMZGlQOU5PSGNLZ0tF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T09:19:00",
+      "description": "대불산단産 재생에너지, 입주기업에 직접 공급 네이트",
+      "summary": {
+        "phenomenon": "대불산업단지에서 생산된 재생에너지가 입주기업에 직접 공급될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "조현, 믹타 외교장관회의 주재…재생에너지·공급망 협력 논의 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Cc0tXUVZKU0VKbllDcURNaWhLT2xuYW1EcmZBWlU2ZGlYUnVQSks0MzVKZDhHei11LTlJMXdENnl5cGpHbDZzN1IycEU5NlF2bUh3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-19T11:29:00",
+      "description": "조현, 믹타 외교장관회의 주재…재생에너지·공급망 협력 논의 네이트",
+      "summary": {
+        "phenomenon": "조현이 믹타 외교장관회의를 주재하며 재생에너지 및 공급망 협력에 대해 논의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "조현",
+        "믹타 외교장관회의",
+        "재생에너지",
+        "공급망 협력",
+        "논의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "‘코스피 5600’ 시대 열렸지만 중복상장 영향에 대형주는 ‘유동 주식 가뭄’",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202602200600061/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-02-19T21:00:06",
+      "description": "코스피가 장중 사상 처음으로 5600선을 돌파한 19일 오전 서울 중구 하나은행 딜링룸 전광판에 시황이 표시돼 있다. 문재원 기자최근 코스피 지수가 연일 상승하고 있지만 주식시장에 풀린 유동 주식 비율이 50%대에 그쳐 코스피의 역동성을 떨어뜨린다는 지적이 나온다. 과거 중복상장 과정에서 지배주주의 지배력 방어를 위해 그룹사가 지분을 유지해온 탓에 실제 투···",
+      "summary": {
+        "phenomenon": "코스피 지수가 19일 장중 사상 처음으로 5600선을 돌파했으나, 주식시장의 유동 주식 비율이 50%대에 그치고 있다.",
+        "cause": "과거 중복상장 과정에서 지배주주의 지배력 방어를 위해 그룹사가 지분을 유지해왔기 때문이다.",
+        "outlook": "코스피의 역동성을 떨어뜨린다는 지적이 나오고 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "미국, 국제에너지기구에 기후변화 초점 축소 지시",
+      "original_title": "U.S. Tells International Energy Agency to Drop Its Focus on Climate Change - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWGxZQUJmcWtmelNhMVdjbmgtc2RyQ3RaTXJMMlZxbUdlb2hyTExPc3R3dVFiVE1sZmgtdDhWeU5JSXZqT0gzSXFCTF9XY3ZLbDgwcF9nTnVDTUc3QjZDU0Q3RFpBMEthRm81d0g3dzFIRWpSeTNMSDdaYlF2WFhSZU14dFlFUk1xZXBJY1FVRU1ic1VrcWFQQmU3MVRtUy1YM2dhWkhjNUVPT09rSVZQZFl5dnNLRFRIRXpPaQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T19:29:48",
+      "description": "U.S. Tells International Energy Agency to Drop Its Focus on Climate Change The New York Times",
+      "summary": {
+        "phenomenon": "미국이 국제에너지기구(IEA)에 기후변화에 대한 초점을 축소하라고 지시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미국",
+        "국제에너지기구",
+        "기후변화",
+        "초점 축소",
+        "에너지 정책"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "TotalEnergies In High-stakes French Trial Over Climate Change - Barron's",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNcmtES2k1a3ZYV0FrakZsRDY0ZnBtQXVwX1RxVzU1NXBJRU4yc0FDSUJBbmpZbTdDNGdYWm8zQ0k2SksxeUdmZ3c1NEx1c0h3UEJHcHc2dFVXSEt0bUxwYjd1c2JmVGN6QmhlM2NPUWJOc0hwQ011YWxVNXRxTkhoOS1SdEp6elFFSVN5cjhKM3AtRW1fdFdSemdYQldyUHdyeVNlb2VlUTVYNmNJY0VxdTVKZ1RyeGs4WHg1bFR6aW1FcXNIdWZtamhRWmdtMmRkR2xPUzNvY0lvSEx5WXBLTUVCVGhXX3YtT0lJem5VdmhoQkI4V1hqLWVCeXdpS3FHUFVodExZeUh5RmVPWGs2eV93ODFPelplV2VOYTdVZ1B5YXlfRTdvZFliOHRmeUlyS3pvSHBpS0M1UXJxRG1Ic2trNzdYZWlMcUVRdWY4VWhUbUFvVW1MaENWUmFDUGlyanV2a0V5b2tEZ2h6czZvVFdqR3NfWTZVSklERk5GdGo0LU90Y3g4M05SREVmWDJIQzVGLV8zNFlqTmQtUWVKeHVaRnQzZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T13:08:00",
+      "description": "TotalEnergies In High-stakes French Trial Over Climate Change Barron's",
+      "summary": {
+        "phenomenon": "TotalEnergies가 프랑스에서 기후변화와 관련된 중요한 재판에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "39",
+      "title": "기후 변화의 이 기이한 현상이 나를 공포에 떨게 한다 - 에스콰이어",
+      "original_title": "This Weird Effect of Climate Change Is Scaring the Hell Out of Me - Esquire",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS0FFNG9HRk14VnFBQ082ay1PdmRPbUFIUkI4WGM4SVQzMHVlZDdMTkc0WGNKUVVlMk5lWDAxSGhpempvcC1JTm1pOFF0cnQ1bWs3SFhqUXN1WFlRZjdTRENuRUhCTklPNUNwVU5rbFUwNWppUEs5VmVBT3JzdDhGdUFnNzZqN2NQX0ltMU5CZ2d5NTlRMWNlaTRoTQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T12:01:00",
+      "description": "This Weird Effect of Climate Change Is Scaring the Hell Out of Me Esquire",
+      "summary": {
+        "phenomenon": "기후 변화의 특정 현상이 사람들에게 공포감을 유발하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "이상현상",
+        "공포",
+        "영향",
+        "에스콰이어"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "40",
+      "title": "지구 온난화의 여섯 아메리카, 2025년 가을 - 예일 기후 변화 소통 프로그램",
+      "original_title": "Global Warming’s Six Americas, Fall 2025 - Yale Program on Climate Change Communication",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmkzX0xmTlN0R20xdklFZjJfUnZjS28zWUlDc21tUUNuZjBsN1lrbVd4WUNMWEMxb09kMUxwQmFGSjNkVE9xQ0o2bHlGQWVYNmtlb3R0UmZOVkZZU0ZWZ1B1NWtvV3BWUDNpcWNDQ09ySWg3Q3NJNXpqakMtVzhDNUV5Y3VtU0kySXQ1bWpuaERESDdz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T13:29:15",
+      "description": "Global Warming’s Six Americas, Fall 2025 Yale Program on Climate Change Communication",
+      "summary": {
+        "phenomenon": "예일 기후 변화 소통 프로그램에서 '지구 온난화의 여섯 아메리카'라는 주제가 2025년 가을에 다루어질 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "지구 온난화",
+        "여섯 아메리카",
+        "예일 대학교",
+        "기후 소통",
+        "2025년 가을"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "41",
+      "title": "CT 연구원들, 고래의 기후 변화 회복력 단서 찾기 위해 '벨루가 콧물' 연구 - 코네티컷 퍼블릭",
+      "original_title": "CT researchers study 'beluga snot' for clues on whales' resiliency to climate change - Connecticut Public",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLThRcnFtbUFWdE1ITWhlWHBIS3FHVXhkU2NHaWlGS05McW9UMFhwMDhIRjVsVkdHRmJ0RE16cWhlZm9SeWJ0OVpsT2Z0dmZxd2hxSEliVjFsb2dLMzRqVFJQZVJBanpna3FfaUZObV9XTDBHU1hjVWpXTHZLZG85enFNeE5aNGQ4cENfQ2JyR05SNWNKeHRKQS03d2gzMzRZUlpRZW1ISGl1UnVzVTVhN0tIWE0wbmRIOTROOVpEaw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T16:46:00",
+      "description": "CT researchers study 'beluga snot' for clues on whales' resiliency to climate change Connecticut Public",
+      "summary": {
+        "phenomenon": "코네티컷(CT) 연구원들이 벨루가 고래의 콧물을 연구하고 있다.",
+        "cause": "이 연구는 고래가 기후 변화에 대한 회복력을 가질 수 있는 단서를 찾기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "CT 연구원",
+        "벨루가 콧물",
+        "고래",
+        "회복력",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "2/19/26: 미국 동부 해안에서 기후 변화와 함께 해변 이용객 세균 감염 증가 - AGU 뉴스룸",
+      "original_title": "2/19/26: Beachgoer bacterial infections rise with Climate Change on the US East Coast - AGU Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUkzSFZ5RlgzZlpfa2xndXNTT0NpM2wwNkNrMDFEbWlGZ0tXZC1qVnU5djNHNzlTMUp4MGYyWW9UcHMwdXEzTzdqZEVjUXpBMUhPdGhjMm4zOTBTbkxpRmxUWGd2QTdkcU5sdHJnV3VwRi1sb2tZNFJXOFA0UVAzU3V3RG5NRUYxbkpHVXJZeGlHY1JYV21uVkIxYWVJNnBqT0I3X210T0JDQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T22:53:20",
+      "description": "2/19/26: Beachgoer bacterial infections rise with Climate Change on the US East Coast AGU Newsroom",
+      "summary": {
+        "phenomenon": "2026년 2월 19일, 미국 동부 해안에서 해변 이용객들의 세균 감염이 증가했다.",
+        "cause": "이러한 세균 감염 증가는 기후 변화와 관련이 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세균 감염",
+        "기후 변화",
+        "미국 동부 해안",
+        "해변",
+        "증가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "Atlantic bluefin moving north due to climate change, seeking more favorable ecosystems, AZTI study claims - SeafoodSource",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcmRCeDhTWjhjczFNX183emxrZDBKZGJHRTNtM19JVlY1aGRBLS1TNE43bXh0REJxbC1ObkwtdVExcmMwdjhsVFBUc1RQMkxCS3RWQlBkUUQxSkhsaE9XZ21XNUJaeGhEemNhOUY2QWxBU1pVR3d1TE9XNzUyZnRGbE1JOGxNNWZNRFVVRnBVQTZQbG56RlB3a0o3RWVEWUNJcUEtZEJWYmJrakl0eUJPWWQ5aHJqNF9rNU9KdS1NWC1kLWczRmNWTnpVZnMzVmhLQWg1WHI0THdXalo4bWVoMzZnWmFPVV9mQXVFcVE4eG1QUno2cGwyVg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T17:35:10",
+      "description": "Atlantic bluefin moving north due to climate change, seeking more favorable ecosystems, AZTI study claims SeafoodSource",
+      "summary": {
+        "phenomenon": "대서양 참다랑어가 북쪽으로 이동하고 있다.",
+        "cause": "이는 기후 변화로 인해 더 유리한 생태계를 찾아 이동하는 것으로, AZTI 연구에서 주장되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "기후 문제: 기후 변화 부정: 과거, 현재, 미래",
+      "original_title": "Climate Matters: Climate change denial: Past, present, future - MassLive.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2V1M3hFTl95alhkN1VzQm05UzFFVGJJT1VSbXRkZTBtdU9pOWFtWjFpbzZuUG9NTW5VbkhBMlJlRS0zTEZ0a3g1WDJCa0JVODNIN3J1VXJNMXZQMUF0MTNEcVRReUljakk1YmZPcDVxSEdDbEF6RW1mdmNGekh1VVh5R0JjLWZ6bGlhSHRYN0N5VFcydmtpbHQzUjVSa0tyYWNQcnhFa3RUWWRJY3c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T11:00:00",
+      "description": "Climate Matters: Climate change denial: Past, present, future MassLive.com",
+      "summary": {
+        "phenomenon": "기후 변화 부정에 대한 논의가 과거, 현재, 미래에 걸쳐 다루어지고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "기후 부정",
+        "과거",
+        "현재",
+        "미래"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "폭염, 가뭄 그리고 분열: 국경 지역의 기후 변화 - 멕시코 뉴스 데일리",
+      "original_title": "Heat, drought and division: climate change in the borderlands - Mexico News Daily",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTVFeDZRcFlvYWlxT3FOZFRpT3dsR3JHSW51VUhTN0kzUXpscFhHejhwUVI5aVhGeS1yUzhIS2Vra3U1WjNWSmgtNjJsczRoVWJlRktwa2Vaa3F4X25pWkVlOEFod25fV2M3cWtkLXhZYTFYLUlKb29RWWFSVnhZZWRIZ2xURFRwZ0t6OXc4MnlvNm9tM1RpNS1JdExQX2xlYUtXZ3I4RQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T13:54:55",
+      "description": "Heat, drought and division: climate change in the borderlands Mexico News Daily",
+      "summary": {
+        "phenomenon": "국경 지역에서 폭염과 가뭄이 발생하고 있다.",
+        "cause": "이러한 현상은 기후 변화와 관련이 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "폭염",
+        "가뭄",
+        "국경 지역",
+        "분열"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "생고뱅-아럽 보고서: 건물, 기후 변화에 더 빠르게 적응해야",
+      "original_title": "Buildings Must Adapt Faster to Climate Change, Says Saint-Gobain - Arup Report - Saint-Gobain",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUNJT0dXRlVRQW9NWWpYblRVRm9DSDF1Q0NtQlBSTmNSRXltN1dfa2owYTIzNWlUQm95YU5xUjJNNUhnanlKcFp5TzVxMmNFWk9NZjRZSHNtN0hjWkt0b2pWdF93Y2FHa3AxZnltVUxlcDlPOU5KVjBWLW1aT2stTUJnZGk5b2tOR2oyNXQtVUR2c1hqOHYtaUprRU4ybS1nYXprem1xdnBTdEY0TEE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T08:17:45",
+      "description": "Buildings Must Adapt Faster to Climate Change, Says Saint-Gobain - Arup Report Saint-Gobain",
+      "summary": {
+        "phenomenon": "생고뱅-아럽 보고서에 따르면, 건물들이 기후 변화에 더 빠르게 적응해야 한다고 언급되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "건물들이 기후 변화에 더 빠르게 적응해야 한다는 전망이 제시되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "건물",
+        "기후 변화",
+        "적응",
+        "생고뱅",
+        "보고서"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "버몬트 학교에 기후 변화 교육 의무화를 위한 법안 - 샬럿 뉴스",
+      "original_title": "Bill to mandate climate change education in VT schools - The Charlotte News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUtpU3pQeFhHZlJPR0tudlhNZ0lZLTh6b3pOTVQyeW9qbF9pTjZYcHpnREplcVE4YVhBR1JrVkk2UjF4MWNUUlhiMFBpS3lxWkQ5LUZqTFptQ1BDa3RRMlI5Z3hfYXRJcEwycUkxaUNHanNYZnhNX2YtZ0txWGRXT04yTFFZdmpOdGF4NVlRUlZVY2s5LXcxbWJPOWdxUkk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T10:00:00",
+      "description": "Bill to mandate climate change education in VT schools The Charlotte News",
+      "summary": {
+        "phenomenon": "버몬트 주 학교에서 기후 변화 교육을 의무화하기 위한 법안이 발의되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "법안",
+        "기후 변화 교육",
+        "의무화",
+        "버몬트",
+        "학교"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "토탈에너지스, 기후변화 관련 프랑스 중대 재판에 직면",
+      "original_title": "TotalEnergies in high-stakes French trial over climate change - Northeast Mississippi Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRHpUT1BzWWMxVldtcXVYVE5EcUFEYmp6ZFVGNjJaV3d4UjFFbFFKZ3V4SDdFb24tZ3ZJa0pJS2hJTFF6THRoampKUVZRYk9wM3cwTkNBd0FZUXVlSU05QW1lRGM3UGNqRUJMY3RjN2Z2eDh4bXVEelFNam00Sm9sM09uVnV4NVg3NDFXOWNwTVIwNkxLQkpPTk5YbVh5Wm9ZMldPU2xRZkZyeExOblhQS0I1d3NOZWtHS2xiRGR1bm9zdEZmZHJnTkEtSVNLcjRWTWdNVmszaVpKZkItVGNmY1IzRkw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:37:13",
+      "description": "TotalEnergies in high-stakes French trial over climate change Northeast Mississippi Daily Journal",
+      "summary": {
+        "phenomenon": "토탈에너지스가 기후 변화와 관련하여 프랑스에서 중대한 재판에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "토탈에너지스",
+        "기후변화",
+        "프랑스",
+        "재판",
+        "소송"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "토탈에너지스, 기후 변화 관련 프랑스 고위험 재판",
+      "original_title": "TotalEnergies in high-stakes French trial over climate change - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGNITGdURFZnSWMxb3FIdGhESnk2a21MZ0tQMjQyUGgzMV9xUHN2SzBGYnFoVlg1cXFJRHRhMWY1a09QQzVWOHZJdUF6SlVsVkh3aGRtaXpueHFrdmk5VzkxR3QzNXZ1WGI4VzNGcEVrUzJkb04xYWNhczh6NXNvVEc2bGN6NUhQd1JDb1BzSC1fQmRYR1hTYXhOTXlRODFzVmlNZ0tXWTdOR01JRFk0WTFIYnRjSEZpWFNUZWsyN3lfbVFTdEFfdnNWc09nLTBKYkFxWFN4SkpySEU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T22:15:21",
+      "description": "TotalEnergies in high-stakes French trial over climate change The Killeen Daily Herald",
+      "summary": {
+        "phenomenon": "토탈에너지스가 기후 변화와 관련하여 프랑스에서 중대한 재판에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "토탈에너지스",
+        "기후 변화",
+        "프랑스 재판",
+        "고위험",
+        "기업 책임"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "TotalEnergies in high-stakes French trial over climate change - Key Biscayne Portal",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPanhxeVZwVkVWUm9WanFVYTJiSk1HUVJZMjlQb2lTZ1hicU9MSE9HZTMzeVN4d1JYaU1MVmxIY3ZyOWNTa2FpZzVrcmNnMUkzVG1hclUtSGlsZHJiV01CdXIwSjVpZEhBT29rb184RktJXzBfa0xPcWNzMVR6NHgtbWk2SWYzV293aU53MkRoSTBfWlNsYk8yLWhEUUVQN01vVUZnNERMY1BnVmFsNzdvemxJUVA3UnNWQVVWeXNSdEtZSnJ2T3RXRHFZOHZzWF9HdFMxd1VsMWZsTVl3RnpuRTNxREl4aF9VRDl4U1IyenY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:37:13",
+      "description": "TotalEnergies in high-stakes French trial over climate change Key Biscayne Portal",
+      "summary": {
+        "phenomenon": "토탈에너지스가 기후 변화와 관련하여 프랑스에서 중대한 재판에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "UMass Extension Hosts Insects & Climate Change Education Day - Morning Ag Clips",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQW50ZGxFYzByLUpBRmxHb0xQUTNRWURMSDFseENEM3J3b2UzWjBrQk9OVWxleDFFWjFLUnNiU014Q01scGlGUk1CSFI5Z0lCU0N1eXRTYjZKa1NOSlRMUFQ5THJMOGVmNHhVVFZhRVJfOVRDRnA3dFNVQjBTUFdsLVU5dS1UclA1eUtRNWRfMFp3QU5u?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:06:56",
+      "description": "UMass Extension Hosts Insects & Climate Change Education Day Morning Ag Clips",
+      "summary": {
+        "phenomenon": "UMass Extension에서 곤충과 기후 변화 교육의 날을 개최했다. (구체적인 시점이나 지역은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "기후 변화가 어떻게 보험 사막을 만들 수 있는가 - 디지털 보험",
+      "original_title": "How climate change can create insurance deserts - Digital Insurance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeDVjV2d5a0N6Q0tzcWpkZGJuTTYzcTlBQUp4NVpzZ0thOFhtTnBDZjc3SGlZejRrWGtUV0lYOEotZkw3bUxOcGFpc1RnazI1RkY4LXhZN0JINE1pVHl6TktjcmJTd0ViNkZqVmhTU2Z5WG5SaDRDQVFxRXVmZlhmYmhqTE0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T20:41:00",
+      "description": "How climate change can create insurance deserts Digital Insurance",
+      "summary": {
+        "phenomenon": "기후 변화가 '보험 사막(insurance deserts)'을 만들 수 있다는 현상에 대한 논의가 있었다. (구체적인 지역, 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "보험 사막",
+        "보험",
+        "위험",
+        "취약성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "기후 변화가 정신 건강에 미치는 침묵의 영향: 생태 불안이란 무엇인가?",
+      "original_title": "The silent impact of climate change on mental health: what is eco-anxiety? - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmFlX3BRcWREUzlwd3lFZUYyWFBaOXAydmx1bkIwazd5SDZWN1BKOUZLd3ZzMFkyQkFKVlZXa0ZoYmU4NGpkNHBZQ3dHN2FrSFlfYnF6SE9Kcm03MGwyd1pSQ0FFX3pPTHRMcjhzeG9wMnRjSjJKeDdwd0I0dDVlaXpyS0h2d0twdldVZGtDbnk3ejZHR2JvdlA0UE5mbGZsN0phSDU1Z3ZSaU5vNlBwaW0ySGJFZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T09:02:25",
+      "description": "The silent impact of climate change on mental health: what is eco-anxiety? Euronews.com",
+      "summary": {
+        "phenomenon": "기후 변화가 정신 건강에 '생태 불안(eco-anxiety)'이라는 침묵의 영향을 미치고 있다는 현상이 논의되었다. (구체적인 지역, 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "정신 건강",
+        "생태 불안",
+        "침묵의 영향",
+        "불안감"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "토탈에너지스, 기후 변화 관련 프랑스 고위험 재판에 직면",
+      "original_title": "TotalEnergies in high-stakes French trial over climate change - Caledonian Record",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN21RZ09RQV9kTDhfZmdvcXVMQjIydFRsdzlVc3ZVX2pkR3pvMGNCNGhtQnpIN0FQVXl5ZWJHNmNyMG5RQ1h5VGF6TUptTWNJQnNyaWhKNmV5ZTRSU2UzTUFLdUozSFQ0cDJ6cFV1NEJ1ck91NkFqVHBGYnE0TEJpSTY0eW1MUTRBc0F6V2pZd3pQOW8waEt5TmNjNmRvVkpDbXIxUnRJS0ttaWRHQjY5VjRlRHBaR3h4RkoxaFl0WUpndnZQUXc2Z01tQXlsNjBJbm5XWkZ3c1pMNTcyRXZmVFlnZjdkeHA4N3hpMUwxYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:37:13",
+      "description": "TotalEnergies in high-stakes French trial over climate change Caledonian Record",
+      "summary": {
+        "phenomenon": "토탈에너지스(TotalEnergies)가 프랑스에서 기후 변화와 관련된 고위험 재판에 직면했다. (구체적인 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "토탈에너지스",
+        "프랑스 재판",
+        "기후 변화",
+        "고위험",
+        "소송"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "Universities mobilise at climate change-disease interface - University World News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9reHhSeDN2czF5SmVxWVlDMnl1cTVYTmR2RFBJT1VnakJBLUtiYXd2ZVdzcE11djk3d1pXRFNaUnRGUTdkQkpIa1BuRVBQNm82VldTTWN0OGEzVXlyX0JaQXI2RTJ0OGVQRkU4eENHLUZuRVJaSXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T12:25:41",
+      "description": "Universities mobilise at climate change-disease interface University World News",
+      "summary": {
+        "phenomenon": "대학들이 기후 변화와 질병의 접점에서 동원되고 있다. (구체적인 지역, 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "CDP, 픽서스의 기후 변화 및 산림 분야 노력 인정 - 담배 리포터",
+      "original_title": "CDP Recognizes Pyxus for Work in Climate Change, Forestry - Tobacco Reporter",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZG14TlZkZXlTTldndTNkZG9XZVpJMWdWQ2lqNHNHQzhYWE5DNmNzVVB1NVVVWDZlcVlTSmlEakphb0tBdEsxZmdzbmlZMnQxSUtWR0NSY1JfMTI2eDlyNWZoYW1fQzViTHduR1BobThHYzkxME9WTHBQN1dENjZsUzdfUEppaUJKTlZTQ0YtbE9GYlpTb0VYM0t6OVM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T16:17:47",
+      "description": "CDP Recognizes Pyxus for Work in Climate Change, Forestry Tobacco Reporter",
+      "summary": {
+        "phenomenon": "CDP가 픽서스(Pyxus)의 기후 변화 및 산림 분야 노력을 인정했다. (구체적인 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "CDP",
+        "픽서스",
+        "기후 변화",
+        "산림",
+        "인정"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "메가시티에 대한 가장 큰 위험은 기후 변화가 아니라 우리 발밑에서 벌어지는 일이다 - ECOticias.com",
+      "original_title": "The greatest danger to megacities is not climate change, but something happening beneath our feet - ECOticias.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZG1IZi0xSFRJa0hHNWtEWGlrY3ZodTJFdGNXUnIza3lhZ2NDa1RRUjYxbVpPNVRVUV90Nm5meWZROUhrRTN1WHFZdzFIa1BBeTd4LWVFZmRnSmVIQlEwUGZETzJIck9FNERsWFhaRHg1ZU5JV09pOWp5VEUwcVJtMVBiV2lMQjRRV1BIamFucmd4V050cnNFVzY5MHRXSDIxb2dWYXM3aGowZGNNNmkxX0EyOVk4V0ZYTFQzRVBrem8wR2VWLTNXaUZtMGM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T22:06:00",
+      "description": "The greatest danger to megacities is not climate change, but something happening beneath our feet ECOticias.com",
+      "summary": {
+        "phenomenon": "메가시티에 대한 가장 큰 위험이 기후 변화가 아니라 '우리 발밑에서 벌어지는 일'이라는 주장이 제기되었다. (구체적인 지역, 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "메가시티",
+        "가장 큰 위험",
+        "기후 변화",
+        "지반",
+        "경고"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "토탈에너지스, 기후 변화 관련 프랑스 고위험 재판 직면",
+      "original_title": "TotalEnergies in high-stakes French trial over climate change - Barron News-Shield",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0h1YWZDYnRZam9xdGU0ZTJ2US0tQnFKUkpPbmlKdVkxRl9lQWtRVEdMYlFhZnduNGtUSUdaU2FXN2NWVzVNVDRGVEh4R1BtRTVIeHFpTmFIY3RURGkwQ2hxcjFEYTBjVUpGU0Q5TTdKZlIwUlpJSndpWXp6UkpxQ2lkcEZ2VEVwYlJKVlJJYlFoajJZdnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:37:13",
+      "description": "TotalEnergies in high-stakes French trial over climate change Barron News-Shield",
+      "summary": {
+        "phenomenon": "토탈에너지스(TotalEnergies)가 프랑스에서 기후 변화와 관련된 고위험 재판에 직면했다. (구체적인 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "토탈에너지스",
+        "프랑스",
+        "재판",
+        "기후 변화",
+        "고위험"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "59",
+      "title": "투발루의 기후변화 대응에 희망: 팔레필리에서 디지털 국가로 - 개발정책센터 개발정책 블로그",
+      "original_title": "Hope in Tuvalu’s climate change response: Falepili to Digital Nation - Devpolicy Blog from the Development Policy Centre",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaXVydDd3eFVLd1BzUzBoSEhWWS1keVBSTnVjVWVMVGU4eHlQVmpFaG5YaEN6Z2hKT2M3NWl2X3MyOFoxNE1HMG1jZHprQm00QmRYUS12WFJXOWZoWV9CLUd2eDc2THBMNlQ4UWZRUjZiZHprMktGMHlHUXdOR3l1MS1MWll2MWdTd2Jqb2pBRGJTMThIeW5udzdWR1JHdWVteE1KcjlB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T19:01:59",
+      "description": "Hope in Tuvalu’s climate change response: Falepili to Digital Nation Devpolicy Blog from the Development Policy Centre",
+      "summary": {
+        "phenomenon": "투발루가 기후 변화 대응에 있어 '팔레필리(Falepili)'에서 '디지털 국가(Digital Nation)'로의 전환을 통해 희망을 찾고 있다. (구체적인 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "투발루",
+        "기후변화 대응",
+        "희망",
+        "팔레필리",
+        "디지털 국가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "60",
+      "title": "Trump EPA declares no harm from climate change - AOL.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtT3h6RE1vX2lQemd6c0pWQWstQzlsYmR2d19nTGgzakhtaml2YmE3c1N1VElTTk1rdG00S1F4Sng5NHdGZEg0LTRhaHJvYzdwVXlQZmFuWG43a0dFeXk1OUJaMURnV0RKU2F2SC1EU0pQZnpTR1pjWExn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:34:13",
+      "description": "Trump EPA declares no harm from climate change AOL.com",
+      "summary": {
+        "phenomenon": "트럼프 행정부의 환경보호청(EPA)이 기후 변화로 인한 피해가 없다고 선언했다. (구체적인 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "61",
+      "title": "Metzger Vows Ulster to Continue Fighting Climate Change - Shawangunk Journal",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWY5al9oamhBdVd3c0hyYUxyZ05FSUZZNWFONm96N1NzSTF1VkRSb0lyZnhiR2UwSzR2ZXRiS2xWS3gta1M1RmQxeTA0c0w4ZXNpUHlmSHpYMEJWM0hMajJJMlRwdFhONnNqNUVCV0pUQ2hfMkFkZk5yMFVYVUhyS1dfUlBUeTFXa2RSR0FyQjhaOEhsVWpJakkxLS1jX3NBanQyaURsUkcwejJDWDBWN3lWLXZJd2tNbzRXeXpWNFZha2tnN3pB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T20:47:53",
+      "description": "Metzger Vows Ulster to Continue Fighting Climate Change Shawangunk Journal",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "62",
+      "title": "기후 변화, 지역 생태계에 영향 - 그레이엄 스타",
+      "original_title": "Climate change affecting local ecosystem - The Graham Star",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOTBCVURnSnVIVDBLdElBSkpjaG9oREp1OW9BU3hMTUVZbTBEaXg2MFoxV2Y5SXVQRm15UENfaEo4aGlrMnVUaDRnMkZUeU14UktfWFU2dnpHSm04cTVMYkJfUGdsaWV0dFBzckNyWmJ6dkNhZTBDaW9icXAzeWQ4RQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T16:53:15",
+      "description": "Climate change affecting local ecosystem The Graham Star",
+      "summary": {
+        "phenomenon": "기후 변화가 지역 생태계에 영향을 미치고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "지역 생태계",
+        "영향",
+        "생태계",
+        "변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "63",
+      "title": "세계교회협의회, 기후변화 인식 제고를 위한 사순절 캠페인 시작 - 더 처치 타임즈",
+      "original_title": "World Council of Churches launches Lent campaign to raise climate change awareness - The Church Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObUZIMlNqaUp1cU93Rm5SSW1Lem9pRlZKdHhmb1BXT2VSNFFpekdfQTJzaXRjcFNkWUZSMTVuZnFzMVZLR0JJcm1OM3NoX3pmQVNnQVVfREVtWFdGR1lMdnVEQmZhTkR4WXVZNmRsMDB1aWhhaXdld3VkcnppYXlqanVNajk4VjloSWxQUXFQa0JPTm8wNF9id0paNGczRnFiOFRNMnNYaWlQLVAxMEhmWm00ZGlhcDkyMEw1SkhRMmszdnZMeDVQLTd4QUplM0Q2RWhOY0tmR0k3QS1wLVNTMFB3NA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T09:36:07",
+      "description": "World Council of Churches launches Lent campaign to raise climate change awareness The Church Times",
+      "summary": {
+        "phenomenon": "World Council of Churches launches Lent campaign to raise climate change awareness The Church Times",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "세계교회협의회",
+        "사순절",
+        "캠페인",
+        "기후변화",
+        "인식 제고"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "64",
+      "title": "기후 변화로 인해 자연이 둔화되고 있다 - 에너지 라이브 뉴스",
+      "original_title": "Nature is slowing down because of climate change - Energy Live News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXJVcHFGNUhieVlfWFJKemw1SWV3MXlyRTlaTGptR2Z6eTBlVjZqcG1ackNya0poSm1LcV9CbEdQOG9fYk50cy1TMW56ZFNiV2dPaFkxLUNTcmdfNDlpVGplTXlIdldGcDlhei1LUDVqOTRZRDhvcUFOdkNoUTMtaFlaWnRHTjdyQ0JOczA5NmZUN0p4WkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:31:17",
+      "description": "Nature is slowing down because of climate change Energy Live News",
+      "summary": {
+        "phenomenon": "Nature is slowing down because of climate change Energy Live News",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "자연",
+        "기후 변화",
+        "둔화",
+        "생태계",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "65",
+      "title": "Children at receiving end of climate change: Experts - The Times of India",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWU43aW0xNFFVTzJUSVdTd190d3YteWxrU0tlTUhaY0FvQkZaRUoyNThsQ0ZZMDYwenRadWhSbm5BeXJ6N01GdDdjTXp4RHNjbmw3MzllMXBsOC1NX1NOUndybF85UFJxSjcyeTZWQVlQMkFuSlBSQ3NMY3pLZlVsSFVpcDQ5NHJmVHVVZjZSaDlXQXBBcmhFR1MtWkluSDZiN2V2QXR1MFQzOFZvSVcwTnpYWnZzLW42NVdNLWYwUmhJQml60gHKAUFVX3lxTE1EYlhJXzhkQjFQeVJobVgwUWdlUGx4TXVnUUVFay1rYnFuaGQ4Vm8tTG5BdU1wZFZ6dkQxeHB6eXdTQTBIcGxsdFB6LW9lQ0lJdGFrU1hHZ1Z1NDBXcmVjQmFPbmdxZVhuT0tXZmZQWm4xNzI5NmdTcmVPSDBpbUgwYU5UcThmeGxfZHI2QmlJNS0yb1FldUpaTFM0VlJmZ29RaGRCS2txcGFydlpKT3p4LXFwNktqYVFWSTg0RDRmV3dtVUhZVkZHYlE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T20:45:00",
+      "description": "Children at receiving end of climate change: Experts The Times of India",
+      "summary": {
+        "phenomenon": "Children at receiving end of climate change: Experts The Times of India",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "66",
+      "title": "Caffeine hit: How climate change is coming for your coffee - The New Daily",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcE1hOGJoeU9vVE11cDZoZW5zdElhcXktU01xOGF3QjdvQllEQUs1b2pNQU8yNm9tOVRjck1PVTZsSzBFM29oRkFpR1VPSW92VFBtRTdrblJHRnFLSGxJWGRlVlZkYnQzb2I4UFJLUVNXY1hWcUVPYjNERllCbFg2TEdnTm1LWHBfOEE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T11:22:20",
+      "description": "Caffeine hit: How climate change is coming for your coffee The New Daily",
+      "summary": {
+        "phenomenon": "Caffeine hit: How climate change is coming for your coffee The New Daily",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "67",
+      "title": "토탈에너지스, 기후 변화 관련 프랑스 중대 재판에 직면 - 셸비 뉴스",
+      "original_title": "TotalEnergies in high-stakes French trial over climate change - Shelby News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZUhlcjZVRkR1ckQ1cUhLTnRtQmlkazVTZFhxUFB2YWkySzJsbXJ2UXloXzRyZUtJYnU3OFNtTmFxQnpWQ1NDcUxSTFhiNm5YNVA0M2VWVE1nVkNLSmxDY3Fja21KdzVhUTVQdGs4ZUlEbU1oektxOTUxWkI1anZLdWxEemlrYnFaODRUTW11Zk1SVkhtY1ZpQUZIQU0tV2xWeFRoUERVTXowSmVVdXQ4NXdWNjllbVB3S3UxQzd1MzdBZXh2S3UyVksyLUlKenVvNXE3cEZqM19Lc1pSOENVaUdCZlBzZWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:37:13",
+      "description": "TotalEnergies in high-stakes French trial over climate change Shelby News",
+      "summary": {
+        "phenomenon": "TotalEnergies in high-stakes French trial over climate change Shelby News",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "토탈에너지스",
+        "프랑스",
+        "재판",
+        "기후 변화",
+        "소송"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "68",
+      "title": "지속가능성으로 가는 길은 모호할 수 있습니다. 데이터가 나아갈 방향을 보여줍니다 - CBC",
+      "original_title": "The road to sustainability can seem hazy. Data shows where we need to go - CBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44U0VTb0xqX19zRnJOSnJWOGFybDVGRjBMQTl6X2JtbkROV05fZmpPb3lETlZSNkl5VW04elYyWGV3RTVxTHJjMDhSZDVOWjZlR2JJM1djd3B1WUg3MkthVWNXWEtGV1JZY1ZRXzhGc0FrMkw4blNvVzdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T19:00:00",
+      "description": "The road to sustainability can seem hazy. Data shows where we need to go CBC",
+      "summary": {
+        "phenomenon": "The road to sustainability can seem hazy. Data shows where we need to go CBC",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "지속가능성",
+        "데이터",
+        "방향",
+        "불확실성",
+        "경로"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "69",
+      "title": "Climate change effects on Canadian wildlife show how vital winter is - MSN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYlg5czV2SVctVUZLd1FEZTFPYnBVV252UHJFN3JyZXBXY0ZMTnhUVHg5OTQzcjc5LUJhaUF6UnBZX25FRTBGb3ZrdFVUb2Fja04xblNJcUxjclptcWpBYWd4a05QMEZaTjRrc1hZd0w4LWFaSXc3RVlQSXVsSVpETXp0ZjRLVGx5ZG9FQ0dmbUNwWmdrYmxLZ2xCQUZGZFJkbEt3ZDd1Y01sd0o1elI0UUpnNndQeFN6bXhWUjZGbkNhTlE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T15:06:13",
+      "description": "Climate change effects on Canadian wildlife show how vital winter is MSN",
+      "summary": {
+        "phenomenon": "Climate change effects on Canadian wildlife show how vital winter is MSN",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "70",
+      "title": "Larry Sanders on Trump, climate change, and moral conviction - Cherwell",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBna01qcjM3bjd6dzE4blVtSFpSNzVBRW5ES21weXlSSkd5dVV4emFnZUZJYzZKOTlrdmVBVF8xd29Fa05xUW1ZdVJQbFZlRWJhQXRfTS15cWtqWWtXXzJj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-19T10:00:00",
+      "description": "Larry Sanders on Trump, climate change, and moral conviction Cherwell",
+      "summary": {
+        "phenomenon": "Larry Sanders on Trump, climate change, and moral conviction Cherwell",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "71",
+      "title": "스키어 사망 후 캘리포니아 눈사태 위험 여전히 높아",
+      "original_title": "Avalanche risks remain high in California after deaths of skiers",
+      "url": "https://www.theguardian.com/us-news/2026/feb/19/snow-drought-deadly-california-avalanche",
+      "source": "guardian_climate",
+      "published_at": "2026-02-19T20:39:27",
+      "description": "Forecasters predict more snow in Sierra Nevada mountains as climate crisis increases threat of dangerous conditionsAvalanche risks remain high in the Sierra Nevada mountains of northern California this week, following the deadliest snowslide the region has seen in modern times.The climate crisis has set the stage for more dangerous conditions, with sharper swings between dry periods and severe storms, according to experts, who have long warned that extremes will amplify as the world warms. Conti",
+      "summary": {
+        "phenomenon": "북부 캘리포니아 시에라 네바다 산맥에서 현대에 들어 가장 치명적인 눈사태가 발생한 후, 이번 주에도 눈사태 위험이 여전히 높은 상태이다.",
+        "cause": "기후 위기가 건조기와 심한 폭풍 사이의 급격한 변화를 야기하며 더 위험한 조건을 조성하고 있으며, 전문가들은 지구가 따뜻해짐에 따라 극단적인 현상이 증폭될 것이라고 경고해왔다.",
+        "outlook": "예보관들은 시에라 네바다 산맥에 더 많은 눈이 내릴 것으로 예측하며, 기후 위기가 위험한 상황의 위협을 증가시킬 것으로 보인다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "눈사태",
+        "캘리포니아",
+        "시에라네바다",
+        "기후 위기",
+        "극한 기상"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "72",
+      "title": "미래의 폭염 속 걷는 참을 수 없는 경험 – 영상",
+      "original_title": "The unbearable experience of walking in a heatwave from the future – video",
+      "url": "https://www.theguardian.com/environment/video/2026/feb/20/the-unbearable-experience-of-walking-in-a-heatwave-from-the-future-video",
+      "source": "guardian_climate",
+      "published_at": "2026-02-19T20:15:06",
+      "description": "Around the world, global heating is already causing more frequent heatwaves that last longer and bring more heat. Guardian Australia's Graham Readfearn has put his body to the test in an experiment see what effects the heatwaves of the future will have on humans. At the University of Sydney, he steps into a climate chamber that simulates the increased temperatures and humidity predicted in a rapidly warming climate. 'The sweat is stinging my eyes,' he says. 'It's 43C and the air is sticky and hu",
+      "summary": {
+        "phenomenon": "시드니 대학교에서 Guardian Australia의 Graham Readfearn이 미래의 폭염이 인간에게 미칠 영향을 알아보기 위한 실험에 참여했으며, 시뮬레이션된 기후 챔버 내 온도는 43C에 공기는 끈적하고 습했다.",
+        "cause": "전 세계적으로 지구 온난화는 이미 더 빈번하고 오래 지속되며 더 뜨거운 폭염을 야기하고 있으며, 이는 빠르게 온난화되는 기후에서 예측되는 증가된 온도와 습도를 시뮬레이션한 것이다.",
+        "outlook": "이 실험은 미래의 폭염이 인간에게 미칠 영향을 확인하기 위한 것으로, 미래의 폭염은 눈을 따갑게 할 정도로 힘든 경험이 될 수 있음을 시사한다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "지구 온난화",
+        "폭염",
+        "미래 기후",
+        "기후 챔버",
+        "인체 영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "73",
+      "title": "China Briefing 19 February 2026: CO2 emissions ‘flat or falling’ | First tariff lifted | Ma Jun on carbon data",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/china-briefing-19-february-2026-co2-emissions-flat-or-falling-first-tariff-lifted-ma-jun-on-carbon-data/",
+      "source": "carbonbrief",
+      "published_at": "2026-02-19T14:14:35",
+      "description": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 19 February 2026: CO2 emissions ‘flat or falling’ | First tariff lifted | Ma Jun on carbon data appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "2026년 2월 19일 기준, 중국의 이산화탄소 배출량이 '정체되거나 감소하고 있다'.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "74",
+      "title": "마쥔: '더 저렴한 재생에너지로 인해' 중국 석탄 발전은 '사업성이 없다'",
+      "original_title": "Ma Jun: ‘No business interest’ in Chinese coal power due to cheaper renewables",
+      "url": "https://www.carbonbrief.org/ma-jun-no-business-interest-in-chinese-coal-power-due-to-cheaper-renewables/",
+      "source": "carbonbrief",
+      "published_at": "2026-02-19T12:41:28",
+      "description": "Open and transparent data can accelerate the decarbonisation of China’s industries and boost public interest... The post Ma Jun: ‘No business interest’ in Chinese coal power due to cheaper renewables appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "마쥔은 중국의 석탄 발전이 '사업성이 없다'고 언급했다.",
+        "cause": "이는 더 저렴해진 재생에너지 때문이라고 설명되었다.",
+        "outlook": "개방적이고 투명한 데이터가 중국 산업의 탈탄소화를 가속화하고 대중의 관심을 높일 수 있을 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "마쥔",
+        "중국 석탄 발전",
+        "재생에너지",
+        "탈탄소화",
+        "사업성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "75",
+      "title": "미국, 서방 에너지 감시 기구에 '넷제로 초점 폐기 안 하면 탈퇴' 경고 - 로이터",
+      "original_title": "US to West's energy watchdog: scrap net zero focus or we'll quit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZmlsS2lGYU5kbURobHA5Ukx4T0M5UVpvOWoxb2dFdU95eGt3R1U2R25wanpJUTllVHRFWjgtVFFpeTdNaUhwd1ZoeVNwdTc0ZnlBZXRFNWlhbDY5dmctR29JLUlySjJSdFctTTJqN2pVeHdxYWtraE1YSTI1akZmdW11Ul81eEtJRF80MTd3SmVuZUlWUFMwc1lURFJwTjRRZjkzXy11eTRaN09zQmRaZkxyWQ?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-02-19T10:32:56",
+      "description": "US to West's energy watchdog: scrap net zero focus or we'll quit Reuters",
+      "summary": {
+        "phenomenon": "미국이 서방 에너지 감시 기구에 경고를 보냈다.",
+        "cause": "미국은 해당 기구가 넷제로 초점을 폐기할 것을 요구하고 있다.",
+        "outlook": "만약 넷제로 초점을 폐기하지 않으면 미국은 해당 기구에서 탈퇴할 것이라고 밝혔다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미국",
+        "에너지 감시 기구",
+        "넷제로",
+        "탈퇴",
+        "경고"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 75,
+    "domestic_count": 36,
+    "international_count": 39,
+    "top_keywords": [
+      "탄소중립",
+      "기후 변화",
+      "기후변화",
+      "재생에너지",
+      "토탈에너지스"
+    ],
+    "sentiment_breakdown": {
+      "positive": 28,
+      "negative": 23,
+      "neutral": 7
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
