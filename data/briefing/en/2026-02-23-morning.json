@@ -1,0 +1,960 @@
+{
+  "date": "2026-02-22",
+  "generated_at": "2026-02-22T23:13:26.578551",
+  "briefing": {
+    "opening": "Good morning/afternoon, everyone. I will now begin the climate briefing for February 22, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Accelerating Climate Crisis, Global Warning Bells",
+        "content": "News gathered today clearly demonstrates that the climate crisis is no longer a distant future problem, but a severe and ongoing threat. In the Southern Hemisphere, climate disasters are becoming a reality, with record-breaking heatwaves leading to wildfire emergencies [2]. Internationally, reports indicate that the surge in AI data centers in the UK threatens climate change targets [29], and an analysis suggests that climate change impacts high winter Air Quality Index (AQI) levels in cities [36]. These reports align with warnings that ignoring climate change endangers our future generations and has devastating effects on the lives of sled dogs [33, 35], demonstrating that the climate crisis is intensifying as a global phenomenon beyond specific regions.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Domestic Carbon Neutrality Practices, Active Participation from Local Communities and Businesses",
+        "content": "Various local governments and institutions across the country are making concrete efforts to achieve carbon neutrality. Cities like Gyeongju, Pohang, and Gimcheon are actively recruiting participants for the 'Carbon Neutrality Points (Automobile)' program, which offers cash rewards for reducing vehicle mileage [3, 4, 5, 6, 8, 9, 12, 15]. Jinju City and Daejeon's Daedeok-gu are accelerating efforts to achieve the 2050 carbon neutrality goal by actively promoting climate response in citizens' daily lives [10, 14]. Furthermore, Eumseong-gun Agricultural Technology Center is offering free soil testing services for 'carbon-neutral agriculture' [7], and collaborations such as between Korea Gas Corporation and Changwon Fatima Hospital for carbon neutrality implementation are underway [11]. Lectures aimed at strengthening carbon neutrality practices are also being held in the business and academic sectors [13], indicating expanding participation across society.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Accelerating Renewable Energy Transition, Domestic and International Cooperation and Technological Innovation",
+        "content": "The transition to renewable energy is gaining attention as a key driver for a sustainable future. Hanwha Ocean is accelerating its renewable energy projects, including offshore wind power [16], and local efforts continue with various municipalities like Yangpyeong-gun and Gochang-gun promoting integrated renewable energy support projects and holding explanatory sessions to expand their adoption [18, 21, 26]. Notably, Hankook Tire's Hungarian plant has signed a long-term renewable energy Power Purchase Agreement (PPA), contributing to an annual reduction of 10,000 tons of greenhouse gas emissions and the achievement of its '2050 Net Zero' goal [19, 22, 23, 25]. Efforts are also being made to increase efficiency through technological innovation, including discussions on integrating Artificial Intelligence (AI) to enhance renewable energy acceptance [20]. Furthermore, private sector cooperation is active, with organizations like the Korean Veterans Association of Vietnam War and Jungbu Renewable Energy Co., Ltd. signing a strategic Memorandum of Agreement (MOA) to vitalize solar power installation projects [27].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Challenges in Climate Change Adaptation and Energy Transition Systems",
+        "content": "The impacts of climate change are already causing direct damage to the domestic agricultural sector, with Jangsu-gun promoting facility support projects to reduce orchard damage and seeking a new turning point for the apple industry [1]. Meanwhile, as the era of renewable energy dawns, concerns about the Korean-style Electricity Management System (K-EMS) have persisted for over a decade, indicating an urgent need for system improvements to ensure a stable energy transition [28]. In the business community, SK Chairman Chey Tae-won, who was an ESG advocate, has experienced a 'change of circumstances' by mentioning 'energy shortages' [24], highlighting the complex challenge of finding a balance between climate change response and energy security. This suggests complex challenges that must be addressed in the process of climate crisis adaptation and energy system transition.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlights the severity of the climate crisis, alongside the simultaneous domestic and international efforts underway to overcome it. Continued attention and effort are required, and we look forward to seeing you again at the next briefing. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Jangsu County Promotes 'Facility Support Project for Reducing Orchard Damage in Response to Climate Change,' Presenting a New Turning Point for the Apple Industry - Nate",
+      "original_title": "장수군, '기후변화 대응 과원 피해저감 시설지원 사업' 추진…사과 산업의 새로운 전환점 제시 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jcWNCbkNzOFFmRnNqQ3N1M3NwUmw2X29fY1B6UkkxN3JEd3RrR1BOU2dqdkVVYVBZa0xnMW5SUkJPdUZrdUhRUXRlZTBKN3h0Mmpr?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-22T13:52:00",
+      "description": "Jangsu County Promotes 'Facility Support Project for Reducing Orchard Damage in Response to Climate Change,' Presenting a New Turning Point for the Apple Industry",
+      "summary": {
+        "phenomenon": "Jangsu County is implementing a facility support project aimed at mitigating orchard damage caused by climate change.",
+        "cause": "The initiative aims to address the impacts of climate change.",
+        "outlook": "This project is anticipated to mark a significant turning point for the apple industry."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jangsu County",
+        "Climate Change Response",
+        "Orchard Damage Reduction",
+        "Facility Support Project",
+        "Apple Industry"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "장수군, '기후변화 대응 과원 피해저감 시설지원 사업' 추진…사과 산업의 새로운 전환점 제시 네이트"
+    },
+    {
+      "id": "2",
+      "title": "Southern Hemisphere Struck by 'Climate Catastrophe': Record Heatwave Triggers Wildfire Emergency - YTN",
+      "original_title": "남반구 습격한 ‘기후 재앙'...기록적 폭염에 산불 비상 - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SYmVXaHQxZ3lFQ2RlcWh2VkxTM0thTmY5UVlhRklYblVRMERrYWdVZExPcm56Nk9WN2RKM05iLVphaXlvb19wNFNzVlZZRnNOUHhTc25BZ3g4b21mS3fSAYMBQVVfeXFMTV9mQ1J2bTJFNmRvQTQ2aUxBbEVqZHA3WTlqZjQ3SnRlWUhXQjQtME9DOUZIcUwtb0tLVmM2ODZvbGtVczJERERiMHVLVmo1bHc5NmRQVVdVQ0E1ckZ6OG53Tk9SX1hhMXVZYlQtbndkRFhUczZyZV9pWXhGdUtoMV9seDA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-02-22T16:25:00",
+      "description": "Southern Hemisphere Struck by 'Climate Catastrophe': Record Heatwave Triggers Wildfire Emergency",
+      "summary": {
+        "phenomenon": "The Southern Hemisphere is experiencing a record-breaking heatwave, leading to a wildfire emergency.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Southern Hemisphere",
+        "Climate Catastrophe",
+        "Record Heatwave",
+        "Wildfire",
+        "Emergency"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남반구 습격한 ‘기후 재앙'...기록적 폭염에 산불 비상 YTN"
+    },
+    {
+      "id": "3",
+      "title": "Gyeongju City Recruiting Participants for 'Carbon Neutrality Points (Vehicles)' Program - Seoul Economic TV",
+      "original_title": "경주시, ‘탄소중립포인트(자동차)’ 참여자 모집 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JUEVUQ1FXcklHZ20tVVpQc1ZpS3g4c2xGMmRidmhyenA5LUxaMmp2MEN4d1hyTHhla25HNktVeXNMLVFqV1VaZHBTVjk5aFBGdnU2NWFsTFRVQ0hoRlZkQUI3V18?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T13:33:22",
+      "description": "Gyeongju City Recruiting Participants for 'Carbon Neutrality Points (Vehicles)' Program",
+      "summary": {
+        "phenomenon": "Gyeongju City is currently recruiting participants for its 'Carbon Neutrality Points (Vehicles)' program.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongju City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Participant",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경주시, ‘탄소중립포인트(자동차)’ 참여자 모집 서울경제TV"
+    },
+    {
+      "id": "4",
+      "title": "Gyeongju City Offers Cash Rewards for Reduced Vehicle Mileage, Recruiting Participants for Carbon Neutrality Points - hidomin.com",
+      "original_title": "경주시, 자동차 주행거리 줄이면 현금 보상...탄소중립포인트 참여자 모집 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHdDNXUHZQXzFvZmRPcTlueW5iLVlRUW5zS21yZF9IUnBMVHJsbWRLQW4xcUsxTVpVMWF2V3pHV1A0bGdFRkFoZExRNFh6dUxsek12RWxqMFgyaFdnVVVfSXFXeXZRSDRL?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:21:05",
+      "description": "Gyeongju City Offers Cash Rewards for Reduced Vehicle Mileage, Recruiting Participants for Carbon Neutrality Points",
+      "summary": {
+        "phenomenon": "Gyeongju City is recruiting participants for its 'Carbon Neutrality Points' program, offering cash rewards for reducing vehicle mileage.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongju City",
+        "Vehicle Mileage",
+        "Cash Reward",
+        "Carbon Neutrality Points",
+        "Participant Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경주시, 자동차 주행거리 줄이면 현금 보상...탄소중립포인트 참여자 모집 hidomin.com"
+    },
+    {
+      "id": "5",
+      "title": "Gyeongju City Recruiting for Vehicle Carbon Neutrality Points, Offering Up to 100,000 Won - Nocut News",
+      "original_title": "경주시, 자동차 탄소중립포인트 모집…최대 10만원 지급 - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rQVRhaW0yeC02TkZRRFpsdXg1YmZCQTNFY1cyYTNBTTg5QVZ6eTFqYkQzYkxEbENtN09ramlZUVRxY0FNMzQxdnVCUlRVWS0tMUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T10:59:00",
+      "description": "Gyeongju City Recruiting for Vehicle Carbon Neutrality Points, Offering Up to 100,000 Won",
+      "summary": {
+        "phenomenon": "Gyeongju City is recruiting participants for its Vehicle Carbon Neutrality Points program, offering up to 100,000 won to eligible participants.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongju City",
+        "Vehicle",
+        "Carbon Neutrality Points",
+        "Recruitment",
+        "Payment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경주시, 자동차 탄소중립포인트 모집…최대 10만원 지급 노컷뉴스"
+    },
+    {
+      "id": "6",
+      "title": "Gyeongju City Recruiting 800 Participants for Carbon Neutrality Points (Vehicles) - DITNEWS24",
+      "original_title": "경주시, 탄소중립포인트(자동차) 참여자 800대 모집 - 디트NEWS24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WYkFhdzFQNUppcWVYWGFDbWh6ZzVtZktJTzVWRko4NU1Vbi1PRGJxZldteU5lWUo2WllMckpXdFdjRXlpb0c3eXZhLVRQR3ZvUDJrRnk4ZnVuN3M1WnBxdzhPY1R2TjI4cDNv?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T10:52:28",
+      "description": "Gyeongju City Recruiting 800 Participants for Carbon Neutrality Points (Vehicles)",
+      "summary": {
+        "phenomenon": "Gyeongju City is currently recruiting 800 participants for its Carbon Neutrality Points (Vehicles) program.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongju City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Participant",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경주시, 탄소중립포인트(자동차) 참여자 800대 모집 디트NEWS24"
+    },
+    {
+      "id": "7",
+      "title": "“Carbon Neutral Agriculture”: Eumseong Agricultural Technology Center Offers Free Soil Testing Service Year-Round - Eumseong Times",
+      "original_title": "“탄소중립 농업” … 음성군농기센터, 토양검정 서비스 연중 무료 운영 - 음성타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZVkdtQ203OTVYRVJiUXBRekJzQ0lDUldNcEw2YUJ2VDlOc0ZpbkFJOWkxckdWVEItdFpPdDdqM0VMZ1VyZ3hXRDF5MDRpaTVRbUUtdkxrSkxLWDNYNVFHX3FQRWdMU05QMlE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T15:30:46",
+      "description": "“Carbon Neutral Agriculture”: Eumseong Agricultural Technology Center Offers Free Soil Testing Service Year-Round",
+      "summary": {
+        "phenomenon": "The Eumseong Agricultural Technology Center is providing a year-round free soil testing service to support 'Carbon Neutral Agriculture'.",
+        "cause": "This initiative is aimed at promoting 'Carbon Neutral Agriculture'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutral Agriculture",
+        "Eumseong Agricultural Technology Center",
+        "Soil Testing Service",
+        "Free Operation",
+        "Year-Round"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“탄소중립 농업” … 음성군농기센터, 토양검정 서비스 연중 무료 운영 음성타임즈"
+    },
+    {
+      "id": "8",
+      "title": "Pohang City Recruiting Participants for Carbon Neutrality Points (Vehicles) - Iroun.net",
+      "original_title": "포항시, 탄소중립포인트(자동차) 참여자 모집 - 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81VURmR0ZGUTdBMWF6bEFMUkVScThxcGxuVlkyUUJfS0s2b2lYWWhZM2N5dXBlS0xGeFRnSTVsVXJrZ2xaUFJhRFhWXzNfMVhya1Z6QllpS05TZE9RaU9tZnNqWXUzUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T11:51:10",
+      "description": "Pohang City Recruiting Participants for Carbon Neutrality Points (Vehicles)",
+      "summary": {
+        "phenomenon": "Pohang City is currently recruiting participants for its Carbon Neutrality Points (Vehicles) program.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Participant Recruitment",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 탄소중립포인트(자동차) 참여자 모집 이로운넷"
+    },
+    {
+      "id": "9",
+      "title": "Gyeongju City Recruiting Participants for 'Carbon Neutrality Points (Vehicles)' - Sisa News",
+      "original_title": "경주시,‘탄소중립포인트(자동차)’참여자 모 - 시사뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DcnlTaV9vSzFlUUkxQVNYelBVUjR4MXViY0laNlBGZ0VlbzJ5YjU0M0tkOTR2MEhacW13NHl0Q1EtWnNBTFg4bkFfUGh2akF6Zno3SFo3TkM5ZllNbXpsVWJ1dw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T18:09:44",
+      "description": "Gyeongju City Recruiting Participants for 'Carbon Neutrality Points (Vehicles)'",
+      "summary": {
+        "phenomenon": "Gyeongju City is currently recruiting participants for its 'Carbon Neutrality Points (Vehicles)' program.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongju City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Participant Recruitment",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경주시,‘탄소중립포인트(자동차)’참여자 모 시사뉴스"
+    },
+    {
+      "id": "10",
+      "title": "Jinju City Intensifies Climate Response in Citizens' Daily Lives, Accelerating 2050 Carbon Neutrality Efforts - Jeonbuk Maeil Shinmun",
+      "original_title": "진주시, 시민 일상 속 기후 대응 본격화…2050 탄소중립 박차 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MUE0zS2U3RjgtTm5VT05aa1hnalJjcFFMRGxMX3NVV29LbDdkZkd2NW9jb1FfNmE0R3cyWW1xcjJsQ1czMmhzNndRTkdKcUU0OW9nLTBOX3FMcjBLMGtOVXNpQlN4TFlCYktsMERn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:23:02",
+      "description": "Jinju City Intensifies Climate Response in Citizens' Daily Lives, Accelerating 2050 Carbon Neutrality Efforts",
+      "summary": {
+        "phenomenon": "Jinju City is intensifying its climate response efforts within citizens' daily lives.",
+        "cause": "This initiative is aimed at accelerating efforts to achieve the 2050 Carbon Neutrality goal.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jinju City",
+        "Climate Response",
+        "Citizens' Daily Lives",
+        "2050 Carbon Neutrality",
+        "Full-scale Implementation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "진주시, 시민 일상 속 기후 대응 본격화…2050 탄소중립 박차 전국매일신문"
+    },
+    {
+      "id": "11",
+      "title": "KOGAS and Changwon Fatima Hospital 'Join Hands' for Carbon Neutrality Implementation - hidomin.com",
+      "original_title": "가스공사·창원파티마병원, 탄소중립 이행 ‘맞손’ - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Cc2k5c01OYXVhaDBWYnItQ0s4LW5EV1RpalVaUFRITW00SVBBZzk0aHhQX2Q3UXNyYzIzRzJJOWFtSFRwOWJYUl9OaUc0cnh2NGFhTE5jT1R6dmVRYktGM1p1Y1RwbWM3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T10:31:20",
+      "description": "KOGAS and Changwon Fatima Hospital 'Join Hands' for Carbon Neutrality Implementation hidomin.com",
+      "summary": {
+        "phenomenon": "Korea Gas Corporation (KOGAS) and Changwon Fatima Hospital have agreed to collaborate on implementing carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Gas Corporation",
+        "Changwon Fatima Hospital",
+        "Carbon neutrality",
+        "Implementation",
+        "Collaboration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가스공사·창원파티마병원, 탄소중립 이행 ‘맞손’ hidomin.com"
+    },
+    {
+      "id": "12",
+      "title": "Gimcheon City Recruits 450 Vehicles on a First-Come, First-Served Basis for Automobile Carbon Neutrality Point System - hidomin.com",
+      "original_title": "김천시, 자동차 탄소중립포인트제 선착순 450대 모집 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MbHU0alpKT0Jlbkg1VmRhT1RQTFN0YnJ3dTZBUnhpdGoyVnlWYUZYN1NHRTdrNndUNmJrVnZhYlNuS2hXbGY4Wlo5MEZSX196M2x0VmhWNURNblFhczJCT1kzRjFqTDRR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:21:06",
+      "description": "Gimcheon City Recruits 450 Vehicles on a First-Come, First-Served Basis for Automobile Carbon Neutrality Point System hidomin.com",
+      "summary": {
+        "phenomenon": "Gimcheon City is recruiting 450 vehicles on a first-come, first-served basis to participate in the Automobile Carbon Neutrality Point System.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gimcheon City",
+        "Carbon Neutrality Point System",
+        "Automobile",
+        "Carbon neutrality",
+        "Environmental policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "김천시, 자동차 탄소중립포인트제 선착순 450대 모집 hidomin.com"
+    },
+    {
+      "id": "13",
+      "title": "Professor Hwang Se-yeon of Sehan University Holds Lecture to Strengthen Carbon Neutrality Implementation Capabilities - 환경감시일보",
+      "original_title": "세한대 황세연 교수, 탄소중립 실천역량 강화 강연 개최 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PVWxCN3p4SWlodWpUYkVGVFo2ZTEzTFpLSGxMaHJLemM3azFPUW1UOXFhelZMZGFtRUFMRlZfWmdVT0tVa05FclVzTl9OSE0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:42:53",
+      "description": "Professor Hwang Se-yeon of Sehan University Holds Lecture to Strengthen Carbon Neutrality Implementation Capabilities 환경감시일보",
+      "summary": {
+        "phenomenon": "Professor Hwang Se-yeon of Sehan University held a lecture aimed at strengthening practical capabilities for carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sehan University",
+        "Professor Hwang Se-yeon",
+        "Carbon neutrality",
+        "Strengthening practical capabilities",
+        "Lecture"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "세한대 황세연 교수, 탄소중립 실천역량 강화 강연 개최 환경감시일보"
+    },
+    {
+      "id": "14",
+      "title": "\"Finding Solutions to Climate Crisis in Daily Life\"... Daedeok-gu, Daejeon, Activates Carbon Neutrality in 12 Districts - Web Economy",
+      "original_title": "“기후위기, 생활에서 답 찾는다”… 대전 대덕구, 12개 동 탄소중립 가동 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJcnhUcnZpNzRSbHdyOWdRWUt0WjVoSEhOQmlQTWc3Q2pLbmtsTkFVQTdxb3JqT09ZemdLQ3psUHFlcGdkeXlQcEVNZ3FtMVoxMi1HOUVhLVFKd3FRaXpraENuLVBocUtQZ0dEQkdGWWxPdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:22:21",
+      "description": "\"Finding Solutions to Climate Crisis in Daily Life\"... Daedeok-gu, Daejeon, Activates Carbon Neutrality in 12 Districts 웹이코노미",
+      "summary": {
+        "phenomenon": "Daedeok-gu, Daejeon, is initiating carbon neutrality activities across 12 administrative districts to address the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate crisis",
+        "Carbon neutrality",
+        "Daedeok-gu, Daejeon",
+        "Daily life practices",
+        "Local community"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“기후위기, 생활에서 답 찾는다”… 대전 대덕구, 12개 동 탄소중립 가동 웹이코노미"
+    },
+    {
+      "id": "15",
+      "title": "Pohang City Recruits 1,714 Carbon Neutrality Point Participants on a First-Come, First-Served Basis - gukjenews.com",
+      "original_title": "포항시, 탄소중립포인트 참여자 1,714명 선착순 모집 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2TEJUR2I2dmpxeWVBSFFIbDZfSFdJb1JBRWJEU0EtRkVCSGVqOTNRQkgyTFJKbmNfUVpOYVpKajJPTC1aRWJEZk9mbjJaY21STjgwSzBKR2kwN3BaWDZwenNsMU1FYjNGbEJpZG9R?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-02-22T08:24:22",
+      "description": "Pohang City Recruits 1,714 Carbon Neutrality Point Participants on a First-Come, First-Served Basis gukjenews.com",
+      "summary": {
+        "phenomenon": "Pohang City is recruiting 1,714 citizens on a first-come, first-served basis to participate in the Carbon Neutrality Point System.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality Point",
+        "Participant",
+        "Recruitment",
+        "First-come, first-served"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 탄소중립포인트 참여자 1,714명 선착순 모집 gukjenews.com"
+    },
+    {
+      "id": "16",
+      "title": "Hanwha Ocean Appears to Accelerate 'Renewable Energy' Businesses, Including Offshore Wind Power - fetv.co.kr",
+      "original_title": "한화오션, 해상풍력 등 '신재생에너지' 사업 속도내나 - fetv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ZTk5uWTJqNEVST1JJQU9VREp6V1E3QXpEd0hCaVZCUmdHX1ZNTG9McW1nRmVzRnh4YWR3Mm5NQm5MV0ZZcVdpV0d0V0dCeE1UMEEyLVpaVEhVVG91NzhZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T23:00:49",
+      "description": "Hanwha Ocean Appears to Accelerate 'Renewable Energy' Businesses, Including Offshore Wind Power fetv.co.kr",
+      "summary": {
+        "phenomenon": "Hanwha Ocean appears to be accelerating its renewable energy businesses, including offshore wind power.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hanwha Ocean",
+        "Offshore wind power",
+        "Renewable energy",
+        "Business",
+        "Accelerating"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한화오션, 해상풍력 등 '신재생에너지' 사업 속도내나 fetv.co.kr"
+    },
+    {
+      "id": "17",
+      "title": "Annual 2.1 Billion KRW 'Wind Pension'... \"Nurturing the Village's Future with Renewable Energy\" - YTN",
+      "original_title": "연 21억 '바람 연금'...\"재생에너지로 마을 미래 키운다\" - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00Zy1BQ29DcUlvTGpQbnhVd2ZRU1loYTZ6d1ByZ0NkR01xTVNlejdTVWstX1Q0eHpLd1RwMW9Ea0V0cDlrQUs2azc0WXphTUdoY1FDT1RaUW1fb2xoQmfSAYMBQVVfeXFMUElXUzdVU2hYSHNzTW5MM0ZaOE9zcW1ERlJaQWY0TzdxUTN0VkxPeUlLdWJiRnNRZUhVb2RSMlJXaEI0ejZEZUxFWURPVjlGamk0VVNsd2pVVUcxWGJWYXF2RmNIUjlyVmxRR2NaaFBpQ092NGc3VWZ1TE5wR1F2Y1JGN0k?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T17:46:00",
+      "description": "Annual 2.1 Billion KRW 'Wind Pension'... \"Nurturing the Village's Future with Renewable Energy\" YTN",
+      "summary": {
+        "phenomenon": "A case of 'wind pension,' generating an annual revenue of 2.1 billion KRW through renewable energy projects, has been highlighted.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The prospect of nurturing the future of villages through renewable energy has been presented."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Wind pension",
+        "Renewable energy",
+        "Village's future",
+        "2.1 billion KRW",
+        "Local economy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "연 21억 '바람 연금'...\"재생에너지로 마을 미래 키운다\" YTN"
+    },
+    {
+      "id": "18",
+      "title": "Yangpyeong County Implements Integrated Renewable Energy Support Project in Danwol and 5 Other Townships - Gyeonggi Ilbo",
+      "original_title": "양평군, 단월 등 6개면서 신재생에너지 융복합지원 사업 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YcWhBUFlBazFFa3JKdktHbzVKRmlrQWFsaDdsWFFFTXJERHEyT1o2RV93Q1pEZzc3ZzVqVTNOVnl0Rjc4LUhMek5wZlIwLW5ZSWhEQk40Zk9MZkU?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T08:19:00",
+      "description": "Yangpyeong County Implements Integrated Renewable Energy Support Project in Danwol and 5 Other Townships 경기일보",
+      "summary": {
+        "phenomenon": "Yangpyeong County is advancing an integrated renewable energy support project across six townships, including Danwol-myeon.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yangpyeong County",
+        "Renewable energy",
+        "Integrated support",
+        "Project",
+        "Region"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "양평군, 단월 등 6개면서 신재생에너지 융복합지원 사업 경기일보"
+    },
+    {
+      "id": "19",
+      "title": "Hankook Tire's Hungary Plant Signs Long-Term Renewable Energy PPA... Accelerating Towards '2050 Net-Zero' - Biztribune",
+      "original_title": "한국타이어 헝가리공장, 재생에너지 장기 전력구매계약… ‘2050 넷제로’ 속도 - 비즈트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBacFhpNEYxLUZ4dzVsczNLVmRabUE1SjFNN0FfUGRrS1pxakQ5UHV4R2R4YWF3Q2dDcnRTUGJweEZxYnhyM2Y3UXJGbXd3WUFxQldHTXRtbTV5bGRkNlFJM3o5ZmdjMDJMWlozbWctbTM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T22:52:49",
+      "description": "Hankook Tire's Hungary Plant Signs Long-Term Renewable Energy PPA... Accelerating Towards '2050 Net-Zero' 비즈트리뷴",
+      "summary": {
+        "phenomenon": "Hankook Tire's Hungary plant has signed a long-term renewable energy Power Purchase Agreement (PPA).",
+        "cause": "Not mentioned in the article",
+        "outlook": "This is expected to accelerate progress towards achieving the 2050 net-zero target."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hankook Tire",
+        "Hungary plant",
+        "Renewable energy",
+        "Power Purchase Agreement",
+        "2050 Net-zero"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국타이어 헝가리공장, 재생에너지 장기 전력구매계약… ‘2050 넷제로’ 속도 비즈트리뷴"
+    },
+    {
+      "id": "20",
+      "title": "[On-site] \"Enhancing Renewable Energy Acceptability Through AI Integration\" - Nate",
+      "original_title": "[현장] \"AI 접목해 재생에너지 수용성 높여\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UzBFTU1uajdhRmFBalJtTVo5dnBsVjJLNmVqUXAxaEV1WkdjY3hXVkllUFRMNVloa1ZaRzFRc3h3SnJBSHc5UVd3elh3U1hjLW1v?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T23:00:00",
+      "description": "[On-site] \"Enhancing Renewable Energy Acceptability Through AI Integration\" 네이트",
+      "summary": {
+        "phenomenon": "Discussions have taken place regarding methods to enhance the acceptability of renewable energy through the integration of Artificial Intelligence (AI).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Renewable energy",
+        "Acceptability",
+        "Integration",
+        "Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[현장] \"AI 접목해 재생에너지 수용성 높여\" 네이트"
+    },
+    {
+      "id": "21",
+      "title": "Yangpyeong-gun Selected for 2026 Renewable Energy Convergence Support Project - Web Economy",
+      "original_title": "양평군, 2026년 신재생에너지 융복합지원사업 선정 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80U2hfWnNUcmowUkxWNWF0V2R6eC1CMVNpYTdsVVlFTVgyQkp0WlJwNDk2OVBwdXZ0MzloTTUyWGZIc3RwNDJCMVlJdHhjUlJ5SE5kUUx6UXVzU0ZiSWxveWFJX3RwMTZROXMtMTR1R0RmUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T13:39:48",
+      "description": "Yangpyeong-gun Selected for 2026 Renewable Energy Convergence Support Project Web Economy",
+      "summary": {
+        "phenomenon": "Yangpyeong-gun has been selected for the 2026 Renewable Energy Convergence Support Project.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yangpyeong-gun",
+        "2026",
+        "Renewable Energy",
+        "Convergence Support Project",
+        "Selection"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "양평군, 2026년 신재생에너지 융복합지원사업 선정 웹이코노미"
+    },
+    {
+      "id": "22",
+      "title": "Hankook Tire's Hungary Plant Signs Long-Term Renewable Energy Power Purchase Agreement (PPA) - Financial News",
+      "original_title": "한국타이어 헝가리공장, 재생에너지 장기 전력구매계약(PPA) 체결 - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSTZaRXFKR1IyM0N3eUJweDd6ZzV0NWlOR3FyRnNfd3NsT1JNYWNnVG0wZWt6WW5YOGxMejlxTGdrbDhIV090TVZFS19iUXM1eGxhcERGQkhFaVNQaFgxWHhqTWppNl81RHFZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T08:17:16",
+      "description": "Hankook Tire's Hungary Plant Signs Long-Term Renewable Energy Power Purchase Agreement (PPA) Financial News",
+      "summary": {
+        "phenomenon": "Hankook Tire's Hungary plant has signed a long-term renewable energy Power Purchase Agreement (PPA).",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hankook Tire",
+        "Hungary Plant",
+        "Renewable Energy",
+        "Long-Term Power Purchase Agreement",
+        "PPA"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국타이어 헝가리공장, 재생에너지 장기 전력구매계약(PPA) 체결 파이낸셜신문"
+    },
+    {
+      "id": "23",
+      "title": "“10,000 Tons of Greenhouse Gas Reduction Annually” Hankook Tire's Hungary Plant Signs Renewable Energy PPA - ER Economic Review",
+      "original_title": "“연 1만톤 온실가스 감축” 한국타이어, 헝가리공장 재생에너지 PPA 체결 - ER 이코노믹리뷰",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1fQktVRmRscVU5MXFyOW5ONWw4SjR0Wk1YZVYtQ0x5YXgxNWJQLUNZMm9Ka0U3WnNtdm02RW1lYlg0eGFVVkpFM0tiMklnUzlTNGFZc3NtZ0F5LTJMaTRkdWt5QjByTk1xMHlrMw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T12:19:37",
+      "description": "“10,000 Tons of Greenhouse Gas Reduction Annually” Hankook Tire's Hungary Plant Signs Renewable Energy PPA ER Economic Review",
+      "summary": {
+        "phenomenon": "Hankook Tire's Hungary plant has signed a renewable energy PPA.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This agreement is expected to reduce greenhouse gas emissions by 10,000 tons annually."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hankook Tire",
+        "Hungary Plant",
+        "Renewable Energy",
+        "PPA Signing",
+        "Greenhouse Gas Reduction"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“연 1만톤 온실가스 감축” 한국타이어, 헝가리공장 재생에너지 PPA 체결 ER 이코노믹리뷰"
+    },
+    {
+      "id": "24",
+      "title": "[Business World Inside] From ESG Evangelist to “Energy Shortage,” SK Chairman Chey Tae-won’s ‘Change of Circumstances’ - News Today",
+      "original_title": "[재계 인사이드] ESG 전도사에서 “에너지 부족”, SK 최태원 회장의 ‘사정변경’ - 뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BZmxuNXh2Z09XSXd6d1BOU0QxWUZNRnl5QWxsOTFqUXJ0X3JHbDRpTzkxYm41YzlEa2JMV3dwbkFFWXZMdWliQjAxNmluODlBMkFEUEpjX1gxTkRJMXc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T20:06:00",
+      "description": "[Business World Inside] From ESG Evangelist to “Energy Shortage,” SK Chairman Chey Tae-won’s ‘Change of Circumstances’ News Today",
+      "summary": {
+        "phenomenon": "SK Chairman Chey Tae-won is experiencing a 'change of circumstances,' shifting from an ESG evangelist to mentioning 'energy shortage.'",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "SK Chey Tae-won",
+        "ESG",
+        "Energy Shortage",
+        "Change of Circumstances",
+        "Business World"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[재계 인사이드] ESG 전도사에서 “에너지 부족”, SK 최태원 회장의 ‘사정변경’ 뉴스투데이"
+    },
+    {
+      "id": "25",
+      "title": "Hankook Tire Secures 10 Years of Solar Power in Hungary..Strengthening ESG Leadership - Daily Car",
+      "original_title": "한국타이어, 헝가리서 10년치 태양광 전력 확보..ESG 리더십 강화 - 데일리카",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZeEFOaHU2Q29mNmxiMjlqVjhTb1h1WUV5bGdGaGRxa0JYeG1WV1hvVWJPY1JzWEM5cWlhM0N5TWdMbWtCTl9ocy15c2hveDJIVUswQ2ZTNVp1clNCNWc3ZW5NSDRIVElkTWNKYWlQUWVEc2FyTXc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T21:51:01",
+      "description": "Hankook Tire Secures 10 Years of Solar Power in Hungary..Strengthening ESG Leadership Daily Car",
+      "summary": {
+        "phenomenon": "Hankook Tire has secured 10 years' worth of solar power in Hungary.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This is expected to strengthen its ESG leadership."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hankook Tire",
+        "Hungary",
+        "Solar Power",
+        "ESG Leadership",
+        "Securing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국타이어, 헝가리서 10년치 태양광 전력 확보..ESG 리더십 강화 데일리카"
+    },
+    {
+      "id": "26",
+      "title": "Gochang-gun Holds Briefing Session to Support Renewable Energy Supply Expansion - Sports Seoul",
+      "original_title": "고창군,신재생에너지 보급 확대 등 지원 위한 설명회 개최 - 스포츠서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQdFZXOVdoc3ZLZTNrdlYwVlpLTEJPcjc3R0Fpa0pxYzg2dml1MS1tOHB4QVZvY2pWb0dvUE9TbW9tU0RVVWVOLS0xemp5aHhwLVV1QXp6Z2s?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T13:18:04",
+      "description": "Gochang-gun Holds Briefing Session to Support Renewable Energy Supply Expansion Sports Seoul",
+      "summary": {
+        "phenomenon": "Gochang-gun has held a briefing session to support the expansion of renewable energy supply.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gochang-gun",
+        "Renewable Energy",
+        "Supply Expansion",
+        "Support",
+        "Briefing Session"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "고창군,신재생에너지 보급 확대 등 지원 위한 설명회 개최 스포츠서울"
+    },
+    {
+      "id": "27",
+      "title": "Vietnam War Veterans Association and Joongbu Renewable Energy Co., Ltd. Sign Strategic MOA for Solar Installation Project Activation - Environmental Watch Daily",
+      "original_title": "사단법인 베트남참전유공전우연합회와 (주)중부신재생에너지 주식회사가 태양광 설치사업 활성화를 위한 전략적 업무협약(MOA)을 체결 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4ODB3N2hhM2syX2NITFZWczh2RUdxMlZZdlFnUGhUNmlxTVB1U1hXOHc3NVN3ZzJwUHFibzFBYXktbWQ2b3hOX3MtclpmcDg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T09:17:45",
+      "description": "Vietnam War Veterans Association and Joongbu Renewable Energy Co., Ltd. Sign Strategic MOA for Solar Installation Project Activation Environmental Watch Daily",
+      "summary": {
+        "phenomenon": "The Vietnam War Veterans Association and Joongbu Renewable Energy Co., Ltd. have signed a strategic Memorandum of Agreement (MOA) to activate solar installation projects.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Solar Installation Project",
+        "Strategic MOA",
+        "Joongbu Renewable Energy",
+        "Vietnam War Veterans Association",
+        "Activation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "사단법인 베트남참전유공전우연합회와 (주)중부신재생에너지 주식회사가 태양광 설치사업 활성화를 위한 전략적 업무협약(MOA)을 체결 환경감시일보"
+    },
+    {
+      "id": "28",
+      "title": "Is the Korean-style Power Operation System Fake?…Concerns Persist for Over 10 Years [Renewable Energy Era, Evolution of K-EMS ①] - Nate",
+      "original_title": "한국형 전력운영시스템이 가짜?…10년 넘게 이어진 우려 [재생에너지 시대, K-EMS의 진화①] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OZl9YQ0hJbVNHSzNNVm1jOE9LTEtuVTJMT3BUSDdsTWloQm5jMWpxWmExUFBZNVBRaWEyMTRTMkNUdUZteks4LXU0R1psSXNxWjZn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-02-22T21:02:00",
+      "description": "Is the Korean-style Power Operation System Fake?…Concerns Persist for Over 10 Years [Renewable Energy Era, Evolution of K-EMS ①] Nate",
+      "summary": {
+        "phenomenon": "Concerns regarding the Korean-style Power Operation System (K-EMS) have persisted for over 10 years.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Korean-style Power Operation System",
+        "K-EMS",
+        "Fake",
+        "Concerns",
+        "Renewable Energy Era"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국형 전력운영시스템이 가짜?…10년 넘게 이어진 우려 [재생에너지 시대, K-EMS의 진화①] 네이트"
+    },
+    {
+      "id": "29",
+      "title": "AI 데이터 센터 급증, 영국 기후 변화 목표 위협 - 더 타임스",
+      "original_title": "AI data centre surge would put UK’s climate change targets at risk - The Times",
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQU2VDdHdvMkJIc2twNFlSbHEzTkp2dkN1R3BSOXMxWmdXTmt0eTc0Yk5tZUlGLU1GRWpXb25HOTNBb3B0ZGg3N1VZVGszQXV5eUtSeXJrM3VjRnJTZFMzanFQOE1naUl2TDJpOTBycEprOXlxOWpRY040RzVmaFQ4aEVQVXNUQVhMZzdseGpnbWFJSzBnbU9iZ2V2cXQ5MElpSGtSdktqYnhIRjhxWm9jQzJXMjg2YkZUbTYxOFdxcnktREhkejk5d1lVVWM0WkM3RkJOZko4SHZuU3dlWUpBSmtfbWVKLWRWOXJIWktLa0pQN0pkRHFWY2RyZkJNTURBX25FLTltTWlVdE42S25lMExOUW1ia3JoQnp0emtsQ1dzYTVXSks0VHRHMmZDUkZ3ZGZIUVVFSFpyUDkyQnlFQ1JDTUtjSFAxUjdqQUt1WUs4R1MwR2c2UXEwaVFMVnY0VmdVZ0NYOFJxZzVNUmJhSHJvMTJ1N3ZUQ0ZqM00tcU9KVW0tVWJ4X1A1MnhSd3VCcEU0ak04UFVhQjQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T18:30:57",
+      "description": "AI data centre surge would put UK’s climate change targets at risk The Times",
+      "summary": {
+        "phenomenon": "AI data centers are rapidly increasing in the UK.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This surge in AI data centers could threaten the UK's climate change targets."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI",
+        "Data Center",
+        "UK",
+        "Climate Change Targets",
+        "Risk"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "AI data centre surge would put UK’s climate change targets at risk The Times"
+    },
+    {
+      "id": "30",
+      "title": "Less snow, or more risk? What you need to know about avalanches and climate change - The Guardian",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHVmRkdlUFpaSGxWMjcwNVMwUEFmbkNUZ1lMcmR4UnBtaTR2a0ZXWFdWQ0Y2Z0E1WnJlMGVYUWVScWdyejRVSnJfaGJtclBXczVNTmd4Vmo2b18zT2NteTJzWE9LYUVjSXNLYVZyVzY1ZUpxd1I3cFNESHlBdWc1VjgtN2l4aUJKV0tsdVRPbTBiY200VXc2eDloOE1aeDdK?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T09:03:00",
+      "description": "Less snow, or more risk? What you need to know about avalanches and climate change The Guardian",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Scientific background is presented suggesting that climate change may influence avalanche occurrences.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Less snow, or more risk? What you need to know about avalanches and climate change The Guardian"
+    },
+    {
+      "id": "31",
+      "title": "Nicolais: Is Colorado the country’s climate change capital? - The Colorado Sun",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hZVktWnR0dDZWVXUtSi1tbC1EdDJkX2hrQTlWbkpCZTJvNmxCT0FXRDVVSWhocDBIdHBqT2pLWGk2cmtQdGRSYUtjTmhYOUJtQVhfYW5BSVdfdEpvV1BjcTFRRG83TGNsWndxRm5xSGM3OWhGUnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T10:03:00",
+      "description": "Nicolais: Is Colorado the country’s climate change capital? The Colorado Sun",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Nicolais: Is Colorado the country’s climate change capital? The Colorado Sun"
+    },
+    {
+      "id": "32",
+      "title": "Trump’s new attack on climate change will cost all of us more in Charlotte | Opinion - Charlotte Observer",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04NXlvejRxUXFXSWEyZmNDXy1ydTRaS1E2NnBaYW9NOWswZXF6akRLeXBlX3lkRng2MEF3SWFBRnVTVlNRa1NNN0tsZjZrejBaTkVFNFdyd19WeXhQMXdOVFZLSzlUSUZCYjBFbDRDckbSAXBBVV95cUxOQ0FBM1A3XzVLY3hwUnF5aHZBYkhkcjhoOFpSaFpJRVVXNDlmNF96eXNVbXp3SXJBYnd0c0YxN2E2NS1xTlFZTS1ucGUyWlZSVjRlY0pHZTdJcTByUkQwbG9LaE1fSnVCMGNPaGdpREhj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T10:00:00",
+      "description": "Trump’s new attack on climate change will cost all of us more in Charlotte | Opinion Charlotte Observer",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Trump's new stance on climate change is projected to lead to increased costs for all residents in Charlotte."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Trump’s new attack on climate change will cost all of us more in Charlotte | Opinion Charlotte Observer"
+    },
+    {
+      "id": "33",
+      "title": "기후 변화 무시는 우리 미래 세대를 위험에 빠뜨린다",
+      "original_title": "Ignoring climate change endangers our future generations | Spencer Straub - Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQURWdHJ5SjdQLVkwWEZuUmRsZndtTElCbWEtQ2xFaFZfNlZRcm5MbXIzaTZxMzUyd1FqckVIUDFxYUdVNm1nSlRTVkdJYm9WRVRGMWxFd1o3eGhMS2xIb0p2TWc4WFBGVU1lbzlVOVdwUlZXc09YQm1vY2RvVEhWMzRjMC1UMkVYR2YtbS13?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T11:00:00",
+      "description": "Ignoring climate change endangers our future generations | Spencer Straub Wisconsin State Journal",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Ignoring climate change is projected to endanger future generations."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Future generations",
+        "Danger",
+        "Warning",
+        "Ignoring"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Ignoring climate change endangers our future generations | Spencer Straub Wisconsin State Journal"
+    },
+    {
+      "id": "34",
+      "title": "EPA takes giant step backward on global warming: Rooks - Seacoastonline.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1hrQ0FSR2xkYWNLRDJNVi1HQXh1b3Q2aTZLUEp2RnNfSElEZXBnZDh1UGx3N2lDajUxSTQtY1c4emZVWDgyaUZ6VmJnT0FzYVJKQ2NKdWdIbUpzRVhXaTJSaHVMTUduNzBDd0N5QVZPekVsQzVUUGRUbmFVUFRDYVpoQS1DdUdaZlk4NVQtQjFyZktmcldqTlJjMkFEeEtxUk1hTElhYVRkbElMLU03cU43Zk9fQ3JaXzVqenQ2U0ZsajdabXE5TEF3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T10:01:00",
+      "description": "EPA takes giant step backward on global warming: Rooks Seacoastonline.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The U.S. Environmental Protection Agency (EPA) is assessed to be taking a significant step backward on global warming."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "EPA takes giant step backward on global warming: Rooks Seacoastonline.com"
+    },
+    {
+      "id": "35",
+      "title": "기후 변화가 썰매개 삶에 미치는 파괴적인 영향",
+      "original_title": "How Climate Change Wreaks Havoc on Sled Dog Life - Newser",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSEdia3lSaDJ0NWRvM0tpem84LVBOYUhzZDRZNl9IZmhsRTlrVEJnYU1kQWxVSzI3S2tYNkJWUWgxSUhXNHlYb3YxdHVKa0xyZUo5ajR1Wlp2RXFRS2loa1FIN1FpdjAyR1p3SEgxdUQ2UzJkOEFTZFpmTmxrX0pVMUZMd3p2YWItQUlEQ3NiUGpMR0k?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T21:25:00",
+      "description": "How Climate Change Wreaks Havoc on Sled Dog Life Newser",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Climate change is projected to have a devastating impact on the lives of sled dogs."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Sled dog",
+        "Life",
+        "Harm",
+        "Devastation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How Climate Change Wreaks Havoc on Sled Dog Life Newser"
+    },
+    {
+      "id": "36",
+      "title": "기후 변화, 도시의 높은 겨울철 AQI에 영향 - 더 타임즈 오브 인디아",
+      "original_title": "Climate change contributed to high winter AQI in city - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRWltR0U1MWRicjdPa1E0YXFaTmJtYzB5YzFheVlsOWV0NUxyaTI1T2lFdk84amw2VmM5TXhRaGI3eFNrNlI5R1dYT3dNRUVOOVFzSTRtb3A4MUlBZ1lkWjFsc1BHcWEyNzc1RFZ2MjFjdi1UUHVtTkhfdERfU0FwZm1qZHMybEtsRGRPbVJmU0FhMGtpWXkwejRuVTR0UXhHeEFGUkpRWF9EcWdWS2xHOXpGTTk2dEtlVDFUNDNJdlZWOFByWkcw0gHMAUFVX3lxTFA0cm5jY1ZSMG5JTEtOQXVDU2NNejBvd0RRV1Jnc1NZU3RpLUxXc2t3c19oTDFkbzJLeFNyNFJoUk9mZUM3ZVZZc2JMZVRIdHg2NjVsaDZheFhYX1NUek1uMXNacXZza2hTbE1rcDBXY3h4Sng4bW9zU1ltMGNCZ0ZKVHg2RVRvSTJsRVdHLVFLWEhGMmRxNWtHbFdXTVZoSFhScWZkN01YMHdxdmlPUGFRUC1PSjVRNkQ5dHU2OTBQczNqZFMzTFZ2QVJ0MA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-02-22T14:59:00",
+      "description": "Climate change contributed to high winter AQI in city The Times of India",
+      "summary": {
+        "phenomenon": "A city experienced a high Air Quality Index (AQI) during the winter season.",
+        "cause": "Climate change contributed to the high winter AQI in the city.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Winter",
+        "Air pollution",
+        "AQI",
+        "City"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change contributed to high winter AQI in city The Times of India"
+    },
+    {
+      "id": "37",
+      "title": "경찰 출신 범죄 조직 두목, 네메시오 '엘 멘초' 오세게라 피비린내 나는 유산 남겨 - 로이터",
+      "original_title": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM01ndUF4Q242Y05abjdDazR4Mkg1NEIxMjRKazF6T3RuOTFSa3d2OGpudkdBNjd1ZlBPZHM3NTRQM0NCMENxOFBpVGlrWlloM1ZyNW1EWUNpLXBZS3FJX1Fld3hCM2VTZWtrZTl3S0dlMFFabU1jRjdvNHFmOENlM2wzTnlJa2R0bFZRUmVYZlRtOUZSSEtuSEJvYmg2RDNCRVV5MGt3azJFXzhQUWxGMXFxcktEQWlVX2lnYw?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-02-22T20:54:49",
+      "description": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy Reuters",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Crime boss",
+        "Nemesio Oseguera",
+        "El Mencho",
+        "Bloody legacy",
+        "Reuters"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Cop turned crime boss, Nemesio 'El Mencho' Oseguera leaves bloody legacy Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 37,
+    "domestic_count": 28,
+    "international_count": 9,
+    "top_keywords": [
+      "Carbon Neutral Points",
+      "Car",
+      "Carbon Neutrality",
+      "Gyeongju",
+      "Renewable Energy"
+    ],
+    "sentiment_breakdown": {
+      "positive": 25,
+      "negative": 7,
+      "neutral": 1
+    },
+    "original_top_keywords": [
+      "탄소중립포인트",
+      "자동차",
+      "탄소중립",
+      "경주시",
+      "재생에너지"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
