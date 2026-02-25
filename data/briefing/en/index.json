@@ -1,7 +1,8 @@
 {
   "language": "en",
-  "last_updated": "2026-02-25T08:34:36.746371",
+  "last_updated": "2026-02-25T23:23:19.399908",
   "available_dates": [
+    "2026-02-26",
     "2026-02-25",
     "2026-02-24",
     "2026-02-23",
@@ -75,205 +76,6 @@
     "2025-12-17"
   ],
   "dates_detail": {
-    "2026-01-31": [
-      {
-        "period": "morning",
-        "file": "2026-01-31-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-31-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-03": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-03-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-03-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-19": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-19-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-19-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-23": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-23-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-23-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-24": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-24-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-24-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-15": [
-      {
-        "period": "morning",
-        "file": "2026-01-15-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-15-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2025-12-17": [
-      {
-        "period": "full",
-        "file": "2025-12-17.json",
-        "period_label": "Full"
-      }
-    ],
-    "2026-01-26": [
-      {
-        "period": "morning",
-        "file": "2026-01-26-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-26-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-22": [
-      {
-        "period": "morning",
-        "file": "2026-01-22-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-22-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-06": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-06-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-06-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-31": [
-      {
-        "period": "morning",
-        "file": "2025-12-31-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2025-12-31-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-05": [
-      {
-        "period": "morning",
-        "file": "2026-02-05-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-05-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-22": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-22-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-22-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-15": [
-      {
-        "period": "morning",
-        "file": "2026-02-15-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-15-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-29": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-29-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-29-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-14": [
-      {
-        "period": "morning",
-        "file": "2026-01-14-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-14-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-30": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-30-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-30-morning.json",
-        "period_label": "Morning"
-      }
-    ],
     "2026-01-07": [
       {
         "period": "morning",
@@ -284,42 +86,6 @@
         "period": "afternoon",
         "file": "2026-01-07-afternoon.json",
         "period_label": "Afternoon"
-      }
-    ],
-    "2025-12-26": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-26-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-26-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-28": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-28-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-28-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-16": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-16-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-16-morning.json",
-        "period_label": "Morning"
       }
     ],
     "2025-12-25": [
@@ -334,342 +100,6 @@
         "period_label": "Afternoon"
       }
     ],
-    "2026-01-02": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-02-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-02-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-21": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-21-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-21-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-21": [
-      {
-        "period": "morning",
-        "file": "2026-01-21-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-21-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-09": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-09-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-09-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-14": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-14-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-14-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-27": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-27-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-27-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-03": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-03-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-03-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-04": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-04-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-04-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-05": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-05-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-05-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-30": [
-      {
-        "period": "morning",
-        "file": "2025-12-30-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2025-12-30-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2025-12-19": [
-      {
-        "period": "morning",
-        "file": "2025-12-19-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2025-12-19-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-24": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-24-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-24-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-01": [
-      {
-        "period": "morning",
-        "file": "2026-01-01-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-01-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-10": [
-      {
-        "period": "morning",
-        "file": "2026-02-10-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-10-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-23": [
-      {
-        "period": "morning",
-        "file": "2026-01-23-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-23-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-13": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-13-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-13-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-23": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-23-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-23-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-10": [
-      {
-        "period": "morning",
-        "file": "2026-01-10-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-10-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-02": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-02-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-02-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-08": [
-      {
-        "period": "morning",
-        "file": "2026-02-08-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-08-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-06": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-06-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-06-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-20": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-20-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-20-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-11": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-11-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-11-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-09": [
-      {
-        "period": "morning",
-        "file": "2026-02-09-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-09-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-18": [
-      {
-        "period": "morning",
-        "file": "2026-01-18-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-18-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-20": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-20-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-20-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-17": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-17-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-17-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-04": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-04-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-04-morning.json",
-        "period_label": "Morning"
-      }
-    ],
     "2026-02-13": [
       {
         "period": "morning",
@@ -679,78 +109,6 @@
       {
         "period": "afternoon",
         "file": "2026-02-13-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-07": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-07-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-02-07-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-12": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-12-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2026-01-12-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2025-12-29": [
-      {
-        "period": "afternoon",
-        "file": "2025-12-29-afternoon.json",
-        "period_label": "Afternoon"
-      },
-      {
-        "period": "morning",
-        "file": "2025-12-29-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-01-08": [
-      {
-        "period": "morning",
-        "file": "2026-01-08-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-08-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-01-25": [
-      {
-        "period": "morning",
-        "file": "2026-01-25-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-01-25-afternoon.json",
-        "period_label": "Afternoon"
-      }
-    ],
-    "2026-02-21": [
-      {
-        "period": "morning",
-        "file": "2026-02-21-morning.json",
-        "period_label": "Morning"
-      },
-      {
-        "period": "afternoon",
-        "file": "2026-02-21-afternoon.json",
         "period_label": "Afternoon"
       }
     ],
@@ -766,27 +124,195 @@
         "period_label": "Afternoon"
       }
     ],
-    "2026-01-19": [
-      {
-        "period": "afternoon",
-        "file": "2026-01-19-afternoon.json",
-        "period_label": "Afternoon"
-      },
+    "2026-01-28": [
       {
         "period": "morning",
-        "file": "2026-01-19-morning.json",
+        "file": "2026-01-28-morning.json",
         "period_label": "Morning"
-      }
-    ],
-    "2026-01-28": [
+      },
       {
         "period": "afternoon",
         "file": "2026-01-28-afternoon.json",
         "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-08": [
+      {
+        "period": "morning",
+        "file": "2026-02-08-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-02-08-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-14": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-14-afternoon.json",
+        "period_label": "Afternoon"
       },
       {
         "period": "morning",
-        "file": "2026-01-28-morning.json",
+        "file": "2026-01-14-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-01": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-01-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-01-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-13": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-13-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-13-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-15": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-15-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-15-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-31": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-31-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-31-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-11": [
+      {
+        "period": "morning",
+        "file": "2026-01-11-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-11-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-08": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-08-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-08-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-09": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-09-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-09-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-11": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-11-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-11-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-24": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-24-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-24-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-15": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-15-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-15-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-10": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-10-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-10-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-29": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-29-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-29-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-24": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-24-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-24-morning.json",
         "period_label": "Morning"
       }
     ],
@@ -802,6 +328,102 @@
         "period_label": "Afternoon"
       }
     ],
+    "2026-02-05": [
+      {
+        "period": "morning",
+        "file": "2026-02-05-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-02-05-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-07": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-07-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-07-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-05": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-05-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-05-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-06": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-06-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-06-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-04": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-04-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-04-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-26": [
+      {
+        "period": "morning",
+        "file": "2025-12-26-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-26-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-19": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-19-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-19-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-23": [
+      {
+        "period": "morning",
+        "file": "2026-01-23-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-23-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
     "2026-02-16": [
       {
         "period": "morning",
@@ -814,70 +436,221 @@
         "period_label": "Afternoon"
       }
     ],
-    "2026-02-25": [
-      {
-        "period": "afternoon",
-        "file": "2026-02-25-afternoon.json",
-        "period_label": "Afternoon"
-      },
+    "2026-01-22": [
       {
         "period": "morning",
-        "file": "2026-02-25-morning.json",
-        "period_label": "Morning"
-      }
-    ],
-    "2026-02-11": [
-      {
-        "period": "morning",
-        "file": "2026-02-11-morning.json",
+        "file": "2026-01-22-morning.json",
         "period_label": "Morning"
       },
       {
         "period": "afternoon",
-        "file": "2026-02-11-afternoon.json",
+        "file": "2026-01-22-afternoon.json",
         "period_label": "Afternoon"
       }
     ],
-    "2026-01-24": [
+    "2026-02-21": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-21-afternoon.json",
+        "period_label": "Afternoon"
+      },
       {
         "period": "morning",
-        "file": "2026-01-24-morning.json",
+        "file": "2026-02-21-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-27": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-27-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-27-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-20": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-20-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-20-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-23": [
+      {
+        "period": "morning",
+        "file": "2025-12-23-morning.json",
         "period_label": "Morning"
       },
       {
         "period": "afternoon",
-        "file": "2026-01-24-afternoon.json",
+        "file": "2025-12-23-afternoon.json",
         "period_label": "Afternoon"
       }
     ],
-    "2026-02-01": [
+    "2026-01-06": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-06-afternoon.json",
+        "period_label": "Afternoon"
+      },
       {
         "period": "morning",
-        "file": "2026-02-01-morning.json",
+        "file": "2026-01-06-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-17": [
+      {
+        "period": "morning",
+        "file": "2026-02-17-morning.json",
         "period_label": "Morning"
       },
       {
         "period": "afternoon",
-        "file": "2026-02-01-afternoon.json",
+        "file": "2026-02-17-afternoon.json",
         "period_label": "Afternoon"
       }
     ],
-    "2025-12-18": [
+    "2026-01-26": [
       {
         "period": "afternoon",
-        "file": "2025-12-18-afternoon.json",
+        "file": "2026-01-26-afternoon.json",
         "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-26-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-30": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-30-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-30-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-19": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-19-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-19-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-17": [
+      {
+        "period": "full",
+        "file": "2025-12-17.json",
+        "period_label": "Full"
+      }
+    ],
+    "2026-02-22": [
+      {
+        "period": "morning",
+        "file": "2026-02-22-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-02-22-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-12": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-12-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-12-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-24": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-24-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-24-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-26": [
+      {
+        "period": "morning",
+        "file": "2026-02-26-morning.json",
+        "period_label": "Morning"
       }
     ],
     "2026-01-27": [
       {
+        "period": "afternoon",
+        "file": "2026-01-27-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
         "period": "morning",
         "file": "2026-01-27-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-30": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-30-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-30-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-10": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-10-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-10-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-25": [
+      {
+        "period": "morning",
+        "file": "2026-02-25-morning.json",
         "period_label": "Morning"
       },
       {
         "period": "afternoon",
-        "file": "2026-01-27-afternoon.json",
+        "file": "2026-02-25-afternoon.json",
         "period_label": "Afternoon"
       }
     ],
@@ -893,6 +666,138 @@
         "period_label": "Morning"
       }
     ],
+    "2026-01-09": [
+      {
+        "period": "morning",
+        "file": "2026-01-09-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-09-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-19": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-19-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-19-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-25": [
+      {
+        "period": "morning",
+        "file": "2026-01-25-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-25-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-23": [
+      {
+        "period": "morning",
+        "file": "2026-02-23-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-02-23-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2025-12-28": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-28-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-28-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-18": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-18-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-18-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-04": [
+      {
+        "period": "morning",
+        "file": "2026-01-04-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-04-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-31": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-31-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-31-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-03": [
+      {
+        "period": "morning",
+        "file": "2026-01-03-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-03-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-03": [
+      {
+        "period": "morning",
+        "file": "2026-02-03-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-02-03-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2025-12-21": [
+      {
+        "period": "morning",
+        "file": "2025-12-21-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2025-12-21-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
     "2025-12-22": [
       {
         "period": "morning",
@@ -905,19 +810,122 @@
         "period_label": "Afternoon"
       }
     ],
-    "2026-02-18": [
+    "2026-01-02": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-02-afternoon.json",
+        "period_label": "Afternoon"
+      },
       {
         "period": "morning",
-        "file": "2026-02-18-morning.json",
+        "file": "2026-01-02-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-02-02": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-02-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-02-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-20": [
+      {
+        "period": "morning",
+        "file": "2025-12-20-morning.json",
         "period_label": "Morning"
       },
       {
         "period": "afternoon",
-        "file": "2026-02-18-afternoon.json",
+        "file": "2025-12-20-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-21": [
+      {
+        "period": "morning",
+        "file": "2026-01-21-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-21-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-02-14": [
+      {
+        "period": "afternoon",
+        "file": "2026-02-14-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-02-14-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-18": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-18-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-18-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-29": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-29-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2025-12-29-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2026-01-01": [
+      {
+        "period": "afternoon",
+        "file": "2026-01-01-afternoon.json",
+        "period_label": "Afternoon"
+      },
+      {
+        "period": "morning",
+        "file": "2026-01-01-morning.json",
+        "period_label": "Morning"
+      }
+    ],
+    "2025-12-18": [
+      {
+        "period": "afternoon",
+        "file": "2025-12-18-afternoon.json",
+        "period_label": "Afternoon"
+      }
+    ],
+    "2026-01-16": [
+      {
+        "period": "morning",
+        "file": "2026-01-16-morning.json",
+        "period_label": "Morning"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-01-16-afternoon.json",
         "period_label": "Afternoon"
       }
     ]
   },
-  "latest": "2026-02-25-afternoon",
-  "total_briefings": 140
+  "latest": "2026-02-26-morning",
+  "total_briefings": 141
 }
