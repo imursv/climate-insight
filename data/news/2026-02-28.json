@@ -1,16 +1,16 @@
 {
   "date": "2026-02-28",
   "metadata": {
-    "collected_at": "2026-02-27T23:15:37.141782",
-    "total_articles": 64,
+    "collected_at": "2026-02-28T08:08:23.078847",
+    "total_articles": 85,
     "sources": {
-      "korean": 36,
-      "international": 28
+      "korean": 53,
+      "international": 32
     },
     "sentiment_distribution": {
-      "positive": 37,
-      "negative": 17,
-      "neutral": 4
+      "positive": 47,
+      "negative": 22,
+      "neutral": 6
     }
   },
   "articles": [
@@ -1651,6 +1651,515 @@
       "keywords_matched": [
         "COP"
       ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e44abc5de0dc4c54",
+      "title": "[날씨칼럼] 기후위기 시대, 우리가 선택할 ‘미래의 시나리오’ - 국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTFlQUHAxN0p1QjZCT3NNeUlWZnB3OEZiRGptOFE1amI5OFg1N2F1QTF0OVNISjBmTGdwckRob20wYWNvQXlXYUVjbFl5SzZQc1ZGQ2NKNzAzUklCVi1EcEdHX0FmeTNSRjZtYjMxeHU2Tm9GMWlwVmJyb1EzWWdhR3JQRlZZUlJSWmkwUUF3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T07:19:00",
+      "collected_at": "2026-02-28T08:05:46.110728",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "미래",
+          "시나리오",
+          "선택",
+          "날씨칼럼"
+        ]
+      }
+    },
+    {
+      "id": "745f6c4428648604",
+      "title": "기후위기로 눈사태 줄었다...뜻밖의 생태 변화 - 뉴스펭귄",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91LVVPcmk3endFZVh1RjJmZzdWdjZEdURtTmNHX185aXJRaHpzWlk4UU1KSFFvbGtuYXhOOHJNcFZUNmVoTUtIWDVhRTQxTkxJb2pWYVJZUVdIZm1rRmZ4SEJpV0JMczFaajh2WUhn0gFyQVVfeXFMTkd4LXFJODFTc2lEdEp2d3lnVUhWSkpyRGl4eElzYmhyUnlaRzVJR1ZEa3V5d3ZZTXFYS3hSenFsZF8tNnk0akhqVm1nNDRHSklTOFZyY2l1SzNGUlZLQ0F5M3NtbUctTzNrRGFVMU81SWdB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:00:00",
+      "collected_at": "2026-02-28T08:05:46.110760",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "눈사태",
+          "생태 변화",
+          "감소",
+          "뜻밖의"
+        ]
+      }
+    },
+    {
+      "id": "331edabad2462522",
+      "title": "\"美 195개 도시 '9일 짧아진 겨울'…한파는 역대급, 지구온난화 역설\" - 넷제로뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KWTB4NzRtMGZ6R0JMeUFlOU1CTUc3dGhaWlZXbkRzTnpJUmRnenFpcEFveHRXTWJLOHN3aU94N0NWSDI5SE1YZXVrdGJHTUJzMEZNZWZPSzMxWWFWUWpQcmZOV2JZSWEtdGc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:44:56",
+      "collected_at": "2026-02-28T08:05:46.110790",
+      "keywords_matched": [
+        "지구온난화",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "겨울 단축",
+          "역대급 한파",
+          "지구온난화",
+          "기후 역설"
+        ]
+      }
+    },
+    {
+      "id": "bde20a2fb3ced7ad",
+      "title": "[경북] 기후위기 대응 현장 네트워크 강화, 2026년 복숭아 병해충 예찰단 본격 가동 - 월간친환경",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NYkdfOEtjdzlkQzhMOGpSRzRnUW81MEZLNTBtazNRcTZYWHJVZjRQNXUxS2VYWnFkZkpPWDV6ZnNRZXNaekhhYjAzY2ZzZUN3ZlBPbURPQ3B5ZWV2b3FGQTJDYzhwYk1HM0VkcDhpaDN5dw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:55:46",
+      "collected_at": "2026-02-28T08:05:46.110842",
+      "keywords_matched": [
+        "기후위기",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경북",
+          "기후위기 대응",
+          "현장 네트워크",
+          "복숭아 병해충",
+          "예찰단"
+        ]
+      }
+    },
+    {
+      "id": "eda0cd5616f0c85f",
+      "title": "K-water, 기후위기 속 녹조 대응 고도화 - 충청일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43TE04RU5xMVlvRHFrY3lkdnF1M0tKZTRnbndLYnNWNHhpakdyNFQzNzhWWDdkX2g3aFJiM0FVMmRjU1RqNmhxWlhZUWtxUWphNGJMNDlDUFEtTDZFa1JydHU2T2xZTGJURXB3dDBVQ1o?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T02:57:36",
+      "collected_at": "2026-02-28T08:05:46.111019",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "K-water",
+          "기후위기",
+          "녹조",
+          "대응",
+          "고도화"
+        ]
+      }
+    },
+    {
+      "id": "d076eac3291dff79",
+      "title": "많은 국가들이 '극심한 폭염'이 예상되는 여름이라고 경고하고 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PemJzYXJ6QjUtbGpIVkFjWTZNRVo5UHVQQlVXTnlyLW9JRTdHaXUtRnFOUi1QVTJnbFlUellvQk9mYnZaTWwtNjZNemlIX1ZTX2ktSWtnQTFIbW9uYk9WQ2JjVG9GeWt3OUlMNm1mVGE3a0VvbHc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T06:10:49",
+      "collected_at": "2026-02-28T08:05:46.111710",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "극심한 폭염",
+          "경고",
+          "국가들",
+          "여름",
+          "예상"
+        ]
+      }
+    },
+    {
+      "id": "ee5a1193b1e19f76",
+      "title": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNN2NVWGxCWmo2aWEyRmJ2eXJjb011TkUxZmRIWUNiRU95WVB1ZEdQclB0WnhZSmxfcUxrQ3pRakZOc1FOclJNWW5XdXk3dmdlbk81aHJkRFhTS0Z1QU5SSkRpSEJ6eXkxV0FWVjFXY2JNOW9ORmV0ZFhWcnZxUGJtaTRXMW5DaDZkZ2VwR3hjcnNlb3ZNT3JnWVJWc2Y5RG5DdTRZN2NCRzl3blpzcHRiSTl4QU10Q1FvSXdkZ3lpaHZfVEpGSzc2THpYY0EwM1hpRGJEVTA0cDNJUWhOeDREQ084VXQ2V1U?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-27T19:05:02",
+      "collected_at": "2026-02-28T08:05:46.059033",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "국가기후위기대응위원회",
+          "대통령직속",
+          "기후위기",
+          "대응",
+          "위원회"
+        ]
+      }
+    },
+    {
+      "id": "787bab85e542c94c",
+      "title": "‘재생원료 사용제품’ 구매 시 ‘탄소중립포인트’ 지급 연계 - 에코타임스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NaVhUMEllUndqX3JwUFk3Vi04V05wYnZOZnZhLXdtdWZfQWFxNUNoaWxvUjNxNDd2ZDE0R2w2SGtVcF9tWDFPN1ZSbXJVN0dvaVBjM2hhVlBMa0tpX2I2UnM3NHFFTE9NVnpjcdIBb0FVX3lxTFBocUl2U1ByVlJadHpiXzJmeEVBeFZRbml0dzFXVlVPOFBTYmUzX3F3TkM1ZmQ1SGU4QU1OaUxCcTQwcUlGbVAwcHd4OUNLRkc3YzVLTE5aSFQ3bDBmMzFhSVdGcGxFNF9mbDlLWUY1NA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:23:20",
+      "collected_at": "2026-02-28T08:05:46.059068",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생원료 사용제품",
+          "탄소중립포인트",
+          "구매",
+          "지급 연계",
+          "친환경 소비"
+        ]
+      }
+    },
+    {
+      "id": "f60a974ca354f6b8",
+      "title": "현대백화점 “자체 친환경 활동 ‘탄소중립포인트제’ 포함” - 뉴스펭귄",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oQlVZMDBtQ2Z1bE9Oc3dHeFhvM0haYTU1NHBFalREODhFbGxTUWswOUNxczl1NEZUbk5CSjJYbUNJVl9QUUxTbnJ4TFNFbGxYM2lhU0lZbHE3NU50TUdGNjFUOU1uajhzOExBWVJn0gFyQVVfeXFMTjM0LXFMVHZWRTZESTJ4alF1Z2pncFZUVmFVTVJibVRGcnVsWmxuZFdGaDJUN0xBUWI4RUpVTnVNMzVwczNpcnFRNFNnak5FaG54SlExZ1lYS3ZVc0RTT2lPdmxjWElCMmprVENHVlJHVE1R?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T01:30:00",
+      "collected_at": "2026-02-28T08:05:46.059101",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립포인트제",
+          "친환경 활동",
+          "탄소중립",
+          "자체"
+        ]
+      }
+    },
+    {
+      "id": "6e062204c2c2b881",
+      "title": "‘자원순환·탄소중립 실천’...영암군지속협 정관 의결 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE14NF9Oc3c4a01PYUdZc3QwX0hWYk1BS0R6QXlwM2hZblF2WVE1NFZ0MWhRUXlGWnlGbXFGencyRHBPck0yak9YMC0tX3BUZ1NzTmF5SVJnT2R6dG5BcHFyWTlyemxNcXM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T02:11:23",
+      "collected_at": "2026-02-28T08:05:46.059129",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "자원순환",
+          "탄소중립",
+          "영암군지속협",
+          "정관",
+          "의결"
+        ]
+      }
+    },
+    {
+      "id": "2044afd72a23694f",
+      "title": "인천시, 공공부문 탄소중립 실천 가속화 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ZX1lMTW0zSGpPZzlicEwwQ2lxVVJ1VHR1eWFYa1N0cEhIbmphbEZuYTNZa3p2WW1GVWNKMUlGaXZRazFfbGNXVjNaTERvQWltR1lxNlQyYmNQS0lrNEY4?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:48:46",
+      "collected_at": "2026-02-28T08:05:46.059155",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "공공부문",
+          "탄소중립",
+          "실천",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "3cb067c23f5de31b",
+      "title": "[오늘의 국회 에너지 입법 : 전기차 화재 시 기존 소화설비 진압 어려워] - 에너지플랫폼뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUWhQRG95dWRvakZBVi1UMndwV1FSazA3aEhkeHdrMWRDbHhvUUNJa3dzU29fRTI2Q0plTDJoa0J2YjRmaTF5NWU3YktxTU9oeFZFdVBqQlRuQWppNGhkNjIwdlZlTm5HTWZ4RdIBcEFVX3lxTE9ROVJob2d6bHlaWHhZWHNjZzlxd0lQbllsMWp6RDlmRWswSjF5bzlvODZUTGFyeWtqcTMzdnRJU3RGQ1lYQ0kteFRRN1VCWnQ5T0x4VTlNUGJZOTBCVWJ2NkRCSXZjNG1NLXNZcWNGRTI?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-02-27T22:35:36",
+      "collected_at": "2026-02-28T08:05:46.059307",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "국회",
+          "에너지 입법",
+          "전기차",
+          "화재",
+          "소화설비"
+        ]
+      }
+    },
+    {
+      "id": "2ff43b6d7fd92d6e",
+      "title": "충북도, 수소·재생에너지 전환 가속 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HM0pzZkYxd3NxWnRTQ3lHY1JGenpXU1hETTVxN1hZYk1HSU0zX0Q2NUgzUXBPM0JGcUhsUGV4Y1llTHdScUZUb1Fwa3lNSjBzczN2ekpBVGVoeFVwRjAwV2RqY1ozaHQwSXl0elZR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:07:07",
+      "collected_at": "2026-02-28T08:05:46.005396",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충북도",
+          "수소",
+          "재생에너지",
+          "전환",
+          "가속"
+        ]
+      }
+    },
+    {
+      "id": "8ed7ffd3694644f6",
+      "title": "전북지역 재생에너지 확산에 '힘 모아' - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aNkRiVHJUWnA5NU5IeDl2T3FkSTZ5S2ZrLWxvNG9pU3R0U3BmdzU0RTFkcnB3Rmd6X0dCeEZEeXpSQWJLZW5qd2xyak1SZHE3THdzQU90VUxySE8xdWZHSzllREg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T06:41:08",
+      "collected_at": "2026-02-28T08:05:46.005556",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8ef8f35d218327a2",
+      "title": "남부발전, AI·드론 점검 공개…재생에너지 안전시장 선점 - thepowernews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FRUJlc0VxZUxxZ0gtd0tQRXB0cm10MWNMdEdzR1pPNTFPQ000cXlEcXdkRHNqdlkzYTMwMVpndkw5Vy1fZWktRGIzWUhISldweUhvTEZpbm5yNlpJOWw0YTk5SDVOUjRBU3o5OWJKRHBoeE00Nng5a1VaSS15QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:28:32",
+      "collected_at": "2026-02-28T08:05:46.005608",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남부발전",
+          "AI",
+          "드론",
+          "재생에너지",
+          "안전시장"
+        ]
+      }
+    },
+    {
+      "id": "b3c74250c9080201",
+      "title": "더불어민주당 안호영 의원“현대차 새만금 투자, 수소·재생에너지 전략 성과…이젠 실행이 과제” - 투어코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJcWliMHVPLS1UekU2OEVzVlByRF9yWGQ0NDRtU1BjdERfYTE4blk1eU5LTk8zM1p1RDYzNXRoajVpcDZ5eFl1N09yVVVqOTlyVnhHTzNVekVGTERHZllEZDFnYVppQndYNVJNMHNB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T03:35:17",
+      "collected_at": "2026-02-28T08:05:46.005754",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "새만금",
+          "투자",
+          "수소",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "3a08cc9d176da1f6",
+      "title": "안호영 “현대차 새만금 투자, 수소·재생에너지 전략 연장선…실행력 확보 중요” - 여성종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90MXFTd1cxZDZwQlZVOVZDVWREdkY2YkhfUEhpdzRXdGNuck5lbTZBN3R2Y0RUQmp5MFFjXzV4bTN6QVc4bWpiQmRUbktpeWZQNW5jdFNWRHFEUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-02-28T00:25:24",
+      "collected_at": "2026-02-28T08:05:46.005828",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "새만금",
+          "수소",
+          "재생에너지",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "02cd3f3965b561b1",
+      "title": "Applying One Health Bioethical Principles to Climate Change: The Planetary Patient Paradigm - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQzFsRlJCME0wdG9xMTkwLUhOUjMtSXQ2T3lLcFEwRlhuWHllMndySzlWOXZqZ2FyODk3eW5jYXRnLVhjUk9XdnJmWFIxQUFIOVI2QlNlQ01KRWloNm5SXy1FbFlEVG9LSnlQU3BnaXdUVUdRYnE1Qlh2ZkRvanB6LVBhblVfdkpwZ3kzR2NQQ2tWa3NIRGFfcGRZUDJWN013eFBWN1hrbmZQZFN5Z0RpZ2lBd2ZoTUo3VzBwOWVjT0dWLUNCYXV3Rg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-28T00:17:49",
+      "collected_at": "2026-02-28T08:05:48.556251",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화에 원 헬스 생명윤리 원칙 적용: 행성 환자 패러다임 - 큐리어스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원 헬스",
+          "생명윤리",
+          "기후 변화",
+          "행성 환자",
+          "패러다임"
+        ]
+      }
+    },
+    {
+      "id": "4e7ef86d6a971931",
+      "title": "Mountain soils in arid regions may emit more greenhouse gas as climate shifts, new study finds - EurekAlert!",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EaEpqMTM5UXM4TE5lSHNNUkxzMGlRYk9lc2RpcThzTE5XZDByRkVpX2tDTzI4RlNieGg2UTh6ei1uT3E1TmQ5WXJLX3h6SlNEc0xnWU90UndzWE5S?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-27T23:30:53",
+      "collected_at": "2026-02-28T08:05:48.556745",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "33624bcfff44686c",
+      "title": "‘Species are showing how flexible they are in adapting to climate change’ - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObUpQSVJOclR4RzdnUlBzd0FlcjViaXYzSmNBYW93OUlFZzI1MjdkaDFtR0FncXVWRnNPNTBJZjZCYzRxVXZyYkRjUXJQc2RHaXpad0Q0aTVCMnoxdVlsUENsZXZkaEVSUlZaQ3E1VUowb2FZa3h3ejc5eFk5R1JwaU1MdllfSVU4c1JBU3ktSmVzSno0R3lmUlVFUGNrM2l3UE1GeXBSXzR2NnVKcTg2R01zMHoxeE5fVFNrMFFMcW1leVo1MzM1YVBkVFJJUFJYWEszRXZIUk03SFplS1ltQTdB0gHoAUFVX3lxTE1RblF1MzllbEYycU01OExnblNxVUt6bkw0ZU5KY3BBTE8telk2UGN5N2JWdmtvRkJQRWEzOHBFci1zREdEeExIOUpIYkN6UkQzRHpHS3Y4VHdSa2JEd1FCSk9HcTdaWFdSU284NWFHQnY3ZWMtZzUzRFkzbXNVUHFvUFZhRzctU0dPRWo1Y2p0dkRfYU53QVgxVHkyVVZSZ2NlNmJkS0E1d0cxWDFOWFlNaU9uQk1GNEU5YURpSnE3Y0RLODItVnItUERhM3Y4Y3M5N2F0R3ZKS0J3TFVMQzFBVW9ZVVd2U2w?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-02-28T02:30:00",
+      "collected_at": "2026-02-28T08:05:48.557032",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e615c032da77b22e",
+      "title": "‘I live in constant fear’: surge in giant sinkholes threatens Turkey’s farmers",
+      "link": "https://www.theguardian.com/world/2026/feb/28/i-live-in-constant-fear-surge-in-giant-sinkholes-threatens-turkeys-farmers",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-02-28T07:00:05",
+      "collected_at": "2026-02-28T08:05:48.334527",
+      "keywords_matched": [],
       "translation": null,
       "sentiment": null,
       "keywords": null
