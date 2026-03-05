@@ -1,16 +1,16 @@
 {
   "date": "2026-03-05",
   "metadata": {
-    "collected_at": "2026-03-04T23:18:46.957190",
-    "total_articles": 69,
+    "collected_at": "2026-03-05T08:19:50.641692",
+    "total_articles": 170,
     "sources": {
-      "korean": 36,
-      "international": 33
+      "korean": 128,
+      "international": 42
     },
     "sentiment_distribution": {
-      "positive": 34,
-      "negative": 17,
-      "neutral": 3
+      "positive": 111,
+      "negative": 33,
+      "neutral": 8
     }
   },
   "articles": [
@@ -1693,6 +1693,2625 @@
       "language": "en",
       "published_at": "2026-03-04T13:00:20",
       "collected_at": "2026-03-04T23:13:13.361980",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "52ef860ceb55d56c",
+      "title": "고창 표준기상관측소, 전세계 참고하는 기후변화 기준관측망에 등록 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rWXM1MC1oNmQ2X09sd2FuWUZJMWZ6VnVHczg0NENZVlVibUxZcVpwcFY2REV5SlVNaFpaOVlkbWVfNzFjWnpjRkZTdGxrblk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:29:44",
+      "collected_at": "2026-03-05T08:11:21.538869",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고창 표준기상관측소",
+          "기후변화",
+          "기준관측망",
+          "등록",
+          "전세계 참고"
+        ]
+      }
+    },
+    {
+      "id": "14e3f5794c15479a",
+      "title": "혼다, CDP 기후변화 대응 'A등급'… 3년 연속 최고점 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uWjZnVVVCT3ZFdFhzamRhRk5mSTA5SmhWNkt1dkRiQjJlazJ3dER6Z2pDSnN3dFIyQ1pNSTN1a21ZaEpubmdMeDcyejBoaXpFa3pIY0diWTh3cXYzN19HVg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:20:41",
+      "collected_at": "2026-03-05T08:11:21.538908",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "CDP",
+          "기후변화 대응",
+          "A등급",
+          "최고점"
+        ]
+      }
+    },
+    {
+      "id": "e51888601d6b0600",
+      "title": "신우철 완도군수 \"기후위기 속 수산업 대전환 필요\" - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xejBBSHBaSWt6a0pRQjVXeXA3c0NqRGVBTDNiaXBtaHZ5VjhyWk1iQjNQTnhERlFkYnpkOV82eW13c2w0dkw5ZTVKekdlOVp4eGFybEhGX2lxXzhoV1ozSEVTN0k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:42:14",
+      "collected_at": "2026-03-05T08:11:21.539061",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "신우철",
+          "완도군수",
+          "기후위기",
+          "수산업",
+          "대전환"
+        ]
+      }
+    },
+    {
+      "id": "8c247fd0940e7f47",
+      "title": "‘2050 탄소중립 추진’ 혼다, CDP 기후변화 대응 ‘3년 연속 A등급’ - 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ybHNxQWdoa0FvUTdSaXFMbmNRTU41RWJBaWQ4SG15SHdONUFzVkoyZV9wMFhieUhrVlZwd20yQ3BIWGNEY3pxUXl6TXh3TmFfNlhhUFdB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:38:30",
+      "collected_at": "2026-03-05T08:11:21.539090",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "2050 탄소중립",
+          "CDP",
+          "기후변화 대응",
+          "A등급"
+        ]
+      }
+    },
+    {
+      "id": "1a8d744487b167ff",
+      "title": "혼다, 기후변화 대응 부문 3년 연속 'A등급' 획득 - 서울와이어",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRVpqSjVFTERCWTdDRThvRDNmY3lQaFlVMnhIdUp2bXJ6UVdwLVBlOW96Y3lvOFhJSDFfN2xfVThMamRUQ0VDbzdNY2owdFdyZjBQemVRY1BSWENuYnJwUzlFYTBsT1RnV0JWLQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:57:43",
+      "collected_at": "2026-03-05T08:11:21.539118",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "기후변화 대응",
+          "A등급",
+          "3년 연속",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "b849e0a0e2f58317",
+      "title": "전북 고창에서 전 지구적 기후변화를 분석한다…WMO 지상기준관측망 등록기념 현판식 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2QjFwMW9tRDFpR0lGN2s4NWtjNTRSckdSa0tsR0pkSVhfejdORHFTazNUM3NoOW15d29EMmNfOTFSTm1oSnNhT1BIT29LZ0dMX2pvUWQ3WDBiOXNFXzdrSDlUeEptWlpSN2lUaGh6RHEtcGhTeGRUbA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:57:00",
+      "collected_at": "2026-03-05T08:11:21.539172",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고창",
+          "기후변화",
+          "WMO",
+          "지상기준관측망",
+          "현판식"
+        ]
+      }
+    },
+    {
+      "id": "16024c3c6c8e5b8a",
+      "title": "탄소규제 대응 강화··· 친환경경영 컨설팅 공모 - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SOGl2VWVBNnZObjA3SEFidGtPTk1mUHMxZWw3WWtjcjhaR1FwZ1FzU0duN3RZLU5adkx0UjIzak1Pb1lCZlRSNExZZkZDcTZ6eDdCRTFQa0JCZ1hPVEpQb2ZrT2hjbFFR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:32:43",
+      "collected_at": "2026-03-05T08:11:21.539198",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소규제",
+          "친환경경영",
+          "컨설팅",
+          "공모",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "467da52828d3fa1d",
+      "title": "기후변화, 전기차 성능에 '악영향...폭염에 배터리 수명 '뚝뚝' - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SVlBXZThNVEtPZ1hFNFo1WnhZek5TSHZqTUttS2x0d2c5Q0pNLTdtTjJEVU5QRi1zWjZLb2lzX29NUkUyZm1xcDhVaU5YZEc2YXRvcDFfVHhPR1Yy?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:41:18",
+      "collected_at": "2026-03-05T08:11:21.539250",
+      "keywords_matched": [
+        "기후변화",
+        "폭염",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "전기차",
+          "배터리 수명",
+          "폭염",
+          "악영향"
+        ]
+      }
+    },
+    {
+      "id": "d3f1fb74e024eb7d",
+      "title": "혼다, CDP 기후변화 대응 평가 최고등급 획득 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wUXpZc1o2MVR2MUx0dUFuVFdQQkswd0NLVHlaaXNHMlljZVFrR3JUUlVxM3I4b01rWkxlM1NZc0l0VklGU0Jvbkhvay1TWVRuT0c3UjJwa245ZzExZXd6WnVDejJrdkFiMS1uaA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:31:41",
+      "collected_at": "2026-03-05T08:11:21.539276",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "CDP",
+          "기후변화 대응",
+          "최고등급",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "a0683779947ffb67",
+      "title": "[완도] 기후변화 대응 해조류·전복 양식 해법 모색 - 해양레저신문",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hNXc2c2JESldYdER1YmNnZmotcDdJc3lVTkNzbTVIdWFTbW43NTlYM05CV2hIV0dyVlVYTk1QX0xhT29iUGRMNHlJOHpWc1pGZm1xV2k2Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:32:00",
+      "collected_at": "2026-03-05T08:11:21.539302",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "완도",
+          "기후변화",
+          "해조류",
+          "전복",
+          "양식"
+        ]
+      }
+    },
+    {
+      "id": "e78df76fadc137c0",
+      "title": "'2050 탄소중립 추진' 혼다, CDP 기후변화 대응 '3년 연속 A등급' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5McHZqeFVpZWNkY1BkeXlLWFBJS3BIZHNjb0VfRE9WbThJOUFLSGJnbFpzSVdCcF9zbTQ1aVRuZXB3RGotS3pfdVZLX2N3TlNrNjhj?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:39:00",
+      "collected_at": "2026-03-05T08:11:21.539590",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "탄소중립",
+          "CDP",
+          "기후변화 대응",
+          "A등급"
+        ]
+      }
+    },
+    {
+      "id": "2ec118acba1200e1",
+      "title": "충남도, 김 육상양식 특허 2건 등록…기후변화 대응 기술 개발 - 투데이플러스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84U1BIRzJyWGF4M3VqM1ZpMHNVNU9jY25yMEkxNXhYVWZTS3NNWGxFcGV2VnQ3T1J1eS1rYmh4YkdiNFh5ekhyVGRRVzNNb1RnWWs1RDQ0UUlzWnRfMTc0eWZ1U1lnRFllWnpheXgtNndjZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T21:48:20",
+      "collected_at": "2026-03-05T08:11:21.539680",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "김",
+          "육상양식",
+          "특허",
+          "기후변화 대응"
+        ]
+      }
+    },
+    {
+      "id": "f9ea2859bc056fdb",
+      "title": "완도군, 해조류·전복 산업 기후위기 대응 방안 논의 - 한국뉴스코리아",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJamg0emVYa2NVaHFGQmZ6eHpEYXhUdENuX1RfZTFqcG9DZFgzUmFWUmhTOWlkbS1hWVpHeVdMTndSTTYyWlMzUlJCTmYtU0tQaXJFSFVTdG1OWjQ0N1VJakswb014QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:47:05",
+      "collected_at": "2026-03-05T08:11:21.539775",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "완도군",
+          "해조류",
+          "전복",
+          "기후위기",
+          "대응 방안"
+        ]
+      }
+    },
+    {
+      "id": "db65f607f6d10f41",
+      "title": "\"폭염 심각해 잠 설친다\" 광주 시민 10명 중 9명 ‘한여름 고통’ - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSSjdaeGo3N3NqT2hMci0tZEhkcGFVMG1GVjJzSlRIUlBqdG02Skp2eWtjRDdhZTdaX2Iwa1I3VFFkZ3k2a3ptdlYtWVlGajFxQS11QVd6djFHem0yNndrdW0yTm5ScVA4UXdpRtIBcEFVX3lxTFBkc1d4ZS1pMmNSZFk3Vk5sRHJWTjdsX1VRZVJGWlVQMV9QSWkxWEdiRHA4Wks2ZDJxU2xPVmlUR2N1R3VETENuNjdacUJqb015RXAzWklJa29PUHU5SHVobDY4SmlHUEMtdFgzN0JSazA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:07:00",
+      "collected_at": "2026-03-05T08:11:21.539841",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "광주",
+          "시민",
+          "수면 방해",
+          "고통"
+        ]
+      }
+    },
+    {
+      "id": "75dbcc838afae2b3",
+      "title": "전북 고창에서 전 지구적 기후변화를 분석한다…WMO 지상기준관측망 등록기념 현판식 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1SGN2ekpsRUZjcjUzSHlKT2FXRHY2bzFTZkVjMl9oTlR5dWUwaWVGaXRFQk5nUVlTZ3o2dXNrTGNvVlA3clFubEVqM1hmcTl2Umdv?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:01:00",
+      "collected_at": "2026-03-05T08:11:21.539891",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "WMO",
+          "지상기준관측망",
+          "기후변화",
+          "고창",
+          "현판식"
+        ]
+      }
+    },
+    {
+      "id": "1f99c4629fa4258b",
+      "title": "혼다, CDP 기후변화 대응 'A등급'…3년 연속 최고점 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ORW1Bb215NE1vR3NQdVp2akpqVGZsZ1dFejlHMWM1NU5nR3JyMU1zUmJCZ0VfdlN6Q3hrSHVFS3JmMkNaR01jNlU4Nk9rU1A5Y2Iw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:21:00",
+      "collected_at": "2026-03-05T08:11:21.539958",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "CDP",
+          "기후변화 대응",
+          "A등급",
+          "최고점"
+        ]
+      }
+    },
+    {
+      "id": "a8fb74ed5617ed5e",
+      "title": "혼다, ESG에 대한 진심 확고, 3년 연속 CDP A등급 획득 - 엠투데이",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tNWNoUHFIU0YtakUtOGh3cUx0bnhoaWwybjYzV1VBbURtQy1fZGFJWWE0Y1VWMVdVTFBuanRvZ3ZoWk9oNFJOSGlRQTYtajVrNnM3TTBFa21TMXlGWkRLNm10aDlmV1I5QmY2MWh4MNIBc0FVX3lxTE9wQTdFajA3MHpINC04ckNpOFFsbktDaG85ZHRJVkJuQllxV3pqVjFnVmtNWnJrZW9oV2tkNWVpZUZyR3FSRnNIZk9EMlBOZVVHZnV4ME5nWkJWbklzNTk2M3RnN21sb0t3SmZJNjlmLVFmbTg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:07:00",
+      "collected_at": "2026-03-05T08:11:21.540261",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "ESG",
+          "CDP",
+          "A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "f0b605f0b92cafba",
+      "title": "[기고]기후위기 시대, 식목일과 나무심기의 새로운 이정표 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aXzlIOXNqZkt2WkdJT016dV83UlZFYURwNXNETGJabHNlUUxCVW5EQkY0UHZlbnd3QkdOSmZvaGZxZzNqaU01dktmbDlBc0U4Z0g0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:51:00",
+      "collected_at": "2026-03-05T08:11:21.540285",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "식목일",
+          "나무심기",
+          "새로운 이정표",
+          "시대"
+        ]
+      }
+    },
+    {
+      "id": "048d675898b19a6f",
+      "title": "혼다, CDP 평가서 3년 연속 A등급 획득…글로벌 ESG 경쟁력 입증 - carmgz.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42S2FoS2xfdzROUlVjVkNQSzFScDkwNDN4aEQwaWl3dUtfYUx0dVFPNU1mTTJrVDRGWVJGc2tYLWZSendydkxhM1Vwb0VjRWgxLXpZQ3ptbXdsNjBRbENZVW9qSUUzQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:20:09",
+      "collected_at": "2026-03-05T08:11:21.540312",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼다",
+          "CDP 평가",
+          "A등급",
+          "ESG 경쟁력",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "36d617a533e866a3",
+      "title": "정부, 2030 탄소중립 목표 상향 압박…산업계 ‘비상등’ - 데일리연합",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBaDlTNzVwUDcxZ3AtNzRfTFF2UkxVU2thanZFakQwTTdaNUpzZWdxWUpyRUMxUFRDTTZpM1EtbmJpZ1ZFeGNoaFc2UW8tUUFCY05VMkZJMUk2Zmc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T17:30:04",
+      "collected_at": "2026-03-05T08:11:21.540354",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "2030 탄소중립",
+          "목표 상향",
+          "산업계",
+          "비상등"
+        ]
+      }
+    },
+    {
+      "id": "861216c27f6d5ae1",
+      "title": "고양시 '탄소중립 LED 교체' 2년 넘게 표류 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibXJmTGFod3hXVi1GMThTX19wUDJIaEdTdWlVcC1TVlltVHJoa2paVjR4cTFtSE4zWllCR19PeWJWN05OSzJ6YzQ3d045cmdmQ29UYUxGdkxlTWs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:14:00",
+      "collected_at": "2026-03-05T08:11:21.432817",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "고양시",
+          "탄소중립",
+          "LED 교체",
+          "표류",
+          "경기일보"
+        ]
+      }
+    },
+    {
+      "id": "e6dafccae431be4b",
+      "title": "광명시, '탄소중립동아리' 10개 팀 모집 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJY3BXQ2FsSEY0eFVIc2daOEc0QkdUN0swLUhoQ01SWlo2ZmQzVU5ocmZjbU8tdWstRWVRRDVFQUtUZnJpMjhZUk96RFk5VWdUc3FieE45dkNEUVHSAWBBVV95cUxNMWZmS05XSU03U0RNZkZIcTc4aUh0RVNDSjR2S0ExWlR1azJscldLY2NyZnVsMjFJLTNSdnVqanlQekVSeE83OFh4dDlISHJVMnhERDdqTW5qMXYzcTEzdUg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:09:23",
+      "collected_at": "2026-03-05T08:11:21.432858",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "동아리",
+          "모집",
+          "기후행동"
+        ]
+      }
+    },
+    {
+      "id": "6da8016d81ac2ec5",
+      "title": "광명시, '탄소중립동아리' 10팀 모집 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKcTNpWXliOUQ4eXdWbldKRjhqSTlod09aVkU0WU5DMU43MlhEdlB1dVgzcW1FM0xtOXBPTlNtV1psM2xHSDJsRnpXY244U1kzcHdvMUEtQ3FtZFljendHTUlUakJBaEwyQXpvX2YtcnhpN0hmY21xZg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:58:00",
+      "collected_at": "2026-03-05T08:11:21.432888",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "동아리",
+          "모집",
+          "기후행동"
+        ]
+      }
+    },
+    {
+      "id": "63a0bed900f8e851",
+      "title": "광명시, '탄소중립동아리 육성·지원 사업' 참여팀 10개 모집 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53Nnk1NXpOQ3daV0UyWnJqNnhFU3ExV1BDSHV4T1BlV01fR1I4Q2dBNTF1NklhQS1ZZkdkUXdyNU9YeFJUdU1yN0FNSUhlMzlCekRQOTVvbjZDYnlLV2FyNQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:01:31",
+      "collected_at": "2026-03-05T08:11:21.432925",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립동아리",
+          "육성·지원",
+          "참여팀",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "a20886a457f7c6fc",
+      "title": "최대 10만원 혜택 ‘자동차 탄소중립포인트제’ 참여자 모집 - 제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15WDhDY0lWVlJwMU5FdjBkRHQzX201QV8tZ3JoeHBTX01pUlpYSVN3TTRFOEV6elc2eE1QZUhJamVjYjV0X2Z5cHhiRTNOaTg0cEkzaVhveXBrZzN3RXlCd1pLZVNPQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:33:01",
+      "collected_at": "2026-03-05T08:11:21.432969",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "자동차",
+          "탄소중립포인트제",
+          "참여자 모집",
+          "혜택",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "d34be6493a999f65",
+      "title": "[EE칼럼] 항공 탄소중립의 함정… 정부 계획엔 CORSIA가 없다 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNRnpHZmdPWXZPR3hEcjdZbUY2VzNPdjVvcDdKRjN2NXFXNW9zWDZFTXJiWnFFVFhiX25od2Y5cUEzMWYyRUVxR0lXRmwzamJjcDZhVDhrb2VxVGJiVXg2VUtwVQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:59:00",
+      "collected_at": "2026-03-05T08:11:21.433201",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "항공 탄소중립",
+          "CORSIA",
+          "정부 계획",
+          "함정",
+          "탄소 감축"
+        ]
+      }
+    },
+    {
+      "id": "675cde38918e9d40",
+      "title": "광명시 \"일상에서 탄소중립 실천할 동아리 모집합니다~\" - G밸리타임스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pbXhDUzBGVXRPTjd0WHlWenk0NWFiZXczX3F2OUJLcFhZZ1B0X2xRRFVPc0ZGdEo5S2o0WlZzQkFTcXJMdWRYOHhKZnNIeGwtemd1aVpWNVNGLWNpWDVoVEpuT3JhWmVRYzRLcmRn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:00:00",
+      "collected_at": "2026-03-05T08:11:21.433275",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "실천",
+          "동아리",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "a663cfcc0655c867",
+      "title": "천안시, 남서울대·탄소중립지원센터와 탄소중립 시민 저변확대 협약 체결 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FU1NwZU85ZjUzY3lxNHFSa0VfSFcwQ3pTWlh6eGFxcWV4d3M1MU14MFBjS3JReHRCbFRqbEhIeDZXc3ZfVUJXOU82azVnLXlOUnh5aWFIYUVybXVqa2h3U2tYdkMzeXVEQmlHdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:22:04",
+      "collected_at": "2026-03-05T08:11:21.433301",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안시",
+          "탄소중립",
+          "협약 체결",
+          "남서울대",
+          "시민 저변확대"
+        ]
+      }
+    },
+    {
+      "id": "a2cdd118792a5592",
+      "title": "전기·수도 절약하면 연 최대 10만원 지급...거제시, 탄소중립포인트제 주민센터서 접수 - 거제신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Pbkt6NDBQZ0Z5ZW0zeEdNR3ZxVHl4WlFZdkJySTlPeGRqdWJDc3k2S0tQdHZjSVFHYzRDTTMzOXFrdXg4N2RETXR6VEJnVThaZTZBVkRfZmFjNXZkNk1qdTBzRkYxaWNDOXIwcw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:23:37",
+      "collected_at": "2026-03-05T08:11:21.433330",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립포인트제",
+          "거제시",
+          "전기·수도 절약",
+          "10만원 지급",
+          "주민센터"
+        ]
+      }
+    },
+    {
+      "id": "3bc498a399ae4dd5",
+      "title": "[In터뷰] 윤준병 국회의원, “영농형 태양광, 농촌 살리고 탄소중립 이끄는 핵심 정책” - 솔라투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfWFZoVlFsaG5iSjJ0OWNLeE9kRnctZnFhQi0ybm4xb0Rqa09RUjdyZV9QUmVGU3VOQW9PcWQ5eHgtZ3QtWkNmTlhaNTlOTFVtS2FLVW0yT3Fhbm1iRVNUZnQ1WW5MeGdPQ0wwNVVGaHc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:12:40",
+      "collected_at": "2026-03-05T08:11:21.433365",
+      "keywords_matched": [
+        "탄소중립",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "윤준병 국회의원",
+          "영농형 태양광",
+          "농촌",
+          "탄소중립",
+          "핵심 정책"
+        ]
+      }
+    },
+    {
+      "id": "1fb8ef4afe82c4d8",
+      "title": "전기·수도 아끼면 현금…거제, ‘탄소중립포인트’ 주민센터서 바로 가입 - 거제타임라인",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tOFV3YTBKWXp2U3FNLTdaYW56WHdLbXY5Yml0aWFDU1R4eVB3amNYTlE2dy1HSkNxWElvdV8wejVMaXdFV096X1FMZENPVG91ZkF3Sk1pd3l1TlRsaHdFZjlYRDNZVGs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T03:55:30",
+      "collected_at": "2026-03-05T08:11:21.433393",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립포인트",
+          "거제",
+          "전기",
+          "수도",
+          "현금"
+        ]
+      }
+    },
+    {
+      "id": "89369ce73b7a441a",
+      "title": "천안시-남서울대-탄소중립지원센터, '탄소중립 시민 저변 확대 업무협약' 체결 - 뉴스파고",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2X05uejhIbF90YXBfT0xxd1VBNEFmS1BEMHNpUWxsamZwSGQyZS1Ydlpta0pLMmdaWEhOUkVwelZFRVhP?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:31:00",
+      "collected_at": "2026-03-05T08:11:21.433419",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안시",
+          "남서울대",
+          "탄소중립지원센터",
+          "탄소중립",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "13bbae9bdd30acf7",
+      "title": "[기획] 탄소중립 기업에 '억대' 정책지원… 현장은 '무관심' - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HTGlVc2N0X25IVnc4S1ZnMENEa3YyelBTRmdJSVJnekhDLXhqYzlVazA0engwZ2Q5UFlaNkhHSmliZHk2TEc1bmVGZVZZYmZlVm1NWWVUZGRCel9WQlUwc3Z4OFk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T03:00:00",
+      "collected_at": "2026-03-05T08:11:21.433444",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "정책지원",
+          "기업",
+          "무관심",
+          "재정지원"
+        ]
+      }
+    },
+    {
+      "id": "5297b405c3b62054",
+      "title": "중장기 감축경로 담은 탄소중립기본법, 4월부터 입법 개정 추진 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtOXp2VFI4aXlMemE5d1YyQTIyRTRLVlFVanNwMm9xUXYzOElELWpqMTBONll3QVUxaFFCQm5mTDZUdzdIU2ZHTXpqZC1rOTNGYld1ZjdIUTVSOTV2UWdBa05qTG90cUVMRnMtTA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T03:06:04",
+      "collected_at": "2026-03-05T08:11:21.433475",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립기본법",
+          "입법 개정",
+          "중장기 감축경로",
+          "탄소중립",
+          "ESG경제"
+        ]
+      }
+    },
+    {
+      "id": "85dacd611aa472e3",
+      "title": "한전, '자발적 전기절약' 166만호 참여...탄소중립 기여·요금부담 경감 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVXRzOWZ2NTdXVEpyNVhGTTU2QTZQTDBPSE5fQ05MelQxQWZ4ZS1Ka1JXcWhmVmdaQk1NOVV0WndkTWx0VVFEaW0xUTdhZ3lxbWFFZURrVEZfWUpJZUpGb0xYMzlsTmFzNHc2VUlvVzdDQ1VRc0VobWhSWkpOemJHUzVSSmRnXzVlNWc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:17:00",
+      "collected_at": "2026-03-05T08:11:21.433503",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전",
+          "자발적 전기절약",
+          "166만호",
+          "탄소중립",
+          "요금부담 경감"
+        ]
+      }
+    },
+    {
+      "id": "32d2b9fd6f9c5a43",
+      "title": "자동차 주행거리 줄이면 최대 10만원까지 지급… '탄소중립포인트'참여자 모집 - 투데이 군산",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RdUh6eUNGTlhJYTJsV3FEOElONG9fcThNLThRSGNUMk02TUxBa3AzRldDV0FEWVgtUFRjYjF1QkZuYmViRXE0ZENSNGI2OGtHUHpLNVZKQ204NjAwUm1MdXBjSV9HUU9TYVo0TUY4Wkg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T23:45:06",
+      "collected_at": "2026-03-05T08:11:21.433554",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립포인트",
+          "자동차 주행거리",
+          "참여자 모집",
+          "최대 10만원",
+          "지급"
+        ]
+      }
+    },
+    {
+      "id": "0b8bb28b66df000c",
+      "title": "청도군, ‘탄소중립 새마을 환경살리기’ 개최 - 꽁지환경늬우스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yQ0hIMnJBUTlIdHBoMldsNjQ1STBsZFpoc1NUbnZlNXdWQ3RlUzh6eHpHa0Z4ODZoYUFHV1hYNWVzZVBiYUpyVWlFaVhMZ1JRam5JeGNlYmdqQVpZQ1J6TQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:02:00",
+      "collected_at": "2026-03-05T08:11:21.433578",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청도군",
+          "탄소중립",
+          "새마을",
+          "환경살리기",
+          "개최"
+        ]
+      }
+    },
+    {
+      "id": "628d46f663623aa1",
+      "title": "천안시, 남서울대와 탄소중립 시민 저변확대 협약 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GVC1FTkxGRVgxZ1R3M09EOFZqX3V0bVlRSEg2WVo2bUZWbWVtbXBGYlB5SlBIeUpqWkx1Z1E5YnJZOEhLTFdyaE0wM0U3R01IRUliamVZMVdnYkpWbE0tX9IBYEFVX3lxTE9GVC1FTkxGRVgxZ1R3M09EOFZqX3V0bVlRSEg2WVo2bUZWbWVtbXBGYlB5SlBIeUpqWkx1Z1E5YnJZOEhLTFdyaE0wM0U3R01IRUliamVZMVdnYkpWbE0tXw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:33:45",
+      "collected_at": "2026-03-05T08:11:21.433602",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안시",
+          "남서울대",
+          "탄소중립",
+          "시민 저변확대",
+          "협약"
+        ]
+      }
+    },
+    {
+      "id": "dd6d96871cb454d1",
+      "title": "'종이 대신 디지털로'…ESG 탄소중립 디지털명함 추진위 출범 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93d3E4UUVPOUlKcEJDLThDbnF5X21IWldpc3RFaWpKcnpIcHU3OVdCX1IxX1Vkalk3SS1OQm1MRUVUc3FiTlkwV1FqczZzTTB0MjR0R3gtdG5MTHfSAWBBVV95cUxNa3JnM1ZfLU9XU3FXSTdoR2J4OHdsaEZWa1I5eV9pV1JoUHdFRmxZV1hidnpYRzhrdHQtSTV3Wk9mN0wxRkFIUEl0d1FfTEt2dldUd3VhNFRuWE9VVTRzcHA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:30:01",
+      "collected_at": "2026-03-05T08:11:21.433653",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG",
+          "탄소중립",
+          "디지털명함",
+          "추진위",
+          "디지털 전환"
+        ]
+      }
+    },
+    {
+      "id": "b51116f245a8c0c8",
+      "title": "광명시, ‘2026년 탄소중립동아리 육성·지원 사업’ 참여 동아리 모집 - 경인매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBrR3MyRDd1Nlk3QXlETnAzRDRXUi1wd19ZdnBrRk1obko4dTdfVlNENnEtYmhMRF9sYmYtbURVcmFnWjgxRlJfQ21nRDByMFpTYTN5VkE4N05URUhBQWdXLVlkUjhtOGJR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:33:40",
+      "collected_at": "2026-03-05T08:11:21.433679",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "동아리",
+          "육성·지원 사업",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "40b85d9ca84c2e31",
+      "title": "목건협 창립 30주년…“목조건축, 탄소중립 시대의 전략적 해법 될 것” - 나무신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LQ0Fra0J6MTNKZXFmb2Z0ZlN0YW1PbEo1MExLazlfaGF2RHNodEhoUDRyemE3MW5HNEF3TGVuNFQxWldaRm1VTjVKbWhnUExhR0ZwdzJWWWNQaXdjTUd4aS1EUkJJeUxCUnc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:00:00",
+      "collected_at": "2026-03-05T08:11:21.433704",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "목조건축",
+          "탄소중립",
+          "전략적 해법",
+          "목건협",
+          "탄소중립 시대"
+        ]
+      }
+    },
+    {
+      "id": "3ed2297fd2168dec",
+      "title": "한국산지보전협회, 산림탄소흡수량 500톤 구매·소각…자발적 탄소중립 실천 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYWFhab2hnZDJKY3NWc3JUdDBhaElZREFiZXNVV1FWakJwd1BiYktnQjBNa0xBcjBsNktyNUZGN2JpVDhVQTViUF82S2NpX003WElYOFlLOW83Q0JPMmRLTDlHRVY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:00:04",
+      "collected_at": "2026-03-05T08:11:21.433730",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국산지보전협회",
+          "산림탄소흡수량",
+          "탄소중립",
+          "자발적",
+          "탄소크레딧 구매"
+        ]
+      }
+    },
+    {
+      "id": "6e0f9dd322c36335",
+      "title": "거제시, 탄소중립포인트제 주민센터서 접수... 연 최대 10만원 지급 - 거제저널",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2VlFKTE1qRXRDV1RMU3p5TFQzQnhRejQxMTNmVTdZcXNjYlJUZWZqX0RxS21ONGpKaEJUc210NUxWMHo5OE15MFRBSHE0cGpHSl9fR1NhaDlVWE1pcG05OENET1dlX0pxNzkxRC1sbnRJM0U?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:27:57",
+      "collected_at": "2026-03-05T08:11:21.433756",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제시",
+          "탄소중립포인트제",
+          "탄소중립",
+          "인센티브",
+          "주민참여"
+        ]
+      }
+    },
+    {
+      "id": "98a0a9f81faf1f2d",
+      "title": "행복청 행복도시 탄소중립 히어로를 찾아라 공모전 개최 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0VXdyZVBhaFdYOUw0MFlVNko5dVFiVjFYbFhORjlMVU9HVHNlQVRiWHZUTThvM2NPamhBQTExTFpnV2dpaXowS1BlRjc0YXdsYm1ycll2QmxvUTk4M1drU2U5ZGU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T23:22:17",
+      "collected_at": "2026-03-05T08:11:21.433781",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "행복청",
+          "행복도시",
+          "탄소중립",
+          "히어로",
+          "공모전"
+        ]
+      }
+    },
+    {
+      "id": "138eddca2304443a",
+      "title": "‘차 덜타고 돈 받고’, 군산시 ‘자동차 탄소중립포인트’ 정책 시행 - 전북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84eEp6TThKNmlSOTY5ZXN3SjJ5WGpkclpGSS10ZHdxanRVczl3akRSVk9EM3JlY3FqZFBDRGJNOVVVdFBsbDNvcm5xUU1oYk93MlMtMUNycDJ2R3phY3hSOE14cmZFY0NZeGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:47:47",
+      "collected_at": "2026-03-05T08:11:21.433807",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "군산시",
+          "자동차",
+          "탄소중립포인트",
+          "정책",
+          "돈 받고"
+        ]
+      }
+    },
+    {
+      "id": "e73fb12499065fdd",
+      "title": "예산군 고덕면, 탄소중립 장바구니 나눔행사 개최 - 전국도민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52eXNjZXdjWVE0MFBEd3pEaTEtMzVzR1dEMFZqOWVGUkFfWkpwTzRYb2RwNVctZk80VzA0N2pDaGJjOUJsYkFjblFWX3VVX1R0bVYtdUZzaTFtMENmU3Jqc2ktdVkwVXhIMFdNeGN3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:12:46",
+      "collected_at": "2026-03-05T08:11:21.433834",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "예산군",
+          "고덕면",
+          "탄소중립",
+          "장바구니",
+          "나눔행사"
+        ]
+      }
+    },
+    {
+      "id": "c0d0ed63a9f8fa5a",
+      "title": "장성군 그린장성21추진협의회, 기후 위기 대응과 탄소중립 실천 결의 - 광주전남일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVnBmNHlNcEtNNG5yR2kzWFZMV3FCNGx1c3JpbnJvV1JMU21xSDdMWkV0WXpkeXBLdWVhTllKTkIwSm1ZSlZfVjczTVhGSEY3MWtGeXJtekFnUHlKcWF5TXNzemtKNThLN3B3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:07:16",
+      "collected_at": "2026-03-05T08:11:21.433860",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "장성군",
+          "그린장성21",
+          "기후 위기 대응",
+          "탄소중립",
+          "실천 결의"
+        ]
+      }
+    },
+    {
+      "id": "718d2e3154ddcff8",
+      "title": "천안시-남서울대-탄소중립지원센터, 탄소중립 시민 저변 확대 협약 체결 - 중앙매일",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzQmxfY2Q3ZGlldVVtTmRWQUNaOW9ETDRUOU92aF93V050dHg5VVJwc1R6LVBsQ0xHOVBuT21qRzZCQVNGWXl0d2VaLVk2b0w1QVpjem9QU3F3RXluZkRlZlVzQ3JUUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:47:13",
+      "collected_at": "2026-03-05T08:11:21.433884",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안시",
+          "남서울대",
+          "탄소중립지원센터",
+          "탄소중립",
+          "협약 체결"
+        ]
+      }
+    },
+    {
+      "id": "3add8619011344be",
+      "title": "거제시, 탄소중립포인트제 주민센터서 접수... 연 최대 10만원 지급 - 포인트경남",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PUmxNdnFwMl9EZzlUVU9iQ2dKbGVhZ0NGRFpmLVBMRUZRejBVNXcxb2puMDVZOGd1MUI1SFJrM2pnQXREX01kVFRCczFPMlBoTEN6a2M5LXowZUVzUjRzal9WZzVYRDhTSExBS0ItcTE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T03:48:25",
+      "collected_at": "2026-03-05T08:11:21.433928",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제시",
+          "탄소중립포인트제",
+          "주민센터",
+          "접수",
+          "포인트"
+        ]
+      }
+    },
+    {
+      "id": "6117a1f10f2f8843",
+      "title": "[군산시] 자동차 탄소중립포인트제 참여자 모집 - 투데이안",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MZ2EyR3lNRVQ3aWttd2llUWVPMl8yOWt5S3lZbGoyZkFSQjQ4Y25Jdy00VXI4eXdfQzNmUU9rRVpjOWotRGVRTzJDajJsbkZaVzBOeGRUVWtaWmdha05kNjFWd0x3UlZq?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:14:43",
+      "collected_at": "2026-03-05T08:11:21.433995",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "군산시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자 모집",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "6c890920ab7dd638",
+      "title": "천안시, 남서울대·지원센터와 탄소중립 시민 저변확대 협약 체결 - 충남인터넷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSb3FJYzhVbFVQZ1FVMmw1clo4RWZWUkNUd1NKa2I1RHA0eGliMTZ0UWw0Z0RDR1ZCSkkwMG9vck5LZm9kTUY4bUtpVUJ1YTFRS1o3ZlozQ0MzNVVXS0lXYnhlb2NMdXBa?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:35:45",
+      "collected_at": "2026-03-05T08:11:21.434073",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안시",
+          "남서울대",
+          "탄소중립",
+          "협약 체결",
+          "시민 저변확대"
+        ]
+      }
+    },
+    {
+      "id": "72386c2b1698241f",
+      "title": "사회복지법인 전원, 양산시니어클럽 ‘탄소중립 실천’ 선포 - 더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ldDI5d3JCcGVudjVmbU9NVzJrQm91eTNzcndpMWRzNzNqN0pHXzVncEhGdm15Tm9BRFM5bWNJc0k1a19HVXRjYmNfVFhDcFNVUlJRN00tdGZUeFZhOEo4Qko0ZVlRcVha?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:02:48",
+      "collected_at": "2026-03-05T08:11:21.434097",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "사회복지법인 전원",
+          "양산시니어클럽",
+          "탄소중립",
+          "실천",
+          "선포"
+        ]
+      }
+    },
+    {
+      "id": "34647279dfde52d1",
+      "title": "장성군 그린장성21추진협의회 정기총회 열고 탄소중립 실천 결의 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6OFJ0anVCUXBxRGpPLThWcWJhQXVuczhQSWhoRkxkMlYxT0szS3FOM0MyUlVCM3k0QXV3Sy0tUS1VSjBFMGtOZlNVSGg4VWkwZTQxUHBSb2NkYjBJd1l0dGY5OWlacVpsWnEyYTBOU00?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:13:00",
+      "collected_at": "2026-03-05T08:11:21.434123",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "장성군",
+          "그린장성21추진협의회",
+          "정기총회",
+          "탄소중립",
+          "실천 결의"
+        ]
+      }
+    },
+    {
+      "id": "a8a549493179dc89",
+      "title": "거제시, 탄소중립포인트제 주민센터서 접수…연 최대 10만원 지급 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1NTRNcC1OeGRLV29DMThQT3hiTGh5SGFISzl1eU9STW51Y1JQMTQxXzFmWHp3eTZhc291dkN1ZzBaR1hUOXUyR0h5NzR4STg5V1dn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:16:00",
+      "collected_at": "2026-03-05T08:11:21.434181",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제시",
+          "탄소중립포인트제",
+          "주민센터",
+          "접수",
+          "10만원 지급"
+        ]
+      }
+    },
+    {
+      "id": "cd6c9f81fc0fc931",
+      "title": "광명시, ‘탄소중립동아리’ 10팀 모집…시민 주도 기후행동 확산 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BX2k1XzlmSkROYklCUDNhOVR3TFJ3SjZydThrOTBOSWdDZzhoaTlWZk5KdFlVZnlLLWlDZ1YwNlNEcXVxOTB0OEZ1c3Fya0tJNjNDQUxRY0haNmdxNWw3Qm9BeXhXWUcxc1RwenFSdFI?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:55:00",
+      "collected_at": "2026-03-05T08:11:21.434206",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립동아리",
+          "시민 주도",
+          "기후행동",
+          "확산"
+        ]
+      }
+    },
+    {
+      "id": "b132189ee616b90a",
+      "title": "군산시 자동차 탄소중립포인트제 참여자 모집 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12Sy10T1p0M01UcXhucEU3bThiRXZFbmd1RVZxTFZBakJKOG5fR3ppVUVSRS1nM0xSUzNrNDd0aWRFLXBTOC1NR01DcFZGV1pZbFdTZFJNd0FIWE85ejFSWS1OTmxDcmFkdlBKSWNpd3lVX1XSAXdBVV95cUxOdEhMdWxVdlBTZzJPVmttVTNZVlFRWGU0OV9DMW8ySVA2NUdDMW52Zk0tMElhNGdDR0FJOHhFZGxQR3FuVlNEYlk3NlRsOW1oWmFpUGRQUnRjMWFxRnVxaWdSOXNjRjdHR0dCVEljVXR2VjQwSGYyRQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:46:28",
+      "collected_at": "2026-03-05T08:11:21.434276",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "군산시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "6681e8f62cac5259",
+      "title": "금산군, 올해 기후대응 도시숲 3ha 조성…탄소중립 실현 앞장 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nZ19GYmZwemFhVkFsTlU0THVySG9FbFJWbkRIMzZHejd6aUJNVWg3RTV1a1FTdGpqY3VBQWVDTkN5ZWFXbjJDRzNabFYzZXN5MUxPNHZtUkVzMlXSAVZBVV95cUxOUUNNOFIzaHl1TjZ5aWVlc25NeVUxenIyQ1FIZ3VidndDbzNXbzdib1dFaVpVU3hQdmVQRC00bFV0Uzkzd3RtOE9TR3RCbEFGUXEzamVwZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:38:45",
+      "collected_at": "2026-03-05T08:11:21.434337",
+      "keywords_matched": [
+        "탄소중립",
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "금산군",
+          "기후대응",
+          "도시숲",
+          "탄소중립",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "07612d151641a10f",
+      "title": "군산시, 2026년 자동차 탄소중립포인트제 참여자 선착순 모집 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jQWNSblozdWFtb1RLVFR2VzdiLUV4RFIwVVNRamdPOFRuR2FyYWwwTlU0U2E2Y3o1UWh5LWFWZWwyMmxRUzJxTGE5cWRFZkRsRGw2SGRFOWljdVJxZUprNzhhYmludzdKS2dSbV9B?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:46:14",
+      "collected_at": "2026-03-05T08:11:21.434381",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "군산시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "4294b24447b76ef1",
+      "title": "광명시, '탄소중립동아리' 10팀 모집...탄소중립 실천 문화 확산 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sU3drbVhnX1hUMnVYeVluVHVpb183Mzk1aGRuNVpGamFfaW82cmhGczBOZWlubEd6NFN4XzhlQktwWUdYQlZibG8tNW4wbEdQa3JPTEJBLUtRQnhPSW1tNUkwdlh4Z3R3dmZyVG53?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T23:56:58",
+      "collected_at": "2026-03-05T08:11:21.434749",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "동아리",
+          "모집",
+          "문화 확산"
+        ]
+      }
+    },
+    {
+      "id": "ae72c46ec6a0c0a7",
+      "title": "한국산지보전협회, 산림탄소흡수량 500톤 소각…2050 탄소중립 실천 나서 - 공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53cTBCdV9sd1ZIdWl6b1dRbTItQ1hWODFsLV9sc2FOY0FmdFhoUWt1aUlJQ25DNUI5TmgxR01WUFpKbFQ3VmxRMC1TNVFma3dsQ3lJY3ZudXVSRlVyMWRmOU9ib0drQ1Et?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:00:00",
+      "collected_at": "2026-03-05T08:11:21.434810",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "80b4e9d1b24efa9d",
+      "title": "제주시, ‘2026년 자동차 탄소중립포인트제’ 참여자 모집 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVWVPUHN4cHRoUkR1TDVkQ1BuOGFFdUJhb2xnX2ZpMGZlSnFkUjBVUmNvQm5GZWVZTHB3NlA2Qm5zejFaRnBvemZzYjZ3T0hpN0tIVEpweGtmdTRN?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:41:38",
+      "collected_at": "2026-03-05T08:11:21.434871",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자 모집",
+          "2026년"
+        ]
+      }
+    },
+    {
+      "id": "944ab709a775aa41",
+      "title": "거제시 탄소중립포인트제 주민센터 접수 창구 상시 운영 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5veDdpMGZvemYwT1hwS0g0OGVlT2VtU0Q5UDJsUk1PbW9WSTd5Tk9KRzItREhsc3hKYXE5MmVvc25lZms?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:19:00",
+      "collected_at": "2026-03-05T08:11:21.434933",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제시",
+          "탄소중립포인트제",
+          "주민센터",
+          "접수",
+          "상시운영"
+        ]
+      }
+    },
+    {
+      "id": "9864669351d14262",
+      "title": "李 대통령 “이번 기회에 재생에너지 대대적 전환”… ‘이란 사태’ 위기를 기회로 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcHh0b1FrTkVlVWlJanVldGo5ZXlTdWtqQVVkOGoxOWNVWHBzTDBlZEtCSnptczA3T0xsNldVaVROT1BvVGNEQUc1VUsxTUxZSFB6b2ktbGlwT2pxNF9WQ0t2YndEdDV1LTBVMXhMYU1PcTV1RnJCSXBfVFA3YlRoY2VSYW1zWDQ5SnhhbnpWdGbSAaQBQVVfeXFMT0c0dVV5WHFRUXhoYlpvMzBsTkdQLURkYVFYUE12cEptd3F1LVM0bTE1c0dTQWw2REozbVdjdFR0eml4d0RWejJyQlIwdGJwUTBUNFJ1Wmd3VlR6ZThqMzhzNWN3OWtRSU5kRnJMVTRjWlN1NUx1WU94ZG9NWTdaOWpDcVhtQ2FiZjFWRGtWa3FfdmhZcHM3bFZzV2xHcXJhVm1NbVo?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:14:00",
+      "collected_at": "2026-03-05T08:11:21.486515",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "李 대통령",
+          "재생에너지",
+          "대대적 전환",
+          "이란 사태",
+          "위기를 기회로"
+        ]
+      }
+    },
+    {
+      "id": "21874da1756f22e0",
+      "title": "재생에너지 준중앙 제도 본격화…470MW 자원 참가 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFazQxa0xVb280R1YzT2xXLUthZU90OW5YV0hUNHd5aWZkcVVzZ2x4T0NwRzYzN2pXUzBLZDRqeGJGZmFBaEtLLUpkNzNDNlhYamlzdEdaY2NHbGl1NDNueXVLT3ZUcXk5ajljctIBcEFVX3lxTE9ZUnBEamtENFZDUVFtejdldnRBNXVROWstRlNuMTRFbmRzWW9aclFMc2djUGtVejhWNzJzeWFCVndrRnJYQ282Tm53MHBqTjdkdUlsYlZxY0hCXzNpcUZVU2RPUUJzQ1hTNUk2VEhRdXk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:08:28",
+      "collected_at": "2026-03-05T08:11:21.486551",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "준중앙 제도",
+          "본격화",
+          "470MW",
+          "자원 참가"
+        ]
+      }
+    },
+    {
+      "id": "4e9fb242bcf10fbd",
+      "title": "농어촌공사전남본부, 재생에너지지구 지정 확대 시동 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZS25EeWxPU3dKX3BqYUVNb2paa3ItYW1iMmtmdjVaWXdrYzFDY0tqc2RmREVRUUpmQ1o0RFIwVlNVdVU4UVBLVEpremZGTlRIMDBNYVVJenpVQ3pEVUcyN0UxRlBHczIxU2pULdIBcEFVX3lxTE5KSmhyZkRCeGwtNUhBVVNxcnV5ZGUwdHFiY3lrc3JmRE1VTlBpTERXQVowMU5Mdy15MUZsNm9mRDdrSEI2U3hhbFN2amRaMEZjYVlkTnJyTUgzS1RMdDN0YUczZjNHcjZqZ2h2OWtaR1Y?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:27:45",
+      "collected_at": "2026-03-05T08:11:21.486624",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농어촌공사전남본부",
+          "재생에너지지구",
+          "지정 확대",
+          "시동",
+          "전남"
+        ]
+      }
+    },
+    {
+      "id": "3643c24623bf369d",
+      "title": "나주시, 주민참여형 재생에너지로 ‘햇빛연금’ 확대 추진 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IZnVLMjVUdF9YdGloVGNNUUl1aWVyOGd2MHdvaEhjZnZDaHFxRnNZNUdUREMxMmtOa2dCQnpqcUtUUGlzbEYwOVliZXpKYmtYaFlLUEtTSkZaYXgxSTJLZDA4dEw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:28:36",
+      "collected_at": "2026-03-05T08:11:21.486670",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "주민참여",
+          "재생에너지",
+          "햇빛연금",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "1e926f1dcad53759",
+      "title": "재생E 인재 매칭 강화…신재생에너지협회, 사람인 채용관 운영 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kdC03ZGtzMmFaR285aTdPcnFrdTVuT0dtZ00yTjBqUmg0WG1YUThxQ056c1ZFOEpPbFZRa055RDBab2JlcDVzc2ZudFk1YVBHNG12MzVnelhiTmlycnphRG1vX25CMi1HV05MRQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:43:00",
+      "collected_at": "2026-03-05T08:11:21.486698",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생E",
+          "인재 매칭",
+          "신재생에너지협회",
+          "사람인",
+          "채용관"
+        ]
+      }
+    },
+    {
+      "id": "4b2305b1b7f38c26",
+      "title": "이 대통령 “중동상황, 재생에너지 대전환 기회로 삼아야” - 농민신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05YXpsWFNGb2lCYjJMZXIwejgxUDVFNkd6MkJOWkljQTNwVC1jYkFKYTcxQXVZeUwxaGlkZkRGS3NXbXNyZVRCajVKRWd6M1NXdFA3cnFMbXAyUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:15:00",
+      "collected_at": "2026-03-05T08:11:21.486724",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이 대통령",
+          "중동상황",
+          "재생에너지",
+          "대전환",
+          "기회"
+        ]
+      }
+    },
+    {
+      "id": "55c47f6fc72cbe5d",
+      "title": "\"태양광으로 전기차 충전소 운영... 신재생에너지 확충 중요\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12cVk2MHVscnFITTMxMDVsbENqVWNNSXFaTHdnR1F2dmZOQkNmMTNLZVVMdDRaZEJBRVR2bEUySEFzNjVUMzVfY0dyLWljVUU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:43:01",
+      "collected_at": "2026-03-05T08:11:21.486769",
+      "keywords_matched": [
+        "재생에너지",
+        "전기차",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "전기차",
+          "충전소",
+          "신재생에너지",
+          "확충"
+        ]
+      }
+    },
+    {
+      "id": "8d7a612fa0062b17",
+      "title": "李 대통령 “에너지 안보 위기를 기회로…재생에너지 전환 신속하게” - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZTzQtOWFkS1pKRGoxdHhjT0lsZWl4X083QkhWbF9hUGs2MjV6TXYwSk9VWU5aeU9ELXJiV1Y0ZFVWcVFXQXBjQkIyY0xxZWJVTEtsYlVmaW9VbHM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T02:15:42",
+      "collected_at": "2026-03-05T08:11:21.486795",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "李 대통령",
+          "에너지 안보",
+          "위기",
+          "기회",
+          "재생에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "f70900776cc36cb2",
+      "title": "주철현 '전남광주 신재생에너지공사 설립' 공약 - OhmyNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZS0ktMmhQLS1WS2FPNGlrR1V0T1FLWFlGdFpHUUFKQkRMS2RIazloakJ5NXdJenJfX2poc25lSEdVa1plOW01VEEtMWxVWEROWUVXZnlRNkRoOTc1WnNiajZLRFBqemMzSlVYeDhncWs3bzNya2dB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:54:00",
+      "collected_at": "2026-03-05T08:11:21.486820",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주철현",
+          "전남광주",
+          "신재생에너지공사",
+          "설립",
+          "공약"
+        ]
+      }
+    },
+    {
+      "id": "c3169ff02638ee3d",
+      "title": "재생에너지 발전소 '좌초자산' 전락 위험, 전력망 접속 늦어져 건설 뒤에도 운영 차질 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DcHVUTHlzTVdLVlhDSHdORVo1QUVIczdJck1UZU9VYThDUW4xRlN4SmZwWjl3QlBaMzlFMXlBSm5xMUQ0UXgyUF9sMEZPX3JyVkZDMW83eUdhMTRvWTNjYUNiMGc0Y2dGcG5jZTVnV1ZvOUU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:55:40",
+      "collected_at": "2026-03-05T08:11:21.486848",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지 발전소",
+          "좌초자산",
+          "전력망 접속",
+          "운영 차질",
+          "위험"
+        ]
+      }
+    },
+    {
+      "id": "5e8bf6e4e97bf00d",
+      "title": "재생에너지 ‘준중앙급전’ 시대 개막··· 전력시장의 새로운 판이 짜인다 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SeUw1MHV0WjE2VFc3M1JtMGE1RkIyTDdoaVZtc0Y1ZmwxaUIzT0lWZmFIQnc3WmdNZkRFVC1QbXJmakUyUjlhLURWenBtSFI2ckJQdTM4dHg5azYtWWR3VXJDby0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:19:10",
+      "collected_at": "2026-03-05T08:11:21.486875",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "준중앙급전",
+          "전력시장",
+          "시대 개막",
+          "새로운 판"
+        ]
+      }
+    },
+    {
+      "id": "5259e6bda10187f2",
+      "title": "농어촌공사 전남지역본부, 재생에너지지구 지정 확대 시동 - 농수축산신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tNXN2ODRocUlvejN2a2tSZGhEaVN2WnpISXVwUWFLMTB5bEt5Qmh0RnU3bWwtLThOZVBDazN2OGJvLTlhNXhtN2Npb3dJUDBrVmN0MFF6NGkwbE1pNGY1SWVtWkxkUWZvSmRHQw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T04:49:22",
+      "collected_at": "2026-03-05T08:11:21.486901",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농어촌공사",
+          "전남지역본부",
+          "재생에너지",
+          "지구 지정",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "fdb0c2a400df1a1a",
+      "title": "나주시, 주민참여형 재생에너지로 ‘햇빛연금’ 확대 추진 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hWktBLTAzYkJPYVNBSlRWU05PTHUyWURQV1VOWmhqaDRIUW5pZVpHX2N0Z05Pc19QbjR5UnFmdENVeWhWS3B2OEk2UllPRzRDMGMyUFVrSGRCQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:58:00",
+      "collected_at": "2026-03-05T08:11:21.486926",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "주민참여형",
+          "재생에너지",
+          "햇빛연금",
+          "확대 추진"
+        ]
+      }
+    },
+    {
+      "id": "33352eefcdb4e6d2",
+      "title": "나주시, 주민 참여형 재생에너지 발전사업 추진…‘햇빛연금’ 확대 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0Nk9kcE43S2pFampobWVYMFRzSjVXb2ZBYjdrcVZ5ZjFNZllER2pVY29iN1ltTVhsMVlkRlM2emJqU2ZzTk82b3EySUJMSUhaUEw5S3QwZXJqeE4yMnU5MDFzNXBKUGpLVzlheg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:34:35",
+      "collected_at": "2026-03-05T08:11:21.486955",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "주민 참여형",
+          "재생에너지",
+          "발전사업",
+          "햇빛연금"
+        ]
+      }
+    },
+    {
+      "id": "6f3b9a2f27e3f332",
+      "title": "주철현 의원 '전남광주 신재생에너지공사 설립' 공약 발표 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nYm55dnY1cDR0Y2hPWEJLcDJIMXhxSWFmZzdDZDkxV0ZhdS1EWEZNaDZDbnNkY0JTakNGcEljOVpPMWxRMG1GUy0yS2ZVR2hwT0E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:00:00",
+      "collected_at": "2026-03-05T08:11:21.486981",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "주철현",
+          "전남광주",
+          "신재생에너지",
+          "공사 설립",
+          "공약"
+        ]
+      }
+    },
+    {
+      "id": "ffdf5fde085e965f",
+      "title": "수도권대기환경청장, 통합허가사업장(발전업) 대상, 재생에너지 도입 실무회의 개최 - 한국미디어뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5saWt2cW5mYUhKUGFMUkczMndjVFZLRlZZRE9jWkxVR21tbkFXLVk0YVlYWWdtTzBKWkY2YlZ2VlZOQTI3LWdPb2k0VEpXNXQtLWFWSlM0RFZvakpERGkyQllFSzdfdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T05:01:31",
+      "collected_at": "2026-03-05T08:11:21.487007",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수도권대기환경청",
+          "발전업",
+          "재생에너지",
+          "도입",
+          "실무회의"
+        ]
+      }
+    },
+    {
+      "id": "52f15914b92b7db6",
+      "title": "나주시, 주민참여형 '햇빛연금' 발전사업 본격화…시민이 만드는 재생에너지 수익 모델 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PVkhSZHNHZExGVVNObmVTNkk2NE8wbXI1RlVURVNieEFiRktKSmh3b0p1UUNJeE9kTmhjWEstNlZUTG9MbUJTMkhiWUxYb21HeF92X0lZYUdYLXNPTzloSGgzSnc1a0Y4Zlc0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:42:42",
+      "collected_at": "2026-03-05T08:11:21.487053",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "주민참여형",
+          "햇빛연금",
+          "재생에너지",
+          "수익 모델"
+        ]
+      }
+    },
+    {
+      "id": "5a266997c93f2270",
+      "title": "AWS, 아태지역 90곳서 재생에너지 프로젝트 추진 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzTm55N3Z1X1NqenFmczUycUI0bTZNX1l3X29Mckp5VjlpMDFBamdjV3l4OHVmQzR0QTU1Mk5wMDhQbHNmT3oyOFMwbXE3UE0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T07:35:04",
+      "collected_at": "2026-03-05T08:11:21.487106",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AWS",
+          "아태지역",
+          "재생에너지",
+          "프로젝트",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "053a405aa663223c",
+      "title": "K-태양광과 우주태양광 2035 태양광이 전략 국가 산업으로 떠오른다 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UbWlDR3Y0NHFQRTBmcjdJV015VUJwZ3VBTjdiNlBVUXZXU2xjUG1DcDBHNmZBaExGUjlXRVllZkZSSnRPTW5pOXA2WHVxTUkwQUxBeF9iVUpSdEY5bmxLZGVLRzI2VFhPUmhBMFluUDI?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:30:00",
+      "collected_at": "2026-03-05T08:11:21.487154",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "K-태양광",
+          "우주태양광",
+          "전략 국가 산업",
+          "2035"
+        ]
+      }
+    },
+    {
+      "id": "6a09c90f6f2b584e",
+      "title": "전남농어촌공사, 재생에너지지구 확대 착수 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWlN1MW1tTHFZQW5XRVA2TFZhN0dUbXpRaTAwUXVrZlVURzYxb04yZS01ekNGQjRwaVlmVE5jbzhLMG8wSXc3aWw1QUJVaFZlQlRB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:17:00",
+      "collected_at": "2026-03-05T08:11:21.487203",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남농어촌공사",
+          "재생에너지",
+          "지구",
+          "확대",
+          "착수"
+        ]
+      }
+    },
+    {
+      "id": "ab786a6ebd6c6bc6",
+      "title": "미·이란 충돌에 갈린 ETF 성적표··· 방산 웃고 ESG·재생에너지 울었다 - 그린포스트코리아",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwZ3JCWU5XTVotRVdxcDJqaGk2VXM0RWNEbHhqY1BfR1FVaGNkbk9aYkZvaHo4UnA1a2VPdC1ELThiRFZUbFQ5aVpNNHAyWnNVcUg3MnYxVXduTFVjc2FIYXhGQTJLM2JNLUdfd3I2aXNjVzBWV3fSAXpBVV95cUxQTlc0VHFxbzh5TjRqeGJGLTU5dGVYWTItSmNySUNUb1JTYmpOY1psNkRydEtPakN0Y3I1WFVvOUFmMWhKRktHU3dwWUlXMmxiU3kyblBsRDhLZE4ySzR2QTZHSGZKQ3JpbnBzNEU2RFhSZEJqS3h1eGtYdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-04T23:34:13",
+      "collected_at": "2026-03-05T08:11:21.487254",
+      "keywords_matched": [
+        "재생에너지",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미·이란 충돌",
+          "ETF",
+          "방산",
+          "ESG",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "0a847e605701794a",
+      "title": "파주시, 이클레이와 함께 '분산에너지 활성화 및 재생에너지 갈등 예방' 전문가 토론회 개최 - 경기매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sSTF2Y0FzSGVYLVgyWWk2OElHOUpZR2ZwX1kyLUExbno0a3dYRGFFWk9FazRGM2hoOGs0Qm5STGc5S3BsTmNDVkNqVmh5aUJvU0kycl9OcjZmWDMxamZIdS1lOTB1MTg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T00:06:07",
+      "collected_at": "2026-03-05T08:11:21.487431",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "파주시",
+          "이클레이",
+          "분산에너지",
+          "재생에너지",
+          "갈등 예방"
+        ]
+      }
+    },
+    {
+      "id": "e50bce79108789e7",
+      "title": "中, 유럽 전력망 장악 나서는데 … 지역 이기주의 발목 잡힌 K-재생에너지 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42dXZERXJVV0FnLVVrbGoyTVBOa1JIdUFPS0FMOFFicEYyM0tFcXptTGhqdEtMb3dQRVlfanJzSl96Y0VuV01sYl9GRXNDd2VvaHBYWjYzRDZZYjJhTDRNc0k0YWh1dUI0enRlTUh0aTNTRXNVR3UwNGx0QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:17:15",
+      "collected_at": "2026-03-05T08:11:21.487604",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "유럽 전력망",
+          "K-재생에너지",
+          "지역 이기주의",
+          "장악"
+        ]
+      }
+    },
+    {
+      "id": "ab528cd72bd633a9",
+      "title": "주철현 의원, 전남광주신재생에너지공사 설립 공약 제시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BeHZEMndESjEzNWx4SFJEZjJvTTZyUml3Y0xTNy1CTGs0ckR5VTI1WUk3NXpLNDhQb21SaUV1eXpOVEZhRFg5ZjNtOG03QmlHaFVJ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T01:39:00",
+      "collected_at": "2026-03-05T08:11:21.487712",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주철현 의원",
+          "전남광주",
+          "신재생에너지",
+          "공사 설립",
+          "공약"
+        ]
+      }
+    },
+    {
+      "id": "589279792177f4ac",
+      "title": "나주시 주민참여형 햇빛연금 발전사업 추진으로 신재생에너지 이익 공유 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA1eW9XSzlMWE10TFJ6X3JwOVJFTTFtOUc5ZW16NG9aSGpvMENhVXlmc25YT2JKSDg0cUU3X0c4cmJzd1k?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:43:00",
+      "collected_at": "2026-03-05T08:11:21.487961",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "햇빛연금",
+          "신재생에너지",
+          "주민참여",
+          "이익 공유"
+        ]
+      }
+    },
+    {
+      "id": "6112255f7a57e86c",
+      "title": "\"에너지 전환 시대 정조준\"··· 현대엔지니어링, 원전·수소·태양광으로 '에너지 밸류체인' 확장 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3d2NnbjFmY2ZNRlBjNGtCcmttRE5jcHJtaE90Z0tPbUVxTnVxR0sxZHB3d1lfdFFESGNyVW9HVTFtbzV2M3JqazVrZjZldElTbmxz?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-05T06:26:00",
+      "collected_at": "2026-03-05T08:11:21.488093",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지 전환",
+          "현대엔지니어링",
+          "원전",
+          "수소",
+          "태양광"
+        ]
+      }
+    },
+    {
+      "id": "548bca10c020412d",
+      "title": "해수면 상승 위험 최소 1m 과소평가···“육지 침수 피해 최대 37% 더 늘 수도”",
+      "link": "https://www.khan.co.kr/article/202603051655001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-05T07:55:00",
+      "collected_at": "2026-03-05T08:11:23.266206",
+      "keywords_matched": [
+        "지구온난화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "해수면 상승",
+          "과소평가",
+          "육지 침수",
+          "지구온난화",
+          "개발도상국"
+        ]
+      }
+    },
+    {
+      "id": "c3ca600b52137420",
+      "title": "태풍·높은 파도 줄자··· 국내 연안 침식 우려·심각 지구 20.9% 감소",
+      "link": "https://www.khan.co.kr/article/202603051646011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-05T07:46:01",
+      "collected_at": "2026-03-05T08:11:23.266450",
+      "keywords_matched": [
+        "태풍"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "연안 침식",
+          "해양수산부",
+          "침식 감소",
+          "태풍",
+          "높은 파도"
+        ]
+      }
+    },
+    {
+      "id": "b6caf69e155b803f",
+      "title": "EU 집행위, ‘메이드 인 유럽’ 전략 발표…한국 산업에 미칠 영향은?",
+      "link": "https://www.khan.co.kr/article/202603051611011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-05T07:11:01",
+      "collected_at": "2026-03-05T08:11:23.266928",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "EU",
+          "메이드 인 유럽 전략",
+          "산업가속화법",
+          "저가 수입품",
+          "자유무역협정"
+        ]
+      }
+    },
+    {
+      "id": "4632f6cd47b6e377",
+      "title": "화학 소재로 만든 ‘인조가죽’이 ‘친환경’ 둔갑···소비자 기만 의류 대거 적발",
+      "link": "https://www.khan.co.kr/article/202603051537001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-05T06:37:00",
+      "collected_at": "2026-03-05T08:11:23.267551",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "인조가죽",
+          "친환경",
+          "그린워싱",
+          "소비자 기만",
+          "한국소비자원"
+        ]
+      }
+    },
+    {
+      "id": "e539b2e81f94b9cf",
+      "title": "Michael Sheen narrates new climate change film shot in Norfolk - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXTE9zVnptZFNabXFZeVVQdmlpY1VtRDBYaHhzTzctNDZPOFo0amFVeDdvZ1pTR1EtaE42UzJ6aUtwd2QwOGRmLXdhSVMybWtrNENweDAwbUkwQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T06:49:39",
+      "collected_at": "2026-03-05T08:11:23.801000",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "마이클 쉰, 노퍽에서 촬영된 새 기후 변화 영화 내레이션 맡아 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "마이클 쉰",
+          "기후 변화",
+          "영화",
+          "내레이션",
+          "노퍽"
+        ]
+      }
+    },
+    {
+      "id": "24ab9061b0a2209a",
+      "title": "A Crisis in the Alps: Airbnb, Climate Change and Americans - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcGdHNkEzdUdseFpVeEN2S0F3XzhEc1lhcmY1LWxsMFJodkVHNjRMQ3FSX19LcHpTTEJOWW9rZnhyRVFxWDgxellDZWczRks2bGhQWUZMYW5hX1E0bzBYTWg2Q1hNUWhNbTZIM3JUYS1BOHp6TlJlcVFjUDFvZGtXb050bEJsb0RFMUVzNDdUUUJtbkI3WUIxb2RhZjlWQVk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T01:50:00",
+      "collected_at": "2026-03-05T08:11:23.801095",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "알프스의 위기: 에어비앤비, 기후 변화 그리고 미국인"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "위기",
+          "알프스",
+          "에어비앤비",
+          "기후 변화",
+          "미국인"
+        ]
+      }
+    },
+    {
+      "id": "ef6937fe599620e8",
+      "title": "Climate change pushes tropical insects to their heat limit - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxX1dZcF90a0I3T3NJb0pDa3NJOHcxOWgweGRqaXRmeEN0ci0yWkh2QjE2d2YzTEZBMHlnOVlZVVV1Q2lOemE5V1JxSTdBUktFeXJVRG5kalpaS3FTS0Z2S1ZDZ0JQd1FNNWU5Y0tqc25tQWc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-04T19:20:03",
+      "collected_at": "2026-03-05T08:11:23.801308",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 열대 곤충을 열 한계로 내몰다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "열대 곤충",
+          "열 한계",
+          "더위",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "9b47974e445d9171",
+      "title": "Climate Change Is Slowing Down the Wind, Studies Find - The Energy Mix",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHktRllGVGJGWGU2SS1Bb0M3OFlsTkhVUzA2bHRRa29INmtKeDdxdTJ3MVYzRWhBMk5WdUdvYTBZY2hHNFhPMWk5VzZhbU1HMVpVODR3WGc4bGhEN250MDdSVWpuS2cyQ0MtVjU3UWpiU2pXZlZRSlpzVWZQX1pBQzVIeXZpdFpOVkE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T04:23:16",
+      "collected_at": "2026-03-05T08:11:23.801616",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e304cea7c38dc993",
+      "title": "Boise Launches Community Climate Action Guide - City of Boise",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQkxwdW9YZlNDR05xOGdyUENLUkRNWXBwbkFHNEtUN05kYjhKOWxTeEx0S2RNZm9rYmFLSW5JQTh1NTNMUjZHSWhIenU4dFJDbnJ5OG9mT21vUWZfQWFDcTZoQ2YwWVJWT3dSZkU0bmlYQmJOWm9NUFIzY3owUnM3YV9MNXdJWGpnMnNtX1RjYU16UVY2Z21jbHNvZzV5S0pPOGZXZkln?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-04T20:27:53",
+      "collected_at": "2026-03-05T08:11:23.801664",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "보이지, 지역사회 기후 행동 가이드 출시"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보이지",
+          "기후 행동",
+          "가이드",
+          "지역사회",
+          "출시"
+        ]
+      }
+    },
+    {
+      "id": "1a4bf223dec5c7a0",
+      "title": "Climate Change Drives Walruses Northward - polarjournal.net",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwTFVtbi12Qkt3cnZFNTRJUjlMMTQ2bGlhVmNLMXY3RDNabmhlRFRzS1c2aGNsVjlwaEptYnUzRTdHSWtQQU1CeFUxLTlPY3RMY2F5NFJob19EY3JFQ05XRkJiTHgzb0M5Z1BKNUR6Sm44MUZa?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T04:40:50",
+      "collected_at": "2026-03-05T08:11:23.801736",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 바다코끼리 북상"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "바다코끼리",
+          "북상",
+          "북극",
+          "생태계 변화"
+        ]
+      }
+    },
+    {
+      "id": "e92671c12ca1a75f",
+      "title": "Nature’s rhythms deteriorating: Climate change is altering the flowering ‘calendar’ - Down To Earth",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUEdVN251czFTalFnTC01VVE2NEUzS2lqelhmcUVTUUQyQkxIdkU4OF94QXRMQmUxT3J1Q3lUbUEycVFZTHNiMENReFlSeUxISW5nc05OdjJFVVBCcHpOcks5c1hrbXlPbG5QWmlqVjUwalY2cFdWS3ZoRDJ0VG9UTXNTdFhQdW10MXBNNWN3czB5dWtiaDZVVm9vNG9vZWhaMnJrOFZkMFh5ZDVPRTlOSzNNallWT0VxQVBQM2ZHUVdwZU3SAdABQVVfeXFMT1J2djNmS1pJUkRfRlI5dEZSaWF0al9yLTBReFVFMTZQTENZWkd1UG1hMmNRU1lkVW5scVRBSzZPanFuWVF1YXctU2p6a1pOUk9OUE0xV0ZKM3JVejZDa21Uc2treVNtY3V3dmEweG9KNDNyOHZFWUd0c3NtUXZGUmdMNEtyMDNmMFRIWXlaMzZhV1MyQ3pYY2V2LWhrTmRUdXo3UFY0RXFqYmpaeVh6WXNFcjl2QnhQZzNhcWJPakcwUk9zWlNEQkFlRV82VlEwYQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T06:42:32",
+      "collected_at": "2026-03-05T08:11:23.802718",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "자연의 리듬 악화: 기후 변화가 개화 '달력'을 바꾸고 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "자연의 리듬",
+          "개화 시기",
+          "악화",
+          "생태계 변화"
+        ]
+      }
+    },
+    {
+      "id": "141d4dc86e93f3aa",
+      "title": "Michael Sheen narrates new climate change film shot in Norfolk - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kZ2JBYVFpQllxbFhmSG1fWTg3UzN0czdOYzYxTTViMkxtWUl6eTV6Q2R4aXpJN3V0R1RKLVA4YVVBYnRhdjRHUUlSVmNhS0ZFdUNsajVTSjJyME5i?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-05T06:49:39",
+      "collected_at": "2026-03-05T08:11:23.803403",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "마이클 쉰, 노퍽에서 촬영된 새 기후 변화 영화 내레이션 맡아 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "마이클 쉰",
+          "기후 변화",
+          "영화",
+          "내레이션",
+          "노퍽"
+        ]
+      }
+    },
+    {
+      "id": "b43d615ce9beb2d5",
+      "title": "A Europe of clean, green cities and resurgent industry is a fantasy – unless we get really creative | Hans Larsson",
+      "link": "https://www.theguardian.com/commentisfree/2026/mar/05/europe-clean-green-cities-resurgent-industry-fantasy-creative",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-03-05T05:00:52",
+      "collected_at": "2026-03-05T08:11:23.645813",
       "keywords_matched": [],
       "translation": null,
       "sentiment": null,
