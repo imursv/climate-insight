@@ -1,0 +1,615 @@
+{
+  "date": "2026-03-07",
+  "generated_at": "2026-03-07T23:10:59.913266",
+  "briefing": {
+    "opening": "Good morning/afternoon, everyone. I will now begin the climate briefing for March 7, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Accelerating Global Warming and Its Impacts",
+        "content": "According to recent research, global warming has accelerated more than ever in the past decade, with the warming trend nearly doubling since 2014 [11]. Scientists warn that global warming has reached its fastest pace in 100 years, reporting a 'significant' acceleration in warming since 2015 [17, 23]. This acceleration is leading to direct threats, such as an increased risk of avalanches [16], and is even causing technical issues, such as adverse effects on electric vehicle batteries [9].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Spreading Carbon Neutrality Practices in Korea",
+        "content": "In Korea, efforts to practice carbon neutrality are actively underway, centered around local governments and educational institutions. Jeonbuk Province and Gwangju City are respectively recruiting participants for the Carbon Neutrality Point System and the Vehicle Carbon Neutrality Point System on a first-come, first-served basis, encouraging voluntary participation from citizens [1, 2]. In Dongdaemun-gu, the 4th cohort of the Youth Climate Volunteer Group has launched, leading carbon neutrality practices alongside young people [3], and Gwangmyeong City is fostering '1.5℃ Climate Volunteers' with the goal of achieving carbon neutrality by 2050 [4]. Furthermore, the Chungbuk Provincial Office of Education is operating all schools in the province as carbon-neutral schools, strengthening climate crisis response education [5].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Domestic Renewable Energy Transition Efforts and Challenges",
+        "content": "In Korea, investments and efforts for the transition to renewable energy are also continuing. Taean County has signed a 1 trillion won renewable energy investment agreement with Vina Group, accelerating the region's energy transition [8], and Yeonggwang County is sharing the profits generated from renewable energy generation with its residents, distributing the benefits of the energy transition [6]. However, an imbalance in media coverage has emerged, with central newspapers primarily covering nuclear power while local newspapers focus on renewable energy, revealing the stark reality of climate reporting and underscoring the importance of providing balanced information [7].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 International Climate Response Efforts and Knowledge Sharing",
+        "content": "The international community is exploring knowledge sharing and policy strengthening to address climate change. In Nairobi, Kenya, a workshop was held to validate a new climate knowledge portal aimed at improving access to climate-related information, facilitating discussions for stakeholders to evaluate it [15, 22]. The President of Finland urged a joint response to climate change, emphasizing the importance of international cooperation [20], and Kenya's Ministry of Environment and Climate Change concluded a technical consultation workshop for the first phase review of the national environmental policy [18]. Notably, in India's Punjab region, women are leading the fight against air pollution and climate change, demonstrating the power of grassroots movements [21].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ The Need for Climate Change Adaptation and Awareness Raising",
+        "content": "The necessity for adaptation to accelerating climate change and raising awareness is also being highlighted. Realistic adaptation measures are required, such as the proposal to purchase land in safe areas as part of insurance policies to prepare for climate change [10]. Concerns are also being raised about the impact of climate change on U.S. coastal cities [14], and reflection is needed on the reality that the perception of 'we are all in this together' does not always translate into actual climate action [12]. Given the complexity and widespread impacts of climate change, continuous education and active encouragement of participation are crucial at this juncture.",
+        "tone": "urgent"
+      }
+    ],
+    "closing": "As we have seen in today's briefing, global warming is accelerating, and alongside diverse domestic and international response efforts, more robust implementation and adaptation strategies are required. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Jeonbuk Province, 'Carbon Neutrality Point System' first-come, first-served recruitment... Up to 100,000 won incentive - Hans Economy",
+      "original_title": "전북도, '탄소중립포인트제’ 선착순 모집…최대 10만원 인센티브 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qVVppckpHREFBcnhTZXktTjFSMEZTLVo5QkIyODZtci1VVTg1b1g0WjM0czd0cUZUXzRMaXRJcVo0SDFBQ1dzZjAzWHlWbXkxdERiaW4xMW55QzBvVG9LZFR1RmdWQy1UX3Jz0gFvQVVfeXFMTmlLV2UyT0pSSGRsVDlxMllDQ2JQQnlUSWtEYkl0bTBhOE1wZ1pFQUFqSFhUNnZPRXJkVnZzRjR2bDhuRC12RG12bW0tYk10MDlPMmI5V2l0bVFpczZYVHR2ZUc4TjlsUGJvdkgxemZz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-07T22:29:49",
+      "description": "Jeonbuk Province, 'Carbon Neutrality Point System' first-come, first-served recruitment... Up to 100,000 won incentive Hans Economy",
+      "summary": {
+        "phenomenon": "Jeonbuk Province is recruiting participants for the 'Carbon Neutrality Point System' on a first-come, first-served basis, offering incentives of up to 100,000 won to participants.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonbuk Province",
+        "Carbon Neutrality Point System",
+        "Carbon Neutrality",
+        "Incentive",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전북도, '탄소중립포인트제’ 선착순 모집…최대 10만원 인센티브 한스경제"
+    },
+    {
+      "id": "2",
+      "title": "[Break News] Gwangju City, 'Automobile Carbon Neutrality Point System' recruiting 5,378 vehicles on a first-come, first-served basis - Break News",
+      "original_title": "[브레이크뉴스] 광주시, ‘자동차 탄소중립포인트제’ 참여 차량 5,378대 선착순 모집 - 브레이크뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9DTXhwVHB2UHQ2LTlxaHZFN2lWU3RUVkpROWQtdi1aMHdTYTB0RkRNOFlGUTJsNmtYcG1XNmdoMFNXUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-07T16:25:00",
+      "description": "[Break News] Gwangju City, 'Automobile Carbon Neutrality Point System' recruiting 5,378 vehicles on a first-come, first-served basis Break News",
+      "summary": {
+        "phenomenon": "Gwangju City is recruiting 5,378 vehicles on a first-come, first-served basis to participate in the 'Automobile Carbon Neutrality Point System'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangju City",
+        "Automobile",
+        "Carbon Neutrality Point System",
+        "Participation",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[브레이크뉴스] 광주시, ‘자동차 탄소중립포인트제’ 참여 차량 5,378대 선착순 모집 브레이크뉴스"
+    },
+    {
+      "id": "3",
+      "title": "Dongdaemun-gu Youth Climate Volunteer Group 4th term officially launched, leading carbon neutrality efforts with youth > News - The Korea",
+      "original_title": "동대문구 청년들과 탄소중립 실천 앞장 청년기후봉사단 4기 본격 출범 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Tb0RLZkt4T2g4TWhBLXNBMTJJcy14MEgwOFo4X1F4cmNzN3MySEpwSFhFREd3Y0taLVNraGdxZG00bTFlM0xxb3VKeFltNjhGVE1aVHhRVUJERFl4VVVFZ2V6bG00ZWpwWGo5eDBNNXo?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-07T15:39:00",
+      "description": "Dongdaemun-gu Youth Climate Volunteer Group 4th term officially launched, leading carbon neutrality efforts with youth > News The Korea",
+      "summary": {
+        "phenomenon": "The 4th term of the Youth Climate Volunteer Group has officially launched in Dongdaemun-gu, leading carbon neutrality efforts alongside young people.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Dongdaemun-gu",
+        "Youth",
+        "Carbon Neutrality",
+        "Practice/Action",
+        "Youth Climate Volunteer Group"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "동대문구 청년들과 탄소중립 실천 앞장 청년기후봉사단 4기 본격 출범 > 뉴스 더코리아"
+    },
+    {
+      "id": "4",
+      "title": "Gwangmyeong City fosters '1.5℃ Climate Volunteers' to achieve 2050 carbon neutrality > News - The Korea",
+      "original_title": "광명시 2050 탄소중립 실현 위해 1.5℃ 기후의병 키운다 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQmpaUm51V0xDYS1zc29tZDNLV2lzak50RFR6bEhQSV9aa09xTG15dS05OXA5RXdxNThhSEFRSDRqVG1LVDJjTlNRcWJiRWJ4MFhjNkVCSlY2YmhRVGt2VnB2NGFsMU1JaG0zYXE1ek8?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-07T10:36:00",
+      "description": "Gwangmyeong City fosters '1.5℃ Climate Volunteers' to achieve 2050 carbon neutrality > News The Korea",
+      "summary": {
+        "phenomenon": "Gwangmyeong City is fostering '1.5℃ Climate Volunteers' with the goal of achieving carbon neutrality by 2050.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangmyeong City",
+        "2050 Carbon Neutrality",
+        "1.5℃",
+        "Climate Volunteers",
+        "Achievement/Realization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광명시 2050 탄소중립 실현 위해 1.5℃ 기후의병 키운다 > 뉴스 더코리아"
+    },
+    {
+      "id": "5",
+      "title": "North Chungcheong Provincial Office of Education responds to climate crisis by operating all schools in the province as carbon-neutral schools > News - The Korea",
+      "original_title": "충북교육청 도내 모든 학교 탄소중립학교 운영으로 기후위기 대응 나선다 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04ejV5MDJMNW9hN3ZDeW96dFVRQ0VBc0Fpa2xhTlplc2JhRU9PemxrNzZ1RzI1aTNUTlQ4S1c0TlJPWVZoeXFCbkxHaU95dzZiNzU0Yk5DYlhnMlU1clBTRkphU2VqajVjb3RRc1F2Zi0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-07T13:22:00",
+      "description": "North Chungcheong Provincial Office of Education responds to climate crisis by operating all schools in the province as carbon-neutral schools > News The Korea",
+      "summary": {
+        "phenomenon": "The North Chungcheong Provincial Office of Education is addressing the climate crisis by operating all schools in the province as carbon-neutral schools.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "North Chungcheong Provincial Office of Education",
+        "Carbon Neutral School",
+        "Climate Crisis",
+        "Response",
+        "School"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충북교육청 도내 모든 학교 탄소중립학교 운영으로 기후위기 대응 나선다 > 뉴스 더코리아"
+    },
+    {
+      "id": "6",
+      "title": "Yeonggwang County shares renewable energy generation profits with residents - MTN Money Today Broadcasting",
+      "original_title": "영광군, 재생에너지 발전수익 군민들과 나눈다 - MTN 머니투데이방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jdFE5OW03NUdpRTlXYkVCaDVvQVlaQXQzblEzUjRXdlQyTDRqVU1CMm8xOHduUHdBNlpnNGxYOVB5R0o3R1hUajVWeUtPdkp6RVJ6azhOZmpGa3k0NldpRGtuaEE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-07T12:00:02",
+      "description": "Yeonggwang County shares renewable energy generation profits with residents MTN Money Today Broadcasting",
+      "summary": {
+        "phenomenon": "Yeonggwang County is sharing profits generated from renewable energy production with its residents.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yeonggwang County",
+        "Renewable Energy",
+        "Generation Profit",
+        "Residents",
+        "Sharing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "영광군, 재생에너지 발전수익 군민들과 나눈다 MTN 머니투데이방송"
+    },
+    {
+      "id": "7",
+      "title": "National newspapers focus on nuclear power, local media on renewable energy... 3,000 editorials reveal the 'bare face of climate reporting' [Climate-Friendly Economic Life] - Nate",
+      "original_title": "중앙지 원전, 지역은 재생에너지…언론 사설 3천건이 보여준 '기후 보도 민낯'[기후로운 경제생활] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aSVhSSFA5Y3RHNkVQWmZkNDViWG9LZi1YUU4zb0N6YzZaWjdDU2ZOOVRCVlRwOHcwY3ZUVGJJdDNCMzlCOUI2MzhyWEt5ZUJfejVZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-07T20:02:00",
+      "description": "National newspapers focus on nuclear power, local media on renewable energy... 3,000 editorials reveal the 'bare face of climate reporting' [Climate-Friendly Economic Life] Nate",
+      "summary": {
+        "phenomenon": "An analysis of 3,000 media editorials revealed an imbalance in climate reporting, with national newspapers primarily covering nuclear power and local newspapers focusing on renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Reporting",
+        "Media Editorial",
+        "Nuclear Power Plant",
+        "Renewable Energy",
+        "True Nature/Bare Face"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중앙지 원전, 지역은 재생에너지…언론 사설 3천건이 보여준 '기후 보도 민낯'[기후로운 경제생활] 네이트"
+    },
+    {
+      "id": "8",
+      "title": "Taean County signs 1 trillion won renewable energy investment agreement with Vina Group - Seosan Taean News",
+      "original_title": "태안군, 뷔나그룹과 1조 원대 재생에너지 투자협약 체결 - 서산태안신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSdXFaclR5S0V3YTgtN0Z5aV95anFndjNURk8taFF1RjZkcUNZV3NhOFNGa1ZaOGp4UzNNSEkwNHNVSHd3NWlIbDhvTTg4a1Bhakp1aGRkbVAweU04OWF4TnMtRXpDa3Q3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-07T10:37:33",
+      "description": "Taean County signs 1 trillion won renewable energy investment agreement with Vina Group Seosan Taean News",
+      "summary": {
+        "phenomenon": "Taean County has signed a 1 trillion won renewable energy investment agreement with Vina Group.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Taean County",
+        "Vina Group",
+        "Renewable Energy",
+        "Investment Agreement",
+        "1 Trillion Won Scale"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "태안군, 뷔나그룹과 1조 원대 재생에너지 투자협약 체결 서산태안신문"
+    },
+    {
+      "id": "9",
+      "title": "기후 변화, 전기차 배터리에 악영향. 기술로 고온을 극복할 수 있을까?",
+      "original_title": "Climate change is bad news for EV batteries. Can technology outsmart rising temperatures? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNVElBV2RMVEoxYmQyTHQ5UFVCQkVoM21tTzJwSEVzOEt2eFpfbVlVMUlzQ0ROdnMtV2dzQ0ZNQVowYzhTd2NJVk1GRzRvMTZyM3U3UVVmMF9xLVU4Ulc5cWJUTFZwZXhwNG02MFpPem9JU0NTdUtMckZBOTZ6Z2ZaZDVrOTNnWFcwMVZ3NXdHZjVkSGxrMGJpa1BMNHlCb3FxcWJGZEtCUUd6bXFMdVJLTkhLWGs3RTRNSjVjdi15YlVOZ25SZVRtLVFxNE1CVHJCTF9YU1pCXzk0ckpFS3FJX2lVREV5eGJyWkVkS2tMaUs2emNmZVotXzZ4MndiUlp1VUJwZjBWajFGbHdjNnVBQlNDbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T20:54:46",
+      "description": "Climate change is bad news for EV batteries. Can technology outsmart rising temperatures? MSN",
+      "summary": {
+        "phenomenon": "Climate change is negatively impacting electric vehicle (EV) batteries.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It raises the question of whether technology can overcome rising high temperatures, suggesting a direction for future EV battery technology development."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "EV Battery",
+        "High Temperature",
+        "Technology",
+        "Overcoming"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is bad news for EV batteries. Can technology outsmart rising temperatures? MSN"
+    },
+    {
+      "id": "10",
+      "title": "MSN: 기후 변화 보험 정책으로 안전한 지역에 토지를 구매하라",
+      "original_title": "Buy land in safe locations as climate change insurance policy - MSN",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX2ZtQTVGQnNTSVF1cVpxMmR6NEFoZE1qQ3NTNXloZzlWeHpLZ19vREdkS19sQUtBT0FsY2t4U1N3dFdUTVVwdVBlRksyanFGVEFxR1hZSS1lTnBWdUxqb0tPb2haNzdRZmE3VU8wTkw5RURZV3pIcFJxT2xJcGthaXVQR3VSSVBFQjJfMkIxeTdOcnlDbW5ZQ3JqYUE5WjZJUDJsYU41Y2NoWlQyczVR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T13:03:36",
+      "description": "Buy land in safe locations as climate change insurance policy MSN",
+      "summary": {
+        "phenomenon": "Purchasing land in safe locations is being proposed as part of an insurance policy to prepare for climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This suggests that asset relocation to safer areas may be necessary to prepare for potential risks caused by climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Land",
+        "Safe Area",
+        "Climate Change",
+        "Insurance",
+        "Preparation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Buy land in safe locations as climate change insurance policy MSN"
+    },
+    {
+      "id": "11",
+      "title": "'The warming trend nearly doubled after 2014': The rate of global warming has accelerated more in the past decade than ever before - Live Science",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQOHB1a2lCWmhidVR1X2dPak1RSlBFVlNYRXRIeVhYV1ZKQW5Ic19VMktOUmtVclhVRE1kb0xEMXl5NE00TEpVLU9hMkFzQjRKYWF4cHBlYXI5bXFnSTI1UjZzUi1Xc1ZndzZNSU5LT1VLWURDT09scGFtaVAyUTlEZ3ZmVGVwckhUbXROczh1Qm1IdkR5dl9wSUFqWExEMDJiNW1FOWZac3p5a0o5aHA1UkpIZE5WVzZRZExwTGh5UExjYmlnT3ltdGp2MlRlNnY3Vm1nVnhVaHRfUDIyRFV1aDZyXzBWanRLSThXMkNjbURZeFNtVWtLSUNySzNzdzkyZXpPY2RtcEtlZDhfQlFBdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T14:00:00",
+      "description": "'The warming trend nearly doubled after 2014': The rate of global warming has accelerated more in the past decade than ever before Live Science",
+      "summary": {
+        "phenomenon": "In the past decade, the rate of global warming has accelerated more than ever before, and the warming trend has nearly doubled since 2014.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "'The warming trend nearly doubled after 2014': The rate of global warming has accelerated more in the past decade than ever before Live Science"
+    },
+    {
+      "id": "12",
+      "title": "왜 '우리는 모두 함께한다'는 말이 기후 행동으로 이어지지 않는가 - 굿 맨 프로젝트",
+      "original_title": "Why ‘We Are All in This Together’ Doesn’t Lead to Climate Action - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTm81Tlpja0tIbXplbzBPQ3c1TTU0bEVJZTAyRUVoS2VnN0Yxem9Td0JOZlpsNTdrWlRGWnpsd3JnaU9ZYUlGNm52X0VfVUJtRDZlT1JUbVpPa2RQRHdWaVdvVVJCZmlPVVc5Wkk5ek9kSEYzeTNXeEVJMFVpLS1VRDRZSm9mcWNTZXFDbEp1Yzl2bVdPYmlqdXhhclpCRllBLWlmSHlLNUhwUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T13:32:04",
+      "description": "Why ‘We Are All in This Together’ Doesn’t Lead to Climate Action The Good Men Project",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate action",
+        "Solidarity",
+        "Lack of action",
+        "Cause analysis",
+        "Sense of community"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why ‘We Are All in This Together’ Doesn’t Lead to Climate Action The Good Men Project"
+    },
+    {
+      "id": "13",
+      "title": "PA Assn. Of Environmental Educators: Professional Development Workshops - Teaching Environmental Issues; Climate Change & Agriculture; Collaborative Approach To Water Stewardship - PA Environment Digest Blog",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2JTU0VzU3dPQzAwLS1DUGdaVHpheTBfX1NpZEUzSTY2ZkhfTlFiN3RlSlhZdWJQM0VDZlJhU1pBVGNQcGJTemQ2TzBQM0w2SVliR3lna21yekdtSFJ6aFRDWFpoX1VldE4ycEVfck82bnhXUGFGTmZhY2pmWG0yUGJWcTFaTXBjMlkzTzVuZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T13:13:00",
+      "description": "PA Assn. Of Environmental Educators: Professional Development Workshops - Teaching Environmental Issues; Climate Change & Agriculture; Collaborative Approach To Water Stewardship PA Environment Digest Blog",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "The PA Association of Environmental Educators will hold professional development workshops on environmental issues, climate change and agriculture, and collaborative approaches to water stewardship."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "PA Assn. Of Environmental Educators: Professional Development Workshops - Teaching Environmental Issues; Climate Change & Agriculture; Collaborative Approach To Water Stewardship PA Environment Digest Blog"
+    },
+    {
+      "id": "14",
+      "title": "기후 변화가 미국 연안 도시에 미치는 영향",
+      "original_title": "How climate change is affecting US coastal cities - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzVIdkZTdEhjdTM5bGVDaFFvWVV0NURFaW1nVjZxTlpxVUkwVUZrbkhLWjhBQjdEei1hRXdpaDdvVXpDR1RNbzNPZ2pWSW5pd1gwcFFGZ2RlTTBLMWRCXzVyVVkzcl9tM3UyS0NBb3pFZGItU09uaXg3WVM4NEkwX3V3TXpod2FCY2NMQjdjUGlLQzlBRGplVTBKTzlWRmZibDRaVUpGNm5vdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T16:42:08",
+      "description": "How climate change is affecting US coastal cities MSN",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change is affecting US coastal cities."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "United States",
+        "Coastal cities",
+        "Impact",
+        "Damage"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change is affecting US coastal cities MSN"
+    },
+    {
+      "id": "15",
+      "title": "기후 관련 정보 접근성 개선을 위한 새로운 기후 지식 포털",
+      "original_title": "𝗡𝗲𝘄 𝗰𝗹𝗶𝗺𝗮𝘁𝗲 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗽𝗼𝗿𝘁𝗮𝗹 𝘁𝗼 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝘁𝗼 𝗰𝗹𝗶𝗺𝗮𝘁𝗲-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻. The Climate Change Directorate under the State Department for Environment and Climate Change has held a validation workshop in Nairob - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMitAlBVV95cUxQUUpTWkRsUURIX0h4azUwdXVJVDVESmtiSXZXYW9OZGtXQWtiM3pBNEhXSmdwYkFzSVdfQ2RnTnlUeF8xb2V6bGlGV3M4OFBEWWo3M0lvREg0NkpVclRaNU9fWWpHTVRSSjNydDByak1PQUNlVnRfbllkaHVBSUlHd2otUElRX0lyWkI3QXczNTJFODlyWDM0N2Ftb2FnTGxzeXREOTVRTE1aOXViX2xoZnIzN3JYNHNhaVVrbzMwNUdqWU1zRW1QN2c5UjZVaVpZdjN2a3RkaVhxYi14ZGxocEhKVmpsalhsZnFJMzZVNDE3OWtoa1lWUTg3OHVXV1phWGhrZEVPYjVWSkFGRXExNEUtWDI3Y0tBSVotQWxGRlRQVGw5N05hSXRxQURlZWhSUktSd01EVmQ5NEdOdHlPM2Q1S2lRWFFqY2NDRHZRT0FYRV80WmRNT2JoTFFKQ3VPaFpsYnNjSkZXLTdUcXVYaFhVQm5QQzA1ZlhpdE5xMERBWmwzaEl5Z05oM3lTVW9naWlxYnFJa3JVQkFUWDlHRHB5cnFOQTZ6aXRhWGVRaGZzNVdocEt0S1pLVk1RX1NES2JFU2VhVWpmNld3SkQ3a3Fab2tCVFdreXV1VnkxWW5HampCY28yRVdSRGpNM3lPZ3JlSWs3QzU0RVV6ODgzVE5tSmY3LTAyT1Z6T1ZNRk5nazN6V3hlWWtuVU9zcGtvVDF3eWdxNTBNang3WElNYkRPdUpnbU5UaHRvM3lPdjBEdTBJX0VhWlFuN0NvaWJDaDZJc0F0aENiRWhGcFhzZEpSYWRzQmptYzdzZjg4VWdCVXFOaTBvN0ZuU19lcEJSanVkLXNqRi1ZMV93RWtLOEpaM19iUk1XR2hMb05UMTg2WlN6dEt5UmFDeGpPM0p4X3B1OVFsOW1Xcmg0UU5UMnEzaEZsREdDLURweklMMlAxQWY2YkpsaENESXZIMnRyN3VtcUdCQTFSenFhZWhZM05BdVg5RkVkNDRCcUtHZkdMXzlNem1aNF9DamcxRDVZT0lqMTJoZ242Z3Q0czJUMkEwWU9RYTBONFI5LVZmbGs3YUpLb1ZZb21YLUwyOGczTm9oNEZqNnBEVFVCWnozazFrMlBCSGdXMGpyS3hOdTFLazNrWEplSC1yLXlPcXZHZ0hIdmRWWER3VFI0bXRoYm5aZW1PelhzOEdrR0wtSm5faGJlUEhjcmdnakFIb0xJUVNvZFVMcjc3Y2lpZURySDltTnNENEVBYktta0k0akxycEhYTzllWkg1a3RrbjF4T2I0SEtEbzJDVjR3N2FPbklJTWJGazJQXy1rbzBFaHFEbHJSNTF2TDFhaW9qTmllandBcmxLZXRic2drWENZTDNJY080Njk3UDVjYnVQdWMyV2dCb3gtRy1CN28xZ1JCcm81dG4xTXNhek1VOFdoUFM0SDdVTk9CSjlLWF9VS3lCVkItVVN2SnhBM2hINDg1YTBJbmNSR2xjSGU3VWVGVWxza0ZGVEJ2dTRIM3NSN0ZLVjNPQjEycmNoSTgyVU1WWjMteERwT1VuRVo2cmhGTXcxc0NOMkNsbklyd09jUUhkTVNl?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T12:29:57",
+      "description": "𝗡𝗲𝘄 𝗰𝗹𝗶𝗺𝗮𝘁𝗲 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗽𝗼𝗿𝘁𝗮𝗹 𝘁𝗼 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝘁𝗼 𝗰𝗹𝗶𝗺𝗮𝘁𝗲-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻. The Climate Change Directorate under the State Department for Environment and Climate Change has held a validation workshop in Nairob facebook.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Climate Change Directorate under the State Department for Environment and Climate Change will establish a new climate knowledge portal to improve access to climate-related information. To this end, a validation workshop was held in Nairobi."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate knowledge portal",
+        "Information accessibility",
+        "Climate Change Directorate",
+        "Workshop",
+        "Nairobi"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "𝗡𝗲𝘄 𝗰𝗹𝗶𝗺𝗮𝘁𝗲 𝗸𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗽𝗼𝗿𝘁𝗮𝗹 𝘁𝗼 𝗶𝗺𝗽𝗿𝗼𝘃𝗲 𝗮𝗰𝗰𝗲𝘀𝘀 𝘁𝗼 𝗰𝗹𝗶𝗺𝗮𝘁𝗲-𝗿𝗲𝗹𝗮𝘁𝗲𝗱 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻. The Climate Change Directorate under the State Department for Environment and Climate Change has held a validation workshop in Nairob facebook.com"
+    },
+    {
+      "id": "16",
+      "title": "기후 변화로 눈사태 위험이 눈덩이처럼 불어나고 있다",
+      "original_title": "Risk of avalanche is snowballing thanks to climate change - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxONTE3NExJZUtHV1FHOWo3bFZGa1JoeE14amhoVkdMbEkteGdyNTU0TWNmdV85XzVjcEVncjRHQjFtWXNqbUpzbnV5STM4UDRsR2t2aTlLSW5zalpUTnBmQUJTMV9JempqaWxVQTc1RElqcXhWQjdsbThTUS1lSWt5Q3JaR005VXR0V0tOVHdtRmpyU3MyUEZtMlo0cmd2ZzdvWHRDbU9qUEpqb2Rta0RDS1NTTWRvel9GVlBYMGRIX2F0eE4tUUU1Zm9ueEtfWlQ3anRJVlE2b19HQ3NWNVNOSUNWU3NZbXQ0OUlzNnZZeUNtWGo3cy11bjJmdFFyRHBKMGNwcDl3LTdSMjJ5UXV3ZEp4OVdNNUE2blZ3bDVLWUN4aGtVYjdSTURjTHphd0l2c0xIRVMyeUNLa2JWUndPUWs4WU9WQ1c2M2Q1b3dPNGVFRzNrLVRyaERkU3Y0OVdKX1l4MVdhaVhaejllYzM0Q05QbXRIeHJNUVBQTEY2OFctSEZzVVBqZFAySlp5RjZENWxJbUVkN0FzR1RIZzVwOUthcG4zSm82bW5rbG9nTFlXR01LaTJJMGxVN1plcEhUYWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T15:30:52",
+      "description": "Risk of avalanche is snowballing thanks to climate change The Times",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "The risk of avalanches is increasing due to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Avalanche",
+        "Climate change",
+        "Risk",
+        "Increase",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Risk of avalanche is snowballing thanks to climate change The Times"
+    },
+    {
+      "id": "17",
+      "title": "과학자들, 지구 온난화 가속화, 100년 만에 가장 빠른 속도 도달 경고",
+      "original_title": "Scientists Warn Global Warming Accelerates, Reaching Fastest Pace in Century - mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRRnZUblRVRmlZWFBTaVVGZEJFdFFQZzY1UnJseUh4LWo5YlVZZ0JFdWk0SHZHZ0N1NEF4YkhKdC1oQnMxWmtfYmtPejk0dFZtTU5UdEZCVlg3XzlMUEpvTkpzRQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T17:05:53",
+      "description": "Scientists Warn Global Warming Accelerates, Reaching Fastest Pace in Century mezha.net",
+      "summary": {
+        "phenomenon": "Global warming has accelerated, reaching its fastest pace in a century.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Scientists are warning about the acceleration of global warming."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global warming",
+        "Acceleration",
+        "Scientists' warning",
+        "Fastest pace",
+        "Climate crisis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scientists Warn Global Warming Accelerates, Reaching Fastest Pace in Century mezha.net"
+    },
+    {
+      "id": "18",
+      "title": "The State Department for Environment and Climate Change, together with key environment stakeholders, concluded a three-day technical consultative workshop at a Machakos hotel to review Phase One of the National Environment Policy 2013. Environment - facebook.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOSzRtbWpxZkN3OFYza2ZkdWp0WDNKcnpJbWFTWFo4Y0Z4d1B0WWFHbmdvc2RLbHZ1OE5OWXd4MHM3M1o0a3p6QXZvSzd2bmNDbDNnblFqVkpyejRxMDAtMmFVQU5FWjZ0R21ncklhWFQzX2hXWV9aVFFhZi1Pc1hLOWtpQW56YUg5V1RjN3I4RE1kMTZza1BGRUxyZkpZSE9MRHVWWVVuemRYTl9XVzBsR09NanVQb0tVSE4xX3F5LVRGbDdYR3VkTzVDa0xBTl82Vm9VMTEzdE1LQWRlenc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T08:39:02",
+      "description": "The State Department for Environment and Climate Change, together with key environment stakeholders, concluded a three-day technical consultative workshop at a Machakos hotel to review Phase One of the National Environment Policy 2013. Environment facebook.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The State Department for Environment and Climate Change, together with key environment stakeholders, concluded a three-day technical consultative workshop at a Machakos hotel to review Phase One of the National Environment Policy 2013. Environment facebook.com"
+    },
+    {
+      "id": "19",
+      "title": "자유당 상원의원 알렉스 안틱은 AI 도입으로 기후 변화 운동이 끝났다고 믿는다.",
+      "original_title": "Liberal Senator Alex Antic believes the climate change movement has ended due to the introduction of AI. - facebook.com",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWM4c3gyQ29aWUhaODdYT1VKbEFPT0xuQTctam5jUTRjODY3LVFMZXE4VjRIM3RQeW42MjRuUE16c0N2aXByTUJ2QVhIWmo4dFRjYUFSNUFOd0w3d25mUDBQT1gxY0k2OGFTTUlJdzFoM2dOU2ZFT2xOZEhNTDdkMTZOZ3NZcVlHT29tczNHMEhBVUlPWjI3NGRKS0F3SkY2bFI1STk5cll4YkhxUGpha1U4YTBMRlFVbGNIeFV2YjM5TnFWYnlVLWJMUWhuaG5DcEp3LXVZeXJKVlViX0Zv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T09:02:57",
+      "description": "Liberal Senator Alex Antic believes the climate change movement has ended due to the introduction of AI. facebook.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Liberal Senator Alex Antic believes the climate change movement has ended due to the introduction of AI."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Alex Antic",
+        "Liberal Senator",
+        "Climate change movement",
+        "Termination",
+        "Artificial intelligence"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Liberal Senator Alex Antic believes the climate change movement has ended due to the introduction of AI. facebook.com"
+    },
+    {
+      "id": "20",
+      "title": "핀란드 대통령, 기후 변화 공동 대응 촉구",
+      "original_title": "Need to act together to address climate change, says Finnish President - The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc2lxRGw0VVVhbjF0Y1ZqeElKdWZXV0N0VnZOMmZIMWFvdmNPVjRXNk9MWDlTb2tCdnBPQ0YzUEoxbDdhMW91b3dsODNMMTk1TWUwb0ltMWU0ZVhtd1IxR1kyNkZiWFhBQ2M5U0tRT0xSYkJ2Wjdlb2hDdEt5N0h3bjNIamtLUVduVFVaYTRvc2xvMGEyOWYyc2VPZTBlVGYtMVUxOWlTRk10Uk05RE1lRl9XcGphNXRHSzdsdEpZcU95U09YQ29mWmZwd205Z9IB1AFBVV95cUxNSTNRWl9pNUdHYXl1QzI2blNGakVqQWlXaHpNUkFuallXVk5vZDlILW5MTTNSVERUR1RuZmpDZjB3bno0YmR0QzRQV294QTA4cFQxM2VBZkVncmp4dS10Z3VPSTU5LXN1MHBvZFhoNWN0dnNPUWRwZHJncmYtMG9zcm54VUNWTmdDQVNzblVVcUNMN0I2cDJiQ2E5YzZyWGF2VS1DYnFta2Fmd2ZBMDhiaE1KVUJJV2tkZ213TGJmT0Vxak1pazJQcXM3cmhEOWE5bnpKbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T16:56:00",
+      "description": "Need to act together to address climate change, says Finnish President The Hindu",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Finnish President urged for joint action to address climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "Cooperation",
+        "Finnish President",
+        "Joint action",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Need to act together to address climate change, says Finnish President The Hindu"
+    },
+    {
+      "id": "21",
+      "title": "여성들이 펀자브의 대기 오염과 기후 변화에 맞선 싸움을 이끌다",
+      "original_title": "Women lead Punjab’s fight against air pollution and climate change - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOa215bml1UVpIU0FzS2NWQm5rNThiVTlEd0xqSGJPcTROUEh2c2JUZThVU0ZFcTZEOHNtelhlRkJTUEN3RDI5XzhOWGZ5R2J2Zi16OXJwSVZEV1duRXpsNXNmWFVsamtuM3JSdlA1MXNZaV9kRzBQYmV4UGM1Vkw4TUlZQ1VCV25EaUpVNEk1MV9iN0o0ZU1KanM0eENQTkZiY19ybC1VTE9Ld183Mm1mWlZIQm05Um5kWnlQVEk3cy1jZm9FT0VMYk9HSi1hcUdKQmFrRHI4Q3hzUm9WNDZYcjA5b3ByZmYzWWJHQUZsaDfSAfYBQVVfeXFMT1VadWlsMk11MXpaQVA0QS1oT0NSSmppSDNXWDFZeUQ4d2tsQ1JUX0x2NTFHb0taQ01FM0xZVTlpNWUzUy1xbktOdVREb2cyb2NEMTBXODFGNzR2YTB6WWEtaVFLVHFpTm91aE9weVgycmI0WVlYbGprR0d6T21PQmYtZmoyMUtFOW0wcDVZSGpvVFpxcWdmQXVsNUk4SDJmTVdleFEzZGozbTB1RDUzWkxDeXVpQ3huZ2txR1RXcHFSZmhmaWp1ak5FV3JmcnlNZUJEcDdpaU01cEJ6Ny1mVHpxcTBlbXFCNzZaNVVXOFZxX1pYaHNR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T13:42:00",
+      "description": "Women lead Punjab’s fight against air pollution and climate change The Times of India",
+      "summary": {
+        "phenomenon": "In the Punjab region of India, women are leading the fight against air pollution and climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Women",
+        "Punjab",
+        "Air Pollution",
+        "Climate Change",
+        "Fight"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Women lead Punjab’s fight against air pollution and climate change The Times of India"
+    },
+    {
+      "id": "22",
+      "title": "Knowledge Management Technical Officer at the Climate Change Directorate Faith A. Ondeng speaks during the Kenya Climate Change Knowledge Portal validation workshop in Nairobi. Ondeng said the workshop was organized to allow stakeholders to ass - facebook.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTjJtSXVBcllqWFpadVYtVUQ1YnNfeGZoLWtzMG93SmlKX0ptRDB0d0FhT2ZOaXV5Vi1lVnFYaDFhdTFpMHNzNi13MWpLYmkxai1pSkdLaTRhR09hc3g1M3VKNDAyV0ZDdEN2aXc3cWVSaDczM0lfMThfcG9TS2RqVzk4bktWZVhFY1RGVXlVLUcydFR0Q29IQ1ZoQU5odWpyMDg4Y3FiVDhndTRjNjlzb1dJcXd4a3M4LW9GTHZvSEtBRTNQb1padWpON3k2cEJrSEpTYWcyWExrbGxwN2c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T12:29:56",
+      "description": "Knowledge Management Technical Officer at the Climate Change Directorate Faith A. Ondeng speaks during the Kenya Climate Change Knowledge Portal validation workshop in Nairobi. Ondeng said the workshop was organized to allow stakeholders to ass facebook.com",
+      "summary": {
+        "phenomenon": "In Nairobi, Kenya, a Kenya Climate Change Knowledge Portal validation workshop was held, where Faith A. Ondeng, Knowledge Management Technical Officer at the Climate Change Directorate, spoke. The workshop was organized to allow stakeholders to assess.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Knowledge Management Technical Officer at the Climate Change Directorate Faith A. Ondeng speaks during the Kenya Climate Change Knowledge Portal validation workshop in Nairobi. Ondeng said the workshop was organized to allow stakeholders to ass facebook.com"
+    },
+    {
+      "id": "23",
+      "title": "2015년 이후 지구 온난화 '상당히' 가속화, 연구 결과",
+      "original_title": "‘Significant’ acceleration of global warming since 2015, study shows - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTlqUFJzdHpWWVlfVlJSaHJJLXEzbkhsVElOSE9uMVVUdUd3cldlM0Rrck1QYmJQY3ZIOFZuaFBsMmM5ZVllR2xnVG90NlgzZXBwYzBqNE1JNXh3VXA4c1J3TTBFcEZQSjNGZGVvdldaazNUZFp0elhqQnFoWGt1YnVWNEtTRFFfR3VlblRYalc1anU1Q0hWVFFLMFMwV2tibEtJLXREbTBKbHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-07T19:29:08",
+      "description": "‘Significant’ acceleration of global warming since 2015, study shows The Straits Times",
+      "summary": {
+        "phenomenon": "According to a study, global warming has significantly accelerated since 2015.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global Warming",
+        "Acceleration",
+        "2015",
+        "Study",
+        "Significant"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "‘Significant’ acceleration of global warming since 2015, study shows The Straits Times"
+    }
+  ],
+  "summary": {
+    "total_count": 23,
+    "domestic_count": 8,
+    "international_count": 15,
+    "top_keywords": [
+      "Climate Change",
+      "Renewable Energy",
+      "Carbon Point System",
+      "Carbon Neutrality",
+      "Recruitment"
+    ],
+    "sentiment_breakdown": {
+      "positive": 9,
+      "negative": 8,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "재생에너지",
+      "탄소중립포인트제",
+      "탄소중립",
+      "모집"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
