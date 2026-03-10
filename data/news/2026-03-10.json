@@ -1,16 +1,16 @@
 {
   "date": "2026-03-10",
   "metadata": {
-    "collected_at": "2026-03-09T23:17:10.725703",
-    "total_articles": 66,
+    "collected_at": "2026-03-10T08:27:43.207715",
+    "total_articles": 256,
     "sources": {
-      "korean": 37,
-      "international": 29
+      "korean": 207,
+      "international": 49
     },
     "sentiment_distribution": {
-      "positive": 37,
-      "negative": 21,
-      "neutral": 2
+      "positive": 201,
+      "negative": 38,
+      "neutral": 6
     }
   },
   "articles": [
@@ -1721,6 +1721,4952 @@
       "collected_at": "2026-03-09T23:11:35.248881",
       "keywords_matched": [
         "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "9d940ae4f85963ef",
+      "title": "마른 겨울 이어 봄 가뭄 기후변화가 보내는 ‘경고장’ [지구,뭐래?] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyRjlHeDI4QW5WRHg1Z3RUaEgwOENWZGxLWE9IeHg0c0ZPVU5XWEs4SUotRWRmN1pfZXRWQjVzOUxjRTY0Q2lRVThxQno2X1E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:45:01",
+      "collected_at": "2026-03-10T08:11:42.123229",
+      "keywords_matched": [
+        "기후변화",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "가뭄",
+          "마른 겨울",
+          "봄 가뭄",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "2de78f123f89f864",
+      "title": "삼성전기, CDP 기후변화 대응 '플래티넘 클럽' 선정 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5NeVlHVDJuaVVHczVuRnhIa1NwZklGVHJ6N3dJa2RaMnI3V0JaSFRJUWNnV01BeVp5NlpCOHJyZ2dCZGYtN3FGQTZ4Wi1aUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:18:55",
+      "collected_at": "2026-03-10T08:11:42.123282",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "KB금융"
+        ]
+      }
+    },
+    {
+      "id": "8a4887dfd1355675",
+      "title": "진주시, 기후변화 대응 개화기 과수 저온 피해 예방 교육 추진 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SX3FOZ1FHWmdCUFkwQjBheWFYTU5NRnYyQnFtWVJZTU9ySFJpd183WmF6N0ZQNWFnZnQzMUFZNC1lcVktY1Y5TWwxajJJbG1xTWhiYUhyNHpKTVQ3YlRmOF9JSVcxV3pkdVpGNEZB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:45:16",
+      "collected_at": "2026-03-10T08:11:42.123341",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "진주시",
+          "기후변화",
+          "과수",
+          "저온피해",
+          "예방교육"
+        ]
+      }
+    },
+    {
+      "id": "d03bf153e876bfd5",
+      "title": "[김경중의 소소한 환경]탄소중립, 초록마을과 함께해요 - 충청매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VS2pycF8xV0QyZnBBWlQ0N25PNmdJZ0VXcHhvdUIxYzVyLXlOdTdybmM3SXlvSS1VV1gybUJzdF83T1R2anF5UlBwVjBlNzVCZFpoX0RZUDlMMGVzR1hqX3hlcVk4a3l0bmc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:47:45",
+      "collected_at": "2026-03-10T08:11:42.123366",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "초록마을",
+          "환경",
+          "실천",
+          "지역사회"
+        ]
+      }
+    },
+    {
+      "id": "978b0d32b6599065",
+      "title": "김해시, 기후에너지환경부 기후변화 지원 3년 연속 선정 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbVg0SlF0ZGlMNVY4cDVSTVNoazItSU5aNmM2Y2h3RHlsZkNOVmx6bi1vQ3BQaVR3cTlSOEVuVVRWSW1seDBTNjVWRDdiaWozRDl6RUotSHpzWVc3aXZnbHcxM2lHa3E3NEZsaXhaZjLSAXRBVV95cUxOSEJVUk9XbUpIZGkxYmdGaFVTWE5PUFB3QTJJQmw0T0xOOWlVci02bmJNYkR5SXBMTlMyczd6cXRPRXRLM3hKX1hBd3lldDBlSkZibDAxTVJkbjNKZW16blRidktUY25iTkpLRjBUaTgtMXF5dQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:15:00",
+      "collected_at": "2026-03-10T08:11:42.123394",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "김해시",
+          "기후에너지환경부",
+          "기후변화",
+          "지원",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "3e09b6cc8160faec",
+      "title": "삼성전기, 기후변화 대응 최고 등급…LGD·LG이노텍 '탄소경영' 인정(종합) - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMVDlWejZUa1RMU2JPRkQ0LVNqRUVEakt0YXpuQVZjSXBLNmJtcmNxOUJZeVc0TlNINXRGMFQ1d285ZUNSckZPUG9OTWFKRHB2VXFNUjdmZnphaFNBTkxsOERhaXdTcC1Pd1hvSnBkOXJhLVE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:01:01",
+      "collected_at": "2026-03-10T08:11:42.123420",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "기후변화 대응",
+          "최고 등급",
+          "탄소경영",
+          "LGD"
+        ]
+      }
+    },
+    {
+      "id": "3ba63942c0214365",
+      "title": "삼성전기, CDP 기후변화 ‘플래티넘 클럽’…국내 최다 선정 - 경기일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lV2Zfck5lREpHUTV4OHhkVzFlbUc1X3puU3IyZVFWYzByd3h1UTBfc3Myem8xZkJCSmFodm8zdUFxOExrODRra0puV29fR1VUaUNyYnIzUndCbG8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123446",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화",
+          "플래티넘 클럽",
+          "국내 최다 선정"
+        ]
+      }
+    },
+    {
+      "id": "e823c2ab3c97b215",
+      "title": "LG디스플레이, 10년 연속 CDP 기후변화 대응 우수기업 선정 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9lXzdIZ0s3QlVYZ1Z5THE4V2tjQk9KYXVhdUFpX09faS1Ua0ZZWE9tMnlISmlQYWRwdmpQVmY4c0F4a1EzYm5VaWRKdFJDUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123472",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG디스플레이",
+          "CDP",
+          "기후변화 대응",
+          "우수기업 선정",
+          "10년 연속"
+        ]
+      }
+    },
+    {
+      "id": "bb2b4c78ba890b17",
+      "title": "현대차·기아, 기후변화 대응 노력 인정 받았다 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZFc5UERULWlsSE83ekVOWHEyWk1XdG54d09FQk44andmYzUzV1BuaHo0TUEtNkpJNEJZTnpka25QQlZJNmQyMXQ1X3R5QnY5OVFpOHBR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:27:00",
+      "collected_at": "2026-03-10T08:11:42.123497",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "기아",
+          "기후변화",
+          "대응 노력",
+          "인정"
+        ]
+      }
+    },
+    {
+      "id": "34e379dc1588a27f",
+      "title": "삼성전기, CDP 기후변화 대응 최고 등급 '플래티넘 클럽' 선정 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IV2VVWGRkdU5nQ3Y0T214UzIzd1dDRkkxbi1PaHNwYTFrRGQtTGtrQVpBaldybFJ0SkpKdVEwdVlNNE9sU2NYdW1GcmprYTBUcG84YnNOaWdrZElMMXhZRHZtTVY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123523",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "최고 등급",
+          "플래티넘 클럽"
+        ]
+      }
+    },
+    {
+      "id": "a538b3e59f3a39f5",
+      "title": "KB·신한금융, CDP 기후변화 대응 평가서 '최고 등급'…ESG 경영 성과 인정 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15c2hiTURYNEJqcW1yc1RBOTZUMXdPZHVKazNWSTJIczVickFmc0ZJRDNjYk4tdEJIcmZPaE9VZndzS3luYUdCVnVyN2t4TXp0WHZFVEV3QnYyT1RKZEhNMmVjbG93RUZabnRRakNYd2Y?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:34:18",
+      "collected_at": "2026-03-10T08:11:42.123552",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "최고 등급"
+        ]
+      }
+    },
+    {
+      "id": "2f7065c0c1b897c5",
+      "title": "K부품업계, CDP서 기후변화 대응 성과 인정 - 뉴스토마토",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11LXBZdHoyT1VDWEFBWEFLaGlLSFB0Vmc5S1JZTk45VDNaLXVYU2k3Nk9DX1FWVFgzNW5aZm50QkRaTTBGX0pKYzZVRVQxTnVBa2w1RXVicVJrM1FLYUR3OQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123576",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "K부품업계",
+          "CDP",
+          "기후변화 대응",
+          "성과 인정",
+          "뉴스토마토"
+        ]
+      }
+    },
+    {
+      "id": "28dbc5ecadb6bfdd",
+      "title": "LGD, CDP 기후변화 대응 '탄소경영 섹터 아너스' 10년 연속 선정 - 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQSlh4elJ5V1VaRmc5b2N0aDMwMzBrajNwWWlIamIybXpKWWpya1ptbURmVGtTRThhSjhFV3hybHFWTE41QUhBRGp0M1hjZGJEYkhzR3JOV2dRTmdzbE9RRm52a0Y3T2lna2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123602",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LGD",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영",
+          "10년 연속"
+        ]
+      }
+    },
+    {
+      "id": "fcbb0bbe78a39ab3",
+      "title": "신한금융, CDP 기후변화 대응 '플래티넘 클럽' 5년 연속 등재 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QOVhJLWVUM3g5NmtwN3M4cWg5S05ua3VsNzNXNkk3ZjBrS0xQLVJkWWZrVlpPMkxQVjhodHNjMDB3NTlvakVIaW9ONk1lNTBPOTRuZzZYaEZCbjl5UTRZSUhUSVVTbXF5aDZN?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:51:29",
+      "collected_at": "2026-03-10T08:11:42.123627",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "5년 연속"
+        ]
+      }
+    },
+    {
+      "id": "36d2e7f7cf6f8194",
+      "title": "양대 금융 KB·신한, ’25년 CDP 기후변화 대응 ‘굿’ - 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFSXJhbWJZWEduR3o5NmtLSHlISEgzX3ptN3Q0bW84Y0FjMHY0M3dpZEZMLWVyOGxvREZiaFQtMFUyU3hqV1JBV0lkOE1JaVdfTTNoeWRhNlp0QmExbFdCblFjNVpNTFgyU2kyZUk2a3hNQjDSAXdBVV95cUxNb2x4djYxTWhocklaem1oSmdfOFpSMzlPR0J1TWY0Mk9XdGt1QVZfenN0SHNSeVhDR21SLW5xMmswc2ZXdFlkRkJza1pHTXRHWHJJUW8zZUNac3RQMWNTeFRsZzdkY3dfMV9fX1c5cDV4NGpKSlM3Yw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:43:09",
+      "collected_at": "2026-03-10T08:11:42.123653",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB",
+          "신한",
+          "CDP",
+          "기후변화 대응",
+          "금융"
+        ]
+      }
+    },
+    {
+      "id": "335d5e826f5bbce8",
+      "title": "삼성전기, CDP 기후변화 ‘플래티넘 클럽’ 국내 최다 선정 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GZVlPaEJrR1FPbm9UUkRNRkp6ZkVLaVMyR0hFdmZqZk1TTUx1VTV4S0sxSHN5b1RCOFRGQ2plREkxTE8tTXg4bkJ3dnpxVGc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:02:06",
+      "collected_at": "2026-03-10T08:11:42.123683",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화",
+          "플래티넘 클럽",
+          "최다 선정"
+        ]
+      }
+    },
+    {
+      "id": "986d906cdba7c32e",
+      "title": "한국가스공사, 기후변화 부문 '리더십 A- 등급' 획득 …에너지 공기업 중 첫 사례 - 뉴스포스트",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5VG9NSHVzNGxIZzZsb1hBWmM4UGFZeWw4ZTZGLVpOSVhMUEZ2blNyZEticGJWVWoxdzJtbjRKcXVBR1lwdGdyeko3ektEUVJsZE9RU29zdG1LQ3FsQl9fNmFFblc0WlRY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:47:23",
+      "collected_at": "2026-03-10T08:11:42.123714",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국가스공사",
+          "기후변화",
+          "리더십 A- 등급",
+          "에너지 공기업",
+          "첫 사례"
+        ]
+      }
+    },
+    {
+      "id": "95a1dd614ae22ae0",
+      "title": "삼성전기·LG이노텍, CDP 기후변화 평가서 상위권 획득 - 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GQ2E3bkVoRk4tMFU2V3paUlJyNy1ERVgwSlYxSExabUFxZHZrWnJOMzRSTHNTX0xNc1VRV2ppbkMySmIweFd0X0ZMZzRUMUJVMEJyY3ViS1h6cVBkX1B2UzdETnowMUtfVXp0bVg5akJla3M?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123777",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "LG이노텍",
+          "CDP",
+          "기후변화 평가",
+          "상위권 획득"
+        ]
+      }
+    },
+    {
+      "id": "4c66784aff3f2bd8",
+      "title": "진주시, 기후변화 대응 과수 개화기 저온 피해 예방 교육 실시 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKODRYVVhnNjA2NFlxSEpkaXR6WGpnZ1pqVldUYnZqYXI2Mkt4WnpFdXMtQ1lIQXBGbFVmQU9Vb3JieHRjS2g5RENLdHpKdXJtdzF4alNEZkVIX0tzcTlIN2VPMnc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:26:33",
+      "collected_at": "2026-03-10T08:11:42.123807",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "진주시",
+          "기후변화",
+          "과수",
+          "저온 피해",
+          "예방 교육"
+        ]
+      }
+    },
+    {
+      "id": "e310772459d20579",
+      "title": "삼성전기, CDP 기후변화 대응 ‘플래티넘 클럽’ 선정 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd0hqbTVRMEQtNV9sc3NvX1hwNU5yQTJfUXNQbnNsbzdMcjktV2Vzc0R2WGxQZE11ZEQxS1ROWk1JdVNNZVZqME9ZeGhYYVNqX0s0M3FpUkZhc1Z0UmJyNWx6ZkdNQUllajBDZkFDSmxMamtIV05oVnhHZlJwUmtoMFFn0gGWAUFVX3lxTE5RZ05zVkFHeXk0UXVfYVU1MjZhdEEtU0pVcVBhYkx1WV8teGU0T1J3ZVdFWjladmRoZk1yRGxjLVozSTNzTV9wd20tY3FJU0c3RDl0Wl95SzlyUTRqeVF5Yzh3WUxnQzlmdTZUdVpqMTdXUXpPaFpteVRqdlgtU0x5MDluRklSM2VtTmVqdUhLOTNVamozUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123836",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "684509f5f6638410",
+      "title": "신한금융, CDP 기후변화 대응 성과…5년 연속 플래티넘 클럽 - fetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vVFhXMTBMSHFRbUcyQ1VNZFVJanlzS3JnVzhZUS1RYUwtNGJhMEdneTkzWVdQQXE3TFRPOVdWdlRnOHpjUGFJWE9DUlVJX3FVeklBZmFjY0hBdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:01:55",
+      "collected_at": "2026-03-10T08:11:42.123861",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "성과",
+          "플래티넘 클럽"
+        ]
+      }
+    },
+    {
+      "id": "48220e9b007a79a3",
+      "title": "KB금융, CDP 기후변화 대응 부문 '탄소경영 섹터 아너스' 9년 연속 선정 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KNk0xUENjcVNVbVpydThVU2R1OWtoVlRTRHRET2dkLXhqdGZaSFZmZ0xRbHdyVDByYWNlZk9SNE9jMWNOdXJPVm9tUV9sMTlEcW9ORFRwR0FFaU13N2docG51ejc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:11:07",
+      "collected_at": "2026-03-10T08:11:42.123889",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영",
+          "9년 연속"
+        ]
+      }
+    },
+    {
+      "id": "c4d9fc7bdcd06692",
+      "title": "LG이노텍, CDP 기후변화 대응 평가서 3년 연속 A등급 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3clVnUWpFQkRqVTdJVHlPaXBVWENGSk9HbU5wbjI1WGtiUTAwZnV6YXdBVWtSZUUzZngzS0E3akhGYnRKR1BoZTJzU3VwOVhVLW5IeVp0NHhTWWRlTjNsVnRIbWc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.123914",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "95b4b8b33a4a9f92",
+      "title": "현대차·기아, CDP 친환경 경영 성과 인정…기후변화·수자원 관리 부문 수상 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqeC1fN2R1cUFoWVVFa1FybkxkWkUwTnFLUDdRRXFDZEk1ZDVBOWUwekNmeGxVWEUyenhDRl9wa0V5bnNfY0U0QjVsdEJFTXVscy13ZWkzcU5ZV1RSbWt6YVZveHNrNnNCaWkw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T03:46:34",
+      "collected_at": "2026-03-10T08:11:42.123941",
+      "keywords_matched": [
+        "기후변화",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "기아",
+          "CDP",
+          "친환경 경영",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "2b8ae61ffa28e774",
+      "title": "삼성전기, CDP 기후변화 평가 '최고 등급'…탄소중립 로드맵 이행 가속화 - 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORXFiZklTUzAtOGM5VDlibWNsMGpXT0x1bkx2UmdVcHpWenJNdXhBRDFPSWNVdkRCb2tCSTNKN29RNHZkeGdRRjk0MVdBclpIZXk0UmRma2JqRC1YZVdNM1N2UmJxRzVYeVZyOXhlOHI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:07:14",
+      "collected_at": "2026-03-10T08:11:42.123968",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 평가",
+          "최고 등급",
+          "탄소중립 로드맵"
+        ]
+      }
+    },
+    {
+      "id": "6fc48140f47e185d",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 3년 연속 ‘리더십 A등급’ - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zQnpXdGVuMko3YWcwYlp4YlRoMWtyYldTOWpOXzRiR3J1VXY1VFhNd1Jfb0pCYWlfZ2JjVVdUSUxob21PdUhPRTcwdGlnRi1iRk1jS1NqTGxKTkRqYnl3bUs4d2lvaDda?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:36:38",
+      "collected_at": "2026-03-10T08:11:42.123996",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "4db3f88c96cf0f0b",
+      "title": "신한금융, CDP 기후변화 대응 ‘플래티넘 클럽’ 5년 연속 선정 - 서울와이어",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1WVU4wMFlCa3Z3dzBYdGZieTVqSV9hOW9WUVk5YjNJWFh4c2NfOUVpWlduSm9LRjdNMFVCX0dSMjlYakhTU1MxZElUXy1qMUJ5Nm1obFU4N1RucVJaYjJTX2RZQzRENEdfMTlpOA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:46",
+      "collected_at": "2026-03-10T08:11:42.124022",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "5년 연속"
+        ]
+      }
+    },
+    {
+      "id": "07225efa87b14978",
+      "title": "LG이노텍, CDP 기후변화 대응 평가서 ‘리더십 A’ 3년 연속 획득 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSktUdUF3bzBLSHdSalZzSWJxOUV4dGx5UW1KM1pNSkNMNDlleW5aU3J5Wm1IN0RSZ05nNGNGbVhDWldhMkZxUHlzcFJvYlpiZmhOdHlwNlZ4ckd5LW9qR1ZuemRDLTgyUkFjRzhOdVJJQUpzSHhZNVNDY1lwanpQQ3hR0gGWAUFVX3lxTE1MQTJydjhFazVGTkxKa0JwT0dpZWlNblh5YWs3SFJ2QjR4X2ZLdzZWaVBpdUtEcEhpMWhramRFYjZ4azJUeFZTcDFhYUFwUXBVYnQ0N09udHdHVmdLRUNIUDh0NmtfaWd4VHFoSTN4TU9BX1hDdTNhMmpaTHkyQVgyTVlHMy1UcDVQOE1CQzljRkI1aWN2UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124051",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "5065dfb85fe982a9",
+      "title": "LG이노텍, CDP 기후변화대응 평가 3년 연속 ‘리더십 A등급’ 획득 - smarttoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TOHlZNFU5NDR3UlpPOTU2VmRuSTVSdFNaeHA0cXFDRnpzYlF2b0lQZ2tNZXdOXzk4UnU2aTAyMWZBZEwxa25KNmE5Nm94ZVNMQTJpM1NXU0dMY3dYX3BN?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124078",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "0e8a8db4eebb47d5",
+      "title": "LG이노텍, CDP 기후변화 대응 3년 연속 'A등급'… ESG 리더십 입증 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aNmRjc05vME5LaTZGZVRnMTZ3THZHbGhmUHZvbmlGTEJtR1ZVdVFaU055Sm9SeHBaSXhGNG1TVEl0alRMV3h3RGFUYVdFajZPLVhfSEMyY0RaSFdqYnZJeUdYaUk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124105",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "A등급",
+          "ESG 리더십"
+        ]
+      }
+    },
+    {
+      "id": "455dda0c3b550535",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 3년 연속 최고 등급 획득 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CUUxKV3U4YnJ4UXJnaGtyU0p6MHRlMDdTM2lQc21lYjBRLU5HQWFOS0tnc3pTNXNIUVgwckROZGJybjd6R2ZqNUF0MWdQZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124135",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "최고 등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "507d4b10f06b76f0",
+      "title": "[Energy & Now] 한국가스공사, CDP 기후변화 '리더십 A-' 획득...에너지 공기업 중 유일 등 - ebn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VEYzcW0wOXNyMzhTLWFpSm1Xd2duNUxzMUdfZlBFTkUxZVZLMVBDbTNkN3JqQThxZ3YtTDBoaXRFdUZ1LVYyOXVIeml5NVBpbzZXMTkyYzM1VGdfbjBpWHRacDRpTGtH?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:50:38",
+      "collected_at": "2026-03-10T08:11:42.124167",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국가스공사",
+          "CDP",
+          "기후변화",
+          "리더십 A-",
+          "에너지 공기업"
+        ]
+      }
+    },
+    {
+      "id": "35d67ee48aa78e72",
+      "title": "LG이노텍, CDP 기후변화 평가 '리더십 A'…3년 연속 획득 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGSkdxR0ZUVWd1cUxiZ25zeHg5UVNKQkJDR0p2WVlnalNiVndlS2JWSVgyM3oxbUhZWWx6TG5tcGlMQVRGRHlQdV8xZmI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:01:16",
+      "collected_at": "2026-03-10T08:11:42.124192",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 평가",
+          "리더십 A",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "f77596d6667aa78b",
+      "title": "신한금융, CDP 기후변화 대응 ‘Leadership A’…8년 연속 명예의 전당 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XdlpuX2ItVjdvQnZJOUV4ejloQ09oa2dSWUY3NG45Z1Vkd3NkMlBXRi1qX0dHdmctWE5JYkl3bkRwblpyU3d3Y1h5UHRtbDV1QjhuUnNSRmpVYmt2Vmt1SnlvN2xtMjZrblNxRnBGRjdYWXPSAXdBVV95cUxQYVZGZ2JYYzNJcmZKbndFUkNQVGoxbHVtMFB0LXJtb2hBTUxBeE5tRkxlVVZUNV95Q3ZQaU9Vc014MVNBNnFoQmZqcno1OGRvcXdRZnZzMUZwclZtSnFrdzJFM2RFN1ZDVlRtZ2VWNEd0eXJ2OGxUdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:16:35",
+      "collected_at": "2026-03-10T08:11:42.124220",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "Leadership A",
+          "명예의 전당"
+        ]
+      }
+    },
+    {
+      "id": "44dc3a5e30a66db2",
+      "title": "가스공사, CDP 기후변화 부문 ‘탄소경영 섹터 아너스’ 수상...에너지 공기업 유일 - 시사캐스트",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrLVBBQllrbE94ejZsM1FrTnB2YmpXUW1sbDBkcEg4REJDMGRTV2d5MGM5S2xQU0lQQ2tIc0d6TjhuUnBHbENFWWNHdUwzVGhpRU5mMGxRMG5UaEE5Y3NFR1I5WUhxOWs?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:58:54",
+      "collected_at": "2026-03-10T08:11:42.124247",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "가스공사",
+          "CDP",
+          "기후변화",
+          "탄소경영",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "e2f7892da30598e4",
+      "title": "LGD 기후대응평가 10년연속 '섹터아너스'…LG이노텍은 7년연속 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vc2FyS3ZYY0xHLThUdFNqbmhqM09QR1J5R2t3eFhGcVNUT2hWOVdXZkJlbDNtblRoVzdXNGlSbEFzVHI0QU5tU05BUnM3azhOWHFhbkwyeUUxZlnSAWBBVV95cUxNOGsta1dVdWJYSk5EUk5iR0k0SjB1WmdXdkNoY1NwNjRpV3ZWWmtwT0JIdVpIV25sOEkwRy1oalNXU09mRnBCbk1JVWpmWXNXNmc5ZWE1Ry1iVlJXbmxvZGg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:03",
+      "collected_at": "2026-03-10T08:11:42.124272",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LGD",
+          "LG이노텍",
+          "기후대응평가",
+          "섹터아너스",
+          "지속가능경영"
+        ]
+      }
+    },
+    {
+      "id": "4cf2b6bd95ba94e6",
+      "title": "삼성전기, CDP 기후변화 '플래티넘 클럽'…국내 최다 8회 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5aSmt6N1hCMUxlZ2ZRV3JSem91clhLWTNMY1BtWEk1NlQ3WEZEZkNRemRDNDZ2ODBpbkRVeUZsUUc1TlIzbnlIV3p4TWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:02:03",
+      "collected_at": "2026-03-10T08:11:42.124296",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화",
+          "플래티넘 클럽",
+          "국내 최다"
+        ]
+      }
+    },
+    {
+      "id": "99638fb03643656a",
+      "title": "LG이노텍, CDP 글로벌 기후변화 대응 평가 3년 연속 ‘리더십 A등급’ 획득 - Korea IT Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CTUtpOENDdGhZX0p4N0d5QVpaVG5waHVFSUZ2SVJ3Ni1sYXFsNEg2aXZRRnNPdTY3UEFnaGh3bVJzY0pJSG55RkhtQjJjS0VhaVN5N1pjTDdrbDI3SDFIVHhnYzVRS3d1Q29LSDU1RU0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T03:36:01",
+      "collected_at": "2026-03-10T08:11:42.124325",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "f036a0c0ac4f9d82",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 '리더십 A' 3년 연속 획득 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wVU5VekRkd1hvMFZXcU5XWjJONVFVV1FFZ2dDNzRWRnVPZTVNQ2owV0RUaGwyeUtJTW5ZamtONXdlSkdSSVhOQlhPMlhNNFIxZS1saGFLOFVKVkdXSGxpU1l2SXoybU1IZE5BRXFFTVY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:49:08",
+      "collected_at": "2026-03-10T08:11:42.124351",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "ea655962f728504a",
+      "title": "KB금융 9년연속 CDP 기후변화 대응부문 ‘탄소경영섹터아너스’ - 인더뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OWnNfelhOcXZDbjRnWnJiMXo1SE9VMXRTVjJ3YkpUWDJYR09tTFdYRFVDcXVJbnVFcUpVR3dZa3Z2Q3JZcGdPa3VhX3VsS2hVM0NSWFR2STItV1RNZEZ6MThLSWk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:07:35",
+      "collected_at": "2026-03-10T08:11:42.124375",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영섹터아너스",
+          "9년연속"
+        ]
+      }
+    },
+    {
+      "id": "c42d5c4acf6c7166",
+      "title": "삼성전기·LG이노텍, CDP 기후변화 평가서 잇단 성과 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mQjhraDhXVE9hUDIwSU1ZMlI0MnF2SGJVd2Z5eTkyNUhzM3F6Uml0OGFjWWxkbTlrTUxCWnNnT1ZfQk1xNlc1amV2N1ZDay1KMnNfczdvaFFBWmd3M3NjcjFKX01SZ2xMTWpYNDIwa1RMMXBX?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:25",
+      "collected_at": "2026-03-10T08:11:42.124444",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "LG이노텍",
+          "CDP",
+          "기후변화",
+          "성과"
+        ]
+      }
+    },
+    {
+      "id": "b6e6ba0cfb7027db",
+      "title": "삼성전기, CDP 기후변화 대응 최고등급 ‘플래티넘 클럽’ 선정 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOLVhRMmMxSjcyajg0dzYtQlc0UWRLNE92SDU3dHRHRUdCNk02czRlbHpZWVVsMUlKT0ZGMkV6QmpRRk9wX0JSNVp1VDA3bGNpbHRiYkNGSnpKQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:01:00",
+      "collected_at": "2026-03-10T08:11:42.124493",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "최고등급",
+          "플래티넘 클럽"
+        ]
+      }
+    },
+    {
+      "id": "2f8b804c479886b3",
+      "title": "삼성전기, CDP 어워드 ‘플래티넘 클럽’ 선정...기후변화 대응 노력 인정 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iYlZiTmJYckxZa2lMYkQ0T1l5ck9WVUFKVmVGQ3VTXzdqcWJSMzV1TjBHZXJVUlN4QzMxVzV2dy1RaUx3V1huZU85Rzhkal83R3FiSHFzZnJWWmpHZUFLY0xWaUNvOHZrQXljb3VXb0hGRUXSAXdBVV95cUxNUDIycGNCSFEzcEE0NjdoSnhoclJwcUdBYW91aGVIRzNxYWNobm55ejVCTi1IN1luOXJWSlVVYnVpdTAtRU4xMEcyWUt1eFF5b0FmTlhmUWd4SUVwbUxPYzluUTByUlRxb1M1ck1WTzlDb0VHSVQ4bw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124542",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP 어워드",
+          "플래티넘 클럽",
+          "기후변화 대응",
+          "노력 인정"
+        ]
+      }
+    },
+    {
+      "id": "42797768227b3e99",
+      "title": "마른 겨울 이어 봄 가뭄 기후변화가 보내는 ‘경고장’ [지구,뭐래?] - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4teUJRS1M0SG1NU243MjhOcHVxOEUyaS1ZWlQyZ0gyV19aMnlFX19RME5MRWRteEFRZ3B1VEx2TU9MRWNHSzlWN0Q3RWN5SDV2SmJHLVV3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:43:07",
+      "collected_at": "2026-03-10T08:11:42.124567",
+      "keywords_matched": [
+        "기후변화",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "가뭄",
+          "마른 겨울",
+          "봄 가뭄",
+          "경고장"
+        ]
+      }
+    },
+    {
+      "id": "1785ceec12f59766",
+      "title": "삼성전기·LG이노텍·LG디스플레이, 기후변화 대응 '우수 기업' 선정 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41dVF1eUxRTjVZb3VfQ2VaY2xMM01BOURWV2J2TkRRX1VEdDBwT2MzTHJzUHdQcW81YTcxU0ljVkJaMlZ0RnR1bnp5SjZ5czlwakJ3YXd5TDlybktndTEyc9IBeEFVX3lxTE82NGRyT2h2bWRqaGxZZlVnU3dOOU0yU1B1UXJ5Y1pLVWhSem0zbjl6NTYxeFY1V2pKVHkxWGlCdWo4WGxVMHFPd1pVOHNVVnVkYWx1d3duYVFvaEgtWVE0eDFGVHIwUWpLZnppUEw3c1pfczRkUDE3dQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124593",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "LG이노텍",
+          "LG디스플레이",
+          "기후변화 대응",
+          "우수 기업"
+        ]
+      }
+    },
+    {
+      "id": "e70254660ca11874",
+      "title": "LG이노텍, CDP 기후변화 대응 평가서 3년 연속 ‘리더십 A등급’ 획득 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YVmJyeUlUVTNBTUJhNF8xenlwUmtEOEFRdjhvcDBzZGNDOTBGZk9SSkxWNE9BcEljUUYxcXhybzNYa0ZJY1BhRFBacGctalJXbzRpQ2xCSEZWbEVaa2ZtbGJ6SGdZZ0E2WE9OTllyY2lOd2PSAXdBVV95cUxNN0ZVYUgxRGs5THlqQmVIa2hwZlplajZzU3ZSc1ktSERyd3J5M3N0ZjhmbFVxSndMVTM1ZzE2NlphcjExVUVyTmtTMHM3TUg4Q3ltZVVfS1FWUEJSVENITEl1SDJVZ0NYdVBldFNkbFpEWmR5SmhTaw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124624",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "8fcd58ae9215507a",
+      "title": "KB금융그룹, 2025 CDP 기후변화 대응 부문 '탄소경영 섹터 아너스 ' 9년 연속 선정 - 스마트경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoTjB1ekVEdldYd3dqbGN0bTBZT2RSNjFJUnNhX0NES0VXNUtoWlhWajB2X1diajhiTERPZ1VBajdPeG1Ka01BLTY3TGZTRHFyQWIzRWFlTFMzNHVmVHdoQ3BvbGxTSkpuWGtpZHRLcw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:16:40",
+      "collected_at": "2026-03-10T08:11:42.124653",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융그룹",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영",
+          "9년 연속"
+        ]
+      }
+    },
+    {
+      "id": "5587c5b94a3e241c",
+      "title": "신한금융, CDP 기후변화 대응 최고등급 8년 연속 달성 - 퍼블릭뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YcnBzQjVOQ0dIUENjczFaanNMcEU1aG5LTlFQLVBtSWhrVFl1amhvQ2xoNzlVVTFNc3ZxUVBZYVNKNkdIeVk1d2lod183UVM5U1VsWjhRcnMzUllzb3ZSVE5ST1BYRGNzeGc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:32:37",
+      "collected_at": "2026-03-10T08:11:42.124678",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "최고등급",
+          "8년 연속"
+        ]
+      }
+    },
+    {
+      "id": "6d57a1cfe0b65278",
+      "title": "삼성전기, CDP 기후변화 평가 ‘플래티넘 클럽’ 선정 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wVV93d2d0ZjJfazhNUkJPTlZxSTNCZjEzYnNEaldFNmRDTS1STXZ4VDN2dWxtbmJNM0NTNnh1bjZmZVo5Q1B2R2hDaEg3b1lXOVluNXJOVlVPUVNEbldZRlBVSVZldkFmOVJn0gFvQVVfeXFMT3FVZExDVm1ubDVxanJ2RUQxc1l6QVNpYW9JSnFjSVNVNHRyU3BhYm52WjRsajlSYW5KS2lzVU83S2FtNFMwUzRQUWRqRGh0RHEtWWptTXZleFExUVlWZUoyYy00U1BlUWZMVkRqR2hz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124702",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화",
+          "플래티넘 클럽",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "4a7fc021da29edab",
+      "title": "삼성전기, CDP 기후변화 대응 ‘플래티넘 클럽’ 선정 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUG50OWRZWERRenRIRTdUOUh6MFZTakxxUEJwQ3l0RnNla0R4dDlXZTh5SWRPazBCNlNtSUdDbzkwQVFSb0pfczFGUmVGczhsNVh4VVZtdDdDVE9FVm9UVUdINEU3RENkRElldk82dFpnaDJf?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:00:00",
+      "collected_at": "2026-03-10T08:11:42.124726",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "4129a587c3d60a14",
+      "title": "KB금융, 기후변화 대응 우수기업…9년 연속 선정 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53LXBZMk9pdXBMcDJ0SHJlRkJZY3dON0NONE9ISkxDNUNQWV9UNTQtaXJ4TUNHaXh6LTFBcHEzMG1oWmxDZ18wS21HNjFqdEFWb1JKdlFEMNIBhAJBVV95cUxNekRHNzlTelg2ZU53Ukh4VmZRdndMODU4ODhCSzQ5N0tLb29QalZKbEZEcDREMXZ6UkpyN3FmUFNjMWM5eS1VcmVMdUVnVnI0b3lpamtXemEyUXZnUi1LWlI4aHVpeVNMaU8wNzI5b3QxSkV6NEtMR2Y3c203Y0hzRk1BbC1VWl85VHBpTjRja0p5ZTRVTnY2R01LeHd1WkJxVDBucDl3QWN6eEZiaHhzTTd2WHlzT0o0OVp4RUtQSjJvd0lBbmVzWEViNmFENXI5X1BnTm53YkVvNU9Ccmc0dk43czVFX1RKYWhoS2piUHpYcVFIcFF3MlBxeEstQXB2QkJNQw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:39:00",
+      "collected_at": "2026-03-10T08:11:42.124751",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "기후변화",
+          "대응",
+          "우수기업",
+          "9년 연속"
+        ]
+      }
+    },
+    {
+      "id": "396775a2f7d9ac3d",
+      "title": "삼성전기·LGD·LG이노텍 ‘기후변화’ 최상위 평가 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84aFI3M1dYbE5kWm9vZVZIME5aWmdnbW1ZN2FGTjBrQm9lbW1qM2VfNzJEd3NEQ1ZFNGpQTW5SdGJfS3BhTnliV1gyN3oxekR1dTdOVkNR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:30:51",
+      "collected_at": "2026-03-10T08:11:42.124793",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "LGD",
+          "LG이노텍",
+          "기후변화",
+          "최상위 평가"
+        ]
+      }
+    },
+    {
+      "id": "d174427c2a8d4131",
+      "title": "LG이노텍, CDP 기후변화 평가 ‘리더십 A’ 획득 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yUDhpdEZFOXpwdjJPdUlCU3R1UUc5eERmU0hiNHRKTVZTMDlCbjhpN1pMS0JNZnZyY3hXWmk1ODNNQ3RCQ2tzX0o2OEExRW43ZDNfNVFNVDhQNE5ydFBqSnFLSkNwWXF5WkxnUtIBb0FVX3lxTE1aTGJvNjY1S1pHZWotMXlpZHhJVDBUTWtjV3c2c2F6OWJiQTZOLXBENjh3UlVnTmp6bjA2MWg0aVVmSzB6bWR5UUY1cklDenE0WVpBYWJBSjNEaTBaX3FBMVkxX29nTjUwWVl3VEQ2WQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124822",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 평가",
+          "리더십 A",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "c94f54b66e69c7cc",
+      "title": "LGD, CDP 기후변화 대응 평가 '탄소경영 섹터 아너스' 10년 연속 선정 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83M2t6Zk5SNmFvakh6VUJvM1g2SDdVRnlyTUdrYklHT3lKUGFxSGJIMWtWOHpfcktkaXVtY1NQRnFhT2RSbHFyLUVuRXMzZlh3c2RINXduNTRfVFBXZDJMOWxFMk1hZml0MDdVWA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124896",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LGD",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영 섹터 아너스",
+          "10년 연속"
+        ]
+      }
+    },
+    {
+      "id": "7c8b51c00b307875",
+      "title": "삼성전기, CDP 기후변화 대응 '플래티넘 클럽' 8회 선정 - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MT1MxOFp1OWpkXy1zRE1maUMwN2I0OE1UenNOWXRlQV9BLUZEZVJsNnlMWGh2alhfWjlPbHJyYVVudzcydjdiaE03SEpnSnB4MlpHb1BQcEFmVFlBX1p3bEdtbFBBS3BhbWJVMQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.124961",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "8회 선정"
+        ]
+      }
+    },
+    {
+      "id": "2b5369f7a86f95c7",
+      "title": "삼성전기, 기후변화 대응 ‘플래티넘 클럽’ 선정...국내 기업 최다 8회 기록 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1dU9DdTZkMHdzclJSS0ZzbjVqM20zOUhWWVdROHNhME01NV9RZS16Nnk2ZjZWX3pHQjhlalVKNmtnQ2dqRUxLTkgtT2JSaHZJYm5FZ1k0Vzc1VWY2ZDlNeGVGUnl1dnRhbFZDOFd1OA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:10:19",
+      "collected_at": "2026-03-10T08:11:42.124987",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "국내 기업 최다",
+          "8회 기록"
+        ]
+      }
+    },
+    {
+      "id": "c9e10eef54b9f54e",
+      "title": "LG이노텍, CDP 글로벌 기후변화 대응 평가 3년 연속 ‘리더십 A등급’ 획득 - segye.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLbHZKM3BvVG9tRzZMeDF6SDJCQklMTTZTOGQwY2xMVTlBRmhMZE1EX3lJcEw3V1RDVlYwc01pLXBkWnRaclcyTWtBbDBvZGkzdWpUZmVYNkrSAVRBVV95cUxNYUI2bExPMGR1VXVaSmFSTXBIb3luZEJWNHZYUEJGMG9rX0swZGZweXFDcVlSVnRXR1E0LTYzdU04OFBpeHpMblRTU2VWM2gteUczMlg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:03:26",
+      "collected_at": "2026-03-10T08:11:42.125022",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "931fa3778a7a3f1c",
+      "title": "KB·신한금융, CDP 기후변화 대응 평가서 경쟁력 입증…ESG경영 성과 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqeUlWMGV3WnRXdG1IYURPakhSV1ZiMHZfNGZvZVZLeEctNDV4dEhja2d2Q29YUlFzeE9IcmdhOHlVMm4zUTJoLTIxcFZ1VHFNNXBFTVV0eGtnZ9IBWEFVX3lxTE1Fb1hScjNEcXFsNVFON0d6WE9mZ2ptWmFiTW0tejB1WFc1SURVQTVKTl8yUmY1T0JXbEx6Z2JOQ1RXTXhkWExSVEpfcFZQcU5XRnpyQVlyQU8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:51:40",
+      "collected_at": "2026-03-10T08:11:42.125070",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "ESG경영"
+        ]
+      }
+    },
+    {
+      "id": "4ebbc5c90174b202",
+      "title": "'K-전자부품사'들, CDP 기후변화 대응 평가서 경쟁력 입증 - mt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NkkxOXVCM09CbV8ydDZIN1FmdENySkd4WGMzTFZyeWk5c1JJa3ByMHpEc1F5X1pRNmxiZU5mckNMNnE1Mk1UQS1WSXdDbmtHbV9CQUZpOE9JSmRfR0tmVEFIaFc4eXdPSFNEVQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.125095",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "K-전자부품사",
+          "CDP",
+          "기후변화 대응",
+          "평가",
+          "경쟁력 입증"
+        ]
+      }
+    },
+    {
+      "id": "93f15ea13d1ae5c9",
+      "title": "현대차·기아, 기후변화·수자원 관리로 ‘2025 CDP 코리아 어워드’ 수상 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81UFNBVzlia1hJcjY5MjgzcEI3QUtXcFR1RTMySDhnVFZQVkxCcW5saFEyaGYwUWRxQkd1ZzNuNzAwTFVOV2R1ZHV6WmhYODZaT0hVM0gydVEtdVRObVdhb2RQWFZQTklsd3hNa2s5SVlMOFI3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:39:32",
+      "collected_at": "2026-03-10T08:11:42.125124",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "기아",
+          "CDP 코리아 어워드",
+          "기후변화",
+          "수자원 관리"
+        ]
+      }
+    },
+    {
+      "id": "93ee6184b4d059ca",
+      "title": "안장(An Giang)은 세계은행과 함께 기후변화 적응 프로젝트를 진행하고 있습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEZEazRxYTNLLTQ0LTRTZXlFQmZZT1M4ZWg5WVIxSzVITHk4akhiRFpEQWI0QXZwU0RSVmVtWHhBOENBbGFydVJtcGh1Mk5RbklnYmlxQ0d5dU5kTmlsdUluTmdjZHNCTmdzSVg5X1Y0ZmI4NmwwckUxTU16MjJqQmhJTy1LaENLcU41Zmxoc0R5MEQyYzZvems2R1RoN2RDeXFnZ3J2dHhnUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:00:43",
+      "collected_at": "2026-03-10T08:11:42.125152",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안장",
+          "세계은행",
+          "기후변화",
+          "적응 프로젝트",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "39d942e50860ecce",
+      "title": "삼성전기, CDP 기후변화 대응 최고등급 선정 - sedaily.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOT3IzbzNLS1BleVdUMm91dDljdjhreGpSWmFJVWZQNEkxVWR0YlpxdzJlTjR1UXBQTHBJUlRFemItX1pZZUFiM1d5T1pZWWE3V0E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:03:20",
+      "collected_at": "2026-03-10T08:11:42.125180",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "최고등급",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "3ec1b3b78923eeac",
+      "title": "김해시, 기후에너지환경부 기후변화 지원 3년 연속 선정 - 시민행정신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FVUotdUhPcjZScmEwdXl4S2lGRkZ5N0N2QjJ2SHYwcjNlOVI2SDhGN1RlUDNoTmxOMzNuMGVKNXRpOWVnR0hNWm1YZjZ0Y0pzUmlqZW55NUtBTF9yd3JwUXpsS05OVVJuZ1plN1Bn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:10:21",
+      "collected_at": "2026-03-10T08:11:42.125204",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "김해시",
+          "기후에너지환경부",
+          "기후변화",
+          "지원",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "884ded05a56a620f",
+      "title": "LG디스플레이, 글로벌 무대서 기후변화 대응 역량 인정 받았다 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94dWROdWxHY1RzS0hNSjg3bjJzdWhrazhFVnBKSmI2UER4TXdBenRvLWFxYW1GWTVzR0gtZjZlLXRTOWhXWEhFTmhnaVN6R19wblgyekxjONIBmwJBVV95cUxOdHZ1anFvWnZyRWZwMkQxb002dV9xcWRpT0QzanZ1TVhERUY0TWNPaVRBcWJfVXlvbzNGRHVhaWVYeHo0SG5CVTRqdkJCWElYX0NXTl9nN2MtaGhXUGg5OHNET0sxOVB2Zkh0WmZHQnNzcUlXUUU0T1N4X0Y2cUVuSGdlSWl5eG1MMm55R1RUcUZfY0diTkNiaF80aU9GTHczbi1xRkNteU8wYzB1YVkwZ3dJWWRTdEppOERjZTlsbXBYMnpWNzUyODMxMFpZdU5FbjM4VkxiU3l6VWRKcEJYRnhpZlYzUjJkMU1ZM0FiRWN4YmhWWEFMUjFHOEVMTXNGbmZfb3Q5TG1EdW53a3hHMVozdDEzdXh5MjI4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.125233",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG디스플레이",
+          "글로벌",
+          "기후변화 대응",
+          "역량",
+          "인정"
+        ]
+      }
+    },
+    {
+      "id": "5350c34f5fd5bdec",
+      "title": "한국가스공사, '2025 CDP Korea Awards' 기후변화 부문 '리더십 A-' 등급 획득 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJWmFGMWhYVlhVdzZZYVNsNDBEeXg4bVB4S05IYzQwNWxuS0FiY2pqNVdraUpPMjZHTDh1dFlveUhKeUNzTHN0cS1TMXNUdndaQzVEZFdhVzNNckdBMDJ5RU9GTUJNTnpMblprVTlB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:58:09",
+      "collected_at": "2026-03-10T08:11:42.125263",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국가스공사",
+          "CDP Korea Awards",
+          "기후변화",
+          "리더십 A- 등급",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "c17ceee924647ce8",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 3년 연속 '리더십 A등급' - ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tekxULVVITFgtSzBqNGhPQ2FVUW1vbmhHdER2NzNDM3lkLXpucGp0MG9oUkNkeHpEOUFxdTZtZ2laT0VaZ1NsT0dOZTJiWnhnQm9IaGhhXzlrb0dxMDBfbE1zNnVQYUItX0lXSQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.125288",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "00681c7b54e0e636",
+      "title": "신한·KB금융, 기후변화 대응 부문 '리더십 A' 획득 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83UG4zRlRhNDhPWVVma1NPMHB1TElBVjVVWS1GOTBOWF96d05vbWlXWXMtVDJJZXQyZ0NZc0hFU1M2SVdTQ2VfZzh0M3R0VzQwTHJN?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:03:00",
+      "collected_at": "2026-03-10T08:11:42.125312",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "KB금융",
+          "기후변화 대응",
+          "리더십 A",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "bc210eac34115e37",
+      "title": "LG이노텍, 기후변화 대응 평가서 3년 연속 최고 등급 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EcGJlUUxzTUd5X2J1VU5UaDgxZzJieElDdUp4QVpGc0dZcHlIOGdDd29wbFlzYTJUVnhxZTY0SXpiWnNnTFlPS3lKdUtRWXBvd2RiNnFB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:04",
+      "collected_at": "2026-03-10T08:11:42.125335",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "기후변화 대응",
+          "평가서",
+          "최고 등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "98081bd22eeec597",
+      "title": "LG이노텍, CDP 기후변화 대응 ‘리더십 A’ 3년 연속 획득 - 마일드경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HM0ZzNmJjZnhRUm5qclBfU29Gd0s2SGhNUzZtUlVZVHVJTERoRUpEY2ZpZWpTYlJMRzI3ZWptSDVSUWN3dEJpMmNVTDFUOE9lUU1fVG8ySENZMklmY1V1aTNVTDNsbzh6ZTVV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:42:06",
+      "collected_at": "2026-03-10T08:11:42.125359",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "be9649dbf04513f3",
+      "title": "[Car & Now] 현대차·기아, 톱티어 기후변화 대응력 인정 '결실' 등 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zcnNxSEVRQkZUZWxLM1JaeUVHQV95ZnJYV2l1NUU5QnNrdGtOZFBBOUpoWVFlZ0U0cmlDbGo4cmhZNXpjSUh6MEZWVDRTbUdmUDg4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:04:00",
+      "collected_at": "2026-03-10T08:11:42.125385",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차·기아",
+          "기후변화",
+          "대응력",
+          "톱티어",
+          "결실"
+        ]
+      }
+    },
+    {
+      "id": "8c09970267f61270",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 3년 연속 '리더십 A등급' 획득 - 로이슈",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Vek4yWjJBblAtQ1FmM3ZQMko1YXE5NVFoMkNEdGFyNkIxVmtMc1JNV0Z5NU1MUVVNSWR4T2w3YVl3Z3RlS3ZpOUhCRVI3U19oelpqRjRMdU9JMEw4eWNpc1ZlQVI5MlNNclpfT09sUGtEeE53TVJ5LUV3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:41:19",
+      "collected_at": "2026-03-10T08:11:42.125432",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "ee80b43d1fae2c21",
+      "title": "조지연 의원 “ 기후위기 대응 위해 체계적 적응정책 필요 ” - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2WUZaUWswS2FKdXVQZ2psSXQ1WDNXNVc3dnUxVmZWaGtTeEdoNkZYakhnZkR2Zi1PeDhmUmdFQ25LT0MxNkg1QjdFSnBhRDBwZjJWVUFKNnNHcEwtMmNPU1VrQm5tN0VHRFE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:29:00",
+      "collected_at": "2026-03-10T08:11:42.125457",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "적응정책",
+          "체계적",
+          "대응",
+          "조지연 의원"
+        ]
+      }
+    },
+    {
+      "id": "29d4ddc73f451f0c",
+      "title": "삼성전기, CDP 기후변화 대응 플래티넘 클럽 선정…국내 기업 최다 8회 기록 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hR0FiVzlBQVF4UmxJVEhMWlJUV09SSnNOcG9CR1g0eVNWanN2X2pzel9KRzEzTkFyYkhFSnFQY2JKSG5LS2tOenRVSGE4MW5HWWoxTWd3cHJtZ9IBWEFVX3lxTE1DTlR1cXVMRVJxUW1OWnVLLTdCUEQyR2gwYjRBbThlT285SFhyQWJoR2VmcDdUUXpFbzN4emxUejNMcjQ0aGJxWEdOREJMNlVtOE5uOElzWnQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.125482",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "최다 8회"
+        ]
+      }
+    },
+    {
+      "id": "6c7915f035870b86",
+      "title": "KB금융, CDP 기후변화 대응 '탄소경영 섹터 아너스' 9년 연속 선정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44S25TbjlhdTJobXBSU0F5eHFlUU5HcVdxdENQVkR5T2t4ek50Rk5WQ2htaVhkRnlCLVVZTkZrM2l0UjRFUmJMWlA4SEdmYXhhSXVZ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:05:00",
+      "collected_at": "2026-03-10T08:11:42.125529",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영 섹터 아너스",
+          "9년 연속 선정"
+        ]
+      }
+    },
+    {
+      "id": "502f50226640c4e5",
+      "title": "삼성전기, CDP 기후변화 대응 최고등급 선정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Qb1V5RXIzSDZDSHg0aGZDNFZPQXdrcjhfcUhMYWNGRHpLTEtiTDNhNktlZEsyY1pGZmFBMzVISHd1bElFMG12QUlZcmkyanFXb3FF?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:04:00",
+      "collected_at": "2026-03-10T08:11:42.125551",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화",
+          "최고등급",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "e5722b54319050b5",
+      "title": "기후위기 최전선 가문비나무의 어린나무 고사 원인 국내 최초로 밝혀져 - 한국뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xM1AxdWpjdERoU2UyUTRRLXpBdUw5SG0wXzFCcVMyMS0telA4ay1HZFBkZ3BXMGx5MkFlQ0RsYTdJemxkUERhc0dRREhfVTZkQXNXUUxjYmtYOElhdXpuS3g1QklnV1R4czlPOW5RcW9JdVFr?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:56:14",
+      "collected_at": "2026-03-10T08:11:42.125576",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "가문비나무",
+          "어린나무",
+          "고사",
+          "원인 규명"
+        ]
+      }
+    },
+    {
+      "id": "9e8dea6fd5b035f8",
+      "title": "한국가스공사, ‘2025 CDP Korea Awards’ 기후변화 부문 리더십 A- 등급 획득 배경은? - 뉴스워커",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iUU15WGFuVU45TVZaTUhldzlMd0hwQXBKelBza3U4QU1SRGltNzhnVFBYRTYxeW45WWdvaG1RMnF3SG1uQjRVWGo2SWlxeWN1SDN2TThQS3YteUVDUnlJSExjTVhnYWRValhqUU16SFTSAXNBVV95cUxON3dkTnYyUGcyS3BiWWNSMjJ6Y2N1Tm1oS3hhUXc1NG9OQUVkNmhpVHRUcnNRUk95Qk5DekdfbjRFTFBaMGVibzRLdEJpaHI3NW9NaXFxTUxFRFRJVjktVTdVdVdHYVdsZHZFMU9LV2V3T05n?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:44:02",
+      "collected_at": "2026-03-10T08:11:42.125606",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국가스공사",
+          "CDP Korea Awards",
+          "기후변화",
+          "리더십",
+          "A- 등급"
+        ]
+      }
+    },
+    {
+      "id": "e3084f92be8dd15f",
+      "title": "LG이노텍·삼성전기·LGD·LGU+·코오롱인더, 기후변화 대응 성과 인정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPbmFpN3RoZzZaN2Rqd3gzTlo5cGt0a1pSakNnd2duTUxmZVVnX2RIN1NKWDlmckhUN1N4aHQzOFNlVjJqN1NfdzhUS1dBNXEtdll3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:31:00",
+      "collected_at": "2026-03-10T08:11:42.125630",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화 대응",
+          "성과 인정",
+          "LG이노텍",
+          "삼성전기",
+          "LGD"
+        ]
+      }
+    },
+    {
+      "id": "2e29a621de1b081f",
+      "title": "[포토] 삼성전기, CDP 기후변화 대응 '플래티넘 클럽' 선정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DUllXRW95Wm9BNXdBRkFIMnlJU1d4cS1BTmIzOHA0S3cxOUVvbHUxbU5sNkpDS2pQc1ZDWmlSaFE1TkVqdGlQaHZKQkdTVVhRakpV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:55:00",
+      "collected_at": "2026-03-10T08:11:42.125678",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "99609389401f7c66",
+      "title": "KB금융그룹, 2025 CDP 기후변화 대응 부문 '탄소경영 섹터 아너스' 9년 연속 선정 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GeFRwa3BiMExjSHhBa18zdG9WbTZ4Tm9wWXBvaWNFamNOZkFFdUhoM3dMMWpZSG1nNGo0Um1qbFp2MGVWSHN3MWFubVBPY0lnQzZ6d3VJbVRwckZi?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.125705",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KB금융그룹",
+          "CDP",
+          "기후변화 대응",
+          "탄소경영 섹터 아너스",
+          "9년 연속 선정"
+        ]
+      }
+    },
+    {
+      "id": "728596d89db0c3e4",
+      "title": "신한금융그룹, '2025 CDP Korea Awards' 기후변화 대응 부문 최고 등급 획득 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3SmxITzEzcG1raW9Hb3ZlZEdIQ1YtdF8yQjFZR3pPaFFvdGFRSmxWd3pMS1pGeUhxNnp2WlBqSXZCSDVkNXgxWS1ZcVE2MlFfZEd5eW1vcTVvQ09I?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:03:00",
+      "collected_at": "2026-03-10T08:11:42.125751",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융그룹",
+          "CDP Korea Awards",
+          "기후변화 대응",
+          "최고 등급",
+          "획득"
+        ]
+      }
+    },
+    {
+      "id": "39d5f1ec68bc6cbb",
+      "title": "[ESG] ‘2025 CDP Climate Change’ 수상 금융사 어디 - 대한데일리",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BYXpLY2VxeXJPVl9VcWI0ZDFmQ2JiOUIyQ0xXOGJtcHd0RzVManRaNUZTdnhib2NwejRlYXZubHloQVlwcTBsS0hSWmlpYVRRV1UzaXJQRW9hMGxkYzlfdWFHTWl6V05vMWc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:05:47",
+      "collected_at": "2026-03-10T08:11:42.125792",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG",
+          "CDP",
+          "기후변화",
+          "금융사",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "7a5a307f49c20a90",
+      "title": "삼성전기, CDP 기후변화 대응 '플래티넘 클럽' 8회 최다 선정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yOGs2Z2pPc09fd3NYcXdPRG5IaVNMWTF5MUIwc3NYNTVDMlA0amlWNWVsV3RXQ1FpRFlQeHNoM2FjRmZ5SXN4NmtnVVIxcnBwSHY4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:01:00",
+      "collected_at": "2026-03-10T08:11:42.125818",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "최다 선정"
+        ]
+      }
+    },
+    {
+      "id": "3d693891327f6051",
+      "title": "신한금융, CDP 기후변화 대응 플래티넘 클럽 5년 연속 편입 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5yeTBjNEdGRDlpUG45ZWNOQXJORFJoVFNzVXFKaGk2Tk93RVZ3cnkyazh4czJZMDJ4MTFlSmx1SmhNeEZrUEZQWjVjVnpBT21Rcktn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:52:00",
+      "collected_at": "2026-03-10T08:11:42.125842",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신한금융",
+          "CDP",
+          "기후변화 대응",
+          "플래티넘 클럽",
+          "5년 연속"
+        ]
+      }
+    },
+    {
+      "id": "c80f45d0cfd3ee9f",
+      "title": "[단독]숙의 절차서 뺀 ‘후기 감축형’ 다시 선택지로…탄소중립 공론화 시작부터 ‘삐걱’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vMlJCTjZGZUItTENiNnk0ZkQxbUxyNXY4Ql91dEdqN0VVeUZNQmNxWE93VDBaMW1qRHowazNmSDFkNHB4Qnp2NTBEelZzMk0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:32:36",
+      "collected_at": "2026-03-10T08:11:42.069510",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "후기 감축형",
+          "공론화",
+          "숙의 절차",
+          "정책 혼선"
+        ]
+      }
+    },
+    {
+      "id": "312872a1ed73e256",
+      "title": "[현장] 모간스탠리 \"한국 시장 투자 유망, 탄소중립 전환 강화해야 매력 유지\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QRVVsYXlYVzlya0toNDFiV1UtVWpmZEcyaWZiUDdERnBBOExLVXc3blozT3RNV1R3X1ByUFhDNU1CMXRBTXF3TDl4OEhfbkZJMFBZVnNvNnFIRjZfRXJJbGlhb0xZSzU1SXJaRzczcUtJR2c?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:30:36",
+      "collected_at": "2026-03-10T08:11:42.069555",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "모간스탠리",
+          "한국 시장",
+          "투자 유망",
+          "탄소중립 전환",
+          "매력 유지"
+        ]
+      }
+    },
+    {
+      "id": "092c185882fb379c",
+      "title": "현대백화점, 탄소중립 실천 학교에 공기정화식물 전달 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94aTlDUVk0X2J0SFVobDdrZXNzejg2dXFabUFGVG4tbWhtcEJiYW4xdU9CMkRWenFlWW5QLVZCTlpPOHprbUI0V3lFLUFfTEk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:43:30",
+      "collected_at": "2026-03-10T08:11:42.069587",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "6990160624c55716",
+      "title": "2026년 탄소중립포인트제(자동차) 가입 안내 - 제주의소리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rU1ZQMDhBUGozazQ1cU1tNG9Neml2OEVYc1ZtVzVudVRHRVRKSUxaSi13Qkp5aTYtM2dxMGl2NmFmdE1ia29STmFrTUNtY3h5OE92SVBhSld3NGRHaHF3UA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:39:37",
+      "collected_at": "2026-03-10T08:11:42.069661",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립포인트제",
+          "자동차",
+          "참여자 모집",
+          "2026년",
+          "인센티브"
+        ]
+      }
+    },
+    {
+      "id": "1e1250c35fd44d20",
+      "title": "상지대, 원주시 탄소중립지원센터 운영 이어간다…지정기간 연장 - 베리타스알파",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hTkZhU3QyemtUVFcwRWg1cnA1UmMwbWVJT29QQVBXSW5wMHNIZ0N0eG82WWVDa21jSGZMQmxkZW5MYUs1SkRFbnJyWmVqWWQ5eG1BZl9BbExxcGFxVW9rRGJmalBZM3FXQ21V?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:47:20",
+      "collected_at": "2026-03-10T08:11:42.069710",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "상지대",
+          "원주시",
+          "탄소중립지원센터",
+          "운영",
+          "지정기간 연장"
+        ]
+      }
+    },
+    {
+      "id": "030e829cb97c49a3",
+      "title": "탄소중립 제주 '나무심기 릴레이' 시작 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qUUJKamphWV9UZGJhQkdGNVFGYml0YkJyV29lRzdKeHdXV2Rub3Ntb3NQTmJVMEpjUjhLOVMyaDI4X1FucGxPUjE3WWdybElkZG90Yi1zM25DOXhIZ2xOMg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:30:00",
+      "collected_at": "2026-03-10T08:11:42.069744",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "제주",
+          "나무심기",
+          "릴레이",
+          "환경보호"
+        ]
+      }
+    },
+    {
+      "id": "b1559bef2aae1a40",
+      "title": "대전시 서구, 탄소중립 실현 위한 공직자 환경교육 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMEdieTlUbE9wTGl5dnJxRDhILXVBVlFLdmJLaWVscElHRzI0Y3cyQV9vcXZLMnRFZVczc0Y2Y1IwclgycXlYbDNFYVNXUzZEcmVXVTRSMTZkVmvSAVZBVV95cUxNbGlkbGRBVDg4QXN5NmdIUm9OMEF4MmYxYmNjd3NtcFpmak1uS0tlWlpKUVExWE14V0k4T2lkcGZqekpGVUVBVkFlSUFKdTVJb0xtbG01dw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:07:05",
+      "collected_at": "2026-03-10T08:11:42.069792",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전시 서구",
+          "탄소중립",
+          "공직자",
+          "환경교육",
+          "실현"
+        ]
+      }
+    },
+    {
+      "id": "e18066df0b8e35e5",
+      "title": "학교에 '전기 저금통'…제주 ESS 도입, 탄소중립 실험 시작 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyTmFPSk0xeW9hTDRiRTJDUEczNVFobUw1N3JsNXlldElBRWJadnE3VE9SZFdGaG9hOTlTSXdIcEhhTlVHWG1ZVEd5SUJMOVR6b3JHRGNNbk1NY1p0em9qdUUxQWxEUzhKZk1IOWtB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:21:57",
+      "collected_at": "2026-03-10T08:11:42.069824",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "ESS",
+          "탄소중립",
+          "학교",
+          "전기 저금통"
+        ]
+      }
+    },
+    {
+      "id": "1232d3d167efc61e",
+      "title": "논산시, 자동차 주행거리 감축 '탄소중립 포인트' 참여자 모집 - TJB",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiUmQxWXEwejlteGctcmQwSWNmRGVCcXgtcHozWEVORExaZ0hnN2hOZGpERVpQRnQyc2RBT2hjS1BYMlZYYzVIUkJSMVN1RXRiRlBvM1VTX29YSVEzdTNwdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:41:12",
+      "collected_at": "2026-03-10T08:11:42.069852",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "논산시",
+          "자동차 주행거리",
+          "감축",
+          "탄소중립 포인트",
+          "참여자 모집"
+        ]
+      }
+    },
+    {
+      "id": "12afb71724196bb8",
+      "title": "헌 옷 수거해 장애인 시설에 기부…백마봉사단, 탄소중립 실천 - 교수신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsWU9odWU4NXJ6NFMtQ0xzLUFVbXJNR28ySWxkdHVVdjdLYm9qbUdFVDBUTUNESm80NzJaaGtNUG1kdWFhZTV3cHJfR3Fjek9ZTUFvMnAyN1ZKc0VVOHQ5YzVaSWUxdlU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:31:28",
+      "collected_at": "2026-03-10T08:11:42.069885",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "헌 옷 수거",
+          "장애인 시설 기부",
+          "백마봉사단",
+          "탄소중립 실천",
+          "봉사활동"
+        ]
+      }
+    },
+    {
+      "id": "95167e5ad0ef8bfe",
+      "title": "동대문구탄소중립지원센터로 지정된 서울시립대, “청년기후봉사단 클라이유스” 4기 출범 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzbWJQOUZUNm14WUd5TnRSVGNRLXZHdG0yLVNsUmkzUkZOZ0lvWFp1c1ZGbGZMZEhub0phcGVycUxpS1U3MC16WWJaRVNCRjB0bll6dGpSY19JMFREWWFlNG0wNzZOcVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:57:00",
+      "collected_at": "2026-03-10T08:11:42.069915",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동대문구탄소중립지원센터",
+          "서울시립대",
+          "청년기후봉사단",
+          "클라이유스",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "76193c5a6b2c4cf6",
+      "title": "[탐방] 탄소중립의 가치, 시민에게 전할 체험 공간 조성 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iOWxfcy1jaXpwVmtLNlZXUW1ObVhHWFZseThWcGw3LWRmTWwyZzJOZUItdnVKRjE0c0ZkVUVXdW5uRk9JWkxld01HRFNhWGVPd3VBWUNBY1lyM2o5NXBnZDN1UUNNZURVMDgxMw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:14:40",
+      "collected_at": "2026-03-10T08:11:42.069969",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "가치",
+          "시민",
+          "체험 공간",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "44cc05e4a7bda62b",
+      "title": "논산시, 탄소중립포인트 참여자 모집…최대 10만 원 지급 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04NndKYnJhNHVfUE43U1prbFVhVmRxMUxaMHhUWi1iTExkTlZTZUpBSVNqQmtCNDM1QzdaNzJhSF9KWjhKWk1vWTZ0emVlY2pnTS16S2FRbjFUckxIM2tZUFVuLWdwZWowWHZBYg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:45:28",
+      "collected_at": "2026-03-10T08:11:42.069994",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "논산시",
+          "탄소중립포인트",
+          "참여자 모집",
+          "탄소중립",
+          "지급"
+        ]
+      }
+    },
+    {
+      "id": "f7f777d778af35b7",
+      "title": "서울탄소중립체험관 시민참여형 프로그램으로 새단장 - 경인신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpXzU1QTRGQ1UybE5CWDAydll2UndQdDVXTXJZQ0hDZXBidjA2Nm5zWWJuaTVpcWhHMmEyaHpwQWxKTVZHLW5FdmtWNmV4RGpFLWNFQ01VeFFwMnEwNzR6RTJWZWlKY3M?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:03:20",
+      "collected_at": "2026-03-10T08:11:42.070019",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울탄소중립체험관",
+          "시민참여형",
+          "프로그램",
+          "새단장",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "d32e2a2b00f6f0db",
+      "title": "현대백화점, 탄소중립 실천 '초·중·고 우수학교'에 공기정화식물 전달 - 백세시대",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5OUVBGRHlpeGplZXBWc09USkE0VU1YNDVSQzZzYXFlMXpZTFBjRHFfNzJ2WW4wUmJFUFdvdW5maGc1NW5JMjJ3RkpKbjFINERFRklmeWZPZHFVUXhOZlZyTUN3VTZjbG1rUG40?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:37:35",
+      "collected_at": "2026-03-10T08:11:42.070044",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "공기정화식물",
+          "우수학교",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "c4414ee9f3e03463",
+      "title": "논산시, ‘탄소중립포인트 자동차’ 참여자 모집...최대 10만 원 인센티브 - 디트NEWS24",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nNndWTWI3eHhma2NpenEwRG9rQTJ5Wk1UNFl1OUp3cVVSVWFiVlRVb3RSTkpXcmJLSkxhMlY3T2lWcWpGQ3BzSE85blI3UDhYU0R4X3o2S1o4elRpcUNWTDdMcFg0QWZrYzk0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:43:49",
+      "collected_at": "2026-03-10T08:11:42.070071",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "논산시",
+          "탄소중립포인트",
+          "자동차",
+          "참여자 모집",
+          "인센티브"
+        ]
+      }
+    },
+    {
+      "id": "1d6e03b9b39b851a",
+      "title": "보령시-한국중부발전, 에너지 신산업 협력 강화…탄소중립 선도도시 도약 박차 - 중부매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03RzdvQVpodGw3aDNJaXJpbEstM3JQQmMzLTJWTUd5NVhtNDBmUGpzdVVmUGhYMXJyNWlZaE9FTFdNNzRVRWl5OWkxTkQ4NUtPOFpjZkI3YUlZcUhCdm1ZTmtiYmhtT2ctaWfSAW5BVV95cUxObUJGTzA2YXM0S1JqZHdBTlduUkxKWjF2OWh6SWdPMG5WSDFVbWdRYVJjNVNUNUl4Qm5WTmdFV0thLXlWUmVZd2RmdVNQa19rOG04cE04X1RNcXZKZ2Y1WTFvd09ENGdZYjJ4QTJGUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:11:55",
+      "collected_at": "2026-03-10T08:11:42.070123",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보령시",
+          "한국중부발전",
+          "에너지 신산업",
+          "탄소중립",
+          "협력 강화"
+        ]
+      }
+    },
+    {
+      "id": "a35b0a5e662d4477",
+      "title": "정지선 “책임경영 강화”…현대百, 탄소중립 실천 학교에 공기정화식물 지원 - 라이센스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzVDVSMVJuQVRVaWxycjlEZWRWZTloTXdjYlNqMEVCU0Nnb0hnZ2tOcUFta2dMWnYtdWlzLS1NTGFKdE0yaER2YXZ3a1R6YkZDMWRSYjU5TFhEM1d6UzRBcTl2TXpZUlB2OWlZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:10:16",
+      "collected_at": "2026-03-10T08:11:42.070167",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대百",
+          "책임경영",
+          "탄소중립",
+          "학교",
+          "공기정화식물"
+        ]
+      }
+    },
+    {
+      "id": "eb1a6d77492d56aa",
+      "title": "현대백화점, 탄소중립 실천 우수 학교에 공기정화식물 전달 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PWEZ4dU1GalRqVVo0X096aFFOTjVReXVPWmpVekVtZmFzdDBGMkFtd2dBLW4ybURZbFZWM1EzOTZ3ZzVTVHhEWjAyTGM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:27:23",
+      "collected_at": "2026-03-10T08:11:42.070192",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "4709c2c9cfb4ec02",
+      "title": "[ESG] 탄소중립을 향한 서울의 도전 - 중앙이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPV1ltck1rdEY1elFTeG5fUkg4RHZRalVFMC0wRmlrTEdwTmZicmNrRzVfYTJkS2ROX0I4N190T3Y2aW9vcE5RR1NSUWdyM1lmMW45ZkwzZXRTeTRxeEhxT3NaSmg3b28wOEFjZDgzRnI2QQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:06:23",
+      "collected_at": "2026-03-10T08:11:42.070216",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG",
+          "탄소중립",
+          "서울",
+          "도전",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "bfbb439ca66caa8a",
+      "title": "대전 서구, 탄소중립 실현 공직자 교육 - 투데이충남",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZEZ4SEc3cnBfNVg1M3RPSC1ZNl9RRzhCNWhoXzNVeEYzX3hwOEkxczYyRjhSWklIelc5NWJkTzBvY0lwdGdKVTNTLU8xMjc3eDg1UUd6WDRDQVV3V0xDaWpOOGpnb2ZJOXFhaFJkR3dLUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:11:54",
+      "collected_at": "2026-03-10T08:11:42.070239",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 서구",
+          "탄소중립",
+          "공직자",
+          "교육",
+          "실현"
+        ]
+      }
+    },
+    {
+      "id": "74cef605233360e5",
+      "title": "인천시 탄소중립...무공해 건설 기계 57대 보급에 16억 투입 - 교통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzTl9iZzNYeFJRY3NCVVBqQ1FkWjUzN2tCZHVqMVZfVWs0NDcxOGdnX2RXdDBjUlRzcno1eGMwX09MVmVGWDdYU3VQYnVKbWJEZEpKdTVfSnc5LW40SHJYMHZsa3hYUmF5SVlHQg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T23:15:00",
+      "collected_at": "2026-03-10T08:11:42.070344",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "탄소중립",
+          "무공해 건설 기계",
+          "보급",
+          "16억 투입"
+        ]
+      }
+    },
+    {
+      "id": "37f7055f8de667a6",
+      "title": "LG이노텍, CDP 기후변화 대응 평가 3년 연속 ‘리더십 A등급’ 획득 - CEO스코어데일리",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51Z2R3djhKd3RVbDRDWGp5OWNsNzRhZ3pvYWl1M1dPZzRSLVVNZDd3NVhRUmxSSE1TbUpOaEpZUUl5NE5EVHd4ZXBQX0tHbWpfSHZsa1AwX3JZUWh1bmFaSHJOUnpuV2RD?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:00",
+      "collected_at": "2026-03-10T08:11:42.070371",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "b1a19247f4e3cff8",
+      "title": "현대百, 탄소중립 실천 우수 학교에 공기정화식물 전달 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEJBaTc4eUpEcFNMU2ZhUFN4SF90MGFFc3ZTcmR1UDl5d1h0ZVFwN0g3aVh1Sy10SHUzdDRfU0haQm5HeVZYejBFSnlLWmZySGFnOEtINWpGNkN1Q2F4WWVidnVjTEo4elRIZU1VOEJ4NE9vNl9Wby1qNzh2YTlBcGpibjctaXJrLWlB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:42:15",
+      "collected_at": "2026-03-10T08:11:42.070395",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "f0c9defaafb30bf7",
+      "title": "주행거리 줄이면 '최대 10만 원'... 논산시, 탄소중립포인트 참여자 모집 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYN2dmU2xzeFNkYmxPdWYzMTlmLW5PTHE4Qk9ySkpnbzJQWXBKSkNBcWVuUDdIUjZzVTB0Umg4dDNaYVZZVnY2ZjJIV25kamkwemp2VGIxSEdNamZmRmdDbFBVSndXQWNtcHhDb2FqYURXQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T03:38:55",
+      "collected_at": "2026-03-10T08:11:42.070421",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "논산시",
+          "탄소중립포인트",
+          "주행거리",
+          "참여자 모집",
+          "인센티브"
+        ]
+      }
+    },
+    {
+      "id": "a46d12c30b117f30",
+      "title": "논산시, 탄소중립포인트 자동차 분야 참여자 모집 - 글로벌뉴스통신GNA",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vUTRlbTlJNnhxNTFzYlhXaFBJZ3F5cDgzMGFSWkk4ai1nbUJOcnlHQ0pHTlVaenhkenhhdWt5X0dfWElGT05hX0JyUl9qYm9DbXZGcm9naHN0SHBPM0tZYUFVdWJYY1d0NWRDWi1UeTdhQjJ6?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:43:10",
+      "collected_at": "2026-03-10T08:11:42.070445",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "논산시",
+          "탄소중립포인트",
+          "자동차",
+          "참여자 모집",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "fd107aa7394625cf",
+      "title": "탄소중립 제주 향한 초록 실천…나무심기 릴레이 첫걸음 - 코리아타임뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ESUVTRlJwM3h5QlRPQllwU1QzUG44d0UwSlJTQ2hMZUhMZGU2OFJDUThsVlQyOTBoUGZ5aFpGdmgwTGZmU1ZsMkppMm1DSWtYRnRvZk9xblpvbmxVaTZxRTk3bU94eUZHTGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:32:09",
+      "collected_at": "2026-03-10T08:11:42.070468",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립 제주",
+          "나무심기",
+          "초록 실천",
+          "릴레이",
+          "첫걸음"
+        ]
+      }
+    },
+    {
+      "id": "292dabc35b75fc70",
+      "title": "무공해 건설기계 보급확대…미세먼지 저감‧탄소중립 실현 - 동방일보",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTjQ2bU5jbjJvUFhDa2tzRzk0X3JaTk0yVkpKS3djeWw4dkhGSldGbHlwS3NVYS12NGh6am55UlZKdjhLaERwcl9ua3ZTUUlGM0pXUGRsSXRtOFEwVXNiWlVnSjN0M2ltejloaTd1VER1QQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:45:25",
+      "collected_at": "2026-03-10T08:11:42.070496",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "무공해 건설기계",
+          "보급확대",
+          "미세먼지 저감",
+          "탄소중립",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "e644d20058ad5b7b",
+      "title": "탄소중립·에이지테크 거점 '우리동네 ESG 센터' 8호점 개소 - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JcDcwUWNmbjAxY0taZjlDN25qTURaNmg3a0JUcmFuX0U5TUx4eC1mZWNzNjNYYzFybXJzSlFPcEtEcVlyeVpyMHJ6WlhKaUNyandzZXBIZnFza1VNNXcxLTdlVGtUZUJDVG1j?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T03:39:31",
+      "collected_at": "2026-03-10T08:11:42.070522",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "에이지테크",
+          "ESG 센터",
+          "8호점",
+          "개소"
+        ]
+      }
+    },
+    {
+      "id": "b94babcb7265a200",
+      "title": "현대百, ‘탄소중립 실천’ 우수 학교에 공기정화식물 전달 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XcDVGRXJzT2xRbHlrRzhoVjhOSEt0cHhVbi1OV2k5d1U4ejFzTTY4UkJNYU1WNDljY2JQM1liY19EcTBOZzlHTVg1Y2M2bGpJSFBwRlJn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T23:57:42",
+      "collected_at": "2026-03-10T08:11:42.070546",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "ace1e1eec77bed9a",
+      "title": "고려대, 국내 대학 최초로 '네이처 포지티브' 선언 … 2045 탄소중립 넘어 생태 복원 앞장 - 뉴데일리 경제",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SMF9LQXk5SFEyMkdHVkEyZ1VEYVR0MElfeGl6dTlKVFhlajBocFJrUklwY1o4cjlqcGZON3lSZGsxQTFtUXZOenAwem5hWHY3Skpfd0xWWVk2YnpTLXFEcWpLVVZXVWJpNGducTJVMmZWeEZJSldRMWJFNA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:06:05",
+      "collected_at": "2026-03-10T08:11:42.070575",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려대",
+          "네이처 포지티브",
+          "탄소중립",
+          "생태 복원",
+          "2045"
+        ]
+      }
+    },
+    {
+      "id": "9e318639a4648009",
+      "title": "통신 3사 ESG 경쟁 본격화…탄소중립·재생에너지 전환 속도전 - 포쓰저널",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81YlZiOUNsc3ROc2ZXdzFOQjF6WkhvTVVXQi1FaURPM2JfQVBIQmNWei1hVTE5NDFMRC0zcUlIVVVXeU5idnNnRVp5bW1CcTlHQW9VcFB5X2k2bTdULWt4ei1mSkM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:21:19",
+      "collected_at": "2026-03-10T08:11:42.070624",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "통신 3사",
+          "ESG 경쟁",
+          "탄소중립",
+          "재생에너지 전환",
+          "속도전"
+        ]
+      }
+    },
+    {
+      "id": "9570c5b3685a3ac3",
+      "title": "LG이노텍, CDP 글로벌 기후대응 평가 3년 연속 '리더십 A등급' - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFcnFDeVhKNlhoY0gzZlJiaWpCTEFrc1lBZDAwcVJpalRsX0JtaVdkNmxSanhNUXhPM3A1Ry1qcFlwY3E0WVRxdGdvSndKUUR0bmpFT0Q3T2tRWHpiQ0JqSzhIVmlEaVAxVm9iSVhQaENSSmM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:05",
+      "collected_at": "2026-03-10T08:11:42.070668",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후대응 평가",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "accf3e64d6bda847",
+      "title": "탄소중립·에이지테크 거점 우리동네 ESG 센터 8호점 개소… 박형준 시장, “더 살기 좋은 지역의 원동력” - 뉴스21일간",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1TV3kwMm9jbjJXbTY2RTN3WWZVQXItRkNZQzlzc1lvZzVwYWdaUVBGX18wSTQtcXZ6dU45VUtsNTQ0QTNObjllejRFM05Mdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:31:41",
+      "collected_at": "2026-03-10T08:11:42.070696",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "에이지테크",
+          "ESG 센터",
+          "개소",
+          "지역"
+        ]
+      }
+    },
+    {
+      "id": "9738d77873fd0a71",
+      "title": "현대백화점, 탄소중립 실천 우수 학교에 공기정화식물 전달 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56c0ZwVDhmbWk0aUJQdjVDc3dSLW9WY1diM1lpNmZZT1ZydEJSWlloTEdrMlN0RUY2VVIwT0lDVmxsNFNEYjFPVzhDQ3F6alJFM2pWTTZJd1R1QdIBVEFVX3lxTE9rYlJtd0ZXd1lBUFdXV2tHMnI5LXNCSDdhOVczTDF6MF9tRThWMTMxUG1CdVkyNUZITlJDOTdaRF9yS2szc01HUUhaa3ZBN0tPQVFJSA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T23:34:17",
+      "collected_at": "2026-03-10T08:11:42.070720",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "56b4d282a232a41e",
+      "title": "‘에너지 신산업 협력’ 보령시–중부발전… 탄소중립 ‘미래성장 동력’ 가속 - 공뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42YUFqaWtYdlpvdFBlSzdrSjl6cTZRSnVRWWJRSjdabW9GSWd6c1pKQ2Qwejk3aGM4by1ra1pXY0lSWVZqS3VLMHpkTW50WFZBY0syWkFOMS1WUUN6cjViN2RORFJyYy1scFgwMQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:06:06",
+      "collected_at": "2026-03-10T08:11:42.070844",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지 신산업",
+          "보령시",
+          "중부발전",
+          "탄소중립",
+          "미래성장 동력"
+        ]
+      }
+    },
+    {
+      "id": "0fb330f6575bc64c",
+      "title": "[단독]숙의 절차서 뺀 '후기 감축형' 다시 선택지로…탄소중립 공론화 시작부터 '삐걱' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtMnU1U3N6ejlySWxBTDNoanN2ZXJRaHZ3OFVlTkthUEgxTzAyYTBtYkU5dzFXRDBvUDU3bEZSdFE1dkt0WGVRbUg0ZmdORmtFd19j?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:31:00",
+      "collected_at": "2026-03-10T08:11:42.070871",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "후기 감축형",
+          "공론화",
+          "숙의 절차",
+          "삐걱"
+        ]
+      }
+    },
+    {
+      "id": "fac008e31fbf1fb3",
+      "title": "대전 서구, 공직자 대상 탄소중립 환경교육 실시 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWVNKbjRDb1ZlTlBTOVhTUHdreVE1QzNKaXBuWjRwYzZDbzRpOU41VkhibEgyakRISVBlS2V3cXRBTVdzQldJTHc2QTd3cU9DUW1wQXRsdE5TUVZYSE94Q0VXS2RSNU9lV01EcFpwYmtrVlXSAXdBVV95cUxOU004dENhblhydHNCdklQak4yelBIcjExbFE0Q0h6TGlWeWVGOUU1Y0V5cDhLZ19rQ2VkYnYyaWltbHlBeUVvLWZfMThrLVRPSzlKWXgyMHpFZE9fM0xyR2xBMVptQ09HNE5saFFHVFNjXzJPUVV3Zw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:39:12",
+      "collected_at": "2026-03-10T08:11:42.070897",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 서구",
+          "공직자",
+          "탄소중립",
+          "환경교육",
+          "실시"
+        ]
+      }
+    },
+    {
+      "id": "446e8553204481be",
+      "title": "탄소중립 제주 '나무심기 릴레이' 시작 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55c0Y4MjBCeC1VUHptVllNZFcwRjNXaVhQQTJnMXBGRUlsU0RGZFJLcGRzTmYtNmV2ak96dUZXbmhxS2o4NmxNWldONWJyTEZCYjVR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:30:00",
+      "collected_at": "2026-03-10T08:11:42.070919",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "제주",
+          "나무심기",
+          "릴레이",
+          "시작"
+        ]
+      }
+    },
+    {
+      "id": "c20379e1fcae1f86",
+      "title": "\"기후위기 대책 몸으로 배운다\"…서울탄소중립체험관 새단장 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDQjQ5RDRlTXg1T1pHcUdZTmtaUHN5SmEtcnpIUVc2NzZRTG5mMjVnS0xoRVViTXA0aXNFS3FkQkFjbHNWQ1FQWWpHQVloS19jdUxn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:17:00",
+      "collected_at": "2026-03-10T08:11:42.070943",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "탄소중립",
+          "체험관",
+          "새단장",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "f85370ac1d63b914",
+      "title": "보령시·한국중부발전, 에너지 신산업 협력 강화…탄소중립 도시 도약 속도 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94bi1Pd1d2bTdjdjVRbE9wZlBFMWtZdE9GSGNQR2V4V0xtLUdLaEFHV1lvZ2dQT3Q5ZEZKTXlGYTdvY2ljQVc5RnJVa2FoejZUUTdqV1NKb3FuZ9IBWEFVX3lxTFBPQVYtMFZsajZQcDd2TENuNVlfNjJ3b2ZlbUR2THBqR3BCQjFJeXljZGJDMWJvb0ZpTnFrVjQ4RDlhTW9jZ0piVTR4bWpjZzM0cWRhVDlleTc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:16:17",
+      "collected_at": "2026-03-10T08:11:42.070969",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보령시",
+          "한국중부발전",
+          "에너지 신산업",
+          "탄소중립 도시",
+          "협력 강화"
+        ]
+      }
+    },
+    {
+      "id": "609b87c663295fa3",
+      "title": "대전 서구, 탄소중립 실현 위한 공직자 환경교육 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZYzhNbW1pUVNkQ2RSSTc5OUZQeGpGYU4yY2FQb1E1UmttWE1YM3BpWUVmSW94MGVkQ05Na0ZKZWJNN1RqZmdERWFCMHdlZ201Uk9F?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:19:00",
+      "collected_at": "2026-03-10T08:11:42.070992",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 서구",
+          "탄소중립",
+          "공직자",
+          "환경교육",
+          "실현"
+        ]
+      }
+    },
+    {
+      "id": "7c8fd21475915ed0",
+      "title": "임픽스-후시파트너스, '제조AI+탄소배출금융' 모델 구축 위한 업무협약 체결 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91aE1JNG5jVW56d0F1Zm4zdnhNemdVaHlRNXM1eEF0a0dsNjN5OXVXdVBnWDRzR1UxMFpWdnhJQ1F3SVF2NTdlaDF6cmQ5UQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:00:00",
+      "collected_at": "2026-03-10T08:11:42.071039",
+      "keywords_matched": [
+        "탄소배출"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "임픽스",
+          "후시파트너스",
+          "제조AI",
+          "탄소배출금융",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "792ca36dcac96a53",
+      "title": "부산시, 탄소중립·에이지테크 거점 '우리동네 ESG 센터' 8호점 개소 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZExNZFlYWlZTQmp6cERBLTBXZ0hIN01pWWpVZ0xoajZJcVRTSy1pWmxDQm5KNGd6WWlFZ2k3cVlQdWRqUUFfcFZ2ZWlpSDlWYW51STlDaUFDLUtDRnpHVWpkS21WQWt2LUQyMXZQWHLSAXRBVV95cUxPcF9jNFRoaGoxejZtY3MtTXpMQ3B0U0F2STJsaXAyclZ5LW9Ea0xySmEwS1Uxc2RWc0VFY2FwbHpIS05iaWJJSVNPeHJpWWtmYWxKX0NpS3QtNFRCSWpnSnlXbEwybzc4dHRiYjBoYm5DODB6Zg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:25:00",
+      "collected_at": "2026-03-10T08:11:42.071089",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "부산시",
+          "탄소중립",
+          "에이지테크",
+          "ESG 센터",
+          "개소"
+        ]
+      }
+    },
+    {
+      "id": "26cfec6313bc16a6",
+      "title": "제천시, 탄소중립포인트제로 시민의 탄소 절감 실천 유도 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85Y05xV1YyaXBNaGJoblZTYzk5a2RrOE9jQld6THczMnpmLVJVM1k1ZG11dExjSE8wLTkzRjBJTnBnelk5aGgtOEpXTGdvc2t2N3BmeWhkNldKYWRF?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:15:00",
+      "collected_at": "2026-03-10T08:11:42.071113",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제천시",
+          "탄소중립포인트제",
+          "시민",
+          "탄소 절감",
+          "실천 유도"
+        ]
+      }
+    },
+    {
+      "id": "a27b8610b8a844af",
+      "title": "현대백화점, 탄소중립 실천 학교에 공기정화식물 전달… “교실 숲 조성 확대” - 한국면세뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01VTdXQkRqWG5UeEVzNnVOT2hIMW1PcXNBVy1xMXctNFh2MlVUZ2lEQlg1UVF5MkRKcHJjMC1teDd3YjJEWS1lOXZnWTJIZ3Q0UkF5V04yZmxpR2pwdjhKdElVbzdpaWprU2c?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:35:58",
+      "collected_at": "2026-03-10T08:11:42.071162",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "교실 숲"
+        ]
+      }
+    },
+    {
+      "id": "07389001684bdb12",
+      "title": "성림그룹, '산불 피해지 복원 시스템' 특허 결정…탄소중립 산촌 모델 '청신호' - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tLThzWk9EMWNMTWJNTGRYeXBnNk1LNzhVRzhpUnduVE1XUEFxdkNEZGV4Z0NYTTFqTUxkX1d2OXVKTVp1dEF5MGVpM3Z3dnVDeUE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:13:06",
+      "collected_at": "2026-03-10T08:11:42.071312",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "성림그룹",
+          "산불 피해지 복원",
+          "특허",
+          "탄소중립",
+          "산촌 모델"
+        ]
+      }
+    },
+    {
+      "id": "6e525d341b202019",
+      "title": "LG디스플레이, 탄소중립 우수기업 10년 연속 선정 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uQmVvdXZib3RIenZ4cjN4ek5lNUpqbmJWZnY3RzFFQzdobTJVaDN1d3Zsamt2VW5KYkhJbGFXS1JWY1k5Nk4wMVB3NDVrN3FwQTY4?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:01:00",
+      "collected_at": "2026-03-10T08:11:42.071339",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG디스플레이",
+          "탄소중립",
+          "우수기업",
+          "10년 연속",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "27e904160568a361",
+      "title": "현대백화점, 탄소중립 실천 우수 학교에 공기정화식물 전달 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVkY1NFJnN09fbG1tQnF0OWRvcGpoRDl6MlBBdnNOYW5HT1U2TVRVUXktVVcxZjBJNGlaWWQtRmJjZ1IxaVdCTGxtYmN5eDhFblVR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:28:00",
+      "collected_at": "2026-03-10T08:11:42.071390",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "실천",
+          "우수 학교",
+          "공기정화식물"
+        ]
+      }
+    },
+    {
+      "id": "b9c9108d460084dd",
+      "title": "현대백화점, 생활 속 친환경 실천 우수 학교에 공기정화식물 전달 - 서울타임즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6VlBZY3VvUUlhX3lHa0huYnQtZFhFQU1EelRpbi1udWhJYzZvUzZ4S1J4SXd1NElDNjJMYTJCMGRxQzh2cklEWG5FNlZILU9tTmZMU2pxZFVhQlNjdHpOeTNmY3drOHVPNWZB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:53:30",
+      "collected_at": "2026-03-10T08:11:42.071414",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "친환경",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "15e81547315affab",
+      "title": "서울시, 새단장한 ‘탄소중립체험관’과 ‘이동환경교실’로 기후위기 대응 교육 강화 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBjY1lBUGM4YVctelpOTEk0bi03V0VmVTlxMHM0cDVNYnNBLW9tcmYyalhobU02UUhib1VQVnRpSUQ4aGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T03:09:00",
+      "collected_at": "2026-03-10T08:11:42.071441",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "탄소중립",
+          "기후위기",
+          "환경교육",
+          "교육 강화"
+        ]
+      }
+    },
+    {
+      "id": "98ec6fe0f377eb6a",
+      "title": "부산시 탄소중립·에이지테크 거점 '우리동네 ESG 센터' 8호점 개소… 박형준 시장, “더 살기 좋은 지역의 원동력” - 정필",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMaTB1WUhzeFlOZExGckFjNy1leHN3cXlDazh0dWhQY1I1VHNTcHluTmI1NnhqZ0J1d0kzTGFqNndTUG1qSWxz?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T22:10:00",
+      "collected_at": "2026-03-10T08:11:42.071469",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "부산시",
+          "탄소중립",
+          "ESG 센터",
+          "개소",
+          "에이지테크"
+        ]
+      }
+    },
+    {
+      "id": "c485e20e7defca5c",
+      "title": "서울에너지드림센터 탄소중립체험관 재개관 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0N3RYdDZBc1hWMW5lZG5mTGVsX1hjb3luanFjeDJ4QnpXblRtZnJYa2p5TUtDQzktbl9sQ0l0LVlRUmpvR2NzeE14Q3Q1Qk03RUhzb214Rkt4TU9s?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T20:30:00",
+      "collected_at": "2026-03-10T08:11:42.071554",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "서울에너지드림센터",
+          "탄소중립체험관",
+          "재개관",
+          "탄소중립",
+          "뉴스핌"
+        ]
+      }
+    },
+    {
+      "id": "fd32b52b8e89a789",
+      "title": "임픽스-후시파트너스, ‘제조AI+탄소배출금융’ 모델 공동추진 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmNIOTBURDVqRldsekdfdTRtTm9vNGUwRmpfQ3hHaVNLenc3WF93alltTXNYLU1ybWdRTXBlaVBTb2tnbF9sRVJSWGNvS1A3RWpYWDh1TDB5cE05RVZCSGZfd1F1R1RMTXlPb1RKVTZ2UE4yYTFQUjJFNWIyaEN1Qg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:03:56",
+      "collected_at": "2026-03-10T08:11:42.071838",
+      "keywords_matched": [
+        "탄소배출"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제조AI",
+          "탄소배출금융",
+          "임픽스",
+          "후시파트너스",
+          "공동추진"
+        ]
+      }
+    },
+    {
+      "id": "86053c54cf700e59",
+      "title": "현대백화점, 탄소중립 실천 우수 학교에 공기정화식물 전달 - 잡포스트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lenpzcVVQa2RYeHE5Ml8tZ3pDdklaN1lQRWxNOEZlZHlHV2lEY0FOUGtVRXY0RlZQVmk3SEt0anU5VS1nRTkzNGFqMW15SEFvV1ZHd3dBS3UzcjFNQndMclQxcVlzeVpsWjRaMGZB0gFyQVVfeXFMTUU4d2ZucWNwYlZLNzZsUEc4R1NGZ2hKOVR6QkdJRGlaNzQyRm1zTXlyaGpMbkFkd3VSazdfSzd2MEVFSHhYU1BabVR0NFRNTG5aNGxtaERlbmpxMVNoajBfVjBVcDZYYzVXdFdmal9YUXRR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:45:41",
+      "collected_at": "2026-03-10T08:11:42.071980",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대백화점",
+          "탄소중립",
+          "학교",
+          "공기정화식물",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "6ae851358545fc05",
+      "title": "수자원공사, 필리핀과 ‘물·재생에너지’ 협력 본격화… 1조원대 사업 참여 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wRmt2ak9QLXk1SXRUZDMwOGktcVZfa1ZnRkswRmlYaGtfZzg1RUJQZi1MVVNIeVE1M1MzamRNbDlDMnBwVlRFS0VidERmSDJ4NzF5d0NWYk1pdlJnZDRBdWY1YjRXRmZRako0cUdtVElHZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:55:41",
+      "collected_at": "2026-03-10T08:11:42.176046",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수자원공사",
+          "필리핀",
+          "물",
+          "재생에너지",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "ff614c52c2476e5a",
+      "title": "전북자치도, 재생에너지 12GW 시대 연다…새만금·해상풍력 대전환 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jUjNSOExuZ2ozVC1GUjBkRkl4SXd4OW1BY0hzSW5XOElrdEwxb1V5emstbm1YQllXTmM5RGlxeHNyc24tMDRlWkdsMWNiS3pYWWxwbmwxZDV5YjdTcXpUMDhic1M?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:13:01",
+      "collected_at": "2026-03-10T08:11:42.176080",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전북자치도",
+          "재생에너지",
+          "12GW",
+          "새만금",
+          "해상풍력"
+        ]
+      }
+    },
+    {
+      "id": "c37af888fe8340b6",
+      "title": "재생에너지 12GW·산업용수 60만t…전북 에너지 전환 본격화 - 국민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Ka0RXOExpckF6QTVpZHFoNzgyR1N4OExBendxcktzd1N6eEJDaS1uVzJHWHdZeHdwdmtjZGZzTnVqLTU2UXRlU0lBUmhmZF8ta041R2pHMndOYkdPeDFmUDlOTDc5NDjSAWxBVV95cUxQREhBRE5sREJiR0JRb3dQZE9jZUxkbmRvVVZLM25qX2NPN25sdUtoVzEwd0xTRTJZVThWRmpZQkV0YWtqb3dsZDlpZmtOSW1DWGdXX1lFTFVwQl9LUTFZU2g5NG5KLU8wb1U4RVM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:40:00",
+      "collected_at": "2026-03-10T08:11:42.176169",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "에너지 전환",
+          "전북",
+          "12GW",
+          "산업용수"
+        ]
+      }
+    },
+    {
+      "id": "356b2cf5616281a3",
+      "title": "공급망 충격에도…한국 공적금융, 화석연료에 재생에너지 13배 투자 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vZWFBMnFGQXFBX0xjdDN4czJ1VmRZd1VYQ2F4WVQyUkVRSGhZSzZpRHlDRFEyU3ZJY0xWeE9ZY25MZEFxckxhelVqSGdVejduMk9EQnd1ZnFUeldQQ2NIUDl3SDJEejZjQ0lUYw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:49:00",
+      "collected_at": "2026-03-10T08:11:42.176196",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국",
+          "공적금융",
+          "재생에너지",
+          "화석연료",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "cf978a89677c4ca8",
+      "title": "EU CBAM 대응에 재생에너지만이 정답인가 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4VGd5bDVuRFg5UWFZMThkMno3bGdxNjNpUEVGUm12YXFKYklWdC14UTl4alA0bnphMHJLS1VFVllVcG1fQTdYOWhFbFJlbjh0eE05cTNJSzBoUW5TaGNkTERVQWhfNWg3T09jZNIBcEFVX3lxTE1yMzJfaXVIdUhkRmpGTkdxQi0zM3hFUkg1TDhnVDBhTGZfYTVsUXJWRTAyWVVYaHo1UU1zNEpRY3dTaUh2amllWlNraHQwb012cXd6YUlYUzZTNjMzUjdCWmxLbzFiMUg4c2V0c3lESzQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:09:14",
+      "collected_at": "2026-03-10T08:11:42.176222",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "EU",
+          "CBAM",
+          "재생에너지",
+          "대응",
+          "정답"
+        ]
+      }
+    },
+    {
+      "id": "c77b58d36dfcba2e",
+      "title": "[이슈] “반복되는 공급망 위기… 수입선 다변화 넘어 전력망·재생에너지 투자 확대해야” - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90aDk4VjZBeFJfdFB6aURVWEpGUllSNDVMSmYwZ0ZqTUtUd09DdjVJRng5ZWZtaW5MeUcySTJvTk1xUUcybFh2Vl9JX1lzUktUZ1pPVWdCdE5ONEVIdVpzaEthTGRqMDhOY0RnbTNQMWs?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:47:41",
+      "collected_at": "2026-03-10T08:11:42.176252",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "공급망 위기",
+          "수입선 다변화",
+          "전력망",
+          "재생에너지",
+          "투자 확대"
+        ]
+      }
+    },
+    {
+      "id": "b89a9a4ee088e41b",
+      "title": "“재생에너지 12GW 공급”…전북, 새만금 태양광·해상풍력 속도 - 베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sU25Uby1uRl85YnBoajhuMGZBUDN4Zks1YS02LTFNMWRCdzBUUy1zSThybG85U3JDbnlJcEFjQXlQcGN1NkJabHBpWEZlVjVJbTBKVnB2VlpsSXdlc3p5dmxOa1c?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T08:03:28",
+      "collected_at": "2026-03-10T08:11:42.176278",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "12GW",
+          "전북",
+          "새만금",
+          "태양광·해상풍력"
+        ]
+      }
+    },
+    {
+      "id": "3c96def840c722c6",
+      "title": "서산지역 \"재생에너지법 개정 대비 태양광 이격거리 제도 선제적 정비 필요\" 주장 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5haDV0WEY1SEhKd294TGt2RlgxNDR0dG5wRnhzZVJFenhESGhwa0lxLWp5TW5PU2ZvUmtqcXQ1aV9PRkNCYUJwdGJQNnhZT19jdzFzN2dhbzZxTmNOanN4ZVhQQ3l6YnFJQmd2Qg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:53:47",
+      "collected_at": "2026-03-10T08:11:42.176311",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "서산지역",
+          "재생에너지법",
+          "태양광",
+          "이격거리 제도",
+          "선제적 정비"
+        ]
+      }
+    },
+    {
+      "id": "0c9167f543e81689",
+      "title": "주한남아공대사, 전남도와 신재생에너지·스마트팜 협력 논의 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPdWJ1OU9QeUFhTjh0WFFYVTVOd05MakkyMEcySVY4Ul92TXlUOWM5Xy1GMnQydHJNLUoyYnVudmc0bDF4Xzhzc28yYzc1SDFON0g5Mm5YX2U4NmNEOUxV?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:16:21",
+      "collected_at": "2026-03-10T08:11:42.176336",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주한남아공대사",
+          "전남도",
+          "신재생에너지",
+          "스마트팜",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "730e18490f2b3676",
+      "title": "횡성군, 재생에너지로 주민 소득 기반 마련 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iazZ2RVNzNFl1UUdDWXRDcXVFZDJhS2FTUTFRaGl2S1hKWkxQWmI0dTdlWnpCWVIxT0JyM2FoNXFFSDdDMWo4T082TW5yOG00VXlvNnIyaEJnSXB3Tmlzbl8wUGtvSGpXS2VRRDVB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:04:40",
+      "collected_at": "2026-03-10T08:11:42.176362",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "횡성군",
+          "재생에너지",
+          "주민 소득",
+          "소득 기반",
+          "마련"
+        ]
+      }
+    },
+    {
+      "id": "99977c53db83dfd4",
+      "title": "안개 속 페루 재생에너지, 정치 난기류에 멈춰선 ‘그린 허브’의 꿈 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HeG9neFlla2pwaDI1N1ZXSGVNdThURjlRWHBUWWFGVXVhZ1ltSmNQT1o4ZU0ya0J4dXFRcFAxeU56WnRKcXhWU0o2Q1ZkcU1ZSUQwZ0hJOXJzd1RWZ3lpeU9ZOW8?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T23:52:49",
+      "collected_at": "2026-03-10T08:11:42.176390",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "페루",
+          "재생에너지",
+          "정치 난기류",
+          "그린 허브",
+          "멈춰선"
+        ]
+      }
+    },
+    {
+      "id": "9e4fb995aa1cb4ff",
+      "title": "재생에너지·배터리 기술 주도권 확보…정부·산업계 협력 가속 - 뉴스후플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWlFtMVllNkg0M0ZidGpGVERFSzF6SXlVUVFhOWt0bGZ6RDZCNzMzN0o0Y1A0M0k3c3c3Umc0bUVWUU5hY2JGT2VnME5tLVE5OS15RVQyX0RmR08tQWJqX1JMWk9tV21MdkZRalV3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:39:00",
+      "collected_at": "2026-03-10T08:11:42.176439",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "배터리 기술",
+          "주도권 확보",
+          "정부",
+          "산업계 협력"
+        ]
+      }
+    },
+    {
+      "id": "3f78bec616e03abf",
+      "title": "전남도, 남아공과 신재생에너지 등 ‘미래산업’ 협력 논의 - 프레스뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11T18tUUdpemRNMUZ3dzY3bnNQRXFTMFdHY1cxcHNkbGpPR1ZDbUxQMzhqN1o2YzdrbWFaX1dPdVo4d1U3WlFPbmN4WFcxc3NmMEIyMGJrWHl6dWE1ckF5RXZiNTZqVnJhN0RRZUQyZkc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:15:37",
+      "collected_at": "2026-03-10T08:11:42.176465",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남도",
+          "남아공",
+          "신재생에너지",
+          "미래산업",
+          "협력 논의"
+        ]
+      }
+    },
+    {
+      "id": "73e10024b503799f",
+      "title": "“재생에너지로 공장 못 돌린다”··· 5대 그룹, ‘SMR·수소’서 활로 찾다 - 그린포스트코리아",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44SkhCZG9Nb1o0ZHB5aEhJMVhqUmdFRGYzM2hHTHNmMXhnRWpNek54T01YQjF6UDJzRmM4Q2pVQTNMZ0t3Rjc4empUQTZTaC1xYV96Q0xGMklSb1RFcHZocVlPV2h6elNpWDhGNEFjTm8yQ1ItcEHSAXpBVV95cUxQQVJrWEd0M0h5WmdxREdkMGM0RGlZVk9nNG9JdjZaOUxaeEdCd2tzdkstb0F6Q2JuMUdMZVM3RjNGOGI4UEZUbU9jRmF2Z2M5QzhJdTFnc3VrME45NHVWMklyUFhuRUc4bDFMc0dYTEg4Zl80YkZDOFd3QQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:16:48",
+      "collected_at": "2026-03-10T08:11:42.176494",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "5대 그룹",
+          "SMR",
+          "수소",
+          "재생에너지",
+          "활로"
+        ]
+      }
+    },
+    {
+      "id": "f3fb89b8ae964dce",
+      "title": "공급망 위기 속 에너지 자립 화두…전력망·재생에너지 투자로 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0V2hqTU5WaUFzYklzNjBYYzUxbmtYbm42MVNVemRVZS1iaXl6WlFTdlpYTHZteDJ3d1p0eElTOE5qN2hDbHhLQmJNN2NJdmZmdXYwVjJhS1JvcGpuRU9FRmVpdDI?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T01:54:37",
+      "collected_at": "2026-03-10T08:11:42.176546",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "공급망 위기",
+          "에너지 자립",
+          "전력망",
+          "재생에너지",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "fccdbc9d703a691d",
+      "title": "수자원공사, 필리핀 물·재생에너지 협력 박차...현지기업과 양수발전·상하수도 사업 공동참여 합의 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjdXb0RfOHJVbVZ0cEloTTZPWThKd1hZY3k1N21KXzM4b2xIaW5OaTRmel9WdnVOTXgyYUVLQndBM3htbHNNOEZWUzZVbTVhMERVU3VKdnFtQlBWT3hLZUVBQnhJNGg0bTNaVFhYcVhMZ0VVSVJyem5ndzMwOThqeG1uLUEyWWpVVUE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:09:15",
+      "collected_at": "2026-03-10T08:11:42.176573",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수자원공사",
+          "필리핀",
+          "물",
+          "재생에너지",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "e6542752b18fa1d8",
+      "title": "전남, 남아공과 해상풍력·스마트농업 협력 논의 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9idkRyd2ZBczV3Y3ladWxLWnFOXzVRdkIyc1BRZ25Hd2lHRUtzdVA2X2IzbTFwRnZPQ2MtbjNfa1pMLUxlNmhuREJIekM4d0xqeDh5VndyZFhMWFJaRlBfcG5GeDdYVWVyM0E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T06:26:03",
+      "collected_at": "2026-03-10T08:11:42.176649",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남",
+          "남아공",
+          "해상풍력",
+          "스마트농업",
+          "협력 논의"
+        ]
+      }
+    },
+    {
+      "id": "2ec825eadf828528",
+      "title": "전라남도, 남아공과 신재생에너지 및 스마트농업 협력 강화 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfZ3g2Qm13cnU2OVNTOXhWTjg5Qi1kczBxUGpWeVc0Uzh1eGxZV2xwcWE2Yk50MFpybDJSMjh6U0dUcHB2RVdzR1Y3enNIUDdPNmptcmJ4ZXM3MjRMSWZQcDdyeFhrRThOYnhfQVhxZUw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:09:00",
+      "collected_at": "2026-03-10T08:11:42.176750",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전라남도",
+          "남아공",
+          "신재생에너지",
+          "스마트농업",
+          "협력강화"
+        ]
+      }
+    },
+    {
+      "id": "ef34511a6553b470",
+      "title": "[보령소식]신성장워킹그룹회의, 재생에너지산업 점검 등 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3NXMxMDNIdkJPMjRIamcxYm83SUtUSk00N014NVJmLWNBMnBYVW5oV3I1NWRhVFUxWFRkVFpBbGI0OEtJd1Vlbi1lR0NteUZOUFpZZzF5aVptOVk3SExLatIBeEFVX3lxTE1QRVZiRk1LajlCWGhxRk9CY0lHSkhvTzN5M05uQnNCNTRWVTl2ZjdQVk9seHFzb2dFQTNVSkNEeGR0VFNNR0pvaEprY25aTWhXVEFLZHNsR0ZtZ3piRmxSWTdZS3NtWFFPalBUeXIzX2dTaHVCTENWNQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:05:27",
+      "collected_at": "2026-03-10T08:11:42.176793",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보령",
+          "신성장워킹그룹",
+          "회의",
+          "재생에너지산업",
+          "점검"
+        ]
+      }
+    },
+    {
+      "id": "e692a10d6130210e",
+      "title": "한국남부발전, 하나은행과 협력해 해상풍력 중심 재생에너지 사업 확대 - 이코리아",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhSzNfUEJYUFRpeE9OMnBOSC1sbDZaRzJTZ1R5WTRWdGJZY0dXb1NnTVVOVFp3cHNjTm10TTFBRnhMdWxmaGtmVkRreDhETkJLZjFZeTdpLVQzQzBFVXoyeENIbUhGekEzZXVYYzJDaw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:48:06",
+      "collected_at": "2026-03-10T08:11:42.176844",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국남부발전",
+          "하나은행",
+          "해상풍력",
+          "재생에너지",
+          "사업확대"
+        ]
+      }
+    },
+    {
+      "id": "c09417a22b5d09f3",
+      "title": "공공주도의 재생에너지 발전단지 조성 업무협약식 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pOFFObWtZQ0hZN1p6dTQtTlFTMjZjcHlZZ0NSY2RiVXM2Z2xOeEFaMHpZLWdGT19hUUZUTWFmWnJCb3pLdjJmMm9HajNiaFJzVkgyODB2N1pNeWU3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T07:07:00",
+      "collected_at": "2026-03-10T08:11:42.176867",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "공공주도",
+          "재생에너지",
+          "발전단지",
+          "조성",
+          "업무협약식"
+        ]
+      }
+    },
+    {
+      "id": "9303f6d0fdebe589",
+      "title": "LG이노텍, CDP 글로벌 기후변화 대응 평가 3년 연속 ‘리더십 A등급’ 획득 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tajg0MF9iTjJhWXRIaUZtNUVXYk43WUVZTTM0d1gwUWloMlMzM3V4bXEzTjhkcWg5OFBPTGtILXY2UEg3d2JXT01SY1Z6S2d4VGU1SnNqaFl1d9IBVEFVX3lxTE5TMmdQSWtZRWVPVWtOVTFPVU5JTW12WmlVQjNzai1yeXFaeTloNWo5ZUVlNmxYRVRvcFNxd3NrTVE1YnljcWpiY2ZEUFFUWWdCQlgyRA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T05:27:28",
+      "collected_at": "2026-03-10T08:11:42.176946",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후변화 대응",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "5592809b4a836493",
+      "title": "횡성군, 재생에너지 수익 환원 ‘행복소득’ 시동…공근면 덕촌리 가동 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HenZmc2xSRUhDQnVXWXQ3Y0hJVDVmQThxM1p1SVBJeGJQY3lVQnZwT3dZMTVtbnJPOGFTQ19RY1NOc0xjejBzVzRsRVFHT2ZGZVQtYmVWZF9RTmJkUWt3RERycTNnTm1xaER5MWpSRnTSAXRBVV95cUxPRElVc1hhYUZxSFFXc1NKQktGVXU0LTJMei1fZE5fM0tpM1k2X2toUUd0c3BnZWszMlM2eUlhUEpRcHpsc0tiV3J6Tmc1U2N4VEU4TnMxb2cyNk5laEVBY1RqMktKdkJnamhHb01iT1UtX00tZg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:56:17",
+      "collected_at": "2026-03-10T08:11:42.177021",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "횡성군",
+          "재생에너지",
+          "수익 환원",
+          "행복소득",
+          "덕촌리"
+        ]
+      }
+    },
+    {
+      "id": "662a9580d96345de",
+      "title": "'금양그린파워' 52주 신고가 경신, 턴어라운드 확인. 재생에너지와 원전 모멘텀 기대 - 유진투자증권, BUY - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUX2ptbzY3LUpvOExkNzNBWUEtbmRkOUhWeld4UHp1LTNFSkx6cm5jaE9TSGR1T0pfREt5c0JkVG5renEwZnE5VUZNeVRtbWNjTEdJ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T04:39:00",
+      "collected_at": "2026-03-10T08:11:42.177097",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "금양그린파워",
+          "52주 신고가",
+          "턴어라운드",
+          "재생에너지",
+          "원전"
+        ]
+      }
+    },
+    {
+      "id": "a464f034f4d76fae",
+      "title": "한국투자證 “미국-이란 전쟁 종결 후 고유가 장기화 가능⋯신재생에너지 관심↑” - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfWnBpT2N0b0gtYy1vT0h5MnF2LTNzdFdkMjZOeFZLTzZQWDZ1ejB1MlQxTzZ5WmtJQ0xZcllzMUtFNlRwMmp3OEFuc2RKRmtRbTkxcA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-09T23:19:00",
+      "collected_at": "2026-03-10T08:11:42.177149",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e67b27f35fbe2f92",
+      "title": "덕촌리 태양광발전 가동으로 횡성 기본소득 실현 가능성 높아져 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RT0VkOXNDWmNzdktmUHZ0b1ptaHR4dENWdW16VzRqLUxYSk5tR25FeHdwWUtick5QX0d4SVNuWkxiNEZjREZLbVNFU0JNZnV0bE9jVW9YYTE5X0tBMl9GZGdONA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T00:41:54",
+      "collected_at": "2026-03-10T08:11:42.177286",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광발전",
+          "횡성",
+          "기본소득",
+          "덕촌리",
+          "가동"
+        ]
+      }
+    },
+    {
+      "id": "0dbf81d5f2ec9d76",
+      "title": "'피지컬 AI 시대' 급증하는 전력 수요에 대한 LG이노텍의 고민, 권혁수 \"재생에너지 전환으로 ESG 리더십 확보\" - 허프포스트코리아",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85dWRkelRhRlptUGV2R1IzczVIN3JfaUpGVzQ2VllqdHZHdmhhaTlmMHhHeVZTZTNWb3JxbTljUm1KY0c5dnpTNGM4dzAwZzlTZGpmUXhRQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:49:24",
+      "collected_at": "2026-03-10T08:11:42.177588",
+      "keywords_matched": [
+        "재생에너지",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "피지컬 AI",
+          "전력 수요",
+          "LG이노텍",
+          "재생에너지",
+          "ESG 리더십"
+        ]
+      }
+    },
+    {
+      "id": "59121c0507587998",
+      "title": "LG이노텍, CDP 글로벌 기후대응 평가 3년 연속 '리더십 A등급' - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU25kNnZ4eHNsN2ZEXzQ4cGRaaUtmeWlTU1d2Qm54eWFWRzFjZERoV2dnUENxT0IzT1F5UktNMzhMbS1vaVRqelhjVnJHUGpiR2xPdUUwcERwd3hzM01Qa3liZjJTTzlGanlpZTFSUnR5d1RIRlhRdkZndFFvUWZITQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:00:05",
+      "collected_at": "2026-03-10T08:11:42.177634",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG이노텍",
+          "CDP",
+          "기후대응 평가",
+          "리더십 A등급",
+          "3년 연속"
+        ]
+      }
+    },
+    {
+      "id": "9da95999f13edc61",
+      "title": "중국, 에너지 위기 속 친환경 속도전 - 한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFByN044Y0JFV0N4QktyUDJsUHJRUmI3QTJ2eTFBbVdUakQ1Y3htNFA5eGhnTm92aUdwMHZwYW0zUk8xM0k?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-10T02:44:37",
+      "collected_at": "2026-03-10T08:11:42.177727",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "에너지 위기",
+          "친환경",
+          "속도전",
+          "정책"
+        ]
+      }
+    },
+    {
+      "id": "396308a24540c758",
+      "title": "[단독]숙의 절차서 뺀 ‘후기 감축형’ 다시 선택지로…탄소중립 공론화 시작부터 ‘삐걱’",
+      "link": "https://www.khan.co.kr/article/202603101630011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-10T07:30:01",
+      "collected_at": "2026-03-10T08:11:43.017162",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립",
+        "녹색성장"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "공론화",
+          "후기 감축형",
+          "탄소중립기본법",
+          "기후위기"
+        ]
+      }
+    },
+    {
+      "id": "3bf10ab29cb32b90",
+      "title": "기아, 대표 친환경 SUV ‘더 뉴 니로’ 출시…“동급 최고 수준 연비 확보”",
+      "link": "https://www.khan.co.kr/article/202603101528011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-03-10T06:28:01",
+      "collected_at": "2026-03-10T08:11:43.018193",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기아",
+          "더 뉴 니로",
+          "친환경 SUV",
+          "연비",
+          "하이브리드"
+        ]
+      }
+    },
+    {
+      "id": "8d168b74b09c4681",
+      "title": "The planet just got incredibly close to breaching landmark global warming target - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1RTc0lldHdHU3NfWnFqNmtLRzlxZC0tWWVyTmtUYTYwRlF1WU05Ny13SEw4LS1NZ0JjekhUWElRdTBpdUJ5TXFPRDVWRVNqU2RDV2NNZmZWQUgwUFhWMVVqWUJxa09PSXEtemRQNVJFRk94MXN3QlkxOHpxVEZjSjZqYWhneDZhODhkclA3SUJDSURVRjFoUkc4LW9sQUpqdkJzejY2QTRXYW1LaU1JS3FDRU1pZjg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T00:38:36",
+      "collected_at": "2026-03-10T08:11:43.580545",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "지구가 획기적인 지구 온난화 목표치 돌파에 믿을 수 없을 정도로 근접했다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "기후 목표",
+          "근접",
+          "돌파",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "f55bf971f9a02226",
+      "title": "‘Exceptional’ wetness points to climate change future, say scientists - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nWWppZWRXNlV3YlI4bHE4b0ducE14LWlSdE16ZlZfMlR6ejhJTTJPelhRZ3d1WGkxRmpwNGhHNkRENXVsdlZrZndPcnJBcklGTGhiaXhEem8wcHVhSTZnQ0xuc0tJOVZGMGpWZUk3bmQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T05:00:27",
+      "collected_at": "2026-03-10T08:11:43.580585",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "'이례적인' 습윤, 기후 변화의 미래를 시사한다고 과학자들 말해 - 파이낸셜 타임스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "극심한 습윤",
+          "기후 변화",
+          "미래",
+          "과학자",
+          "징후"
+        ]
+      }
+    },
+    {
+      "id": "082cca5da9fd3530",
+      "title": "How farming perennial plants can help us in times of climate change, food insecurity and social division - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUdKWk1aWUVRR0NRV2s0SUZ5Ukc3S0dnSTdfRTJKUmxva0psQUFETU1aQlk3R3JTZmpHd3pYSnRwaHVXSnl0UTFGaTBPU3c4U3hIWUNCTllfcnI5SHZnbDMtSXduWFVFaTU3LXRMYkZRSTA5ZkNrY2NmNVFwOF80YlB3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-09T21:10:01",
+      "collected_at": "2026-03-10T08:11:43.580845",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "다년생 식물 재배가 기후 변화, 식량 불안정, 사회적 분열 시기에 어떻게 도움이 될 수 있는가"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "다년생 식물",
+          "기후 변화",
+          "식량 불안정",
+          "사회적 분열",
+          "해결책"
+        ]
+      }
+    },
+    {
+      "id": "f9112e12425e8c47",
+      "title": "Scientists detect a sudden acceleration in global warming - ScienceDaily",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqTUdGblRycl9DTjdyV04yUXhkWEIxb3NqWk1FV2dsZGlBUmN4M1ktU0NEelBEaldvQnU0RjF6b0ItTVhleS1ybVR3TkY5SHhoVi1wRVRRU1dYY2VfMmxZLUZsNlNNWWxYMEZSZGt4QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T00:28:41",
+      "collected_at": "2026-03-10T08:11:43.580986",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "과학자들, 지구 온난화 급가속 감지 - 사이언스데일리"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "과학자",
+          "지구 온난화",
+          "급가속",
+          "감지",
+          "온난화 가속"
+        ]
+      }
+    },
+    {
+      "id": "d5ee7e934bda00a1",
+      "title": "Climate Correction Conference calling for faster action and stronger leadership to combat global warming - WGCU",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSXpDUTZjWUMzUzdLLTFLUWJ2R3c0X0N2dWdFSmVQYjVjbjloM3FmeHVuaEpLa1VjSDRWNXZ2M0dCNGp6VTBkYkI5Q0h5VXdIcmRHRUszRGJZYnF4TXZCRFlkcHlKRHBmbmwxSGFPUFRyQXpjNzVHSGZLQjVvVlZPOUdJMl83SkhaOWNYU2VGTEFLT1VZMGRPSFljX09YcW5DS1BXNWlsOWhNM2lQZTZhcTVKUDQxMTFCdXJMTnpXVGpmaFR1WGctZTFVOHNLR0Z5Z3dLSVBSUlRJSzhic1BmRlNB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-09T23:52:00",
+      "collected_at": "2026-03-10T08:11:43.581016",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "기후 교정 회의, 지구 온난화 대응을 위한 더 빠른 행동과 강력한 리더십 촉구 - WGCU"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 교정 회의",
+          "지구 온난화",
+          "빠른 행동",
+          "강력한 리더십",
+          "기후 변화 대응"
+        ]
+      }
+    },
+    {
+      "id": "f67b831900248fc7",
+      "title": "Climate change behind longer allergy season in many parts of Pennsylvania - Keystone Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFI3Q2pQZjNiOGZncEFhcExuSXlkMS1FTjhmRE54NjZybEw4emJ5MEZGaFQxeFNnN3hjanYzN3ZoTjc3bUR1N1FPaENfT1dPR1k2cE1aTHpYNjhld1lqMUdIWHM4dkZuUW9aaHNhVkJpNEY4NlR6NXRDUDdVbnE2alVFdXYybk1UWS1WalBqNDcxLUdxRHQxaEVvREg4RWJ2U0VUY3dxQVA1SUpIUjVObngzN2g?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-09T19:11:25",
+      "collected_at": "2026-03-10T08:11:43.581045",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "펜실베이니아 여러 지역의 길어진 알레르기 계절, 기후 변화가 원인 - 키스톤 뉴스룸"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "알레르기",
+          "계절",
+          "길어진",
+          "펜실베이니아"
+        ]
+      }
+    },
+    {
+      "id": "1ead7f98a92074d8",
+      "title": "Polynesia is sinking – how climate change could erase entire island nations - MSN",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT0s4eWRnLWE4bWs2OEtaSGZyaXNid2tGQ0tkUmdDejRTaklSNC1qeGx2Qk9kUm4xZF9Mb1daYld1bHoycm5FeHoydUZyc3hGVVN5b2NOeFMxWGpQSTB5NXgtRlUxNjFyRHBobmdJODlIUnN6c3FXMGFTTnR1OEh4OTdQcTVhakduLXg1QTVqbVZSTGU2aUVhMFh5eFhMXzJfSWRFcEgwbWkzU3VnMDc3QjNweVdDQnNxdl9kc1RoT2VMck1mdE41eGV3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T06:57:16",
+      "collected_at": "2026-03-10T08:11:43.581335",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "폴리네시아가 가라앉고 있다 – 기후 변화가 어떻게 섬나라 전체를 사라지게 할 수 있는가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폴리네시아",
+          "기후 변화",
+          "섬나라",
+          "해수면 상승",
+          "소멸 위기"
+        ]
+      }
+    },
+    {
+      "id": "fc356c887f2d4a40",
+      "title": "Older people concerned about climate change, with just 5.8% ‘dismissive’ – study - Radio News Hub",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdDJPZFlYNWpvOE1Cajg3VDd3WDZpc0pQLW05TFZQTUladDE0V2FCajdnNUdIbUZnckh3RkowMXpXQ1JoWHB0MElWX24yZG5JdVhpTEQ5ai1WaFNGTm9SLU9FbHpGN2NFY2JlZmpsMjQ4REdFc3N5NUduaFB1Snpla2RoWnVpZF9FOFFXVWQtd2RpTlN0cERQdkhRRzRPck9JZ3ZkR2ZzWUx0REhBS1dNOHVfdlVNVjZhTFoxZnNKb3V3WlE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T08:06:04",
+      "collected_at": "2026-03-10T08:11:43.581421",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "노년층, 기후 변화 우려… '무관심'은 5.8%에 불과 – 연구"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "노년층",
+          "기후변화",
+          "우려",
+          "무관심",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "f6779dcebc777fbc",
+      "title": "Plan unveiled for cultural heritage protection against climate change - eKathimerini.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHRHRTJ1UGNheW16MmZ4WmI5c1otQWIwa3ROR1FWVUoyNUc2NTZ0LW5kVVIzMnVsa0FsbzJ0cDlHSTZiUjg1Q2lPMzM3Tzk2dFloRmpXM2hJeVdKaFRtRUNMa3lfandNT2JBVDlhd2hEa2dHVnA3eFpzS1dYMWNMdFN3SFFpS05YTURDeVRyNjZyU3BES0RVZ3NjU1ZxeDVYQmdUTXhOSDRlRkRZTGc2NlhaZmFIQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T05:46:17",
+      "collected_at": "2026-03-10T08:11:43.581449",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화 대응 문화유산 보호 계획 공개"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "문화유산",
+          "기후 변화",
+          "보호",
+          "계획",
+          "발표"
+        ]
+      }
+    },
+    {
+      "id": "90fbade3d7877849",
+      "title": "Deep Ocean Microbes Primed for Climate Change Fight - National Today",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVlUVHZ1Vmd0SlZZM1lnWk5SeTRHd3ZTaFFZSko1bFU3alB5LUhkbUZfS1ZaR19HYkZITkxQRkkyUXdubGNaMGx4dmhqTjcwRVZQWEZiaXJ5NEk3ZnFDUldPVENsaFMtZzdObjRoMEpNSEl0cXBrM1FyYjRFWmZaOTNid3phbmJBNDk1YWFWakhrMHVqSGJwQnF0MUZYSHM2Vlh6Uk5ZVHptVVF6NHc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T05:43:05",
+      "collected_at": "2026-03-10T08:11:43.581613",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "심해 미생물, 기후 변화 대응 준비 완료"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "심해",
+          "미생물",
+          "기후 변화",
+          "대응",
+          "준비"
+        ]
+      }
+    },
+    {
+      "id": "5b8b93869ae93ccb",
+      "title": "New York Times Blames ‘Climate Change’ and ‘Immigration Enforcement’ for L.A. Restaurant Closures - freebeacon.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcGVEYXdXZ2tLVkJ6NEhXaFJ0bFFMZzZfYWpSbU0xYmRnRG9SSzY3R2UwNTdjQXNsUVJBU2FGckp2ZUtJMXBkd2YxZmo5akYyRmFYM0FwNTN1dVlwZ3lTOVplVTVzXzNoVXh6T1ptM0hoQkVveC13ZkZFQk5PU3lWOTJzU0VUYngya2Z0djgzSFBQbmhaSmw3YW9ZaUFWaVBIdUFwZ3BPaGcxM2Z3ZnBRbWpfanhROHlVNVNkUmlTUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-09T23:33:55",
+      "collected_at": "2026-03-10T08:11:43.581648",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e06389ef9fbf90f9",
+      "title": "Samsung Electro-Mechanics Receives Highest Grade for Climate Change Efforts - Businesskorea",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DYlVQWkJoYk1GbG52Mi1MVVFNODdMU0FVSDBhdTBUdE1yN0M5YWZZT21OWTJCY1dubFZPdnN5em9EcjJNbHpPQ01JRWE1UFJsX3NBUmg0R0p6OXdzd0ZOdTJLZzNvSFZvek52T2thalNoSlpZ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T07:23:20",
+      "collected_at": "2026-03-10T08:11:43.581720",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "삼성전기, 기후변화 노력 최고 등급 획득 - 비즈니스코리아"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전기",
+          "기후변화",
+          "최고등급",
+          "노력",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "fd290d6410fc5724",
+      "title": "How Cultivating Perennial Crops Can Address Climate Change, Food Security, and Social Challenges - Bioengineer.org",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEJpRXRYRWppeEdaMkI5NTVfYkRxNU9fM0xQeDczLUpaNWM0NTdWSm96a3hpLXBkSGE5REUwVEVZU1JuY2hKcjh1YW1vVzdMME13SDdJa2VaUkQ3Y19iZ1Y0S1l2LUtzTUFOZFUyS3NvOUh3bnR0bFhad0pTaTFzSEV0eVgyTE1YbmRrdVQ1VGhTNG9oMFBUVFhXVUhpSkxITjRWaXNZekhHa0V4MjVuT05GbDhOaVpITUtz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T00:41:55",
+      "collected_at": "2026-03-10T08:11:43.581797",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "다년생 작물 재배가 기후 변화, 식량 안보 및 사회 문제를 해결할 수 있는 방법"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "다년생 작물",
+          "기후 변화",
+          "식량 안보",
+          "사회 문제",
+          "해결"
+        ]
+      }
+    },
+    {
+      "id": "9d5949293043ec50",
+      "title": "Climate Change and Energy Minister Chris Bowen claims Australians have no reason to be concerned about diesel supply in the country despite shortages in regional Australia. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUGI4YmtwZjVNS29FVWlVMmo3OE5KLWZudG9QN0xONzV2MS1lMmRYeGc4eENmajVyVGUwcTdfcXFiRkdrdU15aVNzcGxnWXdPaGUtV2JwaWZ5WUM0M0lKeWxDT0o2SVJFNnF2UGFuSDFsdUs2VFVseHdKMUd2cG5VQ0JsR3VxUlhIM3VOT0xSVXVtN09YajVqU0w3WE1pSHQ3QndFN0tMajZfNlAwRTJMa1B0dEEzSnp2R0NUOE1lREZFNjZGNERyQW1NcUp2aDFtbWo4TmtJd2ZWdHE1RkJv?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T02:27:23",
+      "collected_at": "2026-03-10T08:11:43.581886",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cf12a983ac2b7c23",
+      "title": "Korea University vows to address climate change issues - The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZHVYMk5oR2dFbS1JRHJQQ0RxYjdQYnlTYTJybndTN1gwV2RSaG9qU3M1eVFQUW80Q1pxazdXMHAxY0Ffcjl2bEU4S0Y0ZU5ST2EtUHlCWTZUWXdHb0ZhYWNBTmZ1UW9hVDdrV2tlSXA3TTVTNXFQVlp4UEppMzduNEk5UUctLW82VEM0eC1pc2hpd1FzWjRfeFlBemdTLW1NSjMzUUlB0gGrAUFVX3lxTFA1NlV2SlJVQllRRElIai1oWURlSXdHOXVqZDZjS2xoOFJsZUpuZ0JHci1tTW9pYjk2bmViNlhRRnpUNWhoampWeHFYdEZLYnBzZ0QzaUwwclR0bGxfeE53OGYwMWhOVWhPOEhBUUttd2FCbnRSTUdUc0pMSk9HaGRmSmZlOTJlQ0p5Q201N2tmR1IySmpmdENlVWljVjFOaElqR2x4WWhaa2NEdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T05:35:06",
+      "collected_at": "2026-03-10T08:11:43.582108",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "고려대학교, 기후변화 문제 대응 다짐"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려대학교",
+          "기후변화",
+          "문제",
+          "대응",
+          "다짐"
+        ]
+      }
+    },
+    {
+      "id": "841e928188548783",
+      "title": "Climate Change and Energy Minister Chris Bowen is under the pump during Question Time as Australians experience escalating petrol price pain. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcmFDaFpkQ1czRnZiZHhrV2FkUVhEem01emhsTWJ5d3FxS2IwSW16M0dCdVdOUFp5dnRhWlM1LUt3dV9oYmg4V3pQRjh0SEJvZUFZOTA1ZUtabFNVVHVSNGg1UkgtdU5lUzZMQjZwRk9yS3R4WnYwWi1LQUtMZGU2SUV3UHpvYndvOHBmT3R6a1BOalZkMERzbW8wVXRwVHB5X0pJUWN3RzNINVJTVDhUSEU3dENuVTRsME45UGYtRmhabVlBbU9BX3BnYlJKM3pHZU14SlAtb041VnRvSThj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T07:43:13",
+      "collected_at": "2026-03-10T08:11:43.582250",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후변화에너지부 장관 크리스 보웬, 호주인들의 유가 상승 고통으로 질의응답 시간 중 압박에 시달려."
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "크리스 보웬",
+          "유가 상승",
+          "호주",
+          "압박",
+          "질의응답 시간"
+        ]
+      }
+    },
+    {
+      "id": "951b90d23a72aab4",
+      "title": "Climate Change and Energy Minister Chris Bowen has revealed demand at service stations in the Adelaide Hills and Barossa region have surged 280 per cent which is putting “pressure” on supply chains. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaUQxa1JyQnFmVGZqZEx2VmE4aHo0WnJFVGhhYUh1bTk3Z0VhQU5zNkVtWmdGNlotVng1TVFucXdFM1Axb1lVcjJBRTR3bl8tRndDTlNncDU3YUdaWWw3eENFWldPRHhzYTFXSWdyWExtOWdxaFVuU3VrNVo4U1lEWUpUemhmb3lwTThwOWxvOXpnTUswLWtzbFE4M0o2SndSeEdTZXhabXU1LU83bE9xVDloYnA2Um1aamRJYWw5SjJPbFNOUG9JLW4zdmpMRktRU3V5MHp0S2d4NVNVbjFF?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T04:10:02",
+      "collected_at": "2026-03-10T08:11:43.582404",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "크리스 보웬 장관: 애들레이드 힐스·바로사 주유소 수요 280% 급증, 공급망 압박"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "크리스 보웬",
+          "애들레이드 힐스",
+          "바로사 지역",
+          "수요 급증",
+          "공급망 압박"
+        ]
+      }
+    },
+    {
+      "id": "cb2beb6505111c21",
+      "title": "Climate Change Deepens Inequality for Women in Asia-Pacific - fundsforNGOs News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSFZWdTdZZmxiWXFjRVVrdUJjRnRqWU5XMnJ0aGstSFRwdzJvVm9XVE9mTGtQYV9WYm9RTnJVMXlBNWFEWG85UF9GN1ZIdW9BZTRKSVlubEIwb0FlNi0xNmhxcWRnaDI1Q1JMVWFXS0JSVUN2QlIwblJjTFZ2NVBybUtadFFMWEVoNC1iMlhyYUk5SXFzenBvQTZaNmpBYjQ4Z3Bj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T07:09:46",
+      "collected_at": "2026-03-10T08:11:43.582532",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 아시아 태평양 여성 불평등 심화 - fundsforNGOs 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "불평등",
+          "여성",
+          "아시아 태평양",
+          "심화"
+        ]
+      }
+    },
+    {
+      "id": "d6ecc106035b88a0",
+      "title": "Waste Pickers: Unsung Heroes in Brazil's Battle Against Climate Change - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGg3S2I4dWd1RTFrV1VpRjUwTmhyVXY2Q1NxVS16Rmw4Zjd5cTVXbTl6bE02Tm5vTF9TUlFwNFVFWW9OZjd3M3lQNUszcUIwaVRxTFk4eG1SRXVqMU0wVEt0SGpzOGxxcHU1UW9XQm1GanZQWDF3MFc2VEJlMXB0R0xySlRIYXpCX2VtZ1VISU9pVGl4N3hJNEpxTmtJdlBobTc1RXE4bnd6VklyNWZJQU1iYVNjUXp1WVNscW9yemVhZEhyUHF4SDFWUWhLZ9IB0wFBVV95cUxNSVNpNFRScTRCNC11NnpqVnMzcWExS0xOWDRMdmVxdU1yXzl5YkE5YW9VVk5QNUxjVDE2OU9Mc2pVQ1hocTdXRUhPSlRfTWZrbnlNSTM0eExVcUtLQkZCNFBMaFk0eFJFUzFBMnVNdG9lMEFGZXVFeVlIbXhOWlBmSHlUMVo3WWNVQkJmT25ScnBSbmlkZEdfS2NEYWIzNVRwZS01OWtNRmtXX1Y2Q0RfamlBcE0tOVdIaDFhVV9tdFJ1Z3J1bkJkYmRaUmpPaWNvTDVv?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-10T06:17:31",
+      "collected_at": "2026-03-10T08:11:43.582660",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8206520e6992f507",
+      "title": "Testing the waters: can pumping chemicals into the ocean help stop global heating?",
+      "link": "https://www.theguardian.com/environment/2026/mar/10/sodium-hydroxide-ocean-global-heating-solution",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-03-10T06:00:10",
+      "collected_at": "2026-03-10T08:11:43.450287",
+      "keywords_matched": [
+        "climate crisis"
       ],
       "translation": null,
       "sentiment": null,
