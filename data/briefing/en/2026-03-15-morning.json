@@ -1,0 +1,385 @@
+{
+  "date": "2026-03-14",
+  "generated_at": "2026-03-14T23:13:03.279718",
+  "briefing": {
+    "opening": "Good morning/afternoon. Welcome to the climate briefing for March 14, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Domestic Impacts of Climate Change and Economic Costs",
+        "content": "The direct impacts of climate change on our daily lives and economy are becoming increasingly clear. A recent report indicates a decrease in domestic coffee production due to floods and heatwaves, demonstrating that climate change is even threatening our morning coffee [1]. Furthermore, research has been published calculating the damage cost of one ton of greenhouse gas to the Earth at approximately 280,000 Korean Won, with in-depth discussions continuing regarding the value of this figure [2, 3]. This suggests that reducing greenhouse gas emissions is not merely about environmental protection but is a crucial task directly linked to the national economy and the lives of our citizens.",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ International Delays in Climate Action and Scientific Debates",
+        "content": "The international community continues to face significant difficulties in achieving its climate goals. Germany's greenhouse gas emissions decreased by only 0.1% compared to last year, making it unlikely to meet its 2025 climate protection targets once again [12]. Amidst this situation, claims have been made that 'the science of global warming theory has taken a significant hit,' reminding us of the importance of diverse perspectives and discussions in climate science [11]. Responding to climate change requires international cooperation and responsible actions from each nation, built upon a clear scientific foundation.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Domestic Efforts to Achieve Carbon Neutrality",
+        "content": "Domestically, various efforts are actively underway to transition towards a carbon-neutral society. Namdong-gu has launched a carbon neutrality practice campaign in cooperation with the Senior Human Resources Development Center [5], and the Jeonbuk Regional Office of the Korea Housing Management Corporation participated in a tree-planting event to achieve carbon neutrality [6]. Furthermore, discussions on Korea's energy transition and the future of renewable energy are deepening [7], and the voices from rural renewable energy sites, such as Yeoju's 'Haetbit Dure Power Plant,' are being heard [8]. Gwangyang City is also promoting resident-participatory solar power projects [9], indicating a spread of carbon-neutral practices led by local communities and citizens, which fosters expectations for positive change.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Ecosystem Protection and Climate Change Adaptation Strategies",
+        "content": "Amidst the threat of climate change, the importance of ecosystem protection and the development of adaptation strategies is being highlighted. Ten new wetlands have been identified in national parks, but a concurrent warning that they could disappear due to the climate crisis and uncontrolled development underscores the urgency of their protection [4]. Internationally, innovative adaptation efforts are being explored, such as the proposal of new architectural concepts for islands vulnerable to climate change [10]. Ecologist Suzanne Simard is presenting innovative ideas on intelligent forests and climate [13], emphasizing the potential of nature-based solutions.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing has highlighted the severe domestic and international impacts of climate change, alongside the diverse efforts coexisting to overcome these challenges. This is a time that calls for sustained attention and action. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change Takes Away Your Morning Coffee, Production Decreases Due to Floods and Heatwaves - Business Post",
+      "original_title": "기후변화는 당신의 모닝 커피도 뺏아간다, 홍수·폭염에 생산량 줄어 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14ck5jM1puTjY0T2FVMFBvTTRMci1JU2RtWVFBV01TZEdXdTB0NEo2TFFJLVNadEJKVTNVbE4wcVpiYlVVWDczV3pfRUU1UkJuMnp4bkpaRmRxNGZpeGFEdnRLS0NfNzNQWHNJNmVHMWlmQk0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T21:00:00",
+      "description": "Climate Change Takes Away Your Morning Coffee, Production Decreases Due to Floods and Heatwaves - Business Post",
+      "summary": {
+        "phenomenon": "Coffee production is decreasing due to floods and heatwaves.",
+        "cause": "Climate change is causing floods and heatwaves.",
+        "outlook": "Due to climate change, it may become difficult to enjoy morning coffee in the future."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Morning Coffee",
+        "Production Volume",
+        "Flood",
+        "Heatwave"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화는 당신의 모닝 커피도 뺏아간다, 홍수·폭염에 생산량 줄어 비즈니스포스트"
+    },
+    {
+      "id": "2",
+      "title": "Calculating '280,000 Won in Global Damage' Per Ton of Greenhouse Gas…10,000 Simulations - Hankyoreh",
+      "original_title": "온실가스 1톤당 ‘지구피해 28만원’ 산출…1만번 시뮬레이션 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cW94RVVscTVPYlZ6UFd1bF9zenhWblcxWkhyb21JZGVfMmsya250Rjh4cVhuMU1qY1RXNUxDVjF3VHZUR2c3WHhfbHZFVk9JRTcyb3NuZndfWnd6UzBvallnZkMtaGZQcjBSeA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T19:32:51",
+      "description": "Calculating '280,000 Won in Global Damage' Per Ton of Greenhouse Gas…10,000 Simulations - Hankyoreh",
+      "summary": {
+        "phenomenon": "The amount of damage caused to the Earth per ton of greenhouse gas has been calculated at 280,000 Won.",
+        "cause": "This figure was derived by analyzing the damage caused by one ton of greenhouse gas to the Earth through 10,000 simulations.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Greenhouse Gas",
+        "Global Damage",
+        "280,000 Won",
+        "Calculation",
+        "Simulation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "온실가스 1톤당 ‘지구피해 28만원’ 산출…1만번 시뮬레이션 한겨레"
+    },
+    {
+      "id": "3",
+      "title": "Is the Value of One Ton of Greenhouse Gas Really 285,000 Won? - Korea AI Real Estate News",
+      "original_title": "온실가스 1톤의 가치는 정말 28만5천원일까? - 한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1DekphNFFSWUlxUlE3U1dTZldwQ0pmWHdOQ3dGUVpfM3NXZDV5ZUg5NERheDNxbHhpLUl6Zm44Z3k4aV9FcHBNYUlBdHU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T11:13:02",
+      "description": "Is the Value of One Ton of Greenhouse Gas Really 285,000 Won? - Korea AI Real Estate News",
+      "summary": {
+        "phenomenon": "The value (damage cost) of one ton of greenhouse gas is being presented as 285,000 Won.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Greenhouse Gas",
+        "1 Ton",
+        "Value",
+        "285,000 Won",
+        "Question"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "온실가스 1톤의 가치는 정말 28만5천원일까? 한국AI부동산신문"
+    },
+    {
+      "id": "4",
+      "title": "10 New Wetlands Identified in National Parks…'May Disappear Due to Climate Crisis and Uncontrolled Development' - segye.com",
+      "original_title": "국립공원서 신규 습지 10곳 확인…“기후위기·난개발에 사라질 수도” - segye.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96cDhSUVVKNXhPMFF2aFFrSzRKbXJmbHN0Q3kyZ1lXNHFFRXFzc0FfRnZYTnptSGtSbElLVVVka0hhRVlLWVgxbXlqWDFJQlJyR0VaaVpSVW_SAVRBVV95cUxQelo2LW9OTFV2YWNmczB4REp4R3FQNE1OMVVNNUFHMkt4OG13Y001WEp1b2VuT09UUjNrdVNHaTRPOHpMSkNoMWl2UzZIVDlXcmFySHk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T10:40:00",
+      "description": "10 New Wetlands Identified in National Parks…'May Disappear Due to Climate Crisis and Uncontrolled Development' - segye.com",
+      "summary": {
+        "phenomenon": "Ten new wetlands have been identified in national parks.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The newly identified wetlands may disappear due to the climate crisis and uncontrolled development."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "National Park",
+        "New Wetlands",
+        "Climate Crisis",
+        "Uncontrolled Development",
+        "Threat of Disappearance"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "국립공원서 신규 습지 10곳 확인…“기후위기·난개발에 사라질 수도” segye.com"
+    },
+    {
+      "id": "5",
+      "title": "Namdong-gu Launches Carbon Neutrality Practice Campaign with Senior Human Resources Development Center - gukjenews.com",
+      "original_title": "남동구, 노인인력개발센터와 탄소중립실천 캠페인 나서 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtTzh2TnlUczc1U1dGYWdIdEJCWG5TcHhRUlhiTklvRlFZN3JGT2xjMFVyMS1yVnAxd0VrQnA4bFFDOFJQS2N0aFNjQjAyUl9XUkZ4MndCdW5MV1RRS2FrWXVVZVloazAzaWNUMGhB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-14T13:22:16",
+      "description": "Namdong-gu Launches Carbon Neutrality Practice Campaign with Senior Human Resources Development Center - gukjenews.com",
+      "summary": {
+        "phenomenon": "Namdong-gu has launched a carbon neutrality practice campaign with the Senior Human Resources Development Center.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Namdong-gu",
+        "Senior Human Resources Development Center",
+        "Carbon Neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남동구, 노인인력개발센터와 탄소중립실천 캠페인 나서 gukjenews.com"
+    },
+    {
+      "id": "6",
+      "title": "Jeonbuk Branch of Korea Housing Management Corporation Participates in 'Tree Planting Event' for Carbon Neutrality - Jeonbuk Ilbo",
+      "original_title": "주택관리공단 전북지사, 탄소중립 실현 '나무심기 행사' 동참 - 전라일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vN3Vpbm5sZXlUM0Zmc2ZPV0FUX2NrbHZpb1RsamJkZGhvN0JCeWJIQUpCcTUtU1QwZG85d005TnJNcXdKTlM5TzE1cVBXX1dOUTRzZkJGcko3T3VNci1ZMjdRQWgyZVJZaFhkLdIBcEFVX3lxTE14OTJ1TWx0SDc2NlpOWThGOC1lQUItZ2VINkN6aDl4SUFxbERjdnpOVThId3ZzUVpyM3E5Z3IxM3FBYUJOUFY0VmxLWmxQU2lDdzZlc00yN3dybVpLTXFyczl6em9KXzRGRndobVRjZjA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-14T11:12:10",
+      "description": "Jeonbuk Branch of Korea Housing Management Corporation Participates in 'Tree Planting Event' for Carbon Neutrality - Jeonbuk Ilbo",
+      "summary": {
+        "phenomenon": "The Jeonbuk Branch of the Korea Housing Management Corporation participated in a tree planting event aimed at achieving carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Housing Management Corporation",
+        "Jeonbuk Branch",
+        "Carbon Neutrality",
+        "Tree Planting",
+        "Participation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "주택관리공단 전북지사, 탄소중립 실현 '나무심기 행사' 동참 전라일보"
+    },
+    {
+      "id": "7",
+      "title": "Korea's Energy Transition, The Future of Renewable Energy - Environmental Monitoring Daily",
+      "original_title": "한국의 에너지 전환, 재생에너지의 미래 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55eFgxOHZOUDVnMW1KdGRfd25SajdON0hxamtVQTYyekpaUjhCS1pxWXNUVVRrbTNVWmZjTHV3MUduX1ZOblVhUDJqbDFON2c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-14T20:49:17",
+      "description": "Korea's Energy Transition, The Future of Renewable Energy - Environmental Monitoring Daily",
+      "summary": {
+        "phenomenon": "Korea is currently undergoing an energy transition, with a focus on the future of renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea",
+        "Energy Transition",
+        "Renewable Energy",
+        "Future",
+        "Environment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국의 에너지 전환, 재생에너지의 미래 환경감시일보"
+    },
+    {
+      "id": "8",
+      "title": "Rural and Fishing Village Renewable Energy Special Committee Listens to On-site Voices from Yeoju Guyang-ri 'Haetbit Dure Power Plant' - News N Jeju",
+      "original_title": "농어촌재생에너지특별위원회,여주 구양리 '햇빛두레발전소' 현장 목소리 청취 - 뉴스N제주",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iZWJrbC1qTVdPZnBwRm5WU1NkSS15WEJpVk1YU3RBaVhGZlRxV2EzWWlGMGY3Sl9kR3Z6aXF4WW51ZVZiS1VKY2tlYm1KVkdGX3lqYW8wSW5ma2ZDaDdid0NsT05KbHlsSFkw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-14T12:45:00",
+      "description": "Rural and Fishing Village Renewable Energy Special Committee Listens to On-site Voices from Yeoju Guyang-ri 'Haetbit Dure Power Plant' - News N Jeju",
+      "summary": {
+        "phenomenon": "The Rural and Fishing Village Renewable Energy Special Committee gathered on-site feedback from the 'Haetbit Dure Power Plant' in Guyang-ri, Yeoju.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "농어촌재생에너지특별위원회,여주 구양리 '햇빛두레발전소' 현장 목소리 청취 뉴스N제주"
+    },
+    {
+      "id": "9",
+      "title": "Gwangyang City Promotes Resident-Participatory Solar Power Project - AI Times",
+      "original_title": "광양시, 주민참여 태양광 사업 추진 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XMFFtUG45MHJuNHY1emFidGZTZ1V5ZG1pY2h3aHJ0NXlkOGFxcFFWcDU1M1pSb3MxYnNua0RnMk5ISTlvZ2ZjeFUxc084bktkbU1GNlFMUENQOXdkczE0bF9jelM4QUZQX3c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-14T08:44:28",
+      "description": "Gwangyang City Promotes Resident-Participatory Solar Power Project - AI Times",
+      "summary": {
+        "phenomenon": "Gwangyang City is actively promoting a solar power project that encourages resident participation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangyang City",
+        "Resident Participation",
+        "Solar Power",
+        "Project",
+        "Promotion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광양시, 주민참여 태양광 사업 추진 AI타임스"
+    },
+    {
+      "id": "10",
+      "title": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change - mymodernmet.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ManVVLUx0bXdMVTM5MEROa3BHSzlVdE9jQTd2RkpycUVFbjUtZERQV2d1dUZFdzRmQUpEZ25hYlJ6RUVOTjM0ZWk3ajRpcG5DeXBiQkdZeFJxdVF1SkhnTWNZcTdlaWs3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-14T19:06:31",
+      "description": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change mymodernmet.com",
+      "summary": {
+        "phenomenon": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change mymodernmet.com",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change mymodernmet.com"
+    },
+    {
+      "id": "11",
+      "title": "지구 온난화 이론의 '과학'이 또 다른 큰 타격을 입었다 - 리얼클리어마켓",
+      "original_title": "The 'Science' of Global Warming Theory Just Suffered Another Big Hit - RealClearMarkets",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnBIbjAzVEt6UEJ6V3FRNmdvc0F5LWJoNWFOcVJCaTJDWktIUW1NQ3pSRnpvWEF1UEJiUW5aOVJPdmtxbExHUC1VTXNiZHV0RG9NaWc3NXFnVUNBOF9ZUjd0Q3FCVHlEZDZGZzhGQmswV080RklvelJMalZMbkdQSmdyM1lBZGtDUWdpTUVhV3NHOWNLQjNlSXpMTnVGOVRqeW1MaWNFYnR2X3V2WUlXNC05XzBwZFRFMVRvMDZUbFpLTHFJV2YtM2RCUEY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-14T08:50:56",
+      "description": "The 'Science' of Global Warming Theory Just Suffered Another Big Hit RealClearMarkets",
+      "summary": {
+        "phenomenon": "According to the article's title, the 'science' of global warming theory has suffered another significant blow. Specific figures, regions, or timelines are not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global warming",
+        "Science",
+        "Theory",
+        "Blow",
+        "Criticism"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The 'Science' of Global Warming Theory Just Suffered Another Big Hit RealClearMarkets"
+    },
+    {
+      "id": "12",
+      "title": "독일, 2025년 배출량 거의 줄지 않아 기후 목표 미달",
+      "original_title": "Germany misses climate targets as emissions barely fall in 2025",
+      "url": "https://www.theguardian.com/world/2026/mar/14/germany-misses-climate-targets-as-emissions-barely-fall-in-2025",
+      "source": "guardian_climate",
+      "published_at": "2026-03-14T13:04:34",
+      "description": "Greenhouse gases dropped just 0.1% last year as environment minister criticises lack of improvementGreenhouse gas emissions in Germany have again missed targets set by the Climate Protection Act and barely fell at all in 2025.Emissions decreased by just 0.1% last year compared to the previous year, according to data from the German Environment Agency. Continue reading...",
+      "summary": {
+        "phenomenon": "Germany's greenhouse gas emissions decreased by only 0.1% compared to the previous year, failing once again to meet the targets set by the 2025 Climate Protection Act.",
+        "cause": "While the Environment Minister criticized the lack of improvement, specific scientific causes or background for the minimal reduction in emissions are not mentioned in the article.",
+        "outlook": "Although it suggests Germany has again failed to meet its climate targets, specific future impacts or outlooks resulting from this are not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Germany",
+        "Climate targets",
+        "Greenhouse gas",
+        "Emissions",
+        "Missed targets"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Greenhouse gases dropped just 0.1% last year as environment minister criticises lack of improvementGreenhouse gas emissions in Germany have again missed targets set by the Climate Protection Act and barely fell at all in 2025.Emissions decreased by just 0.1% last year compared to the previous year, according to data from the German Environment Agency. Continue reading..."
+    },
+    {
+      "id": "13",
+      "title": "‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics",
+      "source": "guardian_climate",
+      "published_at": "2026-03-14T09:00:14",
+      "description": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal. As the author of The Mother Tree returns to the forest in a new book, she discusses her battle to reimagine our relationship with natureIn 2018, the ecologist and writer Suzanne Simard was conducting research in the forested Caribou Mountains of western Canada when a thunderstorm rolled in. She was with her two teenage daughters and her close friend and colleague, Jean Roach. They saw flashes of light",
+      "summary": {
+        "phenomenon": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal. As the author of The Mother Tree returns to the forest",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal. As the author of The Mother Tree returns to the forest in a new book, she discusses her battle to reimagine our relationship with natureIn 2018, the ecologist and writer Suzanne Simard was conducting research in the forested Caribou Mountains of western Canada when a thunderstorm rolled in. She was with her two teenage daughters and her close friend and colleague, Jean Roach. They saw flashes of light"
+    },
+    {
+      "id": "14",
+      "title": "ByteDance suspends launch of video AI model after copyright disputes, The Information reports - Reuters",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1k1bF9zR1pEbldYVURjQlpkMVdwR2gtMnNjSjRtSklaX250d1FWWFNMcGFUYTR3cFpMdURCSjJ0bG5ndE0tZC1ZRFdjY2xfLVJPUU1sc0NXN3Rxem1SSnVrTzdkd3lvdno5VnliRjlhVF9kWUNjb3Bhc2R0b25lVEhQTEQ5QTk3bWR3QnhUWUk5YV9RNGlha0hWY25kTFlUeF91amxuY1ktRUdldkNyelJmRllrX1JyaThtVVpOeDczdw?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-03-14T16:13:52",
+      "description": "ByteDance suspends launch of video AI model after copyright disputes, The Information reports Reuters",
+      "summary": {
+        "phenomenon": "ByteDance suspends launch of video AI model after copyright disputes, The Information reports Reuters",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "ByteDance suspends launch of video AI model after copyright disputes, The Information reports Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 14,
+    "domestic_count": 9,
+    "international_count": 5,
+    "top_keywords": [
+      "Greenhouse gas",
+      "Carbon neutrality",
+      "Climate change",
+      "Morning coffee",
+      "Output"
+    ],
+    "sentiment_breakdown": {
+      "positive": 4,
+      "negative": 5,
+      "neutral": 1
+    },
+    "original_top_keywords": [
+      "온실가스",
+      "탄소중립",
+      "기후변화",
+      "모닝 커피",
+      "생산량"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
