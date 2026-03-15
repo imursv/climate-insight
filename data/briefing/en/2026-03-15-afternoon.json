@@ -1,0 +1,1706 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T08:16:21.617552",
+  "briefing": {
+    "opening": "Good morning/afternoon. We will now begin the climate briefing for March 15, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Climate Crisis: Threatening Daily Life and Ecosystems",
+        "content": "Today's news warns that climate change is profoundly impacting our lives. Globally, coffee production is decreasing due to floods and heatwaves [1], and domestically, honeybees have been directly hit by the climate crisis, prompting the government to accelerate the development of nectar-producing tree species [5]. Furthermore, significant changes are being detected across ecosystems, such as the advancement of penguin breeding seasons due to the climate crisis [6]. These changes remind us that the climate crisis is no longer a distant future concern but a present reality directly threatening our daily lives and nature.",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ Carbon Neutrality Policy Discussions and the Importance of Social Consensus",
+        "content": "Policy initiatives for implementing carbon neutrality are also active. The government has taken the first step to enhance corporate carbon emission transparency by presenting practical standards for greenhouse gas disclosure [2]. However, opposition is spreading regarding the public discussion process for amending the Carbon Neutrality Framework Act, which includes 'convex-shaped' reduction measures [7, 26, 61], indicating the importance of achieving social consensus during policy implementation. These discussions demonstrate that in setting a concrete path toward achieving carbon neutrality, in-depth social dialogue and the participation of various stakeholders are essential.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌱 Spreading Community-Led Carbon Neutrality Practices",
+        "content": "Across the nation, carbon neutrality efforts based on citizen participation are actively underway. Incheon City has designated the 15th of every month as '1.5°C Climate Action Day' and is expanding citizen-participatory carbon-neutral lifestyle practices [8, 13, 17, 19, 20, 30], while cities like Daejeon and Cheongju are recruiting participants for the vehicle carbon neutrality points system, offering incentives for reducing driving distances [9, 10, 12, 18, 21, 22]. Additionally, various local initiatives such as the Jeonnam Provincial Office of Education's selection of carbon-neutral leading schools [14], Namwon City's creation of an eco-healing environment [15], and Daedeok-gu's environmental guardian campaign [27] are contributing to achieving carbon neutrality goals. This voluntary and active participation from local communities is becoming a powerful driving force for the transition to a carbon-neutral society.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Accelerating Renewable Energy Expansion and Infrastructure Challenges",
+        "content": "The government is accelerating the expansion of renewable energy, conditionally designating seven offshore wind power complex zones applied for by five local governments, including Incheon, Jeonnam, Jeonbuk, Boryeong in Chungnam, and Gunsan in Jeonbuk [4, 36, 38, 42, 43, 45, 47, 49, 51, 52, 53, 55, 56, 57, 59, 60, 62]. Notably, a large-scale power generation complex equivalent to 11 nuclear power plants, totaling 11GW, is planned for the West Coast alone [37, 40, 58], which is considered a green light for energy transition. Amid instability in the crude oil market due to the Middle East conflict, the importance of renewable energy is further highlighted, with Shinan County's renewable energy drawing attention [39, 50, 54]; however, behind this rapid push for renewable energy lies the realistic challenge of an insufficient power grid [41], underscoring the urgency of expanding infrastructure for a stable energy transition.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Future Response through Climate Change Adaptation and Industrial Innovation",
+        "content": "In response to the risk of infectious disease spread due to climate change, the Korea Disease Control and Prevention Agency (KDCA) has initiated surveillance activities for disease-carrying mosquitoes, strengthening proactive prevention efforts [3]. Innovation for carbon-neutral transition is also continuing in the industrial sector, with Hyundai Rotem seeking to transform beyond manufacturing into a 'carbon-neutral infrastructure company' [24], and pursuing the securing of a carbon-neutral 'golden time' through the 'Green Shaheen' project, which involves petrochemical advancement [31]. Furthermore, various approaches through technological innovation, such as AI-powered solar power plant management and power trading connections [44], and the presentation of carbon neutrality in public architecture through wooden construction [28], offer hope for future climate change response. These multifaceted efforts reflect our society's determination to adapt and create new opportunities amidst the threats of climate change.",
+        "tone": "positive"
+      }
+    ],
+    "closing": "Today's briefing has highlighted the severity of the climate crisis while also showcasing the diverse domestic and international efforts underway to overcome it. Moving forward, we must accelerate the transition to a carbon-neutral society through continuous policy implementation, citizen participation, and technological innovation. This concludes the climate briefing for March 15, 2026."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change Threatens Your Morning Coffee: Production Declines Due to Floods and Heatwaves",
+      "original_title": "기후변화는 당신의 모닝 커피도 뺏아간다, 홍수·폭염에 생산량 줄어 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14ck5jM1puTjY0T2FVMFBvTTRMci1JU2RtWVFBV01TZEdXdTB0NEo2TFFJLVNadEJKVTNVbE4wcVpiYlVVWDczV3pfRUU1UkJuMnp4bkpaRmRxNGZpeGFEdnRLS0NfNzNQWHNJNmVHMWlmQk0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T21:00:00",
+      "description": "Climate change is taking away your morning coffee, with production decreasing due to floods and heatwaves.",
+      "summary": {
+        "phenomenon": "Coffee production is decreasing due to climate change. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "Climate change phenomena such as floods and heatwaves have been identified as the cause of the decrease in coffee production.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Coffee",
+        "Production Volume",
+        "Flood",
+        "Heatwave"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화는 당신의 모닝 커피도 뺏아간다, 홍수·폭염에 생산량 줄어 비즈니스포스트"
+    },
+    {
+      "id": "2",
+      "title": "Practical Standards for Greenhouse Gas Disclosure Presented",
+      "original_title": "온실가스 공시 실무 기준 제시 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXT1hjS1VhYS1rYUJ5NDFaeV9HRy1LTlZhUTBIeU56NEMzeGZxUWJMWXZELU5CdVZkQmpCVVdla24yOVJjNkpmZVJCLW8yakFPXzdsRGlBT2ZLV1N2NHNoTWlIeWljSFht?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T04:16:46",
+      "description": "Practical standards for greenhouse gas disclosure have been presented.",
+      "summary": {
+        "phenomenon": "Practical standards for greenhouse gas disclosure have been presented. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Greenhouse Gas",
+        "Disclosure",
+        "Practical",
+        "Standard",
+        "Presentation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "온실가스 공시 실무 기준 제시 환경일보"
+    },
+    {
+      "id": "3",
+      "title": "KDCA Initiates Surveillance of Disease-Carrying Mosquitoes, Strengthening Climate Change Response",
+      "original_title": "질병청, 감염병 매개모기 감시 돌입…기후변화 대응 강화 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95VzZuZVQyTElTMF9VNkhZT2JvbWtpRU1US2NWb0QwUXZuYjdkSldCWDFYcC10VzBIWGhMSzY2WHpveWF3Qm1IY3RTT2g3Mm9jcHFj?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T03:00:00",
+      "description": "The Korea Disease Control and Prevention Agency (KDCA) begins surveillance of disease-carrying mosquitoes, strengthening its climate change response.",
+      "summary": {
+        "phenomenon": "The Korea Disease Control and Prevention Agency (KDCA) has initiated surveillance activities for disease-carrying mosquitoes. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "This was mentioned as a measure to respond to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KDCA",
+        "Infectious Disease",
+        "Disease-Carrying Mosquito",
+        "Surveillance",
+        "Climate Change"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "질병청, 감염병 매개모기 감시 돌입…기후변화 대응 강화 네이트"
+    },
+    {
+      "id": "4",
+      "title": "Expansion of Offshore Wind Power Complex",
+      "original_title": "해상풍력 집적화단지 확대 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aY2JKME1yd3BHMG5qVWdCb3BLT0lIazE4eXpBLWpkeE56S0lZa0NvMV9GTUFqaXdMdnRXVF9kQ01kYUtMaEgwTDNHb0NHQkFDNzJKWXhDa3ZvM2VPZkhSYllRY2NEbFhT?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T03:35:00",
+      "description": "The offshore wind power complex is being expanded.",
+      "summary": {
+        "phenomenon": "The offshore wind power complex is being expanded. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore Wind Power",
+        "Complex",
+        "Expansion",
+        "Renewable Energy",
+        "Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해상풍력 집적화단지 확대 환경일보"
+    },
+    {
+      "id": "5",
+      "title": "Bees Hit Hard by Climate Crisis, Government Acts: Accelerating Development of Nectar-Bearing Tree Species through Multi-Ministry Cooperation",
+      "original_title": "기후위기 직격탄 맞은 꿀벌, 정부가 움직였다… 다부처 협력으로 밀원수종 개발 속도전 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9oTTJBLVZKTGFOY2t4QUlQRWdVTV9hWHFUWUNJM1ZrMWNIWHlmQVNMaUdjcVR2TmYtNVBvYjF2RlJqMnJINGptX0YzMUg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-14T20:58:59",
+      "description": "Bees have been hit hard by the climate crisis, prompting the government to take action by accelerating the development of nectar-bearing tree species through multi-ministry cooperation.",
+      "summary": {
+        "phenomenon": "Bees have been directly affected by the climate crisis. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "The climate crisis has been identified as the direct cause impacting bees.",
+        "outlook": "The government is accelerating the development of nectar-bearing tree species for bees through multi-ministry cooperation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Crisis",
+        "Bees",
+        "Government",
+        "Multi-Ministry Cooperation",
+        "Development of Nectar-Bearing Tree Species"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 직격탄 맞은 꿀벌, 정부가 움직였다… 다부처 협력으로 밀원수종 개발 속도전 브랜드경제신문"
+    },
+    {
+      "id": "6",
+      "title": "Penguins Advance Breeding Season Due to Climate Crisis... What Does This Mean for Their Future?",
+      "original_title": "기후위기에 번식 앞당긴 펭귄...나중에도 괜찮을까? - 뉴스펭귄 - 뉴스펭귄 | 내 손 안의 광장, 빠띠 - campaigns.do",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16c0U4U3JpMV92ckhkUU1sRUJhNFJqMUhGWXA5TVNGR2x3cVJfcHZCM25mNGxQQldHd29sX3BtM1JnRDRXRFU3RXhrSQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T03:39:36",
+      "description": "Penguins are advancing their breeding season due to the climate crisis, raising concerns about their future.",
+      "summary": {
+        "phenomenon": "The breeding season of penguins has been advanced due to the climate crisis. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "The climate crisis was mentioned as the cause for the advancement of penguins' breeding season.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Penguin",
+        "Breeding Season",
+        "Ecological Change",
+        "Future Impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기에 번식 앞당긴 펭귄...나중에도 괜찮을까? - 뉴스펭귄 - 뉴스펭귄 | 내 손 안의 광장, 빠띠 campaigns.do"
+    },
+    {
+      "id": "7",
+      "title": "What is 'Convex' Reduction? Opposition Spreads to Public Discussion of Carbon Neutrality Framework Act",
+      "original_title": "‘볼록형’ 감축이 뭐길래···탄소중립기본법 공론화 반발 확산 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHZRRGVJRGpFQUZCN3NmWWlOV0NMd0htdnhuTmtoX1N1X3hYbkxWLTVjTFItRk90aXFITFN5aF9UZ1hHOHNDQWM4cV82a0cydUVMMW9jU3lIVUJmNHpYaXY4VHZIT2x1MVpZQnVMTWRnc1RvWmN6QnV4Q0NmdGlpUWQyV2RpR1RQQVRkN3pHbWM3Tlhzc2pUaVNLZ054YjRsSmo0OW4ybGdmTmlB0gFfQVVfeXFMTXhBLWw5ZDloaGl6MHF6Z21KT2lzeXVldUpHM1k5OE9YTG5FRnRvbzRydS1rVnhPX3dlcDZybXUxREpsaTRmMWF6bjF4YWFIbkdiOGt4Zml4WmZ4WUsxdlE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T07:19:00",
+      "description": "Opposition is spreading regarding the public discussion of the Carbon Neutrality Framework Act, particularly concerning 'convex' reduction.",
+      "summary": {
+        "phenomenon": "Opposition is spreading regarding the public discussion of the Carbon Neutrality Framework Act related to 'convex' reduction. (Specific figures, regions, and timings are not specified in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Convex Reduction",
+        "Carbon Neutrality Framework Act",
+        "Public Discussion",
+        "Opposition",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘볼록형’ 감축이 뭐길래···탄소중립기본법 공론화 반발 확산 경향신문"
+    },
+    {
+      "id": "8",
+      "title": "Incheon City Expands Citizen-Participatory Carbon Neutral Lifestyle Practices, Operates 'Climate Action Day'",
+      "original_title": "인천시, 시민 참여 기반 탄소중립 생활 실천 확대…인천 ‘기후실천의 날’ 운영 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qNmRPLW1CNTFnYi1wRXpmYlFSeDRwdUkzeXg2OGRTSXpkRVM0Z3dHVlF6RXZCZEVYZDhFdHB6TlBsNG56QUJKWVV3SVpKU3ViZV9BQVg0eGZybjA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T06:38:00",
+      "description": "Incheon City is expanding citizen-participatory carbon-neutral lifestyle practices and operating 'Climate Action Day,' designated as the 15th of every month, to lead carbon neutrality efforts.",
+      "summary": {
+        "phenomenon": "Incheon City is expanding carbon-neutral lifestyle practices based on citizen participation and designates the 15th of every month as '1.5°C Climate Action Day' for operation. (Region: Incheon City, Timing: 15th of every month)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Carbon Neutrality",
+        "Climate Action Day",
+        "Citizen Participation",
+        "Lifestyle Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 시민 참여 기반 탄소중립 생활 실천 확대…인천 ‘기후실천의 날’ 운영 경기일보인천시 ‘1.5°C 기후실천의 날’로 탄소중립 앞장선다 브릿지경제인천시, 매달 15일 기후실천의 날 지정…\"시민 탄소중립 실천 참여\" 뉴스1"
+    },
+    {
+      "id": "9",
+      "title": "Daejeon City Recruits Participants for Automobile Carbon Neutrality Points Program",
+      "original_title": "대전시, 자동차 탄소중립포인트 참여자 모집 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyMXBsYmtUYkZjdWVKbXgtLThFUVpDTF9xMzNDYjdGWlF0TmhmR185Q2FKN0pvUXZrRWVEd2lzVEhYNlctSzJHRlZ0MmhoRjA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T07:43:39",
+      "description": "Daejeon City is recruiting participants for the automobile carbon neutrality points program.",
+      "summary": {
+        "phenomenon": "Daejeon City is recruiting participants for the automobile carbon neutrality points program. (Region: Daejeon City)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon City",
+        "Automobile",
+        "Carbon Neutrality Points",
+        "Participant",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전시, 자동차 탄소중립포인트 참여자 모집 v.daum.net"
+    },
+    {
+      "id": "10",
+      "title": "Cheongju City Recruits Participants for 'Automobile Carbon Neutrality Points System'",
+      "original_title": "청주시, ‘자동차 탄소중립포인트제’ 참여자 모집 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tXzZTNF9sVFdIMUFicnpnRzdFaFctVG9jd09rSUx6WFlPSU1kalQxWVpWcWhNaENxcl9RTGN4RU9DTTlOcklLMVE0V19FQnhCZkNOZjU0cGpiX3UyUHlTVGdUTFFObEJOYkNDdzhn0gFwQVVfeXFMUGdpTVlDamRNVHdDTHQwT3hLNFhFaGdlNDNJZzM2dHlOQzJPekY2c2dJbzRqOEhiNVdmYURwSUh0My1HcE9EbjdfZnR0bkZoMFFwMWg2Q2MzZkFxeGNZRmpGX1JiTE1vd1k4UUNIaHlkSw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T06:13:48",
+      "description": "Cheongju City is recruiting participants for the 'Automobile Carbon Neutrality Points System'.",
+      "summary": {
+        "phenomenon": "Cheongju City is recruiting participants for the 'Automobile Carbon Neutrality Points System'. (Region: Cheongju City)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongju City",
+        "Automobile",
+        "Carbon Neutrality Points System",
+        "Participant",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시, ‘자동차 탄소중립포인트제’ 참여자 모집 내외뉴스통신"
+    },
+    {
+      "id": "11",
+      "title": "Cheongdo County Successfully Holds 'Carbon Neutral Saemaul Environmental Preservation' Initiative - Sinae Ilbo",
+      "original_title": "청도군,'탄소중립 새마을 환경살리기' 성황리 개최 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RVUlQbzc2RXYyaS1Cekp1TEQwdEx4WThpZ25xZnJyaVFRUVdYUVRlc2VRV0k0ZkNKbFJTUm1vVUZJc0lnMGNsclVUUzhLd2tZNVMydktZeENzRjNGcGNGY0FaOVB5XzBSRWk3WnlPQ24?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T06:19:47",
+      "description": "Cheongdo County Successfully Holds 'Carbon Neutral Saemaul Environmental Preservation' Initiative Sinae Ilbo",
+      "summary": {
+        "phenomenon": "The 'Carbon Neutral Saemaul Environmental Preservation' event was successfully held in Cheongdo County.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongdo County",
+        "Carbon Neutrality",
+        "Saemaul",
+        "Environmental Preservation",
+        "Holding"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청도군,'탄소중립 새마을 환경살리기' 성황리 개최 신아일보"
+    },
+    {
+      "id": "12",
+      "title": "Reduce Mileage, Get Up to 100,000 Won…Daejeon Recruits for Automobile Carbon Neutrality Points Program - Chungcheong Maeil",
+      "original_title": "주행거리 줄이면 최대 10만 원…대전, 자동차 탄소중립포인트 모집 - 충청매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BRlp4OF9QZ2hrRm1qRzlUYWsxTmQwNTZWbEpCbU5ZUURxNzJsMWlNU2VJY29GdlM0RTBKelhHVGg0QVgyTFM1UWVWZVdPN1pmc0M3RXVIczRPb1BsMG5VY1dFQXhfSS1xcXc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T05:10:17",
+      "description": "Reduce Mileage, Get Up to 100,000 Won…Daejeon Recruits for Automobile Carbon Neutrality Points Program Chungcheong Maeil",
+      "summary": {
+        "phenomenon": "Daejeon is recruiting participants for its automobile carbon neutrality points program, offering benefits of up to 100,000 won for reducing mileage.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon",
+        "Automobile",
+        "Carbon Neutrality Points",
+        "Mileage",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "주행거리 줄이면 최대 10만 원…대전, 자동차 탄소중립포인트 모집 충청매일"
+    },
+    {
+      "id": "13",
+      "title": "Mayor Yoo Jeong-bok Declares 'Incheon 1.5℃ Climate Action Day' on the 15th of Every Month, Pledges Full Commitment to Carbon-Neutral Living - Energy Economy News",
+      "original_title": "유정복, “매달 15일은 ‘인천 1.5℃기후실천의 날’”...탄소중립 생활 실천에 총력 - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSDgtb1pXeVItRlg2bG5IXzVyYk5qT3ltaEZXMS04ZlNqWmZIdDFocTVpdTRNVlZlSjR4b1dQNzRjZnBHNE44aGZJOW9MMnFoM1FGZEZxdkkyT1E?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T02:37:05",
+      "description": "Mayor Yoo Jeong-bok Declares 'Incheon 1.5℃ Climate Action Day' on the 15th of Every Month, Pledges Full Commitment to Carbon-Neutral Living Energy Economy News",
+      "summary": {
+        "phenomenon": "In Incheon City, Mayor Yoo Jeong-bok has designated the 15th of every month as 'Incheon 1.5℃ Climate Action Day' and is fully committed to promoting carbon-neutral living practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon",
+        "Yoo Jeong-bok",
+        "1.5℃ Climate Action Day",
+        "Carbon Neutrality",
+        "Living Practices"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "유정복, “매달 15일은 ‘인천 1.5℃기후실천의 날’”...탄소중립 생활 실천에 총력 에너지경제신문"
+    },
+    {
+      "id": "14",
+      "title": "Jeonnam Provincial Office of Education Selects 50 Carbon Neutral Leading Schools - Jeonnam Maeil Shinmun",
+      "original_title": "전남교육청, 탄소중립 선도학교 50개교 선정 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tQmRsT1k3QlJDVGkyNHNCdUlNNUZfWXhRbDdJVEF0YnJjZ2pNQjBucC11TGVqMnc2aERjV2lGY2FBYkR4OFBIeG9EbkVnQ0ZjV1BaOWRMMzBUam1ma0FfbVlyTnpidnVEcDlLTWdR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T06:10:49",
+      "description": "Jeonnam Provincial Office of Education Selects 50 Carbon Neutral Leading Schools Jeonnam Maeil Shinmun",
+      "summary": {
+        "phenomenon": "The Jeonnam Provincial Office of Education has selected 50 Carbon Neutral Leading Schools.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonnam Provincial Office of Education",
+        "Carbon Neutrality",
+        "Leading Schools",
+        "50 Schools",
+        "Selection"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전남교육청, 탄소중립 선도학교 50개교 선정 전국매일신문"
+    },
+    {
+      "id": "15",
+      "title": "Namwon City Creates Carbon-Neutral and Eco-Healing Environment for the Future - Jeolla Maeil",
+      "original_title": "남원시, 미래를 위한 탄소중립 · 생태힐링 환경 조성 - 전라매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MX1NXcUczTUZYNjhIVUlkUDhmckZZWnhYWHcxbEpQMHRkdGZTOGJObWkwRVpBVnV3eGNGLTBIdnNZMTRxU1dWVjcwY1pacUo3NG5TWDNoMkMxU0JwYUl6QVRuY3RRWm9HR21wZmpn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T02:35:00",
+      "description": "Namwon City Creates Carbon-Neutral and Eco-Healing Environment for the Future Jeolla Maeil",
+      "summary": {
+        "phenomenon": "Namwon City is creating a carbon-neutral and eco-healing environment for the future.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Namwon City",
+        "Carbon Neutrality",
+        "Eco-Healing",
+        "Environmental Creation",
+        "Future"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남원시, 미래를 위한 탄소중립 · 생태힐링 환경 조성 전라매일"
+    },
+    {
+      "id": "16",
+      "title": "Woongsang General Social Welfare Center's 'Kkumi Yeongeul Woongsang' Takes First Step Towards 2026 Carbon Neutrality - Woongsang News",
+      "original_title": "웅상종합사회복지관, ‘꿈이영글웅상’, 2026년 탄소중립 실천 위한 첫걸음 떼다 - 웅상뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZSEtUOWVYcXFOWUJnSmdWb1Z6RHBoZks2RFhQZy15c1dIVEMzcXkxMWZ4VTJFWEFWVVVEc3c1SEhxUUFYelpaTzduVDROU09aUFRBS0xR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T07:32:00",
+      "description": "Woongsang General Social Welfare Center's 'Kkumi Yeongeul Woongsang' Takes First Step Towards 2026 Carbon Neutrality Woongsang News",
+      "summary": {
+        "phenomenon": "Woongsang General Social Welfare Center's 'Kkumi Yeongeul Woongsang' has taken its first step towards achieving carbon neutrality by 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Woongsang General Social Welfare Center",
+        "Carbon Neutrality",
+        "2026",
+        "First Step",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "웅상종합사회복지관, ‘꿈이영글웅상’, 2026년 탄소중립 실천 위한 첫걸음 떼다 웅상뉴스"
+    },
+    {
+      "id": "17",
+      "title": "Incheon City Leads Expansion of Citizen Participation-Based 'Carbon-Neutral Living Practices' - Pressian",
+      "original_title": "인천시, 시민 참여 기반 '탄소중립 생활 실천' 확산 이끈다 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YYmRGem1iWndjYTNDNFZRRHlDWU00R1B1ek5uZ05xUWdmSENFMG00UG5nUDJRQmJ4em9NZlNtSjJ6eWZ3MTM3UFA4OHFoaHFtaGMyN3pHc2tTdG1zOExSc1hTb3k1aTBtTUVV?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T01:20:24",
+      "description": "Incheon City Leads Expansion of Citizen Participation-Based 'Carbon-Neutral Living Practices' Pressian",
+      "summary": {
+        "phenomenon": "Incheon City is leading the expansion of 'carbon-neutral living practices' based on citizen participation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Citizen Participation",
+        "Carbon Neutrality",
+        "Living Practices",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 시민 참여 기반 '탄소중립 생활 실천' 확산 이끈다 프레시안"
+    },
+    {
+      "id": "18",
+      "title": "Seo-gu Recruits Participants for Automobile Carbon Neutrality Points System - Daejeon Ilbo",
+      "original_title": "서구 자동차 탄소중립포인트제 참여자 모집 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YOW44ZG01WkJyUGxkOGUzdVJUaFVNY2RNdDE4R01oc2szbXRBQVhIalJjSTZqQ2RORXFNQUNPX1ZvNmluMGNKRUR2eDA1RWxoa3dTU0NJQ25DZkxQYlRNMXNlcjV6MVY3b0IzcTZ4TdIBc0FVX3lxTE01LTR5dUlRSG4wSkp3d1g3S05la05ma2tWYUdVS2NzOXpMUlVjQVdNQW5fVEZBMW9NMlpsY1pGeWM0dnBmcHFQb0J5RTZEY2VRWEtKNnpfUmZaYlN0WVlpdWtUQ1B6VkFYVUtOU29BQmtwY1k?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T04:48:00",
+      "description": "Seo-gu Recruits Participants for Automobile Carbon Neutrality Points System Daejeon Ilbo",
+      "summary": {
+        "phenomenon": "Daejeon's Seo-gu is recruiting participants for its automobile carbon neutrality points system.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seo-gu",
+        "Automobile",
+        "Carbon Neutrality Points System",
+        "Participants",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서구 자동차 탄소중립포인트제 참여자 모집 대전일보"
+    },
+    {
+      "id": "19",
+      "title": "Incheon City Accelerates Spread of Carbon-Neutral Living Practices, Operates '1.5°C Climate Action Day' - Media Incheon Shinmun",
+      "original_title": "인천시, 탄소중립 생활 실천 확산에 박차...'1.5°C 기후실천의 날' 운영 - 미디어인천신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pYk1Pa3NiRndtUElaRm1KeXd3OVVwbjRVLXNmTWQ3eHV4c1ZOZ1JOTFJkQ3JtMjNaZXVZd2RaR1BxSnk2Ym5yTXhwRnY1UXVGQUlQdS00T3pPam8wQ1UxbVVlU2NQcXhsVGRJ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T00:20:54",
+      "description": "Incheon City Accelerates Spread of Carbon-Neutral Living Practices, Operates '1.5°C Climate Action Day' Media Incheon Shinmun",
+      "summary": {
+        "phenomenon": "Incheon City is accelerating the spread of carbon-neutral living practices and operating '1.5°C Climate Action Day'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Carbon Neutrality",
+        "Living Practices",
+        "Expansion",
+        "1.5°C Climate Action Day"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 탄소중립 생활 실천 확산에 박차...'1.5°C 기후실천의 날' 운영 미디어인천신문"
+    },
+    {
+      "id": "20",
+      "title": "“Carbon Neutrality is the Power of Citizens”…Incheon Operates 'Climate Action Day' on the 15th of Every Month - Marine Leisure News",
+      "original_title": "“탄소중립은 시민의 힘”…인천, 매달 15일 ‘기후실천의 날’ 운영 - 해양레저신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44UDlvVXdpc0Z5UmZZaEJMMWx3TVA2d21PRkhPUWVXbTh1TjJkMWY2VlZ5VW9ReDFKTkxXYXF3dFBpdzNwOVhta0M4OFNLYzdsWmR5VHhyYw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T03:19:00",
+      "description": "“Carbon Neutrality is the Power of Citizens”…Incheon Operates 'Climate Action Day' on the 15th of Every Month Marine Leisure News",
+      "summary": {
+        "phenomenon": "Under the slogan 'Carbon Neutrality is the Power of Citizens,' Incheon City is operating the 15th of every month as 'Climate Action Day'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon",
+        "Climate Action Day",
+        "Carbon Neutrality",
+        "Power of Citizens",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“탄소중립은 시민의 힘”…인천, 매달 15일 ‘기후실천의 날’ 운영 해양레저신문"
+    },
+    {
+      "id": "21",
+      "title": "Cheongju City, Recruiting Participants for 'Vehicle Carbon Neutrality Point System' - Chungbuk Ilbo",
+      "original_title": "청주시, '자동차 탄소중립포인트제' 참여자 모집 - 충북일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KN3NlVEx4VnNXU2tOUWRva2JveGhRSmdHZEEwRjNCcFd4R2JtWWxwMllucEVmT1ZwMm1TVndnazdCQnA3djRjLVNPVjJ6a1Q5azRuUWM5OGY2N2pmSWE1Nm93?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T04:49:33",
+      "description": "Cheongju City, Recruiting Participants for 'Vehicle Carbon Neutrality Point System' Chungbuk Ilbo",
+      "summary": {
+        "phenomenon": "Cheongju City is recruiting participants for the 'Vehicle Carbon Neutrality Point System'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongju City",
+        "Vehicle",
+        "Carbon Neutrality Point System",
+        "Participant Recruitment",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시, '자동차 탄소중립포인트제' 참여자 모집 충북일보"
+    },
+    {
+      "id": "22",
+      "title": "Daegu City to Recruit 6,160 Participants for Vehicle Carbon Neutrality Point System in 2026 - Gyeongbuk Shinmun",
+      "original_title": "대구시, 2026년 자동차 탄소중립포인트제 참여자 6160명 모집 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51eU96c2lXN3ZCTDFGVm1NcWdtS3hFNnhTV1FHS3JVOHJybjhmRWNWZUNiN18tY05JWmdZcHhLSFhvOHB2Uy1jeVJqbEZ3OHpXd2ZhQzc3MUk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T05:09:00",
+      "description": "Daegu City to Recruit 6,160 Participants for Vehicle Carbon Neutrality Point System in 2026 Gyeongbuk Shinmun",
+      "summary": {
+        "phenomenon": "Daegu City plans to recruit 6,160 participants for the Vehicle Carbon Neutrality Point System in 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu City",
+        "Vehicle",
+        "Carbon Neutrality Point System",
+        "Participant Recruitment",
+        "2026"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구시, 2026년 자동차 탄소중립포인트제 참여자 6160명 모집 경북신문"
+    },
+    {
+      "id": "23",
+      "title": "Jeonbuk Provincial Council of Social Welfare Implements 'Carbon Neutral Tree Planting' - Jeonbuk Domin Ilbo",
+      "original_title": "전북도사회복지협의회 ‘탄소중립 나무심기’실시 - 전북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YU0dRckE4ZHVBN2Nna1R3aElLTnh0Z2tFVXQwUUVtUTVGZ3ZHZmYtUURlWFVac1UxUzQtcUE5TnpjSHRrZkVTaTgwWXhjZ3lZUzg5QmFYLXVBXzNBWjB1cjRGTlREM3l0eFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T00:53:43",
+      "description": "Jeonbuk Provincial Council of Social Welfare Implements 'Carbon Neutral Tree Planting' Jeonbuk Domin Ilbo",
+      "summary": {
+        "phenomenon": "The Jeonbuk Provincial Council of Social Welfare implemented a 'Carbon Neutral Tree Planting' initiative.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonbuk Provincial Council of Social Welfare",
+        "Carbon Neutrality",
+        "Tree Planting",
+        "Climate Action",
+        "Environmental Protection"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전북도사회복지협의회 ‘탄소중립 나무심기’실시 전북도민일보"
+    },
+    {
+      "id": "24",
+      "title": "[From Carbon Addiction to Decarbonization] Hyundai Rotem, Beyond Manufacturing to a 'Carbon Neutral Infrastructure Company' - eNews Today",
+      "original_title": "[탄소중독에서 탈탄소로] 현대로템, 제조업 넘어 ‘탄소중립 인프라 기업’으로 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RUzAzV3Z5VmxidzRSNTVWZXpvamtkVXlMNFhrZUNTRUVCZ2E1akNwVTVMY2NDNF8yVlByLU03b21NRE9rWVVTZGVRWnlfYzJEWU5sb205RzRQU1hfZ3BIclNkdXVQTk9CMUhRTjhPaW_SAXRBVV95cUxNQU5KTkxISktWX2ZaTlNWZDB0a19nanhYcXRSYlhIZ0E4OUZQblhLdVJlbHp5eFJGYUJTaGFCVXRSbENIWm9teER5NUp5SEpfRzlRdWxSZFJYTnhJWWxaTzBhblZzNkpYeUdMVFZfYTlYMnMxUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T04:46:50",
+      "description": "[From Carbon Addiction to Decarbonization] Hyundai Rotem, Beyond Manufacturing to a 'Carbon Neutral Infrastructure Company' eNews Today",
+      "summary": {
+        "phenomenon": "Hyundai Rotem is transforming beyond manufacturing into a 'Carbon Neutral Infrastructure Company'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hyundai Rotem",
+        "Decarbonization",
+        "Carbon Neutrality",
+        "Infrastructure Company",
+        "Manufacturing Industry"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[탄소중독에서 탈탄소로] 현대로템, 제조업 넘어 ‘탄소중립 인프라 기업’으로 이뉴스투데이"
+    },
+    {
+      "id": "25",
+      "title": "Namdong-gu, Public Outreach with Senior Workforce Development Center's Carbon Neutral Green Practice Group - Jeonkuk Maeil Shinmun",
+      "original_title": "남동구, 노인인력개발센터 탄소중립녹색실천단과 주민홍보 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SR2gyNXFxMlZDbFdpV29PWk5QdV9rN0VhOGNsUWJzZWFvNUZLUlFZZWdmQ0w0N1VFemlzVHBhd1ZZcXQwMC1mTTlqU2NoZzZMU29qZ09hcmN5N0JEbEVCN0kyek04NkQ5bmp4TjFB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T07:33:51",
+      "description": "Namdong-gu, Public Outreach with Senior Workforce Development Center's Carbon Neutral Green Practice Group Jeonkuk Maeil Shinmun",
+      "summary": {
+        "phenomenon": "Namdong-gu conducted public outreach in collaboration with the Senior Workforce Development Center's Carbon Neutral Green Practice Group.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Namdong-gu",
+        "Senior Workforce Development Center",
+        "Carbon Neutral Green Practice Group",
+        "Public Outreach",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남동구, 노인인력개발센터 탄소중립녹색실천단과 주민홍보 전국매일신문"
+    },
+    {
+      "id": "26",
+      "title": "What is 'Convex' Reduction? Opposition Spreads to Public Discussion of Carbon Neutrality Framework Act - Nate",
+      "original_title": "'볼록형' 감축이 뭐길래···탄소중립기본법 공론화 반발 확산 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XLWRndkgtZlNwR0Z6WE0yYncxZ3pkdVQtelVyY1paV1VTSngyU3lZd3hSRXZHTVZZYkUtYkREa1VGYVBSY2lscThSdTVicDNOSDlN?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T07:20:00",
+      "description": "What is 'Convex' Reduction? Opposition Spreads to Public Discussion of Carbon Neutrality Framework Act Nate",
+      "summary": {
+        "phenomenon": "Opposition is spreading regarding the public discussion of the Carbon Neutrality Framework Act, which includes 'convex' reduction measures.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Convex Reduction",
+        "Carbon Neutrality Framework Act",
+        "Public Discussion",
+        "Opposition",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'볼록형' 감축이 뭐길래···탄소중립기본법 공론화 반발 확산 네이트"
+    },
+    {
+      "id": "27",
+      "title": "Daedeok-gu Volunteer Center Promotes 'Daedeok Environmental Guardian Campaign' for Carbon Neutrality Practice > News - The Korea",
+      "original_title": "대덕구자원봉사센터 탄소중립 실천 대덕 환경지킴이 캠페인 추진 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ld2lZM0U0OGZzNG9PNEFUbFpYNFYxSEVRbzJNdEpDdWZpbU9Ka2FlUVRtbjdBRWsxVHhLVEhMTVh4RnJXLXFweHB0aEtjRUQwT2JEQmN6QVVMMUE4ZmZMdFM4eUpjWlQ3OWpTR3BwVF8?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T04:29:00",
+      "description": "Daedeok-gu Volunteer Center Promotes 'Daedeok Environmental Guardian Campaign' for Carbon Neutrality Practice > News The Korea",
+      "summary": {
+        "phenomenon": "The Daedeok-gu Volunteer Center launched the 'Daedeok Environmental Guardian Campaign' to promote carbon neutrality practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daedeok-gu Volunteer Center",
+        "Carbon Neutrality",
+        "Environmental Guardian",
+        "Campaign",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대덕구자원봉사센터 탄소중립 실천 대덕 환경지킴이 캠페인 추진 > 뉴스 더코리아"
+    },
+    {
+      "id": "28",
+      "title": "'Wooden Architecture Innovation Model' Chungnam Hall Draws Attention... Proposing 'Carbon Neutrality' for Public Buildings - Gong News",
+      "original_title": "‘목조건축 혁신 모델’ 충남관 주목…공공건축 ‘탄소중립’ 제시 - 공뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZlpTNnFvRGNBa3BZbHR3b3NoVDg0UFhmTXZYaENYTzk2SzBNWG13bklNek96bG9FQmoteTcwbzhYcUJIdTR4cXlhZVpfaEZickJOSWFrZkJzMEctb0syVzV1R2NkNlcxZWwzVQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T04:23:27",
+      "description": "'Wooden Architecture Innovation Model' Chungnam Hall Draws Attention... Proposing 'Carbon Neutrality' for Public Buildings Gong News",
+      "summary": {
+        "phenomenon": "Chungnam Hall, an 'innovative model of wooden architecture,' is gaining attention and proposing 'carbon neutrality' solutions for public buildings.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Wooden Architecture",
+        "Innovation Model",
+        "Chungnam Hall",
+        "Public Buildings",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘목조건축 혁신 모델’ 충남관 주목…공공건축 ‘탄소중립’ 제시 공뉴스"
+    },
+    {
+      "id": "29",
+      "title": "Daegu Dalseo-gu Opens Carbon Neutrality Class with Multicultural 'Green Teachers' - Daegyeong Ilbo",
+      "original_title": "대구 달서구, 다문화 ‘초록쌤’ 출동 탄소중립 교실 연다 - 대경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RdUlpdUZkV1lKWmFNd1JrN3U4Qm9nbnhaOU9kYlhSQzQwZ0hQT2dWY0FVN19ld1VTOXZSY3dPWEk2VHdtbmJ0NFV2V3JvMGNuYXpKN25vZzc5Qy1ZbWFqQVkxMWlHa2k3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T00:59:46",
+      "description": "Daegu Dalseo-gu Opens Carbon Neutrality Class with Multicultural 'Green Teachers' Daegyeong Ilbo",
+      "summary": {
+        "phenomenon": "Daegu Dalseo-gu is operating a carbon neutrality class with the participation of multicultural 'Green Teachers'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu Dalseo-gu",
+        "Multicultural",
+        "Green Teacher",
+        "Carbon Neutrality",
+        "Classroom"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구 달서구, 다문화 ‘초록쌤’ 출동 탄소중립 교실 연다 대경일보"
+    },
+    {
+      "id": "30",
+      "title": "Incheon City Promotes Citizen-Participatory Carbon Neutrality Practices... Accelerating 2045 Carbon Neutrality Goal - Yonhap Citizen's Voice",
+      "original_title": "인천시, 시민 참여 기반 탄소중립 실천 확산 추진…2045 탄소중립 목표 가속 - 연합시민의소리",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE03ZmxRcnNZNngzNk5KT3E5eE96X1RXUk9wNUM4TU5tS2dqMHA3RHhPQ0VPNzRfai1UcDF2d1NoUENvanZ2d3dwMHhmcUQ2RFNIVlpQcGlMZ1hiSmhPak9CWVp0cWMtM0k?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T00:29:42",
+      "description": "Incheon City Promotes Citizen-Participatory Carbon Neutrality Practices... Accelerating 2045 Carbon Neutrality Goal Yonhap Citizen's Voice",
+      "summary": {
+        "phenomenon": "Incheon City is promoting the spread of citizen-participatory carbon neutrality practices, thereby accelerating the achievement of its 2045 carbon neutrality goal.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Incheon City is expected to accelerate the achievement of its 2045 carbon neutrality goal through citizen participation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Carbon Neutrality",
+        "Citizen Participation",
+        "Practice Expansion",
+        "2045 Goal"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 시민 참여 기반 탄소중립 실천 확산 추진…2045 탄소중립 목표 가속 연합시민의소리"
+    },
+    {
+      "id": "31",
+      "title": "[힘내라 K산업] ④'그린 샤힌' 탄생 눈앞… 석유화학 고도화 탄소중립 '골든타임' 확보 - 아시아타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SUkN0NkFscG5oTk44cG05S2w0Y2NDZkZIQjJ4NVY2QmQzWWpiWWpMUU96VlNkWnhoVHc4ZmhOVHRSNHB1QVh2UFlvR2YzaTdWU3Q5cFhJcW9ESjEyU0E?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T03:36:00",
+      "description": "[힘내라 K산업] ④'그린 샤힌' 탄생 눈앞… 석유화학 고도화 탄소중립 '골든타임' 확보 아시아타임즈",
+      "summary": {
+        "phenomenon": "'그린 샤힌'의 탄생이 임박했으며, 석유화학 고도화를 통해 탄소중립을 위한 '골든타임'이 확보될 예정이다.",
+        "cause": "석유화학 산업의 고도화가 탄소중립 목표 달성을 위한 핵심적인 과학적/기술적 배경으로 제시되었다.",
+        "outlook": "탄소중립을 위한 중요한 기회인 '골든타임'이 확보될 것으로 전망되나, 구체적인 영향은 기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "그린 샤힌",
+        "석유화학 고도화",
+        "탄소중립",
+        "골든타임",
+        "K산업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "하안2동 주민자치회 실내 식물 관리 교실로 탄소중립 실천 나서 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FcERHMzFIQU9iQWZoY0RwSmoySHVyTjhZa3BQOHhuV3d5SHlqNVNmX21LWU1TRE1RekRMOXRtODVtMnEzVEp4b0o3RnBDU2o4SWRiVWRwWWQyZWZEQVc4bV9CSENURzNaa21PMXNmV0I?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T01:42:00",
+      "description": "하안2동 주민자치회 실내 식물 관리 교실로 탄소중립 실천 나서 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "하안2동 주민자치회가 실내 식물 관리 교실을 운영하며 탄소중립 실천에 나섰다.",
+        "cause": "실내 식물 관리가 탄소중립에 기여한다는 전제 하에 주민들의 참여를 유도하는 활동으로, 구체적인 과학적 원리는 기사에서 언급되지 않음.",
+        "outlook": "주민들의 탄소중립 실천이 확산될 것으로 예상되나, 구체적인 영향이나 전망은 기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "하안2동",
+        "주민자치회",
+        "실내 식물 관리",
+        "탄소중립",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "성북구 탄소중립실천단 길라잡이 5명 선발 동별 탄소중립 실천 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBwanhtWnVONWc2b0lHQ0NvR09mbWpUV2xha3VhV213NkFjSXhhbmxmLUx1OUdFN3BjU01HY0xabjVhLUk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T02:10:00",
+      "description": "성북구 탄소중립실천단 길라잡이 5명 선발 동별 탄소중립 실천 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "성북구에서 탄소중립실천단 길라잡이 5명을 선발하여 동별 탄소중립 실천을 추진하고 있다.",
+        "cause": "지역사회 단위에서 탄소중립 목표를 달성하기 위한 인적 자원 확보 및 활동 추진의 일환으로, 구체적인 과학적 원리는 기사에서 언급되지 않음.",
+        "outlook": "동별 탄소중립 실천이 강화될 것으로 예상되나, 구체적인 영향이나 전망은 기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성북구",
+        "탄소중립",
+        "실천단",
+        "길라잡이",
+        "동별"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "인천 남동산단 ‘친환경 재생 에너지’ 참여 기업을 모십니다 - 기호일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xU0Z6OVRrVzVWLU9hdFBOVGlJS2lQUjZuMlVab0RrZENuMDRBZ2pzaTllRHdrNmRTd0VoWkZjS0lubms4eGpuOFZVZjgtbmI5SUxRdEk5SFlpTVAwbnQ2eGNaTlRzX3d4WjVVc2JiVQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T08:04:39",
+      "description": "인천 남동산단 ‘친환경 재생 에너지’ 참여 기업을 모십니다 기호일보",
+      "summary": {
+        "phenomenon": "인천 남동산단에서 친환경 재생 에너지 사업에 참여할 기업을 모집하고 있다.",
+        "cause": "산업단지의 친환경 에너지 전환 및 재생 에너지 확대를 위한 정책적 또는 사업적 추진의 일환으로, 구체적인 과학적 원리는 기사에서 언급되지 않음.",
+        "outlook": "남동산단 내 친환경 재생 에너지 참여 기업이 늘어날 것으로 예상되나, 구체적인 영향이나 전망은 기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천",
+        "남동산단",
+        "친환경",
+        "재생 에너지",
+        "참여 기업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "[포토] 김성환 장관, 탈탄소 재생에너지 전환 현장 방문 - 환경일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XLUtyYmxaeThvbDdncGNraVp0SFNRU2JGZjA5MWhadTYwSXJSRXFQWFZLMjV0OGNXM0hSdE1TWFBYbjZXR01IWEp1dUNLa29SVXpJTHZKaTBTNHVOdlRnNkczQUtqb3RR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:19:10",
+      "description": "[포토] 김성환 장관, 탈탄소 재생에너지 전환 현장 방문 환경일보",
+      "summary": {
+        "phenomenon": "김성환 장관이 탈탄소 재생에너지 전환 현장을 방문했다.",
+        "cause": "정부의 탈탄소 및 재생에너지 전환 정책 추진에 따른 현장 점검 및 격려 차원의 방문으로, 구체적인 과학적 원인은 기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김성환 장관",
+        "탈탄소",
+        "재생에너지",
+        "전환",
+        "현장 방문"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "해상풍력 집적화단지 7곳 지정…정부, 재생에너지 확대 속도 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ULW44aHRFR1VUYk9YdXNkNVN6RTdReE94Z1Y4clhDeFhrRGRlVWphY0FsUFlLMzc2OWVrQVFZM1JiNExEdk1pQmRieVN0NDQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:04:34",
+      "description": "해상풍력 집적화단지 7곳 지정…정부, 재생에너지 확대 속도 v.daum.net",
+      "summary": {
+        "phenomenon": "정부가 해상풍력 집적화단지 7곳을 지정하며 재생에너지 확대에 속도를 내고 있다.",
+        "cause": "정부의 재생에너지 확대 정책의 일환으로, 대규모 해상풍력 발전 단지 조성을 통해 에너지 전환을 가속화하려는 목적이다.",
+        "outlook": "정부의 재생에너지 확대 속도가 더욱 빨라질 것으로 전망되나, 구체적인 영향은 기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해상풍력",
+        "집적화단지",
+        "정부",
+        "재생에너지",
+        "확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "해상풍력 집적화단지 11GW 조건부 지정, 대규모 발전지구 확보 청신호 - 전기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbFphbDBJUlAtU1duUWtxcGNKLThXVzY5NHNQZ2R5Zi1rSzM0MnNnZURIU3BtRW1zN2hNN05PTnVoUlg1MGZHaXRCYUxYUDVGVGxYamhZTkFtY3IwU2hUR2NZMFRoQmpPRXEwedIBcEFVX3lxTFBGd0lNQWZMRFdQaDdhdUZvejJoRE5iamFqdDVNU2pTdC1PVlBwWEktajdHYkFfQUFaYjVIRHFoYmZyY3gzVUY2RU5iVmdwbGIyR04xSTdFM2Y0X1Y1NzdyOE9jVkRmVWdtYjhmTTVTUlQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T06:51:44",
+      "description": "해상풍력 집적화단지 11GW 조건부 지정, 대규모 발전지구 확보 청신호 전기신문",
+      "summary": {
+        "phenomenon": "11GW 규모의 해상풍력 집적화단지가 조건부 지정되어 대규모 발전지구 확보의 청신호가 켜졌다.",
+        "cause": "대규모 해상풍력 발전 단지 조성을 통해 안정적인 전력 공급원과 재생에너지 발전 용량을 확보하려는 목적이다.",
+        "outlook": "대규모 발전지구 확보에 긍정적인 신호로 작용할 것이며, 향후 해상풍력 발전 용량 확대에 기여할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해상풍력",
+        "집적화단지",
+        "11GW",
+        "조건부 지정",
+        "발전지구 확보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "기부후, 해상풍력 집적화단지 7곳 조건부 지정…군 협의 등 연내 이행 점검 - 지디넷코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SdktkVno2d3p1SEtoVkZpaGNGWlRFMGl3N3F4QWNOQjlKY3loTjYyd050YW0xREJEOVI5dkJKWGZGZnN1R1F5dXd4NFhxTzEzdndyaGxB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T07:44:24",
+      "description": "기부후, 해상풍력 집적화단지 7곳 조건부 지정…군 협의 등 연내 이행 점검 지디넷코리아",
+      "summary": {
+        "phenomenon": "해상풍력 집적화단지 7곳이 조건부 지정되었으며, 군 협의 등 연내 이행 사항이 점검될 예정이다.",
+        "cause": "해상풍력 발전 단지 조성 과정에서 필요한 행정 절차 및 관련 기관과의 협의를 거쳐 사업을 추진하기 위함이다.",
+        "outlook": "연내 군 협의 등 조건부 이행 사항이 점검될 예정이며, 이는 해상풍력 단지 조성의 다음 단계로 이어질 것으로 예상된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "중동 전쟁에 원유 시장 흔들···주목받는 신안군 재생에너지 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bWhBNnNreFlYeDVUeklrWkJYSG9wTXVNSjRDbVNkNWlfM3hZek1Vc1piX0JaME1ld0p6eTAtT3pNeDBFa0ljSjRQMWpBTlpoWGpMZWFCcGZSRThNUjlzYlNDV2l5YkNLaWlaS2xDcWvSAXRBVV95cUxPUHVjUE8tbFMtSXNGY0VlTHd6aldudy12OTZRSHRXVGlGMHRtRG42MHo3bFpzRTlWajd1WGRsZk53VXljWlVPRkF2YmV1LXdRcmo4cnlnbzlNeHpkRmc0LWFMWEVBYjhqYVBQT0lOT3Y1MDRXdA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:10:00",
+      "description": "중동 전쟁에 원유 시장 흔들···주목받는 신안군 재생에너지 이뉴스투데이",
+      "summary": {
+        "phenomenon": "중동 전쟁으로 인해 원유 시장이 흔들리면서, 신안군의 재생에너지가 주목받고 있다.",
+        "cause": "중동 전쟁으로 인한 국제 원유 시장의 불안정성이 화석 연료 의존도를 줄이고 재생에너지의 중요성을 부각시키는 배경이 되었다.",
+        "outlook": "국제 정세 불안정으로 인해 신안군의 재생에너지 개발 및 활용에 대한 관심이 더욱 증대될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중동 전쟁",
+        "원유 시장",
+        "신안군",
+        "재생에너지",
+        "주목"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "서해안에 원전 11기 규모 해상풍력단지 7곳 조성 - 한겨레",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84b0p1akU1WjN0Z0xLcTZsOHVvNzBnZHUxVUUtUDAwVnpkSm5PMGpaeGlJaEIxc2hpRVJmb1d6aEV1QU1EbVhxZEJrbG5TeGJfUXNoazYxWHN1bTZGRXVEUEpITEE4N2dzdExZZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:55:00",
+      "description": "서해안에 원전 11기 규모 해상풍력단지 7곳 조성 한겨레",
+      "summary": {
+        "phenomenon": "서해안에 원전 11기 규모에 해당하는 해상풍력단지 7곳이 조성될 예정이다.",
+        "cause": "대규모 해상풍력 발전을 통해 국가 전력 수요를 충족하고 재생에너지 비중을 확대하려는 정책적 결정에 따른 것이다.",
+        "outlook": "서해안 지역에 대규모 해상풍력 발전 인프라가 구축되어 재생에너지 공급 능력이 크게 향상될 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "서해안",
+        "해상풍력단지",
+        "원전 11기 규모",
+        "조성",
+        "풍력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "[Diagnosis] Oil Price Shock Accelerates Renewable Energy Push… Reality is 'Grid Shortage' - Economytalk News",
+      "original_title": "[진단] 유가 쇼크에 재생에너지 속도전… 현실은 ‘전력망 부족’ - 이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QVElKSzJKTVBxQllpTGlETVRpc0JlQV9tVEkwLW5mSHhsNU8ySjIyTUE2Uy11WkRSdXJGZWM4bWo4N0JnUFRrQTRicndaTHpOdXBXVExTMGpEVVRrbllabVQ1VmlIenA0eTg1dw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T00:25:56",
+      "description": "[Diagnosis] Oil Price Shock Accelerates Renewable Energy Push… Reality is 'Grid Shortage' Economytalk News",
+      "summary": {
+        "phenomenon": "The transition to renewable energy is accelerating due to the oil price shock, but a current shortage in the power grid is being highlighted as a reality. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "The oil price shock has been presented as the cause for the accelerated transition to renewable energy. The scientific causes or background of the power grid shortage are not mentioned in the article.",
+        "outlook": "The power grid shortage has been mentioned as a realistic challenge for the rapid renewable energy transition, but specific impacts or outlooks resulting from this are not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Oil price shock",
+        "Renewable energy",
+        "Power grid shortage",
+        "Rapid transition",
+        "Energy transition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[진단] 유가 쇼크에 재생에너지 속도전… 현실은 ‘전력망 부족’ 이코노미톡뉴스"
+    },
+    {
+      "id": "42",
+      "title": "Ministry of Climate Designates 7 Locations, Including Incheon and Boryeong, as 'Renewable Energy Cluster Zones' Under Conditional Approval - Metro Newspaper",
+      "original_title": "기후부, 인천·보령 등 7곳 '재생에너지 집적화단지' 조건부 지정 - 메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xc0M4RG0xZjFNQkJ6bHZlR3h1YUFkQUFyZ3VIZUpaSEs1Q0syN0Zndk5UWExNU2RmTXFpbmYtNGxzVHZldlFzcXpqS1RXblhlTFBPVDJWUlQwVEpLY0pn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:52:23",
+      "description": "Ministry of Climate Designates 7 Locations, Including Incheon and Boryeong, as 'Renewable Energy Cluster Zones' Under Conditional Approval Metro Newspaper",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven locations, including Incheon and Boryeong, as 'Renewable Energy Cluster Zones.' (Specific timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Specific impacts or future outlooks regarding the conditional designation are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Renewable energy",
+        "Cluster zone",
+        "Designation",
+        "Conditional"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 인천·보령 등 7곳 '재생에너지 집적화단지' 조건부 지정 메트로신문"
+    },
+    {
+      "id": "43",
+      "title": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Cluster Zones - BBS Buddhist Broadcasting",
+      "original_title": "기후부, 해상풍력 집적화단지 7곳 조건부 지정 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhdUlqcXozX25YMGE2d3FUc19HdWJvRXlQdjM5a21LZmEwNE44UWZvUFZrcGVTSlhhU0JnU2YtcU1mUGRPYUQ2WjBRaGlvTHJiMGgza1BaOEk2RUVzc3dBLXFFT1ZQaHl4U1Vz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:02:55",
+      "description": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Cluster Zones BBS Buddhist Broadcasting",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven offshore wind power cluster zones. (Specific regions or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Specific impacts or future outlooks regarding the conditional designation are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Offshore wind power",
+        "Cluster zone",
+        "Conditional designation",
+        "Renewable energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 해상풍력 집적화단지 7곳 조건부 지정 BBS불교방송"
+    },
+    {
+      "id": "44",
+      "title": "[MI Focus] H Energy CEO Ham Il-han: 'Managing Solar Power Plants with AI…Connecting to Power Trading' - Maeil Ilbo",
+      "original_title": "[MI포커스] 함일한 에이치에너지 대표 “AI로 태양광 발전소 관리…전력 거래까지 연결” - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ERlVKLURGczNkNEtnNll2eFMwOWZyVEp5d3ZtUGs4QXVxM2tZanRUSmRPb2VxcGJNZXNIQlQxVXhqeV8xanJyU3JUTmNHVkduV1hFemdkbnhzVkZDV0x4VW5hZ2Y?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:00:00",
+      "description": "[MI Focus] H Energy CEO Ham Il-han: 'Managing Solar Power Plants with AI…Connecting to Power Trading' Maeil Ilbo",
+      "summary": {
+        "phenomenon": "Ham Il-han, CEO of H Energy, proposed a method to manage solar power plants using AI and connect them to power trading. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Specific impacts or outlooks regarding AI-driven solar power plant management and connection to power trading are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Solar power plant",
+        "Management",
+        "Power trading",
+        "H Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[MI포커스] 함일한 에이치에너지 대표 “AI로 태양광 발전소 관리…전력 거래까지 연결” 매일일보"
+    },
+    {
+      "id": "45",
+      "title": "7 Offshore Wind Power Cluster Zones on West Coast Receive 'Conditional Approval'…Accelerating Energy Highway - Electronic Times",
+      "original_title": "서해안 해상풍력 집적화단지 7곳 '조건부 허가'…에너지고속도로 가속화 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FTHhEM3V3NWYycGNvU3A5eHdzVW5MWmNBLUFQb2FLaURoMGd0ZE9pSWVETE95T1dnNmZLem5vblh1TllhOWlWcjBEWjRCdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:00:00",
+      "description": "7 Offshore Wind Power Cluster Zones on West Coast Receive 'Conditional Approval'…Accelerating Energy Highway Electronic Times",
+      "summary": {
+        "phenomenon": "Seven offshore wind power cluster zones on the West Coast have received conditional approval. (Specific timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "It was mentioned that this conditional approval would accelerate the 'Energy Highway,' but specific impacts or outlooks are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "West Coast",
+        "Conditional approval",
+        "Energy highway",
+        "Acceleration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서해안 해상풍력 집적화단지 7곳 '조건부 허가'…에너지고속도로 가속화 전자신문"
+    },
+    {
+      "id": "46",
+      "title": "South Korea's Energy Transition, The Future of Renewable Energy - Brand Economy Newspaper",
+      "original_title": "한국의 에너지 전환, 재생에너지의 미래 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5IRWF4RGxyN0JEdERQV2pBZ0l4Y3ZxMWp5SXVWZlUyVFVJbURfUmRGS3BrV0lBWklyeXl6V1MyUDJFVGwzTmJNX2VVajk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-14T20:49:17",
+      "description": "South Korea's Energy Transition, The Future of Renewable Energy Brand Economy Newspaper",
+      "summary": {
+        "phenomenon": "The content covered South Korea's energy transition and the future of renewable energy. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Discussions were held regarding South Korea's energy transition and the future of renewable energy, but specific impacts or outlooks are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "South Korea",
+        "Energy transition",
+        "Renewable energy",
+        "Future",
+        "Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국의 에너지 전환, 재생에너지의 미래 브랜드경제신문"
+    },
+    {
+      "id": "47",
+      "title": "Offshore Wind Power Cluster Zones in Incheon, Jeolla, and Chungnam…'Conditional' on Military Operability Consultation - News1",
+      "original_title": "인천·전라·충남에 해상풍력 집적화단지…군 작전성 협의 '조건부' - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RcWNMdlRETnhndGRVVHpSaTJ1LUZGS2VXbk9SNmt5Rk54RVg3QWlOSGJyLXgxQVhuSGhSOVV2Z1poRmF2dU5xS3IxZnNIbEpnY3VtNw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:00:00",
+      "description": "Offshore Wind Power Cluster Zones in Incheon, Jeolla, and Chungnam…'Conditional' on Military Operability Consultation News1",
+      "summary": {
+        "phenomenon": "Offshore wind power cluster zones have been designated in the Incheon, Jeolla, and Chungnam regions, conditional on consultation regarding military operability. (Specific figures or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Consultation on military operability was specified as a condition, but specific impacts or outlooks resulting from this are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Cluster zone",
+        "Incheon",
+        "Military operability",
+        "Conditional"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천·전라·충남에 해상풍력 집적화단지…군 작전성 협의 '조건부' 뉴스1"
+    },
+    {
+      "id": "48",
+      "title": "Minister Kim Sung-hwan of Climate Ministry Inspects Renewable Energy Policy Sites - Environment Daily",
+      "original_title": "김성환 기후부 장관, 재생에너지 정책 현장 점검 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9XZmZYWlJCbkIyc1FsWHh4Q1ZTazRkTy1WVDhqODktSFB4WDlpc21WcGtveXk0VF9ROFN4TFdRTnh3cmd1cUsyV0I0U2xJYUxtNERYSVpkUWc0RUpjbkZjQklVQTlMN042?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:17:05",
+      "description": "Minister Kim Sung-hwan of Climate Ministry Inspects Renewable Energy Policy Sites Environment Daily",
+      "summary": {
+        "phenomenon": "Minister Kim Sung-hwan of the Ministry of Climate inspected sites related to renewable energy policy. (Specific regions or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Specific impacts of the site inspection or outlooks on future policy directions are not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Kim Sung-hwan",
+        "Minister of Climate Ministry",
+        "Renewable energy",
+        "Policy",
+        "Site inspection"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "김성환 기후부 장관, 재생에너지 정책 현장 점검 환경일보"
+    },
+    {
+      "id": "49",
+      "title": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Cluster Zones…Military Consultation to be Reviewed Within the Year - Chosunbiz",
+      "original_title": "기후부, 해상풍력 집적화단지 7곳 조건부 지정…군 협의 연내 점검 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYkZZM25ua21KcTNvazMzVlp0N05TNlctb0x1YUpVdEhxNllYVk9xUzNibkI2SXh0SHF0OUdfbW5vR2xuX2sxVU5MMmhzdkdQNDVZaVNMNkR1VF9iR3YzX1BYaU9jVzJEa0UyeG0ySXh4M1B5dGhNYk1wX1BiT0Z3dHNFblpMQdIBmgFBVV95cUxNTTdDWXROaW0xT3lCeGRBT21jWkkyV3NiT2ZsWVFablVncDV2ejhmS01lendVVlRqV2RvdHBFU09IMGFfNE05Rm12VUVmUTlZRDV6b2dvZ2VENzNJZTJfUVowd0kyUEduRkdwX05jQ0tMTmpUaUhSSld3TksxcEJGZ3M4X09NZ24zWlk3MzhYRi1uR191cW1iVzhR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:04:41",
+      "description": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Cluster Zones…Military Consultation to be Reviewed Within the Year - Chosunbiz",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven offshore wind power cluster zones, with military consultations to be reviewed within the year. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Specific impacts or future outlooks regarding the review of military consultations within the year are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Offshore wind power",
+        "Cluster zone",
+        "Conditional designation",
+        "Military consultation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 해상풍력 집적화단지 7곳 조건부 지정…군 협의 연내 점검 - 조선비즈 Chosunbiz"
+    },
+    {
+      "id": "50",
+      "title": "Why is China Enduring Despite Soaring Oil Prices?…EVs-Renewable Energy-Crude Oil Reserves - Nate",
+      "original_title": "유가 폭등에도 中 버티는 이유?…전기車-재생에너지-원유 비축 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ta2ZzdnF0U19FZ21yQjBqSmdHdThWX0dlWEQ5OWJqdGZJTm01UFlRUE9NZzJkSDRCd05SNlhZb1VHSFM5YzdYQlo2QkxQVjN5SXZn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T07:55:00",
+      "description": "Why is China Enduring Despite Soaring Oil Prices?…EVs-Renewable Energy-Crude Oil Reserves Nate",
+      "summary": {
+        "phenomenon": "Despite soaring oil prices, China is enduring due to factors such as electric vehicles, renewable energy, and crude oil reserves. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "An analysis was presented on why China is enduring despite soaring oil prices, but specific impacts or future outlooks are not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Oil price surge",
+        "China",
+        "Electric vehicle",
+        "Renewable energy",
+        "Crude oil reserves"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "유가 폭등에도 中 버티는 이유?…전기車-재생에너지-원유 비축 네이트"
+    },
+    {
+      "id": "51",
+      "title": "Offshore Wind Power Projects in 5 Local Governments, Including Incheon and Jeonnam, Designated as Integrated Complexes - Maeil Business Market",
+      "original_title": "인천·전남 등 5개 지자체 해상풍력사업, 집적화 단지 지정 - 매일경제 마켓",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBla1FCeExSbjhPQXZEdTZhei1uTmZGY2dtZTI1NEQ2UlQ3ZUZyVjNNeVlSblM0WVZ5RDBrUlIyQXdfVE82RlJWblVReEZHUzdqemc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:00:06",
+      "description": "Offshore Wind Power Projects in 5 Local Governments, Including Incheon and Jeonnam, Designated as Integrated Complexes Maeil Business Market",
+      "summary": {
+        "phenomenon": "Offshore wind power projects in five local governments, including Incheon and Jeonnam, have been designated as integrated complexes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power project",
+        "Integrated complex",
+        "Designation",
+        "Incheon",
+        "Jeonnam"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천·전남 등 5개 지자체 해상풍력사업, 집적화 단지 지정 매일경제 마켓"
+    },
+    {
+      "id": "52",
+      "title": "Ministry of Climate Conditionally Designates 7 'Offshore Wind Power Integrated Complexes' Including Incheon, Jeonnam, Jeonbuk, Boryeong, and Gunsan - Donong Life Times",
+      "original_title": "기후부, 인천·전남·전북·보령·군산 등 '해상풍력 집적화단지' 7곳 조건부 지정 - 도농라이프타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VmFYejVxX29Pa0ZMV3Ftb080c1pCbDljRVJRMzVXeW9zU0RHNExzOEFLM1dUUmQ5QTVkTG5BSVJtNDdCbEk4a2ljNlNEOUdyckZSRDdBenlkOXB4SF9jem9faTJoNHVickNURQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T06:07:08",
+      "description": "Ministry of Climate Conditionally Designates 7 'Offshore Wind Power Integrated Complexes' Including Incheon, Jeonnam, Jeonbuk, Boryeong, and Gunsan Donong Life Times",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven locations, including Incheon, Jeonnam, Jeonbuk, Boryeong, and Gunsan, as offshore wind power integrated complexes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Offshore wind power",
+        "Integrated complex",
+        "Designation",
+        "Conditional"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 인천·전남·전북·보령·군산 등 '해상풍력 집적화단지' 7곳 조건부 지정 도농라이프타임즈"
+    },
+    {
+      "id": "53",
+      "title": "“Launching Power Hubs at Sea”…Government Conditionally Designates 7 Offshore Wind Power Integrated Complexes - Marine Leisure News",
+      "original_title": "“바다 위 전력기지 시동”…정부, 해상풍력 집적화단지 7곳 조건부 지정 - 해양레저신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrYThvTFh6VUpWUnJFU2lRWXNraC1DdTR1X09ycUVaYzZqdWpJazd3T3c0bDl6NzdQMUU0TjRFeTdxQmY1LVhlWlZqamc2ckdmeUwtTlNLdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T04:04:00",
+      "description": "“Launching Power Hubs at Sea”…Government Conditionally Designates 7 Offshore Wind Power Integrated Complexes Marine Leisure News",
+      "summary": {
+        "phenomenon": "The government has conditionally designated seven offshore wind power integrated complexes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Government",
+        "Integrated complex",
+        "Conditional designation",
+        "Power hub"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“바다 위 전력기지 시동”…정부, 해상풍력 집적화단지 7곳 조건부 지정 해양레저신문"
+    },
+    {
+      "id": "54",
+      "title": "Strait of Hormuz Blockade Reshapes Global 'Energy Map': Europe Refocuses on Renewable Energy and Nuclear Power - HuffPost Korea",
+      "original_title": "호르무즈 해협 봉쇄가 글로벌 '에너지 지도' 바꾼다 : 유럽 재생에너지·원전에 다시 주목 - 허프포스트코리아",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13Y3IyeUJNQl9sZ09uczY1OGR1N2FtM1FFYXQ2Mm1DdkttZlVlYzdISVVtcDhjTGxteWJrR0RvU1FienAtWUR1NzZjZ2NqMmVwdEJ0LU9QTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-14T22:00:00",
+      "description": "Strait of Hormuz Blockade Reshapes Global 'Energy Map': Europe Refocuses on Renewable Energy and Nuclear Power HuffPost Korea",
+      "summary": {
+        "phenomenon": "A blockade of the Strait of Hormuz has occurred.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Strait of Hormuz blockade is expected to alter the global 'energy map,' leading Europe to refocus on renewable energy and nuclear power."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "호르무즈 해협 봉쇄가 글로벌 '에너지 지도' 바꾼다 : 유럽 재생에너지·원전에 다시 주목 허프포스트코리아"
+    },
+    {
+      "id": "55",
+      "title": "7 Offshore Wind Power Integrated Complexes, Including Incheon and Jeonnam, Conditionally Designated…Implementation Review Expected Within the Year - Nate",
+      "original_title": "인천?전남 등 7곳 해상풍력 집적화단지 조건부 지정…연내 이행 점검 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iYTNiUmJ2TXQ1RDdyQVVDdGdTUEU1SUIxdDg3OHlUNHdabjNjdlJwaDFXODQ5RzlwQ0JUbDdfeHFVVENLZHRoZzhHNFZSdVJlTzVB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T06:31:00",
+      "description": "7 Offshore Wind Power Integrated Complexes, Including Incheon and Jeonnam, Conditionally Designated…Implementation Review Expected Within the Year Nate",
+      "summary": {
+        "phenomenon": "Seven locations, including Incheon and Jeonnam, have been conditionally designated as offshore wind power integrated complexes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "An implementation review is scheduled to take place within the year."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Integrated complex",
+        "Conditional designation",
+        "Incheon",
+        "Jeonnam"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천?전남 등 7곳 해상풍력 집적화단지 조건부 지정…연내 이행 점검 네이트"
+    },
+    {
+      "id": "56",
+      "title": "7 Offshore Wind Power Integrated Complexes Conditionally Designated…Regional Economy and Energy Transition Expected - Nate",
+      "original_title": "해상풍력 집적화단지 7곳 조건부 지정…지역 경제·에너지 전환 기대 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PcTNWUks3cExLXzREVEwwRkNSd2ZaellhNkFPS1JSSlhnamFjT0JfcXROSGF2VjV1T2JTU3pmRVNuRzNhbVVZTDNvVFgteGQtcXdZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:01:00",
+      "description": "7 Offshore Wind Power Integrated Complexes Conditionally Designated…Regional Economy and Energy Transition Expected Nate",
+      "summary": {
+        "phenomenon": "Seven offshore wind power integrated complexes have been conditionally designated.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This designation is expected to stimulate regional economies and facilitate energy transition."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Integrated complex",
+        "Conditional designation",
+        "Regional economy",
+        "Energy transition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해상풍력 집적화단지 7곳 조건부 지정…지역 경제·에너지 전환 기대 네이트"
+    },
+    {
+      "id": "57",
+      "title": "7 'Offshore Wind Power Integrated Complexes,' Including Incheon and Jeonnam, Designated…Conditional Approval Including Military Consultation - E-Today",
+      "original_title": "인천·전남 등 7곳 '해상풍력 집적화단지' 지정⋯軍 협의 등 조건부 승인 - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBudGxyc1VyREIxYjNnTEd0MFJ4NndhS0lBS2o5cXJLRHlMY21YYUpER1VCTXpKQXk0Mnpnb0lMaGN6SlF1ZTJPN2ZTYlM4Y051bDNUQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T03:00:00",
+      "description": "7 'Offshore Wind Power Integrated Complexes,' Including Incheon and Jeonnam, Designated…Conditional Approval Including Military Consultation E-Today",
+      "summary": {
+        "phenomenon": "Seven locations, including Incheon and Jeonnam, have been designated as 'offshore wind power integrated complexes,' with approval granted conditionally, subject to military consultation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Integrated complex",
+        "Designation",
+        "Conditional approval",
+        "Incheon"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천·전남 등 7곳 '해상풍력 집적화단지' 지정⋯軍 협의 등 조건부 승인 이투데이"
+    },
+    {
+      "id": "58",
+      "title": "7 Offshore Wind Power Integrated Complexes Conditionally Designated…11GW in the West Sea Alone - Nate",
+      "original_title": "해상풍력 집적화단지 7곳 조건부 지정…서해에만 11GW - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHeDZndjdlSVVVRWFyV25ld0oyMmFWMU9kd3pxUEtkMWtFUFlNeUgxalM0cVpSdzZ5dGdwU3pJOVpWUXlacFRVNHBGM29TNUNZM29GT2hxSE5KRDk5ZTNmTVk2Z3FyTE1CRHRSS181bWdscGJTUy00Ug?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T07:43:00",
+      "description": "7 Offshore Wind Power Integrated Complexes Conditionally Designated…11GW in the West Sea Alone Nate",
+      "summary": {
+        "phenomenon": "Seven offshore wind power integrated complexes have been conditionally designated, with 11GW of capacity located in the West Sea region alone.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Integrated complex",
+        "Conditional designation",
+        "West Sea",
+        "11GW"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해상풍력 집적화단지 7곳 조건부 지정…서해에만 11GW 네이트"
+    },
+    {
+      "id": "59",
+      "title": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Integrated Complexes, Including Incheon and Jeonnam - Nate",
+      "original_title": "기후부, 인천·전남 등 해상풍력 집적화단지 7곳 조건부 지정 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OXzVFMGJVVjVQbk5iZXA5cGhySWlweUpscEhqN3VGdEtvMHVnUmhWUlVXYTJVUmtELTJ5MHdxZjBsTDN4N3NTb2ZGOEVVWldRV1F3MHNuN2NoQUhYY1prZ2xkYnJVTzlvbHhZYmVHQWJZbThzX2FEYw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T05:14:00",
+      "description": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Integrated Complexes, Including Incheon and Jeonnam Nate",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven locations, including Incheon and Jeonnam, as offshore wind power integrated complexes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Offshore wind power",
+        "Integrated complex",
+        "Conditional designation",
+        "Incheon and Jeonnam"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 인천·전남 등 해상풍력 집적화단지 7곳 조건부 지정 네이트"
+    },
+    {
+      "id": "60",
+      "title": "Government Designates 7 Offshore Wind Power Integrated Complexes…Proceeding Conditionally on Military Consultation - Nate",
+      "original_title": "정부, 해상풍력 집적화단지 7곳 지정…軍 협의 조건부 추진 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJQTZGVXpya2hQSEpObkU1SXN0Yjg5aDlrOU8zcF9uMmRJMDlJX0FFSXFqc2xJaUtaZkxfdWQ2ckNXMndyaHhuSXozY0xZQkVKV3VPaFo3QWQzUy15NmljbWpTNmxPUVRLTXNKU2J3VWlSb01IcFR5RA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T05:52:00",
+      "description": "Government Designates 7 Offshore Wind Power Integrated Complexes…Proceeding Conditionally on Military Consultation Nate",
+      "summary": {
+        "phenomenon": "The government has designated seven offshore wind power integrated complexes, with their development proceeding conditionally, subject to military consultation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Government",
+        "Offshore wind power",
+        "Integrated complex",
+        "Designation",
+        "Military consultation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "정부, 해상풍력 집적화단지 7곳 지정…軍 협의 조건부 추진 네이트"
+    },
+    {
+      "id": "61",
+      "title": "What is 'Convex-Shaped' Reduction? Opposition Spreads Over Public Deliberation on Carbon Neutrality Framework Act",
+      "original_title": "‘볼록형’ 감축이 뭐길래···탄소중립기본법 공론화 반발 확산",
+      "url": "https://www.khan.co.kr/article/202603151619001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-03-15T07:19:00",
+      "description": "An activist from the plaintiffs and legal teams of the Youth, Citizen, and Baby Climate Lawsuits, and the Carbon Neutrality Basic Plan Lawsuit, held a press conference on August 27th last year in front of the Statue of Admiral Yi Sun-sin in Gwanghwamun, Seoul. They stated, 'The rights guaranteed by the Constitution; the government and National Assembly must respond,' marking the 1st anniversary of the climate constitutional complaint decision. Senior Reporter Jeong Ji-yoon reports that the Deliberation Committee under the National Assembly's Special Committee on Climate Crisis is currently undergoing a public deliberation process for the amendment of the Carbon Neutrality and Green Growth Framework Act (Carbon Neutrality Framework Act)...",
+      "summary": {
+        "phenomenon": "On August 27th last year, in Gwanghwamun, Seoul, the plaintiffs and legal teams of the Youth, Citizen, and Baby Climate Lawsuits, and the Carbon Neutrality Basic Plan Lawsuit, held a press conference to mark the 1st anniversary of the climate constitutional complaint decision. They are currently protesting the public deliberation process for the amendment of the Carbon Neutrality and Green Growth Framework Act, which is being conducted by the Deliberation Committee under the National Assembly's Special Committee on Climate Crisis.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청소년·시민·아기기후소송과 탄소중립기본계획소송 청구인단 및 변호인단 소속 한 활동가가 지난해 8월 27일 서울 광화문 이순신 동상 앞에서 “헌법이 보장한 권리, 정부와 국회는 응답하라”며 기후 헌법소원 결정 1주년 기자회견을 하고 있다. 정지윤 선임기자국회 기후위기특별위원회 산하 공론화위원회가 탄소중립·녹색성장 기본법(탄소중립기본법) 개정 공론화 과정에서···"
+    },
+    {
+      "id": "62",
+      "title": "Ministry of Climate, Energy, and Environment Conditionally Designates 7 Offshore Wind Power Complex Sites, Including Incheon and Jeonnam",
+      "original_title": "기후부, 인천·전남 등 해상풍력 집적화단지 7곳 조건부 지정",
+      "url": "https://www.khan.co.kr/article/202603151413001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-03-15T05:13:00",
+      "description": "An image of an offshore wind turbine operating in Korea. Reporter Kang Yoon-jung. The Ministry of Climate, Energy, and Environment announced on the 15th that, following deliberation and resolution by the Renewable Energy Policy Deliberation Committee, it has conditionally designated 7 projects applied for by 5 local governments (Incheon, Jeonnam, Jeonbuk, Boryeong in Chungnam, and Gunsan in Jeonbuk) as renewable energy offshore wind power complexes. Renewable energy complexes are designed for local governments to lead in identifying power generation project sites, securing public acceptance and environmental suitability to promote renewable energy generation...",
+      "summary": {
+        "phenomenon": "On the 15th, the Ministry of Climate, Energy, and Environment conditionally designated 7 projects, applied for by 5 local governments including Incheon, Jeonnam, Jeonbuk, Boryeong in Chungnam, and Gunsan in Jeonbuk, as renewable energy offshore wind power complexes, following deliberation and resolution by the Renewable Energy Policy Deliberation Committee.",
+        "cause": "This designation is a policy decision aimed at promoting renewable energy development by enabling local governments to lead in identifying power generation project sites and securing public acceptance and environmental suitability.",
+        "outlook": "As a result, renewable energy generation is expected to expand, and offshore wind power development is projected to proceed more systematically through local government-led identification of power generation project sites and securing public acceptance."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Integrated complex",
+        "Renewable energy",
+        "Conditional designation",
+        "Ministry of Climate, Energy, and Environment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "국내에서 가동 중인 해상풍력 발전기 모습. 강윤중 기자기후에너지환경부는 재생에너지정책심의회의 심의·의결을 거쳐 5개 지자체(인천·전남·전북·충남 보령·전북 군산)가 신청한 7개 사업을 재생에너지 해상풍력 집적화단지로 조건부 지정한다고 15일 밝혔다.재생에너지 집적화단지는 지자체가 주도해 발전사업 입지를 발굴하고 주민 수용성과 환경성을 확보해 재생에너지 발전···"
+    },
+    {
+      "id": "63",
+      "title": "Study Reveals How Ethiopia’s Hyenas Combat Climate Change, Save Money And Prevent Disease - Eurasia Review",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFlfVzd3azlTZnUyS3RILWpGLVgyZzhkOWpGV2hTSGJjSmxxMVhSZ0tuSkRrNkZ4cEFjaWU5bXZRaWNpZGFSdUZaUnhyQl9nQWhVN3psNzRCQ0JKRS0zdDZQaDUwamQ5TFhBSzlJXzJaQkdIZWRaTHg5TjhCWlZPVHBEQ05sVk9xSE1lRE1RSlZQUW4ySmRfV01uazBlOC1wUEJsTFZfSjlrMUVZMXF5Sm54UlA1SXkyVGUtOEtXSmtDeDQyWHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-14T23:28:28",
+      "description": "Study Reveals How Ethiopia’s Hyenas Combat Climate Change, Save Money And Prevent Disease Eurasia Review",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Study Reveals How Ethiopia’s Hyenas Combat Climate Change, Save Money And Prevent Disease Eurasia Review"
+    },
+    {
+      "id": "64",
+      "title": "As Nepal Votes, Climate Change Is an Elephant in the Room for Sherpa Community - The Good Men Project",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHNFbXRmcUtwaHYzV1JmRklINmFnODZoY21zRy1sMUkxMmlZaGF5emp1QWpkZ05ETVNOcEVnWlMwMVAtczE0OXdCcS1iRVhoN2laTU5rcU9xXzRvS21XSHpJSHN1U2dYSFJFXzU2eEdnaVlwTmIybDhzU0ZxRExXOGhWUmE4cWNqVGVRZDcxTzQ3OU0tMjMyRnNuYkNvOThCYTNyV0tnMEVuWUItZG5mLUFLeFNsZjdoa3NqamltMA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T01:32:00",
+      "description": "As Nepal Votes, Climate Change Is an Elephant in the Room for Sherpa Community The Good Men Project",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "As Nepal Votes, Climate Change Is an Elephant in the Room for Sherpa Community The Good Men Project"
+    },
+    {
+      "id": "65",
+      "title": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change - mymodernmet.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ManVVLUx0bXdMVTM5MEROa3BHSzlVdE9jQTd2RkpycUVFbjUtZERQV2d1dUZFdzRmQUpEZ25hYlJ6RUVOTjM0ZWk3ajRpcG5DeXBiQkdZeFJxdVF1SkhnTWNZcTdlaWs3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-14T19:06:31",
+      "description": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change mymodernmet.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "This Living Concept Reimagines Architecture for Islands That Are Vulnerable to Climate Change mymodernmet.com"
+    },
+    {
+      "id": "66",
+      "title": "Winter Paralympics: Should event be moved amid climate change challenges? - BBC",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwZ2tiSWp2LVo3Q3I3bE1zaFB6dk9hVU5DRmhnQkZjeVhKU1BOeVBGbzc5QWdKU2NldTJsalkxYk55OWlnVWlpR1pwYnY1cW1xeVU1MFVGcWE1Smc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T06:23:53",
+      "description": "Winter Paralympics: Should event be moved amid climate change challenges? BBC",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Winter Paralympics: Should event be moved amid climate change challenges? BBC"
+    },
+    {
+      "id": "67",
+      "title": "Watch: HPV vaccination roll out, climate change, metabolic diseases and more | Health Wrap - The Hindu",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTWxaU2RKMnZ5NnFLSC1mWjdGSU1WdmxWVFpOWGFKY0oyS0x0bVYwclpWTWUwQWpncjFFUnZRX1F5QUNOaXV6c1BzalN4Y3gxQ0lNc2pRZ0JnWTdzR0ljWGg1a3FWbTdFYjFjSF8wQ1dHTTkySHl0a25KX2NzVUtWcWNWV0hqN3RHX091aWxuQTBOUERBU0dpemxyYmNaNFdnaUNGT0ZQS2p0ZU1ObG9jZXp1bDFKZHJJWVpuTkQ5MGJiUDhXUE1RZm51bXBrSVhjbXJXWW1meWwxeTDSAeIBQVVfeXFMT1VFcHE1eU9FNU9yUl83a0xYdTFDNjc1ZTF5eG5wUUhyOUxJcWthckQyak9qZWZFLXpuMW1JOXpQelRDRy1SUDZfZ1pTWXJiNjlzVDI3Y205c1hWbFAtSjNnTkRhWDF3V3l1bWlvcE1adUh0S2NJbTJvVWFpV1RDMFVmQVZQdW11V0FLYnY5YWktTzBTOGtMbTJpWldGQk9sQWJGWmVDT0VsRnMzUjRUZ3pERUllVFhYd20wd2hiRHcyc0hhbm9MeFJ5WVlIRjN0akdyZ2tKNm9zdUJzb3I2bTQ3dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T05:24:09",
+      "description": "Watch: HPV vaccination roll out, climate change, metabolic diseases and more | Health Wrap The Hindu",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Watch: HPV vaccination roll out, climate change, metabolic diseases and more | Health Wrap The Hindu"
+    },
+    {
+      "id": "68",
+      "title": "콜롬비아, 베네수엘라 PDVSA가 에코페트롤과의 송유관 계약 종료 계획 밝혀 - 로이터",
+      "original_title": "Colombia says Venezuela's PDVSA plans to end pipeline contract with Ecopetrol - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVlpqa3VBeTBqeHd3eU5XaUpycmhqR0trdnFka0J4RjZvQjNqYkZsZ05SalhXeXk1a3FJbW1IY2p2bjYtZXExbTVNOWRKZVpwQ2RVRFo0ZWdIZEVuZUdQdkt5c1FkX3VZSFRtTVloUXh4TDJ0SHNpVmE1cXA5OVVFS2NnZ0kzcC1wQVZWRVhFTWRDQUhZQ2M3U2xVbGVkc2V0dkNTOVhRelQ1bk50STBQS2Q0bWpWUmFQWl9FemhMOHlNYXc?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-03-14T17:44:41",
+      "description": "Colombia says Venezuela's PDVSA plans to end pipeline contract with Ecopetrol Reuters",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Colombia",
+        "Venezuela",
+        "PDVSA",
+        "Ecopetrol",
+        "Pipeline contract termination"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Colombia says Venezuela's PDVSA plans to end pipeline contract with Ecopetrol Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 68,
+    "domestic_count": 62,
+    "international_count": 6,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Offshore wind power",
+      "Industrial cluster",
+      "Renewable energy",
+      "Conditional designation"
+    ],
+    "sentiment_breakdown": {
+      "positive": 51,
+      "negative": 5,
+      "neutral": 4
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "해상풍력",
+      "집적화단지",
+      "재생에너지",
+      "조건부 지정"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
