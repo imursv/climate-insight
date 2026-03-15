@@ -1,0 +1,966 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T23:15:19.880172",
+  "briefing": {
+    "opening": "Good morning/afternoon. We will now begin today's climate briefing for March 15, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Deepening Climate Change Threats and Economic Impacts",
+        "content": "Climate change is now emerging as a core threat to the macroeconomy. It is impacting central banks [1], and heatwaves and droughts are striking global supply chains, exacerbating economic threats [4]. Specifically, an agricultural crisis due to extreme weather is anticipated in 2026 [3], and warnings are being issued that climate change directly affects personal finances [35]. Internationally, climate change is reshaping the geopolitical landscape of the Arctic [31], and causing extreme weather events in specific regions, such as droughts in Somalia and floods in Kenya [32]. Amidst these severe changes, LG Electronics is implementing a customized strategy for the Indian market, which experiences frequent power outages and significant climate change impacts [2].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Domestic Policies and Expanded Citizen Participation for Carbon Neutrality Realization",
+        "content": "Domestically, policy and social efforts for transitioning to a carbon-neutral society are actively underway. Recently, six environmental bills passed the National Assembly, including those related to carbon neutrality and water management [9]. In particular, the 'Amendment to the Framework Act on Carbon Neutrality' passed the plenary session of the National Assembly, strengthening the institutional foundation [11]. Local governments are also actively participating; Cheongdo County declared a major transition to carbon neutrality and a green economy [10], and Chungcheongnam-do Province presented a carbon-neutral public building model at a wooden architecture expo [17]. Citizen participation is also expanding; Incheon City has designated the 15th of every month as 'Climate Action Day' to encourage citizen-led carbon neutrality practices [7, 14, 18, 19], and Cheongju City is recruiting participants for its vehicle carbon neutrality points system [13]. Furthermore, various local communities are continuing efforts for carbon neutrality, including carbon neutrality activities at Woongsang General Social Welfare Center [8], the inauguration ceremony for multicultural environmental leaders in Dalseo-gu [12], the 'Daedeok Environmental Guardians' campaign by Daedeok-gu Volunteer Center [15], and carbon neutrality education by Yeongwol-gun Volunteer Center [16].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Efforts to Expand Renewable Energy and Current Challenges",
+        "content": "The transition to renewable energy is a core pillar of climate change response, with various efforts being made both domestically and internationally. Domestically, Andong City is actively pursuing the creation of an 'energy welfare city' utilizing renewable energy [20], and Incheon's Namdong Industrial Complex is recruiting companies to participate in eco-friendly renewable energy projects [21]. Notably, concrete progress is being made in expanding renewable energy infrastructure, with seven offshore wind power cluster complexes in areas like Incheon and Jeollanam-do being conditionally designated [24, 25, 26, 27], and KEPCO KPS plans to establish an O&M base for offshore wind power generation in Jeollanam-do [28]. Internationally, there is also an analysis that China is achieving results without 'oil price shocks' through investments in electric vehicles and renewable energy [23]. However, challenges persist in the expansion of renewable energy. There are concerns that the intermittency issue of renewable energy cannot be resolved solely by expanding ESS (Energy Storage Systems) [22], and in Vietnam, international economic organizations from Korea, the UK, and Japan are urging payment for renewable energy power projects, highlighting issues that require international cooperation and resolution [29].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 Climate Change Adaptation, Scientific Research, and Trends in Awareness Dissemination",
+        "content": "Alongside adaptation efforts to climate change, scientific research and activities to raise public awareness are steadily continuing. Domestically, Lotte Mart launched three types of domestic tropical and subtropical fruits, showcasing a product strategy adapted to the changing environment in response to climate change [6]. In the scientific field, research is underway to track the spring migration of 160 butterflies by attaching miniature transmitters to them, aiming to uncover the secrets of their survival amidst climate change [5]. Meanwhile, news has also been reported that scientists injected 65,000 liters of chemicals into the ocean to combat global warming [37]. Regarding public awareness, nearly one-third of this year's Oscar-nominated films mention climate change, indicating an expansion of message delivery through cultural content [33], and in Kalamazoo, a concert was held to support local climate change activities [34], demonstrating various ways to encourage interest and participation in climate change [36].",
+        "tone": "positive"
+      }
+    ],
+    "closing": "This concludes today's climate briefing for March 15, 2026. Despite the threats of climate change, we hope for continued policy efforts, citizen participation, and scientific advancements."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change Impacts Central Banks - Brand Economic Newspaper",
+      "original_title": "기후변화가 중앙은행을 흔든다 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsMmVVZDRoc3FQT2F2MVhOZWJpS3o3UDN2UkZ6T1JtMlVJN0RMOWNpRHE3MVQ2bGJIWDVFNzhwVlVfaEotOHJvdFEzNzY?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T22:10:31",
+      "description": "Climate Change Impacts Central Banks Brand Economic Newspaper",
+      "summary": {
+        "phenomenon": "Climate change is currently affecting central banks. (Specific figures, regions, and timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Central Bank",
+        "Economy",
+        "Finance",
+        "Impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화가 중앙은행을 흔든다 브랜드경제신문"
+    },
+    {
+      "id": "2",
+      "title": "LG Electronics Targets India with Tailored Strategy Amid Frequent Power Outages and Significant Climate Change Impacts - E-Today News",
+      "original_title": "LG전자, 정전 잦고 기후변화 큰 인도 맞춤형 공략 - 이투뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05Z2Vpb2RNRGVkZU82Mm1QWTFlTVRacDVjVnpKMlQ5QkwxM1ZFZXMtbnJxMGJQWUpRbzlQN2tobENjdFRpUE5jaDlfVTk5SC1fVndmRXFleG5hdy0tOFh0d296Ti03YlHSAWtBVV95cUxQMGV3dFEyYXVaOEc3SzUxT0Y5WjdqMzBDOWswWExPMTlId1A1WUdieFFPQTlwdUl6c19RTnJ2Q2dJY3VwNGRVLWxoZmx6SjV0UXZIZDB3ckJnVlJLU0dFVWJ1NzIySkszOG10Zw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T13:10:11",
+      "description": "LG Electronics Targets India with Tailored Strategy Amid Frequent Power Outages and Significant Climate Change Impacts E-Today News",
+      "summary": {
+        "phenomenon": "India is a region characterized by frequent power outages and significant impacts from climate change. (Specific figures and timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "LG Electronics is expected to tailor its products and market strategy for India, addressing the challenges of frequent power outages and significant climate change impacts."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "LG Electronics",
+        "India",
+        "Climate Change",
+        "Power Outage",
+        "Tailored Strategy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "LG전자, 정전 잦고 기후변화 큰 인도 맞춤형 공략 이투뉴스"
+    },
+    {
+      "id": "3",
+      "title": "2026 Extreme Weather Agricultural Crisis: What Are the Countermeasures? - Korea AI Real Estate News",
+      "original_title": "2026 이상기후 농업 위기: 대책은? - 한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1LVzdqdWEtT3JFWXJmMm1qYVp6U3dBZlJrdEk5dWlIQkFENERCTV9xQ0tMdUppLU9nVFdQSmhaRThLSmt6djc5ajlhRUU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T08:52:03",
+      "description": "2026 Extreme Weather Agricultural Crisis: What Are the Countermeasures? Korea AI Real Estate News",
+      "summary": {
+        "phenomenon": "An agricultural crisis stemming from extreme weather is projected for 2026. (Specific figures and regions are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Developing effective countermeasures for the anticipated agricultural crisis due to extreme weather will be crucial."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extreme Weather",
+        "Agricultural Crisis",
+        "2026",
+        "Countermeasure",
+        "Food Security"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "2026 이상기후 농업 위기: 대책은? 한국AI부동산신문"
+    },
+    {
+      "id": "4",
+      "title": "Climate Change Emerges as Economic Threat: Heatwaves and Droughts Impact Global Supply Chains - Brand Economic Newspaper",
+      "original_title": "기후변화, 경제 위협으로 부상…폭염·가뭄이 글로벌 공급망 강타 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zZUVlaUZENlFTTkRJYTVlRUNvcGJROXVXNHRRRXVaRS0zSTFMZXZEOFJRY2pNdWs2emZpbzdUdEVUcFliMmpsSXNUVlg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T12:50:44",
+      "description": "Climate Change Emerges as Economic Threat: Heatwaves and Droughts Impact Global Supply Chains Brand Economic Newspaper",
+      "summary": {
+        "phenomenon": "Heatwaves and droughts, driven by climate change, are impacting global supply chains and emerging as a significant economic threat. (Specific figures, regions, and timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Should climate change-induced heatwaves and droughts persist, the economic threats to global supply chains are projected to continue."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Economic Threat",
+        "Heatwave",
+        "Drought",
+        "Global Supply Chain"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화, 경제 위협으로 부상…폭염·가뭄이 글로벌 공급망 강타 브랜드경제신문"
+    },
+    {
+      "id": "5",
+      "title": "[Earth Column] Miniature Transmitters Attached to 160 Butterflies to Track 'Spring Migration': Unraveling Survival Secrets Amidst Climate Change - News Space",
+      "original_title": "[지구칼럼] '봄철 이동' 추적用 초소형 송신기, 나비 160마리에 부착...기후변화 속 생존 비밀 풀린다 - 뉴스스페이스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1R0Z0UHVrVUx1QTRIUGo0RGdxUzJjYWVQOGkzVXhhWEEwNWdLMURiTUlDdFQ1dHBJenJDRWNKeHIza29SeUx4NHdvTEZxekpzMmVDZEpYRUc5dTFjaWJDSA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T08:58:42",
+      "description": "[Earth Column] Miniature Transmitters Attached to 160 Butterflies to Track 'Spring Migration': Unraveling Survival Secrets Amidst Climate Change News Space",
+      "summary": {
+        "phenomenon": "Research is currently underway to track the spring migration of 160 butterflies using miniature transmitters, aiming to understand their survival mechanisms amidst climate change. (Specific regions and timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "This research is anticipated to shed light on the survival mechanisms of butterflies in the context of climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Butterfly",
+        "Miniature Transmitter",
+        "Spring Migration",
+        "Climate Change",
+        "Survival Secret"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[지구칼럼] '봄철 이동' 추적用 초소형 송신기, 나비 160마리에 부착...기후변화 속 생존 비밀 풀린다 뉴스스페이스"
+    },
+    {
+      "id": "6",
+      "title": "[Briefing] Lotte Mart Launches 3 Types of Domestic Tropical and Subtropical Fruits, Expanding Climate Change Response Products - Fourth Journal",
+      "original_title": "[브리핑]롯데마트, 국산 열대·아열대 과일 3종 출시…기후변화 대응 상품 확대 - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QemRzRDhVb1RTS3RMMUhJNTAyV3ZUNXVrOERjblM5MjUtaEE5Z1Q5UDRDbHVsUWc3N3hjbmZBVjMwWERid29BNWgyRnFwc2NGbFpiSVFGcEdzQV9oVkJVNGVLZzk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T09:38:51",
+      "description": "[Briefing] Lotte Mart Launches 3 Types of Domestic Tropical and Subtropical Fruits, Expanding Climate Change Response Products Fourth Journal",
+      "summary": {
+        "phenomenon": "Lotte Mart has launched three varieties of domestic tropical and subtropical fruits as part of its strategy to respond to climate change. (Specific regions and timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Lotte Mart is expected to further expand its range of products in alignment with climate change adaptation efforts."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Lotte Mart",
+        "Domestic Tropical Fruit",
+        "Climate Change Response",
+        "Product Expansion",
+        "Launch"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[브리핑]롯데마트, 국산 열대·아열대 과일 3종 출시…기후변화 대응 상품 확대 포쓰저널"
+    },
+    {
+      "id": "7",
+      "title": "Incheon City Designates 15th of Every Month as ‘Climate Action Day’, Expanding Citizen Participation in Carbon Neutrality - Environmental Monitoring Daily",
+      "original_title": "인천시, 매달 15일 ‘기후실천의 날’ 운영… 시민 참여 탄소중립 확대 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CYWZxSGN4aXhVNU8xcy1iLUNLM2tkb3FldHNhSGZLSjRGa3l2cVFXblNrTmdSMnBsWnh2SENHbE1VMEFIRGVURGRCOU9zeVU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-15T10:42:33",
+      "description": "Incheon City Designates 15th of Every Month as ‘Climate Action Day’, Expanding Citizen Participation in Carbon Neutrality Environmental Monitoring Daily",
+      "summary": {
+        "phenomenon": "Incheon City has officially designated the 15th of every month as 'Climate Action Day' and is actively promoting its observance.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This initiative is anticipated to significantly increase citizen engagement in achieving carbon neutrality."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Climate Action Day",
+        "Citizen Participation",
+        "Carbon Neutrality",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 매달 15일 ‘기후실천의 날’ 운영… 시민 참여 탄소중립 확대 환경감시일보"
+    },
+    {
+      "id": "8",
+      "title": "Woongsan Community Welfare Center Initiates Carbon Neutrality Efforts with 'Kkum-i-yeonggeul Woongsan' - Yangsan News",
+      "original_title": "웅상종합사회복지관, 탄소중립 첫걸음 '꿈이영글웅상' - 양산신문",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSVJ2UEkySmtjVmt5VlFHQ0M1NldXN0ZMaFg0VThRaFVZR1pMYWppYnVmUHBjbnYxdEVNazFSVzBCZW5CRDVpZjNSSXRJMGlzdmlEUkpOSGRERWF5SHJQRWMzRTJKQnFaNFhhSWdBRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T22:25:00",
+      "description": "Woongsan Community Welfare Center Initiates Carbon Neutrality Efforts with 'Kkum-i-yeonggeul Woongsan' Yangsan News",
+      "summary": {
+        "phenomenon": "The Woongsan Community Welfare Center has commenced carbon neutrality activities under the initiative named 'Kkum-i-yeonggeul Woongsan'. (Specific timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "웅상종합사회복지관, 탄소중립 첫걸음 '꿈이영글웅상' 양산신문"
+    },
+    {
+      "id": "9",
+      "title": "Six Environmental Bills, Including Humidifier Disinfectant, Carbon Neutrality, and Water Management, Pass National Assembly - Environmental Daily",
+      "original_title": "가습기살균제·탄소중립·물관리··· 환경 분야 6개 법안 국회 통과 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8ydzRvMkNyemlYZXhCVk5XdnU0WGR4a1hmQURGSEFYTGJZU0FRbDJhWlU5VkF1NzV0X05vVUZ6UGpyOUdsTzhTZFl6UnYzMkRobVlmZTJVTnBiMVQtWmlDTzU3Q1psUWpa?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T10:35:13",
+      "description": "Six Environmental Bills, Including Humidifier Disinfectant, Carbon Neutrality, and Water Management, Pass National Assembly Environmental Daily",
+      "summary": {
+        "phenomenon": "Six legislative bills pertaining to environmental issues have been passed by the National Assembly, notably including provisions for carbon neutrality and water resource management. (Specific timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Environment",
+        "Bill",
+        "National Assembly",
+        "Carbon Neutrality",
+        "Passage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가습기살균제·탄소중립·물관리··· 환경 분야 6개 법안 국회 통과 환경일보"
+    },
+    {
+      "id": "10",
+      "title": "Cheongdo County Declares a Major Transition to Carbon Neutrality and a Green Economy - hidomin.com",
+      "original_title": "청도군, 탄소중립·녹색경제 대전환 선언 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3dUJWVnEtS1hTdWNXT0Q5bzRUNHhoQTVXSl9vQXZtNGJ2bVY4bFFacDdsQ2IxWnk1OEZTWUplUGNZNnJfelcxbzBwd2p6bFBwOXlLa2lBTno2MXJCeFUwWjc4dkZIbWUtdFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T10:29:01",
+      "description": "Cheongdo County Declares a Major Transition to Carbon Neutrality and a Green Economy hidomin.com",
+      "summary": {
+        "phenomenon": "Cheongdo County has officially declared a significant transition towards carbon neutrality and a green economy. (Specific timelines are not detailed in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongdo County",
+        "Carbon Neutrality",
+        "Green Economy",
+        "Major Transition",
+        "Declaration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청도군, 탄소중립·녹색경제 대전환 선언 hidomin.com"
+    },
+    {
+      "id": "11",
+      "title": "Representative Kang Deuk-gu's Proposed Amendment to the Carbon Neutrality Framework Act Passes Plenary Session - Gyeonggi News",
+      "original_title": "강득구 대표 발의 '탄소중립기본법 개정안' 본회의 통과 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE93WGVjSWVaWHFxTmx3RWVMTEhTOEFwdmVGeTNyLVZsOXhWcy1XQzMxLUZlMkJuMEdxa0g4aFkzNDU3c19JNFpLLVl3VFhiYWlDWmFLbkRCbHJ6MjI1eGlOTTdn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T09:54:50",
+      "description": "Representative Kang Deuk-gu's proposed amendment to the Carbon Neutrality Framework Act passes the plenary session.",
+      "summary": {
+        "phenomenon": "Representative Kang Deuk-gu's proposed amendment to the Carbon Neutrality Framework Act has passed the National Assembly's plenary session.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Kang Deuk-gu",
+        "Carbon Neutrality Framework Act",
+        "Amendment Bill",
+        "Plenary Session",
+        "Passage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "강득구 대표 발의 '탄소중립기본법 개정안' 본회의 통과 경기신문"
+    },
+    {
+      "id": "12",
+      "title": "Dalseo-gu Holds Inauguration Ceremony for Multicultural Environmental Leaders 'Chorok Ssaem,' Pledging Carbon Neutrality Practices - Shin Gyeongbuk News",
+      "original_title": "달서구, 다문화 환경리더 초록쌤 발대식 개최…탄소중립 실천 다짐 - 신경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56MDNPelBMZF9wWXRzNEVPazlOTHd0ZFNCdFlqZHlmRkFmNmp5TVlhT0tJQVlRb3B4dEZnMVZkSHZQdklTUkJKczBFSG9YMzkyQURjaFBDLWM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T13:37:18",
+      "description": "Dalseo-gu held an inauguration ceremony for multicultural environmental leaders 'Chorok Ssaem,' who pledged to practice carbon neutrality.",
+      "summary": {
+        "phenomenon": "An inauguration ceremony for multicultural environmental leaders 'Chorok Ssaem' was held in Dalseo-gu, where they pledged to practice carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Dalseo-gu",
+        "Multicultural Environmental Leaders",
+        "Chorok Ssaem",
+        "Inauguration Ceremony",
+        "Practice Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "달서구, 다문화 환경리더 초록쌤 발대식 개최…탄소중립 실천 다짐 신경북뉴스"
+    },
+    {
+      "id": "13",
+      "title": "Cheongju City Recruits Participants for Automobile Carbon Neutrality Point System - Web Economy",
+      "original_title": "청주시, 자동차 탄소중립포인트제 참여자 모집 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ckxyYUV0TEhZMUYxaDVPWHpqM3VmTllCeTBKZkczUWI0aDhiYUZEWWYyRkQyOFFOOHZISmhQdTBGbFhxaHhWUnhMcXc4YUI0eUpJYzNULVlGM05rZUswSjY3eTNWei00eHhWQ1M5eEpNdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T11:04:52",
+      "description": "Cheongju City is recruiting participants for the Automobile Carbon Neutrality Point System.",
+      "summary": {
+        "phenomenon": "Cheongju City is recruiting citizens to participate in the Automobile Carbon Neutrality Point System.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongju City",
+        "Automobile",
+        "Carbon Neutrality Point System",
+        "Participants",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시, 자동차 탄소중립포인트제 참여자 모집 웹이코노미"
+    },
+    {
+      "id": "14",
+      "title": "Incheon City Designates 15th of Every Month as 'Climate Action Day' to Spread Carbon Neutrality Practices - Web Economy",
+      "original_title": "매달 15일, 인천시 ‘기후실천의 날’로 탄소중립 실천 확산 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84U0lTOUU3NVA4SE40TDN5bFdibnFTSkxkTFl3OXYzWmNnSmNLV1RRWTZYYVA0WDhSVC1qUWVGczYzSXhralZvVkFoQWNCRnBxYkJ5T3RBcGxyVUZzNFdUX2hXTEtodEl3RElkOVJ2VmlUZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T10:36:25",
+      "description": "Incheon City designates the 15th of every month as 'Climate Action Day' to spread carbon neutrality practices.",
+      "summary": {
+        "phenomenon": "Incheon City is spreading carbon neutrality practices by designating the 15th of every month as 'Climate Action Day'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Climate Action Day",
+        "Carbon Neutrality",
+        "Practice",
+        "Spread"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "매달 15일, 인천시 ‘기후실천의 날’로 탄소중립 실천 확산 웹이코노미"
+    },
+    {
+      "id": "15",
+      "title": "Daedeok-gu Volunteer Center Launches 'Daedeok Environmental Guardians' Campaign for Carbon Neutrality Practices - Web Economy",
+      "original_title": "대덕구자원봉사센터, 탄소중립 실천 ‘대덕 환경지킴이’ 캠페인 추진 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoZnhWZUtiWW8xWUJha05EUDNxUzFtcUNxS2tZVzRnaDhydWxRN3NHUngwSXlOZFRfV2xuY1ZBaWQzSWVmVzg0WXlQd05DOS15MDdxSGdhT2ZKeWtZUmE4Sm1iWUhfUVZvVzRpLUlLcElfdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T10:29:51",
+      "description": "The Daedeok-gu Volunteer Center is promoting the 'Daedeok Environmental Guardians' campaign for carbon neutrality practices.",
+      "summary": {
+        "phenomenon": "The Daedeok-gu Volunteer Center is promoting the 'Daedeok Environmental Guardians' campaign for practicing carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daedeok-gu Volunteer Center",
+        "Carbon Neutrality",
+        "Practice",
+        "Daedeok Environmental Guardians",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대덕구자원봉사센터, 탄소중립 실천 ‘대덕 환경지킴이’ 캠페인 추진 웹이코노미"
+    },
+    {
+      "id": "16",
+      "title": "Yeongwol-gun Volunteer Center Provides Hygiene and Carbon Neutrality Education for Side Dish Cooking Volunteer Groups, Linked to 'Yonggi-UP Challenge' - Gangwon News",
+      "original_title": "영월군자원봉사센터, 반찬조리봉사단 대상 '용기-UP 챌린지' 위생·탄소중립 교육 - 강원신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VdGMwaHFoTDJMN1BsYS0xVk1tM3ZLc3A5MDdUa0hmb1kxdm5oSVg2WHVMdGdvTTkyLUpkUmFVdC12dDJoNzVoeFpZaThfNUNFd1VESUpBQ09vRzViMEJfTHpQUnRXOTEw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T15:04:33",
+      "description": "The Yeongwol-gun Volunteer Center provided hygiene and carbon neutrality education for side dish cooking volunteer groups, linked to the 'Yonggi-UP Challenge'.",
+      "summary": {
+        "phenomenon": "The Yeongwol-gun Volunteer Center conducted hygiene and carbon neutrality education for side dish cooking volunteer groups, linked to the 'Yonggi-UP Challenge'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yeongwol-gun Volunteer Center",
+        "Carbon Neutrality Education",
+        "Yonggi-UP Challenge",
+        "Side Dish Cooking Volunteer Group",
+        "Hygiene Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "영월군자원봉사센터, 반찬조리봉사단 대상 '용기-UP 챌린지' 위생·탄소중립 교육 강원신문"
+    },
+    {
+      "id": "17",
+      "title": "Chungnam Province Presents Carbon-Neutral Public Building Model at Wooden Architecture Expo - gukjenews.com",
+      "original_title": "충남도, 목조건축박람회서 탄소중립 공공건축 모델 제시 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2WUpaSHRTRkhTTjNHQTdrWEN1YjhaREtGMFVBTnltZWhXWm5PTE56Z1Q3LTJyQzV3UE0xcm5KU1Qwd01vYWYxU01Eb18xSk5LTnI2WTVPMFdRS2lNODdHbWl4Z002aVNGTk5TeEtn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T09:35:50",
+      "description": "Chungnam Province presented a carbon-neutral public building model at the Wooden Architecture Expo.",
+      "summary": {
+        "phenomenon": "Chungnam Province presented a carbon-neutral public building model at the Wooden Architecture Expo.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chungnam Province",
+        "Wooden Architecture Expo",
+        "Carbon Neutrality",
+        "Public Architecture",
+        "Model Presentation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도, 목조건축박람회서 탄소중립 공공건축 모델 제시 gukjenews.com"
+    },
+    {
+      "id": "18",
+      "title": "Incheon City Accelerates Full-Scale Expansion of Citizen-Participatory Carbon Neutrality Practices - Newstown",
+      "original_title": "인천시, 시민 참여형 탄소중립 실천 확산 본격화 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80cUNabWVzejJ3RjBZOEx3NXp4aUNYTmhmVVdndWZ3cG5ZWDFiN3RDRVFYSzQ5bjJVZFdJS2ZGLXNSc0RHTXVNZkJKakJDX3BLTEVWcFlHTDRXVjFwaUxBS0ZzYTAzbkNDbHpramN3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T14:17:24",
+      "description": "Incheon City is accelerating the full-scale expansion of citizen-participatory carbon neutrality practices.",
+      "summary": {
+        "phenomenon": "Incheon City is accelerating the full-scale expansion of citizen-participatory carbon neutrality practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Citizen-Participatory",
+        "Carbon Neutrality",
+        "Practice",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 시민 참여형 탄소중립 실천 확산 본격화 뉴스타운"
+    },
+    {
+      "id": "19",
+      "title": "Incheon City Operates 'Climate Action Day' on the 15th of Every Month, Expanding Citizen-Participatory Carbon Neutrality - knpp.co.kr",
+      "original_title": "인천시, 매달 15일 ‘기후실천의 날’ 운영… 시민 참여 탄소중립 확대 - knpp.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBvSC1UWnV3WVVSSGZRN21ZTmRHS0YzVXVrYzJHY0RVSklRSUhjblZPV2pZSmFDQ09DWlFwSzE2S0x2XzQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-15T10:42:33",
+      "description": "Incheon City operates 'Climate Action Day' on the 15th of every month, expanding citizen-participatory carbon neutrality.",
+      "summary": {
+        "phenomenon": "Incheon City is operating the 15th of every month as 'Climate Action Day,' expanding carbon neutrality through citizen participation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon City",
+        "Climate Action Day",
+        "Carbon Neutrality",
+        "Citizen Participation",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천시, 매달 15일 ‘기후실천의 날’ 운영… 시민 참여 탄소중립 확대 knpp.co.kr"
+    },
+    {
+      "id": "20",
+      "title": "Andong City Fully Embarks on Creating 'Energy Welfare City' Utilizing Renewable Energy - Straight News",
+      "original_title": "안동시, 재생에너지 활용 ‘에너지 복지 도시’ 본격 조성 - 스트레이트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kNkI2dDNvU2lpM0pGOVEyN1YtNzZOSm4wemx0a0pOWXBzWW1fZWs5WXA4OWhaUkhlRm01U0JkNnJyaGdUc2VFdHVCNUZ2ZWlVRkRXVVdrWjIyZGJTNXlIdnFaZVdfeWNxd2Q0c0RabUJYODDSAXdBVV95cUxOY0duNTBWZUxJRXpIanZqZXNmVnNLLUdYTDNqVFN0cDJxTjdfU3hyX3o4SUlHbmxXdy1fN3hPS1RnMGkyakhxSzZTQ0pqVTNuVXlRWVdYMDNUM21zSDdlSzdjcmxfTUtDbXBybjVMUjZsUk9OUUJoOA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T22:43:26",
+      "description": "Andong City is fully embarking on creating an 'Energy Welfare City' utilizing renewable energy.",
+      "summary": {
+        "phenomenon": "Andong City is fully embarking on the creation of an 'Energy Welfare City' utilizing renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Andong City",
+        "Renewable Energy",
+        "Energy Welfare",
+        "City Creation",
+        "Acceleration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안동시, 재생에너지 활용 ‘에너지 복지 도시’ 본격 조성 스트레이트뉴스"
+    },
+    {
+      "id": "21",
+      "title": "Incheon Namdong Industrial Complex Seeks Companies to Participate in 'Eco-Friendly Renewable Energy' Project - Giho Ilbo",
+      "original_title": "인천 남동산단 ‘친환경 재생 에너지’ 참여 기업을 모십니다 - 기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xU0Z6OVRrVzVWLU9hdFBOVGlJS2lQUjZuMlVab0RrZENuMDRBZ2pzaTllRHdrNmRTd0VoWkZjS0lubms4eGpuOFZVZjgtbmI5SUxRdEk5SFlpTVAwbnQ2eGNaTlRzX3d4WjVVc2JiVQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T14:04:39",
+      "description": "Incheon Namdong Industrial Complex is recruiting companies to participate in its 'Eco-Friendly Renewable Energy' project. - Giho Ilbo",
+      "summary": {
+        "phenomenon": "The Incheon Namdong Industrial Complex is currently recruiting companies to participate in its eco-friendly renewable energy project.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon Namdong Industrial Complex",
+        "Eco-friendly renewable energy",
+        "Participating companies",
+        "Renewable energy",
+        "Recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천 남동산단 ‘친환경 재생 에너지’ 참여 기업을 모십니다 기호일보"
+    },
+    {
+      "id": "22",
+      "title": "[Environment Talk] Renewable Energy Intermittency: ESS Expansion Alone Is Insufficient - Environment Daily",
+      "original_title": "[환경톡톡] 재생에너지 간헐성, ESS 증설만으로는 부족 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KOTRWQXB2NzBxQWxUV0ExRlUxa0xGbDFsV3YtdEo4STNsUU8tMmRwM051VzkwSlJVUVFiSFFkd19GVnppM0JhU3gzZmVUUnhFM0gxSlpuWDBxNzA0Ylg1SjJVa3NDemtB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T16:04:04",
+      "description": "[Environment Talk] Renewable energy intermittency cannot be adequately addressed by ESS expansion alone. - Environment Daily",
+      "summary": {
+        "phenomenon": "The intermittency of renewable energy sources is a challenge that cannot be fully resolved by merely expanding Energy Storage Systems (ESS). - Environment Daily",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable energy",
+        "Intermittency",
+        "ESS (Energy Storage System)",
+        "Expansion",
+        "Insufficient"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[환경톡톡] 재생에너지 간헐성, ESS 증설만으로는 부족 환경일보"
+    },
+    {
+      "id": "23",
+      "title": "China Unaffected by 'Oil Price Shock'... 'Electric Vehicle and Renewable Energy Investments Bear Fruit' - Dong-A Ilbo",
+      "original_title": "‘유가 쇼크’ 없는 中… “전기차-재생에너지 투자 결실” - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zWnpQMmRxUUxqNVpPT1JtWWU4OWlpdGZpLU1ERGxnR2hTa05DbHJNbkhXbVhDTmpTYVdSYW42eGVCVWJEXzNqN0VaekY3VmtJdnlFQjRzLURTMkJhU0ZuY1V6RGt1c1pGVEFUZTZSTEl1aWvSAWZBVV95cUxPV0VjaFlnNjVaM1BVaFFzenhWS19WaElHMFh4RHIyNUtsRG9LMTNvUzh0dkE5Y1gwdHVBWVZEbUxXZWFPVms4a2x6bEFzSEF6N3liUFI2SHh2WFdSaGN1VmFYQXZHcHc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T19:30:00",
+      "description": "China remains unaffected by 'oil price shocks,' attributing this to the successful outcomes of its investments in electric vehicles and renewable energy. - Dong-A Ilbo",
+      "summary": {
+        "phenomenon": "China is reportedly immune to 'oil price shocks,' a situation attributed to the successful results of its investments in electric vehicles and renewable energy. - Dong-A Ilbo",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Oil price shock",
+        "China",
+        "Electric vehicles",
+        "Renewable energy",
+        "Investment outcomes"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘유가 쇼크’ 없는 中… “전기차-재생에너지 투자 결실” 동아일보"
+    },
+    {
+      "id": "24",
+      "title": "'Incheon IC1' Designated as Renewable Energy Offshore Wind Power Cluster - Gyeongin Ilbo",
+      "original_title": "‘인천 IC1’ 재생에너지 해상풍력 집적화단지 지정 - 경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5weFFQdUJ5cWFNbzNPeGhMV0NlcktiYnZKVFVCX000N2JSUXB0cnplUXhrdTZld25FeFIwNzRHMXRONGxOTHEtQ3RWSXJHRC1xSHc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T10:56:43",
+      "description": "'Incheon IC1' has been designated as a renewable energy offshore wind power cluster. - Gyeongin Ilbo",
+      "summary": {
+        "phenomenon": "The 'Incheon IC1' area has been designated as a renewable energy offshore wind power cluster. - Gyeongin Ilbo",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon IC1",
+        "Renewable energy",
+        "Offshore wind power",
+        "Cluster complex",
+        "Designation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘인천 IC1’ 재생에너지 해상풍력 집적화단지 지정 경인일보"
+    },
+    {
+      "id": "25",
+      "title": "Renewable Energy Cluster... Conditional Designation for 7 Offshore Wind Power Projects - Energy Times",
+      "original_title": "재생E 집적화단지…7개 해상풍력 사업 조건부 지정 - 에너지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXV3E4dmFoTzJDMV9lZkFzOWlUODdDRHh1emdHZEtaay1jRHBKdXd5SmhWbzZiRUd6d2lCMFUyQ09FMFNTa2F5TkplVUh0c3VtMi1IZWVUUnBkZUpqQVYwbnM2dVR5YUVDenFUXw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T14:12:00",
+      "description": "Seven offshore wind power projects within the renewable energy cluster have received conditional designation. - Energy Times",
+      "summary": {
+        "phenomenon": "Seven offshore wind power projects within the renewable energy cluster have been conditionally designated. - Energy Times",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable energy",
+        "Cluster complex",
+        "Offshore wind power",
+        "Project",
+        "Conditional designation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생E 집적화단지…7개 해상풍력 사업 조건부 지정 에너지타임즈"
+    },
+    {
+      "id": "26",
+      "title": "[Korea Broadcasting News] 7 Offshore Wind Power Clusters Conditionally Designated, Annual Implementation Review Including Military Consultation - Korea Broadcasting News",
+      "original_title": "[한국방송뉴스(주)] 해상풍력 집적화단지 7곳 조건부 지정, 군(軍) 협의 등 연내 이행 점검 - 한국방송뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JT3prVkVya1NmVW43OGFvdEJ6ckdDMklVc05LQk42a19HdEtCYmRqVG1PVEh5T1lRVnlLNlAzZ0VNUVAzZ3NueVhpNjlESDFISk1WZ1JRdTlMSFNqalNncg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T20:44:24",
+      "description": "Seven offshore wind power clusters have been conditionally designated, with an annual implementation review, including military consultation, scheduled. - Korea Broadcasting News",
+      "summary": {
+        "phenomenon": "Seven offshore wind power clusters have received conditional designation, with an annual review of implementation, including military consultation, planned. - Korea Broadcasting News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Offshore wind power",
+        "Cluster complex",
+        "Conditional designation",
+        "Military consultation",
+        "Implementation review"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[한국방송뉴스(주)] 해상풍력 집적화단지 7곳 조건부 지정, 군(軍) 협의 등 연내 이행 점검 한국방송뉴스"
+    },
+    {
+      "id": "27",
+      "title": "Ministry of Climate Conditionally Designates 7 Offshore Wind Power Clusters, Including Incheon and Jeonnam - Busan Ilbo",
+      "original_title": "기후부, 인천·전남 등 해상풍력 집적화단지 7곳 조건부 지정 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QaTR0LWQ4M2dIMWdOckswWmdGcVlubWlETF9CSWk3TkVTUEFXYlpFQXRxdDEycnJYVVlQWkF6YUNqYW9kZzk2TVJXRlBOUVVNUlBuUjJPNU5VMGdycUZYa0ZDVEF0MGVCYnBvbnNCQXJ1U0Rn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T10:53:57",
+      "description": "The Ministry of Climate has conditionally designated seven offshore wind power clusters, including those in Incheon and Jeonnam. - Busan Ilbo",
+      "summary": {
+        "phenomenon": "The Ministry of Climate has conditionally designated seven offshore wind power clusters, located in areas such as Incheon and Jeonnam. - Busan Ilbo",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Climate",
+        "Offshore wind power",
+        "Cluster complex",
+        "Conditional designation",
+        "Incheon and Jeonnam"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후부, 인천·전남 등 해상풍력 집적화단지 7곳 조건부 지정 부산일보"
+    },
+    {
+      "id": "28",
+      "title": "KEPCO KPS Establishes Offshore Wind Power O&M Hub in Jeonnam - Energy Times",
+      "original_title": "한전KPS, 전남 해상풍력발전 O&M 거점 구축 - 에너지타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81Z2h3V2ppenJEdVVhT2NEeWZIU1Jfc2tlUTA3OXBUME5LdzFoU2RWa0c5c2JMNnQwNWU5cDBPMHRGRnczbDNFZkhNcXJHYklKRzlhRVRIRTBFNlE1cGgxYjRFWUQwRlYxQVhXNw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T13:21:00",
+      "description": "KEPCO KPS is establishing an O&M (Operation and Maintenance) hub for offshore wind power generation in Jeonnam. - Energy Times",
+      "summary": {
+        "phenomenon": "KEPCO KPS is establishing an Operation and Maintenance (O&M) hub for offshore wind power generation in Jeonnam Province. - Energy Times",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KEPCO KPS",
+        "Jeonnam",
+        "Offshore wind power",
+        "O&M (Operation and Maintenance)",
+        "Hub establishment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한전KPS, 전남 해상풍력발전 O&M 거점 구축 에너지타임즈"
+    },
+    {
+      "id": "29",
+      "title": "5 Foreign Economic Organizations in Vietnam, Including from Korea, UK, and Japan, Urge Payment for Renewable Energy Power Projects - Financial News",
+      "original_title": "韓·英·日 등 베트남 내 해외 5개 경제단체, 재생에너지 전력 프로젝트 대금 지급 촉구 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MejF5YXc3R3pwRDhSS2RQSncwUHlIYjB5dUN3UTNNbWU4M2UteklCS3ZWWFFTMWlwWWNmd3dFM2Q0TjI3N3RLbVoxUWdCTzdKYjYyZ2xKWXFEd9IBXkFVX3lxTFBGeVZfWFJKdDNwNXY1VVRiUjNIeGduYklfZURwWG9kdHdBSUV6Rk9KU1FTOEdnUlc5SWQtYThpbG53Y0F5X3hBc293eWtYZElKcTVKb2ZUXzQ2R21meFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-15T09:10:09",
+      "description": "Five foreign economic organizations in Vietnam, including those from Korea, the UK, and Japan, are urging payment for renewable energy power projects. - Financial News",
+      "summary": {
+        "phenomenon": "Five foreign economic organizations in Vietnam, including those from Korea, the UK, and Japan, are calling for the payment of outstanding dues for renewable energy power projects. - Financial News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Vietnam",
+        "Renewable energy",
+        "Power project",
+        "Payment",
+        "Economic organization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "韓·英·日 등 베트남 내 해외 5개 경제단체, 재생에너지 전력 프로젝트 대금 지급 촉구 파이낸셜뉴스"
+    },
+    {
+      "id": "30",
+      "title": "Navigating Stop-and-Go Traffic on Highways with 'Skillful' Autonomy... Realizing the Progress of Autonomous Driving Technology",
+      "original_title": "고속도 정체 구간 가다 서다 ‘능수능란’…자율주행 기술의 진보 실감",
+      "url": "https://www.khan.co.kr/article/202603152058005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-03-15T11:58:00",
+      "description": "The New Defender 110's 'Adaptive Cruise Control' feature showcases the advanced capabilities of autonomous driving. At 'InterBattery 2026,' Korea's largest battery industry exhibition, a senior research fellow from iM Securities cautiously projected fully autonomous driving to arrive around 2029. While electric vehicles were once seen as the natural alternative to internal combustion engines...",
+      "summary": {
+        "phenomenon": "The 'Adaptive Cruise Control' feature of the New Defender 110 exemplifies the progress towards fully autonomous driving, where vehicles operate independently. At 'InterBattery 2026,' Korea's largest battery industry exhibition held on the 12th in COEX, Gangnam-gu, Seoul, Jung Won-seok, a senior research fellow at iM Securities, cautiously predicted the advent of this technology around 2029.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Autonomous driving",
+        "Adaptive Cruise Control",
+        "Electric vehicles",
+        "InterBattery",
+        "Technological advancement"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "뉴 디펜더 110‘어댑티브 크루즈 컨트롤’ 기능운전자 없이도 자동차가 알아서 움직이는 완전 자율주행은 정해진 미래다. 지난 12일 서울 강남구 코엑스에서 열린 국내 최대 배터리 산업 전시회 ‘인터배터리 2026’에서 정원석 iM증권 수석연구위원은 그 시기를 2029년쯤이라고 조심스레 점치기도 했다.하지만 내연기관차의 대안으로 당연하게 받아들여지던 전기차가 ···"
+    },
+    {
+      "id": "31",
+      "title": "기후 변화가 북극 지정학을 어떻게 재편하고 있는가 – 분석 - 유라시아 리뷰",
+      "original_title": "How Climate Change Is Reshaping Arctic Geopolitics – Analysis - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjM0ekRJVnRCZWU5TklOdFFkREVqQWEwTUdwdllqNXdxN3JLZ3ZfN1pKVU1sUnB4bnlBa2VjWXd2dFhHa3NBdmd1QWZtVk11bkx6SmY4eTZnelVqTWhyM21aQVhpa3o4NHk1R2dnTVZWcV9jRDVia3NqQU1TNnVlTHBQRm1EMzJyMERIblVyZlRjVmI2eXB1Y0dGYTQxVGI4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T22:51:03",
+      "description": "How Climate Change Is Reshaping Arctic Geopolitics – Analysis Eurasia Review",
+      "summary": {
+        "phenomenon": "Climate change is reshaping the geopolitics of the Arctic. (Specific figures, regions, or timelines are not mentioned in the article.)",
+        "cause": "Climate change has been identified as the cause for the reshaping of Arctic geopolitics. (Scientific causes or background are not mentioned in the article.)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Arctic",
+        "Geopolitics",
+        "Reshaping",
+        "Analysis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How Climate Change Is Reshaping Arctic Geopolitics – Analysis Eurasia Review"
+    },
+    {
+      "id": "32",
+      "title": "같은 하늘 아래, 기후 변화가 소말리아에 가뭄, 케냐에 홍수 초래",
+      "original_title": "Under the same sky, climate change brings drought to Somalia and floods to Kenya - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzJUbldXLXFDR1QzV21uZEYwOHBwbU4tTHdlQVY5NzRCWTlyZDVBT1lpM2lKMHRHaW5fX19raFdKTlM4MV9rbnJtUUcyd3ZlaUVKektXUHpxVm5qUXBBZGRUVWI5WFVyejdlREpXNzRpeTJOY3FRdjdzRnJrbklnRTJwVHFNUDRLby1YWmdqTWMwMk1iUE5xeTRNSk16WWNLclMzNnlzUWZWWnlYVThqWkpuell5TFVH?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T13:28:27",
+      "description": "Under the same sky, climate change brings drought to Somalia and floods to Kenya RFI",
+      "summary": {
+        "phenomenon": "Climate change has led to drought in Somalia and floods in Kenya. (Specific figures or timelines are not mentioned in the article.)",
+        "cause": "Climate change has been identified as the cause of drought in Somalia and floods in Kenya. (Scientific causes or background are not mentioned in the article.)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Drought",
+        "Flood",
+        "Somalia",
+        "Kenya"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Under the same sky, climate change brings drought to Somalia and floods to Kenya RFI"
+    },
+    {
+      "id": "33",
+      "title": "올해 오스카 후보작 영화의 거의 3분의 1이 기후 변화를 언급했다",
+      "original_title": "Close to a third of Oscar-nominated movies this year referenced climate change - Sustainability Online",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXZ1OFhfd0FmQWQ1RmVSSklKTHZnVlB1UExlLTBQOFg4N2JhbFNDZ281bk1ZbGpJYS1aLVBSVUpyaWZsejctTWFxYjdlUUplQmczSTJQLWljR0JPQVF4WklyekZMLVN0SmU5RnNDTkJqZDBVb1ROSDN1a3RUMmxDdlBLZEotWDZ1MGtJSW0xY18td29hS0RhUlphendROFBxNU5wdXpGZkNDbzN2TUExNFcwZktRLUpI?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T11:47:12",
+      "description": "Close to a third of Oscar-nominated movies this year referenced climate change Sustainability Online",
+      "summary": {
+        "phenomenon": "Nearly a third of this year's Oscar-nominated films referenced climate change. (Specific regions are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Oscar",
+        "Climate Change",
+        "Film",
+        "Reference",
+        "Sustainability"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Close to a third of Oscar-nominated movies this year referenced climate change Sustainability Online"
+    },
+    {
+      "id": "34",
+      "title": "칼라마주 콘서트, 지역 기후변화 활동 지원",
+      "original_title": "Kalamazoo concert to benefit local climate change activism - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0UxYUF3bEUzZU5CR3hBV1VfTFFlM19GRVdUbXFIMWZQUUFvc3RWeEVFclI4WjZ0N0M0b1FmS2dvTXZiQUhMYU15bHFTZG53amd1UU1nUnBpY3FzOXctbzhNWERLWXNMMFhHWVQxa0cwVVBQcktFS3d5MG9DektrS3ZXT1VZdG1DXzRz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T15:00:00",
+      "description": "Kalamazoo concert to benefit local climate change activism AOL.com",
+      "summary": {
+        "phenomenon": "A concert was held in Kalamazoo to support local climate change activism. (Specific figures or timelines are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Kalamazoo",
+        "Concert",
+        "Climate Change",
+        "Activism",
+        "Support"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Kalamazoo concert to benefit local climate change activism AOL.com"
+    },
+    {
+      "id": "35",
+      "title": "모니크 키어런: 기후 변화가 당신의 주머니 사정을 노린다",
+      "original_title": "Monique Keiran: Climate change is coming for your pocketbook - Times Colonist",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOUN2aDVhajB6Y1VrV0ZGUlVITkRwa2RhYzlibFhXWHpMWEJFQ1llTjkzUTBEQnRXWl9jNGJIWEdINmVSR3FUaGlORzRWTVpXQUVGU3ZpS0JVcml6al9DUzZRVlpxU0JvWjZFTjVqTko5LVNhNXk5ci1aSnBJa1ltOUNtMXhwV05PM0k1UDYxWG1IY1lfSnNFRXBVTVJvNzFCTjYwQ0NUMnBxQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T12:45:00",
+      "description": "Monique Keiran: Climate change is coming for your pocketbook Times Colonist",
+      "summary": {
+        "phenomenon": "Climate change is impacting people's finances (pocketbooks). (Specific figures, regions, or timelines are not mentioned in the article.)",
+        "cause": "Climate change has been identified as the cause of these financial impacts. (Scientific causes or background are not mentioned in the article.)",
+        "outlook": "Climate change is projected to continue impacting people's finances in the future. (Specific impacts or projections are not mentioned in the article.)"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Economy",
+        "Finance",
+        "Cost",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Monique Keiran: Climate change is coming for your pocketbook Times Colonist"
+    },
+    {
+      "id": "36",
+      "title": "Educator for climate change - Winnipeg Free Press",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MVTBwV0VzNkpGcDE2bm1UazNaREdwOGVMcnZ1M0hBSUpmYWZYdzlwY3BhVEpySjZLeS1tNHFpYzFsMVltSXZzcDFhTmswNi1ZQ2FhSkRFQXpmT3VhLWYwNHpKWkJNV1RVQmNweGpUUklOQWYtRjdnV0tJOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T16:31:18",
+      "description": "Educator for climate change Winnipeg Free Press",
+      "summary": {
+        "phenomenon": "There is an educator focused on climate change. (Specific figures, regions, or timelines are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Educator for climate change Winnipeg Free Press"
+    },
+    {
+      "id": "37",
+      "title": "Scientists pump 65,000 litres of chemicals into the ocean to stop global warming - MSN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSnFhSW9yczEwT2sxRW5zY3lCNFRLYkJtSkdyVlhJQlNORlNMRFA3RFRLOGJqTDM1VHZiMWtXWFdCM2lJWUkyRm9xN0NlMGtSUTI5ZFlkUlpZc04tQ3ROMmV2Sk1TRkpDa3Q0M0F6TzVmYXBtNS1Md1MwZkF0S3hpbzZRWkNKSWxfdEljSFZkdTNTaDZyX1RtSVc4NGZyMVkyTksydlF6MzluSmczZlNXOXhDaXA3YUIzOXVEVzhma2tvTVZvVTBuOTVDekVicGtCUGpUbFBWaUtibHQ5WG1vQWtodF9qUzJKTjVUNy13ZFBjQjZpczhIQk8wNjFzZkIyemotTmpWb3VHdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-15T16:50:44",
+      "description": "Scientists pump 65,000 litres of chemicals into the ocean to stop global warming MSN",
+      "summary": {
+        "phenomenon": "Scientists injected 65,000 liters of chemicals into the ocean to mitigate global warming. (Specific timelines are not mentioned in the article.)",
+        "cause": "Chemicals were injected into the ocean as an attempt to mitigate global warming. (The scientific causes or background of global warming are not mentioned in the article.)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scientists pump 65,000 litres of chemicals into the ocean to stop global warming MSN"
+    }
+  ],
+  "summary": {
+    "total_count": 37,
+    "domestic_count": 30,
+    "international_count": 7,
+    "top_keywords": [
+      "Carbon Neutrality",
+      "Renewable Energy",
+      "Climate Change",
+      "Offshore Wind",
+      "Incheon"
+    ],
+    "sentiment_breakdown": {
+      "positive": 25,
+      "negative": 7,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "기후변화",
+      "해상풍력",
+      "인천시"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
