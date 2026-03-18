@@ -1,0 +1,1731 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-03-18T23:19:25.101658",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 3월 18일 기후 브리핑을 시작하겠습니다. 오늘은 국내외에서 기후 변화에 대한 정책적 대응, 기술 개발, 그리고 심화되는 위기 상황에 대한 다양한 소식들이 보고되었습니다.",
+    "sections": [
+      {
+        "title": "🇰🇷 국내 기후변화 대응 및 탄소중립 교육 확산",
+        "content": "국내에서는 기후변화 대응을 위한 정책적 논의와 교육 확산 노력이 활발합니다. aT 홍문표 사장이 대한민국 헌정회에서 기후변화 대응 특강을 통해 식량 안보의 중요성을 강조했으며 [1, 3, 4], 수도권기상청과 수원시가 기후변화 과학 교육 활성화를 위한 업무협약을 체결했습니다 [5]. 충남기후환경교육원이 개원하여 '2045 탄소중립' 달성을 위한 환경교육 거점 역할을 시작했고 [7, 16, 19, 20, 25, 30], 한국환경공단은 탄소중립 실무 인재 양성을 확대하며 충남도는 '2045 충남 탄소중립' 지휘본부를 가동하는 등 정책적 기반도 강화하고 있습니다 [31, 32]. 또한, 거제시의 '찾아가는 탄소중립 홍보부스' 운영과 광주시의 '탄소중립 시민추진단 그린 리더' 발대식 등 시민 참여를 독려하는 다양한 캠페인이 진행 중입니다 [13, 18, 21, 26, 27, 29, 33, 36].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 기후 적응 기술 개발 및 재생에너지 전환 가속화",
+        "content": "기후 변화 적응을 위한 기술 개발과 재생에너지 전환 노력도 가속화되고 있습니다. 농어촌공사는 기후변화 예측을 위한 '농업 기반 설계시스템'인 'K-HAS CS 2.0'을 공개하고 수리·수문 설계시스템을 고도화하여 미래 홍수 분석 기능을 추가하는 등 농업 인프라의 기후 적응력을 높이고 있습니다 [2, 6, 10]. 안성시의 고품질 벼 재배기술 교육과 청도군의 돌발해충 예찰·방제단 가동은 농업 분야의 구체적인 대응 사례이며 [8, 9], 롯데마트는 '기체 제어' 사과를 출하하여 이상기후 속 수급 안정을 위해 노력하고 있습니다 [11]. 에너지 전환 측면에서는 '산업 그린전환 촉진법' 제정으로 성장형 탄소중립 전환의 신호탄이 올랐고 [14], 시흥시는 국비 확보를 통해 재생에너지 보급을 확대하고 산업단지 RE100 확산을 적극 지원하는 등 재생에너지 전환에 박차를 가하고 있습니다 [37, 39, 40]. 특히 한국은 태양전지 효율 26.3%라는 세계 최고 기록을 달성하여 재생에너지 기술 초격차를 선도할 잠재력을 보여주었습니다 [42].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ 전 세계적 기후 위기 심화 및 영향",
+        "content": "전 세계적으로 기후 변화의 경제적, 생태학적 영향에 대한 경고가 이어지고 있습니다. 미네소타주에서는 기후 변화에 적응하지 않을 경우 주민들이 매년 수십억 달러를 지불할 수 있다는 보고서가 발표되었고, 기후 변화로 인해 보험료가 인상되고 있다는 분석도 나왔습니다 [46, 52]. 남극 펭귄들이 기후 변화에 급진적인 대응을 보이고 유럽 식물군이 불균등하게 반응하는 현상은 생태계의 취약성을 보여줍니다 [53, 67]. 플로리다 농민들은 극한 기후로 인한 위험 증가에 직면했으며 [55], 영국에서는 '과소평가되고 과소보고된' 산불 위험이 기후 변화로 인한 혼란 속에서 중요성이 부각되고 있습니다 [69]. 또한, '신선한 공기가 사치'라는 패널 토론과 CBS 기상학자가 폭염 원인 설명에서 기후 변화를 언급하지 않은 사례는 기후 위기 인식의 중요성을 다시금 일깨웁니다 [60, 65]. 국내 오뚜기의 스코프3 배출량 90% 소식은 기업의 감축 목표 달성 시급성을 강조합니다 [41].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제 사회의 기후변화 인식과 적응 노력",
+        "content": "국제 사회는 기후 변화의 광범위한 영향에 주목하며 다양한 대응 방안을 모색하고 있습니다. 오비디우스의 2,000년 된 시에서 기후 변화의 교훈을 찾거나 고대 얼음 코어 연구를 통해 과거 기후 변화의 원인을 밝히는 등 다각적인 접근이 이루어지고 있습니다 [44, 47]. 기후 변화가 세계 정치 지도를 다시 그리고 있으며 [48], 분쟁이 기후 변화를 가속화하는 숨겨진 비용으로 작용한다는 분석은 지정학적 관점에서 기후 위기를 이해하는 중요성을 보여줍니다 [68]. 유럽의 식량 시스템이 기후 변화와 분쟁에 어떻게 대처하는지에 대한 연구와 영상이 공개되었고 [45, 61, 62], 아프리카 카사바 작물이 기후 변화에 중대한 위험에 처할 수 있다는 연구 결과도 나왔습니다 [50]. 메릴랜드 주가 기후변화 비용에 대한 대규모 연구를 착수하고 [63], 엘살바도르에서 기후 위기 보험 도입 가능성이 논의되는 등 구체적인 정책 및 금융적 접근도 활발합니다 [66].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘 브리핑에서는 국내외에서 진행되는 기후 변화 대응 노력과 함께, 전 세계적으로 심화되는 기후 위기의 다양한 측면들을 살펴보았습니다. 지속적인 관심과 협력을 통해 기후 회복 탄력성을 높이는 데 전력을 다해야 할 것입니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "aT 홍문표 사장, 대한민국 헌정회 초청, 기후변화대응 aT정책 특강 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rMXpzaGRjTXJRTklOUjY3MUFFYTJPY0kxaTJ6NmVxZVlyU2xPVHRjN2R0M0diR0ZkUzhjNDVuN1RUWHYtc29QSnZOMk5MVzdaU3hFOXpJWFhWLWlYcnh4cHFSSk5zaHpmVEN2MVB3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T08:45:14",
+      "description": "aT 홍문표 사장, 대한민국 헌정회 초청, 기후변화대응 aT정책 특강 gukjenews.com",
+      "summary": {
+        "phenomenon": "aT 홍문표 사장이 대한민국 헌정회에 초청되어 기후변화 대응을 위한 aT 정책 특강을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "aT",
+        "홍문표 사장",
+        "대한민국 헌정회",
+        "기후변화대응",
+        "특강"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "농어촌공사, 기후변화 예측 ‘농업 기반 설계시스템’ 공개 - 천지일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0LWNQbDQ0TGF3SHE2ZWxrSmEtdWdnQmxzM05yQnB4SW5yX2RwSWVZQ2FGcjFCTlJHSEZFNm9qaW4weTZfZ0pSY2xSaXpnZWphZW91WFpMQlJVWklucVU3dHhnX2FQdllUNmc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T14:37:15",
+      "description": "농어촌공사, 기후변화 예측 ‘농업 기반 설계시스템’ 공개 천지일보",
+      "summary": {
+        "phenomenon": "농어촌공사가 기후변화 예측을 위한 '농업 기반 설계시스템'을 공개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "농어촌공사",
+        "기후변화",
+        "예측",
+        "농업",
+        "설계시스템"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "[포토뉴스]홍문표 aT 사장, ‘대한민국 헌정회 초청, 기후변화대응 aT정책 특강’ 진행 - BBS불교방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPYUpEcjktc3gyVWpIT2NPbEpFYmhzM3pINGY5ZVV6ME1XVC1zM2Jfa0hUc3YycXNRdS1wTEV6V0JpNGNINmt2cnVXbzBFamVnc05XQUZCTktneVBncTlWT1dUdC0tbHE4RDVn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T11:14:18",
+      "description": "[포토뉴스]홍문표 aT 사장, ‘대한민국 헌정회 초청, 기후변화대응 aT정책 특강’ 진행 BBS불교방송",
+      "summary": {
+        "phenomenon": "홍문표 aT 사장이 대한민국 헌정회 초청으로 기후변화 대응 aT 정책 특강을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "홍문표",
+        "aT 사장",
+        "대한민국 헌정회",
+        "기후변화대응",
+        "aT정책 특강"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "[포토] 홍문표 aT 사장 헌정회서 기후변화 대응 특강 “식품 수출, 곧 식량영토 확장” - 푸드투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5OUnBpYTNvYjdic3djWVBKOWhCamxjYkxQU1NpaFVublB6SWZNc3BMNFd6SkFNc3FEWUJDM0ctTVdaLTFVSWpPaDFoOU9LcllQWnd3RllfS0NEZUdManQzbi1aaEpfUQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T09:07:06",
+      "description": "[포토] 홍문표 aT 사장 헌정회서 기후변화 대응 특강 “식품 수출, 곧 식량영토 확장” 푸드투데이",
+      "summary": {
+        "phenomenon": "홍문표 aT 사장이 헌정회에서 기후변화 대응 특강을 진행하며 \"식품 수출은 곧 식량영토 확장\"이라고 언급했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "수도권기상청(기후서비스과)-수원시 기후변화체험교육관, 지역사회 기후변화과학 교육 활성화를 위한 업무협약 체결 - 경기인터넷신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lQkh5U1NhbGZQZG5GYTJCZXdJTnA4MjdRTzBocHh3SDBvRDdoajQyeWtWM1lvd2ZFMGhHOXpqaEJVM0pkc293?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T08:16:00",
+      "description": "수도권기상청(기후서비스과)-수원시 기후변화체험교육관, 지역사회 기후변화과학 교육 활성화를 위한 업무협약 체결 경기인터넷신문",
+      "summary": {
+        "phenomenon": "수도권기상청(기후서비스과)과 수원시 기후변화체험교육관이 지역사회 기후변화 과학 교육 활성화를 위한 업무협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "수도권기상청",
+        "수원시",
+        "기후변화",
+        "과학 교육",
+        "업무협약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "농어촌공사, 기후변화 설계 시스템 ‘K-HAS CS 2.0’ 개발 - 로이슈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41Tm9EQjVjekswYlBTZDZfUzVMTU5KMjQyYXpPMWZTOVYyTEptQ3ZmSjVxT2tOVGVtenVhSEF5U1I1akZoNFpFRFdJZHJ4NERsVVF1WDdkQnJmb19sMXM5dk9Hb3RFY2JOSk9xcnJQaUZQaG11TnNNUUZ3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T08:54:35",
+      "description": "농어촌공사, 기후변화 설계 시스템 ‘K-HAS CS 2.0’ 개발 로이슈",
+      "summary": {
+        "phenomenon": "농어촌공사가 기후변화 설계 시스템인 'K-HAS CS 2.0'을 개발했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "농어촌공사",
+        "기후변화",
+        "설계 시스템",
+        "K-HAS CS 2.0",
+        "개발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "탄소중립 환경교육 거점 ‘충남기후환경교육원’ 개원 - 한국방송뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91THNyZk1QU2dwSXhYOGZZRWY1eHNySlVJUUh4TmI3UFBRMy1YdkZmMUZyamRQRlNkWllaOTEwNnd1bnloNVZHcWpkY0pJU0VFbHZpdUc2WjlUVFVpcFE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T08:19:44",
+      "description": "탄소중립 환경교육 거점 ‘충남기후환경교육원’ 개원 한국방송뉴스",
+      "summary": {
+        "phenomenon": "탄소중립 환경교육의 거점 역할을 할 '충남기후환경교육원'이 개원했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "환경교육",
+        "충남기후환경교육원",
+        "개원",
+        "거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "안성시 남부농업기술상담소 기후변화 대응 고품질 벼 재배기술 교육 실시 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NYl9KUzZJQllVWUIyTFc2bkdQYV9wNXFGSmNnaDQyTmNPTjdNd1JaMGJBRUZFb05ZTFZCa25GazN1Z0lpZktMcEpNalhKUzhlakRuU3BtaU9oRzhjU2xMZU02Y19UUWJFdTJIT01jV3o?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T10:32:00",
+      "description": "안성시 남부농업기술상담소 기후변화 대응 고품질 벼 재배기술 교육 실시 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "안성시 남부농업기술상담소에서 기후변화에 대응하기 위한 고품질 벼 재배기술 교육을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "안성시",
+        "농업기술상담소",
+        "기후변화 대응",
+        "고품질 벼",
+        "재배기술 교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "청도군, 기후변화 \\'돌발해충\\' 막는다… 병해충 예찰·방제단 본격 가동 - 청도신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NeTFCX3FOZGxmdm9CaTRLLXBGam9udUZVN3hDenJaWGFEenhlNm5ZWHFCUlpzakhOeDRSTl9zWGFDMlRQTUlmTExGZ2hWQVA5TkxSTnhscHdpcGVX?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T11:22:52",
+      "description": "청도군, 기후변화 \\'돌발해충\\' 막는다… 병해충 예찰·방제단 본격 가동 청도신문",
+      "summary": {
+        "phenomenon": "청도군이 기후변화로 인한 '돌발해충'을 막기 위해 병해충 예찰·방제단을 본격 가동했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "청도군",
+        "기후변화",
+        "돌발해충",
+        "예찰",
+        "방제단"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "농어촌공사, 수리·수문 설계시스템 고도화…미래 홍수 분석 기능 추가 - 부산일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DQUZDcDNnczQ5N2YtTW82OWpoT3ZTTkQ5UUhfb2FuUVNVMlI4TUNHZjdBMTMwZGl1eUZZQzFkUWl5Z3BVTnplMFBsTkV5RzNaSXExYTdURjloNElOMThpckZCbXloRUdCQ0R4VDVwanE3X0l1?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T08:14:51",
+      "description": "농어촌공사, 수리·수문 설계시스템 고도화…미래 홍수 분석 기능 추가 부산일보",
+      "summary": {
+        "phenomenon": "농어촌공사가 수리·수문 설계시스템을 고도화하고 미래 홍수 분석 기능을 추가했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "농어촌공사",
+        "수리수문",
+        "설계시스템",
+        "고도화",
+        "홍수 분석"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "롯데마트, ‘기체 제어’ 사과 본격 출하… 이상기후 속 수급 안정 총력 - 지이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tUTRNS0hmazBoMUc5SS1EUm9PNk5YWGJqa1FLRFhVU1dBbVdndThnSksxcXhYX0QzLVA1ZXZhS29MTW5PRC1PckVTOHY1bEVQazQ5bk1PQzE0TzgzTGJoSFhUSHozWFU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-18T11:42:32",
+      "description": "롯데마트, ‘기체 제어’ 사과 본격 출하… 이상기후 속 수급 안정 총력 지이코노미",
+      "summary": {
+        "phenomenon": "롯데마트가 '기체 제어' 기술을 적용한 사과를 본격적으로 출하하기 시작했다.",
+        "cause": "이상기후로 인한 사과 수급 불안정 속에서 수급 안정을 도모하기 위한 조치이다.",
+        "outlook": "롯데마트는 이 기술을 통해 사과 수급 안정에 총력을 기울일 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "롯데마트",
+        "기체 제어",
+        "사과",
+        "이상기후",
+        "수급 안정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "창원특례시, '탄소중립 파트너십의 첫걸음' 성공적 마무리 - 내외뉴스통신",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VRXVveU91RV9MQzlfazJNcE5KM25IWndTNFhVWDE3M0xNTlU4SmlRREdsWFAwWkdJX0txSGNpUEUzT25XLWN3QjJkcUUtbF8yc3BMY2xzNjhwQm11eHRGNFJBaXU1Z0F6VHlQRtIBcEFVX3lxTFBJaXc1bjQtemtoLWQyWkR2M0JoeFd4aWJqV2ZnZWtjVGUtTFBKeU9YajJTMnFFby1iN21lTEJnZzRSUVpla0Nld2FKNXNOUEd6QW9rbWYtZnlSRkgxelVicElWWDlDcXdrcHJ2Z0NQbmY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T21:18:20",
+      "description": "창원특례시, '탄소중립 파트너십의 첫걸음' 성공적 마무리 내외뉴스통신",
+      "summary": {
+        "phenomenon": "창원특례시가 '탄소중립 파트너십의 첫걸음' 행사를 성공적으로 마무리했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "창원특례시",
+        "탄소중립",
+        "파트너십",
+        "첫걸음",
+        "성공적"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "거제시, 3월 말까지 탄소중립 홍보부스 운영 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtZzk5NThNNlJyT2JrSVhVNjRJWHBVTEwxeFNpc3prdkozb2Q0UWk4a1ZNSzBTQ3hzaVc2VmZUclRocUl4Z1ZvRjJqTkFQZi0yZkZV?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:56:00",
+      "description": "거제시, 3월 말까지 탄소중립 홍보부스 운영 네이트",
+      "summary": {
+        "phenomenon": "거제시가 3월 말까지 탄소중립 홍보부스를 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "홍보부스",
+        "운영",
+        "홍보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "[분석]산업 그린전환 촉진법, 규제 넘어 ‘성장형 탄소중립’ 전환 신호탄 - 에너지데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pdFdoeFdJSVhYak5xVkxJZ1JYRkl2NWJfVVpOSHlVYkNBdFU3OFZ5Wk55UGFXak10ZGhsQUdGdzFOaVNxWktEanRiN3ItU1BKR1lPMnNTSXZjTjFOVjZEU1pubFNQejVmWGNfbmtmbi0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T21:00:00",
+      "description": "[분석]산업 그린전환 촉진법, 규제 넘어 ‘성장형 탄소중립’ 전환 신호탄 에너지데일리",
+      "summary": {
+        "phenomenon": "'산업 그린전환 촉진법'이 제정되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 법은 규제를 넘어 '성장형 탄소중립'으로의 전환을 알리는 신호탄이 될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "산업 그린전환 촉진법",
+        "성장형 탄소중립",
+        "규제",
+        "신호탄",
+        "산업 그린전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "남서울대학교, RISE사업단, 충남 탄소중립 활성화 성과 발표 - 충청뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jczRuRFlDSER6RWZ0TXlzVE55aWZlc3dVempOaHI3SzJyUnEtSWgwNWRXRGpSSm9LejFlSTY5NXEtakFibzZqdGs5WWdHVTVGb25NTGRpbTVCYVFXRkxHYzlBZXhvZjZrRVo1Ug?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T13:09:00",
+      "description": "남서울대학교, RISE사업단, 충남 탄소중립 활성화 성과 발표 충청뉴스",
+      "summary": {
+        "phenomenon": "남서울대학교 RISE사업단이 충남 지역의 탄소중립 활성화 성과를 발표했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남서울대학교",
+        "RISE사업단",
+        "충남",
+        "탄소중립",
+        "성과 발표"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "충남도, ‘탄소중립 교육 심장’ 구축…청양에 전국 첫 숙박형 교육 거점 개원 - 농수축산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBiTFFjcjlwaHZJQUJ5OGJmbGwyMmR4VXhiUFhXb2c4TXkyVU1RNlhfanVyZ1FMOE1XMGQ0Q3NaV190MVhMajBUYWxxMlppeHZjbGRPRmd6OGpHODZBWWNfdFBZS0ZqWlpUZGdaeg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:46:07",
+      "description": "충남도, ‘탄소중립 교육 심장’ 구축…청양에 전국 첫 숙박형 교육 거점 개원 농수축산신문",
+      "summary": {
+        "phenomenon": "충남도가 청양에 전국 최초의 숙박형 교육 거점인 '탄소중립 교육 심장'을 개원했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 거점은 탄소중립 교육을 위한 중요한 역할을 할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립 교육",
+        "숙박형 교육 거점",
+        "청양",
+        "전국 첫"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "\"나무 키우며 탄소중립 실천해요~\"…광명시, 블루베리 묘목 3500본 무료 나눔 - G밸리타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbU5JU0RrVUpfWkpYa2M4N2xXXzU4ZXFWTXNhOW5hckhfQ1dELVdOV2ZOeGMtX204OEtFVHgwUWpvUXZwcDQ3XzloQXZVRVFxNlQzdUdOc19yRGo5UmJ0TjVXVlB2UmdZQTI2WTVR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:20:00",
+      "description": "\"나무 키우며 탄소중립 실천해요~\"…광명시, 블루베리 묘목 3500본 무료 나눔 G밸리타임스",
+      "summary": {
+        "phenomenon": "광명시가 시민들에게 블루베리 묘목 3500본을 무료로 나누어 주었다.",
+        "cause": "나무를 키우는 활동을 통해 탄소 흡수를 증진시켜 탄소중립을 실천하기 위함이다.",
+        "outlook": "시민들이 나무를 키우며 탄소중립 실천에 참여할 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "블루베리 묘목",
+        "무료 나눔",
+        "탄소중립",
+        "나무 키우기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "거제시, 탄소중립 홍보부스 운영…시민 실천 문화 확산 - 거제저널",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOQjBsZ2NINEM5eUZDSnBlNnMySTNEcTR0enFfSWRmdDJDSW9CNDllSHhveXBWdlBIdUJtbzdjWGNDZnAwbXhXZGZoY0FMU3Fvdi1EaW1aUlNNaGRlemNpWEs3T0lNR09qQjZqZzJKWDdHWnc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:56:22",
+      "description": "거제시, 탄소중립 홍보부스 운영…시민 실천 문화 확산 거제저널",
+      "summary": {
+        "phenomenon": "거제시가 탄소중립 홍보부스를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이를 통해 시민들의 탄소중립 실천 문화가 확산될 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "홍보부스",
+        "시민 실천",
+        "문화 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "충남도, 기후환경교육원 개원…탄소중립 교육 거점 구축 - 충청헤럴드",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IMkx0U0lGb1QzdmQtVER3SkZkNnhmMlhYX211dy1EZ0hSblBEUEtraHV0TUE2MEFoU21vbm9MSkstWkNjQnh3M2VkaWlmWUN2cnZxcVJCZjdGSEpVeXBoVXdwS2NyZTQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T16:48:56",
+      "description": "충남도, 기후환경교육원 개원…탄소중립 교육 거점 구축 충청헤럴드",
+      "summary": {
+        "phenomenon": "충남도가 기후환경교육원을 개원하여 탄소중립 교육 거점을 구축했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 교육원은 탄소중립 교육 거점으로서의 역할을 수행할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "기후환경교육원",
+        "개원",
+        "탄소중립",
+        "교육 거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "충남도, 청양에 ‘충남기후환경교육원’ 개원… 탄소중립 환경교육 거점 - 천지일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zcXIyLWR0VkhreUE4TGs5MzBDUi1GXzN6MkZRUmtnakltbTRwUWdiNTJGVFVfTHpmcUVQTzV4QlBnOE9Hbm5HM19aWVg1U0kxVHh6NlZuN05tOS1seEk1N0owMC1OQU5WN3c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T11:33:54",
+      "description": "충남도, 청양에 ‘충남기후환경교육원’ 개원… 탄소중립 환경교육 거점 천지일보",
+      "summary": {
+        "phenomenon": "충남도가 청양에 '충남기후환경교육원'을 개원했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 교육원은 탄소중립 환경교육 거점으로서의 역할을 수행할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "기후환경교육원",
+        "개원",
+        "탄소중립",
+        "환경교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "거제시, 주민 곁으로...‘찾아가는 탄소중립 홍보부스’ 운영 - 한국시사경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yQUkyV1RIakYyTDUzLVhJTVUyNGJqNVA0NFBVWENRR0d2STlick5VMlIxMGJBUnAtLTM5eE1Ocmt2T21pSHlmMHRoa3c4RjFFNnBkR2IxczBQYVYxcEhQb0tzVF9ONzBnQUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:50:23",
+      "description": "거제시, 주민 곁으로...‘찾아가는 탄소중립 홍보부스’ 운영 한국시사경제",
+      "summary": {
+        "phenomenon": "거제시에서 주민들을 대상으로 '찾아가는 탄소중립 홍보부스'를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "홍보부스",
+        "주민",
+        "찾아가는"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "‘충남 탄소중립’ 실천 해법 쏟아낸 RISE 컨소시엄 성과공유회 - 공뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ROXc4U3RySjh5aFpOSENVTGlraDNqQkc3Qy1BQkFtRUo4OS1QWDBwNGJQeUFVZ0lOa2U4aE5pM2szS202OHIyNmhJX095YldXN192U2NIZ2xrNDIwNHhKdFVxcUs2NlFEV0pDYg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:08:06",
+      "description": "‘충남 탄소중립’ 실천 해법 쏟아낸 RISE 컨소시엄 성과공유회 공뉴스",
+      "summary": {
+        "phenomenon": "충남에서 RISE 컨소시엄 성과공유회가 개최되어 '충남 탄소중립' 실천 해법들이 논의되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남",
+        "탄소중립",
+        "실천 해법",
+        "RISE 컨소시엄",
+        "성과공유회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "경산시 탄소중립 서포터즈 26명 위촉…대학생 중심 홍보 활동 본격화 - 신경북뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPT0RQZ0FDVmN3c25lMHhMNEZhek9FWVgtRFNubTR5aHAxNlE1VmFRQVVTTkQyYUh4STNPRGFTUFdCTU9RRTR0N3dybTlLd29LdUpnbnVnWVg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T12:41:42",
+      "description": "경산시 탄소중립 서포터즈 26명 위촉…대학생 중심 홍보 활동 본격화 신경북뉴스",
+      "summary": {
+        "phenomenon": "경산시에서 대학생 중심의 탄소중립 서포터즈 26명이 위촉되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "위촉된 서포터즈들을 통해 탄소중립 홍보 활동이 본격적으로 이루어질 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경산시",
+        "탄소중립",
+        "서포터즈",
+        "위촉",
+        "홍보 활동"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "남서울대 RISE사업단, 탄소중립 성과 공유회 개최 - 현대경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3amxHanNGMXFWUVMweHBwcWxacERVU3NMeHdtTG9FWEhmbVdOSUFuM0p6NXVuNWw4ZGQ2UUZRakhJMmVRdERLMDN2WHJMM1M1ZGRQdDBMR2FhSWxDVjdoWl95N3FyTkk2dkxn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T13:43:55",
+      "description": "남서울대 RISE사업단, 탄소중립 성과 공유회 개최 현대경제",
+      "summary": {
+        "phenomenon": "남서울대 RISE사업단이 탄소중립 성과 공유회를 개최했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남서울대",
+        "RISE사업단",
+        "탄소중립",
+        "성과",
+        "공유회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "‘2045 탄소중립’ 거점… 충남기후환경교육원 개원 - nmn.ff.or.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rREw1LUhaeXJWckdpVGZnT2ZqaXdNOUtoTk43OUN6Qmw5SGpRUjFDVTlfOUEzNl84SUZCRlpmUWNwTXowVERBaDFXLW9jV29oY1hNaTRGZXlsaUI1Wnc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:34:43",
+      "description": "‘2045 탄소중립’ 거점… 충남기후환경교육원 개원 nmn.ff.or.kr",
+      "summary": {
+        "phenomenon": "충남기후환경교육원이 개원하여 '2045 탄소중립' 달성을 위한 거점 역할을 하게 되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "충남기후환경교육원이 '2045 탄소중립' 목표 달성을 위한 핵심 거점 역할을 할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "2045 탄소중립",
+        "충남기후환경교육원",
+        "개원",
+        "기후교육",
+        "거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "광주시 탄소중립 시민추진단 그린 리더 발대식 개최 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rZ0ViUE5KOWJ0MDJvdUhlakZaa3BhVHlOSWxTVFpDbFNFMTJsbG9HNFZfbEx3czBkanRwclVlTk1naDczUUlHS0NmX2NHdERoZHB1ZVp1dVQxeDF4V3RuMk81QTRfMVlEWmI0azJqcFg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T14:20:00",
+      "description": "광주시 탄소중립 시민추진단 그린 리더 발대식 개최 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "광주시에서 탄소중립 시민추진단 '그린 리더' 발대식이 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "탄소중립",
+        "시민추진단",
+        "그린 리더",
+        "발대식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "거제시, 찾아가는 탄소중립 홍보부스 운영 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95LW1JaE1BTTFJTUtPc19fTjhUU1ZaRlpmbHJmcUlOZE9sN3JUUHUxUFRnRjBPM3BsVlZ2Yml6dnViNjc3SFl4Skx1NWlNZy1qaFNaOUxjQVVlSHlRdXpveV9hdlVNbnNhWjBQMlE4ZXNHZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T11:00:09",
+      "description": "거제시, 찾아가는 탄소중립 홍보부스 운영 웹이코노미",
+      "summary": {
+        "phenomenon": "거제시에서 '찾아가는 탄소중립 홍보부스'를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "홍보부스",
+        "운영",
+        "찾아가는"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "탄소중립 생활실천 `솔선`… 경상북도, 영농폐기물 쓰담데이 실천운동 - 경상투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01UTFCVEpIYkdaajJibXg2YkM4Wlk3NVlLMDZzUGtyZVBzQkhNOUwyNUp6cWtGUXhkVUJkN19lenNjZEJETk5aV2RCSUNBN1pOaGJ0NXJISTZNVzRjelY5TWtVcGhtdTg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:38:00",
+      "description": "탄소중립 생활실천 `솔선`… 경상북도, 영농폐기물 쓰담데이 실천운동 경상투데이",
+      "summary": {
+        "phenomenon": "경상북도에서 탄소중립 생활실천의 일환으로 영농폐기물 쓰담데이 실천운동이 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "경상북도",
+        "영농폐기물",
+        "쓰담데이",
+        "실천운동"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "광주시, 탄소중립 시민추진단 ‘그린 리더’ 발대식 개최 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OQzF6ckhlLUZRaUl2bThtOFItc2wyTUs0NUt5SnNhdEJaU1RITS1rQVRDTTJFUHJwRmg4b1QyaVpoYUZVTl8tWng1UmV2OHgwTXpOcjNFclJXczVreUNETlRSbXJ0NVpBcHlGVlBOV3ZfQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T12:00:02",
+      "description": "광주시, 탄소중립 시민추진단 ‘그린 리더’ 발대식 개최 웹이코노미",
+      "summary": {
+        "phenomenon": "광주시에서 탄소중립 시민추진단 '그린 리더' 발대식이 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "탄소중립",
+        "시민추진단",
+        "그린 리더",
+        "발대식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "충남기후환경교육원 문 열어… 탄소중립 환경교육 본격화 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQ0NWMUt5ZXF0SzZNMHBpTDdZUHhGUWJ0MF8tWmpfaWJWZjBKSGVlSXJpcXVyNnpPc1VZMFQzTV9pWF9kZkJ1YUVMemxndTJJd1M4dHJNakhtQjJBUG51Nm1xQ2NUUVdrRlNlRGRB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:42:14",
+      "description": "충남기후환경교육원 문 열어… 탄소중립 환경교육 본격화 gukjenews.com",
+      "summary": {
+        "phenomenon": "충남기후환경교육원이 문을 열어 탄소중립 환경교육이 본격화되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "충남기후환경교육원을 통해 탄소중립 환경교육이 본격적으로 진행될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남",
+        "기후환경교육원",
+        "탄소중립",
+        "환경교육",
+        "개원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "한국환경공단, 탄소중립 실무 인재 양성 확대 - 데일리경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TbUl1TlFFbnM4bGxCaDBxdHlGSV9OaXp4Zmdoemp4VkZ1WUlQb2hnNTF2cVVJRzZmOFFKZncyZ0w0blhNeDRPZjdMVHVnMWQ3NEt1MHFQUTNQQjFuTkI2Yml6TFdnbHdHUlR2ZA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T10:35:17",
+      "description": "한국환경공단, 탄소중립 실무 인재 양성 확대 데일리경제",
+      "summary": {
+        "phenomenon": "한국환경공단이 탄소중립 실무 인재 양성을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국환경공단",
+        "탄소중립",
+        "실무 인재",
+        "양성 확대",
+        "기후변화 대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "'2045 충남 탄소중립' 지휘본부 가동…기후위기대응위 위촉 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYaFR5aTAzcHlyVmVHV0xFTEFSS0JyTzFtcGZPLVdFQTh1SkZlWTd3WWdmbkNHNFBNdWYzd0JIMDVYaGszN2phUFhfOU1qTEQ4MkdB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:58:00",
+      "description": "'2045 충남 탄소중립' 지휘본부 가동…기후위기대응위 위촉 네이트",
+      "summary": {
+        "phenomenon": "충청남도에서 '2045 충남 탄소중립'을 목표로 지휘본부가 가동되었으며, 기후위기대응위가 위촉되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남",
+        "탄소중립",
+        "2045",
+        "지휘본부",
+        "기후위기대응위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "광주시, 탄소중립 시민추진단 '그린 리더' 발대식 개최 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WcmRDM2tCNkJQenF6N2Iya1BxSGRtUW01SnMtYVN4N2RxQ2doOXdQc1RPZFRWRGFDUFlUajA0M01EbnFzNjk2RVUxeUxGcWVTSXh2VmxmNUFfM1l5UlBLaXVjUXpTX0xlczR0bXh3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T14:27:59",
+      "description": "광주시, 탄소중립 시민추진단 '그린 리더' 발대식 개최 gukjenews.com",
+      "summary": {
+        "phenomenon": "광주시에서 탄소중립 시민추진단 '그린 리더' 발대식이 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "탄소중립",
+        "시민추진단",
+        "그린 리더",
+        "발대식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "남서울대, '충남 탄소중립 활성화 성과 공유회' 성료 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUbEVVWHhQN1NJTUcydkhiTjk2eDF3LVdvdllqV0swVXJaZWgyUHBKLXVGa2hFcnIyQjd4WDBoSFhuQ19hN3ZBa1o3c0dFQW9FWnhr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T10:20:00",
+      "description": "남서울대, '충남 탄소중립 활성화 성과 공유회' 성료 네이트",
+      "summary": {
+        "phenomenon": "남서울대학교에서 '충남 탄소중립 활성화 성과 공유회'가 성공적으로 마무리되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남서울대",
+        "충남",
+        "탄소중립",
+        "활성화",
+        "성과 공유회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "광명시, 2026 식목일 '나무 나누기 행사' 추진…도심 속 탄소중립 실천 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRRENnLWtZTFlYbHBUTEI5aHNGU2VsUDlLSENZaWNSeGRkUWlkaDdhVFNBM3ZqV1BSdGo5OGZFanBWeElBNVR0RXM0RmloZWxKbVlR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T09:48:00",
+      "description": "광명시, 2026 식목일 '나무 나누기 행사' 추진…도심 속 탄소중립 실천 네이트",
+      "summary": {
+        "phenomenon": "광명시가 2026년 식목일에 '나무 나누기 행사'를 추진하여 도심 속 탄소중립을 실천할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "식목일",
+        "나무 나누기 행사",
+        "탄소중립",
+        "도심"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "거제시, 주민 곁으로...‘찾아가는 탄소중립 홍보부스’ 운영 - newszoom.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB4UFVYYzUxTlFnUC1QOE5iY0pDN0d4NUdrbGZyLVUzUkhzZTRfTndka1NHMy1BbE44TGJMOWdqRWtfSDVs?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-18T08:58:00",
+      "description": "거제시, 주민 곁으로...‘찾아가는 탄소중립 홍보부스’ 운영 newszoom.kr",
+      "summary": {
+        "phenomenon": "거제시가 주민들을 대상으로 ‘찾아가는 탄소중립 홍보부스’를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "홍보부스",
+        "주민",
+        "찾아가는"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "시흥시, 국비 13억 확보…재생에너지 보급 확대 본격 추진 - 데일리안",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Vek9vUXN4QmhsOG02cmdTN2thZUFfV2MxOWdpeDI1SkNSbllkM2FFamRqam9hN1RZWGJsYkxVNXh4WVpzSkRPZ0Jqc2RBcFpLR1NJalFB0gGQAkFVX3lxTFBXZmpZbWYzOXU1eEtpUzBSNzNieTFlTEwxc3JISWdlYjdqcE5IZnhOdlFqbjVHMktLV1ZvU09BNzFEdFhYdTl1YWdNLTFoRTR5NFVHdUhTWkFrYkF5U1gwT1FzcDh3Wk9wWDhMX2pCOUlNVm9JNjJxNzhVSmlWdEZkNzVreUhvRGFSZnlJcTYyeGZIaUg5d3VpUHpOS3RGYTFLSlZ5blBOSXJSQnU2WHJEblJYdGNBcU1HdVRNdGZkcktIWFVrWWltc1JfM1prRVA5NTJLUUVfa2Z5MEZXcEFsbWctRkNyeXRvNGg3OHlzb2dpeW1CajU2a0pKa1VRUFRDZGJWV2NCUFlBbEtPd0JK?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T22:31:00",
+      "description": "시흥시, 국비 13억 확보…재생에너지 보급 확대 본격 추진 데일리안",
+      "summary": {
+        "phenomenon": "시흥시가 국비 13억 원을 확보하여 재생에너지 보급 확대를 본격적으로 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "시흥시",
+        "국비",
+        "재생에너지",
+        "보급 확대",
+        "13억"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "부안군, ‘기본사회’ 시동... 재생에너지 이익공유 구상 - 뉴스티앤티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nMHpHT19Ia2NqQ29pTjlWYnN5Z2lhZTRJTWFqUURpbS1MYWg1TXNBRThzRHc3TG9fdVdHdE9pM0EtcTYyQXZZSTFCUXZnNFBwS3AyV2VlRkxORHFSdWJCb0V0US1FUVJT?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T15:02:16",
+      "description": "부안군, ‘기본사회’ 시동... 재생에너지 이익공유 구상 뉴스티앤티",
+      "summary": {
+        "phenomenon": "부안군이 ‘기본사회’를 시동하며 재생에너지 이익공유를 구상하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "부안군",
+        "기본사회",
+        "재생에너지",
+        "이익공유",
+        "구상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "시흥시, 재생에너지 확대 시민ㆍ기업 에너지비용 안정 나서 - 수도권지역뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00M0JyVXVQdlg5WEJoUDFxWUtYSG1DUXptb2RUSmhTWlZIb2tqMVRMWVZVN0gtSk0xRkZBVUVoeEgtb2Q0Q1JUYWsxSkRlbVAzZHdQOXNIX1JxMWpnYUNwOEUySHRTSmNk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T22:58:23",
+      "description": "시흥시, 재생에너지 확대 시민ㆍ기업 에너지비용 안정 나서 수도권지역뉴스",
+      "summary": {
+        "phenomenon": "시흥시가 재생에너지 확대를 통해 시민과 기업의 에너지비용 안정에 나섰다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "시흥시",
+        "재생에너지",
+        "확대",
+        "에너지비용",
+        "안정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "시흥시, 산업단지 재생에너지 100% 사용(RE100) 확산 적극 지원 - 수도권지역뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OVVI0anBFM2N5UkhhTDRmY2dzZzUzRXpueEVpaUhPS09qRkZUdnI1TGxidWJqU210N3BQanVTdHdZWHVYdzBRMkZJYnE4b0RvdWVIX2NJSkpHeHN5SDdqX0psYmRfU2Uw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T22:56:32",
+      "description": "시흥시, 산업단지 재생에너지 100% 사용(RE100) 확산 적극 지원 수도권지역뉴스",
+      "summary": {
+        "phenomenon": "시흥시가 산업단지의 재생에너지 100% 사용(RE100) 확산을 적극적으로 지원하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "시흥시",
+        "산업단지",
+        "재생에너지",
+        "RE100",
+        "적극 지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "[ESG;NOW] 오뚜기 '스코프3' 배출량 90%…2030 감축목표 '시급' - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Db0t5Y0R6R2lkOVdGZlRTaWFDUjVKR0ZpcURNMklDS0wyS1RBVTk0TTJBdk1zaE1UakhZZENzNVhsMDBxUkJkV0p0ekllc255VU05M0xQSW9nNUg3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T23:05:03",
+      "description": "[ESG;NOW] 오뚜기 '스코프3' 배출량 90%…2030 감축목표 '시급' 뉴스;트리",
+      "summary": {
+        "phenomenon": "오뚜기의 전체 탄소 배출량 중 '스코프3' 배출량이 90%를 차지하는 것으로 나타났다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "오뚜기는 2030년까지 스코프3 배출량을 감축해야 하는 시급한 과제를 안고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "오뚜기",
+        "스코프3",
+        "배출량",
+        "2030 감축목표",
+        "시급"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "42",
+      "title": "한국, 태양전지 효율 26.3% 세계 최고 기록…'초격차 기술'로 재생에너지 시장 선도 - 한국AI부동산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqV2E4Qkw5QWdLZnNCeVNWbWtEVHAxRFlSeFRkc1p5a3NTR0ZmSDBOU3kxRW1xT2ZuS3ZRb0tQai1sSVJNdGdsc0FMRTE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T15:42:33",
+      "description": "한국, 태양전지 효율 26.3% 세계 최고 기록…'초격차 기술'로 재생에너지 시장 선도 한국AI부동산신문",
+      "summary": {
+        "phenomenon": "한국이 태양전지 효율 26.3%를 달성하며 세계 최고 기록을 세웠다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "한국은 이러한 '초격차 기술'을 통해 재생에너지 시장을 선도할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국",
+        "태양전지",
+        "효율",
+        "세계 최고 기록",
+        "재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "43",
+      "title": "英, ‘핵융합 발전’ 승부수…'40년 세계 첫 실증 발전소 목표 - ESG경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTnRNanFiTFVGako2LWdWazRRU0pBcjlYZk44RncxLXllY2FLY1VRTEZTSzFRSGFTMlFRMkxDc0dmSlVVMXROVzZOeTNHcWg5dDBhUENXLXRoNzZkWG5QVUZGUWNpc0xXWTlFZg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-18T08:55:58",
+      "description": "英, ‘핵융합 발전’ 승부수…'40년 세계 첫 실증 발전소 목표 ESG경제",
+      "summary": {
+        "phenomenon": "영국이 핵융합 발전에 승부수를 던졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "영국은 2040년까지 세계 최초의 핵융합 실증 발전소 건설을 목표로 하고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영국",
+        "핵융합 발전",
+        "승부수",
+        "실증 발전소",
+        "세계 첫"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "44",
+      "title": "Climate change to identity: The vital lessons in Metamorphoses, Ovid's 2,000-year-old poem - BBC",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1NDaG54NGp5OFZVakVYTjNYa3dRQ0VyQ0d1LUhXMEJSUkJVcXBZbzFwcEdKYmtQaE40YUc2QS1qT2RtQ0V6N2paRkdxd0tWYVNWV1M0dVdCRlRZNTBRb3RzbTktTUJHQ3ZrdWgyTENzaWhqZXRmaC02dHI2RW5LS0pwRmp2cGNtWnN3NXlmQmxHX21XMjhzRUZ4d3EtUjBoTU5aRWl1NjU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T11:00:00",
+      "description": "Climate change to identity: The vital lessons in Metamorphoses, Ovid's 2,000-year-old poem BBC",
+      "summary": {
+        "phenomenon": "오비디우스의 2,000년 된 시 '변신 이야기(Metamorphoses)'에서 기후 변화와 정체성에 대한 중요한 교훈을 찾을 수 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "유럽의 식량 시스템은 기후 변화와 분쟁에 어떻게 대처하고 있는가?",
+      "original_title": "How is Europe's food system coping with climate change and conflicts? - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMnhnMDNiQ0lNWURoUUxZZFpzSHpqeU9LM0RmRGFNWGt4NHoyeVEtaTZtUVZRMHdPSEhQX0VsRWUzU3VlTnBvalZ0VUxCLUVHMjN2eEg4R1hpV2lhLWU0LWwwU2xLZDFtZ1ZRWklDMlFsT3luaWN1X0pKR2owUmhMQmt0WnYzcFBVaHZpQ3lEOXVNVnRWZFZqbGR2c0JRUzYyamFYTmFfeGJwRktxZzJ0dlJxdVI2ZFhTZFRhakhEc3lEX3Fs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T08:47:30",
+      "description": "How is Europe's food system coping with climate change and conflicts? Euronews.com",
+      "summary": {
+        "phenomenon": "유럽의 식량 시스템이 기후 변화와 분쟁에 직면해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "유럽",
+        "식량 시스템",
+        "기후 변화",
+        "분쟁",
+        "대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "보고서: 미네소타주가 기후 변화에 적응하지 않으면 주민들은 매년 수십억 달러를 지불할 수 있다 - 스타 트리뷴",
+      "original_title": "Report: Minnesotans could pay billions a year if the state doesn’t adapt to climate change - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUs2Q3F2bDNsX3c0b2U0alpDemJHYXZZN1VvaG5xeFhkeEcybFVyeUx2dXByVWlVMkZ6VVZsWHFyUjNyTDNKSFlMLWRmZGJwd3FSdjVyX21GdEd4SmNZV0FnLW1qb2FuYU10eEVWVm51WVpyTC1GQmFJZmNRaDYtOGdFZTJtRzdOamFERjBrWjcyRktMNmEwbUVqWWx2LUI3MzdFN1VRY0pKcjR2TWFUcUZKS2JReTZjT093MnFfVG5WbVJs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T10:34:48",
+      "description": "Report: Minnesotans could pay billions a year if the state doesn’t adapt to climate change Star Tribune",
+      "summary": {
+        "phenomenon": "미네소타주가 기후 변화에 적응하지 않을 경우, 주민들은 매년 수십억 달러를 지불해야 할 수 있다는 보고서가 발표되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "미네소타주가 기후 변화에 적응하지 못하면 주민들에게 매년 수십억 달러의 경제적 부담이 발생할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미네소타",
+        "기후 변화",
+        "적응",
+        "비용",
+        "보고서"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "고대 얼음 코어, 과거 기후 변화를 이끌었던 '다른 무언가'를 밝히다",
+      "original_title": "Something Else Used to Drive Climate Changes, Ancient Ice Cores Reveal - ScienceAlert",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRG01US0xTzE4RGR2T01YUmxTdmRWdTU5eW0wb203SERlLTFDeVFKRUlEMVN1cV9aRlFYdXFPNkNyNXJCQW9YQjdVOE1fRVQ5WmtTcm5HaldobGFlZ0JWZEVFdHpfZ0c1amZoTHRuSmwtc0ZGMXpKUTJacEUzQjVPbzRaNWZGS2VzMUNhU0ZBaGEtYV9GV00wN3BHWWZXZDQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T16:00:52",
+      "description": "Something Else Used to Drive Climate Changes, Ancient Ice Cores Reveal ScienceAlert",
+      "summary": {
+        "phenomenon": "고대 얼음 코어 연구를 통해 과거 기후 변화를 이끌었던 '다른 무언가'가 밝혀졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "고대 얼음 코어",
+        "원인",
+        "과학적 발견",
+        "과거"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "How Climate Change Is Redrawing the World’s Political Map - atmos.earth",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMFlodkJVODhZRWZVLU1DRnhTbVJyNzJIUmdZYXN2WTNnRHpnMzZaLTRNcHFlaWRvV0c1aVNOVktzaTZzZE1lUFFZTU82TWNmZ2EtU2I1M21aY3VOSDZONDhoX2VGTjQ5SDJVRGRCcHFmVVI0SFhqaEZoU3lqZXhDSzZTRGpKMDRBQk1RQTVUYk5CLUFwTWR4MGhn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T18:27:41",
+      "description": "How Climate Change Is Redrawing the World’s Political Map atmos.earth",
+      "summary": {
+        "phenomenon": "기후 변화가 세계의 정치 지도를 다시 그리고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화에 노출된 사람들: 2025년 12월-2026년 2월 - 기후 중앙",
+      "original_title": "People Exposed to Climate Change: December 2025-February 2026 - Climate Central",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT3FqLXFzTWRXd0FBVl9zeFBEOXptNFdVZ192YVVJcGJvdG9jdFNGQjdmVmJONUhjY09ET0RiLURYVzVCYlR2ZEswSDNRM1BXbWNGa2l3TG0wWnR5MDEySmFGb3ZCb25wejdTZkM3NnZ2VkNHMzNucDUwTjZ6SHhrMjdBODNMb0U5Ym5VWjVHTQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T09:31:59",
+      "description": "People Exposed to Climate Change: December 2025-February 2026 Climate Central",
+      "summary": {
+        "phenomenon": "2025년 12월부터 2026년 2월까지 기후 변화에 노출될 사람들에 대한 정보가 제시되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인구 노출",
+        "미래 예측",
+        "기후 영향",
+        "기후 중앙"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "Climate change could pose a major risk to cassava in Africa: Study sets out what can be done now - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXcFY4YTF0bGNSb0N2WFNJQkxGT2hhUUFfN0k5SExxaW1ZQ1ZOUnFUbkREUmk5VUNKMlA0VzB5ZFBIR1RRMUZwSHJnMDM4YWdRekx1bkl1SW1VUjdYQ0J1cGxScGpHU2NWS1VKY3UzdGtMYjZuWXg4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T16:40:06",
+      "description": "Climate change could pose a major risk to cassava in Africa: Study sets out what can be done now Phys.org",
+      "summary": {
+        "phenomenon": "기후 변화가 아프리카의 카사바 작물에 중대한 위험을 초래할 수 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화는 아프리카 카사바 작물에 심각한 위협이 될 수 있으며, 이에 대한 대응 방안 마련이 필요하다는 연구 결과가 제시되었다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "Study: TV news coverage of severe weather can boost support for climate action across the political aisle - USC Price School",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE45UTFXX3J6S0tWM2FuRUlLUmh5dFBtaW10SVlRVmxJaEFqc0NuX05HT2FBeG8xWXQ0TU9Xa01XdjJveGtYZk40TlB0cUVmMEVtWTU1RjdLdXRjcUlNZjdSY3ZJV2tVRmIwOFc5Tzd6ZFNCZElmQ2pvTDV4MA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T13:55:57",
+      "description": "Study: TV news coverage of severe weather can boost support for climate action across the political aisle USC Price School",
+      "summary": {
+        "phenomenon": "한 연구에 따르면, TV 뉴스에서 심각한 기상 현상을 보도하는 것이 기후 행동에 대한 지지를 높일 수 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 기후 행동에 대한 지지 증가는 정치적 스펙트럼 전반에 걸쳐 나타날 수 있습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "기후 변화가 보험료를 어떻게 인상시키고 있는가 - 인터로켄 공영 라디오",
+      "original_title": "How climate change is pushing up insurance rates - Interlochen Public Radio",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTDFJQlBINm1lejFOOHYxZ3ZpQnJjS0NaYUlRbTBMTXpvcjBSSkR6TVJ5UmhIcDVGRGFtQmstbTJnVXE4dlE2a29rVDNQTkFOcHJxcGhRck5kYjFWWS0waWdzVnBRNUxPTmJXdUQyWVVqekhLdDJQcThmODktT3Q4em8tX3ZOUEFmMUNYQU5aNTMyX0xZcFgzSEszdEpFR3ZOUWcyU1pYLWE4TGNXcTN4cjc3MDd3eVhpVTlv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T13:17:00",
+      "description": "How climate change is pushing up insurance rates Interlochen Public Radio",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 보험료가 인상되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "보험료",
+        "인상",
+        "경제적 영향",
+        "재정 부담"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "남극 펭귄들의 기후 변화에 대한 급진적 대응",
+      "original_title": "Antarctic Penguins’ Radical Response to Climate Change - Impakter",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZmp2MExfZ18zTi1YXzJObndVWEduTklIN1U5MU9BbXg4RHF0RmV0WHo4enRTRmFZLUNEQWxMNkFTczE0aVlxbTUtdHlDb1RwOHBJSFUxeHRCVHJEZEFDSHo4RFNXM3psY2hJWGlLeGplUDVNRjhzRWdsRkF1bVMwTg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T10:23:02",
+      "description": "Antarctic Penguins’ Radical Response to Climate Change Impakter",
+      "summary": {
+        "phenomenon": "남극 펭귄들이 기후 변화에 대해 급진적인 대응을 보이고 있습니다.",
+        "cause": "기후 변화가 남극 펭귄들에게 영향을 미치고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "남극",
+        "펭귄",
+        "기후 변화",
+        "급진적",
+        "대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "진화가 기후 변화 속도를 따라잡을 수 있을까? 이 꽃이 희망을 준다.",
+      "original_title": "Can evolution keep up with climate change? This flower offers hope. - Anthropocene Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0Fka2syMlBweXVjTVhFbklZSFhUMWdsYnBQSE15Smw4V3lRbTlIX3BwYUVDSG5VN1BkMFBWSXdObDFWbnVGLWxZTWFiQ3J1ZmR0RFBvWGhYN2N5aER6TnFNNXdib0k4SThleFpFQ2RjbGNJeU9yNU9IbUU1bjZ2OU5HNFF6ZEdEUXdMa2FXTnkxUkxLRHdOUmhPNDc0VVBjSEJkbGVzb3BtNU5UTko2dQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T12:03:39",
+      "description": "Can evolution keep up with climate change? This flower offers hope. Anthropocene Magazine",
+      "summary": {
+        "phenomenon": "한 특정 꽃이 진화가 기후 변화 속도를 따라잡을 수 있을지에 대한 희망을 제시하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 꽃의 사례는 진화가 기후 변화의 속도에 발맞출 수 있을 가능성을 시사합니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진화",
+        "기후 변화",
+        "꽃",
+        "희망",
+        "적응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "플로리다 농민들, 극한 기후로 인한 기후 위험 증가에 직면 - 디 인베이딩 씨",
+      "original_title": "Florida farmers face rising climate risks from extreme weather - The Invading Sea",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHJjMGJLcC0wc0RzckZQc1NaVWlIQ2o3OWxCS1JDaC1uVUJaY25JSGQ0bkNYTHBheTRxcVp6Skl3MnRGR2xWbktnRDFtZW13U09nOUVJazd2TWozU2pTa0VOVEZpY3NnUl9aRDV1RmdhdU5KS3NmYkdnY1NiQ1kzcl9naU03aW5saU9KcjJxRGNjdE93Q2JacFRSNmg4TWwxN1VvUG1tOE9fN05QT0k2TzdRd2o3WlY0eDlzQkdZNS1YdWRQU09CNlBraER5TDA1alZrNQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T13:08:12",
+      "description": "Florida farmers face rising climate risks from extreme weather The Invading Sea",
+      "summary": {
+        "phenomenon": "플로리다의 농민들이 극한 기후로 인해 증가하는 기후 위험에 직면하고 있습니다.",
+        "cause": "이러한 위험은 극한 기후(extreme weather)로 인해 발생하고 있습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "플로리다",
+        "농민",
+        "기후 위험",
+        "극한 날씨",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "토탈에너지스와 농부 간 기후 변화 피해 소송 판결 연기 - 야후 뉴스 뉴질랜드",
+      "original_title": "Verdict postponed in climate change damage case between TotalEnergies and farmer - Yahoo News New Zealand",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPanVPbTRZbWZ5cjhSa1I0VTdpSlhYOC1YNVVYUldHcVRKdVBLcTRvZXptNnNLaUs3TTVyYUZCV1pYZ21rTTVwaXZmSFdZbXFyVkdLSXd6VnMzekdVd0dhY1BCUEI4MHFNN0J6Q0FLNzBnRjkzTVgzZHdSZXZUMk1nMlhEYVJlem8?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T15:11:08",
+      "description": "Verdict postponed in climate change damage case between TotalEnergies and farmer Yahoo News New Zealand",
+      "summary": {
+        "phenomenon": "토탈에너지스와 한 농부 간의 기후 변화 피해 소송 판결이 연기되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "토탈에너지스",
+        "농부",
+        "손해 배상 소송",
+        "판결 연기"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "Volkswagen tells drivers not to wash cars in global climate change push for electric vehicles - GB News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0F0QWZ2cjU5Y0EzUVhyVlZGdk9KNXRoNmZCREVjbUFVNVhEVDRtNGZlZkNlaUZwWjlTZFNsZGlZQlR3U3JKTVpDM0JpMjFoOFZYbkRPcEN0UUJuSDQ0WV9rOU94TlNpTFd3QzFBUXdHMTZtbWRZUEk2b0NSZnVkQTB2c1pwR0xOb0luRHdfVmNFM0lXclE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T10:02:54",
+      "description": "Volkswagen tells drivers not to wash cars in global climate change push for electric vehicles GB News",
+      "summary": {
+        "phenomenon": "폭스바겐이 운전자들에게 세차를 하지 말 것을 권고하고 있습니다.",
+        "cause": "이 지침은 전기차를 위한 전 세계적인 기후 변화 대응 노력의 일환입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "뉴스 | 외부 이해관계자, 호텔의 지속가능성 및 기후 탄력성을 핵심 지표로 본다 - 코스타",
+      "original_title": "News | External stakeholders view sustainability, climate resilience as core metrics for hotels - CoStar",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlFERm9jNEFuUEl1NzlHY1ZRb0trbXNkT0ZFLW5ZY3VFNDZqN1ViT1N0Mm55RktnVnFCRU11NURhX1JKTGVUeGVjZ1drTHpiWXBtWTdqS0UxQkxkWVJBZWluZDBjMXN5bEFabThZbUdEUzQ3MllTVnFTX0ZrOGtpV0ZrQUFvZWhqX1p4RnJicU0ySTZhVWQ1M2huek5RNHFEZXdZcko4OGw3ZVQtX24zcnVhbGtqQWhMaVJqd29qYm5RNFJiNGdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T13:30:03",
+      "description": "News | External stakeholders view sustainability, climate resilience as core metrics for hotels CoStar",
+      "summary": {
+        "phenomenon": "외부 이해관계자들이 호텔의 지속가능성과 기후 탄력성을 핵심 지표로 간주하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "지속가능성",
+        "기후 탄력성",
+        "호텔",
+        "외부 이해관계자",
+        "핵심 지표"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "59",
+      "title": "영국, 케임브리지대 로라 디아스 아나돈 교수를 기후변화위원회에 임명",
+      "original_title": "UK appoints Cambridge Prof Laura Díaz Anadón to Climate Change Committee - University of Cambridge",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2ZoelEwaHdwSGgxNS00ZHlLcDRabEdicWJNSDQ5bElwLXZTb0c3TElvdEp4aldlNXYyTVUxQmlncXA3RG9nUlFUZG1YWkl3S0Y3aWdRSFBQZk5QNk9CTDA4aFR4a0lya3pyQnQ5QnlBYzlZbk9sckVUY0s4OU4wUlk0aFI5d24wZ1A2NzltTU1rZ2tuc09BVDhHWTBadXJu?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T17:03:18",
+      "description": "UK appoints Cambridge Prof Laura Díaz Anadón to Climate Change Committee University of Cambridge",
+      "summary": {
+        "phenomenon": "영국이 케임브리지 대학교의 로라 디아스 아나돈 교수를 기후변화위원회에 임명했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "영국",
+        "케임브리지",
+        "교수",
+        "기후변화",
+        "임명"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "60",
+      "title": "CBS 기상학자, '이례적 폭염 원인' 설명에 기후 변화는 쏙 빼놓아 - 데일리 코스",
+      "original_title": "CBS meteorologist on 'What's making this heat wave so extraordinary?' Not one word on climate change - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1BTc0xrakhYOHNEZFdOOU16dHNPLVk2R05kUVd4ZmFPQkRpYjhTdGFIS3QwUkpKZ1pjWjI1T2VabmYzSkxYTnUwdGEtMl90X1JldkdJSFFfcjMtYWUxVkticHpub2FaMzRLd3FvcEUxdFhlWi1fbFdqX0tnYUQtdTZBNDB4OGJwM0NYVWtqem9Dek84UVIxbHl4WU40OUhac0NPQTZoVWxYQ29xcG41M1dfaXVXQTZSQmtVanM3dDZocC12SjVMcmhNVHJmeVdNOUZRRVdnSUVXdWlhUUZMVw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T21:06:06",
+      "description": "CBS meteorologist on 'What's making this heat wave so extraordinary?' Not one word on climate change Daily Kos",
+      "summary": {
+        "phenomenon": "CBS 기상학자가 '이례적 폭염의 원인'을 설명하면서 기후 변화를 전혀 언급하지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "CBS 기상학자",
+        "폭염",
+        "기후 변화",
+        "언급 부재",
+        "언론 비판"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "61",
+      "title": "기후 변화와 글로벌 분쟁 속 유럽 식량 시스템은 얼마나 회복 탄력적인가?",
+      "original_title": "How resilient are European food systems amid climate change and global conflicts? - MSN",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNajVaa0hJalpuNExteG5FbU5Jd0haWXdEckxfREpDeUxNUmFGSmxLOFJINFRhbGpMMkdUNmZWYTc1cEhXNERDX1VjMjEzc1h2eVdMOGhNX0Nva2lvVXpvUGNMcTA4Q3hvd1pmd25YUHJ4MGRZTFBvMm9ZcUpmcEx5cXo3cTd2U0lPdF8xTEZSWkxkNTd5bnlZZElOVUw5VXZCUXR1eFkyaURDaGg5MjFaY19tREszNHo3U3J0Qkhqdk1ybmh6X0o0LQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T15:15:15",
+      "description": "How resilient are European food systems amid climate change and global conflicts? MSN",
+      "summary": {
+        "phenomenon": "기후 변화와 글로벌 분쟁 속에서 유럽 식량 시스템의 회복 탄력성에 대한 의문이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "유럽",
+        "식량 시스템",
+        "회복 탄력성",
+        "기후 변화",
+        "글로벌 분쟁"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "62",
+      "title": "Video. How is Europe's food system coping with climate change and conflicts? - Euronews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUtzelBmNEl1YzVGTzFfVC1UejNROE5sUFNucTJJeEdtUEpULV9ZYV9RM1dDYjRVQlI3WHFXLURXVE5oRjdPSC1CSkw0bFhqcWE0SlpzMVhpcTJoOHM3NTNTMl95M0lfaEJRclVHeDZjMWpNbU1RNzRJSlVRZHNpQ3NuaXlnTWtXcFQxeVVQNlZnTURpT25lSHJnYjRONFNGTl9PSmpFV292aURfeUFaMHFGa0VSVmxxVnRzMXk3NA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T08:47:30",
+      "description": "Video. How is Europe's food system coping with climate change and conflicts? Euronews.com",
+      "summary": {
+        "phenomenon": "유럽의 식량 시스템이 기후 변화와 분쟁에 어떻게 대처하고 있는지에 대한 영상이 공개되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "63",
+      "title": "메릴랜드, 기후변화 비용에 대한 대규모 연구 착수",
+      "original_title": "MD Launches Major Study on Climate Change Price Tag - The Southern Maryland Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbGhqM0U1bFZNTnhudUpSMEZpQjFzdzhBYzVfMDRiT09hdktOb19zVDdyc2loVDQyVDY4Z2d6NDFGMVFlOTlMMGtnY05NNVdZa2xub3BOd3pjWGJ3ekh6YkdXNlFPWlNVRkZEVU9raUhTRVFMX1Z6dF9KS3hkQ0gzdkNkalF2b2p1eVR2M3hNYTAtLUFyaHY4dGZkdXozSkpRb3pF?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T09:00:00",
+      "description": "MD Launches Major Study on Climate Change Price Tag The Southern Maryland Chronicle",
+      "summary": {
+        "phenomenon": "메릴랜드 주에서 기후 변화로 인한 비용을 평가하기 위한 대규모 연구가 착수되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "메릴랜드",
+        "기후변화",
+        "경제적영향",
+        "대규모연구",
+        "착수"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "64",
+      "title": "기후 변화와 봄 칠면조 사냥 시즌 - 햄프셔 리뷰",
+      "original_title": "Climate change and spring gobbler season - Hampshire Review",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0w5UjB6bG1HQ1h6TGtHSlJkZXB0ZHNTX0tJU0dvUWFEbjk1c1BfTTU2STduSklPODlFSlNZdndFRGd3MUo5cUVKWU9EdFRwZlRNMWNGX21ZMi1lQXgzRk1ZY0xOdkNiYXhVR1JzcERSNEdQcnhzbDhUTUpvTFQ3N0dpNnJPT3FEaEp3bGpDWmtrMW5SOUdDeUN0X3F5Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T13:00:00",
+      "description": "Climate change and spring gobbler season Hampshire Review",
+      "summary": {
+        "phenomenon": "기후 변화와 봄 칠면조 사냥 시즌 간의 연관성에 대한 논의가 이루어졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "봄",
+        "칠면조",
+        "사냥 시즌",
+        "야생동물"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "65",
+      "title": "WION 월드 펄스 | 기후 변화는 더 이상 유행어가 아니다; 신선한 공기는 사치, 패널 토론",
+      "original_title": "WION World Pulse | Climate change not a buzzword anymore; fresh air a luxury, panel discusses - WION",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdUZOSU1yM3JYd2U3dE9RREJ2S2xhbnlDbUF1QWc0cVJWaTVZZXk3ZnVJdk13dV9lNmk5b3NYdzJXNTU4cno2MUtYcXJ0eTAydUVmSTljemdLME5LNEdvU1NsSWdnQWVFdW5ZUDRfcWR5V0xqZGtFYjc5TkFRZjFjbk5Sa0xpeWtjdlVQR01aeWw3NjYzSl9BaFFyOHp5VExPSE9BQm5YVG5WTFpYdmtKc3FNRWxSU1BTcUNiZVR2TUZJWHBXaUhRYVV6Q1B2UEZYNEVFMtIB2gFBVV95cUxOTC1rZU45TXA0SnJma3BZWjVkX19Xdk9ZTEFGSkc4bXJiRldYNGFxbG9MSGVlY2FxR2J6NGVtdUNQd0VuR0plNUpZYThwUG9vZE9BZDc2WDVrbDBGVUNKUmpMNlZfWEllRk1XMDlJREtWS2s5VThidF9rZENkdWZLU1hVRVVhWTJJVk5vRFpybDFpdXBJbHcybGZuRkh6aFdJdW1UN0pJOG1JcmlNbnVFTDlDLUc1UEtEMDZHdUhic3J1clNnUUNOQVU0WU80MHctUzBDQjNIR3JuZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T17:57:00",
+      "description": "WION World Pulse | Climate change not a buzzword anymore; fresh air a luxury, panel discusses WION",
+      "summary": {
+        "phenomenon": "패널 토론에서 기후 변화가 더 이상 단순한 유행어가 아니며, 신선한 공기가 사치가 되었다는 인식이 논의되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "신선한 공기",
+        "사치",
+        "환경 오염",
+        "패널 토론"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "66",
+      "title": "Surfing’s big break: how climate crisis insurance may save El Salvador’s waves | Oceans - The Guardian",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0U4a2Z1ZFc1X3JEU0FNXzhYWHlleFNLT0J2UWZPenVSWWR1MTg0aS1vS2xpeTd6X1p0WjgwT21nLXo0V0EwRVVqelFiWV81M1lYWjVUbnNGNXlXUWdVOTc1WmxkOWs4Z2RDdkVCaWxfeWp4M3hCYW9lTnl4ZTJCa0tHWFNSTTdEM29NV184Z3ppQVZXT25sWEZxTUxfTnhqNDJiUHI5RklRZVpPeVE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T10:49:00",
+      "description": "Surfing’s big break: how climate crisis insurance may save El Salvador’s waves | Oceans The Guardian",
+      "summary": {
+        "phenomenon": "엘살바도르의 파도가 기후 위기로 인해 위협받고 있으며, 이를 해결하기 위한 기후 위기 보험 도입 가능성이 논의되고 있다.",
+        "cause": "기후 위기가 엘살바도르 파도에 영향을 미치는 원인으로 언급되었다.",
+        "outlook": "기후 위기 보험이 엘살바도르의 파도를 보존하는 데 도움이 될 수 있다는 전망이 제시되었다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "67",
+      "title": "유럽 식물군의 기후 변화에 대한 불균등한 반응 - 미라지 뉴스",
+      "original_title": "European Flora's Uneven Response to Climate Change - Mirage News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmV3MUc5N0I5VTFKcFp3ekRfUGp1Qlk1VlBPNnpPNjZyeVUzNloyaG5GYy1qTlBWWEtlbk0yRXJ6aTV3T1FMb3RNZ1dvUDNqaXp0bW5XUUJlbkdvckRGT0lVOGVHQ3E1TTBXRUNEUUdvZXRxMHdJR3ZPX3VMUEFkNmRERzQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T16:11:00",
+      "description": "European Flora's Uneven Response to Climate Change Mirage News",
+      "summary": {
+        "phenomenon": "유럽 식물군이 기후 변화에 대해 불균등하게 반응하고 있는 현상이 관찰되었다.",
+        "cause": "기후 변화가 유럽 식물군의 불균등한 반응의 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽",
+        "식물",
+        "기후 변화",
+        "불균등",
+        "반응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "68",
+      "title": "Video | War’s Hidden Cost: How Conflict Fuels Climate Change | War's Impact On Earth - NDTV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWRONHdkRmEzbXE2ZUhEUFhWSHJEdTA0OVNkcFRLYmRYbElmRW9yOXRtVHZWdjhZd1B4XzZ1U2IzU0tNRHNHbERzMGlhTklsa0NlN041REhobjdid0RNUnI0QjhrRGI3OVlWeWhRSEI5M1N3SXN2SzFvaUVQMGFKQzNNU0luOUt0VU1ibXl3aFYzMTlEZ01ud0liWmE5SEVTeUZvX2RZZGJ5eEU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T15:57:22",
+      "description": "Video | War’s Hidden Cost: How Conflict Fuels Climate Change | War's Impact On Earth NDTV",
+      "summary": {
+        "phenomenon": "분쟁이 기후 변화를 가속화하는 숨겨진 비용으로 작용하고 있다는 점이 논의되었다.",
+        "cause": "분쟁이 지구에 미치는 영향 중 하나로 기후 변화를 촉진하는 것으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "69",
+      "title": "기후 변화 혼란: '과소평가되고 과소보고된' 산불 위험, 영국에서 중요성 부각",
+      "original_title": "Climate change chaos: ‘Underestimated’ and ‘underreported’ wildfire risk gains prominence in UK - strategic-risk-global.com",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYUR0WWdOalZuNGVYX1NSRUtHT3FXVW8tc2h1c2VhSm03TlUydVJyazB1U1NNYkhSNEs4bjhXQzdQcWp0Y2ZELXpwNVdiNzd5eUZhVi1QWnN1eWVNN1Fra3lPWjEtaWFuWnd6MndfT0tFN1Z2S0Z4RXdOVEEtSHhreHpjbFBoRzBTazlrRzhCemtiaHFQcE5jYnFXcElYTFdCU0UtSXNiLUpTczR4ZzEwQVRwWWpEcVBlUUZwUVJtZzJsbHNkbk5qNlAwRkVOLXJ3a3dsc2J4cmx0LXFPRmRtVmpyQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-18T09:19:12",
+      "description": "Climate change chaos: ‘Underestimated’ and ‘underreported’ wildfire risk gains prominence in UK strategic-risk-global.com",
+      "summary": {
+        "phenomenon": "영국에서 '과소평가되고 과소보고된' 산불 위험이 기후 변화로 인한 혼란 속에서 중요성이 부각되고 있다.",
+        "cause": "기후 변화가 산불 위험의 중요성 부각의 원인으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "산불",
+        "영국",
+        "위험",
+        "과소평가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "70",
+      "title": "'그들은 나를 '물 테러리스트'라고 불렀다': 망명 이란 과학자, 세계적 상 수상",
+      "original_title": "‘They called me a water terrorist’: exiled Iranian scientist wins global prize",
+      "url": "https://www.theguardian.com/environment/2026/mar/18/iran-scientist-exile-wins-stockholm-water-prize-kaveh-madani",
+      "source": "guardian_climate",
+      "published_at": "2026-03-18T16:15:43",
+      "description": "Prof Kaveh Madani, winner of the Stockholm water prize, was accused of sabotage with his environmental work Eight years before he got the call telling him he had won the Stockholm water prize, Prof Kaveh Madani was being interrogated by Iran’s Revolutionary Guards, accused of being a spy for the CIA, MI6 or the Mossad.Today he is in exile and on Wednesday won the world’s most prestigious water prize for combining “groundbreaking research on water management with policy, diplomacy and global outr",
+      "summary": {
+        "phenomenon": "이란의 카베 마다니 교수가 환경 관련 연구로 인해 '물 테러리스트'로 비난받고 이란 혁명수비대에 의해 심문받았으며, 현재 망명 중임에도 불구하고 세계적으로 권위 있는 스톡홀름 물 상을 수상했다.",
+        "cause": "마다니 교수의 '물 관리'에 대한 획기적인 연구와 정책, 외교, 글로벌 아웃리치를 결합한 활동이 이란 당국으로부터 사보타주로 오해받아 비난의 원인이 되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "카베 마다니",
+        "스톡홀름 물상",
+        "이란",
+        "물 관리",
+        "망명 과학자"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "71",
+      "title": "A robust future? Why Brazil’s ‘bitter’ coffee is thriving as the climate crisis hits global crops",
+      "original_title": null,
+      "url": "https://www.theguardian.com/global-development/2026/mar/18/a-robust-future-why-brazils-bitter-coffee-is-thriving-as-the-climate-crisis-hits-global-crops",
+      "source": "guardian_climate",
+      "published_at": "2026-03-18T11:00:40",
+      "description": "Long seen as the poor relation to arabica, small growers in the Amazon are rebooting the more resilient robusta’s reputationRead more in the Coffee crisis series hereWhen the Paiter Suruí community expelled the last invaders of their land in 1981, they faced a divisive decision. Should they keep the coffee plantations left by the colonisers? Some destroyed them because of the death and violence contact with the non-Indigenous world had caused. Others felt sorry for the trees and couldn’t kill th",
+      "summary": {
+        "phenomenon": "브라질 아마존 지역의 소규모 재배자들이 기후 위기로 전 세계 작물들이 타격을 받는 상황에서, 더 회복력이 강한 로부스타 커피의 명성을 재건하며 이 커피가 번성하고 있다.",
+        "cause": "로부스타 커피가 아라비카에 비해 더 회복력이 강한 특성을 가지고 있기 때문이며, 이는 기후 위기로 인해 전 세계 작물들이 타격을 받는 상황과 관련이 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "72",
+      "title": "Carbon Brief Quiz 2026: Picture Round 1 and 2",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/picture-rounds-2026/",
+      "source": "carbonbrief",
+      "published_at": "2026-03-18T17:51:34",
+      "description": "All answers will need to be submitted via the Google form by the end of... The post Carbon Brief Quiz 2026: Picture Round 1 and 2 appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "73",
+      "title": "Satellite images show scope of Iran strikes - Reuters",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWdKS3NzNmR4cHlTcExBWUI0M0YtWTlmVDdlUnBEMmx5aktKZ19BQmc4NTFSTFZhSWtVTWhmQklaRHRkWlBaekJzVXRNX0MwcUhNMHBBeDV1R0tzOFItbmpoWW5Jb29VcW5fd3RoWnB4TWRXd0RVNWRVeElDNkxiU0NxaG9KdVg3RnpDMWV3?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-03-18T20:24:00",
+      "description": "Satellite images show scope of Iran strikes Reuters",
+      "summary": {
+        "phenomenon": "Satellite images show scope of Iran strikes Reuters",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 73,
+    "domestic_count": 43,
+    "international_count": 30,
+    "top_keywords": [
+      "탄소중립",
+      "기후 변화",
+      "기후변화",
+      "개원",
+      "거제시"
+    ],
+    "sentiment_breakdown": {
+      "positive": 41,
+      "negative": 10,
+      "neutral": 10
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
