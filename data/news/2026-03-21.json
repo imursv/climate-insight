@@ -1,16 +1,16 @@
 {
   "date": "2026-03-21",
   "metadata": {
-    "collected_at": "2026-03-20T23:17:25.964505",
-    "total_articles": 64,
+    "collected_at": "2026-03-21T08:10:06.300209",
+    "total_articles": 85,
     "sources": {
-      "korean": 27,
-      "international": 37
+      "korean": 37,
+      "international": 48
     },
     "sentiment_distribution": {
-      "positive": 21,
-      "negative": 30,
-      "neutral": 6
+      "positive": 28,
+      "negative": 37,
+      "neutral": 9
     }
   },
   "articles": [
@@ -1658,6 +1658,526 @@
           "재생에너지",
           "기후",
           "식량"
+        ]
+      }
+    },
+    {
+      "id": "b0c2a7b840635e36",
+      "title": "기후위기, 장애인에 더 가혹 [지금은 기후위기] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwbExtSndkeXRkRm5lZVZLVXY0NmZYbW9IYUl0Mk1LeU0zYkhMbmRmbkFOOWF5YWtpclNwOW1BN2Z3VGxwYkRSUXNrTFBpQmc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T00:23:25",
+      "collected_at": "2026-03-21T08:07:06.172496",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "장애인",
+          "취약계층",
+          "불평등",
+          "가혹"
+        ]
+      }
+    },
+    {
+      "id": "03f40e75d28934d5",
+      "title": "파리기후협약 10년⋯지구는 더 뜨거워졌다 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tWWE5QmJuN0UwYzZuX0YyUHpnYXo3RzFHVHN0TWtEeHd6SEJWbUgxUGNVTkh5d1poRy1WR3ZTWmMwVGdZeXVsS2llYnhXbnBrUFFKekNrcHFfcFZtVzFhcDJIUG9rUzFOU1V6eVRRTzRUVzIt?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T08:00:00",
+      "collected_at": "2026-03-21T08:07:06.172690",
+      "keywords_matched": [
+        "기후협약"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "파리기후협약",
+          "10년",
+          "지구",
+          "뜨거워졌다",
+          "기후변화"
+        ]
+      }
+    },
+    {
+      "id": "6fe568430f01fae0",
+      "title": "기후위기, 장애인에 더 가혹 [지금은 기후위기] - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0yam5jSnNCRVZoem1XX1ZJUVlNMDlNc3dtQmNRcE45Y0hNWENraHh4eHFYYjI4Vjl4a3V2cDVOcjUwaWVrVTNuTEpiOTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T00:21:39",
+      "collected_at": "2026-03-21T08:07:06.172787",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "장애인",
+          "가혹",
+          "취약성",
+          "불평등"
+        ]
+      }
+    },
+    {
+      "id": "6277d3764c3e8a76",
+      "title": "유성구, ‘세계 물의날’ 하천 정화·탄소중립 캠페인 - 충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KTXduWUlkZWlzRWhUaVdnc0U3ZzM1ajAybC1KWHBwYVJhdGZRbHQxdjVuRmdIR0Nrbk5MR2RYQjBTZnlxZFl0QmhwZE8zaTZrZGpwbDc4RHdPN2hOSXhMYWZnci00d3JKX1UyNQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T02:50:00",
+      "collected_at": "2026-03-21T08:07:06.070173",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유성구",
+          "세계 물의날",
+          "하천 정화",
+          "탄소중립",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "7e102095655ab01a",
+      "title": "[퓨처빌더 HD현대②] 에너지 위기를 기회로…탄소중립 시대 선도 - 투데이신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NOHh1ZWRuMFJpZFZPT1lfb0w1U1JkVzZNNW1FNzZGMmhyYVRXM2R1VVdwOU54ak92cFBXMUVrU0tmNDMzZ1k2Q1dJOWQzQzJULVFZeHlHYVZUNUFhUFRtc0Q4MzBURnBOd1pB0gFvQVVfeXFMTllxcllSMUc2Y3Y1MUhsUHljam9tQ2h5LVBScmxyV25oal9aU3FKc3JGUWYyZkZFQ2pDRGJ6Z21DcGUtZ2ZqS202ZFdkWjNOcmJ1YzM3eVJvSGFURkxkWWNiMzM3d0o0VW9ac19ZTVk0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T00:00:00",
+      "collected_at": "2026-03-21T08:07:06.070213",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD현대",
+          "에너지 위기",
+          "탄소중립",
+          "선도",
+          "기회"
+        ]
+      }
+    },
+    {
+      "id": "a6ef8653f7c76608",
+      "title": "무주반디팜, ‘탄소중립정원’ 연계 임업후계자 14기 보수교육 실시… 디지털 산림 경영 가속화 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5rTlF0MVh1cnRPazdiOWRGcklJVG03MUJtamRwUFZpQm9PUkRINVVRMWZHR285em1Tbl9jcXMtMmM4ekVRRkt4THctT2c?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T07:30:59",
+      "collected_at": "2026-03-21T08:07:06.070245",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "무주반디팜",
+          "탄소중립정원",
+          "임업후계자",
+          "보수교육",
+          "디지털 산림 경영"
+        ]
+      }
+    },
+    {
+      "id": "c36237d6197122ef",
+      "title": "울산 삼정초 식목일 기념 묘목 심으며 탄소중립 실천 앞장 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OWS0tSTNQbnZUTkdLQ1dESExnNno5dlh4UzhEY2t2RUpKSzN0b2lWbklQWWoxNGNjUUtKWnotNGUxa2xIOGJTVTJYb3RSdWhzeGcwWGpvdTFhOV9LcWVzX01EWjJVUkhUSGtMSDlEanA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T04:20:00",
+      "collected_at": "2026-03-21T08:07:06.070352",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "식목일",
+          "묘목",
+          "울산 삼정초",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "1c3c9f2c640cd067",
+      "title": "재생에너지 ‘이익공유제’ 법제화 추진…주민참여·수용성 확대 초점 - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92dHlrZ3BrWmdIQVQ4U19neEFWbmRfdGRGY0EtTnNWMlJvTzd2cWlWclR4Wmx1ZjctSnhGZWNWck1hV19yRmh5cnQyNTdxNnRueF9xQW1iMTNkZUxpNmY4eEN1Vy1xNFJySGE1R2Jzc3I?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T01:27:33",
+      "collected_at": "2026-03-21T08:07:06.121011",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "이익공유제",
+          "법제화",
+          "주민참여",
+          "수용성 확대"
+        ]
+      }
+    },
+    {
+      "id": "e1dedc6665c26089",
+      "title": "정혜경 의원, 공공재생에너지 확대 및 발전5사 통합 위한 ‘한국발전공사법’ 발의 - 뉴스데일리",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16emtWZmlwYmlRbTFpdG0yTFVkeFUwbU5OVktGTm9MZlBfdDdHczNJbElSbTE3a1lrZ0F4djNfUWRoallzdWNpd0hLTFIwaXNmTlBZMkJEcFZkbkhrbVRhMjRjcUtXOVNLVVY4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T05:07:37",
+      "collected_at": "2026-03-21T08:07:06.121157",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "정혜경 의원",
+          "한국발전공사법",
+          "공공재생에너지",
+          "발전5사 통합",
+          "법안 발의"
+        ]
+      }
+    },
+    {
+      "id": "3c181d252277bf07",
+      "title": "시흥시, 재생에너지 확대 시민ㆍ기업 에너지비용 안정 나서 - shjangsu.com",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44M0hOaG1zRlJPVk9UdnJzS3IxU0xmcEhDS09pemVMZDc5T2szVU5wRENxaGZYQXo4VEJkZlBpOHRqMFk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-21T02:03:00",
+      "collected_at": "2026-03-21T08:07:06.121239",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "재생에너지",
+          "에너지비용",
+          "안정",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "7faca3d494a5895c",
+      "title": "Fearing Chaos of Climate Change, Some Seek Answers in Virtual Classroom - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjgwazZnVVdXTWVlSVZQZk5CcVFGMzRIQVhZLWhfSTBoSWx5akROV3RyYkJpS1RCY1hKS2xTMUFuLVA0R1paOVNBcUg5c1NjR25VOWVLOUVod3dwNzNZRmhyUmY2UWZreklEa0g5YW5nNVBPcW05VGhnbDNfOUhuMGo0S3Q0bFVmengyRWFMRm9nNVFHbnFJZUphanJZSldiVm5fOERqWTN1eFpEV24zVVZWOVRWajFEUXgw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T07:00:08",
+      "collected_at": "2026-03-21T08:07:06.839734",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8352134e6ca8f70b",
+      "title": "'Friday Follies': Does eating meat really cause climate change? - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nOTRReDR4WVFENkdyVmNCaVdnS1lleUxCa2QyenZERkNvQ241YThSWTFvNzNZbG9JN3R1VFZ5YTRwSlNNM2MxYjBzSVVXdDJ3cEhhTUZn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T01:42:55",
+      "collected_at": "2026-03-21T08:07:06.839881",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "'금요일 엉터리': 고기 섭취가 정말 기후 변화를 유발하는가?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "고기",
+          "기후 변화",
+          "원인",
+          "폭스 뉴스",
+          "질문"
+        ]
+      }
+    },
+    {
+      "id": "ed3fe989e5334504",
+      "title": "Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action - Brookings",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkhFM3hxeHRsYmRvMjlMWFhFTE5jeFpJcGx1eDRSbjRVQWF0M29yMEJsQmgzVjJYTmpab2NCU2pSTFJSNGdsakQxWlFmaFNHMXVHQ0JvUGFISWJJWmFqOFJ3dlZjNURtYWxUOUNLYm8zMnZHNms0RTkwQ2djeVE3bHMwX0RwM19WRnBWaF9JMHo2NmtOQUdGa0QzUjdlNEV4Smw2MDI3bmYxVXJIS2ZtVlNFYWhobFFlaXR2amtxTWMxMDk0Q29GZ18xRUV6cjhrODZYTlJIZmNIc21XampVSnVkdWpFS0Zf?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-20T17:58:58",
+      "collected_at": "2026-03-21T08:07:06.840003",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0a7626832f59bfc9",
+      "title": "Wisconsin joins states suing EPA for abandoning power to fight climate change - Superior Telegram",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDBYRUMxM1VLSVJObnZrUk5YaTVPcUU5TlJRaGRXU212OG9oUXV5czF6WEdObW9QNm1YSGVSTmpaZHZGbEpuVXRxNC05b1RLdkczdkdGOVdqY1BUWkJNTFlTQlZKRWtNWXpfMTVXVkhTN1YzSURyUXVxU2V5SkhHak0yY096bE5RcVVBOGh0ZVhYdHNyTGxQUC1YNjJSMGlOMWZUaFNncWxpUjFSd1JHZTI5bXRtUWJIMXVyOHYzZVVOV2s?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-20T22:42:04",
+      "collected_at": "2026-03-21T08:07:06.840476",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "15747fea5d5c5eee",
+      "title": "Newsom’s hot air on climate change and wildfires - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0RjYXpyVVF1d0tPVzV2and2SHN4bFJXNDUtVThuTWpIQ3k5ekxob3lFYVhYSjNiUW1Qck9zdndnSTk0d3VMUDNSQmVFS0RXeDVyczVjMmNCYkVkX1EzM3hYeUk3TTVkbU1VMXIyUUVCSS1MVGI1WVd5Y0FwU1hVSw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T03:11:00",
+      "collected_at": "2026-03-21T08:07:06.840505",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "뉴섬의 기후 변화와 산불에 대한 허풍 - 뉴욕 포스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "뉴스om",
+          "기후 변화",
+          "산불",
+          "허풍",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "8d7342f2e1c4f7f8",
+      "title": "Records shattered as summer heat hits Southwest in March; 'This is what climate change looks like' - The Journal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPUFNCUmt4TjVqMXN1RzNMNkprd2FicE00RDVQaXF6YllHb0J3TkRCd2Y0TTRUUWdQZU5wRUZOTEh2dmlIUjN6ODlpLWxKTW1QTW5kd1Vva0dDd2plUlRLZ05wTUdxTHJfU09nRk4xdmpnalJTeXl2bFlQYnNwVUtta1k0T2xHWG5hd3RNR1IxbUNPZHJIZnZiZjJJT1MyYlZrLUxIcUhNQTQyY3lNOWJqYzZCNGtqbm5UQ1c5YlBvYy04NTc1cVdvdWdCaFQ2MWV0WFRwUzZMeGtJNE1zcDR6RzVqeUZSeFRZaEhWWWhTd0tMOXA1OGxITU9fZEtYdURwa2M0YjZpcV9PeGJSVFBCblhWSQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T01:30:00",
+      "collected_at": "2026-03-21T08:07:06.840635",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "3월 남서부 강타한 여름 더위로 기록 경신; '이것이 바로 기후 변화의 모습이다' - 더 저널 가제트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기록 경신",
+          "이상 고온",
+          "미국 남서부",
+          "3월",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "ff46abdcd7ab3ba1",
+      "title": "Global Warming - vocal.media",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQVMxekNzbGxzMUQtQ2xUOUVjZFJwcndxc2VyYVRVekJVQWRpaVZOQTRid0dpSVpERzlZWE53WWtNekZFRjlYcS10NGRKeU51TExscXZNLWhfZDZHT2k2Tw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T01:29:07",
+      "collected_at": "2026-03-21T08:07:06.840759",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "지구 온난화 - 보컬미디어"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "기후 변화",
+          "환경",
+          "미디어",
+          "정보"
+        ]
+      }
+    },
+    {
+      "id": "506e65b5f2358af6",
+      "title": "Records shattered as summer heat hits Southwest in March; 'This is what climate change looks like' - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTkxxRDNweEQteURIVkRZOWNyOV9XM2hUenlrbDRJLUFNampLcTdHLVJ3WDBOdEQ2T1NNSEZRMHZHXzhHelExeVFUbnNEZEFmWkdBSGpvM0V4QnJSRjdDUUh5aEp0dTMwMnVrVUxIdDZha3dVU2ZQZ0xUYmZhZ3lPQmJySmRkT1JwRHhpTlVJeXVzaE1scEF5MzRqRXpNLXhWc3hwdmo1dFJJNVU3bzdLVjdGNHc4QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T01:03:00",
+      "collected_at": "2026-03-21T08:07:06.840920",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1c27e28bd8b4a749",
+      "title": "The ‘quiet workhorse’ of the renewable energy transition - Politico",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjZtZXVZQjlKMWZOSkVFOGtxc2FKejhSem45cDMxSGFGTWxYYUdFck12clF3Sjd2RmpISGptdTIyekJQOURQQTQzZGhtOS1QTEFWQUo2TnNDal83SlJJaDNRSW84Y0w2bWNsNGtydF80aWpORllmMjBJYkJjeWVyaVowWS1sNlFEZWFyajZ2Y2FlcTgyS1N4Q1ZSSHhYang3dHBYTVEwODhJSThjLWpmQXBGbmhxbTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-20T23:30:00",
+      "collected_at": "2026-03-21T08:07:06.841264",
+      "keywords_matched": [
+        "renewable energy"
+      ],
+      "translation": {
+        "title_ko": "재생 에너지 전환의 '조용한 일꾼'"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생 에너지",
+          "에너지 전환",
+          "숨은 공신",
+          "조용한 일꾼",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "5f88176e34b114d8",
+      "title": "Records shattered as summer heat hits Southwest in March; 'This is what climate change looks like' - The Tribune-Democrat",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTmsyUWJmeVlUcVl1dkU5ZElEekt5Z01KSlkyb01iR2FqR0VMckVHSmhka1BNVXdDWGRDSEZ1alQ5N3dDZnhPN05WQUkwVzdUZjdEcmp4czhrRUxJVkY4alNZLWZUMXVlNXRtRGZyVy1DMmV6REZzZThpM2JrQnU1ZmtlZXFqUVNMU1drdHJOTjBRMmg1OHlITS1YcEM5NXZiUHVvRXVDY1REbFBrZnVzc2JTTXdfeVltbFNEUzk4dEJteHR3QlRjN29pTjI3OXdxSGowd1NMOE5BeHdhS3lLS2gyVWlNVnd3UE11TjF1N3A5NFpld3FN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T01:03:28",
+      "collected_at": "2026-03-21T08:07:06.841884",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "3월에 남서부를 강타한 여름 더위로 기록 경신; '이것이 기후 변화의 모습이다'"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기록 경신",
+          "여름 더위",
+          "남서부",
+          "3월",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "20f8568b072a852f",
+      "title": "From nuclear to climate crisis survivors: unfinished business in the Pacific - greenpeace.org",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcjhhZDBhVDNic0hNWmpMZlVrakNZTkh4R3dZb2RMYV91R0tBMFB1RUtxQUZXbENpbkZUQXZaaVN0TENZdEpSM0VFVFRBd2NiQ0R1b051MHc3bF9DYzFBOVgzZ0FhRUNHSUtvMl9iMU9UY21PV05VQ2xMU2tBSWM2SEVrM1RqVjQwZlBPVVhxZWt0RnBGTE5MSmRkRXNMQW5pUkNhbzJKZDVrS1hOa2lyUjVNWFpXS1VJQnc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-21T00:39:09",
+      "collected_at": "2026-03-21T08:07:06.841957",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": {
+        "title_ko": "핵 위기부터 기후 위기 생존자까지: 태평양의 미완의 과제"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "핵",
+          "기후 위기",
+          "태평양",
+          "생존자",
+          "미완의 과제"
         ]
       }
     }
