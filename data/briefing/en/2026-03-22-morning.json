@@ -1,0 +1,956 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T23:13:32.419185",
+  "briefing": {
+    "opening": "Good morning. I will now begin the climate briefing for March 21, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Accelerating Climate Crisis and Immediate Impacts",
+        "content": "Warnings have been raised domestically that the pace of climate change has doubled over the past decade [1, 5]. These accelerated changes are already impacting various aspects of our lives, with the Korea Disease Control and Prevention Agency issuing a Japanese encephalitis advisory due to the early emergence of vector mosquitoes caused by climate change [6]. Internationally, unprecedented March heatwaves in Colorado and Minnesota have demonstrated the reality of climate change [27, 28], and it has been confirmed that the Arctic and Antarctic are warming and transforming much faster than other regions of the Earth [33]. Furthermore, an analysis indicating that 5 million tons of carbon dioxide were emitted in just 14 days due to the ongoing Iran war in the Middle East, rapidly depleting the global carbon budget, adds to the severity of the climate crisis [38].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Strategic Efforts for Climate Crisis Response in Korea",
+        "content": "In response to the accelerating climate crisis, various efforts are underway domestically. This October, the 'National Climate Science Institute,' a national think tank for climate crisis response, is scheduled to launch [2, 8], and the 'National Ulsan Carbon Neutrality Science Center' has also broken ground, aiming for completion by December next year [9]. Gumi City is investing 130.2 billion KRW in the carbon-neutral transition of its national industrial complex [10], while Ulsan's chemical industry is attempting a new leap forward through AI and carbon neutrality [14]. These are examples of specific carbon neutrality implementation projects actively being pursued by various local governments and industries [11, 13, 16, 17, 18, 19]. Furthermore, policy support is being strengthened, with the South Chungcheong Provincial Council promoting an amendment to an ordinance to expand support for climate change-resilient crops [7].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Exploring Innovative Technologies and Adaptation Strategies",
+        "content": "Innovative approaches are gaining attention for adapting to and overcoming climate change. In Geumsan County, the importance of spring management in ginseng cultivation in response to climate change was emphasized, showcasing adaptation efforts in the agricultural sector [3], and internationally, new apple varieties suitable for the 'era of climate change' have been developed [24]. Regarding energy infrastructure, it has been pointed out that the 100-year-old existing power grid is like 'arteriosclerosis' for the climate crisis, making carbon neutrality impossible [4, 21], and the necessity of building new energy highways, such as AI-based 'super digital grids,' has been emphasized [4, 21]. Discussions are also underway on whether virtual power plants could be a solution to the challenges of connecting renewable energy systems in Asia [22], indicating active exploration of technological solutions for building future energy systems.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 International Response and Complex Climate Issues",
+        "content": "In the international community, complex issues are emerging alongside various levels of response to climate change. Pennsylvania has expressed policy opposition by joining a lawsuit against the Trump administration's rollback of greenhouse gas regulations [29], and the case of a ski lift on Germany's highest peak being dismantled due to glacier melt demonstrates the direct impact of climate change on actual landscapes and industries [30]. Meanwhile, those concerned about the disruption caused by climate change are seeking solutions in virtual classrooms [26], and the importance of social awareness and education is growing, as seen in discussions about how the younger generation's awareness of the climate crisis will reshape future society [31]. However, the complex reality of energy transition is also being revealed, including social conflicts during the renewable energy transition process, such as local residents' opposition to the construction of a large-scale solar power plant in the UK [39], and controversies over attending climate conferences during a fuel crisis [37].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlighted the accelerating pace of climate change and its diverse impacts, alongside strategic response efforts both domestically and internationally, technological innovations, and complex societal challenges. Comprehensive efforts to address the climate crisis are more urgent than ever. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change Accelerates Twofold in a Decade: 'Government Imposing Massive Burden on Future Generations' [Climate-Friendly Economic Life] - v.daum.net",
+      "original_title": "10년 새 2배 빨라진 기후변화 \"정부, 미래세대에 부담 왕창 지우려 해\"[기후로운 경제생활] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mNmMwXzJtSTVCSWxpTW5zdGRpZXIyOE1fd01hQjdxREdER1lZVmxSZzVVSUxYVHU2UDhfYmRXRnhxWm83S3pQOEZaZ1RjZHc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T20:03:08",
+      "description": "Climate Change Accelerates Twofold in a Decade: 'Government Imposing Massive Burden on Future Generations' [Climate-Friendly Economic Life] v.daum.net",
+      "summary": {
+        "phenomenon": "The pace of climate change has accelerated twofold over the past decade.",
+        "cause": "Not mentioned in the article",
+        "outlook": "A critical perspective has been raised, suggesting that the government is attempting to impose a substantial burden on future generations due to climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Future generations",
+        "Government",
+        "Burden",
+        "Acceleration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "10년 새 2배 빨라진 기후변화 \"정부, 미래세대에 부담 왕창 지우려 해\"[기후로운 경제생활] v.daum.net"
+    },
+    {
+      "id": "2",
+      "title": "National Think Tank 'National Climate Science Institute' for Climate Crisis Response to Launch Around October - Yonhap News",
+      "original_title": "기후위기 대응 국가 싱크탱크 '국립기후과학원' 10월께 출범 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12bzZEb2ZUeGVUSGRicFdTWkw3aFkzcmFJSEd2TzJvY05vUzdRVTF1TVpnYkNqYlF4enpCblVyaGdQSFhZQmZiX1hOVERxTGlaeTAyU2E3cVY2TWfSAWBBVV95cUxQMUdOVjV0SldTZ0xYRkluVS1WRmJ4SG5sWV9RdWxQX0RILUl0Rk11UzJLOTFYeW1CdUoxanlzTFVOQ3RxYUhqb0RoRDRtUU1Dal9vV0RYVkdyTUxrR1RYQ00?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T21:09:01",
+      "description": "National Think Tank 'National Climate Science Institute' for Climate Crisis Response to Launch Around October Yonhap News",
+      "summary": {
+        "phenomenon": "The 'National Climate Science Institute,' a national think tank dedicated to climate crisis response, is scheduled to be launched around October.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The National Climate Science Institute is expected to strengthen national capabilities for climate crisis response and contribute to policy formulation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate crisis",
+        "National Climate Science Institute",
+        "National think tank",
+        "Launch",
+        "Response"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 대응 국가 싱크탱크 '국립기후과학원' 10월께 출범 연합뉴스"
+    },
+    {
+      "id": "3",
+      "title": "Geumsan County Emphasizes 'Spring Management Crucial for Ginseng Cultivation in Response to Climate Change' - Geumsan Joongang News Broadcasting",
+      "original_title": "금산군, ‘기후변화 대응 인삼재배, 봄철관리가 중요’ - 금산중앙신문방송",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Ec1VicmVpOVI4a1RmTWhpSkE4UFpUZ2NYZUtONUg2dFJnNjlFS3F5d01QZ05rV0RfcGE1ajJtWkFxYlJwSXo0cjMtdVMwaUI1SjhLZ2xlUDNNalVOVy02dHZsNy11S3R4TVVrM1BB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T13:33:29",
+      "description": "Geumsan County Emphasizes 'Spring Management Crucial for Ginseng Cultivation in Response to Climate Change' Geumsan Joongang News Broadcasting",
+      "summary": {
+        "phenomenon": "Geumsan County is emphasizing the importance of spring management for ginseng cultivation in response to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Spring management is anticipated to significantly impact ginseng production as cultivators adapt to changes in the ginseng cultivation environment brought about by climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Geumsan County",
+        "Climate change",
+        "Ginseng cultivation",
+        "Response",
+        "Spring management"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "금산군, ‘기후변화 대응 인삼재배, 봄철관리가 중요’ 금산중앙신문방송"
+    },
+    {
+      "id": "4",
+      "title": "[Climate Change Book] Professor Hwang Woo-hyun: 'Carbon Neutrality Impossible with 100-Year-Old Power Grid' - New Book 『The Age of Electrification, The Ultimate Weapon: Super Digital Grid』 Published - Sankyung e-News",
+      "original_title": "[기후변화 서적] 황우현 교수 “100년 된 전력망으론 탄소중립 불가능…신간『전기화시대, 최종병기 슈퍼디지털그리드』출간 - 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sdFMxYXlCUFlFNkZVVXZWOGtWS3hmeTlFY2ZNVGdKQ1hYN1RlbHZiZWFEZG9RWlNtUG01VnpLX3FzdTdadGdhTEhkQzVPZmtuQ1BVX3RINzlKS2pRV2h4X2FqampCVTg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T09:59:38",
+      "description": "[Climate Change Book] Professor Hwang Woo-hyun: 'Carbon Neutrality Impossible with 100-Year-Old Power Grid' - New Book 『The Age of Electrification, The Ultimate Weapon: Super Digital Grid』 Published Sankyung e-News",
+      "summary": {
+        "phenomenon": "Professor Hwang Woo-hyun has published his new book, 『The Age of Electrification, The Ultimate Weapon: Super Digital Grid』, asserting that achieving carbon neutrality is impossible with a century-old power grid.",
+        "cause": "The 100-year-old aging power grid has been identified as the reason for the impossibility of achieving carbon neutrality.",
+        "outlook": "The 'Super Digital Grid,' a new digital power grid, has been proposed as a key solution for achieving carbon neutrality in the age of electrification."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "Power grid",
+        "Super Digital Grid",
+        "Age of Electrification",
+        "Professor Hwang Woo-hyun"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기후변화 서적] 황우현 교수 “100년 된 전력망으론 탄소중립 불가능…신간『전기화시대, 최종병기 슈퍼디지털그리드』출간 산경e뉴스"
+    },
+    {
+      "id": "5",
+      "title": "Climate Change Accelerates Twofold in a Decade: 'Government Imposing Massive Burden on Future Generations' [Climate-Friendly Economic Life] - Nate",
+      "original_title": "10년 새 2배 빨라진 기후변화 \"정부, 미래세대에 부담 왕창 지우려 해\"[기후로운 경제생활] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MaWRfSVFQaTlwVnl0amp4RkJ1M0MwQVpOR01YNVM4RmtZUnJPZ3RNVlY5LW81dWh6MUhNV2x5dHMzaGJjcklKeTBncF9WdTItUy1r?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T20:02:00",
+      "description": "Climate Change Accelerates Twofold in a Decade: 'Government Imposing Massive Burden on Future Generations' [Climate-Friendly Economic Life] Nate",
+      "summary": {
+        "phenomenon": "The pace of climate change has accelerated twofold over the past decade.",
+        "cause": "Not mentioned in the article",
+        "outlook": "A critical perspective has been raised, suggesting that the government is attempting to impose a substantial burden on future generations due to climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Acceleration",
+        "Government",
+        "Future generations",
+        "Burden"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "10년 새 2배 빨라진 기후변화 \"정부, 미래세대에 부담 왕창 지우려 해\"[기후로운 경제생활] 네이트"
+    },
+    {
+      "id": "6",
+      "title": "KDCA Issues Japanese Encephalitis Alert; Vector Mosquitoes Appear Early Due to Climate Change - Naewoe News Agency",
+      "original_title": "질병관리청, 일본뇌염 주의보 발령…기후변화로 매개모기 조기 출현 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PQlNab2xDYXBUbko2Qk1kbnYxdUo3ZWl5dmZjLWFfNXRpQUlORnJqYjRwUFZUamoybXJPUUkwSjJKWU1FRkhGT3lOTzNNMk5paEZyd0lsMnNtU2ZycHNPUjdPcFU2WmQweG5iSNIBcEFVX3lxTFBHS0JCWUNyRlc1V2RwVkoybGZObmtxUlBmUjhCUVRmcGxxN1JwbHQ5eGVQQy10U3NnTXNXRmJrc3R1VWFGdXhQYWJJRHhHOWxyR1hzdlVlbllNMTNyR3R4Ulg3NV9PY0ZFeDlfZm9BLU0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T09:47:07",
+      "description": "KDCA Issues Japanese Encephalitis Alert; Vector Mosquitoes Appear Early Due to Climate Change Naewoe News Agency",
+      "summary": {
+        "phenomenon": "The Korea Disease Control and Prevention Agency (KDCA) has issued a Japanese encephalitis alert, as vector mosquitoes have appeared earlier than usual.",
+        "cause": "The early appearance of vector mosquitoes is attributed to the effects of climate change.",
+        "outlook": "The early emergence of vector mosquitoes could elevate the risk of Japanese encephalitis outbreaks, necessitating heightened public vigilance."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "KDCA",
+        "Japanese encephalitis",
+        "Alert",
+        "Climate change",
+        "Vector mosquito"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "질병관리청, 일본뇌염 주의보 발령…기후변화로 매개모기 조기 출현 내외뉴스통신"
+    },
+    {
+      "id": "7",
+      "title": "South Chungcheong Provincial Council Promotes Bill Amendment to Expand Support for Climate-Resilient Crops - TJB",
+      "original_title": "충남도의회, 기후대응 작물 지원 확대 조례 개정안 추진 - TJB",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TY3V6QTVPRjZjcEh4b3hETHVpSVB1RHdrZTF0NTBaR1B5N0pROXV4Q3hlcU83SnFxTE1mcUJjMnpLZlFsMmhvbGszRHBNaWR6bFh2Ui02bmZVMUk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T10:05:16",
+      "description": "South Chungcheong Provincial Council Promotes Bill Amendment to Expand Support for Climate-Resilient Crops TJB",
+      "summary": {
+        "phenomenon": "The South Chungcheong Provincial Council is advancing a bill amendment to expand support for crops that adapt to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "If the bill amendment passes, it is expected to enhance the agricultural sector's climate change adaptability by supporting the cultivation of climate-resilient crops."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "South Chungcheong Provincial Council",
+        "Climate-resilient crops",
+        "Expanded support",
+        "Bill amendment",
+        "Promotion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도의회, 기후대응 작물 지원 확대 조례 개정안 추진 TJB"
+    },
+    {
+      "id": "8",
+      "title": "National Think Tank 'National Climate Science Institute' for Climate Crisis Response to Launch Around October - Nate",
+      "original_title": "기후위기 대응 국가 싱크탱크 '국립기후과학원' 10월께 출범 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44MzZlQm1qTmRhOXRoSHVSVkZBQVVpOHJXLVE3dXNmNGtUcl9HRFk2MngtTnNGeFJjZHE5YWhIZmlLeEV1U2JObFhnSEppVzZtWGRB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-03-21T21:09:00",
+      "description": "National Think Tank 'National Climate Science Institute' for Climate Crisis Response to Launch Around October Nate",
+      "summary": {
+        "phenomenon": "The 'National Climate Science Institute,' a national think tank dedicated to climate crisis response, is scheduled to be launched around October.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The National Climate Science Institute is expected to strengthen national capabilities for climate crisis response and contribute to policy formulation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate crisis",
+        "National Climate Science Institute",
+        "National think tank",
+        "Launch",
+        "Response"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 대응 국가 싱크탱크 '국립기후과학원' 10월께 출범 네이트"
+    },
+    {
+      "id": "9",
+      "title": "Groundbreaking for 'National Ulsan Carbon Neutrality Science Center,' Completion Aimed for December Next Year - Busan Ilbo",
+      "original_title": "‘국립울산 탄소중립 전문과학관’ 착공…내년 12월 준공 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hby01RXltYzZEci1xb1hLeTd6R0FMYldKTTFzYUJFYUMzZmVaM1JIYW9JRmJQRG9tSHNacE1DU1p0V09XLTU0X1o5OXdEektMZjBFX3g4THFmLS02Z3Y0aS1TNzhVZUJ0cksxUlFWRTdDUG5n?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T08:16:54",
+      "description": "Groundbreaking for 'National Ulsan Carbon Neutrality Science Center,' Completion Aimed for December Next Year Busan Ilbo",
+      "summary": {
+        "phenomenon": "The 'National Ulsan Carbon Neutrality Science Center' has broken ground, with completion targeted for December of next year.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This science center is expected to enhance public understanding by providing specialized knowledge and information on carbon neutrality, thereby contributing to the transition to a carbon-neutral society."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "National Ulsan",
+        "Carbon neutrality",
+        "Science center",
+        "Groundbreaking",
+        "Completion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘국립울산 탄소중립 전문과학관’ 착공…내년 12월 준공 부산일보"
+    },
+    {
+      "id": "10",
+      "title": "Gumi City Invests 130.2 Billion KRW to Initiate Carbon Neutrality Transition for National Industrial Complex - Asia Economy",
+      "original_title": "구미시, 국가산업단지 탄소중립 전환시동 1302억 투입 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41YXRMMEVDbUItLXk2VEVhQXp0ZU94b3pKWEtLYVc5Wmg2QmN3Q001QXB1UzBadEpYdUJPRk1WYUwtRmliTDBlajdhUDdpYS1PUnFjbjZrd256bGFYRUFLQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T09:34:05",
+      "description": "Gumi City Invests 130.2 Billion KRW to Initiate Carbon Neutrality Transition for National Industrial Complex Asia Economy",
+      "summary": {
+        "phenomenon": "Gumi City has commenced a project, investing 130.2 billion KRW, for the carbon neutrality transition of its national industrial complex.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This investment is expected to enable the Gumi National Industrial Complex to reduce carbon emissions and transition into a sustainable industrial complex."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gumi City",
+        "National Industrial Complex",
+        "Carbon neutrality",
+        "Transition",
+        "130.2 billion KRW investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "구미시, 국가산업단지 탄소중립 전환시동 1302억 투입 아시아경제"
+    },
+    {
+      "id": "11",
+      "title": "Bucheon City Operates 'Carbon Neutral Volunteer Mini-Expo' - gukjenews.com",
+      "original_title": "부천시, '탄소중립 자원봉사 미니박람회' 운영 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuenlWRkZCVzVWa2wxNmxYaWRXbE5COVJQZnNabC1ZYnRsMk9wOEVJemFMeFliSG1fQ1pmblp1dXIyN3NRdDgzMG1oYndmSjZsN1RtYk1URXh2bkdhdy12NmZTckszUEdoUzNyaFFR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T13:08:19",
+      "description": "Bucheon City Operates 'Carbon Neutral Volunteer Mini-Expo' gukjenews.com",
+      "summary": {
+        "phenomenon": "A 'Carbon Neutral Volunteer Mini-Expo' was held in Bucheon City.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Bucheon City",
+        "Carbon Neutrality",
+        "Volunteer",
+        "Mini-Expo",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "부천시, '탄소중립 자원봉사 미니박람회' 운영 gukjenews.com"
+    },
+    {
+      "id": "12",
+      "title": "Presidential Committee on National Climate Crisis Response - Presidential Committee on National Climate Crisis Response",
+      "original_title": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHZ6eUJaYWdnZXNheW90a21iR3pidkQzdlhaamY0RThWcTNiQnExcGZHakZNOUNndEdrYVNkV3gwd2Q4Rmp5WXVVSjJ0RzkxTWs5cW4tWXBFMlRGOTE4NFAwLXFIWUl4WlowNHR4VUVBSThydUYxc1NGNk5GYWlHT0RpY3ZtWW9temszYjFOd2xPVDRjUFhsUk1vdEhIZEJ4YTFka3hsWExXdmlEcVVTbUJhMzFHMl9BZ0dkMk9iREg1bTNBQTl3R01nYVNvZGh2VEZoRW9SYjlUQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T16:07:44",
+      "description": "Presidential Committee on National Climate Crisis Response Presidential Committee on National Climate Crisis Response",
+      "summary": {
+        "phenomenon": "The Presidential Committee on National Climate Crisis Response exists.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "National Climate Crisis Response Committee",
+        "Presidential",
+        "Climate Crisis",
+        "Response",
+        "Committee"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대통령직속 국가기후위기대응위원회 국가기후위기대응위원회"
+    },
+    {
+      "id": "13",
+      "title": "Yeonggwang County Operates 'Carbon Neutral Practice Expansion Academy' in First Half - Festival News",
+      "original_title": "영광군, 상반기 탄소중립 실천확산 아카데미 운영 - 축제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EZWU1VllSRUg2cUc1Wllxel9nWUFLMFo3R0hpR2pVTVRwY050MGlPUTNCT3pUWHpkaWFSZlhSVDRYWmx0M1haeEJIU0g0Z0Z4akVRSF9YU3pyZkdLclBQOGY1T1NzUTZJYUZLdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T11:05:10",
+      "description": "Yeonggwang County Operates 'Carbon Neutral Practice Expansion Academy' in First Half Festival News",
+      "summary": {
+        "phenomenon": "The 'Carbon Neutral Practice Expansion Academy' was operated in Yeonggwang County during the first half of the year.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yeonggwang County",
+        "Carbon Neutrality",
+        "Academy",
+        "Practice Expansion",
+        "First Half"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "영광군, 상반기 탄소중립 실천확산 아카데미 운영 축제뉴스"
+    },
+    {
+      "id": "14",
+      "title": "Ulsan Chemical Industry Initiates Re-leap with 'AI and Carbon Neutrality' - Busan Economic Daily",
+      "original_title": "울산 화학산업, ‘AI·탄소중립’으로 재도약 시동 - 부산경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lQldfeXNhS3hWb3JoUzZiQXVQMlAxcHZJdDd0bnRPdkRpTXl2cU1NOXdRWE1wVmExSkFicjBObW5yUGFocGpxOTBnV2JaLXpIVGg5eUNZNFVHVW5xRlIzZmV6OEVabGpM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T09:39:45",
+      "description": "Ulsan Chemical Industry Initiates Re-leap with 'AI and Carbon Neutrality' Busan Economic Daily",
+      "summary": {
+        "phenomenon": "Ulsan's chemical industry is attempting a re-leap through 'AI' and 'Carbon Neutrality'.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ulsan",
+        "Chemical Industry",
+        "AI",
+        "Carbon Neutrality",
+        "Re-leap"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "울산 화학산업, ‘AI·탄소중립’으로 재도약 시동 부산경제신문"
+    },
+    {
+      "id": "15",
+      "title": "Presidential Committee on National Climate Crisis Response - Presidential Committee on National Climate Crisis Response",
+      "original_title": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWnBfdzNZWW8xRWdLMVpSNGVDb2JWTWQ4VFlVbGFNZmtibGswMUctclRHR3ZITXAyNHFrV3pGNkE1Tk13VHltS1dSMlhYQm5rLXhxSHVIQTJ1WElPZ1BsREZGV2FVTnk5aWw0ODhEQ0RvMHlIbVZoU2hYRnJidXRpSjB4U19GMTJieG9HVnBCaVJWaXZHazBhUG1XN2t5MXJua09TNlV1cTJvV0wxREtmSGRHdkR1a1NrWWJJc2JDZG43TXRvY1BjZ0dYMVF4Rk91aTN1ZVR5bDRUQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T15:58:32",
+      "description": "Presidential Committee on National Climate Crisis Response Presidential Committee on National Climate Crisis Response",
+      "summary": {
+        "phenomenon": "The Presidential Committee on National Climate Crisis Response exists.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "National Climate Crisis Response Committee",
+        "Presidential",
+        "Climate Crisis",
+        "Response",
+        "Committee"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대통령직속 국가기후위기대응위원회 국가기후위기대응위원회"
+    },
+    {
+      "id": "16",
+      "title": "Jeungpyeong Resource Circulation Citizen Center Conducts '2026 Carbon Neutral Environmental Instructor Capacity Building Refresher Training' - Naewoe News Agency",
+      "original_title": "증평자원순환시민센터, ‘2026 탄소중립 환경강사단 역량강화 보수교육’ 실시 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VSTdnZlR2V3doNk9EY3NTcGNTdWRzNkNuS2QtVlVKcnZVOGZuR1U2aEVWcHVsZFFsdXNyUHc4dVRSa3pNb3NvTzZ3azlzNTNjaTdYdzh2UzZYTEM1bE9UNzhBb3JsOW1BZElrVkRn0gFwQVVfeXFMTktYZkdCc2JJYWpYQ0ttUXZMTllrYTBBZl9nd0RfZjlGZ2djdm1BMk5JZjZiSjFKUlc0THRSNk1CblFjWTZIYlU0Smg1YkgyWmVhN3FxdFM4UUJwNDdRQWViVkY2X21JUk5Cck54UVdVXw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T09:46:05",
+      "description": "Jeungpyeong Resource Circulation Citizen Center Conducts '2026 Carbon Neutral Environmental Instructor Capacity Building Refresher Training' Naewoe News Agency",
+      "summary": {
+        "phenomenon": "The '2026 Carbon Neutral Environmental Instructor Capacity Building Refresher Training' was conducted at the Jeungpyeong Resource Circulation Citizen Center.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeungpyeong Resource Circulation Citizen Center",
+        "Carbon Neutrality",
+        "Environmental Instructor Group",
+        "Capacity Building",
+        "Refresher Training"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "증평자원순환시민센터, ‘2026 탄소중립 환경강사단 역량강화 보수교육’ 실시 내외뉴스통신"
+    },
+    {
+      "id": "17",
+      "title": "Goyang City Participates in Asia Climate Cooperation Platform ComP International Workshop to Share Carbon Neutrality Policies > News - The Korea",
+      "original_title": "고양시 아시아 기후협력 플랫폼 ComP 국제 워크숍 참가해 탄소중립 정책 공유 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Ri1ZWjdldVAtMTgxNmNKYmZKcVdCcWppTmV4RXBLUHlmSTBOOVRjajMzbFc3T05yblItTlkxNGpIV2hlQkpoZkxqUlU5d0tpWTJwMXFzaFFZWGR2QndoZ0VVNjJsc19BSkpjS3VVTnQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T10:52:00",
+      "description": "Goyang City Participates in Asia Climate Cooperation Platform ComP International Workshop to Share Carbon Neutrality Policies > News The Korea",
+      "summary": {
+        "phenomenon": "Goyang City participated in the Asia Climate Cooperation Platform ComP International Workshop and shared its carbon neutrality policies.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Goyang City",
+        "Climate Cooperation",
+        "ComP",
+        "International Workshop",
+        "Carbon Neutrality Policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "고양시 아시아 기후협력 플랫폼 ComP 국제 워크숍 참가해 탄소중립 정책 공유 > 뉴스 더코리아"
+    },
+    {
+      "id": "18",
+      "title": "Holding Hands and Shouting \"Carbon Zero\"... Cheonan City Overcomes Climate Crisis with 4-Color Challenge - News Home",
+      "original_title": "수건 맞들고 외친 \"탄소 제로\"… 천안시, 4색 챌린지로 기후위기 넘는다 - 뉴스홈",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkMDNnMThIZklHSTFnaUZpcEJMbkRHZkpNNjg2RTVMcGpHV1JlanZ6a2ZsQWx1MnRuM2pIWEwxT25sTWJveElfTlY4Y0xvaGdXTDkwcWptTUUxNXlpNFAxdy1CLWtoYTVPNGNjNDlR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T08:23:22",
+      "description": "Holding Hands and Shouting \"Carbon Zero\"... Cheonan City Overcomes Climate Crisis with 4-Color Challenge News Home",
+      "summary": {
+        "phenomenon": "Cheonan City is overcoming the climate crisis and advocating for carbon neutrality through its '4-Color Challenge'.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "수건 맞들고 외친 \"탄소 제로\"… 천안시, 4색 챌린지로 기후위기 넘는다 뉴스홈"
+    },
+    {
+      "id": "19",
+      "title": "Daegu Buk-gu Volunteer Center Holds 'Eco Sebaco Agreement Ceremony to Change the World' and Practices Carbon Neutrality > News - The Korea",
+      "original_title": "대구 북구자원봉사센터 세상을 바꾸는 에코 세바코 협약식 개최하며 탄소중립 실천 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vSTAwT1pRaUcycEdHZzlVc1hpbDQwVmNsZFVZRHlxRFVWZjdRakZzaU9PNG9mRl9JY3F1SG9uZWFTSGZyaW5Cb1FKQ09RSGZQU0U4ZVU0bmM4cnVOUEEtWm1EUWNyOG5BcTg3MThsZlU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-03-21T11:22:00",
+      "description": "Daegu Buk-gu Volunteer Center Holds 'Eco Sebaco Agreement Ceremony to Change the World' and Practices Carbon Neutrality > News The Korea",
+      "summary": {
+        "phenomenon": "The Daegu Buk-gu Volunteer Center is practicing carbon neutrality by holding the 'Eco Sebaco Agreement Ceremony to Change the World'.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu Buk-gu Volunteer Center",
+        "Sebaco",
+        "Agreement Ceremony",
+        "Carbon Neutrality",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구 북구자원봉사센터 세상을 바꾸는 에코 세바코 협약식 개최하며 탄소중립 실천 > 뉴스 더코리아"
+    },
+    {
+      "id": "20",
+      "title": "Kospi -7% During '3 Weeks of Iran War'... Defense Industry 'Brief Boom', Renewable Energy 'Sustained Momentum' - News1",
+      "original_title": "'이란전쟁 3주' 간 코스피 -7%…방산 '반짝 흥행' 재생에너지 '뒷심' - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UZTg2ZjlKOXZDQ3R3ajNHaWhmaldEME1QLUdSbmVYc0Q3Ukw5bVZ6SDJ5OFR5TFlRbmljcFhvYzZsNjNEWk95U21tZzVlSjhYMzlLNExfbWFraU5xQng4?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-21T21:00:00",
+      "description": "Kospi -7% During '3 Weeks of Iran War'... Defense Industry 'Brief Boom', Renewable Energy 'Sustained Momentum' News1",
+      "summary": {
+        "phenomenon": "During the three weeks of the Iran war, the Kospi index fell by 7%, the defense industry experienced a temporary boom, and renewable energy showed sustained momentum.",
+        "cause": "The three-week duration of the Iran war impacted the financial market, leading to a decline in the Kospi index.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'이란전쟁 3주' 간 코스피 -7%…방산 '반짝 흥행' 재생에너지 '뒷심' 뉴스1"
+    },
+    {
+      "id": "21",
+      "title": "[New Publication Interview] “The century-old power grid is the 'arteriosclerosis' of the climate crisis… an AI-based energy highway must be established” - Sankyung e-News",
+      "original_title": "[신간 인터뷰] “100년 된 전력망은 기후위기의 ‘동맥경화’…AI 기반 에너지고속도로 깔아야” - 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00bGp0RkxUZTZ6bHJoSjJoVU9seXpZaWVjT1BBOFd4bmhvSWtTdGcyWDY5WDJncDlIZVhUdDBmMVpTdEcyaVlXcGhxZ2ozQjg2M1oya0NYZUw2U190YW8tRUpmeUFBdVk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-21T10:03:12",
+      "description": "[New Publication Interview] “The century-old power grid is the 'arteriosclerosis' of the climate crisis… an AI-based energy highway must be established” Sankyung e-News",
+      "summary": {
+        "phenomenon": "The existing century-old power grid has been identified as facing issues akin to 'arteriosclerosis' in the context of the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "To address these challenges, the establishment of an Artificial Intelligence (AI)-based 'energy highway' has been proposed."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Power grid",
+        "Climate crisis",
+        "AI",
+        "Energy highway",
+        "Arteriosclerosis"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[신간 인터뷰] “100년 된 전력망은 기후위기의 ‘동맥경화’…AI 기반 에너지고속도로 깔아야” 산경e뉴스"
+    },
+    {
+      "id": "22",
+      "title": "Could Virtual Power Plants Be the Solution to Asia's Renewable Energy Grid Integration Challenges? - Environment Watch Daily",
+      "original_title": "가상 발전소, 아시아 재생에너지 계통 연계 난제의 해법될까 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56TDJ1NlFWRklfdmQ1eDBYUnJpZ2pBeXJBdnJxdUNWeG9GSXQtQTdlcndWOHJuZl9oUUNnUkdRRTlka0NleFphd0RGMUJlYUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-03-21T11:38:56",
+      "description": "Could Virtual Power Plants Be the Solution to Asia's Renewable Energy Grid Integration Challenges? Environment Watch Daily",
+      "summary": {
+        "phenomenon": "Challenges are emerging in integrating renewable energy into existing power grids across the Asian region.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Discussions are underway regarding whether Virtual Power Plants (VPPs) could serve as a solution to the complex challenges of renewable energy grid integration in Asia."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Virtual power plant",
+        "Asia",
+        "Renewable energy",
+        "Grid integration",
+        "Solution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가상 발전소, 아시아 재생에너지 계통 연계 난제의 해법될까 환경감시일보"
+    },
+    {
+      "id": "23",
+      "title": "[A Skewed Nation ③] Can Ulsan Become an 'AI Capital'? The Illusion That Data Centers Revitalize Local Economies",
+      "original_title": "[기울어진 나라③] 울산은 ‘AI 수도’ 될 수 있을까…데이터센터가 지방을 살린다는 환상",
+      "url": "https://www.khan.co.kr/article/202603220800031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-03-21T23:00:03",
+      "description": "Amidst the global AI fervor, 'data center construction' has emerged as a local election pledge. Its impact on local economic revitalization remains questionable, necessitating comprehensive discussions, including renewable energy transition. President Lee Jae-myung attended the 'Korea AI Highway, Ulsan AI Data Center Launch Ceremony' at the Ulsan Exhibition and Convention Center on June 20 last year. Reporter Kim Chang-gil [Weekly Kyunghyang] Can Artificial Intelligence (AI) be the aspiration of local cities? Ahead of the June 3 local elections, '...'",
+      "summary": {
+        "phenomenon": "Driven by the global Artificial Intelligence (AI) boom, the construction of data centers has been proposed as a local election pledge. Notably, the 'Korea AI Highway, Ulsan AI Data Center Launch Ceremony' took place in Ulsan on June 20 last year.",
+        "cause": "This phenomenon is primarily attributed to the 'global AI fervor'.",
+        "outlook": "Concerns have been raised regarding the actual impact of data center construction on local economic revitalization. It has been suggested that a comprehensive discussion, encompassing aspects like renewable energy transition, is essential."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI",
+        "Data center",
+        "Ulsan",
+        "Local economy",
+        "Renewable energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전 세계적 AI 열풍에 지방선거 공약으로 나타난 ‘데이터센터 건립’지역경제 활성화는 물음표…재생에너지 전환 등 종합적 논의해야이재명 대통령이 지난해 6월 20일 울산전시컨벤션센터에서 열린 ‘대한민국 AI 고속도로, 울산 AI 데이터센터 출범식’에 참석했다. 김창길 기자[주간경향] 인공지능(AI)은 지방도시의 꿈이 될 수 있을까. 6·3 지방선거를 앞두고 ‘···"
+    },
+    {
+      "id": "24",
+      "title": "After Cosmic Crisp, Scientists Unveil an Apple for the Climate Change Era - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LeGZtOEpoS0NRdVpsT3BVbF9BUUR3aFEyTWRiR1NvY0VGb1V5cGNISlRJcV94U3NHOXlmODNONHV6VGxlUm9wQ0tWamxfRFBBcjd5RERkcFFVUzk2dmxQNnhhLUUtZnRhR1FlbUlDSzJBNEVyamc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T09:00:53",
+      "description": "After Cosmic Crisp, Scientists Unveil an Apple for the Climate Change Era The New York Times",
+      "summary": {
+        "phenomenon": "Scientists have unveiled a new apple variety specifically developed for the 'climate change era'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "After Cosmic Crisp, Scientists Unveil an Apple for the Climate Change Era The New York Times"
+    },
+    {
+      "id": "25",
+      "title": "수잔 콜린스와 기후 변화: '침묵은 귀청이 터질 듯하다' - 인사이드 클라이밋 뉴스",
+      "original_title": "Susan Collins and Climate Change: ‘The Silence is Deafening’ - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ2FscjliWW9SUXRHVDZ6d3Y4clQ4Rk5OVTZCNzVXM29Jd3FOVDU0TlVlaVl3TVFRS0d0S0NvTkZ3MTdCWGM2Z3cwanNVc0lsVTMyUy1fUG83SEhBSnQ2ck5PWkZ1cXpadUJENGF6c2ZsWVU3c0xaZlQzX0poQTNVdkRhNDRkVkkzN2RTMm9lSFg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T08:55:00",
+      "description": "Susan Collins and Climate Change: ‘The Silence is Deafening’ Inside Climate News",
+      "summary": {
+        "phenomenon": "Representative Susan Collins' 'silence' on climate change has been characterized as 'deafening'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Susan Collins",
+        "Climate change",
+        "Silence",
+        "Criticism",
+        "Politics"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Susan Collins and Climate Change: ‘The Silence is Deafening’ Inside Climate News"
+    },
+    {
+      "id": "26",
+      "title": "Fearing Chaos of Climate Change, Some Seek Answers in Virtual Classroom - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjgwazZnVVdXTWVlSVZQZk5CcVFGMzRIQVhZLWhfSTBoSWx5akROV3RyYkJpS1RCY1hKS2xTMUFuLVA0R1paOVNBcUg5c1NjR25VOWVLOUVod3dwNzNZRmhyUmY2UWZreklEa0g5YW5nNVBPcW05VGhnbDNfOUhuMGo0S3Q0bFVmengyRWFMRm9nNVFHbnFJZUphanJZSldiVm5fOERqWTN1eFpEV24zVVZWOVRWajFEUXgw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T13:41:12",
+      "description": "Fearing Chaos of Climate Change, Some Seek Answers in Virtual Classroom The New York Times",
+      "summary": {
+        "phenomenon": "Amid concerns over the potential chaos stemming from climate change, some individuals are seeking solutions within virtual classroom environments.",
+        "cause": "This phenomenon is driven by 'fears of the disruption caused by climate change'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Fearing Chaos of Climate Change, Some Seek Answers in Virtual Classroom The New York Times"
+    },
+    {
+      "id": "27",
+      "title": "Colorado’s ‘unprecedented’ March heat wave shows climate change in action, experts say - SkyHiNews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcVNqQXFJNWZ2MFZWVjJFVVh1OFROc3FBNjEtaGxaekx4Y3A4RlpVanVTVGtXeG80bEtjQjRwelpLa3Q4MnF2LUc0bDNkNWZuMHRkUklIZkRQN05UNWxYMlo5bEQ1YmQtNWpxMi1hM2RXX0x3eUNTY2ZHSkx6SFdobkQ3VlNiUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T11:00:00",
+      "description": "Colorado’s ‘unprecedented’ March heat wave shows climate change in action, experts say SkyHiNews.com",
+      "summary": {
+        "phenomenon": "Colorado experienced an 'unprecedented' heat wave in March.",
+        "cause": "Experts state that this heat wave serves as evidence of 'climate change in action'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Colorado’s ‘unprecedented’ March heat wave shows climate change in action, experts say SkyHiNews.com"
+    },
+    {
+      "id": "28",
+      "title": "미네소타의 이른 봄 폭염, 기후 변화의 흔적",
+      "original_title": "Minnesota’s early spring heat wave has the fingerprints of climate change - Bring Me The News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0FieU9DbzVOdFBiZVpjcGlJQnoyb09KSkkwQ3BZSlZfMTNFeDIzLVRudnlYWFBaeHktTF8zbVFFcVdibHZIV1ptSHNNMWpVY0NxaGF5MW13alVGaS1RbER1QkJCNHFGd04yd3Zna3dsWnI4MFN2eG1XR2hvbGpFdzUzSzNWb1hibHJyTzlwWHplX1lmaG1abW11VVd6MzcwQWNySnlTcGh2amhyZGQ3dUpjWUZpZ1lM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T12:33:34",
+      "description": "Minnesota’s early spring heat wave has the fingerprints of climate change Bring Me The News",
+      "summary": {
+        "phenomenon": "Minnesota experienced an early spring heat wave.",
+        "cause": "This heat wave has been noted to bear 'the fingerprints of climate change'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Minnesota",
+        "Early spring",
+        "Heat wave",
+        "Climate change",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Minnesota’s early spring heat wave has the fingerprints of climate change Bring Me The News"
+    },
+    {
+      "id": "29",
+      "title": "Pa. joins lawsuit against Trump's greenhouse gas restriction rollbacks - Erie Times-News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekZHdHA5bjhQRjE5Y2Q5aVJBckRCZXpJWG5zME5XYVI1N3h3S0o2SFdrMjJjVEJUUjV5X0taSmNFd2lQLUFSX1JfcmdlN1UzOHFVaGhZbkMySU12VTcwN3hmUTVWMTFseHA1Y0JhcjJQbGdLZXJZbTVHM2M3bXZvdG9Ma21BUEQ3X3VZdnI4Y296T0VqWEltSGVFdFdUNEZlWjdkdFBsVE8wNEE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T09:55:00",
+      "description": "Pa. joins lawsuit against Trump's greenhouse gas restriction rollbacks Erie Times-News",
+      "summary": {
+        "phenomenon": "Pennsylvania has joined a lawsuit challenging the Trump administration's rollbacks of greenhouse gas restrictions.",
+        "cause": "This lawsuit is a direct response to the Trump administration's 'greenhouse gas regulation rollbacks'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Pa. joins lawsuit against Trump's greenhouse gas restriction rollbacks Erie Times-News"
+    },
+    {
+      "id": "30",
+      "title": "DW News. . Climate change is reshaping the Alps. At the peak of Germany’s highest mountain, a ski lift was demolished after the slope down the Scheeferner glacier melted, leading the lift operator to begin dismantling the structure after more than 50 years of s - Facebook",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMHgyck1jZE9VVDM3R0ZlMEpUblA0ekdLWXFFbnUzcDFEeU50OEdsbTVJek8tX1JUNFgtVEx5d2RxM2lwWlkyV1lQbE1zdmdiOWFzYlRBNE1aUThhSy1LOUh4alY3cXhYNkIxU3hzaDk4ejRDOTFvb01GWENYd1lWX2tneFNQUF9zbWpkY0R3WTdCVjgwUk5ZRW9NcHpLRC1Mbk9IeFVaUlI0Q3cyVi1hTnRIN0RiS0hSaWY1Vk42VzVHV0ZGUEFKLVMySWdDQ3pzSXZTWEcyaWRuZE9MRWxwbQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T21:35:10",
+      "description": "DW News. . Climate change is reshaping the Alps. At the peak of Germany’s highest mountain, a ski lift was demolished after the slope down the Scheeferner glacier melted, leading the lift operator to begin dismantling the structure after more than 50 years of s Facebook",
+      "summary": {
+        "phenomenon": "A ski lift on Germany's highest mountain was decommissioned after over 50 years of operation, a decision prompted by the melting of the slope beneath the Scheeferner glacier.",
+        "cause": "The melting of the Scheeferner glacier and broader changes across the Alpine region are attributed to 'climate change'.",
+        "outlook": "Climate change is projected to continue reshaping the Alpine region, leading to ongoing impacts on glaciers and associated infrastructure."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "DW News. . Climate change is reshaping the Alps. At the peak of Germany’s highest mountain, a ski lift was demolished after the slope down the Scheeferner glacier melted, leading the lift operator to begin dismantling the structure after more than 50 years of s Facebook"
+    },
+    {
+      "id": "31",
+      "title": "젊은 세대의 기후 위기 인식: 미래는 어떤 모습일까? - 바티칸 뉴스",
+      "original_title": "Young people's awareness of the climate crisis: What does the future look like? - Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1ctdG5UbW5NQkZzUmdXNUMxaFFSOWdpcWJub1lJaTk2eTBwbW0wdGFYamNHSS1RTWRVdmI5bHpOd21hTUhwVm8zTi1XSzVyMEdSaFMxdGhlV1NaNGVFZWpTZkVGdjlSNFFTTllLRGQ1UzB3NHktblNFc3ptNGV0ZWtlZHJONXN3a3FzZ3h0OGs2TWxyYjAzdXZlNUpkMXBaTTJ2d1VkS3VwU1BiYlhVeHZLQXdGWTJ5?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T20:46:29",
+      "description": "Young people's awareness of the climate crisis: What does the future look like? Vatican News",
+      "summary": {
+        "phenomenon": "The article title indicates a focus on young generations' awareness of the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Young generations",
+        "Climate crisis",
+        "Awareness",
+        "Future",
+        "Vatican News"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Young people's awareness of the climate crisis: What does the future look like? Vatican News"
+    },
+    {
+      "id": "32",
+      "title": "Housing Crisis and Climate Change: Overlapping Crises, Unified Solutions - Davis Vanguard",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd3NOejVVWVRCWG1CQkJKQnV0ZWZSRDVobFVoOEh5cnBFeTVwazNjRFBUaDVhdUh1eFNtX0djUlYwS1FQRmI4bnRBUXQwYld4aDV0eDlFbDV6TkRFTVZkMjVfbklqZ2Y3cEF5c2o1UXFWb0s0Uk9HY1lFaEo5c0YyLUF3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T10:44:00",
+      "description": "Housing Crisis and Climate Change: Overlapping Crises, Unified Solutions Davis Vanguard",
+      "summary": {
+        "phenomenon": "The article title suggests that the housing crisis and climate change are overlapping crises.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Housing Crisis and Climate Change: Overlapping Crises, Unified Solutions Davis Vanguard"
+    },
+    {
+      "id": "33",
+      "title": "기후 변화로 북극과 남극이 지구 다른 지역보다 더 빠르게 온난화되고 변모하고 있다 - themercury.com",
+      "original_title": "Climate change is warming and transforming the Arctic and Antarctic at a faster rate than the rest of the planet - themercury.com",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdUh1bTQzNHhxY0VkeFQzTDRmQXF5MzlFMUtLcGpacDlOaGJxRmowVVJHZHdqQ0QzWktqR3BkQVFyU1NuODM3c2hkN2Q4Y0F5Yl9HTUpUYzRHRmpnY2hYcmRTN2ZtVUNLUE9aT0UzelJFelVmeVQ4X1ZRYllGZlM0aTJCYTZ2V1dVR2VnNGdDazJPejdZZUh3bFZJOWVzMTVBdVJaTUNpS3c3dEFZZ1E3bjFMRjhwb0dMYVJfU1FoNy0zb1BBd0lwLWp1b1NJT1JjQy1IbjZiUkhkNXIxeUpqeWlRX2xMMHlHUV9CODdsQ0N2OGl1OWI5dVhWRG8zR29rV05vNw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T11:03:02",
+      "description": "Climate change is warming and transforming the Arctic and Antarctic at a faster rate than the rest of the planet themercury.com",
+      "summary": {
+        "phenomenon": "The Arctic and Antarctic are warming and transforming at a faster rate than other regions of the planet.",
+        "cause": "Climate change is causing the warming and transformation of the Arctic and Antarctic.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Polar regions",
+        "Warming",
+        "Transformation",
+        "Acceleration"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is warming and transforming the Arctic and Antarctic at a faster rate than the rest of the planet themercury.com"
+    },
+    {
+      "id": "34",
+      "title": "Energy crises must accelerate the fight against climate change - Le Monde.fr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbWFUcUlvOC1FUjZvTzlGTFhxbE9fZjJWYUg1eXpWWGg3ejRma3lYWmNiTjFOaVpyRXNtaHhfdGJ5Y0ZwM0ZYQWJiMWRHdUNrcWMtQS0zRU1GZy1IR2c0d3lQTTZMVHhBQWNicjA3V2loZU52ckJ0RU14MVpDaTJxTTVHVlN5VFZTQUhzRlgwWE9Balc1VFFTYXk1RG5xYXZUT3dUUVlGNV9uRmphMjFnQVJjNU1GdTNzLXdxM1RZT0VCMGpfc0ZiVFVMYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T13:55:44",
+      "description": "Energy crises must accelerate the fight against climate change Le Monde.fr",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is suggested that energy crises must accelerate the fight against climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Energy crises must accelerate the fight against climate change Le Monde.fr"
+    },
+    {
+      "id": "35",
+      "title": "How satellite images reveal the true speed of climate change and human transformation - MSN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORy1IcVJ6QVN1aUprdG9EbnlkcUdpU095T19od1NOVmhuYVpraWU1aEVDeDd6Z3JUTnFaanlHMFFzTEw1XzRuU2NnWjY0UHVJRVVPY0dkQU9DcDZmYjQ1UmItU1QtTGF1eHZLQmN4clZtb3N1ckF4b1BORi1hZy0xbTljam5ZaHJvQktET2t0M3dhQjA4WGpDTDRwMUF0ZTc2T0lQXzlmaUg2M3o4TGtYQmdMWDRrd2xkazBHdVhSQzZYLWNrbTM4YmtDYjBaaFJKemF6TDNReFJqdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T21:06:52",
+      "description": "How satellite images reveal the true speed of climate change and human transformation MSN",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Satellite images can be used to reveal the true speed of climate change and human transformation."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How satellite images reveal the true speed of climate change and human transformation MSN"
+    },
+    {
+      "id": "36",
+      "title": "10 Sci-Fi & Fantasy Films That Highlight Climate Change Concerns - The Good Men Project",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdk85c1hyUU5PbjFyYXNlWUFJcEM1Q01BbGluOGw1ZTEzNDctV1ZCRFJXNmZja1N0ZlhoeEg0dGJoSTIxTTg1dGFYN3hQVjlydGVHOWRQQ3JUbmZNQ0lYV3h1bUt6d3Q3MmR3MUNENW5KMmVjYTJDckxKYXhzWmJidkRVUkpXNHRza1lud0pBdWR0UzMyTUR0VlR0dDZNYkZwdGpRZEczZ0hoQWfSAbABQVVfeXFMT2lzQnZVM1pLNTZtTll5cW9LQ1hPaENXSkJMQnVlb3NNYnhkUlBLZWI4NVpzSm5LLU9LTE16WWJhQ0ZCaG5LZi15ZGFpNENZUzNTcHZlTjk0NmZqM29vVDV5aWJRMENSX2V6RzU1c3JpYkZac0cxSkd0SklIdFFvZ05YS2lKS3h5Q3doQ2xYazlnRWxJYkJXMVJBVER1dkNkeGRyZEJMV204M1VuekxIczk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T18:12:29",
+      "description": "10 Sci-Fi & Fantasy Films That Highlight Climate Change Concerns The Good Men Project",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Ten sci-fi and fantasy films are highlighting climate change concerns."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "10 Sci-Fi & Fantasy Films That Highlight Climate Change Concerns The Good Men Project"
+    },
+    {
+      "id": "37",
+      "title": "Sky News contributor Joe Hildebrand details how Minister for Climate Change and Energy Chris Bowen has attended a climate conference in the middle of a fuel crisis. - Facebook",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUi1WWFY4UXNrY0RZcG1fUGFxMG8tdlhqOVpzZmhGN3g1bC0zUElIcUJ5S1hnY1ppei1UR25uMFZHMTJwOVpwM3pWelExZVJXNmJiOG9MME1WNUdoejgwZ3hEWi01MFgwRnRfMXhHaTgycVY3Z1FTdmIyV0NETXZBUmsxUmh4SE13ODNlaU43SkRrcFpySUNZWUw2Nm5yT21TZ2dqbFk2bjctWlFXMVIyU1FCcHlJMEhEY2pjcUtnVEZ0TkVKeXRiR3I3OFFVbkZ6Rl9kWW5Da2VMNkNZMHVB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-03-21T20:46:12",
+      "description": "Sky News contributor Joe Hildebrand details how Minister for Climate Change and Energy Chris Bowen has attended a climate conference in the middle of a fuel crisis. Facebook",
+      "summary": {
+        "phenomenon": "Minister for Climate Change and Energy Chris Bowen attended a climate conference during a fuel crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Sky News contributor Joe Hildebrand details how Minister for Climate Change and Energy Chris Bowen has attended a climate conference in the middle of a fuel crisis. Facebook"
+    },
+    {
+      "id": "38",
+      "title": "미국의 이란 전쟁 14일 만에 500만 톤의 CO2 배출, 분석 결과 밝혀져",
+      "original_title": "5m tonnes of CO2 emitted in just 14 days of US war on Iran, analysis finds",
+      "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate",
+      "source": "guardian_climate",
+      "published_at": "2026-03-21T12:00:51",
+      "description": "Exclusive: War in the Middle East is draining the global carbon budget faster than 84 countries combinedThe US-Israel war on Iran is a disaster for the climate, according to an analysis that finds it is draining the global carbon budget faster than 84 countries combined.As warplanes, drones and missiles kill thousands of people, level infrastructure and turn the Middle East into a gigantic environmental sacrifice zone, the first analysis of the climate cost has found the conflict led to 5m tonne",
+      "summary": {
+        "phenomenon": "The ongoing US-Israel war on Iran in the Middle East has resulted in 5 million tons of CO2 emissions in 14 days, depleting the global carbon budget faster than 84 countries combined.",
+        "cause": "Military conflict activities, including the use of warplanes, drones, missiles, and infrastructure destruction, are the cause of large-scale CO2 emissions.",
+        "outlook": "This conflict has a catastrophic impact on the climate, turning the Middle East into a gigantic environmental sacrifice zone."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "US-Iran war",
+        "CO2 emissions",
+        "Climate catastrophe",
+        "Carbon budget",
+        "Middle East"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Exclusive: War in the Middle East is draining the global carbon budget faster than 84 countries combinedThe US-Israel war on Iran is a disaster for the climate, according to an analysis that finds it is draining the global carbon budget faster than 84 countries combined.As warplanes, drones and missiles kill thousands of people, level infrastructure and turn the Middle East into a gigantic environmental sacrifice zone, the first analysis of the climate cost has found the conflict led to 5m tonne"
+    },
+    {
+      "id": "39",
+      "title": "‘It was our little idyll – until the solar farm landed’: the battle raging in the heart of the British countryside",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/mar/21/lincolnshire-solar-farm-controversy-british-countryside",
+      "source": "guardian_climate",
+      "published_at": "2026-03-21T12:00:51",
+      "description": "In one corner, clean energy champion Ed Miliband. In the other, residents – and Reform politicians – outraged at plans for more large-scale solar farms in Lincolnshire than anywhere else in the UKAs night descends on the grand offices of Lincolnshire county council, everything appears orderly and calm. Paintings of long-forgotten councillors and dignitaries stare out into an empty drawing room. The council chamber is silent and dark. Bored receptionists glance at their phones while a handful of ",
+      "summary": {
+        "phenomenon": "Residents and Reform politicians in Lincolnshire, UK, are expressing anger and opposition to plans for large-scale solar farm construction.",
+        "cause": "The plan to construct more large-scale solar farms in Lincolnshire than anywhere else in the UK is the cause of the conflict.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "In one corner, clean energy champion Ed Miliband. In the other, residents – and Reform politicians – outraged at plans for more large-scale solar farms in Lincolnshire than anywhere else in the UKAs night descends on the grand offices of Lincolnshire county council, everything appears orderly and calm. Paintings of long-forgotten councillors and dignitaries stare out into an empty drawing room. The council chamber is silent and dark. Bored receptionists glance at their phones while a handful of "
+    }
+  ],
+  "summary": {
+    "total_count": 39,
+    "domestic_count": 23,
+    "international_count": 16,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Climate crisis",
+      "Response",
+      "Climate change",
+      "Acceleration"
+    ],
+    "sentiment_breakdown": {
+      "positive": 13,
+      "negative": 9,
+      "neutral": 4
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "기후위기",
+      "대응",
+      "기후변화",
+      "가속화"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
