@@ -1,16 +1,16 @@
 {
   "date": "2026-03-28",
   "metadata": {
-    "collected_at": "2026-03-27T23:20:39.518817",
-    "total_articles": 70,
+    "collected_at": "2026-03-28T08:14:37.162266",
+    "total_articles": 95,
     "sources": {
-      "korean": 42,
-      "international": 28
+      "korean": 64,
+      "international": 31
     },
     "sentiment_distribution": {
-      "positive": 37,
-      "negative": 11,
-      "neutral": 5
+      "positive": 55,
+      "negative": 13,
+      "neutral": 8
     }
   },
   "articles": [
@@ -1693,6 +1693,649 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "2864576b08abf80b",
+      "title": "북진하던 인삼이 정착한 홍천, 기후변화 대응 과학 영농 - 헤럴드경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNZFhySndLR3ljYTlBTmowUWtGd1kyeXlvTmJWWUtPenpUQnlKMnJYUHVBNk9TeFZwX0YzU2dweGVjYTNsRkVUdmI4QVhNQUxCV2RBYlVR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T01:00:22",
+      "collected_at": "2026-03-28T08:11:54.676427",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인삼",
+          "홍천",
+          "기후변화",
+          "과학 영농",
+          "북진"
+        ]
+      }
+    },
+    {
+      "id": "90c88ccc37a69f3f",
+      "title": "[날씨칼럼] 기후위기 시대, 스마트한 날씨 정보 활용을 돕는 국립기상과학관 - 국제신문",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0UwQTZaZVhYUkZIS050Y3Mwb0R1YlBHTVQ1QVBoOGJhbUJ3STBNVXIwcXBHU1BfanpyNlJqM0IxWFpwTGVRaFB1c1gtRWtOZVBDYldkOTJwYzhzNG9SOXBaZWVyUkQtMkdEYnZlN0x1YVJYa2tTQmdDRjR0YVVBZmVFbUNYSDB6RGRhd1FB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T02:39:00",
+      "collected_at": "2026-03-28T08:11:54.676578",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "날씨 정보",
+          "활용",
+          "국립기상과학관",
+          "스마트"
+        ]
+      }
+    },
+    {
+      "id": "64e1c38b8d454937",
+      "title": "인도, 스마트 농업으로 기후변화에 맞선다 - 환경감시일보",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CRUxkS1JIRzdwWjkzdEtzZ2FVSlBvTTdvcXZHb3NKcmg2Z3hOMGZzRTJralFFUkF4cDlTUEFFMVViQ05IbDBfOXZGeXRMLVU?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T01:54:16",
+      "collected_at": "2026-03-28T08:11:54.676758",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인도",
+          "스마트 농업",
+          "기후변화",
+          "대응",
+          "기술"
+        ]
+      }
+    },
+    {
+      "id": "f17dc4a4db609fe2",
+      "title": "전남도, 제22회 전국 수산연구기관 세미나 개최…기후변화 대응 협력 강화 - breaknews.com",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9HQWFYcnJXbjZ2TzgyQ2RWajdCSWNWZDFJZ3M5Z1VaZTJld2swaVczVHlEWXlSQnhULWJWQl9yQnFXZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T00:15:00",
+      "collected_at": "2026-03-28T08:11:54.676972",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남도",
+          "수산연구기관",
+          "세미나",
+          "기후변화 대응",
+          "협력 강화"
+        ]
+      }
+    },
+    {
+      "id": "a40b1ee9b759385e",
+      "title": "의정부시, 전기이륜차 80대 보급 추진…탄소중립·대기질 개선 본격화 - nbnnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DRFBfcFdWbFF1V0hZOWFBWUZISG1oc3FSa0hYbGVMTWppU1NYR2ZxWkpMNFhibWpST25ueWNhVFdMMHZyZmxYQ0lXXzNjeTBRTy0wSy1yT2c5QjNQNjlSSTNMem1lMkdGQU5UZ9IBcEFVX3lxTE1ocG1UWGxSZVVkOEJjZ2dVN0c4dEFBU0ZxTHc2NEkxRDBjaVMyUmQ2YUFHUnIxXzFBX1lTTWprUjhlWmFmdGdtYWZrckVQbUtHZjl5VldVbkctTjRzazloZ2tSZFJieERuT291TXptUUs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T05:06:56",
+      "collected_at": "2026-03-28T08:11:54.726576",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "의정부시",
+          "전기이륜차",
+          "보급",
+          "탄소중립",
+          "대기질 개선"
+        ]
+      }
+    },
+    {
+      "id": "f0cd4faf18848d93",
+      "title": "정명근 시장 “오늘 심은 나무 한 그루…2050년 탄소중립 화성의 씨앗 될 것” - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uLUdmRVBZczRVakhIeVNsVnNrMFk2V0k4RGxvalZ4dWp2aXl3eFpSd0R3cXNGWHNmZ19ENndsZncxN19JNnFNUlhXdWh1aVRXTnRCVWs0anZFMGxWbHFpYQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T03:42:35",
+      "collected_at": "2026-03-28T08:11:54.726630",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "정명근 시장",
+          "나무",
+          "탄소중립",
+          "2050년",
+          "화성"
+        ]
+      }
+    },
+    {
+      "id": "0246d80cfe8d6095",
+      "title": "광주 서구, 탄소중립 환경교육 운영 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83OGVPcEV6NF9iVXk1ZWtrTVRPZlpGQUVHVktzdzQ1cFFxNmNQaDhIVk84YUtOU2tNbE1OSWdDMzlvVDdwbnYwY25fWUdEempuQlB3NmVEOFhzeXhXWG1yaVlaZVJIc1lBVEJnTNIBcEFVX3lxTE9sQUR0dW9iWmNaU1BaQkh6WjUxR0duUzBHR2JpcjRDblNpVndqSFNTY0d3aGFZZjhKVnJJNFpNbE9JcGtEY2NuSDQwdi11azVCaUV0REI5eDN5a1BHb2I3R09VTFZxTGFJa1I5UmtfeDU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T04:47:00",
+      "collected_at": "2026-03-28T08:11:54.726655",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c70caed8f3f4d887",
+      "title": "광주 서구, 영유아부터 성인까지 ‘맞춤형 탄소중립 교육’ 본격 시동 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jNWhCa1E4VEEwaHB4NTc2NU1Xa1dpcU8wZXpxTU5kU21rVWF2cXNNR2dwaGdIemFqd09IYWdsVl81UnhiZ2ZXNDQzOEdTNksxX1RjNkNINWUySXlOV3BSeWtIR2s4dkRQWFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T02:00:00",
+      "collected_at": "2026-03-28T08:11:54.726758",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광주 서구",
+          "탄소중립",
+          "교육",
+          "맞춤형",
+          "시동"
+        ]
+      }
+    },
+    {
+      "id": "6a863d5bca2c9a61",
+      "title": "진우 스님 “기후위기, 사찰림 보존해 탄소중립 실현” - 불교닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfdGdvRmxEWnpPaUg1RElLLWxNeVZnZC1SX29UZXVVVUQ4TDNVaGhYa3NGTlNsbGFULVJHQnpvUlI4aDVzUnZLTmdXaEFzOGMwS3FQUTI4SFp1aGZJeXBYSUExMVRjaTJvcVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T06:40:26",
+      "collected_at": "2026-03-28T08:11:54.726804",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "탄소중립",
+          "사찰림",
+          "보존",
+          "진우 스님"
+        ]
+      }
+    },
+    {
+      "id": "8fe25a67b616fdce",
+      "title": "[대학가ESG] 영남대, 나무 심기로 ‘탄소중립 씨앗’ 뿌려 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40emdETVNLLVpyLXVxTkx0M0x0MDJUVGFJekZVY3BHdGtEc3VncVpRMVVFM19LYjdIS2VvRER0cnFNTHpQbjNlZWZzaTJMNjhOZmxaX04zQzQ2T3F4LWJVTVNYZ3g5eFA0TjZyWkstTks4Zw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T07:36:29",
+      "collected_at": "2026-03-28T08:11:54.726850",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영남대",
+          "나무 심기",
+          "탄소중립",
+          "ESG",
+          "씨앗"
+        ]
+      }
+    },
+    {
+      "id": "ce00d346d59bf5c8",
+      "title": "ETRI, AI 기반 ‘패키지형 공장에너지관리시스템’ 개발… 제조 현장 탄소중립 가속화 - 기계신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9WTXhucVJacFRWZ2dGbGpzRmVZZUJtdHhJNTlWU3ZEUmktd1IzZlM2QzJ6TklGVDNuNXFnX1FSYkdVTEF1TTlfcU1rYXZWZnltRW5hNHdZdW4ydDNFdXJSWnFxY3lkUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T03:40:21",
+      "collected_at": "2026-03-28T08:11:54.726877",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ETRI",
+          "AI",
+          "공장에너지관리시스템",
+          "탄소중립",
+          "제조 현장"
+        ]
+      }
+    },
+    {
+      "id": "a8dfe58b3c7b734d",
+      "title": "포항 수소환원제철 부지 승인…박희정 포항시장 예비후보, “탄소중립 전환 전기 될 것” - mediagb.kr",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yeEI0djdybXp1X1M2Ymc3SHFoMkFBMUM2bDNucDM0aUZJak9aWHFQUHJ1ZDZwckdRcGxBTkFILXZDNmVYUzRYbVF6UzRCMTJCSXpHVTZyZEZTZTJhcURaRkZxVWk0V3J3cC1yb3YwNXJxb1BoeTdFbHFINzA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T06:26:14",
+      "collected_at": "2026-03-28T08:11:54.726922",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항",
+          "수소환원제철",
+          "부지 승인",
+          "탄소중립",
+          "전환 전기"
+        ]
+      }
+    },
+    {
+      "id": "3fea10d73d7fd37c",
+      "title": "충남도의회 '충청남도 2045 탄소중립·녹색성장 실현을 위한 특별위원회, 제3차 회의 개최 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JdHltNnQ0SlpVdFBJSWtzRENUTWJ1SjVqN0xUZWFnUVY4TmhvZk9JMm1paWd2Mi1VOWk0SGtHZ3VRSEF1N0UtQ044RkJsRFpTdUZ5ejZXSVdVVWpDUi1iQmtRdVlmTnll?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-03-27T18:30:00",
+      "collected_at": "2026-03-28T08:11:54.727291",
+      "keywords_matched": [
+        "탄소중립",
+        "녹색성장"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도의회",
+          "탄소중립",
+          "녹색성장",
+          "특별위원회",
+          "2045"
+        ]
+      }
+    },
+    {
+      "id": "93c404bf8e3ce62c",
+      "title": "강임준 “군산, 재생에너지 기반 첨단산업도시로 전환”…일자리 1만개 공약 - 투데이 군산",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iMVlMWHU1dkdjRUZZOHR1WGpHeWFaTzJ3OG5FZDJnQ2ZfX2lhdHU3aFR2bXdweUdweHJya01yOWZEcEw4Ty0zMmtmdzVsTTFvdjRiTTVucy1HdGpiVUQ3cmpKRklQV2hmWXdFeHkxLTI?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T04:19:43",
+      "collected_at": "2026-03-28T08:11:54.607862",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "강임준",
+          "군산",
+          "재생에너지",
+          "첨단산업도시",
+          "일자리"
+        ]
+      }
+    },
+    {
+      "id": "e43c847eab7128ff",
+      "title": "‘재생에너지 자립도시’ 해남, 민관 협력으로 본격 추진 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pRmFrbGpvejlQcjZhbDFHNTRTWW1lUjJUTTRJVW9OVEdZWDBRYkQ0c1pDRFp3MUJ3WEh5V2hwRk1ka1VtNVNLUDhuMkxlX2xrNE94VGNuQTJzYmZJTW1jZVYxVmx6dw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T01:34:05",
+      "collected_at": "2026-03-28T08:11:54.607895",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "재생에너지",
+          "자립도시",
+          "민관 협력",
+          "본격 추진"
+        ]
+      }
+    },
+    {
+      "id": "7b0b87f31682ffb2",
+      "title": "강임준 군산시장 예비후보 “재생에너지 기반 미래 첨단산업도시로 전환할 것” - 위즈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKRThNUFQ2VHlvYWhMcnpuQ3lIbl9KTThGWTJSUU9jVVNlWTd0bUxBVzlpb1VTRzZKN1pXTzFMZmlfeDl3QzV3aUVSWEx0cUZNTkVoTENEVV9rSnhhVWlNQVF4TEw2ay1TWU80?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T05:36:46",
+      "collected_at": "2026-03-28T08:11:54.607924",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "강임준",
+          "군산시장 예비후보",
+          "재생에너지",
+          "첨단산업도시",
+          "전환"
+        ]
+      }
+    },
+    {
+      "id": "f028b7f9964a1d1c",
+      "title": "LG엔솔 파트너사, 튀르키예 태양광·재생에너지 전시회 참가…ESS 솔루션 집중 소개 - 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81cHJZOTktMVcxMEJ1YWd6U1AyOFp1RW1lZGQ4bjJTMlpzZ3p5ajBrYnp3QTR6SUt1X2FSWjFuRXdkY2NuemcxZWk2TGRNYWJuZVFvSk1KU3hYZEQ0eV9sVHFR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T00:34:06",
+      "collected_at": "2026-03-28T08:11:54.607953",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LG엔솔",
+          "튀르키예",
+          "태양광",
+          "재생에너지",
+          "ESS 솔루션"
+        ]
+      }
+    },
+    {
+      "id": "a876bd75f159551c",
+      "title": "영국, 국가 안보 우려로 중국 풍력 프로젝트 차단... 재생에너지 분야까지 번진 서방-중국 갈등 - 브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10MEhSRDJBSGxLdHM4aVBhNjRaZmRSbGNSZ180YnFMQW0wVTRCd1RKUlpmcXYyZjRyM3JZQnV0a3RfajFoSWsweEdqSF8?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T05:52:02",
+      "collected_at": "2026-03-28T08:11:54.608057",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "영국",
+          "중국",
+          "풍력 프로젝트",
+          "국가 안보",
+          "서방-중국 갈등"
+        ]
+      }
+    },
+    {
+      "id": "6093d67a8ce537cc",
+      "title": "대구지방환경청, 대구·경북 재생에너지 전환 ‘기후에너지협의회’ 개최 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zem56U1FOTkNLOVR3bnJCMnZ2dlB1UG1WTnRXb2N4VjVGdEZWeVdoU2dCSE5QSWN5WGxScXFLOU1mUm8xMzRjb1RJVy1HS2R2Q3MzSk1QMFlaNVhyM2VN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-27T23:10:45",
+      "collected_at": "2026-03-28T08:11:54.608156",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대구지방환경청",
+          "대구·경북",
+          "재생에너지",
+          "기후",
+          "협의회"
+        ]
+      }
+    },
+    {
+      "id": "a5871307e7507370",
+      "title": "'스페인 대정전' 진짜 원인은…\"재생에너지 탓 아니다\"[넷제로글로벌스터디] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcWdHVWw0S1ZEdGtNYWkwNXhwaDZtNndGMGtLcm85X3pwYV9MTU0wRVBzSmRXYlJHTkphQTQ3S2FoYVJkcldjZmh0NWVIQVJ2Rmpz?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-28T01:10:00",
+      "collected_at": "2026-03-28T08:11:54.608478",
+      "keywords_matched": [
+        "재생에너지",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "613063c965062b5e",
+      "title": "대구시, '재생에너지 주택 설치비' 지원…에너지 전환 박차 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rZi03amZFcUg0V1ZLX3VDcXFTZ0VCTmd3aVZkdWdjYWVvTE5XdUNpUlNwbnNnRFFoWVRnV1lyREJMU2dEWnBmdUVOSnNEQUlwTm1hYU9uTTQ5WWRsQVVNTlVRVmtkdlRfZmZUOTRmenJuZHNx?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-27T23:54:39",
+      "collected_at": "2026-03-28T08:11:54.608856",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대구시",
+          "재생에너지",
+          "주택",
+          "설치비 지원",
+          "에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "cdc8c18c0a019202",
+      "title": "영덕 풍력 화재, 재생에너지에서도 드러난 '위험의 외주화' 그늘[기후로운 경제생활] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BOVRiN1lLV2hJZUI5TUNzX1dkb2F2VV9LNTkySnhPXzM0VDQ0bkxSM1pUaFYtUlBETTNnRS1FWTU3UHJCekJ3NXNLYTZVU3hIQi00?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-03-27T20:02:00",
+      "collected_at": "2026-03-28T08:11:54.609035",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "영덕 풍력 화재",
+          "재생에너지",
+          "위험의 외주화",
+          "안전 문제",
+          "기후 경제"
+        ]
+      }
+    },
+    {
+      "id": "74c0192e8033fad7",
+      "title": "Small group of Alaskans rally for climate action at Capitol - KTOO",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcTBEdTNDSzRfdDhveUM1U3dYX050Z2VUM2JER1FoOS1Gc2k5c3dVR1hPZWFmMUZsSnNLQzN5SUpYSVZNUXk3Rnl0anRzLVQ5Q3p1S28taXV5R2NxaFB3aDd2eEwxelBSM3NFNHFXVk9GTkdsRDFncXlOQ3NUUVpDVk9GTS15M0JOaW9EWEE1TjZwQXA1am9z?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-28T00:25:40",
+      "collected_at": "2026-03-28T08:11:55.578001",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "소규모 알래스카 주민들, 의사당에서 기후 행동 촉구 집회 - KTOO"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "알래스카",
+          "기후 행동",
+          "집회",
+          "의사당",
+          "소규모"
+        ]
+      }
+    },
+    {
+      "id": "22be121bf82d048e",
+      "title": "Elemental by Arthur Snell: how climate change influences who holds world power - The Irish Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSm9KZkdyQkNCSTV1dmdCdjdOOUlQQkhPUmNCNUtFQk9ydEE1UEVnc29oV2dfTHQ2dFRVbmdhOGtpOVpGbkE5bzYtSnFMSUVOQkV5dy1xVnJCTzVWMTBWQjBSc1RKREgxOHN6LTFIdHVOUVEtMHJkWHgtTC1zVnQxTndUaHNzc3ZzSzVfM2J3eDNwM3BUQmZsdl85UWV5VmxjLWtoQ2tUMlNXVU4wbWxzVWZzdDl1dFFISFNObXhXdTVfNW9rQkN0bEVoRU5oVmNEODJ3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-28T04:15:38",
+      "collected_at": "2026-03-28T08:11:55.578600",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "아서 스넬의 '엘리멘탈': 기후 변화가 누가 세계 권력을 쥐는지에 어떻게 영향을 미치는가 - 아이리시 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "세계 권력",
+          "영향",
+          "아서 스넬",
+          "엘리멘탈"
+        ]
+      }
+    },
+    {
+      "id": "165386bf82fd0569",
+      "title": "On climate change, India has a good story to tell - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblp6V0FsdDY5S0FoZ0xDMk41RFhDOG9qS3FGZXM5bFV6WUhRSW9YZU02dU5ham55cURqQnRQNGIybGhoTDJPNnBoaTViWGhBQzY5Q0Y1RHhWUFBzVDdlMlo0NVZzbTdINUlDb1U2V0lPMWtWX1RDYzhyVGNkX0NsNV93NmxSdXMzR1FLLXJpYnJ3WjJiZHByYnhBRzbSAaMBQVVfeXFMTTJRVkFaUWptcUtNbVg0dkZLdU5Za1NBWEZzM0dBNUhwUWhTUkxlQjBoUVFfbFVEM2Y1d1U1b3NGWWFLZlhMajFMaHNUbnVOU0Fpd3Z4TVFhYkQ3OFg2UzBLazY0NkN0WU12MnRwbDN5X2RhYlFYVHlPejdIcVBBcHdTT3JNUXV5S1czU3lsS0VwTFpmWm5ibzRpS3F0UFFYdnVpaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-03-28T00:52:49",
+      "collected_at": "2026-03-28T08:11:55.579308",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: 인도가 들려줄 좋은 이야기"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인도",
+          "기후 변화",
+          "긍정적",
+          "이야기",
+          "성과"
+        ]
+      }
     }
   ]
 }
