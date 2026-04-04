@@ -1,0 +1,585 @@
+{
+  "date": "2026-04-04",
+  "generated_at": "2026-04-04T23:15:18.400400",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for April 4, 2026.",
+    "sections": [
+      {
+        "title": "⚠️ Domestic and International Temperature Rise and Climate Change Impacts",
+        "content": "According to news released today, domestic temperatures in March were higher than average, indicating the impacts of climate change [1]. Internationally, India is experiencing heatwaves and extreme weather, and Rhode Island homeowners have been advised on the need for plans to prepare for climate change impacts [15, 21]. Furthermore, discussions are ongoing regarding the Younger Dryas, a phenomenon of rapid climate change in the geological past [18], and climate change garden strategies are being explored to adapt to warming landscapes [19]. These developments highlight a growing awareness of both the current impacts and future predictions of climate change.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Carbon Neutrality Practices and Forest Creation Efforts",
+        "content": "Positive movements for practicing carbon neutrality are active in various regions across the country. South Chungcheong Province is promoting the spread of carbon neutrality by cultivating future forests with its residents [3], and the Jeonju Saemaul Association also launched a tree-planting campaign for carbon neutrality [5]. Additionally, the Cheolsan 2-dong Residents' Autonomy Committee is leading daily carbon neutrality efforts through a 'Carbon Green Day' food-sharing event [6], demonstrating the widespread voluntary environmental protection efforts centered around local communities.",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Accelerated Renewable Energy Transition and Market Changes",
+        "content": "Fluctuations in international affairs, such as oil price shocks originating from the Middle East, are creating new opportunities in the renewable energy sector and driving market changes [7]. Amidst this trend, interest in the renewable energy sector is intensifying, with HD Hyundai Energy Solutions' stock price hitting its daily limit [10]. Domestically, Taebaek City secured 2.8 billion KRW in dividends from the Gadeoksan wind power project, demonstrating the potential success of renewable energy investments [9], and Gurye County signed an MOU to promote a development project for generating basic income for its citizens using renewable energy [13]. Internationally, Hyundai Motor is expanding its electric vehicle car-sharing service in rural Spain [12], and Fraport Greece is constructing the first photovoltaic park at Thessaloniki Airport [22], indicating an accelerated transition to renewable energy across various fronts. However, the instability in Southeast Asia's power generation strategies due to Middle Eastern variables presents an opportunity for solar power but a burden for LNG [11].",
+        "tone": "positive"
+      },
+      {
+        "title": "🇰🇷🌍 Climate Change Response Policies and Societal Discussions",
+        "content": "Policies and societal discussions for responding to climate change continue to be addressed as crucial tasks. Domestically, interest in the direction of amendments to the Carbon Neutrality Framework Act persists [2, 4], and alongside criticisms that renewable energy discussions have become politicized, the opinion has also been raised that South Korea's nuclear power plant ratio relative to its land area is not high [8]. Internationally, there are concerns about the impact of federal budget cuts on climate change initiatives [14], and the Nebraska State Museum is hosting monthly science labs on climate change to enhance public understanding [16]. Furthermore, international efforts continue, including students in Harpswell envisioning the future of their town [17], demonstrating the participation of future generations, and TotalEnergies and Masdar collaborating to combat climate change [20].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing covered a range of news, from the direct impacts of climate change to global efforts to mitigate and adapt to it. Reaffirming that responding to the climate crisis is a long-term challenge requiring continuous attention and action, this concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "March Temperatures Higher Than Average... Impact of Climate Change - DaejeonMBC",
+      "original_title": "3월 평년보다 기온 높아⋯기후변화 영향 - 대전MBC",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Zbk5DRkFHR3hFZmlfZnFDYzJ2STVhUW90MDhWS1Q1dVpWNDMzYi1WNU5nZ1hXTHpCcmJpdTNYV21oSFFSVkhHejVDUXhMYTA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-04T08:36:39",
+      "description": "March Temperatures Higher Than Average... Impact of Climate Change DaejeonMBC",
+      "summary": {
+        "phenomenon": "Temperatures in March were higher than the annual average.",
+        "cause": "Temperatures rose due to the impact of climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "March",
+        "Temperature",
+        "Average Year",
+        "Climate Change",
+        "Impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "3월 평년보다 기온 높아⋯기후변화 영향 대전MBC"
+    },
+    {
+      "id": "2",
+      "title": "Direction of the Carbon Neutrality Framework Act Amendment - kairnews.com",
+      "original_title": "탄소중립기본법 개정의 향방 - kairnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1uOFlmLVpsWThla1FHbFRsUU5pX3FZTnlRUTVhOGVBTWtXZXpJM1JnTTk4MWRhbDBNS2lkNnNJdWNnWDVYWGRFVUFLbFc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-04T22:28:05",
+      "description": "Direction of the Carbon Neutrality Framework Act Amendment kairnews.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Discussions on the direction of the Carbon Neutrality Framework Act amendment are expected to proceed."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Carbon Neutrality Framework Act",
+        "Amendment",
+        "Direction",
+        "Carbon Neutrality",
+        "Climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립기본법 개정의 향방 kairnews.com"
+    },
+    {
+      "id": "3",
+      "title": "South Chungcheong Province, Spreading Carbon Neutrality by 'Cultivating Future Forests Together with Citizens' - gukjenews.com",
+      "original_title": "충남도, 도민과 \"미래 숲을 함께 가꾸며 탄소중립 확산\" - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wMlloLS1aVnEwaXRoOXZCcHpFSTh6X1ZNNmdyc0VLcWNNWU1ick5oSl81SnJFaV8wUF9OMGQtbXpiUHRyUkFSSVJrSjQ1ZXhWMXV6YVQ1a0dES2FVNzFXbkVjZ0lpTW93SGZrS3pR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-04T09:47:21",
+      "description": "South Chungcheong Province, Spreading Carbon Neutrality by 'Cultivating Future Forests Together with Citizens' gukjenews.com",
+      "summary": {
+        "phenomenon": "South Chungcheong Province is promoting activities to cultivate future forests together with its citizens.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Carbon neutrality is expected to spread through forest cultivation activities."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "South Chungcheong Province",
+        "Provincial Citizens",
+        "Future Forest",
+        "Carbon Neutrality",
+        "Spread"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도, 도민과 \"미래 숲을 함께 가꾸며 탄소중립 확산\" gukjenews.com"
+    },
+    {
+      "id": "4",
+      "title": "Direction of the Carbon Neutrality Framework Act Amendment - sisadays.co.kr",
+      "original_title": "탄소중립기본법 개정의 향방 - sisadays.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDYkdGYzlfb1Nzem1HbEpyR3dpMGFmZHNOZ05MdjRUVXo5QUdBQl9RWWZhWExrRWNHb3ZjTHN4ZXZXRUcwUEhCZngzRDNyMmM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-04T22:27:21",
+      "description": "Direction of the Carbon Neutrality Framework Act Amendment sisadays.co.kr",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Discussions on the direction of the Carbon Neutrality Framework Act amendment are expected to proceed."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Carbon Neutrality Framework Act",
+        "Amendment",
+        "Direction",
+        "Carbon Neutrality",
+        "Climate Policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립기본법 개정의 향방 sisadays.co.kr"
+    },
+    {
+      "id": "5",
+      "title": "Jeonju Saemaul Association Launches Tree Planting Campaign for Carbon Neutrality Practice - Jeonbuk Nvision",
+      "original_title": "전주시새마을회, 탄소중립 실천을 위한 나무심기 캠페인 전개 - 전북엔비전",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90a3FIb2xzdjJUTE01SVIxY05jZTNzQjd4eXRySC1xWHBQaXE0czBIemdVWTVuWXlBeVIyS0kyUGFncTVxaGNBQVgwbS1sWkhwOVpMdGxTSDFjTndvUFlGU3pYWnQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-04T12:54:00",
+      "description": "Jeonju Saemaul Association Launches Tree Planting Campaign for Carbon Neutrality Practice Jeonbuk Nvision",
+      "summary": {
+        "phenomenon": "The Jeonju Saemaul Association launched a tree planting campaign to practice carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonju Saemaul Association",
+        "Carbon Neutrality",
+        "Tree Planting",
+        "Campaign",
+        "Environmental Protection"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전주시새마을회, 탄소중립 실천을 위한 나무심기 캠페인 전개 전북엔비전"
+    },
+    {
+      "id": "6",
+      "title": "Cheolsan 2-dong Residents' Autonomy Committee Leads Carbon Neutrality Practice with Carbon Green Day Food Sharing > News - The Korea",
+      "original_title": "철산2동 주민자치회 탄소그린데이 음식 나눔으로 탄소중립 실천 앞장 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15WWZ2SWRuUThMcVFJUGVXcTEtMDIxdHR1UVVmWTNKOXNXdmw5OFdrYV9oYi1FWUlDbGVrdV9ZTUtVX090YmZULUR1Z3lMdi1kZU1TVUdvMmRmbTduT2VpMmZpQzBPczBZcUhBU3pvWU0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-04T10:56:00",
+      "description": "Cheolsan 2-dong Residents' Autonomy Committee Leads Carbon Neutrality Practice with Carbon Green Day Food Sharing > News The Korea",
+      "summary": {
+        "phenomenon": "The Cheolsan 2-dong Residents' Autonomy Committee took the lead in practicing carbon neutrality through a Carbon Green Day food sharing event.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheolsan 2-dong",
+        "Residents' Autonomy Committee",
+        "Carbon Green Day",
+        "Food Sharing",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "철산2동 주민자치회 탄소그린데이 음식 나눔으로 탄소중립 실천 앞장 > 뉴스 더코리아"
+    },
+    {
+      "id": "7",
+      "title": "Amid Middle East Oil Price Shock... Renewable Energy, 'Neglected' by Trump, Rises [World Now] - Segye Ilbo",
+      "original_title": "중동발 유가 쇼크에… 트럼프 ‘홀대’ 재생에너지 뜬다 [세계는 지금] - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHdFc0UXQ2dEVteU1DV1gtc2tIOUJ0TjI3c25Fb2lQR3hja1JWMkNyM2FhMVA4djlRajg1cFZTTU1OZHZoaTEtRWU4VGxIeVJiNkdrRnR5RTXSAVRBVV95cUxQQ2ZoRFNOWk9VMk9HWDdQWGkzQTZ0dzc0WEVhRWQ4UTNaQTZtVG5PNzNja1pyMDVWdnFHbXc0VExCc3kyN2lYQzd2c0hFZzNEeUVDQko?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T13:00:00",
+      "description": "Amid Middle East Oil Price Shock... Renewable Energy, 'Neglected' by Trump, Rises [World Now] Segye Ilbo",
+      "summary": {
+        "phenomenon": "An oil price shock originating from the Middle East occurred.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The importance of renewable energy is expected to be highlighted due to the oil price shock from the Middle East."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Middle East",
+        "Oil Price Shock",
+        "Trump",
+        "Renewable Energy",
+        "Energy Transition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중동발 유가 쇼크에… 트럼프 ‘홀대’ 재생에너지 뜬다 [세계는 지금] 세계일보"
+    },
+    {
+      "id": "8",
+      "title": "[Interview+] Park Joo-heon: “Renewable Energy Discussions Politicized... Korea's Nuclear Power Plant Ratio Not High Relative to Area” - Seoul Economic Daily",
+      "original_title": "[人터뷰+] 박주헌 “재생에너지 논의 정치화돼... 韓 면적 대비 원전 비율 안 높아” - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIUjdTYUJZa3drLUtkRHBaODFXZkpUTmo2TmhsdVRZUm00Y0RKU2V6RDN0UVUyZG9WTGtsVGJXbEM1c0lpN3pzQVJDRDlJUWZfZ2fSAVNBVV95cUxQUWhqUDNUajFxalJxQzJ0d080dUxaUWpTSTRUYkkzZWhDY0pBTnVEU01BbExNN0hlRlZpVVEyNG41aWZ3cFFZNklYVm1ncnBuYmNicw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T22:30:00",
+      "description": "[Interview+] Park Joo-heon: “Renewable Energy Discussions Politicized... Korea's Nuclear Power Plant Ratio Not High Relative to Area” Seoul Economic Daily",
+      "summary": {
+        "phenomenon": "Mr. Park Joo-heon stated that discussions on renewable energy have become politicized, and Korea's nuclear power plant ratio is not high relative to its land area.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Park Joo-heon",
+        "Renewable Energy",
+        "Politicization",
+        "Nuclear Power Plant",
+        "Korea"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[人터뷰+] 박주헌 “재생에너지 논의 정치화돼... 韓 면적 대비 원전 비율 안 높아” 서울경제"
+    },
+    {
+      "id": "9",
+      "title": "Taebaek City Secures 2.8 Billion Won in Dividends from Gadeoksan Wind Power... 'Big Hit' in Renewable Energy Investment - asiae.co.kr",
+      "original_title": "태백시, 가덕산 풍력발전 배당금 28억 확보…재생에너지 투자 '대박' - asiae.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13cGJRODlYUnJFU1BpYzRPZE1ldWMxT1Uxb2tNSjFIVGliTmppZ1UyZmVrOXhQWXlsS3hnVXYzTE8xUUNmODF2ZlNoQ3JNNTF1OUd1cTdTUE94bEpXRUlTag?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T08:13:33",
+      "description": "Taebaek City Secures 2.8 Billion Won in Dividends from Gadeoksan Wind Power... 'Big Hit' in Renewable Energy Investment asiae.co.kr",
+      "summary": {
+        "phenomenon": "Taebaek City secured 2.8 billion Won in dividends from Gadeoksan Wind Power.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Taebaek City's renewable energy investment is evaluated as a successful case, which could positively impact renewable energy investments."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Taebaek City",
+        "Wind Power Generation",
+        "Dividend",
+        "Renewable Energy",
+        "Investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "태백시, 가덕산 풍력발전 배당금 28억 확보…재생에너지 투자 '대박' asiae.co.kr"
+    },
+    {
+      "id": "10",
+      "title": "HD Hyundai Energy Solutions Stock Hits Upper Limit... 'Must Watch Direction of New and Renewable Energy Sector' - CBC News",
+      "original_title": "HD현대에너지솔루션 주가 상한가 찍어…'신재생에너지 섹터 향방 등 주시해야' - CBC뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ldnI3ZjBtUkRPYmp4dmZKOUFOb2xyVEg0eE9uazJwN2lPdWRCYTVtOWtOZU1NTklpTnBtVHVJdklyQmpfMTdkZGIyV1BTenNUdG9JTWxVNUtnemtTNXJpeVZET25sbkVz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T15:05:00",
+      "description": "HD Hyundai Energy Solutions Stock Hits Upper Limit... 'Must Watch Direction of New and Renewable Energy Sector' CBC News",
+      "summary": {
+        "phenomenon": "HD Hyundai Energy Solutions' stock price hit its upper limit.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The direction of the new and renewable energy sector should be closely monitored."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "HD Hyundai Energy Solutions",
+        "Stock Price",
+        "Upper Limit",
+        "New and Renewable Energy",
+        "Sector"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "HD현대에너지솔루션 주가 상한가 찍어…'신재생에너지 섹터 향방 등 주시해야' CBC뉴스"
+    },
+    {
+      "id": "11",
+      "title": "Middle East Variables Impact Southeast Asia's Energy Strategy: Opportunity for Solar, Burden for LNG - Jiksseol",
+      "original_title": "중동 변수에 동남아 발전 전략 흔들…태양광엔 기회, LNG는 부담 - 직썰",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4bjFwb3RkZXVEVjBTbFNsQTlBQ3JwYUxWX0ZabWdHYldCSDNvT0VWeDI3dVRGd0JEZ0liX3VlRTZzQ3pWWjltQXY3c1lNVm1KR0I5cU1OS2hTNmNUSzNLdlMwYUwzSzdu0gFsQVVfeXFMT05uYkU2OG9XczJYTGhWMnZnelpFdDdvcGJaTkc2eGtaWmx3bDNOWHB0dEpnU2hlTmxJa1ZpVk9OLVE2Mk4zZnhkcm1uZGdUWUhrdjhueHFIWERWbUdaRmNVZUtzc1pQUW1MNVBB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T23:00:00",
+      "description": "Middle East Variables Impact Southeast Asia's Energy Strategy: Opportunity for Solar, Burden for LNG Jiksseol",
+      "summary": {
+        "phenomenon": "Southeast Asia's energy development strategy is being destabilized by variables in the Middle East.",
+        "cause": "Not mentioned in the article",
+        "outlook": "These Middle East variables are anticipated to present opportunities for solar power development in Southeast Asia, while simultaneously posing challenges for LNG-based power generation."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Middle East",
+        "Southeast Asia",
+        "Energy Strategy",
+        "Solar Power",
+        "LNG"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중동 변수에 동남아 발전 전략 흔들…태양광엔 기회, LNG는 부담 직썰"
+    },
+    {
+      "id": "12",
+      "title": "Hyundai Motor Expands 'Plan Vive' EV Car-Sharing in Rural Spain, Partners with Naturgy - The Guru",
+      "original_title": "현대차, 스페인 농촌 전기차 카셰어링 '플랜 비베' 확대…나투르지와 맞손 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1UTzk1eUxyMzZqNWJNRTdrU2J1cmhkb0RBZl9VUWpkWXpsQ0h5cWtJM2dIcEUySEZUQndBbnFjNlVpUXctM0F4WTVMenZVWnZMbHJVcGVvQ1hrbDVKdzJvWEdGLVgxdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T22:00:30",
+      "description": "Hyundai Motor Expands 'Plan Vive' EV Car-Sharing in Rural Spain, Partners with Naturgy The Guru",
+      "summary": {
+        "phenomenon": "Hyundai Motor is expanding its electric vehicle car-sharing service, 'Plan Vive,' in rural areas of Spain through a partnership with Naturgy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hyundai Motor",
+        "Rural Spain",
+        "Electric Vehicle",
+        "Car-sharing",
+        "Plan Vive"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "현대차, 스페인 농촌 전기차 카셰어링 '플랜 비베' 확대…나투르지와 맞손 더구루"
+    },
+    {
+      "id": "13",
+      "title": "Gurye County Signs MOU to Promote Development Projects, Generate Basic Income for Residents Through Renewable Energy - Korea Political and Economic News",
+      "original_title": "구례군, 재생에너지로 군민 기본소득 창출..개발사업 추진 업무협약 - 한국정경신문",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paEJGVExLM0tDMXYwOWxERDViYkkxNEMxZnZlTUFvdkNfNF9wUkFlUGZXclFfVmQ4Ui1jSlY0U3VSYjJFWnNGbGlZeTBhcGF0Y2c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-04T08:18:48",
+      "description": "Gurye County Signs MOU to Promote Development Projects, Generate Basic Income for Residents Through Renewable Energy Korea Political and Economic News",
+      "summary": {
+        "phenomenon": "Gurye County has signed a Memorandum of Understanding (MOU) to promote development projects aimed at generating basic income for its residents by utilizing renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gurye County",
+        "Renewable Energy",
+        "Basic Income",
+        "Development Project",
+        "MOU"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "구례군, 재생에너지로 군민 기본소득 창출..개발사업 추진 업무협약 한국정경신문"
+    },
+    {
+      "id": "14",
+      "title": "연방 예산 삭감이 기후 변화 이니셔티브에 미치는 영향 - 스펙트럼 뉴스",
+      "original_title": "Impact of federal funding cuts on climate change initiatives - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQS1hJRXEtV29jUHQ2cDdvT1FEMGxpTlV0a1JIRkh3U0d1MGxhSjJwdUpwNmRyT2llamI1bzFVUmRKZ3YxZGZyNy04dWhBT2tGSVRtRXI5am1lMFZQbkdxMzdFV19UaFM3aUN6UTB1OE1Xam9UT2hIV3FNWEJHOXpnaVdscGkzaGdiVE16cnR6VklGZXp2b0p5T3lQWHlkV2hhUzFseFgtYUhaQ3RjbHhKay1VaFUzdGNnRExoVTNVZUExemM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T21:07:39",
+      "description": "Impact of federal funding cuts on climate change initiatives Spectrum News",
+      "summary": {
+        "phenomenon": "Federal budget cuts are impacting climate change initiatives.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Federal Budget Cuts",
+        "Climate Change",
+        "Initiative",
+        "Impact",
+        "Climate Policy"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Impact of federal funding cuts on climate change initiatives Spectrum News"
+    },
+    {
+      "id": "15",
+      "title": "RI homeowners need a plan to prepare for impacts of climate change | Opinion - The Providence Journal",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeWRGNFJGQzdEc29mbGg0UWlhazdOdFhTSEhiR3dhOXpjYXRHbFNuM1RjM2cwTy1MZ3lTYWFSRFIyNzc1ZGhZODJ2NlU1Sy1JNkozcnloeGg2dVZmQzAyRkh1MDhiWVdxWlRLUGIybHBtTTZBalR6Y0c5VFR4cGxnOGtQeUNyTzlVSVdlc2ZzSUNKLXJTNEszMV9OR2xKRXVHaGgxYjdLWk9VeTVSRnhxd2JNZXBvd0NuV0ZCUkhFdlI4UlZzQUVoUXNVVTFMaTkwZXVrd0VWMDIwb2E1bERBdExuZVlZa2FqSkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T10:06:00",
+      "description": "RI homeowners need a plan to prepare for impacts of climate change | Opinion The Providence Journal",
+      "summary": {
+        "phenomenon": "An opinion has been put forth stating that Rhode Island (RI) homeowners require a plan to prepare for the impacts of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "RI homeowners need a plan to prepare for impacts of climate change | Opinion The Providence Journal"
+    },
+    {
+      "id": "16",
+      "title": "University of Nebraska State Museum hosts monthly science lab on climate change - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjByb2JWU3VkSW90UWFrdnFxeG93ajdNaVQ0cG51bV8xcmUtMmFJSm8tUU1kc1FVbnhqRkF4OFJfNThtaW5teElhZlhrR1dwbFV3b3Q1NEtYR3VPUUdxZWp5WFgxRzBIcjk5LU80MXhqc2hUNWtESFl6YlJzQUNBckN6Z0dBNnJDMTlndFBUbVNDcW9CUzdiSFVPVkZmREZaU3dOR0E5c21KN1hOamfSAcIBQVVfeXFMUEpDT2JXVm4zbEZFTHhnQm12VEM4aGxDanVzd2t6ZEQ4WFJQa2x5eDhZeHlOSndvcEpOMnNKeU1iVlpMWGRUX3RGcUdrUUJxWml3NGhoa3ZGcU5oRjNvN3FFMXQ2cUpMaGsydXQtMDJXOWsxRTY3OVBaN3dndk1xZm1Tb0tzaHVsZnRKVnNodHQxcW1FanVTd2tiMGIwOThrUzh3dW14U3g4TFY4NVlRUjZkbTNpTVp1Z1VuZjNLa2IzZWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T21:23:00",
+      "description": "University of Nebraska State Museum hosts monthly science lab on climate change KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "summary": {
+        "phenomenon": "The University of Nebraska State Museum is hosting a monthly science lab focused on climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "University of Nebraska State Museum hosts monthly science lab on climate change KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE"
+    },
+    {
+      "id": "17",
+      "title": "기후 변화 속, 학생들 미래 하프스웰을 그리다",
+      "original_title": "Amid climate change, students envision a future Harpswell - The Harpswell Anchor",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZHRJSERRSjlXUHhFZmxtZzlYYW9NOVVSbWlnWkczb3BNd2FhQW96Z0FIRXhHZkQ5bVJaekQ5V0hmQUlVTGFqRUZEXzZIVmxBZXhWWUlMMllNZ3hzQnlNcHktU2FBVzNKZUctQUlwcHN1RmRyX05RTnZOUmR3eFhMbS0tbWlwZ0puZVVyTDFBT0NtZlAweC1KRg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T21:33:26",
+      "description": "Amid climate change, students envision a future Harpswell The Harpswell Anchor",
+      "summary": {
+        "phenomenon": "Amidst ongoing climate change, students in the Harpswell area are envisioning the future of Harpswell.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Students",
+        "Future",
+        "Harpswell",
+        "Envisioning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Amid climate change, students envision a future Harpswell The Harpswell Anchor"
+    },
+    {
+      "id": "18",
+      "title": "Lori Dengler | The Younger Dryas: Abrupt climate change in the recent geologic past and what it could mean - Times-Standard",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdW9fTHc0dDZzZTk0WTdHVXFYdnBBdkdsU1ozemg3MWp1UUd6Ri1rRUt4T0tMQUtIVjR5Yk03TGxsUFZNS0RWd0dONlVpbUJsMlNfN2dybjUtZExudXJRLTV2N2tYVXRyVHVFMFVFOXZuNXNxanlLcFRpaEkwcVFxWjNDRzEzTUhiMXpIc0NtNFJQUVBPZlVNaHd2YW14cWxMWmRPTXlhUWJ1U19mUE81YUFnMnlnWjFsNWV4MWNoSkRGZmdGLXBjdmFxRGVlcUFGNEJ0bUxRcUNzaE9YNDE4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T19:25:42",
+      "description": "Lori Dengler | The Younger Dryas: Abrupt climate change in the recent geologic past and what it could mean Times-Standard",
+      "summary": {
+        "phenomenon": "Discussions are underway concerning the Younger Dryas, an abrupt climate change phenomenon that occurred in the recent geological past.",
+        "cause": "Not mentioned in the article",
+        "outlook": "An outlook is expected to be presented on the potential implications of the Younger Dryas phenomenon for the present day."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Lori Dengler | The Younger Dryas: Abrupt climate change in the recent geologic past and what it could mean Times-Standard"
+    },
+    {
+      "id": "19",
+      "title": "기후 변화 정원 전략: 온난화하는 풍경을 위한 - 이글-트리뷴",
+      "original_title": "Climate change garden strategies for a warming landscape - Eagle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZmdNbUZqV1VfYXFNVHZJel9KcjNIejhKdF9oN3Y4UFlZY2dJanJqZHNWRlZMNnh0LXo3UmtHN3dEVnlRQkthbFpOeU1xRGx5YlBaamcxbkw2RklYY2NpSXpTZEJlX2prdlpzQUwzNU5HXzhGelhPZXV2YU41ZXg0Ry1HQ2x3Tkw3ckM3WUlTaEo0WFlkR2xVeko5Y3A4UjV1cC0xSlRTQVdoaEl3ek1ReC1tZHBpOE5YbXAtUm9UX0I3S1NLOEh5eXMxNHV6c2RLTDE3c0xFYmtJak4weFBQRnp5QQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T09:00:00",
+      "description": "Climate change garden strategies for a warming landscape Eagle-Tribune",
+      "summary": {
+        "phenomenon": "Climate change garden strategies are being presented to adapt to a warming landscape.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Garden Strategy",
+        "Warming",
+        "Landscaping",
+        "Adaptation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change garden strategies for a warming landscape Eagle-Tribune"
+    },
+    {
+      "id": "20",
+      "title": "토탈에너지스와 마스다르, 기후 변화에 맞서 협력하다 - News.az",
+      "original_title": "TotalEnergies and Masdar join forces in the fight against climate change - News.az",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYW5UMWs2TTFsWGt2a3RVbkIzd25aTC1mT3h1THcyaFp4UTl4ZGVpeGZ4OTJPdEV3c2YtVzlIcU1tZzNxT3FaaDRDdm5HcGN1M1IyM01uVi1QWEVjTU1ZVzJwNy1CNkJTdHR6SHdHZnFDMERLV2FaRmNncW1SbXNTWUlYLUNITWJsQThES3ZRWDlpNTVwWFlISQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T08:36:25",
+      "description": "TotalEnergies and Masdar join forces in the fight against climate change News.az",
+      "summary": {
+        "phenomenon": "TotalEnergies and Masdar are collaborating to combat climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "TotalEnergies",
+        "Masdar",
+        "Collaboration",
+        "Climate Change",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "TotalEnergies and Masdar join forces in the fight against climate change News.az"
+    },
+    {
+      "id": "21",
+      "title": "폭염과 기후 변화: 인도는 극한 기상에 대비되어 있는가?",
+      "original_title": "Heatwaves and Climate Change: Is India Prepared for Extreme Weather? - The Morning Voice",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3Q1WkRhVzdiMXNWTHNmVDBWVW1JdDZnMkNCZFFtS1dnVG9oTmhNZmNVTTZKdHg5ZGZqNFY4Q1NmRmV6R3BtZ2tVN3ItMVdFWjFCVHVPSVNoeVZPRWgwdDhqYzVIak9qMWxQRFhEZlhaQ3NMZEpnc19GMFQ4RkxkcWRCdTlwYXU1OEwzenM5ZUFaSm5MQTJvcWlEWnBEeF9HUmhndGRWb2s?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-04T19:34:42",
+      "description": "Heatwaves and Climate Change: Is India Prepared for Extreme Weather? The Morning Voice",
+      "summary": {
+        "phenomenon": "Heatwaves and extreme weather are occurring in India, but specific figures, regions, or timelines are not mentioned in the article.",
+        "cause": "Climate change is mentioned as the cause of heatwaves and extreme weather.",
+        "outlook": "The article raises the question of whether India is prepared for extreme weather, but specific future impacts are not mentioned."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Climate Change",
+        "India",
+        "Extreme Weather",
+        "Preparedness"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Heatwaves and Climate Change: Is India Prepared for Extreme Weather? The Morning Voice"
+    },
+    {
+      "id": "22",
+      "title": "Fraport Greece Pioneers Sustainability with First Photovoltaic Park at Thessaloniki Airport, Boosting New Energy Autonomy, Reducing Carbon Footprint and Enhancing its Green Energy - Travel And Tour World",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPRWtqWWxXQ2YwaEotWnVxdG1qRHJhMzdvTHRNVldKdnpnT0laeDgxUjdpdEtyQjY0bmJzd1BSTjVGbjllNUV2VEdfWHVyR0cxd3hvakhCQ1lkbF9BdVFKRzhpbFZfa1Nna0RWNFF1ME8zUXNfbVl5VmNMR1ByckRRTm9tSmdyZTNjMjRLbTRQYU14eHpSU2RCR1hxM0h5dDJQNVpuSWp1R0ZOa3dSZUVCbXN3WXpRY1NWel9xNHVBTEZUN292RDZNTWhQZ256VEJmUnRzTVZvSjVCdXkzV3dmQjJmd25tS2RiM2FMLXM2dGV2eTVIUjhybThqemVkdmhBQnV3a0JQWTVHUVZMQzNpN3BhdHJrMkU5aVdyMHpDV1NMdnFYMmRtYV9ibWZhYXJUWV9KQmwybllVU253U0N4QUIwaHQzV0VKNnc?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-04-04T17:39:10",
+      "description": "Fraport Greece Pioneers Sustainability with First Photovoltaic Park at Thessaloniki Airport, Boosting New Energy Autonomy, Reducing Carbon Footprint and Enhancing its Green Energy Travel And Tour World",
+      "summary": {
+        "phenomenon": "Fraport Greece has constructed the first photovoltaic park at Thessaloniki Airport, but the specific timeline is not mentioned in the article.",
+        "cause": "This was undertaken as part of sustainability efforts to enhance new energy autonomy, reduce the carbon footprint, and strengthen green energy.",
+        "outlook": "It is expected that through this, Thessaloniki Airport's new energy autonomy will be enhanced, its carbon footprint will be reduced, and green energy will be strengthened."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Fraport Greece Pioneers Sustainability with First Photovoltaic Park at Thessaloniki Airport, Boosting New Energy Autonomy, Reducing Carbon Footprint and Enhancing its Green Energy Travel And Tour World"
+    }
+  ],
+  "summary": {
+    "total_count": 22,
+    "domestic_count": 13,
+    "international_count": 9,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Renewable energy",
+      "Climate change",
+      "Climate change",
+      "Impact"
+    ],
+    "sentiment_breakdown": {
+      "positive": 10,
+      "negative": 5,
+      "neutral": 3
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "기후 변화",
+      "기후변화",
+      "영향"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
