@@ -1,16 +1,16 @@
 {
   "date": "2026-04-05",
   "metadata": {
-    "collected_at": "2026-04-04T23:15:18.401553",
-    "total_articles": 22,
+    "collected_at": "2026-04-05T08:17:46.865210",
+    "total_articles": 77,
     "sources": {
-      "korean": 13,
-      "international": 9
+      "korean": 66,
+      "international": 11
     },
     "sentiment_distribution": {
-      "positive": 10,
-      "negative": 5,
-      "neutral": 3
+      "positive": 50,
+      "negative": 11,
+      "neutral": 6
     }
   },
   "articles": [
@@ -554,6 +554,1383 @@
       "keywords_matched": [
         "sustainability"
       ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "efb038ed64ee3cc1",
+      "title": "[프리즘] 기후변화에 틀어진 봄…축제 시기 ‘오락가락’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GSE5WamRTV1NrUFUxbTNFazk3SFVYYkRuQWdPX2tQZkdtS19UaVZZZU1BX2xNMzM0RDlEdXNNS0QtaWxtSkJuRnh6bGdsMTA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-04T23:47:06",
+      "collected_at": "2026-04-05T08:12:29.513212",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "봄",
+          "축제",
+          "시기",
+          "오락가락"
+        ]
+      }
+    },
+    {
+      "id": "7e32390eac6920f8",
+      "title": "서울시, 기후변화 대응 혁신기술 실증 지원…최대 2억원 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xamR3c0tWb2ZRY3AtLVNReHdRU29pYnkzMmNqb2NJUThyd0RYY3d1cDJpM3ZPY3Q4TjlqaHo2WTltZElmSUJMb05TemlBTGN1U0QwUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:15:00",
+      "collected_at": "2026-04-05T08:12:29.513252",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "기후변화 대응",
+          "혁신기술",
+          "실증 지원",
+          "2억원"
+        ]
+      }
+    },
+    {
+      "id": "69faa4816a3447f3",
+      "title": "식목일 맞아 여야 '탄소중립'·'기후변화' 강조 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5URFh6ZDRaQ20wS0pxMjlxUzVvWHp4STFxemNoUk51X1BEOFhscjJlaGd5U3Y2N1BKWmsxTkw3NzRMd1drSVdVSi15dlZqV2Y1VW1Z?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:05:00",
+      "collected_at": "2026-04-05T08:12:29.513283",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "식목일",
+          "여야",
+          "탄소중립",
+          "기후변화",
+          "환경 정책"
+        ]
+      }
+    },
+    {
+      "id": "7cdfbbb0f37bb8e4",
+      "title": "서울시, 기후변화 대응 혁신기업 찾는다…최대 2억·실증 장소 지원 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05OGVXdXE1aTFrVzhuRU1CT19mXzFxbkJtUnMzLTlhbDRPZVpKWkFnc2xOV3BpSkEzblJjeWQzN1RWUWRORm9RR2tCY09PTTB6LWZQMjNpS1JQRng0c1I4RFBDNlJwUjBtclE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:15:00",
+      "collected_at": "2026-04-05T08:12:29.513318",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "기후변화 대응",
+          "혁신기업",
+          "실증 장소 지원",
+          "2억"
+        ]
+      }
+    },
+    {
+      "id": "f4664ba0b3cd3da7",
+      "title": "서울시, 기후변화대응 기술 실증 참여 기업 모집…최대 2억 지원 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90VDhLM1pRaTZKZWxGd2VfT0YtTHFxZTVoOFJZQjRVbkQwMTJma2wyOVNDQTlEa05fZWw1c195T1JHeHFranZJUmkwVUN0SFdNd2puX2dKclIzN0ct?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:15:00",
+      "collected_at": "2026-04-05T08:12:29.513349",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "기후변화대응",
+          "기술 실증",
+          "기업 모집",
+          "2억 지원"
+        ]
+      }
+    },
+    {
+      "id": "9095cc63449cf838",
+      "title": "온실가스 감축부터 적응까지…서울시, 기후혁신 실증기업에 최대 2억·장소 지원 - kitvnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45VFA1dHdlelZfU3poZmpSQkhNZzFWZ2VueTJKMHpUZFhzMlNPNzNUdE15WThGMnF5VXYtZTljaktEbERmdXItQ3FnZDNORUMtRWphU3Y2SFdCQ2NBd1NDejNXU09Pdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:50:29",
+      "collected_at": "2026-04-05T08:12:29.513470",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "기후혁신",
+          "실증기업",
+          "온실가스 감축",
+          "기후 적응"
+        ]
+      }
+    },
+    {
+      "id": "0b7574cb6052adff",
+      "title": "서울시 '온실가스 감축 기술' 실증사업 참여기업 모집 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZYm0wemtKMXZlX0ZFY2lJRGhIZGtTcWJSVlpEc0l4MEs5WmVqOUlwWVBDLVNHVjRvdW9vdXBpT042a1RCWnkxVjNHRHpuRG8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:16:38",
+      "collected_at": "2026-04-05T08:12:29.513551",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "온실가스 감축",
+          "기술",
+          "실증사업",
+          "참여기업 모집"
+        ]
+      }
+    },
+    {
+      "id": "e5e0a184c45d49e2",
+      "title": "서울시, 기후변화대응 기술 실증 참여 기업 모집…최대 2억 지원 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42anVoenhfMnNzWXVVWVE3ak9hTWU1N2hia3FVWmd4TUFzOXVsNzRrU1ROZkF1dEs4VllzdDU0RnBqNWwwYU1BV09CZEw4bjN0eDRz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:17:00",
+      "collected_at": "2026-04-05T08:12:29.513750",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "기후변화대응",
+          "기술 실증",
+          "기업 모집",
+          "2억 지원"
+        ]
+      }
+    },
+    {
+      "id": "492e9b32cb5d49ea",
+      "title": "녹색연합 \"기후위기로 백두대간 침엽수 집단고사 중\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RMDh4ZFJmazRvLVRtNktMaW1RQ2xPdDMyaVVzODQ4OW5xbkU4WUt2LWsyLXVsT2U0WHVVWk5ETlQ1ckNtWmE4SHZzWWRJc00?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T03:01:48",
+      "collected_at": "2026-04-05T08:12:29.513775",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "녹색연합",
+          "기후위기",
+          "백두대간",
+          "침엽수",
+          "집단고사"
+        ]
+      }
+    },
+    {
+      "id": "b220dc1bc6ec6c40",
+      "title": "[프리즘] 기후변화에 틀어진 봄…축제 시기 '오락가락' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNU3Fta2QtUlNBZ1ZaTVBoTFByVWc1WnJDN3dDOUY5MVlzOXlDMl9ldkxpQUdwT1N6X0xpbGlNbWhEeFBmT1hZeDFERnlnWGtFdDg5YU5mN0pHcFAwbWllakFRMFJnNnN6ZHQzNUpoZUFTd1dvMGpoSA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-04T23:47:00",
+      "collected_at": "2026-04-05T08:12:29.513802",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "봄",
+          "축제",
+          "시기",
+          "오락가락"
+        ]
+      }
+    },
+    {
+      "id": "37729e58b5eb420a",
+      "title": "2025년 한국 이상기후 재난 종합 분석: 산불·폭염·가뭄·집중호우 동시 발생 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1nc1M0QjNsMEtOaHJyX05kajVFNFNab2RLT2VjcWhtM0VIMGlxeHdyWWc0bVN2djlQZnp6SUp1UWJ0eHh4YXRxYkExVVA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T03:43:51",
+      "collected_at": "2026-04-05T08:12:29.513891",
+      "keywords_matched": [
+        "폭염",
+        "가뭄",
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "이상기후",
+          "재난",
+          "한국",
+          "2025년",
+          "동시 발생"
+        ]
+      }
+    },
+    {
+      "id": "0e6178ae7db4695f",
+      "title": "충남 도민과 함께하는 나무심기로 탄소중립 앞장 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83V1MtRHNYNFJSMTNoNUFLcWJkcjNVeEt4Tm83VzJjaFI3ei1BYjlpSW1SVGV6VmVoc1JEaXljb3RycV8tb3J2Mzg2bnJqMkRhamFwSFlHanlodw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:30:00",
+      "collected_at": "2026-04-05T08:12:29.514375",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남",
+          "나무심기",
+          "탄소중립",
+          "도민",
+          "기후행동"
+        ]
+      }
+    },
+    {
+      "id": "c2831e20d6af1aa3",
+      "title": "與 \"식목일, 탄소중립 실천 출발점…책임있는 정책으로 기후위기 대응\" - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mc2t2TWFJVUJmYUZCM29ZRmV1V1JhRnhwN2E4ZlJlTzU3MU1WREtZeXN3Q2VzTW41WUhmY0JTNnJVbnJhQ0l0amZ2bV9iWkRia3VaN2U4V3ZqT3Y0ZXdrRtIBeEFVX3lxTE5JbnNnQXF2UXRDak5ZSzdlTzN3WThxbjFrc3JjaXJHbTBYSXpscDl1WUd4My1ZZnE1cXlpR1QwLWJsZ2pfcW9ibmdRcV92NHZ0RkNHTUxJdEJhd0pGR1lfMW5xcHdNeC1zR1VhVlRsbDBhVFlkLU9Wdg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:22:23",
+      "collected_at": "2026-04-05T08:12:29.564412",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "식목일",
+          "탄소중립",
+          "기후위기",
+          "정책",
+          "여당"
+        ]
+      }
+    },
+    {
+      "id": "95fbbbe88ff500ef",
+      "title": "경남 '탄소중립포인트' 車3041대 모집…최대 10만원 인센 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tUlAtRWwwcWoxdzNuYWJ3S2dsc2ZuSGNoTmRYSFNidTRjOXZSRU1aeFh5SUl2YXBENURPRUhMMjc4QWZKNlBSeFYxYlI1MEtxTHR3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:49:00",
+      "collected_at": "2026-04-05T08:12:29.564475",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남",
+          "탄소중립포인트",
+          "차량",
+          "모집",
+          "인센티브"
+        ]
+      }
+    },
+    {
+      "id": "65afc1e449cbda6e",
+      "title": "식목일 맞아 여야 '탄소중립'·'기후변화' 강조 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hUzcwZjJydlZONE1teDloTFZUTE1mU0k5U0Z6YnE0VFNwX2xoaWFYQ1ExZkNTZzdmZmg2clU4SXlBZmYtNTJDZmhCaGFSX0dIY3FKVTl2QTlOUdIBVEFVX3lxTFBLVFc3X00tcktWQUxQNWw0UlpNWXhxYXViTUJ3dHlraWF4dUJmTHdrNHRYVVd6SjZRMVRHZVN5VWpHWFo3OE1JR0pIeGFKWHlDM0YzXw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:04:13",
+      "collected_at": "2026-04-05T08:12:29.564523",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "식목일",
+          "여야",
+          "탄소중립",
+          "기후변화",
+          "강조"
+        ]
+      }
+    },
+    {
+      "id": "de232241af94cf21",
+      "title": "충남도, 도민과 함께 심은 ‘탄소중립’ [힘쎈충남 브리핑] - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKVWhoYndqaTBvUm4xNDdoel9JX2NzOG5WN1dvMXdabkFraDFtd0VQb21ScW45T0lmbnVYT0ZOZHRqVUpId2JMRWRBaXBjYVZJYnFEV1F3NXVkWXVwT2I3ZFNfYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:48:16",
+      "collected_at": "2026-04-05T08:12:29.564550",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "298bac38160d5b91",
+      "title": "포항, 자동차 탄소중립포인트제 참여자 모집 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZ0RNUnQ1TU5ZNnh3aUNjUW5lNGFCb2VQaHROTzFPV0l4VDhuMllHMlJqSm41RG90bE1jZFRQLU1adkc3V183ZVl1bmZmR0pWR2Y4UHRxMTdnOVI3elRqYUpzd2JUX19tak9ndi02cEk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T04:58:58",
+      "collected_at": "2026-04-05T08:12:29.564574",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "3ec3f0f2c8be446f",
+      "title": "경남도, ‘자동차 탄소중립포인트제’ 참여자 추가 모집 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIdVVQQkZSeTRsV1BfcldGZ1hQdXlJMUx6eEI2R2JrYW5VajI4Q09sVllRcVlwdlVEdlR1VE5wS2lHY2haZ3BvWkNjck4xbW8zTjFiTmJfWEJFYkZFMTdJ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T03:59:50",
+      "collected_at": "2026-04-05T08:12:29.564598",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "추가 모집"
+        ]
+      }
+    },
+    {
+      "id": "74b0c6fc0e50659f",
+      "title": "포항시, 자동차 탄소중립포인트제 참여자 591명 선착순 추가 모집 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkMld3TjJHakRKejVETkxfb0ZrTUdhNkJPbUllaDI3eExHY3E3R1IycG9yTHl3QW1RbWNCNF9vQWJRRGRTb25FS2YtUkFFeS1PTENJQkpjMk5GUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T07:41:00",
+      "collected_at": "2026-04-05T08:12:29.564644",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "추가 모집"
+        ]
+      }
+    },
+    {
+      "id": "266ebbe738bb4aba",
+      "title": "구미시, 주행거리 줄이면 현금…자동차 탄소중립포인트 2차 모집 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBvQUhSWWY5dHRzdTVnalNfTUJwLVZsdHUzcTd0Y0ZjdmlQMXdpTVlNMFZ2bS1KS2pvZE9MTWJ2Z2Y0TTUtWDR1VS1QMlp4dkVFVHNiSk5pYTRTTDBIMktLUENYcjF1Q3pKcUQxOUF2VQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T08:03:46",
+      "collected_at": "2026-04-05T08:12:29.564670",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구미시",
+          "탄소중립",
+          "자동차",
+          "주행거리",
+          "탄소중립포인트"
+        ]
+      }
+    },
+    {
+      "id": "4f5dcceb2a0c78b1",
+      "title": "강원테크노파크, ESG경영·탄소중립 실천 위한 제81회 식목행사 개최 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zVlVxZk1ueC1HT0xYWU5zdV9TUE91VW5rU3AweGZzOXBPY2FVdlppRnctX2FZS190cmsxdkZBcldMTXQ2d0x3cERvbE5MM2syc1RhN1RvdGo5aXB6N2U0M2NsQWY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T04:01:20",
+      "collected_at": "2026-04-05T08:12:29.564698",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "강원테크노파크",
+          "ESG경영",
+          "탄소중립",
+          "식목행사",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "1034d1cd7fc20efe",
+      "title": "경남도, '자동차 탄소중립포인트제' 3041대 추가 모집···최대 10만 원 지급 - 더경남뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81dTEzc0NoTlVUZ05TNjdCNHdKc25rQUh5TUo3dV96WTBBTklmUkJnQ3c3Qnk5Q3ZtU1hGWFV0RWhWU1BNeWdmME95M2J2WkJoTEVlVQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T04:10:06",
+      "collected_at": "2026-04-05T08:12:29.564726",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "자동차",
+          "탄소중립포인트제",
+          "추가 모집",
+          "10만 원 지급"
+        ]
+      }
+    },
+    {
+      "id": "873ea90138ff6da0",
+      "title": "철산2동 주민자치회, ‘탄소그린데이’ 음식 나눔… 탄소중립 실천 - 뉴스팜",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxR1ctaFk3S3J2Ym1CLVcwbzB0NS1WaDBsLTNVTDVxT0ZjOTNoMWwzS19qNERSeHE1Z3E4UG5tTXNBRXoxZEIwQUZsaE5VWXpGVUZtTnFIcDM4SmZWNHNWN3BzakNfNjVKV0E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T07:27:33",
+      "collected_at": "2026-04-05T08:12:29.564753",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "철산2동",
+          "주민자치회",
+          "탄소그린데이",
+          "음식 나눔",
+          "탄소중립 실천"
+        ]
+      }
+    },
+    {
+      "id": "553b4fa2230643b1",
+      "title": "한수원, 안전한 계속운전으로 에너지 위기 대응과 탄소중립 실현 - 데일리대구경북뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iRW84eVBfa2tua2s0ZS1ZVzFCUkZWNEZoaFB3VElfbDdvdnhLRDhvWWY0VG1aODltNmxGaXhkSk5tSE1uaWJjVlFPdEl4VWZhemUwR0xZUjFoQzZINm5xWW4wSm15dw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:10:21",
+      "collected_at": "2026-04-05T08:12:29.564781",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한수원",
+          "계속운전",
+          "에너지 위기",
+          "탄소중립",
+          "안전"
+        ]
+      }
+    },
+    {
+      "id": "f50f8006d133845a",
+      "title": "구미시, 자동차 탄소중립포인트제 2차 모집… 최대 10만원 혜택 - 다경뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5yRVpWMDVSaWE0V1RyUjBhUmZxcUhrVHFBa1lpMkRHVkxtdllMODNZNlBtSk1TMUM0RldNemgxajJRLVJZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:40:06",
+      "collected_at": "2026-04-05T08:12:29.564813",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구미시",
+          "자동차",
+          "탄소중립포인트제",
+          "모집",
+          "혜택"
+        ]
+      }
+    },
+    {
+      "id": "2162abd5f925b95c",
+      "title": "포항시, 자동차 탄소중립포인트제 참여자 591명 선착순 추가 모집 - 한국시사경제",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14cUtCUjJiS2EwNHRfaE5PTUptcVROMG5ScWZMMWNWa2Y4blUzSng4dTdlaXg4TUNpSmF1dEJpc0RrajVhTzR4MFJzYzY1aUFjaUpnN0hwZDNnejExalF2Yzl1ZS1GTTlnVVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:52:54",
+      "collected_at": "2026-04-05T08:12:29.564840",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "추가 모집"
+        ]
+      }
+    },
+    {
+      "id": "5bd95b359c60cf33",
+      "title": "울산해경, 제81회 식목일 맞이 ‘탄소중립’ 나무심기 캠페인 전개 - 정필",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4TVI5ZHdwcW9uLWNMX3VES2YwajJEeTh3d1d0ZEVOR0RSQTdtNU55elBrMl93SS02RzJWMU50SGNkNmhqMm5v?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T05:13:00",
+      "collected_at": "2026-04-05T08:12:29.564865",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "울산해경",
+          "식목일",
+          "탄소중립",
+          "나무심기",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "c0c762141ac431c3",
+      "title": "대전 대덕구, 어린이 탄소중립 체험 프로그램 ‘지구를 반짝여요’ 운영 - 뉴스밴드",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kUjd5bW9XSC00ZWVfMk0yYkIwSWQ2Y19zOVRJZ3NBNjRyTUZtdzlZajc1WS1PVFJVNVd0VnoxcWp4N2xyOThiTkRVYVNhaGpkOU11SnBGRTNrVmE3ci0xSC1yYTRaUGhZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T07:42:06",
+      "collected_at": "2026-04-05T08:12:29.564892",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 대덕구",
+          "어린이",
+          "탄소중립",
+          "체험 프로그램",
+          "지구를 반짝여요"
+        ]
+      }
+    },
+    {
+      "id": "ef6ceaf0342a1369",
+      "title": "자랑스러운 진도인, 탄소중립 실천에 앞장서다 - 전남인뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNUJFZDhBSktsSkpEVUpUakU1djFmRWFuMEVOMG4taU9fQlhZVnlnSVM1LUtuS2hpVHhsbFYtMGVCMk5iOTlzcUN2bVJwOTE5ak9MaWJhdWVyd2dQNmtKeFZ6Z0tIX3NDMnc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:34:03",
+      "collected_at": "2026-04-05T08:12:29.564916",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b4c29890e8dbdda7",
+      "title": "광진구, 아차산서 나무심기 행사…탄소중립 실천 나서 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucjJEck5kd3RJMEI2VDI1ajktcFp6REp5M19VWS1PQk1DOUtyZHA1ZkVnbEhISjJEQXcxb0VTZDY4R3BnVjFxREt1cWpaaEYxQnZuSUYtRHljZDBZYnkxQmxoa0F4Y0gxNDFsLS14cWc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:27:20",
+      "collected_at": "2026-04-05T08:12:29.564958",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광진구",
+          "아차산",
+          "나무심기",
+          "탄소중립",
+          "행사"
+        ]
+      }
+    },
+    {
+      "id": "6fd3907496d080a0",
+      "title": "이혜경 교육장과 직원들의 '초록빛' 공조… 탄소중립 실천하는 논산 교육 - 대전일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1odk14RTRkeGJneDh2ME1MdGZvMElrdVdyVF91djUwaHAwbkoxN1U0OE44VXRONnRLdFBjdC00ZVNiMEdKWnNrQmptcHRCZHpZRG9jYk1LVnZmTzRlU0pUbFFmb295N3Q5Y2R1b2VxONIBc0FVX3lxTE1QYW1nLUctZWxfNnJLb0d2N3l0Smh6d3U4SF9yN3J4VXhoVkVfdnh0NTZ4OG5oT2U4VDNGQ0NjdVRwR21IUVcyRFh3b0ZxVnVSTFJFak1fUE5idzM2UzJBUVZXMHk0dkRacVcyckxya0lfYkU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:53:00",
+      "collected_at": "2026-04-05T08:12:29.564991",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "논산 교육",
+          "이혜경 교육장",
+          "초록빛 공조",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "e66bab86a83baa73",
+      "title": "고리2호기 35개월 개선 끝 재가동…“계속운전으로 에너지 안보·탄소중립 기여” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5Sl9FNlBnYThUcTFmR0tBV1dmYUhJcF9GRXczMXc4aGlwaGlOUW12NlNhVUZJMncyRUlSTkR4a041N1lNOGk1dzU3dzVhOVk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:11:23",
+      "collected_at": "2026-04-05T08:12:29.565019",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고리2호기",
+          "재가동",
+          "에너지 안보",
+          "탄소중립",
+          "계속운전"
+        ]
+      }
+    },
+    {
+      "id": "bb7b2016347603eb",
+      "title": "경남도, 탄소중립포인트제(자동차) 참여자 추가 모집 - 경남뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yQlNvbExJR2l0UDUwSVU4Z3BUSC1IajcwQ2JCbnUwV0V1LU1vdmppSmE4S2w1OFhQRXg5TU9OM2VHQV9kbUpJbTRIWldQSWdPS3lyZ2V6Y01ZdWFPdVhILWtzUkRvNmVkdzNXbWhvY1dXdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T03:09:50",
+      "collected_at": "2026-04-05T08:12:29.565043",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "탄소중립포인트제",
+          "자동차",
+          "참여자 모집",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "15499fdc8cf4695a",
+      "title": "경남 '탄소중립포인트' 車3041대 모집…최대 10만원 인센 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TWU9mUzI2aGhFU19vMHlnLXlqTk1KUVcyNXRSM3NIM1RpWlJZWkM1TWhKWWZLZ21HQi1iSFhSVm5OY3R3T0V1UmdxNHFpMUNYRTQ0SjFNWXdZVTV1Z21ZetIBeEFVX3lxTE5Rd2xGWFJkZk9pUC1jVktTTEF2ZE1NQjJGOF8teFcyN2EzRXhCcnFJc3hTLWVyWVpQYl9rLW5qYXR1U3p6b3gtcmUxSEJZWW5WMVVMY19UMF9mOTJPenp1X3lkLUloVEVaRWhpVExLMDNTaUEyNnVQWQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:48:12",
+      "collected_at": "2026-04-05T08:12:29.565068",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남",
+          "탄소중립포인트",
+          "차량",
+          "모집",
+          "인센티브"
+        ]
+      }
+    },
+    {
+      "id": "2fd9ab0e146c6e40",
+      "title": "구미시, 자동차 탄소중립포인트제 2차 참여자 선착순 모집 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uVnVmbzZxaWNRZmZ6cl8xUWx0b1dUdEt5eVVMQWJ5VUxVeEpCal9IZkhFN05fVGNwcUVTOEdEaDV0bXZxNjJ4X0pIWVhVckNLXzh6R0llRlVJYzNBWXJYOWdVTHktVVJuU1VFS2xvcFlOUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T07:33:57",
+      "collected_at": "2026-04-05T08:12:29.565092",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구미시",
+          "자동차",
+          "탄소중립포인트제",
+          "참여자",
+          "모집"
+        ]
+      }
+    },
+    {
+      "id": "7d3b13d594604005",
+      "title": "식목일 맞아 ‘ESG 숲 조성’ 본격화…산불 복원부터 탄소중립까지 - 나눔경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ia1dQYWxYNWdjTkUyOUk4ZGl6YmNXM3Y4cjlBbHh5QkI3N2dtWkp6d2pLbGVqeVdtZ3RJbUlqZE1pRHFqdVZ3azZMWVRERjFqaW1lb3pUN0g4MkstU1hZSElNZVFMQ0RvNWIxZA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:10:31",
+      "collected_at": "2026-04-05T08:12:29.565136",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4246907fc9897c3b",
+      "title": "탄소중립기본법 개정의 향방 - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YOUpROWk0dXRmVzlFZlJLWnRoTUpXNGh3WGVfVDZ5RlJrdWZNdGlkcE1ob2VZYVhVMmJWQUVOQldaZjdNYjc5eDE0dzJ2V2lCOXc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-04T22:27:21",
+      "collected_at": "2026-04-05T08:12:29.565158",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립기본법",
+          "개정",
+          "향방",
+          "유스연합",
+          "법안"
+        ]
+      }
+    },
+    {
+      "id": "bbd19a12773008bd",
+      "title": "비그림파워 “韓서 50억 달러 규모 신재생에너지 사업 추가 추진” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wYk05dm9rakV6Qi1sNC1FSUZDZ0NKM19qVEJzbWt0NlpZelhTNjJPdEJ5a0JycGo5Tjc3cHZXNmN5UDZVOWdRckNfOGEtQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:00:00",
+      "collected_at": "2026-04-05T08:12:29.616260",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "비그림파워",
+          "한국",
+          "50억 달러",
+          "신재생에너지",
+          "사업 추진"
+        ]
+      }
+    },
+    {
+      "id": "4597654ae174cb8f",
+      "title": "구례군, 재생에너지로 군민 기본소득 창출 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlQnJfcmdELUo0MEtobC1TRnZ6cjR6Mk9FMUtCa01hSHF6NzJ3TFJyaFdlVmxDLTBSUTAzY0tSaWx4Z2gzQzBod0RLaXlaX09JLTRPTlc5RUJQMWFMYndLQ19xU2l2R3dJckN3cNIBcEFVX3lxTE5oYXJ0ZW9kNUxoOUViMEUycW83VFd3bDctY3hfajY2VTFwRzhoNkxISVd5SjZ3ZzltU0NjWFBQUFNsSTVtZmFZYXZYT0ROQWVwS0VKQ0d5TzZYbEYyWk5jYTF2OEo4OUw2ZWtMTXBxRk4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:27:00",
+      "collected_at": "2026-04-05T08:12:29.616383",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례군",
+          "재생에너지",
+          "군민",
+          "기본소득",
+          "창출"
+        ]
+      }
+    },
+    {
+      "id": "021b98d993550ad1",
+      "title": "'신재생에너지 보급' 융복합지원사업 참여자 모집 - 고양신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0yUWtYQVktMURJcER3SVU3djF3dTlpNWw5NjVyelJjSzFkWEVSek9QanN3MThYOFFON1NZT2NvdW9xX1Y0MmtRN2JteVRXZ1NUNldCeVFoQlNPNGFESV9CVE9GQzhsWXRidWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:19:50",
+      "collected_at": "2026-04-05T08:12:29.616448",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지",
+          "보급",
+          "융복합지원사업",
+          "참여자 모집",
+          "고양"
+        ]
+      }
+    },
+    {
+      "id": "7fffee729fa4bfba",
+      "title": "[사설] 재생에너지 확대 위해 개발이익 공유제 확립을 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rNVYwR1ZacjRmZlhvMmdGVWF6OGhfVUZLQ00zNG9rdGdtRnhSU3pQNnR5VGgzejZ1bWpMdjB6MGgwVkJReFpDMmJMQkJTMEZHVkh1N2ZQdHZNWmVBOG51ckFzZnlpYkRJaEE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T06:15:01",
+      "collected_at": "2026-04-05T08:12:29.616474",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "개발이익 공유제",
+          "확대",
+          "확립",
+          "사설"
+        ]
+      }
+    },
+    {
+      "id": "c98993eeddecabe1",
+      "title": "구례군, 재생에너지 기반 기본소득 추진 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hWFlqZ3NlclhiNDlqUmJYeXhMcS15UTNLNThnY1dEVzhWdVZGSHowaW0ySE9QZmdFVUZQckJ1N0ZRVlh4cHhXYWtybDVZcUl3M21QTUllcGxPM0oxYWJRN3RHUUZoVDJBR2pvX1Zn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:12:14",
+      "collected_at": "2026-04-05T08:12:29.616497",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례군",
+          "재생에너지",
+          "기본소득",
+          "추진",
+          "정책"
+        ]
+      }
+    },
+    {
+      "id": "c40f172a64bfc149",
+      "title": "재생에너지의 아킬레스건 ‘간헐성’ 잡는다 — 에너베뉴, NASA 기술로 3억 달러 투자유치 - 와우테일",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aRTEzaUpleEhoQnJ4Z2FrX05tUnJwTEpnNU4zcGl3LTcxaGJPS2JlcENIVU1TN2dBRi04cXU2TUNuR0t3ekVaVG12dkxTQVU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:59:43",
+      "collected_at": "2026-04-05T08:12:29.616526",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "간헐성",
+          "에너베뉴",
+          "NASA 기술",
+          "투자유치"
+        ]
+      }
+    },
+    {
+      "id": "fea5f3be7b27b8a4",
+      "title": "구례군, 재생에너지 기반 군민 기본소득 창출 본격화 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BNVFSR3JpUWpJbmlWLXY1RDNhWjVlMzl5Wm9tS3c5WmN0NnJFUFNRLVc2UEFuSXRuZFZUOGYzeUIweDNMMVpRejc3NVVfNnhYWW1hNWw1dDQ2R1V2NFAyWVNxZ3ZFOVdPQUJWck5uTXM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-04T23:51:02",
+      "collected_at": "2026-04-05T08:12:29.616570",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례군",
+          "재생에너지",
+          "군민 기본소득",
+          "창출",
+          "본격화"
+        ]
+      }
+    },
+    {
+      "id": "55a1dcafcaffd2bc",
+      "title": "물류센터를 재생에너지 발전소로…LX판토스, SK이노 E&S와 '맞손' - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OY19Qc1ZJa0Z0RTlzbkQ4c1IzQ2p3LWI3c3ZYX1laRFlDdS1wVHNBV05fdm43RHExV0Nzb1M4TXZGSXpvSTRJTlZoM3dBVlpJb1pDeDJB0gGmAkFVX3lxTE1VeXBUZ0VyMTE5amdfY2xkdGxodkYxbVc5dnhDeWlwQ2FvY2YxUWtPa0NfY2dkaWM0dVJBSXRFeGhqMkd4SlFrdjVRc2VVMDhhUHZBakwxQ0M0RmhZVEVHODdiRjFnTWRXV0duZjRvSmY0V2kzUzBLdGxWbEZHQ3hsaVRodW9NdElNRDRQSVZBeFdkYjRSQkpPbUpxMzFmVUt2MkZXR3R1dGUwR2Z5TXd3SUdKUDdpcVZXeVZTMU5yaExMZ3lJSDl0d1BUQjNCQmZ2ME5URVEtU2xKLUw2dHdPb3JIR3hBblhMUEZlTGozY201SWp4Q2d2dFpmVjJHS0RGMExUbFhfWmRSZnNCTTZZVFZKNGtPMHptUVNWbUViMkpxd2Uzdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:31:00",
+      "collected_at": "2026-04-05T08:12:29.616603",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "물류센터",
+          "재생에너지",
+          "발전소",
+          "LX판토스",
+          "SK이노 E&S"
+        ]
+      }
+    },
+    {
+      "id": "ff7643ccf514ed34",
+      "title": "인도, 파리 면적 5배 규모 태양광 단지에 ‘세계 최대급’ 배터리 건설… 에너지 독립 박차 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlZHNTc1dmNmVllOVkdEcFVaelo1UWQ4VjJRam1KUkhYLTYxaGZDQWdyT0o0RDcyVDlRdm5GOWlQVGhETloxVTNTNXFnMF9Dd2FIbnFHdnZybkVhZXRIcXRteGpCcDhVVzNNN091dXhmWnZ1OXhpanE3RnVlMVU5R0o3OF9ZYkJx?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-04T23:54:59",
+      "collected_at": "2026-04-05T08:12:29.616638",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인도",
+          "태양광",
+          "배터리",
+          "에너지 독립",
+          "세계 최대"
+        ]
+      }
+    },
+    {
+      "id": "f465a0d9664ce544",
+      "title": "중동발 에너지 위기…\"수요관리·재생에너지·철도 전환해야\" - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Od3FCUGZCWlpPSVRMbEFIYVRCVV95SngyLWtBVlA3WjI1cVdiR3ZpYlExcjlBNGRLSk44LVF0VUZwZG5RMzRpaEI0ckk5VnpWandnbS15T2ZKUWhoQXlOWQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T00:45:17",
+      "collected_at": "2026-04-05T08:12:29.616665",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "중동",
+          "에너지 위기",
+          "수요관리",
+          "재생에너지",
+          "철도 전환"
+        ]
+      }
+    },
+    {
+      "id": "1a8d3a6d8e95f7ed",
+      "title": "남궁형 제물포구청장 예비후보, 제물포형 재생에너지 전환 전략 발표... “에너지 안보가 곧 민생” - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iR1B5QnR3R2tyWlVvcEt3RHdUTENoOGZwTjE1TXB3a2luaHc3alpBakRhVTY0OTBHTGRONDFsblpFdm5rd2M2ckd4a3h5eGVaNnZEc2dVemwweEVXQTN2NEdiTzI4TVhTUnZTWGRB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T02:31:34",
+      "collected_at": "2026-04-05T08:12:29.616752",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남궁형",
+          "제물포구청장",
+          "재생에너지",
+          "에너지 전환",
+          "에너지 안보"
+        ]
+      }
+    },
+    {
+      "id": "44329e51dabccc59",
+      "title": "물류센터를 재생에너지 발전소로… LX판토스-SK이노베이션 E&S, 태양광 발전 ‘맞손’ - 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91UnpmaVBHUkFNbmllUFF1M3lnN3llYXp3OXJrRmJVNk1HVDc2ZEtpLU41ekJrQU9wZHJaY3BTX3NBLWxlNkhvVjlHT3d6VEJSbGfSAVNBVV95cUxQS01ITjFNT3lCeGM2VVBOOTVyMU9Kd0c4dkVNempRcHhSRG50TlA4WHZ2LUZOYkFfc3VmTDVsS1dqSld1N2k4Q1I0c1hVZXliTWV4UQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T01:40:45",
+      "collected_at": "2026-04-05T08:12:29.616782",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "물류센터",
+          "재생에너지",
+          "태양광 발전",
+          "LX판토스",
+          "SK이노베이션 E&S"
+        ]
+      }
+    },
+    {
+      "id": "f71bf9c2c995f608",
+      "title": "소양강댐·춘천댐에 수상 태양광 세운다…에너지 자립 나선 춘천시 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NeTNGZEhHNEpnUXFGNlU4WVh5VFl1allTNVNtbi1wYk1Ca2Nxc0ZXUEZUT1RwOEgydkYxR01vV2VFWTlCZlB3YWh1ZGJZdXd4M2ln?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-05T07:10:00",
+      "collected_at": "2026-04-05T08:12:29.617237",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "소양강댐",
+          "춘천댐",
+          "수상 태양광",
+          "에너지 자립",
+          "춘천시"
+        ]
+      }
+    },
+    {
+      "id": "755ff9ebbaca165e",
+      "title": "참가자 1000명, 쓰레기는 1개인 마라톤 [현장 화보]",
+      "link": "https://www.khan.co.kr/article/202604051609001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-04-05T07:09:00",
+      "collected_at": "2026-04-05T08:12:30.441994",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "무해런",
+          "친환경 마라톤",
+          "쓰레기 없는",
+          "참가자",
+          "식목일"
+        ]
+      }
+    },
+    {
+      "id": "47c67e1ddeca55b3",
+      "title": "백두대간 침엽수 말라 죽는다···구상나무 최대 90% 고사",
+      "link": "https://www.khan.co.kr/article/202604051551001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-04-05T06:51:00",
+      "collected_at": "2026-04-05T08:12:30.442141",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "백두대간",
+          "침엽수",
+          "고사",
+          "기후변화",
+          "구상나무"
+        ]
+      }
+    },
+    {
+      "id": "d3e55e495b042583",
+      "title": "거북이도 OK, 쓰레기·교통 통제 없이 ‘무해하게 달린다’···유일한 문제는 내년이 불투명한 것",
+      "link": "https://www.khan.co.kr/article/202604051519001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-04-05T06:19:00",
+      "collected_at": "2026-04-05T08:12:30.442333",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "028132623baa4751",
+      "title": "University of Nebraska State Museum hosts monthly science lab on climate change - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2FIUlBOWU15dlIyNGR1MXdkRVkwMEZoMG1jZVpNMkNRUGo2MXRkemFKYklFRmRGYzZtWTFEN0g4S0pxRWJRczJ6NjBEbnhPdFYxWEVfYWlUOVdCdjAzeFFqM2YyWlBUUXNFTXZvWU9QdW9DREZyTTZrOWRYZlIxUlB4cjNQU1hza01qVmdSV1haYVk3ZW9fbmduQWNXM1R3VThQN0hCTFVsNzB2MWluUm1qT1VOQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-05T03:39:00",
+      "collected_at": "2026-04-05T08:12:30.979612",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e093011c428698dd",
+      "title": "How a mother turned her drowned daughter’s passion into a thriving patisserie",
+      "link": "https://www.theguardian.com/world/2026/apr/05/germany-patisserie-johanna-orth-bereaved-parents-ahr-valley-floods",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-04-05T07:00:44",
+      "collected_at": "2026-04-05T08:12:30.698369",
+      "keywords_matched": [],
       "translation": null,
       "sentiment": null,
       "keywords": null
