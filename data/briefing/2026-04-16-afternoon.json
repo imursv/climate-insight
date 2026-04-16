@@ -1,0 +1,5054 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16T08:53:23.391617",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 4월 16일 기후 브리핑을 시작하겠습니다. 오늘 하루 수집된 213건의 기후 관련 뉴스를 바탕으로, 현재 기후변화의 심각성과 이에 대응하기 위한 국내외의 다양한 노력, 그리고 미래 기술의 역할에 대해 심층적으로 살펴보겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 기후 위기 경고 및 당면 과제",
+        "content": "최근 기후변화로 인한 위협이 더욱 가시화되고 있습니다. 국내에서는 기후변화로 해충의 출현이 빨라지고 다양해졌으며, 러브버그와 씨스트선충의 대발생은 농업과 생태계에 직접적인 피해를 주고 있습니다 [1, 25, 33]. 국제적으로는 핵심 대서양 해류 순환의 붕괴 가능성이 이전에 예상했던 것보다 훨씬 커져 혹한과 가뭄 등 재앙적 기후 변화를 초래할 수 있다는 경고가 나왔습니다 [2, 212]. 또한, 기후변화가 야간 기온과 미네소타 지역의 인프라를 위협하고 있으며, 황제펭귄이 멸종 위기종으로 추가되는 등 전 지구적인 건강 위협이 현실화되고 있습니다 [51, 193, 202, 208, 209]. 이러한 상황 속에서 트럼프 행정부의 기후변화 판결 번복이나 델타항공의 기후변화 목표 포기 소식은 정책 및 기업 차원의 후퇴를 시사하며 우려를 더하고 있습니다 [195, 204].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 국내 기후 변화 인식 증진 및 탄소중립 실천",
+        "content": "기후 위기에 대한 인식을 높이고 탄소중립 실천을 독려하기 위한 국내 활동이 활발합니다. 용인시, 광주시, 영산강환경청, 포천시, 남해군, 강동구, 오산시 등 여러 지방자치단체와 기관에서 지구의 날(4월 22일)을 전후하여 '기후변화주간'을 운영하며 시민 참여형 탄소중립 프로그램을 다양하게 진행하고 있습니다 [3, 4, 5, 7, 11, 15, 17, 19, 20, 22, 23, 26, 27, 30, 35, 36, 41, 42, 44, 46, 49, 52, 54, 56, 59, 95, 97, 126, 132]. 특히, 용인특례시와 가평군에서는 소등 캠페인을 통해 에너지 절약의 중요성을 강조하고, 국민대 HUSS 기후변화대응사업단은 '클린 위크'를 맞아 플로깅 및 환경 캠페인을 진행하며 실천적 참여를 유도했습니다 [27, 31, 32, 42, 44, 48, 55]. 또한, 유엔기후변화협약 기후주간이 여수에서 개막하여 글로벌 기후 외교의 중심에 서며 녹색 전환 논의를 본격화했습니다 [8, 39, 45, 47, 50, 60].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 기후 기술 투자 확대 및 탄소중립 정책 동향",
+        "content": "정부와 기업은 기후변화 대응을 위한 기술 개발 및 탄소중립 실현에 적극적으로 투자하고 있습니다. 과학기술정보통신부는 올해 기후변화 대응 R&D에 지난해보다 14.1% 증가한 3조 4천억 원을 투입하며, 온실가스 감축 기술 개발과 태양전지 및 SMR(소형 모듈형 원자로) 개발을 확대할 계획입니다 [6, 12, 13, 14, 18, 28, 34, 38, 43, 57, 133, 207]. 현대백화점그룹은 용인에 '탄소중립의 숲' 2호 조성 기념식을 갖고 2029년까지 4만 그루의 나무를 식재할 계획이며, 이는 ESG 경영 확대의 일환으로 평가됩니다 [65, 66, 67, 72, 74, 75, 77, 99, 100, 101, 108, 109, 112, 113, 114, 116, 117, 119, 121, 123, 125, 131]. 또한, KTR은 산업단지의 탄소중립 실현을 돕기 위해 9개 검증기관과 협력하고, 성균관대 연구팀은 온실기체를 활용한 '가스전지'로 탄소중립의 새로운 해법을 제시하는 등 기술 혁신이 활발합니다 [80, 96, 104, 120, 127, 130].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 재생에너지 전환의 가속화와 도전",
+        "content": "재생에너지로의 전환은 국내외적으로 가속화되고 있으나, 동시에 여러 도전 과제에 직면해 있습니다. 코오롱글로벌은 태백에 17.6MW 규모의 풍력발전단지를 준공하며 재생에너지 사업 확대를 가속화하고 있으며 [137, 147, 153, 162, 176, 184, 187, 188], 삼성자산운용의 'KODEX 신재생에너지액티브' ETF는 최근 1개월 및 3개월 수익률에서 1위를 기록하며 재생에너지 시장의 성장 잠재력을 보여주었습니다 [136, 142, 143, 146, 150, 155, 156, 161, 166, 169, 170, 172, 173, 178, 181, 183, 185]. 그러나 LNG 열병합발전이 재생에너지 확대를 가로막는 요인으로 지적되고 있으며, 환경운동연합은 신규 LNG 발전 건설 취소와 재생에너지로의 직진을 촉구하고 있습니다 [140, 141, 148, 152, 174]. 한편, 16일부터 시행되는 '재생에너지 맞춤형' 전기요금제는 전력 수요 변화에 대응하기 위한 조치로, 태양광 발전량이 넘쳐나는 낮에는 요금을 내리고 저녁에는 올리는 구조입니다 [154, 177]. 국제적으로는 중동 전쟁을 계기로 한국의 재생에너지 전환 시도가 외신에 조명되었으나, 중국 태양광 시장의 불안정과 미국 수출 제한 검토는 글로벌 공급망에 변수로 작용할 수 있습니다 [151, 167, 182].",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚙️ AI 기술, 기후변화 대응의 새로운 동력",
+        "content": "인공지능(AI) 기술은 기후변화 대응의 핵심 동력으로 부상하고 있습니다. 국내에서는 기후변화로 인한 해충 문제 해결에 AI 기술이 도입되며, 한국기술교육대 연구팀은 AI를 활용한 친환경 나노복합체 부식 억제 기술을 정립했습니다 [1, 192]. '기후변화와 AI 시대에 부응한 스마트시티' 관련 서적 출간은 AI 기반 도시 설계의 중요성을 강조합니다 [10, 40]. AI 시대의 전력망은 국가 경쟁력을 좌우하며 탄소중립 해법을 찾는 데 필수적이며, AI와 에너지의 결합이 탄소중립 기술 경쟁의 승부처로 부상하고 있습니다 [62, 63, 73, 78]. 정치권에서도 AI 자율주행과 재생에너지 규제 특례를 통해 경기도를 AI 메가특구로 만들겠다는 구상이 제시되는 등 AI 기술 역량 확보에 대한 논의가 활발합니다 [157, 159, 189]. 심지어 친환경 신발 회사인 올버즈도 AI 기업으로의 전환을 선언하며, 산업 전반에서 AI의 역할이 확대되고 있음을 보여줍니다 [191].",
+        "tone": "positive"
+      }
+    ],
+    "closing": "오늘 브리핑에서 살펴본 바와 같이, 기후 위기는 전례 없는 속도로 다가오고 있지만, 이에 맞선 국내외의 대응 노력과 혁신적인 기술 개발 또한 활발하게 전개되고 있습니다. 기후변화 전문 대변인이자 과학 저널리스트로서, 저희는 앞으로도 이 복잡한 현상들을 면밀히 주시하며 정확하고 시의적절한 정보를 전달해 드릴 것을 약속드립니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "기후변화로 빨라지고 다양해진 해충 출현, 이젠 AI 기술로 잡는다 - 경향신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03OXpoSEp3V2tWQ2FwNVJtZXNCNE9xT1NqVVhHdE4ybGhBTlpZVm5YSGVhQ0VkbFRRUm0wYlZmY1AxMGpqMkpQVHNraC1mVi1tRDNHaS1FYWFtd9IBX0FVX3lxTE82eXdRUHo5VU83X2JWR2x1VXlFUVVRWWxIY3VzbFB0QUhIODhhVTFLT2ZVV09hdVNTVW9MdnVWaERwUFRPQjFkNjlEOFZiOWVORzQ5eTAwSklfM3pYZjN3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:29:00",
+      "description": "기후변화로 빨라지고 다양해진 해충 출현, 이젠 AI 기술로 잡는다 경향신문",
+      "summary": {
+        "phenomenon": "기후변화로 인해 해충의 출현이 빨라지고 다양해졌다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기후변화.",
+        "outlook": "AI 기술을 활용하여 해충 문제를 해결할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "해충",
+        "AI 기술",
+        "해충 출현",
+        "방제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "대서양 해류순환 붕괴 앞당겨져… 혹한·가뭄 등 재앙적 기후 변화 초래 - 문화일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSU9vU0dGNzM1NlhISVpSa0tWb3RDR0ZvZ1dYN1ZtVE1EMVdEUFVrNE9zY2Z1anE0XzdVbDFZTUNQZmNSQWdEamJ4WlZLOTlF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:16:38",
+      "description": "대서양 해류순환 붕괴 앞당겨져… 혹한·가뭄 등 재앙적 기후 변화 초래 문화일보",
+      "summary": {
+        "phenomenon": "대서양 해류순환의 붕괴가 앞당겨지고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "혹한, 가뭄 등 재앙적인 기후 변화를 초래할 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "대서양",
+        "해류순환",
+        "붕괴",
+        "기후 변화",
+        "재앙적"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "용인시, 20~26일 기후변화주간 '탄소중립 프로그램' - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIU0xGOWdhWklSQ0YyeDBaRGlzbDZuRm5LdHBrU2dTazJiMG5nSUpRWHJXNXdsaUhjVV9xY2x3a1plUjhDWWVDYjlWYWl2RmF6ODBla2dOSElqU1Rsc1RBNdIBeEFVX3lxTE1DMTFiejB5d191T01CeFhrZEpFWDA3T1dndzd0a0lGbUcxNjdNVHEyYkRpYXNYZ1dLMHBiOWpRRTM5ZFRDRVgwSFBxVVJfaVBPN0RRRTA4ZGlXc2pVbjVPcVYwX29vMnFJMm5ieFFjRDJXbkd3ZjM1UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:00:23",
+      "description": "용인시, 20~26일 기후변화주간 '탄소중립 프로그램' 뉴시스",
+      "summary": {
+        "phenomenon": "용인시에서 4월 20일부터 26일까지 기후변화주간이 운영된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화주간 동안 탄소중립 프로그램이 진행될 예정이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "20~26일 기후변화주간…용인시, 친환경 체험 풍성 - 문화일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92LU9GX1RqeEFDSHZYM1Z4Ujd4OG9GR3ByWm5naGMwUlVyWUlwUnNGUTdKNjV3ZGdhczVGSkpWNjN0eHlzUER1R29reXRGVWVh?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:10:42",
+      "description": "20~26일 기후변화주간…용인시, 친환경 체험 풍성 문화일보",
+      "summary": {
+        "phenomenon": "용인시에서 4월 20일부터 26일까지 기후변화주간이 운영된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화주간 동안 친환경 체험 프로그램이 풍성하게 진행될 예정이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화주간",
+        "용인시",
+        "친환경 체험",
+        "풍성",
+        "20~26일"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "영산강환경청, 20일부터 기후변화주간 운영 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SRDVSSFZJNld2YnN6d3F6VTBSaW1LZjhtcHc2TEZIMmowN29PWl8wY3pZT3dyQnc2MjRpUjZpT2MxLWQxdmRRMUZaUVhoTW10YlY0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:59:00",
+      "description": "영산강환경청, 20일부터 기후변화주간 운영 네이트",
+      "summary": {
+        "phenomenon": "영산강환경청에서 4월 20일부터 기후변화주간이 운영된다. (종료 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "영산강환경청",
+        "기후변화주간",
+        "운영",
+        "20일",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "과기정통부, 기후변화 대응에 3조4천억 투입…지난해보다 14.1%↑ - 경기일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRSjRyZE1GQ2thU3FoVF9lYkh3N1NqTlR1bE9Sa04wV0ZvM3pRWnkwXy1WY0VNTzRMX0FjVm5XQk1qTjJSc1MzbFB3Zi1jSFpfQmJuWFNEQVYtaDQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:53:00",
+      "description": "과기정통부, 기후변화 대응에 3조4천억 투입…지난해보다 14.1%↑ 경기일보정부, ‘기후변화 대응’에 3조 원대 예산 투입…14.1%↑ v.daum.net온실가스 감축 등 기후변화 기술개발에 3.4조 투자 브릿지경제",
+      "summary": {
+        "phenomenon": "과기정통부가 기후변화 대응에 3조 4천억 원을 투입하며, 이는 지난해보다 14.1% 증가한 수치이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "투입된 예산은 온실가스 감축 등 기후변화 기술 개발에 사용될 예정이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기정통부",
+        "기후변화 대응",
+        "투자",
+        "온실가스 감축",
+        "기술개발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "광주, 지구의 날 맞아 기후변화주간 운영…도심 곳곳 탄소중립 실천 - 브릿지경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oSHNQWG0xT0Z6cUlGd0YyM3Rka1dKdWhBWGNlYnB4TjBVQXBiUkdKdEdicUdQZmhGNG5NM3hEakdNUURSNHdRaEFVYVN5RVo1WV9fZDlHclR4UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:21:00",
+      "description": "광주, 지구의 날 맞아 기후변화주간 운영…도심 곳곳 탄소중립 실천 브릿지경제4월22일 '지구의 날'…광주시, 다채로운 행사로 기후변화주간 운영 뉴스1[포천24시] 포천시, 지구의 날 맞아 기후변화주간 운영 v.daum.net",
+      "summary": {
+        "phenomenon": "광주시에서 지구의 날(4월 22일)을 맞아 기후변화주간이 운영된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화주간 동안 도심 곳곳에서 탄소중립 실천을 위한 다채로운 행사가 진행될 예정이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "지구의 날",
+        "기후변화주간",
+        "탄소중립",
+        "광주",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "유엔기후변화협약 기후주간 여수서 개막… 글로벌 기후 외교 중심에 선다 - 서울Pn",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfRHhHNUd5ZElEbE5BRjd4c0cwRno1NjNKTm5vOEFpUEV1VDRtTHdoUzRVem5FbFdUQnJkRlpyOFRRaXlPRFhCRFVxMWpEWHhhMElKUFFZNklYVEVOUURQNVJXUmtkWkZSZlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T02:08:49",
+      "description": "유엔기후변화협약 기후주간 여수서 개막… 글로벌 기후 외교 중심에 선다 서울Pn",
+      "summary": {
+        "phenomenon": "유엔기후변화협약 기후주간 여수서 개막… 글로벌 기후 외교 중심에 선다 서울Pn",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "유엔기후변화협약",
+        "기후주간",
+        "여수",
+        "글로벌 기후 외교",
+        "개막"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "\"기후변화, 기업 생존 직결\" 씨티은행 '기후행동 라운드테이블' 개최 - 머니투데이 - mt.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBZdjRrMnNadEdTVFBaa2J2XzNWYWJ5QkZXY3lJY3MzX05pdmlMSTdwUXVkbGpiR2JiZEtxQ2lqeVU4RTlySnFFb2ozYzFCXzNiUTM2OG9GYmpNWWZqTjVHbllSRXNOLVJvU21R0gFwQVVfeXFMT2NXcjJ4NUE0blBaTlAzaG1pMGNIdW1QalJmN3N5Y0hwaGZJVGFEbXljZlRVbUJvS1RFb3Ywcl9pd0FpNnQ2V1BSOTN4RWV1V2dVWjhiTExPdG9MZ3ZyR09kVFo5blpmUHBLMDFvWHJ6UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:41:31",
+      "description": "\"기후변화, 기업 생존 직결\" 씨티은행 '기후행동 라운드테이블' 개최 - 머니투데이 mt.co.kr",
+      "summary": {
+        "phenomenon": "\"기후변화, 기업 생존 직결\" 씨티은행 '기후행동 라운드테이블' 개최 - 머니투데이 mt.co.kr",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "기업 생존",
+        "씨티은행",
+        "기후행동",
+        "라운드테이블"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "[주목 이 책] 기후변화와 AI시대에 부응한 스마트시티 세계 - 매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94bTU5LTluSVFoVlRwc284bmFTeEZkbkhlU2VtS1JVY3VBaW02U0w1dXpvR2VobmRmZG9aN0Zydm91UkE0ZFdGWFdPUnNWamlQekRULUYybDlEUVBpM04tSkNn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T04:17:49",
+      "description": "[주목 이 책] 기후변화와 AI시대에 부응한 스마트시티 세계 매일신문",
+      "summary": {
+        "phenomenon": "[주목 이 책] 기후변화와 AI시대에 부응한 스마트시티 세계 매일신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "AI",
+        "스마트시티",
+        "책",
+        "부응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "용인특례시, 기후변화주간 맞아 시민 참여 탄소중립 프로그램 운영 - 일간투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZdGRNNU1WaFJaeTBpcXVLSGJHcjYwQTZRc2RPaGxMQjNsSVZJQ0xtSHRfZWxzdWFGcVA5TnF1dFJhOFBETjloamx1bHpoMnlyMmUxMG5lX1FlbnNEeFh2T0U1MGhqbGRvWXJJ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-15T23:47:56",
+      "description": "용인특례시, 기후변화주간 맞아 시민 참여 탄소중립 프로그램 운영 일간투데이",
+      "summary": {
+        "phenomenon": "용인특례시에서 기후변화주간을 맞아 시민 참여 탄소중립 프로그램을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인특례시",
+        "기후변화주간",
+        "시민 참여",
+        "탄소중립",
+        "프로그램 운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "정부, 올해 기후변화 대응 R&D에 3조4000억원 투자…전년보다 14% 늘려 - 동아사이언스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBodng3Qlc4dXRqSGUtZmMtNmhXQmhkNXlpOFB6SVZrTVZXTF96ZDZ1QjY5SDV5NF9BbmNWSThjdnJxNk56dk95ZkZ4TGlYNGVnN0daRg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:00:00",
+      "description": "정부, 올해 기후변화 대응 R&D에 3조4000억원 투자…전년보다 14% 늘려 동아사이언스",
+      "summary": {
+        "phenomenon": "정부가 올해 기후변화 대응 R&D에 3조 4000억원을 투자하며, 이는 전년 대비 14% 증가한 수치이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "정부",
+        "기후변화 대응",
+        "R&D",
+        "투자",
+        "3조4000억원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "과기정통부, 기후변화 대응에 3조4천억 투입…지난해보다 14.1%↑ - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JV2xEYVR3NjhsSEFsQi1OcWRqMURneGZkdWhwSFdfaWttVllyWV9GZTlfWUU2UGhfbDlkZlN5Vk01UlZsYndoanp3elRLRjg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:53:50",
+      "description": "과기정통부, 기후변화 대응에 3조4천억 투입…지난해보다 14.1%↑ v.daum.net",
+      "summary": {
+        "phenomenon": "과기정통부가 기후변화 대응을 위해 3조 4천억원을 투입하며, 이는 지난해보다 14.1% 증가한 규모이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기정통부",
+        "기후변화 대응",
+        "투자",
+        "3조4천억",
+        "예산 증가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "과기부, 기후변화대응 기술개발에 3.4조원 푼다 - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5paDZHYnBHaDR6a1VqbkJEVU5wUXl0OE9sckNPZ1A0THJ0RkNQb3R6VjdpS3hpUTVKRnhtejc0cWdfeDZxOVpVR182eFM3dXVuNlpvczNZM19FSG5h?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:20:47",
+      "description": "과기부, 기후변화대응 기술개발에 3.4조원 푼다 뉴스;트리",
+      "summary": {
+        "phenomenon": "과기부가 기후변화 대응 기술 개발에 3.4조원을 투입한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기부",
+        "기후변화대응",
+        "기술개발",
+        "3.4조원",
+        "투자"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "포천시, 제56회 지구의 날 기념 ‘기후변화 주간’ 운영 - 전국매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12bE9TMmFGYUNLTWFCWWxoQUV4NXFVS0pLaDlab3UtQkd4Tk1jeG00N0hyN3pqRmJsV19BMWxUVkhSOXh2eU5meWhLM1M3OTJieEdtN0lERElVMGJFZmxKRW9zajIxbjFGWjBHVkVB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:34:17",
+      "description": "포천시, 제56회 지구의 날 기념 ‘기후변화 주간’ 운영 전국매일신문",
+      "summary": {
+        "phenomenon": "포천시에서 제56회 지구의 날을 기념하여 ‘기후변화 주간’을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "포천시",
+        "지구의 날",
+        "기후변화 주간",
+        "운영",
+        "기념"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "경북도, 기후변화 동해안 연안 침식 문제 대응 강화 - tbc.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZnZPUGtBaE1JdG9LVHowbWxUMi1rUC1UTFA0cDJvQ2pCYUk1UVd3ZHEwanhxSTNjTnJPU0FiaUFlVlBMOHRLczAtY280bHpFOWVvYXA4cTJUUlkwdnNiZWhkaHJRTkUyMUFHbzF1LUdBeFE1YlpuYXo4SUUxeVZFOQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T02:18:34",
+      "description": "경북도, 기후변화 동해안 연안 침식 문제 대응 강화 tbc.co.kr",
+      "summary": {
+        "phenomenon": "경북도가 기후변화로 인한 동해안 연안 침식 문제에 대한 대응을 강화한다.",
+        "cause": "동해안 연안 침식의 원인으로 기후변화가 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경북도",
+        "기후변화",
+        "동해안",
+        "연안 침식",
+        "대응 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "광주도시공사, 지구의 날 맞아 ‘기후변화주간’ 운영 - 아시아경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzR3VCakdZbkR2NHdtZUFDT2Z4THJyR2piMWhkVzE3YlQyUl9aTmNXNDBZSHllV2g2ZDg3QjNUVzRwSlNwMjB3ZFBXSE4wa1pOQV9OZll3UzN6S0xlM0hOeA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:10:12",
+      "description": "광주도시공사, 지구의 날 맞아 ‘기후변화주간’ 운영 아시아경제",
+      "summary": {
+        "phenomenon": "광주도시공사에서 지구의 날을 맞아 ‘기후변화주간’을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주도시공사",
+        "지구의 날",
+        "기후변화주간",
+        "기후변화",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "과기정통부, 기후변화대응 기술개발에 올해 3.4조 투자 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZVFJBN3hTQWdRdldvWS10aDNWMWdyLW1GdExCcEVMaDdxVmJGaEI3REJVSTFDUHl5VnlqQ2pkb3JEbVJrVWlyUmEzTUowOGlHY0pIRGNheG92NjVieS1fcmstbWg5Zw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:00:00",
+      "description": "과기정통부, 기후변화대응 기술개발에 올해 3.4조 투자 뉴스1",
+      "summary": {
+        "phenomenon": "과기정통부가 올해 기후변화 대응 기술 개발에 3.4조원을 투자한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기정통부",
+        "기후변화대응",
+        "기술개발",
+        "3.4조",
+        "투자"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "영산강환경청, 20일부터 기후변화주간 운영 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uNjNnNWRqUUFtbk5aUUVENHpQX3drdjR3bmg0SDZlZTAxaGxFY3E3WndiSXJSeHMwMXJhZjVqZjlIMzg0ZkhrSWxnQzNzUHB0RlhGODJ1Qmt3YmktNTNPUtIBeEFVX3lxTE1YemVGSktvZzlLU0lDSlVhSXo3Y01ydVZQdklRU1lxanVTNzlCelRHcEt2UmQ4Q19sZ3lFYkU3OHE0QnRJdWR6bl9QTV9IOEJpaE9waU04ZlhPR0xTaG8tSVkyRXlmVUozYmRSVGwzUDh2eno4NHdoZQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:58:14",
+      "description": "영산강환경청, 20일부터 기후변화주간 운영 뉴시스",
+      "summary": {
+        "phenomenon": "영산강환경청이 20일부터 기후변화주간을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "영산강환경청",
+        "기후변화주간",
+        "운영",
+        "기후변화",
+        "20일"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "광주시, 기후변화주간 운영…‘지구의 날’ 맞아 시민 참여 확산 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBESnlvaDlva3VFc1BqaEliOHo3VHI3dVJLeDRYdU96SThVdUpXZTA1NTEtQ0swbExRUDJ1Qmt5bmlUUm51QkxJLWhfbWRVdEhhWmhJb2xFcDBqY2taNlowXzF4bDI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T04:01:15",
+      "description": "광주시, 기후변화주간 운영…‘지구의 날’ 맞아 시민 참여 확산 매일일보",
+      "summary": {
+        "phenomenon": "광주시에서 기후변화주간을 운영하며, ‘지구의 날’을 맞아 시민 참여를 확산한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "[박정로의 주간 브리핑] 기후변화 대응…건축물 ‘설하중’ 기준 대폭 강화 - 나무신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gajh4TFVWQjhhZzBfRE81UVg5RFdpNkNlb3o1a1NFeTZ2aXlNN2FwTXAya0ZCdktYYU45dGJaTFBOT0I1LW41SndEcHczdDFROWZWNTh5Mkk1N1lGTHd3Mkx1VVlzNWdkZXc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T04:30:00",
+      "description": "[박정로의 주간 브리핑] 기후변화 대응…건축물 ‘설하중’ 기준 대폭 강화 나무신문",
+      "summary": {
+        "phenomenon": "건축물의 '설하중' 기준이 기후변화에 대응하여 대폭 강화되었다.",
+        "cause": "기후변화에 대응하기 위한 조치이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "건축물",
+        "설하중",
+        "기준 강화",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "광주시, 지구의날 맞아 20~24일 기후변화주간 운영 - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2OWRKX0VDQlNhUUpxZ1JlZGV3Q3Zxek0za0h2ZEFLYzlIRXlPSnhiQ0JuTy01QlhmUTBVNnhRU1JWS3ZZRjhkbENPUVlaTHdiUmFlRllXcXVSVHPSAWBBVV95cUxPWEdYWnM1OFpWVVh2Q3luWEYzX1JIVENvblhSVWtxZm9CWkUwVXZkNERkMHpFR25nekNQWk02SFJZMWk4ZVZhYVFQaFpPWHZyaXdBTG9WZTQ2bDh3MmlPVHQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:34:23",
+      "description": "광주시, 지구의날 맞아 20~24일 기후변화주간 운영 연합뉴스",
+      "summary": {
+        "phenomenon": "광주시는 지구의 날을 맞아 4월 20일부터 24일까지 '기후변화주간'을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "광주시",
+        "지구의날",
+        "기후변화",
+        "주간",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "광주시, 20∼24일 기후변화주간 운영 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SOXJCSjE2Qk1xQV9HSlFDcGJKc3VuNjdsaDg5SVFXemxUVXpIMlQzVVB3U1kxczNHV0ZmRWlWTl9od2FCdkNDbFlDWGdfemFGRW9raVRB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T04:50:28",
+      "description": "광주시, 20∼24일 기후변화주간 운영 헤럴드경제",
+      "summary": {
+        "phenomenon": "광주시는 4월 20일부터 24일까지 '기후변화주간'을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "광주시",
+        "기후변화",
+        "주간",
+        "운영",
+        "행사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "김용태 “기후위기 시대, 농어업인 맞춤형 지원해야” - 경기일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51RWlQYWJqWERLWWJKY1NjdU00T0hBV1VuNnp6UVBpMjkyRjU1LWJjcmZfZDlZbWVyU1djZzdhUVdzU1JuT2pmRW5zXzQ2Tm1odHA4SlpDajV5Zk0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:48:00",
+      "description": "김용태 “기후위기 시대, 농어업인 맞춤형 지원해야” 경기일보",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후위기 시대에 농어업인에 대한 맞춤형 지원이 필요하다는 주장이 제기되었다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "\"기후변화·연작 피해\"…정선군 '씨스트선충 공적방제 지원' - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DLXdjdEZsZzZnYzhaM2JuN2xJck5NUDZxdW10dEJ2SmFiS1JyZjI5eVZ1c0RUdGMwWVhicXpNUlNTOU53ajVVUTlaUFdSUEs1aTdScg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T04:22:02",
+      "description": "\"기후변화·연작 피해\"…정선군 '씨스트선충 공적방제 지원' 뉴스1",
+      "summary": {
+        "phenomenon": "정선군에서 '씨스트선충'으로 인한 피해가 발생하고 있으며, 이에 대한 공적 방제 지원이 이루어지고 있다.",
+        "cause": "씨스트선충 피해의 원인으로 기후변화와 연작이 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "연작피해",
+        "정선군",
+        "씨스트선충",
+        "공적방제지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "포천시, 지구의 날 기념 '기후변화 주간' 운영 - 경인매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaT0ZjcWJqdm5FNW1PRWRzNVBUdkxuN2U3Sld4ZUlTNG9GRC1TZExrd0dQbU5xcnNTUDhfQ01acTJZdVRVYnpGMlZ4V3VrT2lEWlF0Q2hRZ1U3RWd3U090cFRVQnlkN1Rw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:06:20",
+      "description": "포천시, 지구의 날 기념 '기후변화 주간' 운영 경인매일",
+      "summary": {
+        "phenomenon": "포천시는 지구의 날을 기념하여 '기후변화 주간'을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "포천시",
+        "지구의 날",
+        "기후변화",
+        "주간",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "포천시, 지구의 날 ‘10분 소등’… 탄소중립 생활 실천 유도 - 경기일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qSDJsbG5wYzJjMDFlbmxTRy1xbGtReGwwTEVIcHowNTVjRGs5V1Fwd2t5RmdvZmY1SFlqbFBob0FFeV9PTkVQRldtUGlEZHVpQ2cwYXdRWDktREU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:14:00",
+      "description": "포천시, 지구의 날 ‘10분 소등’… 탄소중립 생활 실천 유도 경기일보",
+      "summary": {
+        "phenomenon": "포천시에서 지구의 날을 맞아 '10분 소등' 행사를 진행하여 탄소중립 생활 실천을 유도한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "포천시",
+        "지구의 날",
+        "소등",
+        "탄소중립",
+        "생활 실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "과기정통부, 기후대응 기술개발 확대…3.4조 투자 - 디지털투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbUw4UjQ3QXFlb0lqblJISE44VHlfaFVJczlVNHhvYTFZVW1QLVViQ3ZTc2xDS29YYmdUUVBGNzkwY2RReXBPVTRkSEI1WFNkQzN2MFRSd3o0OEJZazFZVDBvSngwQndvbVA3NG1weG9wN0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:00:00",
+      "description": "과기정통부, 기후대응 기술개발 확대…3.4조 투자 디지털투데이",
+      "summary": {
+        "phenomenon": "과학기술정보통신부가 기후대응 기술개발을 확대하며 3.4조 원을 투자한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화에 대응하기 위한 기술 개발이 확대될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기정통부",
+        "기후대응",
+        "기술개발",
+        "투자",
+        "확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "‘기후위기 시대 지역행동 중요’ 원주민 목소리 낸다 - 남해안신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84S1VkRlZTbG9rSDdwMmV6Z25EQTBzYmc2OUZPZDkxYlZZbzVibXNweldyZ1pYVGQtTDJKOVF4ZFJWZlFQSVhrVzR0R1ZTMDlaN3hkbzI2cmE5NnVYWDN6SkdrSWgwRnlp?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:35:32",
+      "description": "‘기후위기 시대 지역행동 중요’ 원주민 목소리 낸다 남해안신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후위기 시대에 지역 행동의 중요성에 대한 원주민의 목소리가 높아지고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "지역행동",
+        "원주민",
+        "목소리",
+        "중요"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "광주시, 20∼24일 ‘기후변화주간’ 운영…행사 다채 - 서울신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuaHZBM2czNHlUeEFBODVlWkZOcHRCS2hJQXRJU1dXUFFUT3ZfMGZndnlRc0ttNWRuTVVSRnFzR3N0MUMxQkt4RU9QR0hQaFVYN0JXcUE1N3lUV1o1alhHc3Y5aFlsX2xYT0MyQnpoRQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:18:52",
+      "description": "광주시, 20∼24일 ‘기후변화주간’ 운영…행사 다채 서울신문",
+      "summary": {
+        "phenomenon": "광주시는 4월 20일부터 24일까지 다채로운 행사를 포함한 '기후변화주간'을 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "광주시",
+        "기후변화주간",
+        "운영",
+        "행사",
+        "다채"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "국민대 HUSS 기후변화대응사업단, ‘클린 위크’ 맞이해 플로깅 및 환경 캠페인 진행 - 비즈월드",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IeWpoLU1pajNDM3FoR0pScWJVcXZMUnFLNTlSZWFZTVZkU3ZRdlNOVEgtT1BMWlVlQTZFMy1Ebk0wLUhhbmpaLUx5TFVoQ1hpcUxXc0ljaEVQUGI3VVpWN2p3d3ozbzBxaEJR?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:54:00",
+      "description": "국민대 HUSS 기후변화대응사업단, ‘클린 위크’ 맞이해 플로깅 및 환경 캠페인 진행 비즈월드",
+      "summary": {
+        "phenomenon": "국민대 HUSS 기후변화대응사업단이 '클린 위크'를 맞아 플로깅 및 환경 캠페인을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국민대",
+        "HUSS 기후변화대응사업단",
+        "클린 위크",
+        "플로깅",
+        "환경 캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "국민대 HUSS 기후변화대응사업단, ‘클린 위크’ 맞아 플로깅·환경 캠페인 실시 - 스마트경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWS1R1ODhsYV9pNG14UEwtOWEtNTVHcHFGMHVNdzBfQWx2OG5SZlgwYlFkRWZ2ak82YjhLdmlMQUpRN0llUHJtbEl5UG91bmtBb2I1c1ZlOS1heFBvVkxVRlR1NE5XcDZvV1BhX1lyZzc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T05:19:45",
+      "description": "국민대 HUSS 기후변화대응사업단, ‘클린 위크’ 맞아 플로깅·환경 캠페인 실시 스마트경제",
+      "summary": {
+        "phenomenon": "국민대 HUSS 기후변화대응사업단이 '클린 위크'를 맞아 플로깅 및 환경 캠페인을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국민대",
+        "HUSS 기후변화대응사업단",
+        "클린 위크",
+        "플로깅",
+        "환경 캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "기후변화 따른 러브버그 대발생 원인 및 대응방안 찾는다 - 국토일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55YVBmOHcyYVJJY0NDRU1jZ2tCMVZVWHdUYkgwRVZ0Nlg1alpUTGJxTFRnZFBJc0FlLTNNOENTeVlNdkJGRldpLWlWM3FrNmZFdjY5WC1VTWMzbmZ6RzhZZWdSMA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:35:00",
+      "description": "기후변화 따른 러브버그 대발생 원인 및 대응방안 찾는다 국토일보",
+      "summary": {
+        "phenomenon": "러브버그가 대발생했다.",
+        "cause": "기후변화가 러브버그 대발생의 원인으로 지목되고 있다.",
+        "outlook": "러브버그 대발생의 원인 및 대응 방안을 찾을 예정이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "러브버그",
+        "대발생",
+        "원인",
+        "대응방안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "\"탄소중립, 기술이 곧 국력\"…정부, 기후기술 혁신 생태계에 3.4조 투입 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TbGZ3eDU2N2EtYUdqNHFOSUEyZnR4bWlSY0RqWHFyMWJRRnNzTXIyMjJtdnZJekNxWWxMVzFqUXkwY3FicnBKa2lRTmRWb05mX21zNXNkdm1VWTYtR3BCU9IBeEFVX3lxTE9aOXQwVWEyY29iUlU4UFdoVkcxVnFYYndhS29zbENGUXFsMEUzVlZHMWtiY01jaWJXZVJGM0Zib2pDY2VpVmRRbEdHd2VaVFB5LXZQUVJpSGdLU2dQMndnVUVyRm5pVVp1WlBYQXR1Nk54NGRJc2FXQg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:00:00",
+      "description": "\"탄소중립, 기술이 곧 국력\"…정부, 기후기술 혁신 생태계에 3.4조 투입 뉴시스",
+      "summary": {
+        "phenomenon": "정부가 기후기술 혁신 생태계에 3.4조 원을 투입하기로 했다.",
+        "cause": "탄소중립을 달성하고 기술을 국력으로 삼기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "기술",
+        "정부",
+        "기후기술",
+        "3.4조 투입"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "남해군 “지구를 위한 10분, 함께해요” 18회 기후변화주간 운영 - 진주뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RYkhrX2hUZVozRlZrclpLeWwxdHI4TTBEMlNDS3FFNnZBb1pqVmYtc0k1dHJYa1FOSDZyY1ZPM0tCaDJ6cW9hbm81M3BLWms0dGNxYzFrUzhyQmdIR3dDMEdycmdlV05xdWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:21:04",
+      "description": "남해군 “지구를 위한 10분, 함께해요” 18회 기후변화주간 운영 진주뉴스",
+      "summary": {
+        "phenomenon": "남해군이 '지구를 위한 10분, 함께해요'라는 슬로건으로 제18회 기후변화주간을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "강동구, 지구의 날 맞아 ′제18회 기후변화주간′ 운영 - fnewstv.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43LXJvQk1XR3lwQTlWY2QtVTVtV1hLVFpCVkRjVEtEVW1IVzFZZzNVQ1YxRHJBMFQ4WWw5d3NRTzJTTHRpYTJzcEdHRzVGU0o2a3I5Rm5iTm5YUzU0ZkNMcHJUZnhkcGxqMmRuREUyN1I?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:00:32",
+      "description": "강동구, 지구의 날 맞아 ′제18회 기후변화주간′ 운영 fnewstv.com",
+      "summary": {
+        "phenomenon": "강동구가 지구의 날을 맞아 제18회 기후변화주간을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "강동구",
+        "지구의 날",
+        "기후변화주간",
+        "운영",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "기후변화에 대응하는 제주농업, 저수조 인프라에서 길을 찾다 - 뉴스N제주",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52WUlHOVJTQTE0eU0yaVhrYXhhVDY0ZmFFZkVaVjJzUHlMODkzYUNqNF94c3NtSFp3bkxadVJ6OVFlN1VneEtTRFBXRm80VzhUNG1hSGVhbk1PQXRfZXUzNWxuMjFGMWtYUkR4aQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:51:00",
+      "description": "기후변화에 대응하는 제주농업, 저수조 인프라에서 길을 찾다 뉴스N제주",
+      "summary": {
+        "phenomenon": "제주농업이 기후변화에 대응하기 위한 방안으로 저수조 인프라를 모색하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "저수조 인프라를 통해 기후변화에 대응하는 제주농업의 길이 열릴 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "제주농업",
+        "저수조",
+        "인프라",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "과기부, 기후변화 대응에 3.4조 투자…\"태양전지·SMR 개발 확대\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sV29kMFFFdXlKYlRjODlvclpBQjlRcEtaajFwOG1ybmFkOEl3OG9XeHQ3TEhScUh6ek1ORUlrd1IwNS16UUhvQXhRWTBQcjRHc2tN?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:28:08",
+      "description": "과기부, 기후변화 대응에 3.4조 투자…\"태양전지·SMR 개발 확대\" 네이트",
+      "summary": {
+        "phenomenon": "과기부가 기후변화 대응을 위해 3.4조 원을 투자하며, 태양전지와 SMR 개발을 확대할 예정이다.",
+        "cause": "기후변화에 대응하기 위함이다.",
+        "outlook": "태양전지와 SMR 개발이 확대될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과기부",
+        "기후변화 대응",
+        "3.4조 투자",
+        "태양전지",
+        "SMR"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "유엔기후변화협약 기후주간 여수서 개막… 글로벌 기후 외교 중심에 선다 - 서울신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uNHFrdUlfZ2xhMlBrZjdzcC1OUi00eXJKcXZQak9BbkJjQVZZUExrUks4cnNSeDY5RWt2Rmw2RWZnT2M4NUdPMzYzZFZjN1VzMTc5bjRXNXEtNWEyVWdzeDNPYVhaalhGR0hob3F1UTRIMU0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T02:08:49",
+      "description": "유엔기후변화협약 기후주간 여수서 개막… 글로벌 기후 외교 중심에 선다 서울신문",
+      "summary": {
+        "phenomenon": "유엔기후변화협약 기후주간이 여수에서 개막했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "여수가 글로벌 기후 외교의 중심에 설 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "유엔기후변화협약",
+        "기후주간",
+        "여수",
+        "개막",
+        "기후 외교"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "AI·기후변화 시대의 도시 설계 청사진… 김용학 박사 '스마트시티 세계' 개정판 출간 - 메트로신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zT1IyNFUxYlFOZE1mempNNmdGWWVQRUJGVkswUERnR1VvMmRseVEtaFpUcGd5NW81bVR5QVdLM2xSSm9PTmxGaWdXZW9GdjNQeV9OTFFUUGJHR0dTd1Fr?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:08:12",
+      "description": "AI·기후변화 시대의 도시 설계 청사진… 김용학 박사 '스마트시티 세계' 개정판 출간 메트로신문",
+      "summary": {
+        "phenomenon": "AI·기후변화 시대의 도시 설계 청사진… 김용학 박사 '스마트시티 세계' 개정판 출간 메트로신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "기후변화",
+        "스마트시티",
+        "도시 설계",
+        "청사진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "용인특례시, 기후변화주간 맞아 시민 참여 탄소중립 프로그램 운영 - 이코노뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzU2k2cHdZLUM5Ml92RnNPMUt0cm9xandmLWVHYkI0TjJUZW41ZVIwZEJkN3V6TzB4R1NGUmp2WGRiQ0VnelJ5M0pHSkNmMXppSVpyOUF2YmZ2OGlLeDl0SzZ3VWlkQ0ZqNjdEQmZXdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-15T22:40:00",
+      "description": "용인특례시, 기후변화주간 맞아 시민 참여 탄소중립 프로그램 운영 이코노뉴스",
+      "summary": {
+        "phenomenon": "용인특례시에서 기후변화주간을 맞아 시민 참여 탄소중립 프로그램이 운영되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인특례시",
+        "기후변화주간",
+        "시민 참여",
+        "탄소중립",
+        "프로그램 운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "42",
+      "title": "용인특례시, 기후변화주간 맞아 체험·교육 프로그램 운영...22일 소등 캠페인도 - 경인매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXRXc0cmVndkJDRnRnTzBjdTg0Y2pLRHhkMzdDeFlkdWJNTmN3V1U4Z296djlXdTRma1EwRUlSYmRTYnQzNVl0RmtxRTg2aHVXTGRWblVkSllETmpMWjlFdnZDd1Y3WEYw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:53:30",
+      "description": "용인특례시, 기후변화주간 맞아 체험·교육 프로그램 운영...22일 소등 캠페인도 경인매일",
+      "summary": {
+        "phenomenon": "용인특례시에서 기후변화주간을 맞아 체험 및 교육 프로그램이 운영되었으며, 22일에는 소등 캠페인도 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인특례시",
+        "기후변화주간",
+        "체험",
+        "교육",
+        "소등 캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "43",
+      "title": "기후변화 대응 신재생에너지 기술개발 지원 확대 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xeUNzQldPdlMxb21CdmZGalB3a3FDbmQ3Yzl1YW9ZcmJnX2h4cWRvcVZMcy1KQ0MtV2VfSlB5eXl5WmN3Ym1qSG5XcHllQ3FoQ1BJ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:16:00",
+      "description": "기후변화 대응 신재생에너지 기술개발 지원 확대 네이트",
+      "summary": {
+        "phenomenon": "기후변화에 대응하기 위해 신재생에너지 기술개발 지원이 확대되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "신재생에너지",
+        "기술개발",
+        "지원확대",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "44",
+      "title": "가평군, “지구도 쉴 시간이 필요해요”… 기후변화주간 소등행사 등 탄소중립 캠페인 전개 - 브레이크뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VZUVIVzdSYU0xOURaenVIeXBQNjhCWXU0eXRNQ1BOUThWeUhLYl83VnlqbVY4S19oVjFxVHd4SExMdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:32:00",
+      "description": "가평군, “지구도 쉴 시간이 필요해요”… 기후변화주간 소등행사 등 탄소중립 캠페인 전개 브레이크뉴스",
+      "summary": {
+        "phenomenon": "가평군에서 기후변화주간을 맞아 소등행사를 포함한 탄소중립 캠페인이 전개되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가평군",
+        "기후변화주간",
+        "소등행사",
+        "탄소중립",
+        "캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "45",
+      "title": "전남도, 여수서 ‘유엔기후변화협약 기후주간’ 개최… 녹색 전환 논의 - 시사포커스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52MGNwM1prZl9vbWN6Zjh5UTBEOFRJeXFwMFR1alhNdlI4ZU9JYkhsZF9EeGRjNFU2OUF3MDNRcjYxQnhCMVJ3ZXZiNW82U2FfdC14dUVBOTJIblY2S0hWU2xEeDFWQS15ZGRxdFVn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:59:49",
+      "description": "전남도, 여수서 ‘유엔기후변화협약 기후주간’ 개최… 녹색 전환 논의 시사포커스",
+      "summary": {
+        "phenomenon": "전라남도 여수에서 ‘유엔기후변화협약 기후주간’이 개최되었으며, 이 행사에서 녹색 전환에 대한 논의가 이루어졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "여수",
+        "유엔기후변화협약",
+        "기후주간",
+        "녹색 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "46",
+      "title": "광주광역시, 20∼24일 기후변화주간 운영…행사 다채 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84bzgwYVVaS3UwNU9HZ3E5U3VqZE53enNHY25SZi1weGRWTnNPbnZJRV9FZ2tfck5oeUl4RlVnMVphMEdSbnlOZzhoSWhwVXlLTmgtWkZUMkNUODN0NWlXcVVLVmRCT3hwaUs3bUtHS1BVQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T02:55:11",
+      "description": "광주광역시, 20∼24일 기후변화주간 운영…행사 다채 웹이코노미",
+      "summary": {
+        "phenomenon": "광주광역시에서 20일부터 24일까지 기후변화주간이 운영되었으며, 다양한 행사가 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "광주광역시",
+        "기후변화주간",
+        "운영",
+        "행사",
+        "다채"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "47",
+      "title": "'유엔기후변화협약 기후주간' 여수에서 개막…전세계 1만4000명 온다 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KRnZvUERmUzEwb2NoV003OEJuU0czeWFtX19XeEQ2QUppeFBUSS1DWWJ2ZG1OOXNDU0hmaUhGTlFrNHBsa2NLRzllWTY5dW93eFpF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:51:00",
+      "description": "'유엔기후변화협약 기후주간' 여수에서 개막…전세계 1만4000명 온다 네이트",
+      "summary": {
+        "phenomenon": "전라남도 여수에서 '유엔기후변화협약 기후주간'이 개막했으며, 전 세계에서 1만 4천 명이 참석할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "유엔기후변화협약",
+        "기후주간",
+        "여수",
+        "개막",
+        "1만4000명"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "48",
+      "title": "국민대 기후변화대응사업단, '클린 위크' 환경 보호 캠페인 실시 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WUTh4QjQ3TEh6LWRhRjdERkd6OXI2dGdXYW9qc2JkMnMyMTdyNUdrYzI1VFlKSFVBc2hCUUFwN3BlcUFHYjF3TVVmeWJacWc1UWs0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T07:45:00",
+      "description": "국민대 기후변화대응사업단, '클린 위크' 환경 보호 캠페인 실시 네이트",
+      "summary": {
+        "phenomenon": "국민대학교 기후변화대응사업단에서 '클린 위크'라는 이름의 환경 보호 캠페인을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국민대",
+        "기후변화대응사업단",
+        "클린 위크",
+        "환경 보호",
+        "캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "49",
+      "title": "강동구, 지구의 날 맞아 '제18회 기후변화주간' 운영 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9QQTBwcFQxNWNTMG9NMjhlTFF3a2tMSmtYS3V1STdnM283QUdCWnZLNl9jV1FXSXRrc2x1RWZ0WEx5Uk9WYnc0ckRmRm8yR240ODN6YjJUSF9aVWU3YXUxOUEwdl94TkN1WFlJMHpJd0lzdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:10:54",
+      "description": "강동구, 지구의 날 맞아 '제18회 기후변화주간' 운영 웹이코노미",
+      "summary": {
+        "phenomenon": "강동구에서 지구의 날을 맞아 '제18회 기후변화주간'이 운영되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "강동구",
+        "지구의 날",
+        "기후변화주간",
+        "기후변화",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "50",
+      "title": "\"녹색성장 글로벌 무대로\"…전남도, 여수서 국제기후 행사 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQWdLNm1xUTlFXzhFUEpoU1FKc3d4U1AyeXZhMHliWlg3emEwWlVXSXVRZ0l2enN5MzBUX0RlQ3NtT0NiNUdOZ25ZR0E1VTlhdk51VDlDb2xCbGQ0aEFF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:29:40",
+      "description": "\"녹색성장 글로벌 무대로\"…전남도, 여수서 국제기후 행사 뉴스1",
+      "summary": {
+        "phenomenon": "전라남도 여수에서 국제기후 행사가 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "녹색성장",
+        "글로벌",
+        "전남도",
+        "여수",
+        "국제기후 행사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "51",
+      "title": "“기후위기, 일상 위협 현실화” - 뉴스엔톡",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RdGlQeUpuVkx5WFQtak15ZWpmZG5rb3gwMkgyc1JsdV83ZWs2dFFrZmR1RUhQVWtJSEt6bE52Y3pzZy1iNUxhMEphN0J0ZjNib096Sl9hOXhFNERPUzBGVFlPcUxHOHlFdnc4bg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:18:07",
+      "description": "“기후위기, 일상 위협 현실화” 뉴스엔톡",
+      "summary": {
+        "phenomenon": "기후위기가 일상생활에 현실적인 위협이 되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "52",
+      "title": "광주시 20일부터 기후변화주간 운영 지구의 날 기념행사 다채 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBQM3ZjTDNvMmFBUTBOc3FsWTVjbmhQUUFOSTZQNXJ5SDVFNkd3VXBmcTktUGtEY1FNVGxmeHpTQlFiZlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:30:00",
+      "description": "광주시 20일부터 기후변화주간 운영 지구의 날 기념행사 다채 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "광주시가 20일부터 기후변화주간을 운영하며 지구의 날 기념행사를 다채롭게 개최한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "기후변화주간",
+        "지구의 날",
+        "기념행사",
+        "다채"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "53",
+      "title": "서귀포시, 지구의 날&환경의 날 맞이 2035 탄소중립 제주실현 - DWBNEWS",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05c0hYZlY1bXI4MUFxVnotVXJ3Q3hmaXdPdGR2R05GTnp5eEVpaEhZRjREVzMzQUoyN2xEMGFZcjJSVFFSdzZ4UVlwSU1KanBrT1o1TEFLeWVGWUtXUnZJRE9OZGNaZ19i?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:25:00",
+      "description": "서귀포시, 지구의 날&환경의 날 맞이 2035 탄소중립 제주실현 DWBNEWS",
+      "summary": {
+        "phenomenon": "서귀포시가 지구의 날 및 환경의 날을 맞아 2035년까지 제주에서 탄소중립을 실현하고자 한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "제주 지역은 2035년까지 탄소중립을 달성할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서귀포시",
+        "탄소중립",
+        "2035년",
+        "지구의 날",
+        "환경의 날"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "54",
+      "title": "광주시, 기후변화주간 20∼24일 운영…행사 다채 - 뉴스핌",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYYThKdkx6S0treG5PRV80YTNJcFFNdWFEaXdON2FmODNLZW9Na2xBY2ZwQmxES0NHaUdPNS11ejh5SzlsNFhLWURVV3AzU0xwSTZKYXJ1bW1yZDV4?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:34:00",
+      "description": "광주시, 기후변화주간 20∼24일 운영…행사 다채 뉴스핌",
+      "summary": {
+        "phenomenon": "광주시가 20일부터 24일까지 기후변화주간을 운영하며 다양한 행사를 개최한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "기후변화주간",
+        "운영",
+        "행사",
+        "다채"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "55",
+      "title": "가평군, \"탄소중립 실천으로 지구에 휴식을\" - 경기헤드라인",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Sd3I5ckNtUXpTNU52VU9qZXVFTmpVdzhvYmJHN3FRUmQtREE3ekxGYm1OcWxuR3ZaQ19aV2ZkT0haMnhqMEZyZ1J5eUpBLUZGQnVNbldLWi1QNXE5WFNhbG9TaW1YQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:51:44",
+      "description": "가평군, \"탄소중립 실천으로 지구에 휴식을\" 경기헤드라인",
+      "summary": {
+        "phenomenon": "가평군이 탄소중립 실천을 통해 지구에 휴식을 주자는 메시지를 전달하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가평군",
+        "탄소중립",
+        "실천",
+        "지구",
+        "휴식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "56",
+      "title": "광주시, 기후변화주간 운영 시민참여 확대…지구의 날 행사 '다채' - 네이트 스포츠",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XRFg4OVEtQmZ0X1FPWHhPcUpsU01xdXU2bG81ZnZrcDh6R3BFMlVpTW1zclIxR28tMmZsVTdDRkI2S0t6eWxGQ2VBRjZTSDRId19RR1VRTDVENmxpdEJyMVRoRWZIRzA4aUE1WUZZTUdCSERYUzdB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:12:00",
+      "description": "광주시, 기후변화주간 운영 시민참여 확대…지구의 날 행사 '다채' 네이트 스포츠",
+      "summary": {
+        "phenomenon": "광주시가 기후변화주간을 운영하며 시민 참여를 확대하고 지구의 날 행사를 다채롭게 진행한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광주시",
+        "기후변화주간",
+        "시민참여",
+        "지구의 날",
+        "행사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "57",
+      "title": "정부, 기후변화 대응에 3.4천조 투입…전년보다 14.1%↑ - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HUVJhVkJrV2VWeVh4MHFhQ1RieFZIc0p4SHhRdXFYcV9YR2VETVU0VXA3dFRVT1YzTlRfVTdxQkg2dGVxamZieEN0Z0oyQ29mZm5F?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T03:01:00",
+      "description": "정부, 기후변화 대응에 3.4천조 투입…전년보다 14.1%↑ 네이트",
+      "summary": {
+        "phenomenon": "정부가 기후변화 대응을 위해 전년 대비 14.1% 증가한 3.4천조 원을 투입한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "정부",
+        "기후변화",
+        "대응",
+        "3.4천조",
+        "투입"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "58",
+      "title": "\"기후변화, 기업 생존 직결\" 씨티은행 '기후행동 라운드테이블' 개최 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZN3Z5S1RKRXBOOFlONmFzVkJ6T2U4bjl1SVMzWHdaSzUwT0dOd3FfVF81clRubGxmX3BfdnpiOHpmY1FsMHhfVXRvSG1VUHVCaDV3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:42:00",
+      "description": "\"기후변화, 기업 생존 직결\" 씨티은행 '기후행동 라운드테이블' 개최 네이트",
+      "summary": {
+        "phenomenon": "씨티은행이 '기후행동 라운드테이블'을 개최했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화가 기업의 생존에 직접적인 영향을 미칠 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "기업 생존",
+        "씨티은행",
+        "기후행동",
+        "라운드테이블"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "59",
+      "title": "'함께 걷고 함께 지키는 우리의 발걸음'... 광주시, 기후변화주간 다채롭게 운영 - 뉴스워커",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40YllDdWkzRlR5NmtGTXQzMWdQZ1FlOVpYbXZqODljWFBJWTBRY0tET1ItclFkdDc0ZGhrYkpVcXkwXzRQbjFRT28yWk1zTWs4SkxnZ1M1NUNCMXVnYkNvWGNCMC1lSXVKYURKNVgzVdIBc0FVX3lxTFBzTkxVVmNsVFRhWjNzdmxldF81UUltYk1qZXhDR0VkdFVWcXZkS1NTNjZzR1JoV1pnZGxqdjJjeGFxRFdzOUdxY0UtOXcydTUzbUs2eHctRk9mM3lTTEprWkk3Q0dFQnZZeWk4QWQ3anVJaHc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T00:40:55",
+      "description": "'함께 걷고 함께 지키는 우리의 발걸음'... 광주시, 기후변화주간 다채롭게 운영 뉴스워커",
+      "summary": {
+        "phenomenon": "광주시가 '함께 걷고 함께 지키는 우리의 발걸음'이라는 주제로 기후변화주간을 다채롭게 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "60",
+      "title": "여수, 유엔기후협약 ‘기후주간’ 개최…에너지전환·AI 논의 본격화 - 베타뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kVXBkU0F5ZWhwU1JUVW0wRFliT2k5bk5vak5la2hLSHQ0LWtWaHNFT3JWNW9Bdi1YOWVoMWFncENKUkQ2YmE1VXVHOE9ZTnhfOG9LOWx1MWdjNGFCR2VqaWU5REo?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T01:42:43",
+      "description": "여수, 유엔기후협약 ‘기후주간’ 개최…에너지전환·AI 논의 본격화 베타뉴스",
+      "summary": {
+        "phenomenon": "여수에서 유엔기후협약 '기후주간'이 개최되어 에너지 전환 및 AI 관련 논의가 본격화되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "여수",
+        "유엔기후협약",
+        "기후주간",
+        "에너지전환",
+        "AI"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "61",
+      "title": "김용태 의원, 기후위기 대응 위한 농어업재해보험법 개정안 발의 - 내외뉴스통신",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfVDJ2eFRhaTV5dUJvNEdWNGZrMXA5dlRtSHpxVFpaZ2FxYkNfTy1NMzBySTZIV0M2ajRQUkRTNTNBakhSZWQzUS05d0Y1WUpNY3hXdmdYUXoxeE55aHJqeXF2d0psQS1lZXlVLW1R0gFwQVVfeXFMUGpRWkJjMjhReVI2c1N3MXh3c2cwZThiQzhtR2dBTWVGWUpWQVB3YU1BNjRkOGR1UEd6T1dyd1paaS05ZEtXZDRZd25Lc0RxZWJPc0lqMWdGRXRkUnh5SGdwb0ZyRzhwcWt0cXhrYVVXeA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-16T06:58:54",
+      "description": "김용태 의원, 기후위기 대응 위한 농어업재해보험법 개정안 발의 내외뉴스통신",
+      "summary": {
+        "phenomenon": "김용태 의원이 기후위기 대응을 위한 농어업재해보험법 개정안을 발의했다.",
+        "cause": "기후위기에 대응하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김용태 의원",
+        "기후위기",
+        "농어업재해보험법",
+        "개정안",
+        "발의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "62",
+      "title": "\"전력망, 국가 경쟁력 좌우\"…AI 시대, 탄소중립 해법 찾기 - 지디넷코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vSU53RjAySlpITWNrZXF3cXA5YXA4aTlvNVloQjRDc0pXTURGZkRSNGQ3VzJVWlNDbTB6UXM0XzZ2UmpwQVF2VHBqVEZteVpSQm5VUVd3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:42:28",
+      "description": "\"전력망, 국가 경쟁력 좌우\"…AI 시대, 탄소중립 해법 찾기 지디넷코리아",
+      "summary": {
+        "phenomenon": "AI 시대에 전력망이 국가 경쟁력을 좌우하며, 탄소중립 해법을 모색하고 있다는 내용이 보도되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "전력망",
+        "국가 경쟁력",
+        "AI 시대",
+        "탄소중립",
+        "해법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "63",
+      "title": "“망 없인 탄소중립 없다...유연성·통합계획으로 계통 탈탄소 이끌어야” - 전기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fa0VZWkp3TkNnZU5EQTB4X09jNHNGc0F6VWRfRGpsNzQtNFR3bWN4SGJPR1NFUGtFRFB5RXAtMjQ4YTIxVzlFcC1aUi15UEZwSm0wS09pSmttWVd1UHJkTjgza1lpSkRGTFFfMNIBcEFVX3lxTE5mZ3YzVEJiN2JwTWxJaWdEZWFtWWVzbzVSOXI2RTJPdGhyZk1QS3dveFhoLUJTVDBwSGVETS1KODNmeXVYNUlBM3M5ZkhhS1c5Vzh4S3NPSnJibUJCUXRGd3RvYTU0V1A0U3ZyZlJhdlc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:05:04",
+      "description": "“망 없인 탄소중립 없다...유연성·통합계획으로 계통 탈탄소 이끌어야” 전기신문",
+      "summary": {
+        "phenomenon": "탄소중립 달성을 위해 전력망(계통)의 역할이 중요하며, 유연성과 통합계획을 통해 계통의 탈탄소화를 이끌어야 한다는 주장이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "64",
+      "title": "[에너지 인사이트] 탄소중립이냐, AI냐…대통령 결단이 필요하다 - 기후에너지데이터뱅크",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1yMEh0VnlQamVaN0EzYmU5NGM2MlVmUnVHMEYxNVRma2swQkZmZl9FQklkSXN2UnI4OTJiakhFT2VYZVZlQXc4TDI4dVdxYUtUUVI4bVN3Yk52b2lESGc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:39:57",
+      "description": "[에너지 인사이트] 탄소중립이냐, AI냐…대통령 결단이 필요하다 기후에너지데이터뱅크",
+      "summary": {
+        "phenomenon": "탄소중립과 AI 발전 사이에서 대통령의 결단이 필요한 상황이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "65",
+      "title": "현대백화점그룹, 용인 '탄소중립의 숲' 조성…숲 가꾸기 지속 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kWU9YbkpxVW00Q3VjTkYxLTZrYmRBZTRLVE90VXlUSTdQSmh1SUE5WHpZU2x5Vzc1NENvNmkwTVJrWjJrUnA1X2s1NHFLdGZFVFB2Mm5ZaFBMR3ZLWWZFRm92WXfSAXhBVV95cUxPbFd4YkVDZUtaSjNHdGVFcVFZcXdOTi1UMUh1QkVZeFF2NUlFaFFHa09MbHhRSTgxVVJOYkYyR1RoOExQUTIzdkcyQ195QVpIY1dRRUlrdFhBeHprUS15Q1loVE91T1lpQ0tOb0ZDdWtRV0ROUjlxalA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:00:28",
+      "description": "현대백화점그룹, 용인 '탄소중립의 숲' 조성…숲 가꾸기 지속 뉴시스",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '탄소중립의 숲'을 조성하고 숲 가꾸기를 지속하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "용인",
+        "탄소중립의 숲",
+        "조성",
+        "숲 가꾸기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "66",
+      "title": "현대백화점그룹, 용인시 ‘탄소중립의 숲’ 기념식 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVTczQkZleVdRWm9sMUtvUlQxQ1RpSHctTXZTYnR6S1gtdFNjRks4VHIwMXNPSW9vNF84UXBFZ0R5cHNHVFRZVGZJT0hNWTJkYndWUE1B?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:52:32",
+      "description": "현대백화점그룹, 용인시 ‘탄소중립의 숲’ 기념식 헤럴드경제",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인시에서 ‘탄소중립의 숲’ 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "용인시",
+        "탄소중립의 숲",
+        "기념식",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "67",
+      "title": "현대지에프홀딩스, '탄소중립의 숲' 조성 기념식 진행 - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TSzN3eHRCNWl3NlRWWElKMGdCUEdjVjhJeUJURkY0UjA3V0dKTDVDQWFDdzN1N0pBdHFmakFDN3ZKaFNmOFdIc0hJM3I4VVRVa0MxejBLR0xEMWvSAWBBVV95cUxOdHhTaC1BUktVSFJONE95U2p3aWNaTjI1NGtXWWVheTdwTkRNUjNJMzZ2TjMxZ3lVS0phamJ5TFJNamFvY0hGVmNiSlVCaUx3WlZCMllQNjdmQll4UUlwWmU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:37:14",
+      "description": "현대지에프홀딩스, '탄소중립의 숲' 조성 기념식 진행 연합뉴스",
+      "summary": {
+        "phenomenon": "현대지에프홀딩스가 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대지에프홀딩스",
+        "탄소중립",
+        "탄소중립의 숲",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "68",
+      "title": "\"우리 다함께 탄소중립 실천해요\" - 제민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSaU5UT2VfQmRMM0FEc3pnZFYxbWZCbjJDNmtZRV9SNjBQdk13bS1WYTNKX0NBcGY0d3dlNzZHak1KNE56VEVocWFUYmxGOXlaNWs2azFmMDcxTWlIb1Bkek10VFdvdGc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:34:12",
+      "description": "\"우리 다함께 탄소중립 실천해요\" 제민일보",
+      "summary": {
+        "phenomenon": "탄소중립 실천을 독려하는 메시지가 전달되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "실천",
+        "다함께",
+        "기후",
+        "환경"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "69",
+      "title": "발전소 환경성 강화-탄소중립 선도 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkanpBTGNEaHM5VUFFX1FPWlhVV0dXMWIzT2JnTzNtRHNOZHZWUnZ0akRRUDRfZXRNSHVmV3ktVWdXcGJvSzBKTGhyUzZCLXM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T19:37:14",
+      "description": "발전소 환경성 강화-탄소중립 선도 v.daum.net",
+      "summary": {
+        "phenomenon": "발전소의 환경성을 강화하고 탄소중립을 선도하려는 움직임이 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "발전소",
+        "환경성 강화",
+        "탄소중립",
+        "선도",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "70",
+      "title": "안산녹색환경지원센터-시민햇빛발전협동조합, 탄소중립 실현 ‘맞손’ - 중부일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFMDc3ODBha21uOGlTU1BIdy0tLWJXWUtfQlAwTUNzS3h5dVdqQUlRNjM2M19vUGtZckJkeEJ5WDVDdlZVd3hKazJoLTJ3M2Z3RGRrWURhc2NzRXJqa3M1cy12Q0FFUzJGczlkOXZ3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:55:00",
+      "description": "안산녹색환경지원센터-시민햇빛발전협동조합, 탄소중립 실현 ‘맞손’ 중부일보",
+      "summary": {
+        "phenomenon": "안산녹색환경지원센터와 시민햇빛발전협동조합이 탄소중립 실현을 위해 협력하기로 했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "안산",
+        "시민햇빛발전",
+        "협력",
+        "환경지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "71",
+      "title": "에너지 안보·탄소 감축 위한 현실 대안 ‘탄소중립연료’ - 월간수소경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5taEpNbmVtMF92eE5JaVZZNDVBUldkVHpvSm5iZkNRc3hWUEgxWUJxMzdKZkdNa2htdHozVENjNXQ3RFd5MEhPUHpDZHB1cjhRcEFyMFJhNkgzaWtLZTU3Z196RlhSQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T23:55:00",
+      "description": "에너지 안보·탄소 감축 위한 현실 대안 ‘탄소중립연료’ 월간수소경제",
+      "summary": {
+        "phenomenon": "'탄소중립연료'가 에너지 안보와 탄소 감축을 위한 현실적인 대안으로 제시되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에너지 안보",
+        "탄소 감축",
+        "탄소중립연료",
+        "현실 대안",
+        "수소경제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "72",
+      "title": "현대백화점그룹, 용인에 '탄소중립의 숲' 확대 조성…친환경 경영 강화 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RRDlvTVdfN2JVWnNQdWgydmZvYWZwV0UyemZEbWVNODB0czNTWHo5d216RXhKZlpPclVqOXJUeVZ0dUdyVXlfN19HTVJUdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:01:50",
+      "description": "현대백화점그룹, 용인에 '탄소중립의 숲' 확대 조성…친환경 경영 강화 전자신문",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '탄소중립의 숲'을 확대 조성했다.",
+        "cause": "이 조치는 현대백화점그룹의 친환경 경영 강화를 위한 것이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "친환경 경영",
+        "용인",
+        "확대 조성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "73",
+      "title": "\"전력망, 국가 경쟁력 좌우\"…AI 시대, 탄소중립 해법 찾기 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uZ1pWMHhfRzNnUnZqUWFfdC1mZElNMGFfOVhpYmpmVVc1UnpNTVZKRjZmMjdLZzNJbEFUTkpNendsczRBVVZubm5pNVNOZkE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:44:10",
+      "description": "\"전력망, 국가 경쟁력 좌우\"…AI 시대, 탄소중립 해법 찾기 v.daum.net",
+      "summary": {
+        "phenomenon": "AI 시대에 전력망이 국가 경쟁력을 좌우하게 되면서, 탄소중립 해법을 모색하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전력망",
+        "국가 경쟁력",
+        "AI 시대",
+        "탄소중립",
+        "해법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "74",
+      "title": "현대백화점, 경기 용인 '탄소중립의 숲' 조성 기념식 - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhV0RyMEhDVHFQQVJ4M1FIXzdPTjhEWHUwaDlVcHREZjIyNWw3S0xNT19hZHdQUjBSdXlBTlBCZEFpWGxPZHBvaVpjdDI0aU5fWFBiWFdGaUhrcTFV?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:42:25",
+      "description": "현대백화점, 경기 용인 '탄소중립의 숲' 조성 기념식 뉴스;트리",
+      "summary": {
+        "phenomenon": "현대백화점이 경기 용인에서 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점",
+        "탄소중립의 숲",
+        "용인",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "75",
+      "title": "현대백화점그룹, '탄소중립의 숲' 조성 기념식 진행 - 아이뉴스24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE95dlNxeUV0MWZKSzltMEdqZ3pUVUFxQ240M05rYll2U2Y3NVFCMDRJbjVhZmxxVDJmY1Z4MXBWMmlkd1VaaEIyWExWSEE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:47:03",
+      "description": "현대백화점그룹, '탄소중립의 숲' 조성 기념식 진행 아이뉴스24",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립",
+        "숲",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "76",
+      "title": "거제시, 4월 탄소중립 실천기관 한국전력 거제지사 지정 - 거제저널",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tYWV3NGphTGhTZ09HMGpCNkhvRjFGdTJESm0zbHg2NkhWLXhkR0I0bnduS1ltOHR6Rk1NOHJiQWg3amJxVjViRnBWRkdhSmdRYmo4bVRLNU5IUTFGQ1NrWl9QX0FsS1pFeWVOWjZaOGUwUmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T06:34:28",
+      "description": "거제시, 4월 탄소중립 실천기관 한국전력 거제지사 지정 거제저널",
+      "summary": {
+        "phenomenon": "거제시가 4월에 한국전력 거제지사를 탄소중립 실천기관으로 지정했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "실천기관",
+        "한국전력 거제지사",
+        "지정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "77",
+      "title": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MZl9rekdMNmN2N001a1NmWkVvWUotTkNFUmlsVTR5TElxY1lOOXpFVlRKVV9QZEtaMF82RlhQY0doRnJnbXVsbnF5NFlacUJhVDZObTFRYUkxYWVOWkdF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:57:49",
+      "description": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 뉴스1",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 '탄소중립의 숲'을 조성하며, 2029년까지 총 4만 그루의 나무를 식재할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "2029년까지 4만 그루의 나무 식재를 통해 탄소중립에 기여할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "조성",
+        "식재",
+        "4만그루"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "78",
+      "title": "AI·에너지 결합이 승부처…탄소중립 기술경쟁 본격화 - 에너지프로슈머",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OWWFoQzdxeUxSTTluWmJLWHBOS3VPQW5DaDVXZjhJTTBXMll2OUNIZ2luZVhuZ2lZbDZjbnFMSE1TNzZNNkswc25yTHM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:54:00",
+      "description": "AI·에너지 결합이 승부처…탄소중립 기술경쟁 본격화 에너지프로슈머",
+      "summary": {
+        "phenomenon": "AI와 에너지의 결합이 중요한 승부처로 부상하면서, 탄소중립 기술 경쟁이 본격화되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "AI와 에너지 기술의 결합을 통해 탄소중립 실현을 위한 기술 경쟁이 더욱 심화될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "에너지",
+        "탄소중립",
+        "기술경쟁",
+        "에너지프로슈머"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "79",
+      "title": "광명시, 탄소중립 실천 우수아파트 6곳 찾는다…최대 700만원 포상 - G밸리타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PZ2RheDNLN1lPUGdHSnI2eGRySjRGR0RPLW4xaFZRQ1Fzc0R1UEd4dVFKdjdUNFZjTXlSLWc3OGllNXAwbXhBMXlrUUw4N3JSZmpseVZlc25rTFgxQXdMQlJJVjRJZHRYVFpza2NB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T02:00:00",
+      "description": "광명시, 탄소중립 실천 우수아파트 6곳 찾는다…최대 700만원 포상 G밸리타임스",
+      "summary": {
+        "phenomenon": "광명시가 탄소중립 실천 우수아파트 6곳을 선정하여 최대 700만원을 포상할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "탄소중립",
+        "우수아파트",
+        "포상",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "80",
+      "title": "KTR, 산업단지 탄소중립 실현 돕는다 - 코스모닝",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84SF8xTzVBby1idW1BVDZmUmxxMmdjRVZad3dJd0hwTW9LVDFPNUJFOXJvU3NvQ2VrejZkT19IMTNYRmtCNDNRckxILUp0eXRhNXZNNEFvM0QxR04xN2ZfWEIyRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T00:45:38",
+      "description": "KTR, 산업단지 탄소중립 실현 돕는다 코스모닝",
+      "summary": {
+        "phenomenon": "KTR이 산업단지의 탄소중립 실현을 지원하는 활동을 하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "KTR의 지원을 통해 산업단지의 탄소중립 실현에 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KTR",
+        "산업단지",
+        "탄소중립",
+        "실현",
+        "돕는다"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "81",
+      "title": "김해대 유아교육과, ‘영유아 탄소중립 인형극 개발’ 공동 프로젝트 운영 - 부산일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SclpmZnhRUHdzSWJZcWFaT2o2MC1QLUpJcllYdmJITkRUbkRJQXJrbzEwY3N3d3lCdEtyZXVyZE5EdHdPSUpuQXozU3Z4dDNkRW1idk5wU29PYXM2M09raDlaS01BSm1QbzNqQzQwSjg4NGtW?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T02:03:06",
+      "description": "김해대 유아교육과, ‘영유아 탄소중립 인형극 개발’ 공동 프로젝트 운영 부산일보",
+      "summary": {
+        "phenomenon": "김해대학교 유아교육과가 영유아를 대상으로 한 '탄소중립 인형극 개발' 공동 프로젝트를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김해대",
+        "유아교육과",
+        "영유아",
+        "탄소중립",
+        "인형극 개발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "82",
+      "title": "[동정] 김석필 천안시장 권한대행, 2050 탄소중립 녹생성장위원회 - 전국매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WZTgwZWNTX2YyUTJuTzdZd1JEWFZ5S2RhLXJ4dGJVQXpveTV5X0dwZHVqOEdoVW1meXhwLVZETUd6bHNOTHRxOVQ3YlNjQ09jNlBGOUR0TjJ2TElyWkdVeHMyb1VlUXZTWWdPUlhB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T03:11:27",
+      "description": "[동정] 김석필 천안시장 권한대행, 2050 탄소중립 녹생성장위원회 전국매일신문",
+      "summary": {
+        "phenomenon": "김석필 천안시장 권한대행이 '2050 탄소중립 녹색성장위원회'에 참여했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "김석필",
+        "천안시장 권한대행",
+        "2050 탄소중립",
+        "녹색성장위원회",
+        "동정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "83",
+      "title": "전력망 탈탄소화가 AI 시대 성공 견인...산기협, '탄소중립 K-테크 포럼' 개최 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BQUt0d2FHRnc3NEhnTXhjRV9DZHRfeXFHNlh2VzBjWENwc1NCMEg2MlNPczFjMHpiSWM4a1B4Ymk5Zzc2RF81Ump5SXM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T03:00:00",
+      "description": "전력망 탈탄소화가 AI 시대 성공 견인...산기협, '탄소중립 K-테크 포럼' 개최 전자신문",
+      "summary": {
+        "phenomenon": "산업기술진흥협회(산기협)가 '탄소중립 K-테크 포럼'을 개최했다.",
+        "cause": "전력망 탈탄소화가 인공지능(AI) 시대의 성공을 견인할 것이라는 배경에서 포럼이 개최되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전력망 탈탄소화",
+        "AI 시대",
+        "탄소중립",
+        "K-테크 포럼",
+        "산기협"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "84",
+      "title": "가평군, 탄소중립 캠페인 전개 - 경기도민일보 미디어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fVzV5SnU1bWtkeHBFTVd3MGNNY1FVZjk4U2RBdWlIQy1aYm4wQVJ0VFBKMzh1WEw5WDRTRVhSWmttdlE3YUdudFhHNFR0eWpkTGo4YkphUFAzQjJNU3JpYnllZE1rVURlNnc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:39:31",
+      "description": "가평군, 탄소중립 캠페인 전개 경기도민일보 미디어",
+      "summary": {
+        "phenomenon": "가평군이 탄소중립 캠페인을 전개하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가평군",
+        "탄소중립",
+        "캠페인",
+        "전개",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "85",
+      "title": "충청남도새마을회, 탄소중립 꽃정원 조성·에너지 절약 캠페인 실시 - 투데이플러스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE00ejIzN09CQ1VyNEtqRjJrU281WjVRVjllOWw2UGZKODRYdGxUellaNUJVYnFmU2RIRWRBZU9PQmtGaHJmRXA3Qi0teFJ1aVZUcE1KNW1CUDAzQkVjZmV4M1ZaVnluWGVFd1lSdTNkRXNkdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:21:51",
+      "description": "충청남도새마을회, 탄소중립 꽃정원 조성·에너지 절약 캠페인 실시 투데이플러스",
+      "summary": {
+        "phenomenon": "충청남도새마을회가 탄소중립 꽃정원 조성 및 에너지 절약 캠페인을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충청남도새마을회",
+        "탄소중립",
+        "꽃정원",
+        "에너지 절약",
+        "캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "86",
+      "title": "애니켐·신효산업, 재활용 가능한 컵라면 용기 공개...탄소중립 실현 기여 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50YUtVRjMxVXpyaFFqOExlM0tVcU1NaS1lMFV0cFJqNFFpYlF4YzRkd1JFRUxUQ0pBQWhBeFNweEYxQlF0R19MWEtRYTZXZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T01:00:00",
+      "description": "애니켐·신효산업, 재활용 가능한 컵라면 용기 공개...탄소중립 실현 기여 전자신문",
+      "summary": {
+        "phenomenon": "애니켐과 신효산업이 재활용 가능한 컵라면 용기를 공개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 용기는 탄소중립 실현에 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "애니켐",
+        "신효산업",
+        "재활용",
+        "컵라면 용기",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "87",
+      "title": "거제시, 탄소중립 실천기관 릴레이 본격화... 4월‘한국전력공사 거제지사’지정 - 포인트경남",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aaUIxSWF2RDhtSEpZRjl5R0hBeGFDNDhXOVFudEdocE9YU3pkNXJrMWxMRFZYVWs3elpWQWZuLTljbzB0dEp0VzJkZHludlQ5eThXYnhBRGxlcndLbXpYeDA0d2V5Umo3b2hyemlDQ1o?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:05:54",
+      "description": "거제시, 탄소중립 실천기관 릴레이 본격화... 4월‘한국전력공사 거제지사’지정 포인트경남",
+      "summary": {
+        "phenomenon": "거제시가 4월에 '한국전력공사 거제지사'를 탄소중립 실천기관으로 지정하며 탄소중립 실천기관 릴레이를 본격화했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "실천기관",
+        "릴레이",
+        "한국전력공사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "88",
+      "title": "생활개선홍성군연합회, 탄소중립 환경정화 활동 전개 - 충청타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNUtPVTBwR2l2UkZpMGZFenpxVlp6bUl2cE5qRXhYS1g2RWVJTEw1dGRHbE1uYmZCTVB0NFJneVBJaWNKd1ZSYl9yd1VVWDRtQm15UC11dm5WcTRfQWxVc0lXbUxFYmhN?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T02:48:00",
+      "description": "생활개선홍성군연합회, 탄소중립 환경정화 활동 전개 충청타임즈",
+      "summary": {
+        "phenomenon": "생활개선홍성군연합회가 탄소중립 환경정화 활동을 전개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "생활개선홍성군연합회",
+        "탄소중립",
+        "환경정화",
+        "활동",
+        "홍성군"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "89",
+      "title": "국회 기후특위, 제4차 탄소중립기본법 심사 소위원회 - 한스경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XSk81WTJXdmZ4QzVoNy1EdmxDMm03VGdrNU84M0xGSVcxd0FRX21PRmNRV1lkYXcyWFpwUVdiTmtCWUNWdmNMQVpSdWE4NUthd3M4dWp2ZldnOHJTeUhVS3MtdXRHdnU3bWww0gFvQVVfeXFMUFp3NXF1cWcxQ0NubHFlUEd5Q2kwa3N1bmItNG1NZUplOFF2cHpFNkJBNWJJN2MyYS0zT0RIei1mOHZRZDNENWVTczRkYXFwVlByUlAtWXhrSXMwb2l6ZS14dXVrZlBMNzZHMkJuUmRJ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:46:17",
+      "description": "국회 기후특위, 제4차 탄소중립기본법 심사 소위원회 한스경제",
+      "summary": {
+        "phenomenon": "국회 기후특위가 제4차 탄소중립기본법 심사 소위원회를 개최했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국회",
+        "기후특위",
+        "탄소중립기본법",
+        "심사",
+        "소위원회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "90",
+      "title": "광주 곤지암초등학교, 탄소중립 프로젝트 '천연염료로 만드는 특별한 티셔츠' - 경기in",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DUXhlWFdSbXFnTlBsNU5FcU9tTnF2U2hBWndhU2FURHN4MGdWdVNoWXJXODhGRnI0RGVYZzgwWm5tUmM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T03:15:00",
+      "description": "광주 곤지암초등학교, 탄소중립 프로젝트 '천연염료로 만드는 특별한 티셔츠' 경기in",
+      "summary": {
+        "phenomenon": "광주 곤지암초등학교가 '천연염료로 만드는 특별한 티셔츠'라는 탄소중립 프로젝트를 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "91",
+      "title": "원주시, 탄소중립 서포터즈 3기 출범…청년 중심 기후 대응 확대 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kelRxa0prcEZtbDVzUmFUTlVzenpzMS01Y3NtanpGVWZzdDE1Znh1UUNUMnppenFfOTV1UkFSSjMyelU0cjhLYjBXMDNYaEp0el91SkxTbFFkUVNMUGlCZ0VWYW5maDFqbjdZN0o4cnI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T23:37:57",
+      "description": "원주시, 탄소중립 서포터즈 3기 출범…청년 중심 기후 대응 확대 신아일보",
+      "summary": {
+        "phenomenon": "원주시에서 탄소중립 서포터즈 3기가 출범하여 청년들을 중심으로 기후 대응 활동을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "탄소중립",
+        "서포터즈",
+        "청년",
+        "기후 대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "92",
+      "title": "광명시, 탄소중립 실천 우수아파트 찾는다… 최대 700만원 포상 - 경인신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GcFBocnBvTUJtS3ppeWRtcE5MNWJfN1cySkVzTUIzdzg4WjRsYWVKNjJ5TUdscTYxWFhQMTgxWUxTS2k1M1U0NFl2M3hvdWszRHBqZldkM3drcjNFMzZJY1oxU25wbmM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T22:21:25",
+      "description": "광명시, 탄소중립 실천 우수아파트 찾는다… 최대 700만원 포상 경인신문",
+      "summary": {
+        "phenomenon": "광명시가 탄소중립 실천 우수 아파트를 선정하기 위한 활동을 진행하며, 최대 700만원의 포상을 제공할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "탄소중립",
+        "우수아파트",
+        "포상",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "93",
+      "title": "진상초, 탄소중립 선도학교 운영 - 교육연합신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE55dWFtc29tRmYxQVJPS3ZqUG9MWmtZNEFDS1lIclFlbTkyUGd0NTVidVJKcTh1RFBQR2lqTVlaOEhrb0h4aXhPa3lMZG5VR3pGSEtoS2Y1M2xfUEFx?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:32:00",
+      "description": "진상초, 탄소중립 선도학교 운영 교육연합신문",
+      "summary": {
+        "phenomenon": "진상초등학교가 탄소중립 선도학교를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진상초",
+        "탄소중립",
+        "선도학교",
+        "운영",
+        "교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "94",
+      "title": "만안청소년수련관 방과후아카데미, 탄소중립·녹색생활 실천 교육 운영 - 경기헤럴드",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1dnBRTGV5M1VVUnYtUDcwZFYta28yeHlzVEJ2NVBVUDZ0eFZwOTR1T3cwUlF3RWNJUXZubkZWdEFjX3JyWE9XcEVySWNtLVprdUVn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:09:46",
+      "description": "만안청소년수련관 방과후아카데미, 탄소중립·녹색생활 실천 교육 운영 경기헤럴드",
+      "summary": {
+        "phenomenon": "만안청소년수련관 방과후아카데미에서 탄소중립 및 녹색생활 실천 교육을 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "만안청소년수련관",
+        "방과후아카데미",
+        "탄소중립",
+        "녹색생활",
+        "실천 교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "95",
+      "title": "강동구, ‘지구의 날’ 맞이 탄소중립 실천 주간 선포… 소등행사부터 골든벨까지 - 시정일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53NjRBMFQ3N2xnNkNPYlBOcFA0Z1BvUDA0VGZvajVLS29DNjRremtwenlyWF84RUhBSlRXaEZfZVhBM05pbmFISG0xMW1LTklDeTRxTUlOZlU2RThDLXFmZ1RydmhKVDRmNzZ3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T00:00:00",
+      "description": "강동구, ‘지구의 날’ 맞이 탄소중립 실천 주간 선포… 소등행사부터 골든벨까지 시정일보",
+      "summary": {
+        "phenomenon": "강동구가 '지구의 날'을 맞아 탄소중립 실천 주간을 선포했으며, 소등행사부터 골든벨까지 다양한 활동을 진행하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "강동구",
+        "지구의 날",
+        "탄소중립",
+        "실천 주간",
+        "소등행사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "96",
+      "title": "KTR, 산단 탄소중립 지원 체계 구축···검증기관 9곳과 협력 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11UVZhbVBwZHRBaUFsTk56aGJGUFZ5c3h6dGp5Q0w0YjI1MVphemdybktSX3R5bExsVEpJZzJWakFHR2tqZGpOdWtsQ2dQOXNLejRmbUZXSzZPZUxKSmo1bXBjLUw3TzlnOXZnbk82RGTSAXRBVV95cUxQSVMzQ1BnUEUwQkhrNms1WWFQalY1U0l0cERteFRoUWt6eDc3NktFSG9qcE1qcFFjcGNsZjFSMzhRQk10eEtpaTlaV1FRV0dYMi1BTktjeWltTkJZV1FMRHpKdGQxbmprMlNKZE1GZldSZE9ENQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T00:08:26",
+      "description": "KTR, 산단 탄소중립 지원 체계 구축···검증기관 9곳과 협력 이뉴스투데이",
+      "summary": {
+        "phenomenon": "KTR이 산업단지의 탄소중립을 지원하기 위한 체계를 구축했으며, 이를 위해 9곳의 검증기관과 협력하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KTR",
+        "산업단지",
+        "탄소중립",
+        "지원 체계",
+        "검증기관"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "97",
+      "title": "[포천24시] 포천시, 지구의 날 맞아 기후변화주간 운영 - 시사저널",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MSXJPaEtrNUxyNmNubEZqclJfZGhTbW9PdHhlZlF0emxkZkZNNnRrNlNNQ2x6ZW1OTjhUbXgtbWN2bnFZeFdRRHQ1VVZUOW5PNTJsZG1MV1FYcVdIcUlhaEJQNlhUNy1RMko3SzBLONIBc0FVX3lxTE5DWXhHNWROdlBuXzVsWWkwSmdpX1liRVdpcmwzNDhhVFR5clVKLXJWYXZGUFBYMHlVUW0wYm1xTDl1NzFUTUV6MHRLSjc1dUd0bkdLc0lLdkM3ckRvc2RyT25PamRVWFYteURVaWRPSmlzelU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T08:05:00",
+      "description": "[포천24시] 포천시, 지구의 날 맞아 기후변화주간 운영 시사저널",
+      "summary": {
+        "phenomenon": "포천시가 '지구의 날'을 맞아 기후변화주간을 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "98",
+      "title": "발전소 환경성 강화-탄소중립 선도 - 동아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pbWNSd29QMVMxaG5xRjROZkNYdkF3V2o5U0dNZ1BVMnllYlNzbUlfR2lVeWROZmVHelZYeERIMFA0UElHRFJhaDJDcEk2ZEZMd2xYSW13RTFtRl9pMTdsbTRSYmlkODd6ck1CSWdlWWRfM3FaN3fSAWZBVV95cUxPaGl6U2paamRSZ0dnd0kzb1A1WWd4ZE83ekVkdUFOcmJZeEcyQTFrWFl6cEQ0S0t3aE9tR0VQM0ZDTm1ObW1yN3JyY29GSU53OHFSV2FYWkNNSUttSDZYVk1UYXkxVHc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T19:30:00",
+      "description": "발전소 환경성 강화-탄소중립 선도 동아일보",
+      "summary": {
+        "phenomenon": "발전소의 환경성을 강화하고 탄소중립을 선도하는 활동이 진행되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "발전소",
+        "환경성",
+        "강화",
+        "탄소중립",
+        "선도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "99",
+      "title": "현대백화점그룹, 용인에 '제2호 탄소중립의 숲' 조성 - 더팩트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUzdLMkNfNXh2YlFkWmM3NnJHQWtzYmVCakNGWnhxQnZYT2NoR3p0WmFjLWRCQzJwTElMM3lHTndTSS1fMnEyOUVkekc0US1YdlI0Z2hHdW8yQdIBVEFVX3lxTE9jZHo5SEprMXE2Q01iRFd4T25DZzY1UTNEQ3pzbHU0RF80NjBHVmNrRGVKX2JuYkMxTmYydll2NTVrLUYzN1RxOXBqTVNmdGdYZjNfMA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:51:39",
+      "description": "현대백화점그룹, 용인에 '제2호 탄소중립의 숲' 조성 더팩트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '제2호 탄소중립의 숲'을 조성했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "용인",
+        "탄소중립의 숲",
+        "조성",
+        "환경보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "100",
+      "title": "현대百그룹, ‘탄소중립의 숲’ 조성 기념식...\"2029년까지 4만 그루 식재\" - 스마트경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12N2lyTDBMNUZrWVN1V0dwOVBHVzYzWDZzNkx3akplSlZKT2ZoTWV2SnZTZy1ScmhGX01UaU13R1dkVjVYU2E1MTVIYlQyOHdadFhYTXZqUHVlSU93UU5ORzRBNEZvdnpYQVdYdm5PYVA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T06:30:00",
+      "description": "현대百그룹, ‘탄소중립의 숲’ 조성 기념식...\"2029년까지 4만 그루 식재\" 스마트경제",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 '탄소중립의 숲' 조성 기념식을 가졌으며, 2029년까지 총 4만 그루의 나무를 식재할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "현대백화점그룹은 2029년까지 총 4만 그루의 나무를 식재하여 탄소중립에 기여할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대百그룹",
+        "탄소중립의 숲",
+        "조성",
+        "식재",
+        "4만 그루"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "101",
+      "title": "미래세대를 위한 숲…현대백화점그룹 ESG 확대 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02MVlHYlNYZU9CQUZOcTBhelRCSzlkOW1rSmx3TzVEWElCOWJxVllDZDRkVTBVOFd1Sk9mMHM1RHc0SGlpRWQ5VVZqOGE3X3dQZnZpUXhDV2JERmZBbjZVQXA2dXA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:22:52",
+      "description": "미래세대를 위한 숲…현대백화점그룹 ESG 확대 매일일보",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 미래세대를 위한 숲을 조성하며 ESG 경영을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "ESG",
+        "숲",
+        "미래세대",
+        "확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "102",
+      "title": "거제시, 탄소중립 실천기관 릴레이 본격화...4월‘한국전력공사 거제지사’지정 - 경남도민뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93eXU0Rk5ta0U4a0NsMmJBbUNOdUkzTXZYVVE1dWtsYlE4TU5PclRHU1Z5TmNtdXJLaWdneFl6U1o3X2EwUWJZSGxteGNHV3c4YW5TVGV1VFpMVC04VnBBQTFlWQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T08:30:08",
+      "description": "거제시, 탄소중립 실천기관 릴레이 본격화...4월‘한국전력공사 거제지사’지정 경남도민뉴스",
+      "summary": {
+        "phenomenon": "거제시가 4월에 한국전력공사 거제지사를 탄소중립 실천기관으로 지정하며 탄소중립 실천기관 릴레이를 본격화했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "실천기관",
+        "릴레이",
+        "한국전력공사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "103",
+      "title": "한국그린자원, ENVEX 2026서 NbS 환경정화시스템 공개... \"탄소중립 실현 앞장\" - 에이빙",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wS0V5bms3WUFITklUbHRGeG1sTlMyWTRFTkRNMnFzd3V2aEdudE1IOTBMM1JmTXBsbGNhMnVWaG5acmY0aXliZ016UW04OTRxcXRZWDk2YlRVOVkwbjQtaFZ6S09iVk0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:55:36",
+      "description": "한국그린자원, ENVEX 2026서 NbS 환경정화시스템 공개... \"탄소중립 실현 앞장\" 에이빙",
+      "summary": {
+        "phenomenon": "한국그린자원이 ENVEX 2026에서 NbS(자연기반해법) 환경정화시스템을 공개할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "한국그린자원은 이 시스템을 통해 탄소중립 실현에 앞장설 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국그린자원",
+        "ENVEX 2026",
+        "NbS 환경정화시스템",
+        "탄소중립",
+        "환경정화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "104",
+      "title": "KTR, 산업단지 탄소중립 실현 돕는다 - 직썰",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTd0hjdlBHWkNXVW9uYTlQN0pqWnd1eldhbjRMbmx4a2dUZER2dDNNWldlaEN4aGlqREJMbi1CZVVRSzVlZ2JrNndFU01rS3Y4VWItTkdQWmE3eXItV2ZBazVMOVZFZmRa0gFsQVVfeXFMUFd3Q0ZaOWNTb2JSTFpEaUNna2tmTENadUMwbjhQY3VOa2FoOGFOS1JLX0Ryb1NuZFA1RUJxT3J5Q2RmUWpEdkxFeU01eEU3QndGcHFlUUFHU05oSW1mSUR3X3pTSHhtOTBJS1Ew?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T23:52:31",
+      "description": "KTR, 산업단지 탄소중립 실현 돕는다 직썰",
+      "summary": {
+        "phenomenon": "KTR이 산업단지의 탄소중립 실현을 돕는 활동을 하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KTR",
+        "산업단지",
+        "탄소중립",
+        "실현",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "105",
+      "title": "오스코텍, '지구의 날' 맞아 탄소중립 환경 캠페인 전개 - 파이낸셜포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vZEI1Vk04TVRTZmZQTmZjNjFvSzlDemdHOFNYR2JsNE1xc2p2b2VVLWdDY0hpekZxM0F0ZGZYU3pJbnZJTENEWkVHLVNaQWpPX2stS2IxSkkxdTUwVk5VTkVMQk1FcW5YWTBCTXp0bkQ5V3lC?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T01:29:45",
+      "description": "오스코텍, '지구의 날' 맞아 탄소중립 환경 캠페인 전개 파이낸셜포스트",
+      "summary": {
+        "phenomenon": "오스코텍이 '지구의 날'을 맞아 탄소중립 환경 캠페인을 전개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "오스코텍",
+        "지구의 날",
+        "탄소중립",
+        "환경 캠페인",
+        "파이낸셜포스트"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "106",
+      "title": "광명시, 에너지 절감·탄소중립 실천 아파트 모집...우수아파트 선정 최대 700만원 포상 - 데일리안",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE96QTEyYTgzZ3dPNy16LTdnX1Y3SEw1SnpQM0JYTUVsa3pkVUxvUm44cnN4NzRhVTktVVpoY3ZQYjdwaXhkbm5SNUFnc29JZ05Fd3lIWW9n0gGmAkFVX3lxTE9DREhFY2dycGVxcDNGbm1IYWFld05yU1VaZ3RMVHVFeXJCZm82MzdYQ1N6SUxYYVVjeUFGamZCMUtObTBCcnpjV0djQ1dlUTZSc3JGX0laaHBGSlR5MWxPcXhIUEU5VTJ3M2xmMmF6U2lqQmVfWXBQc25LejI4dzMyRjBjNGxocXN3SGZYV0lLNjF4Z29TTnlNeHA5ckNfb0xIdW9GOEVCUEpVTVBFQ1dtY3FkV25BWUxiWnpPbVJjOFZ5dk9ZX3liM3ZmcHU1TFJ1TEtyOFczN21kM3VXakRVdmE2Um8wMEsxSldkNGtHVWlrTFQtVmpqTS1RdG9CVm9lUm5QUkczMjNFRmVwNzBRTzd5YUlZTVdTUl8welRzeHJXekNQdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T22:46:00",
+      "description": "광명시, 에너지 절감·탄소중립 실천 아파트 모집...우수아파트 선정 최대 700만원 포상 데일리안",
+      "summary": {
+        "phenomenon": "광명시가 에너지 절감 및 탄소중립을 실천할 아파트를 모집하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "우수 아파트로 선정될 경우 최대 700만원의 포상을 받을 수 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "에너지 절감",
+        "탄소중립",
+        "아파트",
+        "포상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "107",
+      "title": "원주시, 기후위기 극복 앞장… ‘탄소중립 서포터즈 3기’ 본격 출항 - 브레이크뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CR2E0TGg2cmlnMXBkREoyamhvSWV0a0ltaTZYSFNYOER5eE4xbkVzVFd3MHljQl9lTVUtTDB6VXFwemdwVGc0VQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T02:49:00",
+      "description": "원주시, 기후위기 극복 앞장… ‘탄소중립 서포터즈 3기’ 본격 출항 브레이크뉴스",
+      "summary": {
+        "phenomenon": "원주시가 기후위기 극복을 위해 '탄소중립 서포터즈 3기'를 본격적으로 출범시켰다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "기후위기",
+        "탄소중립",
+        "서포터즈",
+        "출항"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "108",
+      "title": "현대백화점그룹, 용인 '탄소중립의 숲' 조성···ESG 경영 박차 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vcXpEemk4SzNJemhONE5oTEhlSmRLV2pVSlJiU01DZV9uMnFRQkVReXA2N0FYTFo0eTE3N19LdFhqaGNkV3lZNmNpNldnUldVTkVz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:53:00",
+      "description": "현대백화점그룹, 용인 '탄소중립의 숲' 조성···ESG 경영 박차 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '탄소중립의 숲'을 조성했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "현대백화점그룹은 이를 통해 ESG 경영에 박차를 가할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "용인",
+        "탄소중립의 숲",
+        "조성",
+        "ESG 경영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "109",
+      "title": "현대백화점그룹, 용인에 '제2호 탄소중립의 숲' 조성 기념식 진행 - 스페셜경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80LVpsMzN4OTNuZVQyOG9qRWRIYUlIN2RyN1Q2WGJYM0FPSUY3R3hDb1dYbDVGamM4bHJnUjhqWW5IcWpJLVFjYkczWGNQU3k1YlIyN0E3bXVlWFhrRTk3QlI0SDBPUVdRUTNfRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:30:00",
+      "description": "현대백화점그룹, 용인에 '제2호 탄소중립의 숲' 조성 기념식 진행 스페셜경제",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '제2호 탄소중립의 숲'을 조성하고 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "용인",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "110",
+      "title": "연수구자원봉사센터, 우수자원봉사자 탄소중립교육 및 격려시찰 진행 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13NHptYkpvaFFMTW12VkxRaTBRZ05DODdWU2w3VVB0MHR6SGFNcXBhNThSUVg0S19Ycno2eU9iMEVIT2k3cnVUWDdhMElwekU1ZldWNEJTQ2NkMFh6d3B2bHFhUURGdmlDQzg5WVBSelktQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T06:22:36",
+      "description": "연수구자원봉사센터, 우수자원봉사자 탄소중립교육 및 격려시찰 진행 웹이코노미",
+      "summary": {
+        "phenomenon": "연수구자원봉사센터가 우수자원봉사자를 대상으로 탄소중립 교육 및 격려 시찰을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "연수구자원봉사센터",
+        "우수자원봉사자",
+        "탄소중립교육",
+        "격려시찰",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "111",
+      "title": "우원식 의장 \"미래세대 탄소중립 로드맵, 국회가 입법으로 응답할 차례\" - 뉴스핌",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TcU02cXZ3VmhZQjVtQmJ0bzVvYlVlY0REMmx5aGJneGR3Z05UYzJVX1NsZE0td0pCTzBvYVhnYkpYcHRZZE9XeDZKS0N3aXhCdFpaSG12UFpiSmds?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:02:00",
+      "description": "우원식 의장 \"미래세대 탄소중립 로드맵, 국회가 입법으로 응답할 차례\" 뉴스핌",
+      "summary": {
+        "phenomenon": "우원식 의장이 미래세대의 탄소중립 로드맵에 대해 국회가 입법으로 응답할 차례라고 언급했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "우원식 의장",
+        "미래세대",
+        "탄소중립",
+        "로드맵",
+        "입법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "112",
+      "title": "숲으로 답하는 ESG…현대백화점그룹, 탄소중립 행보 확대 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nY3RDV3ZhXzBINThLTXc2ZFpIUlhsS0JkeTB6aUtobmRYeGdWcE1EbnFlbExodVN6VmlSR1RxUXRpbUFMWkJHX3NaXzZpUHFoOVJv?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:18:00",
+      "description": "숲으로 답하는 ESG…현대백화점그룹, 탄소중립 행보 확대 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 ESG 경영의 일환으로 숲 조성을 통해 탄소중립 행보를 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "ESG",
+        "탄소중립",
+        "숲",
+        "행보 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "113",
+      "title": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12Q0l6MjFtcDlMaWlFZXBLRkZ6dmZna1RzLXd5VDZ5NDFnYkh1R05penQtbjB4MDdnbUpnOGIzVXVwWDdibUdORGdRbUFJOThaOFJB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:58:00",
+      "description": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 '탄소중립의 숲'을 조성하며 2029년까지 총 4만 그루의 나무를 식재할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "조성",
+        "식재",
+        "4만그루"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "114",
+      "title": "현대백화점그룹, 용인시에 '탄소중립의 숲' 조성…\"올해 6000그루 심는다\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Fa1AwUXNJNWJvNmlnZVdtWDdwSl94NklRQ3Bld2ZHQmRTbFpWM0RmR2ZYanRhTkdicmhGb2FTRUxOazI1S3lIMW81eVVzQmlJWXJF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:57:00",
+      "description": "현대백화점그룹, 용인시에 '탄소중립의 숲' 조성…\"올해 6000그루 심는다\" 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 경기도 용인시에 '탄소중립의 숲'을 조성하며, 올해 6,000그루의 나무를 심을 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "용인시",
+        "탄소중립의 숲",
+        "조성",
+        "6000그루"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "115",
+      "title": "인천, 어린이 그림으로 탄소중립을 말하다 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE51UWdoakEzVmhycnFtQVdLMjcyZE1Pbnh5c1J0SjNMbnNQV1l5NUVaclJjZkNuWW1NSUZ5Rm4xcUFEM0Qxd1lzQnk3Tk0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T00:29:45",
+      "description": "인천, 어린이 그림으로 탄소중립을 말하다 브랜드경제신문",
+      "summary": {
+        "phenomenon": "인천시에서 어린이 그림을 통해 탄소중립의 메시지를 전달하는 활동이 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천",
+        "탄소중립",
+        "어린이",
+        "그림",
+        "환경 교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "116",
+      "title": "현대백화점그룹, 경기도 용인 '탄소중립의 숲' 조성 기념식 진행 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9odHQ1NFBzeXFOYlhyRmxOZG42SWlQa2tMSkdIVkVfcktETkRSdWRNYWVheWhjTm1TcXJ6a0o3NlQtelpraWpFaE1PRWRYMTZnM2V3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:42:00",
+      "description": "현대백화점그룹, 경기도 용인 '탄소중립의 숲' 조성 기념식 진행 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 경기도 용인에서 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "경기도 용인",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "117",
+      "title": "현대백화점그룹, 용인 ‘탄소중립의 숲’ 조성⋯ESG 경영 박차 - 이투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfOURBWDRxWUU1d2g0TmFuaDU4UjYta0VVbTU5Z2x3Z2JQWGxzcjlqbVhlNHVjbXNaYTlRakF4dXZ1aUtGWWxMMzdTbjlVUVpzTzJZQnp0R2dXMi1SeW1nWkpyYzdTYnlqU2p5b0VnZERLYWV5?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:52:00",
+      "description": "현대백화점그룹, 용인 ‘탄소중립의 숲’ 조성⋯ESG 경영 박차 이투데이",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 용인에 '탄소중립의 숲'을 조성하며 ESG 경영에 박차를 가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "ESG 경영",
+        "용인",
+        "조성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "118",
+      "title": "우원식 \"미래세대 정책 참여 의미 커…탄소중립법 개정 나설 것\" - 매일타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NNGtDX0NBYUdST1gyUVo1b0diYjc1WWtkdG8wWWZyaVY3Y1Z5ZUJqcjJUbWdFeFYtM2paU0NzU0liazlQRlBaeWUxWWtxVTI2WUdjcmVTbjhNZWlfQTBRM3RVYTZYOWNO?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:50:53",
+      "description": "우원식 \"미래세대 정책 참여 의미 커…탄소중립법 개정 나설 것\" 매일타임즈",
+      "summary": {
+        "phenomenon": "우원식 의장이 미래세대의 정책 참여가 중요하다고 강조하며, 탄소중립법 개정에 나설 의지를 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "우원식",
+        "미래세대",
+        "정책 참여",
+        "탄소중립법",
+        "개정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "119",
+      "title": "현대지에프홀딩스, '탄소중립의 숲' 조성 기념식 진행 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oS3VJcUluMVJyZ1dJSGwtbHktVi0tMTNTOV92ZUhfWExucHpMWU9YajFTcThXV2JRYU80WFlGNGVHbTBhUHNPOGdXY2R5bE5ScFJF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:38:00",
+      "description": "현대지에프홀딩스, '탄소중립의 숲' 조성 기념식 진행 네이트",
+      "summary": {
+        "phenomenon": "현대지에프홀딩스가 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대지에프홀딩스",
+        "탄소중립",
+        "숲",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "120",
+      "title": "성균관대 장지수 교수팀, '온실기체로 전기 만든다', ‘가스전지’로 탄소중립 새 해법 제시 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXdkw3bmNVYzhOWEJDN01PeXZNR2p5bmVDUzRwTDVraW5Yd3lRTnV5cW85OVp5cFhUWkkxS1RSSnBGc0JKZXBJM01wdExvZ2RFRm94MVJVWWUyWk5Zd2p1MW9feXdldFB3eDE1NHE4bUTSAXRBVV95cUxOOW9UaXBrZkpld1IxcTJKUENCWmh0VkhscFNkd0t3RzNKQVVybWc3Vm8yclJGTXQ0di01M0FNTHkxeVRiZlkyeEM1b1JuSjAxczVGdE5RcUJoalV2Y1BSQ0ZzSXA5cEduWFllTGp4bnNmOEZNRA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:15:00",
+      "description": "성균관대 장지수 교수팀, '온실기체로 전기 만든다', ‘가스전지’로 탄소중립 새 해법 제시 이뉴스투데이",
+      "summary": {
+        "phenomenon": "성균관대 장지수 교수팀이 온실기체를 활용해 전기를 생산하는 '가스전지' 기술을 개발하여 탄소중립의 새로운 해법을 제시했다.",
+        "cause": "온실기체를 직접 전기 에너지로 전환하는 '가스전지' 기술을 통해 탄소 배출을 줄이고 에너지를 생산하는 과학적 접근이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "온실기체",
+        "전기",
+        "가스전지",
+        "탄소중립",
+        "새 해법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "121",
+      "title": "현대지에프홀딩스, 용인에 '탄소중립 숲' 2호 조성 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pWU55VVlXZjdjeDJBcUVlMVRKMTdXVEtzaDc0OVRTV1JsWU1IUG9pbDN4Q1FwSmk5eXdVWVFxUFZlUE9MQkNFMHlHRW5vdUJwTnF3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T07:02:00",
+      "description": "현대지에프홀딩스, 용인에 '탄소중립 숲' 2호 조성 네이트",
+      "summary": {
+        "phenomenon": "현대지에프홀딩스가 경기도 용인에 '탄소중립 숲' 2호를 조성했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대지에프홀딩스",
+        "용인",
+        "탄소중립 숲",
+        "조성",
+        "2호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "122",
+      "title": "범국민 디지털명함 추진위·서울경제연합 등 5개 기관, '디지털 전환 및 탄소중립' 위한 합동 MOU 체결 - 한국미디어뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VMDdGS0RCdWFBUnBJdDRpWDJUVnRWWE83d0J2am4xNTEwUmEzVzJIeHlmUE5ZbDRrWjB2a19NZHZmdEoxWWpLYjFaWk44VFFBNW9yV21WbDZLX0VpUzYtZ2lCNDZtQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T03:58:38",
+      "description": "범국민 디지털명함 추진위·서울경제연합 등 5개 기관, '디지털 전환 및 탄소중립' 위한 합동 MOU 체결 한국미디어뉴스",
+      "summary": {
+        "phenomenon": "범국민 디지털명함 추진위원회와 서울경제연합 등 5개 기관이 '디지털 전환 및 탄소중립'을 위한 합동 MOU를 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "디지털 전환",
+        "탄소중립",
+        "MOU 체결",
+        "디지털명함",
+        "5개 기관"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "123",
+      "title": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 - 뉴스인사이드",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85Q09abGtTcTU5aHQybm5OazhfX0JmcjBzQjRweXlVclVPYjVwNWJBaG4tYW4xUDdyNHRVX2FCS1hWRGxOLWNIX25aX0ZDVlpaUFN1WElfWGt1VWVlaHBuWU90TzZlQkVSLUxUR2ln?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:08:00",
+      "description": "현대백화점그룹, '탄소중립의 숲' 조성…2029년까지 4만그루 식재 뉴스인사이드",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 '탄소중립의 숲'을 조성하고 있으며, 2029년까지 총 4만 그루의 나무를 식재할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "2029년까지 4만 그루의 나무 식재를 통해 탄소중립에 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "조성",
+        "식재",
+        "4만그루"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "124",
+      "title": "광명시, 탄소중립 실천 우수아파트 찾는다… 최대 700만 원 포상 - newszoom.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6S3dRa3hFQWpmVzF6TFlOUzFwemF2NnlVZ2lHSjJfLUVxWVM2UTBlNVh2OGdxTHdyUm9WYzR0YmtqR0ZP?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-15T22:44:00",
+      "description": "광명시, 탄소중립 실천 우수아파트 찾는다… 최대 700만 원 포상 newszoom.kr",
+      "summary": {
+        "phenomenon": "광명시가 탄소중립 실천 우수아파트를 선정하여 최대 700만 원을 포상할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "광명시의 이러한 포상 제도는 아파트 단지들의 탄소중립 실천을 장려하고 확산하는 데 기여할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "탄소중립",
+        "우수아파트",
+        "포상",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "125",
+      "title": "현대백화점그룹, 경기도 용인 ‘탄소중립의 숲’ 조성 기념식 진행 - SR타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVV9mOEVNNGpxMGpjb0hjcWRrTGpFSHYzUWtxMDRWY05mdFFBWF9sUkNCYlRxcDVPY1lWbTh2eXV3SEZhUjE3dXduNVR0SVdKOWowR1YzeUtaYTdXMXVmSVUybGRBMEHSAWtBVV95cUxOMXN5bk5JZGZoUUlTbEd4Y1M4M2FrTndiMkVWUWZuUHZRbkJJa0NaM2Y1OHpPMF9CZ3FHX2JHYldhT3lERVRMdjZBM1RpMk1Bc3g2M182YklzdmFEZ3lfZUZ2RTkwYmdadjljQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T04:45:09",
+      "description": "현대백화점그룹, 경기도 용인 ‘탄소중립의 숲’ 조성 기념식 진행 SR타임스",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 경기도 용인에서 ‘탄소중립의 숲’ 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립",
+        "숲 조성",
+        "경기도 용인",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "126",
+      "title": "오산시, 제56주년“지구의 날”맞아 기후변화주간 운영 - 오산인터넷뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSTlQcG9aeDZKSXN4NkNOOGtsVVAzMFJLa0pNY29mRUNsc2JHMlk0cE1DZE1yVTY2cnVyckFMWFpZQ0prQWU5M3FZTlNZVzRpUnBoNzVRaHhvYy1GMXBVb1J4NENkSVlFSEE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T08:24:55",
+      "description": "오산시, 제56주년“지구의 날”맞아 기후변화주간 운영 오산인터넷뉴스",
+      "summary": {
+        "phenomenon": "오산시가 제56주년 “지구의 날”을 맞아 기후변화주간을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "오산시",
+        "지구의 날",
+        "기후변화주간",
+        "운영",
+        "제56주년"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "127",
+      "title": "KTR, 산업단지 탄소중립 실현 지원한다…9개 검증기관과 협약 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpb0FXNUNnb2ZtcUR4cXpKMW5tUXJjV3JrMVktOW1wakVkWTg3ejNpeUJJR3BtTWVtYmZxWVpnaG1jRU5GdEJpQXdfZU85aVBLaVRZ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:11:00",
+      "description": "KTR, 산업단지 탄소중립 실현 지원한다…9개 검증기관과 협약 네이트",
+      "summary": {
+        "phenomenon": "KTR(한국화학융합시험연구원)이 산업단지의 탄소중립 실현을 지원하기 위해 9개 검증기관과 협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "KTR과 9개 검증기관의 협약을 통해 산업단지의 탄소중립 실현이 가속화될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KTR",
+        "산업단지",
+        "탄소중립",
+        "지원",
+        "협약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "128",
+      "title": "생활개선홍성군연합회, 탄소중립 환경정화 활동 전개 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pb1pLM1N4dDZ0U1o2NnZCQVJOWkRvWUlqU2FySjczSU9veEpLdjFMcTFhV0hlR1dHMUlCMU9RWVpZZzZtODdYMkZfMlVLMW1RODFIcVBlZ1JHWHBJT0pLN0RVdjlnNU1SQ1V2TThnQWRodw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T00:29:00",
+      "description": "생활개선홍성군연합회, 탄소중립 환경정화 활동 전개 웹이코노미",
+      "summary": {
+        "phenomenon": "생활개선홍성군연합회가 탄소중립을 위한 환경정화 활동을 전개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "생활개선홍성군연합회",
+        "탄소중립",
+        "환경정화",
+        "활동",
+        "홍성군"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "129",
+      "title": "산기협, '2026 상반기 탄소중립 K-Tech 포럼' 개최 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZUFRPa3U1RVZhVm9vZkoxTDVpcEhZU29NSExBTkkwRGJ2Q0Q3aWpMaTB4OFZLbGZGNlV1Q0NiRXN3RlF0YUtfVzNXbXM3bXNkNGRv?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T03:01:00",
+      "description": "산기협, '2026 상반기 탄소중립 K-Tech 포럼' 개최 네이트",
+      "summary": {
+        "phenomenon": "산기협(한국산업기술진흥협회)이 2026년 상반기에 '탄소중립 K-Tech 포럼'을 개최할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "산기협",
+        "탄소중립",
+        "K-Tech 포럼",
+        "2026 상반기",
+        "개최"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "130",
+      "title": "KTR, 산단 탄소중립 실현 돕는다···'MRV 플랫폼' 신뢰성 검증 협약 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vYTdWMWdtUDF2NHd6SldsMi1oVGpDR1VUWk5xeWFFWUc2TGt6VFlZVHpLTzBUbGhmZTdrT05OSnZXeDB5SlJieW9ySWtKNF9sWlhB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T01:16:00",
+      "description": "KTR, 산단 탄소중립 실현 돕는다···'MRV 플랫폼' 신뢰성 검증 협약 네이트",
+      "summary": {
+        "phenomenon": "KTR(한국화학융합시험연구원)이 산업단지의 탄소중립 실현을 돕기 위해 'MRV 플랫폼' 신뢰성 검증 협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "'MRV 플랫폼' 신뢰성 검증 협약을 통해 산업단지의 탄소중립 실현을 위한 측정, 보고, 검증 과정의 신뢰도가 향상될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KTR",
+        "탄소중립",
+        "MRV 플랫폼",
+        "신뢰성 검증",
+        "산업단지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "131",
+      "title": "현대백화점그룹, 경기도 용인 '탄소중립의 숲' 조성 기념식 진행 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1vbFlNMVNocDF1QnJlVG1Cd0N2VmI4endkS3o0NXZ3TUVyV0hvTnExWWRrb1pMLXNRSTZMSzJLUDgtYTJCZElma2ppVUNTQVhTY0Vz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T02:30:00",
+      "description": "현대백화점그룹, 경기도 용인 '탄소중립의 숲' 조성 기념식 진행 네이트",
+      "summary": {
+        "phenomenon": "현대백화점그룹이 경기도 용인에서 '탄소중립의 숲' 조성 기념식을 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대백화점그룹",
+        "탄소중립의 숲",
+        "경기도 용인",
+        "조성",
+        "기념식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "132",
+      "title": "포천시, 제56회 지구의 날 기념 '기후변화주간' 운영 - 미디어투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VUUh1YjQyS2YyRVF2d0M1YTNCRFFjR0xFeGVXSWt6TU83R0NxNGIxUjVZU3B2bmcxSEZLOFIya1NEVks2cVlBQnJB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T01:52:00",
+      "description": "포천시, 제56회 지구의 날 기념 '기후변화주간' 운영 미디어투데이",
+      "summary": {
+        "phenomenon": "포천시가 제56회 지구의 날을 기념하여 '기후변화주간'을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "포천시",
+        "지구의 날",
+        "기후변화주간",
+        "기후변화",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "133",
+      "title": "온실가스 감축 등 기후변화 기술개발에 3.4조 투자 - 브릿지경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5dkV4dkRCcEw2b2VOWlhtcGVIaDYwRFFFVlNaMTJaS1pyY0JlTDZkVXRCOWNLcHlIbC01aGgwNzFESW5zdmNjb1VHcEJYM0k5X2JzVUxDTUJaUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-16T05:08:00",
+      "description": "온실가스 감축 등 기후변화 기술개발에 3.4조 투자 브릿지경제",
+      "summary": {
+        "phenomenon": "온실가스 감축을 포함한 기후변화 기술개발에 3.4조 원이 투자되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "온실가스 감축",
+        "기후변화",
+        "기술개발",
+        "투자",
+        "3.4조"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "134",
+      "title": "재생에너지가 가져올 기분 좋은 변화 '메가특구' 시작 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HWGpJWU9BTGMxY3ZTR19hcGc0UVllSXRJaVBMT0ZwR0Y4dzFzM3Vzb0V1ZWlSeEhWTk14b2lHRTM3QTFSQVNWYl9KRjcxZHQ2dlBJU3VHQ09TSGM2V0Rpc0pZQWc4LWxZRVRrS3J3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:12:05",
+      "description": "재생에너지가 가져올 기분 좋은 변화 '메가특구' 시작 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "summary": {
+        "phenomenon": "재생에너지가 가져올 변화를 위한 '메가특구'가 시작되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "메가특구",
+        "정책브리핑",
+        "기분좋은 변화",
+        "시작"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "135",
+      "title": "발전5사 \"1개로 통폐합 원해…별도 재생에너지공사는 반대\" - 한국경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53ZGNlVU0wRjhWRTBqc1U3ck9nWUlIeUxNMF84RGNPajZvRjhsRlotOWhpRW1zYml0bTZ3WmNERGdhYkpIQnRPay1iU0x1bVNiUVB1bmNzQkpjZ9IBVEFVX3lxTE5GNjN6U2xKNzMzSkRXR1pPci1Gc1dDNDRfQmRJc0swemRqcENBazJsVmZfb2Y3Vi1YRzYyeHVBaUY5ZVJCZThEZlpJTkVTRXdLekI0VA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:30:33",
+      "description": "발전5사 \"1개로 통폐합 원해…별도 재생에너지공사는 반대\" 한국경제",
+      "summary": {
+        "phenomenon": "국내 발전 5개사가 1개로 통폐합되기를 원하며, 별도의 재생에너지공사 설립에는 반대 입장을 표명했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "발전5사",
+        "통폐합",
+        "재생에너지",
+        "공사",
+        "반대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "136",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 - 이데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0JxdGlrZ0pEZS1RZER6ajdzMzlTdFJWYUpMamQ5eXNDS0F6M2ZYaTJISXVIN1dEY0dmU1g1RkpmNGZzUU1YWE04Y2p4aUZ4RHZwYm5TSndJdGhYNnNCa2RsSGp0c19hNHF6QWNoVU8wNWJLTVk5SGN4YnZJOGFDNw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T23:52:57",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 이데일리",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 부문에서 1개월 및 3개월 수익률 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "137",
+      "title": "태백에 17.6MW 풍력단지 준공…코오롱글로벌, 재생에너지 확대 가속 - 아주경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kYmZWVXZodkFvOEJiS0oyZVluT1R5TlFfSXMyd3Z5aE9ZeEF2WmlxaFNhYmpxNGxWNU9nd2FKMUhuN1pMSm5sQUJjaG9NbkgzWUhVNEh2VWFVZ9IBWEFVX3lxTFBBYzhqc0J0ZVBCZG92SXNJblNDSTNJQUZMTmxtcDFhMTVoTVN2MGhIU2RxeXNSZjBiNERIaEVseG1iY0Uxb1U3bk9ZNW1sVzQ0b3BrTGppbjI?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T05:01:46",
+      "description": "태백에 17.6MW 풍력단지 준공…코오롱글로벌, 재생에너지 확대 가속 아주경제",
+      "summary": {
+        "phenomenon": "강원도 태백에 17.6MW 규모의 풍력단지가 준공되었으며, 코오롱글로벌이 재생에너지 확대를 가속화하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "태백",
+        "풍력단지",
+        "준공",
+        "코오롱글로벌",
+        "재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "138",
+      "title": "재생에너지가 가져올 기분 좋은 변화 '메가특구' 시작 - 전체 | 카드/한컷 | 멀티미디어 - 대한민국 정책브리핑",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMkxNUGpoVHpkQXowUmJVYzNPRWNvSVQxdmsxYnloQ3dTdV9YVy1ZU21aYnNaTmVoY0U4LUotUUxwcnZBbWhnaE9ESDhFSjNiOWFpdC16WGFWR3ZLVmh1bXpYZkVTWVFhMTRwTWtLNGZVWWYzRHRNUEZkZlJMZEJURENxaXpwWkRQamFV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:19:40",
+      "description": "재생에너지가 가져올 기분 좋은 변화 '메가특구' 시작 - 전체 | 카드/한컷 | 멀티미디어 대한민국 정책브리핑",
+      "summary": {
+        "phenomenon": "재생에너지가 가져올 변화를 위한 '메가특구'가 시작되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "메가특구",
+        "기분 좋은 변화",
+        "정책브리핑",
+        "시작"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "139",
+      "title": "[오늘의 지면] 광주 AI자율주행·전남 신재생에너지…호남 ‘메가특구’ 윤곽 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sdHNPbTB6MU5Tc19MMWRNRy1JUlRLNkhOQ2FpZG5YdW9JeFY4MlJCNjhiVlZzUUI2N1N1VHJORVBBejFxM2lCNmZYVXVOYnM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T05:55:13",
+      "description": "[오늘의 지면] 광주 AI자율주행·전남 신재생에너지…호남 ‘메가특구’ 윤곽 v.daum.net",
+      "summary": {
+        "phenomenon": "호남 지역의 '메가특구' 윤곽이 드러났으며, 광주는 AI 자율주행, 전남은 신재생에너지 분야에 초점을 맞추고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "호남",
+        "메가특구",
+        "AI자율주행",
+        "신재생에너지",
+        "지역개발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "140",
+      "title": "재생에너지 확대 가로막는 'LNG 열병합발전'...해법은 없나? - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13bk5fdFNSRHZhZHd3WkFvaVRpcEwtQ2t5aUZsWG5hZEkxSWV0aXphcU1oNEZxN2Z6UXhSOS11LW54Q1pQaWZ6UDhFLXNQYVZHREFhNGdPeWhiNTFu?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:55:51",
+      "description": "재생에너지 확대 가로막는 'LNG 열병합발전'...해법은 없나? 뉴스;트리",
+      "summary": {
+        "phenomenon": "LNG 열병합발전이 재생에너지 확대를 가로막는 요인으로 지적되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "재생에너지",
+        "LNG 열병합발전",
+        "확대",
+        "가로막는",
+        "해법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "141",
+      "title": "\"LNG발전 건설 취소하고 재생에너지로 직진해야\" - 미디어제주",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GTlNIUUhxbU9LSzdtN0JBYWRIYlpldDhwbjgxRjhKcE9HS2dIUjhUY2lHNWtZaVBDQThaRG5rdE1FVUhiellyYVZpSGpsMExMX1htMVlTTlZ4Rm02aTM0TTh4T0R3blExZms2cNIBcEFVX3lxTE5wdVpyeU1IVHpJWnBqYTNRYjZSNnVJa0xydTZJUGdIQ09iMVhPbjBUSm9rbkdzbElaWUI3bTZKU000SGFEMHNWV29HanQ1Z3drVWZOUFd4THl1eXNwMy1Cd0xvcGd4VE85dU5DOW9ZV3o?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:23:00",
+      "description": "\"LNG발전 건설 취소하고 재생에너지로 직진해야\" 미디어제주",
+      "summary": {
+        "phenomenon": "미디어제주 기사 제목을 통해 LNG 발전 건설을 취소하고 재생에너지로 전환해야 한다는 주장이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "LNG발전",
+        "재생에너지",
+        "건설 취소",
+        "에너지 전환",
+        "기후위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "142",
+      "title": "\"KODEX 신재생에너지액티브, 에너지 ETF 1∙3개월 수익률 1위\" - 중소기업신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5hZFdkUGM2dm9jVEFXamtRbmdrRkprNFVseFpMTWhlYnlqdzc1YmhMT0pwY18zYUtwWWlOZWhEY3FZelE4U2JacjdkWldMOGV5dkhiODZ5WUhWUmx2eU5XWU8zYnVieE54Z1NvWA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T05:06:55",
+      "description": "\"KODEX 신재생에너지액티브, 에너지 ETF 1∙3개월 수익률 1위\" 중소기업신문",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 최근 1개월 및 3개월간 에너지 ETF 중 수익률 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "143",
+      "title": "KODEX 신재생에너지액티브, 1·3개월 수익률 1위…전력 수요 수혜 - 인더스트리뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QVGkyTjF2VjlNRi11WEVWSlluSkJaQVE0cGROYV9fcDFFb1ZDVU84S3loUDR1WlJqQVBXZjZ3T0ZZLS1jWXNnT0xDYzRmZGM4UlhSbGR3UjlUTVMyUlp0ZnZSSDFtWVB0bV9lZWMtWlhIZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:33:27",
+      "description": "KODEX 신재생에너지액티브, 1·3개월 수익률 1위…전력 수요 수혜 인더스트리뉴스",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 1개월 및 3개월 수익률에서 1위를 차지했다.",
+        "cause": "이 ETF는 전력 수요 증가로 인한 수혜를 받은 것으로 보인다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "수익률",
+        "전력 수요",
+        "수혜"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "144",
+      "title": "전력그룹 통폐합 속도내나…노조, 통합 원칙엔 공감 '재생에너지공사'는 반대 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9OdTBlTFdJWXJ2dXFNYXRiM21LX0ZpaTl1cFFaQ2Z0MXgwVkRHcXRWMEpuS0ZhWGJheHZvSGpWQ2xtTWszem9oalVRQnptUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T08:00:00",
+      "description": "전력그룹 통폐합 속도내나…노조, 통합 원칙엔 공감 '재생에너지공사'는 반대 전자신문",
+      "summary": {
+        "phenomenon": "전력그룹의 통폐합 논의가 진행 중인 가운데, 노조는 통합 원칙에는 공감하지만 '재생에너지공사' 설립에는 반대 입장을 표명했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "전력그룹",
+        "통폐합",
+        "노조",
+        "재생에너지공사",
+        "통합"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "145",
+      "title": "\"에너지 비용 낮춘다\" 홍천군, 2026년 주택용 신재생에너지 설비 지원 - 의정신문 서울시티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VX2E2cjF3SmRWWjhWRjRoYk81cXFSY0NFZmhKMG4yamtXSy1JWkZOWE1Ba2x6X0d3VW1CZVVYRW00Nk9WWlBONVdLYVRfNS1ma2s1a1F2MW5LRXg5SXhGRUJzVGZlX0hodkIwLVoxcw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T04:47:16",
+      "description": "\"에너지 비용 낮춘다\" 홍천군, 2026년 주택용 신재생에너지 설비 지원 의정신문 서울시티",
+      "summary": {
+        "phenomenon": "홍천군이 2026년까지 주택용 신재생에너지 설비 지원 사업을 추진할 예정이다.",
+        "cause": "이 사업은 주민들의 에너지 비용을 낮추기 위한 목적으로 진행된다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "홍천군",
+        "신재생에너지",
+        "주택용",
+        "설비 지원",
+        "에너지 비용"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "146",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jVUZoVUpteDhCbFQ3R0o4MDNINnhVRlo1MTBwY3FlUXJmNGdpTTEyUzN5Z3FnZGs3TGZZVi1MeUF4dXNNclVYUzlYVzd4MDFVQ2s3MlljRWFDa0w3VzNUdNIBeEFVX3lxTE9Bb0Rib21HWEN0X1kweXE5TnJFVXlReGFvbHdtUUVEQVJpRWJEckdhMEx5VmNwMGVVREZ6eHJWMHVaX21qTjFsMWlCaWtzYl8zdFVHTWxveXh0ckNONHk5WGo2VEtra0tUbWRJcmdDMUF1WWdJLU5STQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T05:31:37",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 뉴시스",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "에너지 ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "147",
+      "title": "태백 하사미 풍력발전단지 준공, 코오롱글로벌 신재생에너지 시장 보폭 확대 - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85NWczVkk1YjVGSjlGVmgwM0JScmNHWmdWNnZTc1lIendDOUFmUUVyUWtEeE4yb0E2ZV9IVU5KU1J1eHpYRlhDaTh5bWplS1RSWWZ0ZmxKeVRVbGpFazRjY0tpRzdIVFVQQ1RwLUozWkxvdFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T06:18:03",
+      "description": "태백 하사미 풍력발전단지 준공, 코오롱글로벌 신재생에너지 시장 보폭 확대 비즈니스포스트",
+      "summary": {
+        "phenomenon": "태백 하사미 풍력발전단지가 준공되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱글로벌은 이번 준공을 통해 신재생에너지 시장에서의 보폭을 확대할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "태백 하사미 풍력발전단지",
+        "준공",
+        "코오롱글로벌",
+        "신재생에너지",
+        "시장 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "148",
+      "title": "[보도자료] 화석연료 의존에서 벗어나기 위해 신규 LNG발전 건설 취소하고 재생에너지로 직진해야 - 환경운동연합",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13RG1lcEdqTHVpSDhiNGg0eHg0ZjQ2ZjFEcFQ3RjN3eHl4RTdvREpSRWkwNTBxSlA1ZHhDajg2RzZHWEFZMWV0T0FYbVJVcjNrdTAyOE5yTWFPR0NvQngtag?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T04:58:39",
+      "description": "[보도자료] 화석연료 의존에서 벗어나기 위해 신규 LNG발전 건설 취소하고 재생에너지로 직진해야 환경운동연합",
+      "summary": {
+        "phenomenon": "환경운동연합은 신규 LNG 발전 건설을 취소하고 재생에너지로 전환할 것을 촉구하는 보도자료를 발표했다.",
+        "cause": "이는 화석연료 의존에서 벗어나기 위한 목적으로 제안되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "화석연료",
+        "LNG발전",
+        "재생에너지",
+        "에너지 전환",
+        "환경운동연합"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "149",
+      "title": "홍천군, 재생에너지 주택 지원사업 추진…80가구 대상 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LZ2Z6ZDVwWXBUdjZmZ0loMEg3UmtWcWdfTXJ0aDdFN0hQREpURHhjRnlBc0h5WUNsMktfWVN4UnRwejZpMFhQY1hTZ2VGLWVhN3l0NHFhVTJraTFWVDlMek92UHFIZmJUdTZObTNwTS0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T04:20:55",
+      "description": "홍천군, 재생에너지 주택 지원사업 추진…80가구 대상 신아일보",
+      "summary": {
+        "phenomenon": "홍천군이 80가구를 대상으로 재생에너지 주택 지원사업을 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "홍천군",
+        "재생에너지",
+        "주택",
+        "지원사업",
+        "80가구"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "150",
+      "title": "삼성운용 ’KODEX 신재생에너지액티브‘, 에너지 ETF 1·3개월 수익률 1위 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QeWxiRzZCRlVLRUtFS2dGOWZLQ0VOY1VTWmFXbV8yUFM3MXBObHJhWUxjM01hdnVDcUJOWHJ6MGRrZExHd2JzOUJ3WDlqM2xTV1QxbFJrVWoyNDY1UTdBYjlUY1pwUnNMV2h5aW4wR2rSAXRBVV95cUxObVdJRUlKanQ3Y0ZIT3VkUXFaTlRJNHhKV09nZGN6aGQ3MDJSMG05TkFqYjBSb2p2SEVBMEpCMzU4ZmVKRkRhSVZZZWZRcVJ1dVFIdTJyeFRuOWJ3SlczZ0JHTWdiOGxONzZBcU5ncE9jbGJ2Qg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T08:10:08",
+      "description": "삼성운용 ’KODEX 신재생에너지액티브‘, 에너지 ETF 1·3개월 수익률 1위 이뉴스투데이",
+      "summary": {
+        "phenomenon": "삼성운용의 KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "삼성운용",
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률 1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "151",
+      "title": "韓 중동전쟁 계기로 '재생에너지 전환' 시도 외신도 조명 - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPbF9tWHFzd0lpS1VpV0FWUk9NMldxM0FwX2gtV2JwT1hZOVl0dGJSSkdWYUdwRUVNN0NXQ3lxbmd0RDlWSXp1YnprbTJTWWdNNS1vcG9NWXI5cXR0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:56:52",
+      "description": "韓 중동전쟁 계기로 '재생에너지 전환' 시도 외신도 조명 뉴스;트리",
+      "summary": {
+        "phenomenon": "한국이 중동전쟁을 계기로 재생에너지 전환을 시도하고 있으며, 이러한 움직임이 외신에 의해 조명되었다.",
+        "cause": "중동전쟁으로 인한 에너지 안보 불안이 한국의 재생에너지 전환 시도의 계기가 되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국",
+        "중동전쟁",
+        "재생에너지 전환",
+        "외신",
+        "조명"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "152",
+      "title": "기후솔루션 \"재생에너지 늘리려면 열병합발전부터 유연한 구조 만들어야\" - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VUTJhY0RVNXZmclFvS0lHeUdWU3RLSk5DLXgyelFzWUZsWENaNjMxZFUwSG9IZVFVcnNVakJuTVdxaGFyQ19rWlBPZ1B1T3lPWDR4MnNFYi1TdXhKRlpUbG8wSFpoWnZucHBZSlc0eEI4VVE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:03:06",
+      "description": "기후솔루션 \"재생에너지 늘리려면 열병합발전부터 유연한 구조 만들어야\" 비즈니스포스트",
+      "summary": {
+        "phenomenon": "기후솔루션은 재생에너지를 늘리기 위해 열병합발전부터 유연한 구조를 만들어야 한다고 주장했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후솔루션",
+        "재생에너지",
+        "열병합발전",
+        "유연한 구조",
+        "에너지 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "153",
+      "title": "코오롱글로벌, 태백 하사미 풍력발전단지 준공…\"재생에너지 사업 확대\" - 뉴스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16NGg3RHIzMDgxb2xsTlMxeTNFQUJJWnZpWks5Q2l3R0VKTE1ra1dzdG5NeklJelFXbG02WWpwcFFod29kQ2c1YzdUdDJsOFlUUVVvNzl1bGMzOXlpdFQtSWprTFUxcVNm?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:49:25",
+      "description": "코오롱글로벌, 태백 하사미 풍력발전단지 준공…\"재생에너지 사업 확대\" 뉴스포스트",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 태백 하사미 풍력발전단지를 준공했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱글로벌은 이를 통해 재생에너지 사업을 확대할 계획이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "풍력발전단지",
+        "준공",
+        "재생에너지",
+        "사업 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "154",
+      "title": "[에너지이슈] 낮 요금 내리고 저녁 올리고…‘재생에너지 맞춤형’ 전기요금제 16일 시행 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KMDFWaW9SRnZVMWMtVkxXNkpUTVRMcFI3b0w2eFVqTEtXZ3VYWjNTckFSYmtzRTVRQzUxNW44Mlp6bEhsT2dpUXNjVnZPbUVsYVdsQ0ZCNTJKYW1Rbk1PS2dlOUNDU0U?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T06:45:19",
+      "description": "[에너지이슈] 낮 요금 내리고 저녁 올리고…‘재생에너지 맞춤형’ 전기요금제 16일 시행 산경e뉴스",
+      "summary": {
+        "phenomenon": "재생에너지 맞춤형 전기요금제가 16일부터 시행되며, 낮 시간대 요금은 내리고 저녁 시간대 요금은 오르는 변화가 발생한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "재생에너지",
+        "전기요금제",
+        "낮 요금",
+        "저녁 요금",
+        "시행"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "155",
+      "title": "삼성운용 KODEX 신재생에너지액티브, 에너지 ETF 수익률 1위 - ceodaily.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aUU92cGVrSk83RHJvVTkzQ04xQU5GNUgtQ0VkWTUwUk12bXg4YjR1Q05ncVd4bmxtMDdZUjJ1VFFNTHZYbmt2bVdoUkE0c0ROVXN4SjkxWks1aGxlaGtBU3dBa25OZnlxbnRabdIBcEFVX3lxTE9LQVk3UjU4VnhqUFJBRkRTLXI3TWZpXzZpSDRueVpUeEkySzRuVjBYU3BnM0FvRDBLN1JrNXhlLVMwU0R1Y0hYRkNIMEkyMkwwV0s0RmtPRUJqRDhULXhYc19RZHFncEpyYWtXLWw2RzM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:54:27",
+      "description": "삼성운용 KODEX 신재생에너지액티브, 에너지 ETF 수익률 1위 ceodaily.co.kr",
+      "summary": {
+        "phenomenon": "삼성운용의 KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 수익률 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "삼성운용",
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률 1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "156",
+      "title": "삼성자산운용, 신재생에너지액티브 에너지 ETF 1·3개월 수익률 1위 - 파이낸셜투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51eTV0RWpWMjBnUzdKOVZremRYeEI1d0lod1FONnhzQVlWbXlodE81YzNqeURySzhBVVNMSkVXbmtQQkFqNjJNbTlNU1F3cHNmdzh0V2FTRFVpLS1pSTdXeDhZSHV4Tloyc2fSAW5BVV95cUxQUWprM0NEeXhsN2QyZDY0elpMaXg2T3ZIRHNjZy1iS1pYTUd6N0JuVFBSQjY3ZzE2Zm5ZWjFaN1RMb0dVWXBxVmZwTDJIdHlOQ25NbXVNMnhyVlR0NTZIU04wSzlKbXF2eGpEaWotQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:34:00",
+      "description": "삼성자산운용, 신재생에너지액티브 에너지 ETF 1·3개월 수익률 1위 파이낸셜투데이",
+      "summary": {
+        "phenomenon": "삼성자산운용의 신재생에너지액티브 에너지 ETF가 1개월 및 3개월 수익률에서 1위를 차지했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "삼성자산운용",
+        "신재생에너지",
+        "액티브 에너지 ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "157",
+      "title": "AI 자율주행-재생에너지 규제 특례… 李 “총괄 권한 차르 활용” - 동아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80eWJOS2F2ejAtLWxmRUE3VDU3QVFOQ2xpMWMyNU5QWUhPdkdnQW9qQlZ6MUlLRnk0SWxWa3ZXdGQ5WGZQWjI1X2diMlZNbzRBT3dVYXB6OS1ibWoyTHhLQXZKM1kzRmdjQXhNT2JPdlNxbjBLRVNV0gFmQVVfeXFMTUhxWkstUEhYMFhFYmg4OU9abW55WU1sczlJa0JwSXRpN1RPWTVpaS1seEc2MVlCVENPdzZseE5nN0dCZGJ0RE4tMHVHRGpZXzF4dEdNRXNVUEZ1Y0p5bU56NHJ6SUVB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T19:30:00",
+      "description": "AI 자율주행-재생에너지 규제 특례… 李 “총괄 권한 차르 활용” 동아일보",
+      "summary": {
+        "phenomenon": "이재명 대표가 AI 자율주행 및 재생에너지 분야의 규제 특례를 위해 '총괄 권한 차르'를 활용하겠다고 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI 자율주행",
+        "재생에너지",
+        "규제 특례",
+        "총괄 권한",
+        "차르"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "158",
+      "title": "홍천군, 재생에너지 주택 지원 본격 추진 - reporternside.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84WkJxdnMxLTN5Yjk0RkhoMUhVMENHZmM1LXcwT3ptNXVsVWZEWVYxNEtfRzlBZDFVR2dKaElIVWIyeE13QXVmbl9DWVNDczFrODdYZ0hYTzducURmRVFpRVpFbWp1YXFQS3k1cGR3dTF0UQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:00:53",
+      "description": "홍천군, 재생에너지 주택 지원 본격 추진 reporternside.com",
+      "summary": {
+        "phenomenon": "홍천군이 재생에너지 주택 지원 사업을 본격적으로 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "홍천군",
+        "재생에너지",
+        "주택",
+        "지원",
+        "추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "159",
+      "title": "추미애 \"경기도를 재생에너지·로봇·바이오·AI 메가특구로\" - 노컷뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jdmc5RjBRWHdxR1V2cElQams5YWRVcUtCOUhSX3FmeGI3SDNBWUlXZUZsX2NIdUduXzM2LWNKMTNyZUJfMTNMN05UVkZMNGxxTmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T08:21:00",
+      "description": "추미애 \"경기도를 재생에너지·로봇·바이오·AI 메가특구로\" 노컷뉴스",
+      "summary": {
+        "phenomenon": "추미애 후보가 경기도를 재생에너지, 로봇, 바이오, AI 분야의 메가특구로 만들겠다고 공약했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "추미애",
+        "경기도",
+        "재생에너지",
+        "로봇",
+        "AI"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "160",
+      "title": "에너지 불안에 AI 전력 수요까지...재생에너지 ETF ‘호재 포석’ - 소비자경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LZ3RVempxTGdPZ0tWR0I3VTVaQ1NmYlYtYXA5T2hyZ0JFTUpQWjNFM1lmU3R6RFRpOG1JZjZwcWZTWldKNzZpTFd1czRzdm1VdVpoSGJ2Ukg2NFYxODlHYVBXdVRidW92Y1E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:42:28",
+      "description": "에너지 불안에 AI 전력 수요까지...재생에너지 ETF ‘호재 포석’ 소비자경제",
+      "summary": {
+        "phenomenon": "에너지 불안정과 AI 전력 수요 증가가 재생에너지 ETF에 긍정적인 요인으로 작용하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에너지 불안",
+        "AI 전력 수요",
+        "재생에너지",
+        "ETF",
+        "호재"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "161",
+      "title": "중동리스크에 재생에너지 ‘주목’…‘KODEX 신재생에너지액티브’, 에너지 ETF 중 1∙3개월 수익률 1위 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTVFRLVXJmdHVxSWZsWW9vbW92T0Y4YWcwZ0JSTTVYTk9BYUxnZFd4UmZ4NlRWSHpudTBaVlFlZ3J6VjZiQTc5UGdUTENLektrSzhJRFJn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:40:15",
+      "description": "중동리스크에 재생에너지 ‘주목’…‘KODEX 신재생에너지액티브’, 에너지 ETF 중 1∙3개월 수익률 1위 헤럴드경제",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률 1위를 기록하며 재생에너지에 대한 주목도가 높아졌다.",
+        "cause": "중동 지역의 지정학적 리스크가 재생에너지에 대한 주목을 이끌었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중동리스크",
+        "재생에너지",
+        "KODEX 신재생에너지액티브",
+        "에너지 ETF",
+        "수익률 1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "162",
+      "title": "코오롱글로벌, 태백 하사미 풍력발전단지 준공…재생에너지 사업 확장 본격화 - 핀포인트뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zcU9jc2RQUnJaUmlrdEpGQ1BOQVQtaUwyM3pFOHVnY2xTNEFLTnJCTFVzczFULUtHV3FpWGdBdGRlM0g5ejNyOUdxek0yQ21VVGNRSzFoUXAzSk1VSXZncVdWYTFaUlRrMWtOSmNuZXZRMHfSAXdBVV95cUxONk5WS3BxdjRXT2RhOFd4ZHUtVlpqRk1HeEg4eC1TRXkzRFROaVd2Y0k5aXdaMU0wYlVlMGFhaUhmdHcwSTZLWUoyWktZQnZmWExSWWMtT1RPYkd0dEF0UzdSVzRMa1pWYXlWQ2RrMFpvYnBhMVlaZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:49:27",
+      "description": "코오롱글로벌, 태백 하사미 풍력발전단지 준공…재생에너지 사업 확장 본격화 핀포인트뉴스",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 태백 하사미 풍력발전단지를 준공했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱글로벌은 이를 통해 재생에너지 사업 확장을 본격화할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "풍력발전단지",
+        "재생에너지",
+        "준공",
+        "사업 확장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "163",
+      "title": "발전5사 \"1개로 통폐합 원해…별도 재생에너지공사는 반대\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XRVVQUEtJelF6eG9YRnFuS3F2MWRiNkJ6anlmSUExbmpocnEtOUEwbFpZd3NqMkNKU2FCak8wUmsyVVJjS2syYXdYTmJ6YS1HQ1k4?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:31:00",
+      "description": "발전5사 \"1개로 통폐합 원해…별도 재생에너지공사는 반대\" 네이트",
+      "summary": {
+        "phenomenon": "국내 발전 5사가 1개 회사로 통폐합되기를 원하며, 별도의 재생에너지공사 설립에는 반대 입장을 표명했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "발전5사",
+        "통폐합",
+        "재생에너지공사",
+        "반대",
+        "에너지 구조 개편"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "164",
+      "title": "김성환 \"전기車 구매 200%↑… 재생에너지 전환 움직임\" - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZMG1RcFBna2Y3VEVNZ1BvNGpoSGFQYzFpaXMwN1I1ZUtNR1dlRXRPVGtlMFlJMHctZHR4ZDc2NjA5YV9Rblh2bkp3Um9Pbkg0Y0c1amtsb3k0QVNMN1NTatIBeEFVX3lxTFB1RS02UWplOTZGekN0MXZmWjZxZWpGYXF2OTc1RmdrMmdCMGNBVjN0MVQxbmltZGdvdlZzdG5lSmtYRDhwckwxMkNIS3AxbmUtMHNaUGM2TUdJNk1zanJzYklJWkp3OEM2OUkxRGxuMmVUSUNFcWtZbA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T23:18:04",
+      "description": "김성환 \"전기車 구매 200%↑… 재생에너지 전환 움직임\" 뉴시스",
+      "summary": {
+        "phenomenon": "전기차 구매가 200% 증가했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 현상은 재생에너지로의 전환 움직임을 시사한다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전기차",
+        "재생에너지",
+        "전환",
+        "구매",
+        "움직임"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "165",
+      "title": "고창군, 재생에너지 기반 소득 모델 햇빛마을 본격화 - 중도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52VTdUYTR2dThhLWlLZ2Y3OFY3UzVZN0N0TVA0SENoZUtPMmw3THYyNG5PdmxVOGl5ZDVZZ3FIQWZvazJWTmVlSXp5Tzc5QVhyQ2p4anFGR191OV96MWxqVmNlU2E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:01:47",
+      "description": "고창군, 재생에너지 기반 소득 모델 햇빛마을 본격화 중도일보",
+      "summary": {
+        "phenomenon": "고창군이 재생에너지를 기반으로 하는 소득 모델인 '햇빛마을' 사업을 본격화했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "고창군",
+        "재생에너지",
+        "소득 모델",
+        "햇빛마을",
+        "본격화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "166",
+      "title": "삼성자산운용, 'KODEX 신재생에너지액티브 ETF' 1·3개월 수익률 1위 - 비즈트리뷴",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VRlV3Q09pUTNBX2piV0FXbFc1bEJ4THBpdHZzeWRLSXJLME1YUXB1Wk0tQ09DbklUbUlCRHgtM3NvQW9CWTJvUGlydVNxRDU0RFkyU1dibUVqQWNqYnZUcVVpaUZCV1ZGdS04UzBDR0U?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:18:58",
+      "description": "삼성자산운용, 'KODEX 신재생에너지액티브 ETF' 1·3개월 수익률 1위 비즈트리뷴",
+      "summary": {
+        "phenomenon": "삼성자산운용의 'KODEX 신재생에너지액티브 ETF'가 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "삼성자산운용",
+        "KODEX 신재생에너지액티브 ETF",
+        "신재생에너지",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "167",
+      "title": "이란 전쟁 '특수'에도 중국 태양광 불안, 공급 과잉에 수출 규제 가능성도 부상 - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Oa1I3SHozbktTVUdvcDhUNTR4N1ZVZkZlVDloQktoZUlBbFhpZTN6QUxNWXBqb2FISTRpVWhmLXJDRHB4bFdwZ1FzQ2VlUkh4MDVTQWhMWk4waTExQWN3dG84M1NoWjhldWp6YUh0aEdPOW8?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:04:53",
+      "description": "이란 전쟁 '특수'에도 중국 태양광 불안, 공급 과잉에 수출 규제 가능성도 부상 비즈니스포스트",
+      "summary": {
+        "phenomenon": "이란 전쟁으로 인한 '특수'에도 불구하고 중국 태양광 시장에 불안감이 존재한다.",
+        "cause": "중국 태양광 시장의 불안은 공급 과잉과 수출 규제 가능성 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "중국 태양광",
+        "공급 과잉",
+        "수출 규제",
+        "불안",
+        "이란 전쟁"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "168",
+      "title": "\"에너지 비용 낮춘다\" 홍천군, 2026년 주택용 신재생에너지 설비 지원 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE85R0xoLTU4c3hRZWVwNjAtVUpDR2VTT2FiUF9yRUdGNWhHQkVHYWtmQ1lqYUhZb0tqcmxTdDlta2xsTTNRNDFaRFcyMFpBY3pDaXBFaFF4QXBaTjZQdG02WFo4WkYyRF9QcnIzM2VaeElldw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:59:58",
+      "description": "\"에너지 비용 낮춘다\" 홍천군, 2026년 주택용 신재생에너지 설비 지원 웹이코노미",
+      "summary": {
+        "phenomenon": "홍천군이 2026년에 주택용 신재생에너지 설비 지원 사업을 실시할 예정이다.",
+        "cause": "이 지원 사업은 에너지 비용을 낮추기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "홍천군",
+        "신재생에너지",
+        "설비 지원",
+        "주택용",
+        "에너지 비용"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "169",
+      "title": "“3개월 수익률 48.6%” KODEX 신재생에너지액티브 ETF, 에너지 ETF 중 1위 … “AI발 전력 수요·탈석유 흐름이 성장 견인” - 이코노미톡뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdlRaUEFqcEpSczQzODNQY2lrZ0FpTmtkZ25OR2lKMlM2TDZXdllHOWdORkxnb0MxOHVVNVgtUU5ZVWZmUGRld2Y1SUNvNWNrcUExYWhWWlZ3RGVtMGNWT052VTVjcVVqY29LVw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:39:13",
+      "description": "“3개월 수익률 48.6%” KODEX 신재생에너지액티브 ETF, 에너지 ETF 중 1위 … “AI발 전력 수요·탈석유 흐름이 성장 견인” 이코노미톡뉴스",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 3개월 수익률 48.6%를 기록하며 에너지 ETF 중 1위를 차지했다.",
+        "cause": "인공지능(AI) 발 전력 수요 증가와 탈석유 흐름이 해당 ETF의 성장을 견인했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브 ETF",
+        "신재생에너지",
+        "수익률",
+        "AI 전력 수요",
+        "탈석유"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "170",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 - 인더뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAxTkZKSm9iVzNZVXh3Xzh6SVRhRFVUa25kLV9HY3BSR0loTHpUYmQzRzJ1b1ItSkdldzcycXNvaE1renFEeW83Mlo2TnVBVWJUcnRZeDRrY05tVmU5UE9MSU1fWms?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:57:07",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 인더뉴스",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "171",
+      "title": "경남도, ‘햇빛소득마을’ 설명회 개최…재생에너지 기반 주민소득 확대 본격화 - 뉴스프리존",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BTFZaelotQ0NTd2c1YldfZC00NS16eW1EaDRfN2ZkeVY1YV9WQnJUQVBKMnVHdjRFWDJqY1hhTklDczR5YTJaT282Ui1jUXBsckxEMU9KSzlFR05TTDFQbTR5RVNIdldfVnlMZERNbXNZTFnSAXdBVV95cUxPRVV3N3FxS1dPUFdOcDF1TnNCTDZTdk41M1pUZXJvZWJMN252cUNsR2FVbGFCLTFIOVczN0hIeHFDUnJIMEVSOXd5blN0MXlmc2VTRENJMVVuZnBmMjE3T3BZbGJTT1pEZklMdUJmdzAtZkVLTHAyVQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:46:49",
+      "description": "경남도, ‘햇빛소득마을’ 설명회 개최…재생에너지 기반 주민소득 확대 본격화 뉴스프리존",
+      "summary": {
+        "phenomenon": "경상남도에서 재생에너지 기반 주민 소득 확대를 위한 '햇빛소득마을' 설명회가 개최되었다.",
+        "cause": "재생에너지를 활용하여 주민들의 소득을 증대시키기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경남도",
+        "햇빛소득마을",
+        "재생에너지",
+        "주민소득",
+        "본격화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "172",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ha2dNbUZpZjhqeHJ3OUhyTUVRWUp6OTlUcktzSkpJb0g5UklfUE9xVUt5cldVNnFtdHUySjFNZHZndUZENUFfQktWOXo2cmtJQVZZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T05:32:00",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 네이트",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "173",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 '선두' - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVGxFSUdyMlBncWx5aVdKRk4yM0VEbW9ZdWNhVnVrdGNCM2hiTW92ZS0wVncyTmhPNVJrRWdTLXZLdkVSak9SRGt3WHRscVdpTEZuWVBMYS1fd9IBXkFVX3lxTFA2UWVrRWp6UlBrSXhsajlSS3lpdV9veDE2d1VOa2xsOHd6aVVDeFFSUUhlcEI1X01OZml4X1c2d25kZGRQdWJ3STFodDQ5dUY3STJOVnhNMm1zUnJfLUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:49:51",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 '선두' 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 선두를 차지했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "선두"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "174",
+      "title": "재생에너지 전환 촉구하는 환경운동연합 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jWi1PbXpGQ21aekMxVjdabnBaTndUd2I0bEstT1plRjgwSlg2OEhta3Z6SE9peFI3c19wQzJIWTVVQWZjakNzUV94YzJ4M0xwWFRN?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T03:24:00",
+      "description": "재생에너지 전환 촉구하는 환경운동연합 네이트",
+      "summary": {
+        "phenomenon": "환경운동연합이 재생에너지로의 전환을 촉구했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "재생에너지",
+        "전환",
+        "촉구",
+        "환경운동연합",
+        "기후"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "175",
+      "title": "김성환 기후부 장관, 전기차 구매 두 배 증가…재생에너지 전환 가속 - 스페셜경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrcE9wVHJzLW5DZ2wxU0RPcHFTay1pOGZDeUxoMWxRNHpqNU1YMUR5SGd6X2dZbnlaSi1ySHRRZUdVS3ZmZVVxejNNd2Fwdkhmd3ppQ0xRcGI0NkMzcWdMOXhqanduMVpsc19oaw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T04:10:00",
+      "description": "김성환 기후부 장관, 전기차 구매 두 배 증가…재생에너지 전환 가속 스페셜경제",
+      "summary": {
+        "phenomenon": "김성환 기후부 장관에 따르면 전기차 구매가 두 배 증가했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "재생에너지 전환이 가속화될 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김성환",
+        "기후부 장관",
+        "전기차 구매",
+        "재생에너지",
+        "전환 가속"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "176",
+      "title": "코오롱글로벌, '태백 하사미 풍력발전단지' 준공…신성장 동력 확보 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hYzB1d2dJV3plUjl4eXBwZEIzcjdIcTFFZmh2c0JNUGJ4cjgxVXVwQnJLV0RJcnZKOWswWGNPZmJYWEt1NmNqTFEwZ1BEajREN08wS2lTWnIzUVI4bTZtLdIBeEFVX3lxTE1hNmN4LVpNT0ZUYjU5S1dOTXNZbFhvbGdDR0U2Ynk4WTZiMnBlVVhSdUtraFRINjJsQTJkN3kydDdRYkdoR1hMZjFMd2VuOS1relFIanRWUk40MUhQS3pyTmh6c25YcVFKM0N5VkliT0Fvcm81NERqMw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T02:15:59",
+      "description": "코오롱글로벌, '태백 하사미 풍력발전단지' 준공…신성장 동력 확보 뉴시스",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 '태백 하사미 풍력발전단지'를 준공했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱글로벌은 이를 통해 신성장 동력을 확보할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "태백 하사미 풍력발전단지",
+        "준공",
+        "풍력발전",
+        "신성장 동력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "177",
+      "title": "[해설] 태양광 넘쳐나니 불 끄는 화력발전…‘전기 요금’으로 에너지 물길 바꾼다 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16dU1XUVpZc2NtckpQYjE0d2t6NG5PNk9ESzhjVVdDcHB0cVNlOHY1T0s4WWphOHRFYnhWSGVvTHl5Ty0xbC1mX3J2NnFvQVRVV29MaHo5SHR4Z3VXMHY0c29rZGdQdFk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:01:02",
+      "description": "[해설] 태양광 넘쳐나니 불 끄는 화력발전…‘전기 요금’으로 에너지 물길 바꾼다 산경e뉴스",
+      "summary": {
+        "phenomenon": "태양광 발전량이 넘쳐나면서 화력발전의 가동이 중단되는 현상이 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "'전기 요금'을 통해 에너지 흐름을 바꿀 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "178",
+      "title": "삼성운용, 'KODEX 신재생에너지액티브' 에너지 ETF 중 1·3개월 수익률 1위 - 중앙이코노미뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wQk9ULWFlLUp0VzQ2OE0tQTRPbThDSm82UmI2T2VIXzRIWU1MRlJKbFBOS3V1WGtaa0RURzlVbVMzVnpYLWQyX1A3QWtNWUNQWnRlNThXZ2toU1NZYXJuTWI4eTVPSE9zZVVlSDBCbjA2QQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T23:55:52",
+      "description": "삼성운용, 'KODEX 신재생에너지액티브' 에너지 ETF 중 1·3개월 수익률 1위 중앙이코노미뉴스",
+      "summary": {
+        "phenomenon": "삼성운용의 'KODEX 신재생에너지액티브' ETF가 에너지 ETF 중 1개월 및 3개월 수익률에서 1위를 기록했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "삼성운용",
+        "KODEX 신재생에너지액티브",
+        "에너지 ETF",
+        "수익률 1위",
+        "신재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "179",
+      "title": "한전 없이 재생에너지 직접 생산·이용···광주서 '지산지소' 모델 가동 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tZDM0aWFyeUE2c1FSYXRaRGFwRm92c09hNGJzMzFGN2t4R2xQbWluSGp5Nko0OTV1ZklINVRUb2pTMFFFTmJxSTJMUG1OT3hISEJV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T04:53:00",
+      "description": "한전 없이 재생에너지 직접 생산·이용···광주서 '지산지소' 모델 가동 네이트",
+      "summary": {
+        "phenomenon": "광주에서 한국전력공사(한전)를 거치지 않고 재생에너지를 직접 생산하고 이용하는 '지산지소' 모델이 가동되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "지산지소",
+        "광주",
+        "한전",
+        "에너지 모델"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "180",
+      "title": "한화솔루션 '신용등급' 좌우할 '석화 재편·태양광 수익성' - KB Think",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE50QkFOZGNERGVOYnBUQnBmalV0X25NVW9pU20zQmVzci1hWUtJS2xqT1hIVGV6a3hvLUJkZDFFSjk0dE1ETnIyV3ZiTjRfQ0Faei10bUs5U3FiMFVKaTFyWVl2Ui0ybE91eXRvWXgzbDM5UQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T22:55:16",
+      "description": "한화솔루션 '신용등급' 좌우할 '석화 재편·태양광 수익성' KB Think",
+      "summary": {
+        "phenomenon": "한화솔루션의 신용등급에 석유화학 사업 재편과 태양광 사업의 수익성이 영향을 미칠 것으로 예상된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "한화솔루션의 신용등급은 석화 재편과 태양광 수익성에 따라 좌우될 것으로 보인다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "한화솔루션",
+        "신용등급",
+        "석화 재편",
+        "태양광 수익성",
+        "KB Think"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "181",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 1·3개월 수익률 1위 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0SGtwV0RzSTBwaVJ5eFVicHFRaUtkalhPb1ZxbEVHRFNWYnZKTjBfS0tFdmtEZDViVVJCVEl0bUozSkZad3VocXdycUwyLTlhbXJF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:22:00",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 1·3개월 수익률 1위 네이트",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 최근 1개월 및 3개월 동안 에너지 ETF 중 수익률 1위를 기록했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "에너지 ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "182",
+      "title": "중국, 태양광 제조 장비 대미 수출 제한 검토...글로벌 공급망 ‘변수’ - ESG경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMOFZ4RkZtSnJPczBBZ0FKQWxCVzRXLWJ5aWxfdmdwMHFhZGJGN3VnbWZtamF4WUVPNW0zVFRrOVhuMlVpN21zVzR3azBFWlZSU05hSk9NSGpLWDh6R2dqcHViMWV1X0VqbzJOZQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:17:20",
+      "description": "중국, 태양광 제조 장비 대미 수출 제한 검토...글로벌 공급망 ‘변수’ ESG경제",
+      "summary": {
+        "phenomenon": "중국이 태양광 제조 장비의 미국 수출 제한을 검토하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 조치는 글로벌 공급망에 변수로 작용할 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "중국",
+        "태양광",
+        "수출 제한",
+        "글로벌 공급망",
+        "변수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "183",
+      "title": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55aExBNEVnTmppUk9PanFzeXQ2WlBiUzFFdXkwSW5TSWhZWms0eFB5eGZ0MjRaN2hsLXJRckNJcjJjR0Exd3FWOXU1Y2hhR1ZrTzhN?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T23:55:00",
+      "description": "KODEX 신재생에너지액티브, 에너지 ETF 중 1·3개월 수익률 1위 네이트",
+      "summary": {
+        "phenomenon": "KODEX 신재생에너지액티브 ETF가 최근 1개월 및 3개월 동안 에너지 ETF 중 수익률 1위를 기록했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "1위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "184",
+      "title": "“국내 최초 민간 V.PPA 성과” 코오롱글로벌, 태백 하사미 풍력단지 준공 … “재생에너지 밸류체인 완성하며 선도 입지 강화” - 이코노미톡뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iR1VhYkY2WmhvRHA3d01uN21HSldLS3pwb3pDRVluWE5xaVJYdG1QYWJDYnRtSUpLNkVaX0JYMEliTk0xanJEaFp0MVlMZ1ZoVFhwNU1qOVJ6cTdTcHN1QTBQNm13ZFhkRkExbA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:56:19",
+      "description": "“국내 최초 민간 V.PPA 성과” 코오롱글로벌, 태백 하사미 풍력단지 준공 … “재생에너지 밸류체인 완성하며 선도 입지 강화” 이코노미톡뉴스",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 국내 최초 민간 V.PPA(가상 전력구매계약) 성과로 태백 하사미 풍력단지를 준공했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱글로벌은 이를 통해 재생에너지 밸류체인을 완성하고 선도 입지를 강화할 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "태백 하사미 풍력단지",
+        "V.PPA",
+        "재생에너지",
+        "밸류체인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "185",
+      "title": "삼성운용 'KODEX 신재생에너지액티브', 에너지 ETF 중 1·3개월 수익률 1위 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41dm5UQVVyOENmSnMzMlNSSVZkaG4xLUU5a2ZsOVI0YWhNMERwcndjM1Q1OUk0QkU2Sk53UjI1NkI0ODZxOFhQUnJ2eVNEZjF5LXVz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T00:00:00",
+      "description": "삼성운용 'KODEX 신재생에너지액티브', 에너지 ETF 중 1·3개월 수익률 1위 네이트",
+      "summary": {
+        "phenomenon": "삼성운용의 KODEX 신재생에너지액티브 ETF가 최근 1개월 및 3개월 동안 에너지 ETF 중 수익률 1위를 기록했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KODEX 신재생에너지액티브",
+        "신재생에너지",
+        "ETF",
+        "수익률",
+        "삼성운용"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "186",
+      "title": "재생에너지 대전환, 승부처는 '데이터' - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rWVVRUlpDQXVBLWNPZTBibFZwaVpjY1czTTQ1NVExakZLbEswX20ycU1mYWVDdGxxNmc0elpTM1R2SnVMTWwtZzJic0JnamhXN0R3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T19:32:00",
+      "description": "재생에너지 대전환, 승부처는 '데이터' 네이트",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "재생에너지로의 대전환에 있어 '데이터'가 핵심적인 승부처가 될 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "대전환",
+        "데이터",
+        "승부처",
+        "에너지 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "187",
+      "title": "코오롱글로벌, ‘태백 하사미 풍력발전단지’ 준공…\"17.6MW 설비용량 갖춰\" - 나눔경제뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vMWpwMV9NN2o5Ny1LQ25qTEVOWEdWdGtLNnVMUWE5T1NkMGdZS2dzYlhQNXdudTh2dTBxSGlnX2JYNk5WWE9XQ1hkdnFhQ0RBMmp5YktXT1VqeDRRTEJaM3hzSlhVbGxUS1dyUw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T07:49:18",
+      "description": "코오롱글로벌, ‘태백 하사미 풍력발전단지’ 준공…\"17.6MW 설비용량 갖춰\" 나눔경제뉴스",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 17.6MW 설비용량을 갖춘 태백 하사미 풍력발전단지를 준공했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "태백 하사미",
+        "풍력발전단지",
+        "준공",
+        "17.6MW"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "188",
+      "title": "코오롱글로벌, 태백 하사미 풍력발전단지 준공식 개최 - 한국경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VHBuLXM4LWZ5NXpQbTQzcUdXX3J3czgwVHFlWDJNTUlFQUp2YXM2dWxmajN6NmRkOG50bUdXSGxOenJqTWNLbVRRUFNpb2Q5VnFISnpVQy1Nd9IBVEFVX3lxTE5GdmcwOGFTTks1WXBFcGF1VVRXdnBrdlZOTnpYUTh1Qml0ZDBCY1gyRUxFcFBWM0tJLUhEZzZKM0ExcGZyT3dDb2o0U2FNWnlzOUpmbA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-16T01:23:37",
+      "description": "코오롱글로벌, 태백 하사미 풍력발전단지 준공식 개최 한국경제",
+      "summary": {
+        "phenomenon": "코오롱글로벌이 태백 하사미 풍력발전단지의 준공식을 개최했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱글로벌",
+        "태백",
+        "하사미",
+        "풍력발전단지",
+        "준공식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "189",
+      "title": "AI 전환-재생에너지 기술 역량 확보 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1T2dyT1hsUGFlTXRYOE85R0cxQS1UWGNRUnREb3d4dkRfOGtXcUdzV3dFdDV5dzR0NnEyc2o5aFBGNjV6TkNBYjdiOHlvMEFNMXJn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-15T19:31:00",
+      "description": "AI 전환-재생에너지 기술 역량 확보 네이트",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "AI 전환과 재생에너지 기술 역량 확보가 중요하게 다루어질 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "재생에너지",
+        "기술",
+        "역량",
+        "확보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "190",
+      "title": "재경부, 4분기부터 업무추진비 ‘예금토큰’으로 집행한다",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202604161544011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-04-16T06:44:01",
+      "description": "재정경제부 제공.정부가 4분기부터 업무추진비를 예금토큰으로 지급하는 방안을 추진한다.재정경제부는 국무조정실이 주관하는 2026년도 기획형 규제샌드박스 과제로 ‘블록체인 기반 디지털화폐 활용 국고금 집행 시범사업’이 선정됐다고 16일 밝혔다.전기차 충전소 구축 사업 보조금에 이어 디지털 화폐 및 예금토큰을 국고금 집행에 활용하는 두 번째 사례다.현행 국고금관···",
+      "summary": {
+        "phenomenon": "재정경제부가 2026년도 기획형 규제샌드박스 과제로 ‘블록체인 기반 디지털화폐 활용 국고금 집행 시범사업’이 선정됨에 따라, 4분기부터 업무추진비를 예금토큰으로 집행하는 방안을 추진합니다. 이는 전기차 충전소 구축 사업 보조금에 이어 두 번째 디지털 화폐 활용 사례입니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재경부",
+        "예금토큰",
+        "업무추진비",
+        "블록체인",
+        "디지털화폐"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "191",
+      "title": "‘실리콘밸리 유니폼’으로 통하던 친환경 신발 회사 올버즈, ‘AI 기업 전환’ 선언",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202604161516001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-04-16T06:16:00",
+      "description": "2016년 ‘울러너’ 출시하며 주목받았지만내구성 문제로 신발 사업 확장에 어려움AI 열풍 올라타기로···‘공익’ 정관 삭제 추진도지난 2일 미국 시카고의 폐점한 올버즈 매장에 “올버즈닷컴에서 온라인 쇼핑이 가능하다”는 안내문이 붙어 있다. AFP연합뉴스한때 ‘실리콘밸리 유니폼’으로 불릴 정도로 인기를 끌었던 신발 회사 올버즈가 인공지능(AI) 기업으로의 전···",
+      "summary": {
+        "phenomenon": "한때 '실리콘밸리 유니폼'으로 불리며 인기를 끌었던 친환경 신발 회사 올버즈가 2016년 '울러너' 출시 후 내구성 문제로 신발 사업 확장에 어려움을 겪자, AI 기업으로의 전환을 선언했다.",
+        "cause": "올버즈는 신발 사업의 내구성 문제로 확장에 어려움을 겪었으며, 최근 AI 열풍에 편승하여 기업 방향을 전환하려는 것으로 보인다.",
+        "outlook": "올버즈는 AI 기업으로 전환하며 '공익' 정관 삭제를 추진하는 등 사업 모델에 변화를 줄 것으로 예상된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "192",
+      "title": "AI로 부식 막는다···한기대 연구팀, 친환경 나노복합체 부식 억제 기술 정립",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202604161506001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-04-16T06:06:00",
+      "description": "금속 산화물 등 기반 부식 방지 기술 체계화한국기술교육대 컴퓨터공학부 김상연 교수. 한국기술교육대 제공한국기술교육대는 컴퓨터공학부 김상연 교수 연구팀이 금속 산화물과 탄소 기반 나노소재, 고분자 나노복합체를 활용한 차세대 부식 억제 기술을 체계적으로 정립했다고 16일 밝혔다.최근 해양·항공우주·IT 산업 분야에서 구동기와 센서 등 핵심 부품의 활용이 확대되···",
+      "summary": {
+        "phenomenon": "한국기술교육대 컴퓨터공학부 김상연 교수 연구팀이 16일 금속 산화물, 탄소 기반 나노소재, 고분자 나노복합체를 활용한 차세대 부식 억제 기술을 체계적으로 정립했다.",
+        "cause": "해양·항공우주·IT 산업 분야에서 구동기와 센서 등 핵심 부품의 활용이 확대되면서 부식 방지 기술의 중요성이 커지고 있다.",
+        "outlook": "이 기술은 해양·항공우주·IT 산업 분야의 핵심 부품 부식 문제 해결에 기여할 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "부식 억제",
+        "나노복합체",
+        "친환경",
+        "한국기술교육대",
+        "AI"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "193",
+      "title": "기후 변화가 야간 기온에 영향을 미치고 있다 | 기후 1분 - CBS 뉴스",
+      "original_title": "Climate change affecting overnight temperatures | Climate Minute - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1NFSzRZWjlpNGRCSGZPSnZBd1BBQTNhdEl2aG5PdjlxdnZOR2FMMTctYmxRRVZmNnAySzMwdUlGTUQ3cldlVHhXX0tZUnZZWVdjbEpYV0w1cnU5Y3dhdUpJYVpXZndIUndha2tWQUI3LWxib2t4cEJNeXgxWjFxSUxGMS1vVE9oY01EVnlaVXVyOEtYNnRrZG9HVW5seE5NQkZR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T01:52:00",
+      "description": "Climate change affecting overnight temperatures | Climate Minute CBS News",
+      "summary": {
+        "phenomenon": "기후 변화가 야간 기온에 영향을 미치고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "야간 기온",
+        "기온 상승",
+        "영향",
+        "CBS 뉴스"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "194",
+      "title": "이 미술 전시회는 기후 변화를 진지하게 다룬다 - 미러 인디",
+      "original_title": "This art exhibit takes climate change seriously - Mirror Indy",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1Q3Q0QycHNHREhWU1NIb2hWeHBSNVB0XzFBdEJ3eUowTy1iakR5U1B5enhDd0hQZm1hc3Y4QnlhVDVtcG03eU41bmNwQXhLZzNFdWNfNEZ6cE1Ta1FmQWpfeWlkTGY1bTNyN1RRNDA0MzVXYnIwbE95TkpzWVdjZlhHVTZSRUVPNHRwN1hsMjJRUmhhdWV3bExHdGJwRXFaMW9N?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T18:30:24",
+      "description": "This art exhibit takes climate change seriously Mirror Indy",
+      "summary": {
+        "phenomenon": "한 미술 전시회가 기후 변화를 진지하게 다루고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "미술",
+        "전시회",
+        "기후 변화",
+        "예술",
+        "심각성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "195",
+      "title": "트럼프 EPA의 획기적인 기후변화 판결 번복이 일리노이에 무엇을 의미하는가?",
+      "original_title": "What does Trump’s EPA reversal of landmark climate change ruling mean for Illinois? - NPR Illinois",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRC1na0p2QVp1bGRaYk9lUmVndU04RWdZWm9oRHN6TW01QTctS3I5UUs2MWZUNFJOWVB5Q0Y0TFl0NlFWdEh6b2dHLWM2cWJMUXVlbVpRQ0RLNnpfSGFiYS1NMHlnUWdkajlhSE1sTDNQMEpxQmNiQkhvd3d4UVdkY3E0QmpIWFF4UXlSR0tPcHloYUp6clBQd3p2bTQ1cTNoTnVOVVpyMGNfTEFZeXVrZTN2QmZyYmVrY3Q0NHhwNW9ScmtGVmxUSEY1ZnFseEFPeXE5ODBjYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T18:17:00",
+      "description": "What does Trump’s EPA reversal of landmark climate change ruling mean for Illinois? NPR Illinois",
+      "summary": {
+        "phenomenon": "트럼프 행정부의 EPA(환경보호청)가 획기적인 기후변화 판결을 번복했다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 번복이 일리노이주에 어떤 영향을 미칠지에 대한 질문을 던지고 있다. (구체적인 영향은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "트럼프",
+        "EPA",
+        "기후변화",
+        "판결",
+        "일리노이"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "196",
+      "title": "Local View: Facing climate change begins with who we choose to be - Duluth News Tribune",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2tkaDVxcnlOOXRxWWE5VV8yUnhpM2FKT1VKVGVfVWJTOVQ1QXh1TkUwMmlNX1B0MGlhQmlEeS1FM3BWT1NES2VfYWV2WlBKUDJ5X1ZKWEFSYXBZQXNLUWh3dVo4dmVfQXJQUmhPZGR1SzRzSHZHc2FIWDZ5M050WWRLMk1mNTVOZnZPMmxoT0pJSnZyc3A3bnhHZG8tNWJ1d3dXcjJ3Sm5FVzZ6YVo5b0ZaTXo?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T23:06:52",
+      "description": "Local View: Facing climate change begins with who we choose to be Duluth News Tribune",
+      "summary": {
+        "phenomenon": "기후 변화에 직면하는 것에 대한 지역적 관점을 제시하는 글이 Duluth News Tribune에 실렸다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화에 대한 대응은 우리가 어떤 존재를 선택하는지에서 시작된다는 관점을 제시한다. (구체적인 영향은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "197",
+      "title": "How OMSI wants visitors to rethink climate change - OregonLive.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNczhTcUFTQzRVQlhOM19WOG5jRTZZQjlBeERRVnNDX0d2RDBwTzNZOWg5MDNlQklRc1NNa3RUUGVuanQ3bVNXY2NJdXFOTXk2MnpCM0N3TmczZFN0T3ViUEJUWDJ5eERuS3Z2aEtfV2puNkRIV3MtLUExZklEVnZqdWRZUXZROTR1SlRnNXM2MW9YNWxsbjV4eWdQamctUjVzYWtr?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T20:53:00",
+      "description": "How OMSI wants visitors to rethink climate change OregonLive.com",
+      "summary": {
+        "phenomenon": "OMSI(오리건 과학 산업 박물관)가 방문객들에게 기후 변화를 다시 생각하도록 유도하고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "OMSI는 방문객들이 기후 변화에 대한 인식을 재고하도록 돕는 것을 목표로 한다. (구체적인 영향은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "198",
+      "title": "Films depict climate change’s global impact - The Jamestown Press",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPakhxOEhkNHRrTndQaXhsOTlVMUd2emk5dWhpeXhGSUR5UktxcWJKSzNzdHMyUFlhRFBFWTlTVEFfdWtJa0pXSWF5ck1tZVVJOGN5NGlteWlzR09zSU5RVkRSX2lFSWUySzNCc3VNODQ1WTZtbnV5NzN2NXNSelVnajNySEFXdGZwakc4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T04:06:06",
+      "description": "Films depict climate change’s global impact The Jamestown Press",
+      "summary": {
+        "phenomenon": "영화들이 기후 변화의 전 지구적 영향을 묘사하고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "199",
+      "title": "Lummis Says Congress Should Set Major Climate Change Rules, Not EPA - Cowboy State Daily",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVmRCOHBDVXprdUlHZXdHdk5VcTNDWWFBMVVhVHFXLU41OWVCVEJuZ2dnUjY3VUlyeXJzVDVmaUYzeGpEa19kSWgtODQxdmw1OFkyUWpOc1lRUmlEZGppTGtrMEhUVks0TTdtTGxLdlFyeS1ON0lydUtJWjRMS24wTzNOUU04RjYxZWgwYXdNR2NjMHlGaVhIRVNlZkxkbW9fNlo2Tnk2SHhZUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T01:12:00",
+      "description": "Lummis Says Congress Should Set Major Climate Change Rules, Not EPA Cowboy State Daily",
+      "summary": {
+        "phenomenon": "Lummis 의원이 주요 기후 변화 규제는 EPA(환경보호청)가 아닌 의회가 제정해야 한다고 주장했다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화 규제 제정 주체에 대한 논쟁이 있음을 시사한다. (구체적인 영향은 기사에서 언급되지 않음)"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "200",
+      "title": "Ancient seabird guano reveals how climate change may shape future populations - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05SVpOVEZVc2YyakUyMDNrOTd2VnpiZDY1bVhISkl1Rk9vYk5vX0JENEwybWs5UmtiLS1wUGVuajVwaDdCQ0oyeFZsRGtlV3pYck9fTFlvb3M1X1dNMTVtOUM3WHF6VzFZc2loeFRUcHh1RHk5TVV5clFkWU4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T20:50:01",
+      "description": "Ancient seabird guano reveals how climate change may shape future populations Phys.org",
+      "summary": {
+        "phenomenon": "고대 바닷새의 구아노(배설물)가 기후 변화가 미래 개체군을 어떻게 형성할 수 있는지 보여준다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "고대 바닷새 구아노 연구를 통해 기후 변화가 미래 생물 개체군에 미칠 영향을 예측하는 데 도움이 될 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "201",
+      "title": "설교자들이 기후 변화에 대해 이야기할 수 있을까?",
+      "original_title": "Can Preachers Talk About Climate Change? - Patheos",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUmtFbTBaVVpuTExYQUhZekdHUHpJaEkwdGxpYUtLeFktaGszTmFrajJCSFZZNzlBQjRacm1HUmNIc21iOXd5d0VtUi1FOExYQ3lQZUxKaVNESEQxbndTMHU2Nms3U29ESlc1c3NmLS1XX2VvUkM3SWdBUl9xNWVqYVF1M3lNWEY4QmdQcGk0eFpqeFFB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T20:25:58",
+      "description": "Can Preachers Talk About Climate Change? Patheos",
+      "summary": {
+        "phenomenon": "기사 제목은 설교자들이 기후 변화에 대해 이야기할 수 있는지에 대한 질문을 던지고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "설교자",
+        "기후 변화",
+        "종교",
+        "환경",
+        "논의"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "202",
+      "title": "미네소타 기후 변화, 인프라 위협한다고 보고서 밝혀 - 파이낸스 & 커머스",
+      "original_title": "Minnesota climate change threatens infrastructure, report says - Finance & Commerce",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUUtYVlBkdUM2TWR6YzE0Q2I4aC1uWGJ0b2xUOHRVTUgtMF9KUGNZR1I1dVl3eUdvajFjbHVaZHFTZWVxZXJQemtzNVlUZDJQVEp1amQtdmYwTTloM3FqVXpLdURjSlR4S1lDdVk2aXU5OXBxT0trVXJkS05RNXlLMXEybVBzZEZ6RmIySQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T20:42:03",
+      "description": "Minnesota climate change threatens infrastructure, report says Finance & Commerce",
+      "summary": {
+        "phenomenon": "미네소타 지역에서 기후 변화가 인프라를 위협하고 있다는 보고서가 발표되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "미네소타의 인프라는 기후 변화로 인해 위협받을 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미네소타",
+        "기후 변화",
+        "인프라",
+        "위협",
+        "보고서"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "203",
+      "title": "동부 오리건의 새로운 기후 변화 모델",
+      "original_title": "New Climate Change Models in Eastern Oregon - MyCentralOregon.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ2s4ZktxWGcxcUM2QURaZnRtOG0yeGdYSnZLVHc1eTJEUkZsVktRZ0tqMWR1YTAyM2preVZsZnRGSzY5eU1ZdlJGNXJKUE9EekEzVUpwNVg2czRHYmpCcTRzajUtTkE5NUE3eDhUa3FraGlyMEdzVHBLZW5FanZ0ckI5NXNOeXFwY25fZTVYLUY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T23:23:28",
+      "description": "New Climate Change Models in Eastern Oregon MyCentralOregon.com",
+      "summary": {
+        "phenomenon": "동부 오리건 지역에서 새로운 기후 변화 모델이 개발되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "모델",
+        "동부 오리건",
+        "새로운",
+        "예측"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "204",
+      "title": "델타항공, 미국 정부 뒤따라 주요 기후변화 목표 포기",
+      "original_title": "Delta Air Lines Follows The U.S. Government And Abandons Major Climate Change Target - TheTravel",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTV9ZVTBhaFRlcHFQRFNFTEtGS0s5OXlqNlhMazdzVlQwNE9ha1JNeGtDQVJwZHlIOWdrNWVyczhMa0dyTmdPNUlzTThsT215MThLdzlrb0JUNk54c0JRVXkzSk5Rb0NUemVkaGowV0tzQzhwOXFOMHpRUTctSkhXTGZaZHBQaGV2YndGR2RvWHljZFlTVE93eG5OUng3UDBwUE5POTU0NE5mNkhSVWZJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T19:24:17",
+      "description": "Delta Air Lines Follows The U.S. Government And Abandons Major Climate Change Target TheTravel",
+      "summary": {
+        "phenomenon": "델타항공이 미국 정부를 따라 주요 기후변화 목표를 포기했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "델타항공",
+        "미국 정부",
+        "기후변화 목표",
+        "포기",
+        "항공사"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "205",
+      "title": "언론인을 위한 기후 변화 보도 워크숍 (방글라데시) - fundsforNGOs",
+      "original_title": "Climate Change Reporting Workshop for Journalists (Bangladesh) - fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRklmRWVpbUh3X2FxSFVtYlBTdHRVN0w3bTB6VzQ2OE5xU2k3M1R0MHcxalBweHcwa0s0NWtWeUx6ZWdub29QYWwyWE9mSlpnNURKUXVlRldsd014Z05lNzFtZFc3M2ZiZ00zX3lLWmFoWTFxa1pQZVduX0VWWTA0VDlKN2xiQmE1VzkyNjNScWc5MmM1QVFyLV9kRXhkNFVLUTVPODFR0gGrAUFVX3lxTFBsaVd1S1Q0ZU9QVzhSZDd4Yk40bGFVTFFzTzVSOXd2M2dKbXFtUDBpMnk5ekN5eEVVNFplaEt0R1JBekpRMW5wYVAxX2hmbFRKeGNLbWVSVkpqcVBpM1BYZmVHbXVVNm5nSWMtaWkwQkxTdkQzTkFyOThyNnVIX2VLbGhZa1RsRXdEYm5qVEJ2SmkzS2lBRnhTU1BLdG4tMGY5dV95NVZqRDc1cw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T07:16:06",
+      "description": "Climate Change Reporting Workshop for Journalists (Bangladesh) fundsforNGOs",
+      "summary": {
+        "phenomenon": "방글라데시에서 언론인을 위한 기후 변화 보도 워크숍이 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "언론인",
+        "워크숍",
+        "방글라데시",
+        "보도"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "206",
+      "title": "중국과 인도, 신중한 기후 행동 10년 예고",
+      "original_title": "China and India Signal a Decade of Cautious Climate Action - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMHZOdjNKU3dWajJaMVRodUlRSG1yQXZwWEFfQzRtQUVmaVVCcTJtTVA2ZTlFR3ZkaXQ0MmViOEFJV1B5Wk51ejBIQUZHSU5fNGNJbkE3a01xU1dndTI0cVNibVZVR1p2ZHFENDRHU2JqVTNqZ2RJYzV4RTVXWElNSmlFaGhlcUVnWktMdm9iX3ppUTJrS0diWGZjUEdOMHJMOXJPQldqNXBqNXUyMnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T04:00:00",
+      "description": "China and India Signal a Decade of Cautious Climate Action Bloomberg.com",
+      "summary": {
+        "phenomenon": "중국과 인도가 향후 10년간 신중한 기후 행동을 예고했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "중국과 인도는 향후 10년간 신중한 기후 행동을 취할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "중국",
+        "인도",
+        "기후 행동",
+        "신중한",
+        "10년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "207",
+      "title": "한국, 기후변화 대응에 3.4조 원 투자",
+      "original_title": "S. Korea to Invest 3.4 Trillion Won to Respond to Climate Change - KBS WORLD Radio",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1wWU1LYV9DNWVQbjh0c3o3Zlo0RFpyMEV1N2dDRERTejdTMTE1cGctMDZPNGVuOGtUMHhkUmF3UVVJUkNQM1R4Z1VZTUlUV1pTMThvRUpMME40cllrcGlIUTl3Unl1aU4xNG95Z2dsTkdQcnhBU1RZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T05:03:03",
+      "description": "S. Korea to Invest 3.4 Trillion Won to Respond to Climate Change KBS WORLD Radio",
+      "summary": {
+        "phenomenon": "대한민국이 기후변화 대응을 위해 3.4조 원을 투자할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대한민국",
+        "투자",
+        "3.4조 원",
+        "기후변화",
+        "대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "208",
+      "title": "Emperor penguins added to endangered list, losing to climate change - MSN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZnBvQWFPZmxxekdMQTVVUnlwdnZyNWVrSXN0Yjd0azRqOWZPd1ZpSGxUZHNGWWdoV2k2WVZmTmRabGZha04xeVQ4QkhZVVRqQ3ZvdnFFdS10Mk9TQnlLdmtUMmwxWFJqOGp2Nmh0Y19vSVQxZ0dybzVyWFpIYmFwcWlWMWZ0dklyd05jNG5EY010UGtaYzQ3M1V0d3hDQzlycWROSzIzWnRyTEdIVGlxR3BrNklld3p2YnE5Z2VpcTYwQlFPRG5kZXo2Tm54cWJD?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T00:59:01",
+      "description": "Emperor penguins added to endangered list, losing to climate change MSN",
+      "summary": {
+        "phenomenon": "황제펭귄이 멸종 위기종 목록에 추가되었다.",
+        "cause": "황제펭귄은 기후 변화로 인해 개체수가 감소하여 멸종 위기에 처하게 되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "209",
+      "title": "마하마 대통령, '기후 변화는 글로벌 건강 위협의 주범' 경고 - 가나 팩트",
+      "original_title": "Climate Change, a driver of global health threats – President Mahama warns - Ghana Fact",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2RSajR6WFVPMWJDUlNiU093V0NXUk5lMVFRVzRucEc0alFya0NTcEQyMDZOWnBEN1V2djBUOXFrZFJMR3FNUDE4dXFENFRmaVFUT0dSN1YxRlZPWXRMS1hLdDh2SjVtM0NVd3NOTzVVMERsQkl0XzdFQjM2d2Z2UTNyV0M2TjV6V0dPTTA1UlYwSm0xek9nTlVB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-15T18:12:10",
+      "description": "Climate Change, a driver of global health threats – President Mahama warns Ghana Fact",
+      "summary": {
+        "phenomenon": "마하마 대통령이 기후 변화가 전 세계적인 건강 위협의 주요 원인이라고 경고했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화는 전 세계적인 건강 위협을 계속해서 야기할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "건강 위협",
+        "경고",
+        "마하마 대통령",
+        "글로벌"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "210",
+      "title": "Climate resilience needed to cope with immediate shocks, long-term changes - NUS - National University of Singapore",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMld6UmNLdFhqdzJ3RFZHbzJGTXhuNkg5cTRZa3dvXzBqRXZ1T29KTHd2VFFYVmtZdUo1b05oSVM1dHNacUowQVVJUjFQVlc1cUVqaDhXbkRBc3pJZmo1VkttSzlULWlMRkhSNldQc24yTV82NHc1NXdxODlzNWpwS19xQU5lbUxUSEJJU1NDZno0NExXOXVVNXhLZm1iTk0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-16T06:30:00",
+      "description": "Climate resilience needed to cope with immediate shocks, long-term changes NUS - National University of Singapore",
+      "summary": {
+        "phenomenon": "기후 변화로 인한 즉각적인 충격과 장기적인 변화에 대처하기 위해 기후 회복력이 필요하다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 회복력은 기후 변화로 인한 즉각적이고 장기적인 영향을 관리하는 데 필수적일 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "211",
+      "title": "넷제로 추진에 있어 왜 청정 전력보다 저렴한 전력이 더 중요할 수 있는가",
+      "original_title": "Why cheap power could matter more than clean power in the push for net zero",
+      "url": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
+      "source": "bbc_science",
+      "published_at": "2026-04-15T23:20:22",
+      "description": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
+      "summary": {
+        "phenomenon": "넷제로(going green) 달성을 위해 전력을 청정하게 만드는 것의 중요성에 대한 의문이 점차 커지고 있다. (구체적 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "저렴한 전력",
+        "청정 전력",
+        "탄소중립",
+        "녹색 전환",
+        "중요성 재평가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "212",
+      "title": "핵심 대서양 해류, 예상보다 붕괴 가능성 훨씬 커",
+      "original_title": "Critical Atlantic current significantly more likely to collapse than thought",
+      "url": "https://www.theguardian.com/environment/2026/apr/15/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought",
+      "source": "guardian_climate",
+      "published_at": "2026-04-15T18:00:34",
+      "description": "Scientists say finding is ‘very concerning’ as collapse would be catastrophic for Europe, Africa and the AmericasThe critical Atlantic current system appears significantly more likely to collapse than previously thought after new research found that climate models predicting the biggest slowdown are the most realistic. Scientists called the new finding “very concerning” as a collapse would have catastrophic consequences for Europe, Africa and the Americas.The Atlantic meridional overturning circ",
+      "summary": {
+        "phenomenon": "새로운 연구 결과에 따르면, 핵심 대서양 해류 시스템(Atlantic meridional overturning circulation)이 이전에 예상했던 것보다 훨씬 더 붕괴될 가능성이 높은 것으로 나타났다. 이는 가장 큰 둔화를 예측하는 기후 모델이 가장 현실적이라는 연구 결과에 기반한다. (구체적 시점은 기사에서 언급되지 않음)",
+        "cause": "기후 모델이 대서양 해류 시스템의 가장 큰 둔화를 예측하며, 이 모델들이 가장 현실적이라는 새로운 연구 결과가 이러한 붕괴 가능성 증가의 과학적 배경이다. (둔화의 직접적인 과학적 원인은 기사에서 언급되지 않음)",
+        "outlook": "이 해류 시스템의 붕괴는 유럽, 아프리카, 아메리카 대륙에 치명적인 결과를 초래할 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "대서양 해류",
+        "붕괴",
+        "기후 모델",
+        "재앙",
+        "과학자"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "213",
+      "title": "영국의 온화한 겨울 덕분에 숲새들이 머무르고 있다",
+      "original_title": "Thanks to Britain’s mild winters, chiffchaffs are staying put",
+      "url": "https://www.theguardian.com/news/2026/apr/16/britain-mild-winters-chiffchaffs-staying-climate-crisis",
+      "source": "guardian_climate",
+      "published_at": "2026-04-16T05:00:49",
+      "description": "The birds usually fly to Spain, Portugal or Africa for winter but some no longer do so – largely owing to the climate crisisFor many birders, the first proper sign of spring comes when they hear the cheery two-note song of the chiffchaff, a small, migratory warbler which, like the kittiwake and the cuckoo, is named after the sound it makes.Chiffchaffs spend the winter far closer to home than most other members of their family: the majority heading to Spain, Portugal or north-west Africa. This is",
+      "summary": {
+        "phenomenon": "The birds usually fly to Spain, Portugal or Africa for winter but some no longer do so – largely owing to the climate crisisFor many birders, the firs",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "숲새",
+        "철새",
+        "온화한 겨울",
+        "기후 위기",
+        "영국"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 213,
+    "domestic_count": 192,
+    "international_count": 21,
+    "top_keywords": [
+      "탄소중립",
+      "기후변화",
+      "재생에너지",
+      "신재생에너지",
+      "기후변화주간"
+    ],
+    "sentiment_breakdown": {
+      "positive": 148,
+      "negative": 19,
+      "neutral": 27
+    }
+  },
+  "period": "afternoon",
+  "period_label": "오후"
+}
