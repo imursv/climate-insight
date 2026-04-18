@@ -1,16 +1,16 @@
 {
   "date": "2026-04-18",
   "metadata": {
-    "collected_at": "2026-04-17T23:26:38.508349",
-    "total_articles": 73,
+    "collected_at": "2026-04-18T08:18:55.661592",
+    "total_articles": 91,
     "sources": {
-      "korean": 32,
-      "international": 41
+      "korean": 45,
+      "international": 46
     },
     "sentiment_distribution": {
-      "positive": 28,
-      "negative": 20,
-      "neutral": 9
+      "positive": 38,
+      "negative": 22,
+      "neutral": 12
     }
   },
   "articles": [
@@ -1800,6 +1800,452 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "1ce4d625535caa01",
+      "title": "\"주식처럼 널뛰는 기온\"...기후변화가 키운 '위험한 일교차' - YTN",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzSVdpSUdwNzVCR1lTcjhBQ3VqSXBhRmRJSGNCVV9KX3BROF9qUmdReldGYm82dzlqc1V2WEtWQU5XOWtJRkVLY3pvTF95MjlLNHF3TVdrb2R1clZTY1Z6bHcxX19FWGVmUzZPMEpTQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-17T20:33:00",
+      "collected_at": "2026-04-18T08:14:51.327000",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "일교차",
+          "기온",
+          "위험",
+          "널뛰는"
+        ]
+      }
+    },
+    {
+      "id": "9d0168b23c899ec3",
+      "title": "경남도, 지구의날 맞아 20∼24일 기후변화주간…소등·사진전 등 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qVG5ia21HUzdZbldXSE1ZMkMxeFVQeVRoSEpERWlHTHZGQjl1YUJRbkJTbzBGMVZGeEU1LVRJckNVSzBORXFmUjdTYVZPaTl2eU5tbThKZS1HVWPSAWBBVV95cUxPTUFTWU53TWl1ZDk5M3hBSXNHTnZVUWo4aTNPTFdJNzdTNHFtQ1Q0S1locTc4eG1MUTdCaHdPY0FWd0tTTW1HRDZGbzlnRWd6VlhwcUJac3VTSTBGeDBMN3Y?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T00:05:01",
+      "collected_at": "2026-04-18T08:14:51.327052",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도",
+          "지구의날",
+          "기후변화주간",
+          "소등",
+          "사진전"
+        ]
+      }
+    },
+    {
+      "id": "f76bbe383399aa64",
+      "title": "전남교육청교육연수원, ‘기후변화 대응과 생태전환교육’ 운영 - 데일리비즈온",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNMTNtcV9nZG1zVEV6WGJZeFJud282N0M3Qm9TZFpSUXVLZ3d0eWdkcnZDVXFRcjlyWklIdkNzWkZpdzZiOTRtYTdNNnJPLWF4bkhfRUpBR1dCbEZrVHh0MFVEdHo4b1BUQS1qaw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T03:47:27",
+      "collected_at": "2026-04-18T08:14:51.327196",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "00702679ca7b2da6",
+      "title": "여수, 녹색성장 글로벌 무대로…전 세계 1만4000명 온다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qUXlSakR1MWtGbGxqTEtOallGakpWWHV3N3ExV2RPcXFWNGdJcGYyRzRVcmZBYzl5ZVQ0aXkyX0lwZ1hBSDFPYkJQeGlLc3c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-17T17:33:36",
+      "collected_at": "2026-04-18T08:14:51.327223",
+      "keywords_matched": [
+        "녹색성장"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "789a72f0fa9ce59d",
+      "title": "탄소중립 소재로 제작된 선물 받는 김민석 총리 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nV0VOUFNwc0VaV2FRX2MwWmpnZVdwNXRoVmdqSUVrXzh3TWxZQTZsbHdPME91Y09oLTQtbG1nNVlxV1FmcVRaQl9iNjF2eEFFeDdXeUtZSWxIa0Q4amJKNw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T06:00:41",
+      "collected_at": "2026-04-18T08:14:51.454365",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "소재",
+          "선물",
+          "김민석 총리",
+          "제작"
+        ]
+      }
+    },
+    {
+      "id": "4af1f808fda9aa9f",
+      "title": "보훈공단, 원주시와 함께 ‘지구의 날’ 탄소중립 캠페인 전개 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xSS1aVmoxRUlkRjUwWU5BcEZRNVFMSjBiOTJOeWF3dW9hNC02U0pzaVZvYnhvM0o5ZVlXcVJUVDRYTkxhUG1saUt1SEx0Z1M3NmFZNW5rdDNCY0U3Sm5aaGl2U1dJNXZSNXNz?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T06:05:55",
+      "collected_at": "2026-04-18T08:14:51.454601",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보훈공단",
+          "원주시",
+          "지구의 날",
+          "탄소중립",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "b2f05c683b26a1ec",
+      "title": "‘탄소중립 요리’ 체험으로 배운다…무안군 청소년 모집 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CX3NENy14Nm4xWWt4Z0NhU05xWFlFM1hPSWkyTUtRM1RjbFo2WE91NTZmZTJ0eWFCV1RhOE9COUh0dzVuNWpDelBGSlNpRTVTZno1cFB3cEtjSV8tZjRTZGY0aElDUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T01:25:25",
+      "collected_at": "2026-04-18T08:14:51.454647",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "요리",
+          "체험",
+          "무안군",
+          "청소년"
+        ]
+      }
+    },
+    {
+      "id": "703a222095866952",
+      "title": "탄소중립 소재로 제작된 선물 받는 김민석 총리 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYXRPT281dmUxWHFIeGNxcHNWaG8xMTljZDhzWGJFVDVodFlrdmZuVHFiaHBaWnJXQlFYSnYxRTl4emF4MUlaUnlXYXRoNklhVXZSWUdZczNrWTZjRnBabXBKZUhaZ0c3WmVJT25BUnR2dWhaT2tuag?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T05:41:00",
+      "collected_at": "2026-04-18T08:14:51.454721",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "소재",
+          "선물",
+          "김민석 총리",
+          "친환경"
+        ]
+      }
+    },
+    {
+      "id": "d332aa8dfab2b89e",
+      "title": "충북도, ‘기후위기대응위원회’ 출범 첫 회의 열어 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12T0Iwb3V1UWxuZWlVSVJ1OXhQOGk3SzFrR1JXSjhsTTdiNW9oV1lOWjRTUTZJUV9JOENoa0JrQWVjVHkzVkRrOGFZX3R2alpmTjBWd1hWVkxaX0kxS0J6YmkwTEIzV3VJU2FFMVlDdl_SAXRBVV95cUxPS1ZEci1zZFhROEVtR3g3VFp2V0R4RXBEOWh0cFZCUWlnMGxLaGszbExDeEFvLXVKR3hER0llRko0OWJPckNrWUZ2SlF1TFJUQ00xclI1T05meHpZSUJxY3JONXZfZFotT0h5T01MSGNaV3JTTg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-17T23:10:00",
+      "collected_at": "2026-04-18T08:14:51.455095",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충북도",
+          "기후위기대응위원회",
+          "출범",
+          "첫 회의",
+          "기후위기"
+        ]
+      }
+    },
+    {
+      "id": "697af8503c39fb24",
+      "title": "인천서구자원봉사센터, 탄소중립 실천 '그린시티' 활동 추진 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUWFQNzZfcFhHdXhEVGplWGlXY2pIOXlkMUVUX0FqVzh3SGtvUnFXbWx1UzhLX0E0Ui13OVZSSEh5LXF4TmM5V2RRNmdQVFJLNjBFbFVlNlJkRnhCWTAzdzBCNmk0aTIwMDE4UERn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T03:02:44",
+      "collected_at": "2026-04-18T08:14:51.455197",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "그린시티",
+          "자원봉사센터",
+          "활동",
+          "인천서구"
+        ]
+      }
+    },
+    {
+      "id": "fd7e363c7189b318",
+      "title": "AI와 재생에너지로 미래를 설계하는 한국전력기술, 2026 국가산업대상 수상 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJbl9rSEFMOU1LLXppNzhqVlBVajNZTmtIVTBseDFjNE9mejlybk1hcjVYWGtUckg1cldwYS1kNWtDNlNkYW5XU1p6Y2w?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T01:42:59",
+      "collected_at": "2026-04-18T08:14:51.271144",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국전력기술",
+          "AI",
+          "재생에너지",
+          "국가산업대상",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "02dbd96f0c0de4e8",
+      "title": "민형배 의원 “전남·광주, AI·재생에너지 메가특구 최적지” - 더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xMW5uY3ZBUHlHbjI3Y010U3k1X21YenFNNmtVT0JMWV9BUzNpVUo1WXdnVHQ0U21nbDYtVGpmMEpyaWNNSHlud1M3SUtYWGNiTTZDQnotTDRLUFFRWVdEdVJCLVJ3R0JW?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T00:06:59",
+      "collected_at": "2026-04-18T08:14:51.271173",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "민형배 의원",
+          "전남·광주",
+          "AI",
+          "재생에너지",
+          "메가특구"
+        ]
+      }
+    },
+    {
+      "id": "ed8a388b66ed553d",
+      "title": "민형배 “재생에너지·AI 자율주행차 메가특구, 전남광주로 와야”..가장 준비된 곳 - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1c3cxbW9WdmRkbWZPMWxPRXh6MXlBbl9SV1pJVTZUYktmZ09yNDlFYmUtV2gzY0hYUUJranNYenFPS1NDVGRVZ2pzV0U2Z3QwOWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-18T03:12:03",
+      "collected_at": "2026-04-18T08:14:51.271248",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "민형배",
+          "재생에너지",
+          "AI 자율주행차",
+          "메가특구",
+          "전남광주"
+        ]
+      }
+    },
+    {
+      "id": "dd22750d36d6108d",
+      "title": "Amherst seeks public input on climate change strategy - WWLP",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVDdvMkgzdWlqMnpzNzYwdUdXemxlM3NwbzY2UWk2MUxBTnducl9acWNKWEdIRHBxX3lQSjFaeHVTeW1nZ05hZGVBUS1CNzE4TTdEWVlaZENocGVvcGlsSXhUaG9vRks5M08wWjFBU1FrQXFrOEhraS1GcTVBYl9Zemp5dkJPTll6dTlRX1ktTnhLbVNUQXlXY2gwRURKZEg1a3Q2Y1duV3M5Q1Mt0gGyAUFVX3lxTE1ITTJzNy16UkhPQ3R5VUp3bHVNd3pQbzk5R2tOTjRLOWdZdUNQVFVqTlFzUUI4ZlJGMlAyNnJEV19vaFJOSGo3Ym5ISFRhdkthZ19kMVI5NVRGMTFPZ2tLcUpOeVRpQmdKMmNMZllkaU1hdDBYdkJPLXlhNzliSTZBbFd4WVFaNnZIVmtUeThzOFFkajdrYU9hU0xnbU5ERHVjbHNNR1BpSHNhUndTOXRLWFE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-17T19:27:53",
+      "collected_at": "2026-04-18T08:14:52.992593",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "애머스트, 기후 변화 전략에 대한 대중 의견 수렴 - WWLP"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "애머스트",
+          "기후 변화",
+          "전략",
+          "대중 의견",
+          "의견 수렴"
+        ]
+      }
+    },
+    {
+      "id": "7af434e0e47f26e9",
+      "title": "Wildfires used to 'go to sleep' at night. Climate change has them burning overtime - The Journal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNdVdLOGRPQmRxclQ1ZXRTZGl3cFhXU1I2czJwUnU3eHZwcXp6MmZJbVFhMzFWTVhCRGYtcS11SkN5YXRmN0Fpd3Bjc0I0Rk9sc2djYmlpQXY0eVM4c1VMQk4tTjF3M1FRSDFKLS1tM1JRSWppMTVrT3pUbHZHQWhnbG1wQXdKb2hrd0E0LXlxU0lCaHRRWlQtWV9BY3R0OU1FazNNQjRSRDZuMUV5bGtSUks3Q0dUWUpyZWdpVmFKWHpXNUFwT2lod2RwUUgzYV9pT1ZNdEhMSFotN1UzdV9ZQ2RtNWpiNWp3d1dlSFVjMkduWXVEWDI3NTFaeE9IOFRfb1Y3cGVnOUpOa0lv?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-17T18:01:00",
+      "collected_at": "2026-04-18T08:14:52.992853",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1bdd76209f7243e1",
+      "title": "Danish Sailors Measured Air Pressure Earlier Than We Thought—Ship Logs May Help Predict Climate Change - Arkeonews",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaFlCYXF3OG42U2hKVXBwUlV6MjdUaFNFV3RiUDJQQ2FsYzZpd0lzYzAtbG1WbDdJZE85ZWN2U09fbXN6ZnZnUXZSc1FRZGdXWHBRUUZLenVNX3FoSkNzZE1EZGZEVXkyT0VZdEhIa0c1c1RxMGgyUDFkSDhBWVl4eXhGVEs3RVFRNkVXN1NNMGg0bXhlYld5R1U3bGsxdU5weERFeUxOeUV0YU5PVldVQU1CemxHZ2hhWjh5S1pkT0pINUE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-17T23:11:18",
+      "collected_at": "2026-04-18T08:14:52.993211",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "덴마크 선원들이 우리가 생각했던 것보다 더 일찍 기압을 측정했다 — 선박 일지가 기후 변화 예측에 도움이 될 수 있다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "덴마크 선원",
+          "기압 측정",
+          "선박 일지",
+          "기후 변화",
+          "예측"
+        ]
+      }
+    },
+    {
+      "id": "a840f33d4e62b201",
+      "title": "Author Amitav Ghosh uses reincarnation and cooking to discuss climate change in Ghost-Eye - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVB6TVM5SWNEbUJmcWJoM2pjcHVsUGFMWjc2X3BkWC1iNTQ1YmpMejJ4YVRWcVJ1OEwxemN0Uk00bWlTZjFaOFFkVGRzUHpyV2QwVzlGREgxUlNHWm0tT2dJVUxYeFljRHB5ZjhaeXhIZUIwb19ELUlUWlVmLXFaS21EdGlyQjYtSW9WWS1fWHVRWC03c1JyWHpNeW5hRTRjVlU5WmVrQzU1LXZPTHVYNDZBYVVtblVlQi12VFlnR0NsRndDa2tF?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-18T04:15:00",
+      "collected_at": "2026-04-18T08:14:52.993729",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "작가 아미타브 고쉬, '고스트-아이'에서 환생과 요리로 기후 변화를 논하다 - 더 스트레이츠 타임스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "아미타브 고쉬",
+          "환생",
+          "요리",
+          "기후 변화",
+          "고스트-아이"
+        ]
+      }
+    },
+    {
+      "id": "6aa05d47cdd3fa15",
+      "title": "Joyce calls for climate change department to be scrapped - Sky News Australia",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZlB6Q3hlRUpubEJQbGxkaXR5N0NEVC1taU5jUmZsajRRSmM1N0NrS1JKRGRJajBsWDFpbGU2SlhmUWUwN2djd19oTFpkWEhKMEdrQXdham9DN0R1X213UENlV0pMeV9uM29EY19GMnhqaV9FdXJmN2VNVU04WjVYYTE2a1ZZakVEX2VXb19NZ0UwY3FTQV9IUzNuY1ZzX0dOeURmU0gzX0c1MkZELXNWZXRMYTQwcnRfc2dmc1JydEJjemZ3b3pJQ1JwVDNPWjU4bEE0cGhWcTZIczgwZkFSTkV0YzR3Q0RzVnU3bEZmUmZVY2xueXJqRngzOEQxU0NNT3didUlFcXZBRFdy0gGSAkFVX3lxTFBOZW1SOFQ4c1hGT2txWnFiV0pCQ0RyMFdUR3c5ZDQ2Z3VVeDg0QWNTWW5MSExTV1Nja2V0WEFndjRZUm95MHV2QkdwYm1xZmtOZ1o0T3piSlU1SnVSaXFhTU9XdEtXbEtMRTA1cmlFSEdEMEg2SXZCVE14ekY0Tjl1Mk5JUVVNX0JrSmRBMjdPMDlXSGk2WkhaSmJLczZ5cGZaUzRSTGU0Q1pYdWVDbmE0ckJEd3k0Ynp5WXB2ZnBiSXlzVWk5TmF0TldhODBwWklxcVRTYWhwMnhCOC12bENpNkxWYVlleGY0QU5FN3RwSGZLakpvVDduTnhFY29NNk4tazhrZ25HNFBjR2I3QnZtbXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-18T01:14:37",
+      "collected_at": "2026-04-18T08:14:52.994484",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "조이스, 기후 변화 부서 폐지 촉구 - 스카이 뉴스 오스트레일리아"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "조이스",
+          "기후변화",
+          "부서",
+          "폐지",
+          "호주"
+        ]
+      }
     }
   ]
 }
