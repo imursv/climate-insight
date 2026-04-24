@@ -1,0 +1,2282 @@
+{
+  "date": "2026-04-24",
+  "generated_at": "2026-04-24T23:28:34.375870",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 4월 24일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 기후변화가 한국 식량 안보에 미치는 위협",
+        "content": "오늘 국내외 주요 뉴스들은 기후변화가 한국의 식량 안보에 미치는 심각한 위협을 경고하고 있습니다. 기후변화로 인해 식량 경제가 불안정해지고 있으며, 이는 경제적 파급효과와 지정학적 불안정으로 이어질 수 있다는 분석이 제기되었습니다 [6, 7, 8]. 특히, 2026년 한국이 식량 위기에 직면할 수 있다는 데이터 기반의 긴급한 해법 모색이 필요한 시점임을 강조하고 있습니다 [9, 12, 14]. 빌 게이츠 재단에서도 기후변화가 우리가 먹는 것에 어떻게 영향을 미치는지에 대한 질문을 던지며 전 세계적인 식량 문제에 대한 인식을 높이고 있습니다 [48].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제 사회의 기후 대응과 논란",
+        "content": "국제사회에서는 기후변화 대응을 위한 다양한 노력과 함께 일부 논란도 포착되었습니다. 조지아와 플로리다에서 발생한 산불은 기후변화가 동부 지역의 산불 증가로 이어졌음을 명확히 보여주며, 극한 기후가 2085년까지 육상 동물 서식지의 3분의 1 이상을 위협할 수 있다는 연구 경고도 나왔습니다 [37, 38, 65, 77]. 한편, 프랑스가 미국과의 충돌을 피하기 위해 G7 의제에서 기후변화 관련 논의를 제외했다는 소식이 여러 차례 보도되며 국제 공조의 어려움을 시사했습니다 [43, 46, 51, 68, 78, 79, 80, 82, 83]. 그러나 콜롬비아에서는 세계 최초의 화석 연료 전환 회의가 시작되었으며, 중국 지도부도 화석 연료의 엄격한 통제를 촉구하는 등 긍정적인 전환 노력도 이어지고 있습니다 [92, 95, 96].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🇰🇷 국내 기후변화 주간 및 탄소중립 노력",
+        "content": "국내에서는 '유엔기후변화협약 기후주간' 기념식이 여수에서 개최되며 기후위기 해답 모색을 위한 중요한 논의의 장이 마련되었습니다 [2, 3, 4, 5]. 서부발전은 'K-GX 국제주간' 및 '기후변화주간'에서 탄소중립 성과를 홍보했고, 부산 영도구와 인천 중구 등 여러 지자체에서도 지구의 날을 맞아 소등 행사 및 기후변화주간을 운영하며 시민들의 참여를 독려했습니다 [1, 10, 15, 21]. 또한, 최혁진 국회의원이 기후위기 대응을 위한 탄소중립·녹색성장 기본법 일부개정법률안을 대표 발의하는 등 제도 개선 노력도 지속되고 있습니다 [20]. 이러한 움직임은 탄소중립 정책의 실행이 중앙에서 지역으로 확산되고 있음을 보여주나, 관련 구조는 아직 미완성이라는 지적도 함께 제기되었습니다 [19].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 재생에너지 확대와 정책적 과제",
+        "content": "재생에너지 분야에서는 긍정적인 진전과 함께 정책적 과제가 동시에 드러났습니다. 국내에서는 간척지부터 베란다 태양광까지 아우르는 재생에너지 100GW 로드맵의 윤곽이 드러났고, 서부발전은 재생에너지사업단을 확대하며 전문성 강화를 꾀하고 있습니다 [26, 28]. 현대쏠라텍과 세계환경산업교육진흥원의 협력, 재생에너지 ETF의 성장 가속화 등 민간 부문의 활발한 움직임도 주목됩니다 [31, 32]. 그러나 정부 부처가 탄소중립법 초기에 가파른 감축목표 명시에 반대하고, 탄소중립 정책 결정에 정부의 영향력이 과도하다는 지적도 제기되어 정책 추진의 어려움이 예상됩니다 [16, 18]. 또한, 신재생에너지 건설사들의 줄파산 소식은 재생에너지 산업의 안정적인 성장을 위한 제도적 지원의 필요성을 강조합니다 [30].",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚠️ 위기에 처한 생태계와 생물 다양성 보호 노력",
+        "content": "기후변화로 인한 생태계 파괴는 오늘날 가장 시급한 문제 중 하나로 부각되고 있습니다. 남극의 얼음 왕국이 무너지며 펭귄들이 생존 위기에 처했고, 특히 ‘세계 펭귄의 날’을 앞두고 이상기후로 빨라진 남극의 봄이 새끼 펭귄들의 굶주림을 가속화하고 있다는 안타까운 소식이 전해졌습니다 [11, 13]. 해양 폭염이 캘리포니아와 멕시코 연안에서 확산되고, 염습지 및 수생 양치식물의 서식지가 기후변화로 인해 축소되는 등 생물 다양성이 이미 심각한 영향을 받고 있습니다 [49, 50, 52, 67]. 이에 대응하여 아프리카개발은행이 기후변화 대응을 위해 2천5백만 달러의 보조금을 승인하고, 다이버들이 수중 스피커를 이용해 죽어가는 산호초를 돕는 등 각지에서 생태계 보호를 위한 노력이 이어지고 있습니다 [85, 93].",
+        "tone": "urgent"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후변화가 초래하는 다양한 위협과 이를 극복하기 위한 국내외의 노력을 동시에 보여주었습니다. 지속적인 관심과 실질적인 행동이 요구됩니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "서부발전, 'K-GX 국제주간·기후변화주간 '서 탄소중립 성과 홍보 - 중도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PX0RRZXZxRmdFMWJFTnI2dUVCZVhoeExmZlpXbThHS2pvakxtQVMzY1NleXZYdE5BcFhJU0s2dkZDVkJJVjl3SkxfWGU3NEhydGJITEhodnNEWDUtSzBsR0hmeU4?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T13:27:37",
+      "description": "서부발전, 'K-GX 국제주간·기후변화주간 '서 탄소중립 성과 홍보 중도일보",
+      "summary": {
+        "phenomenon": "서부발전이 'K-GX 국제주간' 및 '기후변화주간' 행사에서 탄소중립 성과를 홍보했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부발전",
+        "K-GX 국제주간",
+        "기후변화주간",
+        "탄소중립",
+        "성과 홍보"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "대한민국 여수에서 기후위기에 답을 묻다 - 대한민국 정책브리핑",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWGJlMGxEa1F3VEdZYTE0QXhZVThZTzVEcnpPM3lxQzFGT1FqZTFOSDBOZERYTXpzN1JHSnlTYUg4UHhYMkNJekR1LUNfUXhyR2pSV3hLSmNtQWVBbEFjeFhpZXJYT1BDNlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T09:56:39",
+      "description": "대한민국 여수에서 기후위기에 답을 묻다 대한민국 정책브리핑",
+      "summary": {
+        "phenomenon": "대한민국 여수에서 기후위기에 대한 해답을 모색하는 행사가 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대한민국",
+        "여수",
+        "기후위기",
+        "답",
+        "정책브리핑"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "유엔기후변화협약 기후주간 기념식 여수서 개최 - KBS 뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TSG5YeklEcXNRcmJ4MDJQZDRRYS1kcGlXSUlYNG9NcjJOOGNYRU1MUllTazVsSkE2WGJyQ1ZZcU1WUk5ETW9INXMzQTAwOUsyRXUzQzJFdFY0LXM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T10:58:00",
+      "description": "유엔기후변화협약 기후주간 기념식 여수서 개최 KBS 뉴스",
+      "summary": {
+        "phenomenon": "유엔기후변화협약(UNFCCC) 기후주간 기념식이 여수에서 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "유엔기후변화협약",
+        "기후주간",
+        "기념식",
+        "여수",
+        "개최"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "여수서 3차 유엔기후변화협약 기후주간 개막식 - KBC광주방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRTIxMkZ4RUttTXNzUGJweThWTmgzclZqOTVSbUdmY3BnUG9fQkJINlJTZFMzbGlpSlRuajRPWVlnbWQtWHdxemFqaXYxM1hqNGhYMXVCempXU0I3NzhkS2d3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T12:19:21",
+      "description": "여수서 3차 유엔기후변화협약 기후주간 개막식 KBC광주방송",
+      "summary": {
+        "phenomenon": "제3차 유엔기후변화협약(UNFCCC) 기후주간 개막식이 여수에서 열렸다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "여수",
+        "유엔기후변화협약",
+        "기후주간",
+        "개막식",
+        "기후"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "여수시, 유엔기후변화협약 기후주간 개막식 개최 - 뉴스탑전남",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MdVI3VjZ1akFfc18wT0hFdkdmamJWY010YzhZYTBYc3N1VDVhNjd6Z1ZYVjJIM3dkSzdvOE9wZ2pJSnhYVUFrNy1rb01hcFV5MDNzMTVmckszdjkxcDFMbGtwMG1fZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T08:53:00",
+      "description": "여수시, 유엔기후변화협약 기후주간 개막식 개최 뉴스탑전남",
+      "summary": {
+        "phenomenon": "여수시가 유엔기후변화협약(UNFCCC) 기후주간 개막식을 개최했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "여수시",
+        "유엔기후변화협약",
+        "기후주간",
+        "개막식",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "기후변화와 한국 식량 안보의 긴급 과제 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NbUtHOWttUXdtR1NyUlM3dko2UmhHam1FdlBqZ25jVXRDQWg4VENwWDFZUWtsTmtZTzdHQWpHRWxKVllRcWd1STFyYXE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:08:26",
+      "description": "기후변화와 한국 식량 안보의 긴급 과제 브랜드경제신문",
+      "summary": {
+        "phenomenon": "기후변화가 한국의 식량 안보에 영향을 미치며, 이는 긴급한 과제로 부상하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "한국",
+        "식량 안보",
+        "긴급 과제",
+        "경제신문"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "기후변화가 식량 경제를 흔들다 - 유스연합",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XWTBiZUJqRUtxRkxsNFdKWHdoNlJraWh1cUJDVmdMaUVLTFc4Y2JwR2F3THYtMGZyMEpBQms5ZDY1eDhLQndBdmhvOGk0U1lSYkE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:17:52",
+      "description": "기후변화가 식량 경제를 흔들다 유스연합",
+      "summary": {
+        "phenomenon": "기후변화로 인해 식량 경제가 불안정해지고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "식량 경제",
+        "흔들다",
+        "유스연합",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "기후변화와 식량 안보: 경제적 파급효과와 지정학적 불안정 - 환경감시일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GWEZHZXZzUXRsOGNyeEdIbGZfcmcwcVFMS2xVRm9NMHBNMkJqUkU4Ny10QU1kQ2R6QW9jZlJ2amRRWW5oYVFYb2RGQm1zVWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:05:54",
+      "description": "기후변화와 식량 안보: 경제적 파급효과와 지정학적 불안정 환경감시일보",
+      "summary": {
+        "phenomenon": "기후변화가 식량 안보에 영향을 미치며, 이로 인해 경제적 파급효과와 지정학적 불안정이 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "기후변화가 식량 안보에 미치는 경제적 파급력: 데이터가 보여주는 글로벌 위기와 한국의 과제 - 유스연합",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxWjJrVjA0WGk3SzdkbTl4dGVaSXhZSWY0TDhEZDE0WlJnMW5QYXdrLW13WW5Sb1FJMkZsZlZlNDIzNXpZNTc0NFRTaTAzblowYWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:11:51",
+      "description": "기후변화가 식량 안보에 미치는 경제적 파급력: 데이터가 보여주는 글로벌 위기와 한국의 과제 유스연합",
+      "summary": {
+        "phenomenon": "기후변화가 식량 안보에 경제적 파급력을 미치고 있으며, 이는 데이터가 보여주는 글로벌 위기이자 한국의 과제로 인식되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "식량 안보",
+        "경제적 파급력",
+        "글로벌 위기",
+        "한국의 과제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "\"지구를 위한 10분 휴식\"…부산 영도구, 제18회 기후변화주간 운영 - LG헬로비전",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xTEhVWFlZR002MmptcS0xOWpRTzNUMmVtMHJNWHhyS2xXUUFqTGMtRTVXNDFKN0Nqc09jcGZULVpabE5CZjRmMGUxVTNHMmJ0Qkl3RE52SHRRM25xY2h6aDFHTDFsQWNYQ05xaFZ6R1Nfcm8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T08:38:54",
+      "description": "\"지구를 위한 10분 휴식\"…부산 영도구, 제18회 기후변화주간 운영 LG헬로비전",
+      "summary": {
+        "phenomenon": "부산 영도구에서 '지구를 위한 10분 휴식'이라는 슬로건 아래 제18회 기후변화주간이 운영되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "무너지는 얼음 왕국 '남극'…펭귄 생존 위기 [지금은 기후위기] - 아이뉴스24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43Z1ZRUk9rcjlXbjA3RmoyTEF4V1l2NGhhbFBxU3QwWXZ1emhWSUprZW5vT0dxUncyVEJPT2xZa0I3d3hlRV9qdnVZVGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T22:35:01",
+      "description": "무너지는 얼음 왕국 '남극'…펭귄 생존 위기 [지금은 기후위기] 아이뉴스24",
+      "summary": {
+        "phenomenon": "남극의 얼음 왕국이 무너지고 있으며, 이로 인해 펭귄들이 생존 위기에 처해 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "펭귄들의 생존이 위협받고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "남극",
+        "기후위기",
+        "펭귄",
+        "생존 위기",
+        "얼음 붕괴"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "기후변화와 한국의 식량 위기: 2026년, 데이터가 말하는 긴급한 해법 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1JdjlKeU0xMlpKTTAwSFNqRmZBQzJFeGxHRWd4ck9FOEczU1pEdjdVUE91VjNpdFZ3RE40QlRpazRLVmM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:20:56",
+      "description": "기후변화와 한국의 식량 위기: 2026년, 데이터가 말하는 긴급한 해법 브랜드경제신문",
+      "summary": {
+        "phenomenon": "2026년에 한국이 식량 위기에 직면할 수 있다는 데이터가 제시되었다.",
+        "cause": "기후변화가 한국의 식량 위기를 야기하는 원인으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "한국",
+        "식량 위기",
+        "2026년",
+        "긴급한 해법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "4월 25일 ‘세계 펭귄의 날’ 이상기후로 빨라진 남극의 봄, 굶주리는 새끼 펭귄 - 국민뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94UVF6SmNOb1RaVWQzcl9tczg1VDdnM2o3RUYycnVVSUFPelJjUDF4Z1hGcGF6bkRsdFNHNHVDWDlteXNTQmIzbUtn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T15:02:00",
+      "description": "4월 25일 ‘세계 펭귄의 날’ 이상기후로 빨라진 남극의 봄, 굶주리는 새끼 펭귄 국민뉴스",
+      "summary": {
+        "phenomenon": "4월 25일 ‘세계 펭귄의 날’을 맞아 남극의 봄이 이상기후로 인해 평소보다 빨라졌으며, 이로 인해 새끼 펭귄들이 굶주리고 있다.",
+        "cause": "이상기후로 인해 남극의 봄이 빨라진 것이 새끼 펭귄들이 굶주리는 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세계 펭귄의 날",
+        "이상기후",
+        "남극",
+        "새끼 펭귄",
+        "굶주림"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "기후변화, 한국 식량 안보에 던진 경고 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93OE9DWDdfdGVtMnE5cktVNk1Eb2FsODRrX21Ya0NONGNFbnZxek4tODhHdTQ0UFdWUHhfQmdmbS1jakE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T16:14:16",
+      "description": "기후변화, 한국 식량 안보에 던진 경고 브랜드경제신문",
+      "summary": {
+        "phenomenon": "기후변화가 한국의 식량 안보에 경고를 던지고 있는 상황이다.",
+        "cause": "기후변화가 한국 식량 안보에 위협을 가하는 원인으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "한국",
+        "식량 안보",
+        "경고",
+        "위협"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "영도구, 제18회 기후변화주간 운영…지구의 날 맞아 다양한 행사 진행 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuTHNmRnVJbTNOY0pEUm1wUFVDMTdvMFZuZEMxUlJkV0JZMktpbEhWdzRfWFJISVhicXQ3b0xyWDZKTktxSmt4T1hqb1BmWi1QcWNqemVsTEFKM21ZM3VKUmg5ZVJGWUxwTTN6RmxvTEMxQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-04-24T08:38:29",
+      "description": "영도구, 제18회 기후변화주간 운영…지구의 날 맞아 다양한 행사 진행 웹이코노미",
+      "summary": {
+        "phenomenon": "영도구에서 제18회 기후변화주간을 운영하며 지구의 날을 맞아 다양한 행사를 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영도구",
+        "기후변화주간",
+        "지구의 날",
+        "행사",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "정부 부처, 탄소중립법 초기에 가파른 감축목표 명시 반대 의견 - 에너지경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oRXFSZ25DdnoyLVNmbUZ1VmZxdmhFeTEyUDV3TEM1MWtQZGU2ZVFDYTlERk5kSEpxanB4QURSTzkxOU1pUE1qRjZIMndBeWdzbEtBUEpyLXlXMm8?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T12:22:23",
+      "description": "정부 부처, 탄소중립법 초기에 가파른 감축목표 명시 반대 의견 에너지경제신문",
+      "summary": {
+        "phenomenon": "정부 부처들이 탄소중립법 초기에 가파른 감축목표를 명시하는 것에 대해 반대 의견을 표명했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "정부 부처",
+        "탄소중립법",
+        "감축목표",
+        "반대 의견",
+        "가파른"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "탄소중립·AI 시대 노동 전환 지원 박차 - 한국방송뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pOW1zMFQxbG9ZWlFHUENjSmVWSmE0aFMzLXV2clViZGlvWnR5dDJJa0xxNHlUYUdkWG8wT3QyaV9PVDIyMnlrTWFMdllQcEZQc1BMSUpjaFBwekExanc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T16:50:12",
+      "description": "탄소중립·AI 시대 노동 전환 지원 박차 한국방송뉴스",
+      "summary": {
+        "phenomenon": "탄소중립 및 AI 시대를 맞아 노동 전환 지원에 박차를 가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "AI 시대",
+        "노동 전환",
+        "지원",
+        "박차"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "[오늘의 국회 에너지 입법 : 탄소중립 정책 결정 정부 영향력 과다] - 에너지플랫폼뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ialBkTDFwTjZDZHlwSWV6V2xQTkxkQjhsY1pMclNGRXhadEcxZHJIdlpLQ1ltNF9NUm9hN001d044YmZfdW5UUy1udEQ3OUI1anVSQTQzLWh6ZmpMNHlRa1JiX1VPOEYxLUtQTdIBcEFVX3lxTFBvWG9WYXFUUmtBSmZ2NTk4QklqMGJ5TWJhNXdwVWlTVEs2S2V5LWRKV2tOV0lCTVJGQzE5NklSMlpGZHRBVGNaNFdCZUVPYTNVdGExVGVBR0JNS2ZGc3Y2dExKOTNjeDZJR0Q0VTBVczQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T21:06:05",
+      "description": "[오늘의 국회 에너지 입법 : 탄소중립 정책 결정 정부 영향력 과다] 에너지플랫폼뉴스",
+      "summary": {
+        "phenomenon": "국회 에너지 입법 과정에서 탄소중립 정책 결정에 정부의 영향력이 과도하다는 지적이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "국회",
+        "에너지 입법",
+        "탄소중립 정책",
+        "정부 영향력",
+        "과다"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "[이로운요구] \"탄소중립, 중앙에서 지역으로\"…실행은 시작됐지만 구조는 미완성 - 이로운넷",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtWEpfSnNBblFqSVh0cGVSYVVKVWJTbktjTFhDa0dVdU5HeHQ2Ty1SeEhCTThEODJnczV3SWJ3c0xQM3ByVEZzSGFycEd3RUFQeU5IYmV3SUdpOWpvZmpEVEJ0ZThDUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T08:29:20",
+      "description": "[이로운요구] \"탄소중립, 중앙에서 지역으로\"…실행은 시작됐지만 구조는 미완성 이로운넷",
+      "summary": {
+        "phenomenon": "탄소중립 정책의 실행이 중앙에서 지역으로 확산되기 시작했지만, 관련 구조는 아직 미완성 상태이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "탄소중립",
+        "지역",
+        "실행",
+        "구조",
+        "미완성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "최혁진 국회의원 , 기후위기 대응을 위한 탄소중립·녹색성장 기본법 일부개정법률안 대표발의 - 경찰뉴스24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcGtBaFFaNTJfeXhVVWZ0dFdfY0MxRDlBLWM2ZHVvOTlyLWVnbjM1dGQ5UVQxTm1fY0x1T2w2NU9fWTYxZ1FCUHdJVldRUmJzc3UxNjFGcjdhU1RTTnR5ZG9CZnd0Y0JYQlU3bVF3RFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T13:57:35",
+      "description": "최혁진 국회의원 , 기후위기 대응을 위한 탄소중립·녹색성장 기본법 일부개정법률안 대표발의 경찰뉴스24",
+      "summary": {
+        "phenomenon": "최혁진 국회의원이 기후위기 대응을 위해 탄소중립·녹색성장 기본법 일부개정법률안을 대표 발의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "최혁진 국회의원",
+        "기후위기 대응",
+        "탄소중립",
+        "녹색성장",
+        "법률안 발의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "인천 중구, ‘지구의 날’ 맞아 10분간 소등… 민관 협력 속 탄소중립 실천 - 전주일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FTlBxVUpPV0VJZVFYMkhVNnFNYXhWY1dFLURtam9QazlySFRSUUR0Y3pkeUplWDJ3X2dXaWNoVTV4UTM0ZDcwT3BNRVFpODNRLU9RbEFLeTlQTTN4LVA5Z1lWMkpIWE8xVGtHQg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T18:20:09",
+      "description": "인천 중구, ‘지구의 날’ 맞아 10분간 소등… 민관 협력 속 탄소중립 실천 전주일보",
+      "summary": {
+        "phenomenon": "인천 중구에서 '지구의 날'을 맞아 민관 협력으로 10분간 소등 행사를 진행하며 탄소중립을 실천했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천 중구",
+        "지구의 날",
+        "소등",
+        "탄소중립",
+        "민관 협력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "[에너지포커스] “대형 발전소용 낡은 잣대로는 탄소중립 불가”…‘재생e 특별법’이 필요한 이유 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nRGhtdlNuTUtwcTFMVG1Fb0kteE1sOEF1MGdNU3paczZxSlJ0OFV1OWVyYTM1c29uV1NHMk91UHNXQ09acDNaRWlRSkR6dnNkNHEyeFlLTWdQQzNKNTBrbGdzdTVncWs?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T14:50:47",
+      "description": "[에너지포커스] “대형 발전소용 낡은 잣대로는 탄소중립 불가”…‘재생e 특별법’이 필요한 이유 산경e뉴스",
+      "summary": {
+        "phenomenon": "현재 대형 발전소에 적용되는 낡은 잣대(규제/기준)로는 탄소중립 달성이 어렵다는 인식이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "탄소중립 달성을 위해 '재생에너지 특별법'이 필요하다는 주장이 제기되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "탄소중립",
+        "재생에너지",
+        "특별법",
+        "대형 발전소",
+        "낡은 잣대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "전남도의회, 여수서 기후·복지 현장 점검…탄소중립 정책 실효성 검토 - 베타뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LTVNZUi1WUWhkaldwS3l5VW9XQS1VT2pqdVA2amM1TnZPQWhLMEtOX2hDanBleUhUdG1mcGNEOUJKLXlPaFhsaVBvenBSY3MzU1gzM21IUlhiVDY0andnU25vaEE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T11:06:50",
+      "description": "전남도의회, 여수서 기후·복지 현장 점검…탄소중립 정책 실효성 검토 베타뉴스",
+      "summary": {
+        "phenomenon": "전남도의회가 여수에서 기후 및 복지 현장을 점검했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 점검을 통해 탄소중립 정책의 실효성을 검토할 예정이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "전남도의회",
+        "기후",
+        "복지",
+        "탄소중립 정책",
+        "현장 점검"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "한라여성새로일하기센터, 직업교육 현장에 ‘돌봄’과 ‘탄소중립’ 가치를 더하다 - 뉴스N제주",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQaG5xcnExVTBKc0QyNHRyQjVBbkUzUnp1a2NRTzlaY2FBbGZpb1VXQUN2cVZ5UGtwSzJGdTlEMDBGQlZnZWdNbUp0aHhFckhHd3k1Rm9GLUxObGY2czBvUzJiMUs4OEtlQTA5Vw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T16:22:07",
+      "description": "한라여성새로일하기센터, 직업교육 현장에 ‘돌봄’과 ‘탄소중립’ 가치를 더하다 뉴스N제주",
+      "summary": {
+        "phenomenon": "한라여성새로일하기센터가 직업교육 현장에 '돌봄'과 '탄소중립' 가치를 추가했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한라여성새로일하기센터",
+        "직업교육",
+        "돌봄",
+        "탄소중립",
+        "가치"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "남포중, 국가유산 보존 및 탄소중립 사제동행 자전거 탐방 실시 - 종교와 진리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUbVB6LUh4bDBYV041ZmFhTUZoeVlwaGxGZzI3VlNraVNTd2FBLUMwbG5yMEp6TFFVMUVOdzVfbG85eHVNRkU4VTFwWGxUMlBPVnBCdDA2QnhXWUZFTGkxZGJ2eXBCUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-04-24T13:15:55",
+      "description": "남포중, 국가유산 보존 및 탄소중립 사제동행 자전거 탐방 실시 종교와 진리",
+      "summary": {
+        "phenomenon": "남포중학교에서 국가유산 보존 및 탄소중립을 위한 사제동행 자전거 탐방을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남포중",
+        "국가유산 보존",
+        "탄소중립",
+        "사제동행",
+        "자전거 탐방"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "간척지부터 베란다 태양광까지, 재생에너지 100GW 로드맵 윤곽 - 에너지경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WNnAxY2RFS1RMQ09SVzF0OFdCSmRJcmpRb0c0T2FGX1RaSFN3dndUODVwYk1kNDhHTG9WVnFlZkV0WEN6UXN5Qkt2NEgxSWkzcUJ1cTFUeUlUcU0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T21:20:00",
+      "description": "간척지부터 베란다 태양광까지, 재생에너지 100GW 로드맵 윤곽 에너지경제신문",
+      "summary": {
+        "phenomenon": "간척지부터 베란다 태양광까지 아우르는 재생에너지 100GW 로드맵의 윤곽이 드러났다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "100GW",
+        "로드맵",
+        "간척지",
+        "베란다 태양광"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "통웨이, 멕시코 재생에너지 전시회서 TNC3.0 태양광 모듈 공개 - 헬로티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14X05YX2ZHd1dJWmtrM1pXNUo2T09oMHBwQ2c3c0JjZWJNY1J0X0tGWGVwUlBCa3Y0Q2FIODI5dk1uZVVpVU9TcFFQb2w1bk1iMzBPMmlESER6SWJ6VzFV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T08:20:59",
+      "description": "통웨이, 멕시코 재생에너지 전시회서 TNC3.0 태양광 모듈 공개 헬로티",
+      "summary": {
+        "phenomenon": "통웨이가 멕시코 재생에너지 전시회에서 TNC3.0 태양광 모듈을 공개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "통웨이",
+        "멕시코",
+        "재생에너지",
+        "전시회",
+        "태양광 모듈"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "서부발전, 재생에너지사업단 규모 키우고 인력 대거 보강…“전문성·쟁력 강화” - 부산일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lNlNYeWZPcEJBRTdOdzZIN3lFbTQ1NFhOYXNQcUFnNkFHZWFERkdVQmZVT3dvMFpjYktUN1lLRjRGTmZ1dWtaQWp1cC01eTYxV0t2M3BHNktaSXlSSmgtZFFiZVhJUHBLZVg4VTVoUkJTXzNy?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T12:44:58",
+      "description": "서부발전, 재생에너지사업단 규모 키우고 인력 대거 보강…“전문성·쟁력 강화” 부산일보",
+      "summary": {
+        "phenomenon": "서부발전이 재생에너지사업단의 규모를 확대하고 인력을 대거 보강했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이를 통해 재생에너지 분야의 전문성과 경쟁력을 강화할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부발전",
+        "재생에너지",
+        "사업단",
+        "인력 보강",
+        "역량 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "이재명 정부, 원전과 재생에너지 '두마리 토끼' 잡을까[이유범의 에코&에너지] - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qUGc0STdYWXlLVnIydGxOYktCUTRUbWV5ems4Q0lrTUdoYlZPanczOFFWOFZqSGhRS2ZnSGN1X1I1dGN6c0l5U1hGTm0tZFVWWXRTT1o4YmkwQdIBXkFVX3lxTFBKcXAxRW1ZRGMwbjQ4ZWZhRWtOZWh2RENGZjNEMy1ZZjBIcjZRSWVDLVNCVTR2N0tNMjRzSzFVbTY2MHhVc2pYZGJIY01BcFZfVEZmR1pTWXZoN1FOTUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T21:00:00",
+      "description": "이재명 정부, 원전과 재생에너지 '두마리 토끼' 잡을까[이유범의 에코&에너지] 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "이재명 정부가 원자력 발전과 재생에너지 정책을 동시에 추진하려는 움직임을 보이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이재명 정부가 원전과 재생에너지라는 '두 마리 토끼'를 모두 잡을 수 있을지에 대한 의문이 제기되었다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "이재명 정부",
+        "원전",
+        "재생에너지",
+        "에너지 정책",
+        "두마리 토끼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "신재생에너지 건설사 줄파산 투자자 경보…7년 연속 실적 악화에도 '웰크론한텍' 주가 급등 - 녹색경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iNE5Zd3pDVFJOYlFuYlZiWFRfZDNmM1JGanBCUTg3TTFuaW5WbldUX2doMXpiVXdPVG5KY0FWZ3FvQUFpR25leW5vNGFLSG9hN09TdUE4QnFGZUhoNVd4Wm5ka2ZDQ21X?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T09:27:56",
+      "description": "신재생에너지 건설사 줄파산 투자자 경보…7년 연속 실적 악화에도 '웰크론한텍' 주가 급등 녹색경제신문",
+      "summary": {
+        "phenomenon": "신재생에너지 건설사들이 줄파산하고 7년 연속 실적이 악화되는 상황에서, '웰크론한텍'의 주가가 급등했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "신재생에너지 건설사들의 줄파산과 실적 악화로 인해 투자자들에게 경보가 발령되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "신재생에너지",
+        "건설사",
+        "줄파산",
+        "투자자 경보",
+        "웰크론한텍"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "현대쏠라텍-세계환경산업교육진흥원 “맞손”…태양광 사업·글로벌 기후 대응 확대 - 지이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91MW0wUGpWTWphaFBMNTIzdkFva3JFUjREMVlhNHhDT1Rsc0p3bFJNTXBHUi1NU0pLRkJIeFRNSUxVdzZBejJ6OVc0TWxEbEFha2tsUzhRU1NHMXlsMVhuLWdXWHBwSjA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T20:50:51",
+      "description": "현대쏠라텍-세계환경산업교육진흥원 “맞손”…태양광 사업·글로벌 기후 대응 확대 지이코노미",
+      "summary": {
+        "phenomenon": "현대쏠라텍과 세계환경산업교육진흥원이 협력 관계를 맺었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 협력을 통해 태양광 사업과 글로벌 기후 대응이 확대될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "현대쏠라텍",
+        "세계환경산업교육진흥원",
+        "태양광 사업",
+        "글로벌 기후 대응",
+        "맞손"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "재생에너지 ETF, 지정학적 위험과 AI 수요로 성장 가속 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKbjFwMEtSZmdyazRxUEQ3c0JlMmdwNVhOSTEwaDB3a010eXNmV3Bjd1ljOGZxcjhOajZ2Y2NtazR5d1NDUU82aEFJTGE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T15:44:04",
+      "description": "재생에너지 ETF, 지정학적 위험과 AI 수요로 성장 가속 브랜드경제신문",
+      "summary": {
+        "phenomenon": "재생에너지 ETF(상장지수펀드)의 성장이 가속화되고 있다.",
+        "cause": "지정학적 위험과 인공지능(AI) 수요가 재생에너지 ETF 성장의 원인으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "ETF",
+        "성장 가속",
+        "지정학적 위험",
+        "AI 수요"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "100만 재생에너지인 하나로 ‘한재연’ 출범...‘재생에너지 특별법’ 제정 촉구 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81dndCUW5sNGFneXYzM3BHMU5JVnJvckxKRnFxb3NnN3ozU29FYVp1MmFwSXZmU0dYRDNIWlN3Rkl2UURJdTBMUVNNa2dRdE14czhaNXpHY21XbVZ1bk1SU3l1SjVBQUk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T08:47:18",
+      "description": "100만 재생에너지인 하나로 ‘한재연’ 출범...‘재생에너지 특별법’ 제정 촉구 산경e뉴스",
+      "summary": {
+        "phenomenon": "100만 재생에너지인을 대표하는 '한재연'이 출범했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "'한재연'은 '재생에너지 특별법' 제정을 촉구하고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "한재연",
+        "출범",
+        "특별법",
+        "제정 촉구"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "중동 전쟁 후 '에너지 안보' 부각...재생에너지株 주목 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UeWswX3RIOWpkYkdacTNEUkFUb21Yd1loLVhUNlBzM3VDRmlnTUdNWmpabVRrVUQySFBsN0hUODNWOEp2LXZ2amxNbDVvb0loak9YTkRJWTFmQdIBXkFVX3lxTE12dW0yeFRrMTBTTXJOa1M1NWhoMDRNbjNXcC1SNUtBTGpNRnQ5X2NPbVBfZXdTRzVtenRvOTNYNzBDNFloN3hzeDNFdFl4VElCdU04d3hmbk5pZmlnNlE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T08:49:59",
+      "description": "중동 전쟁 후 '에너지 안보' 부각...재생에너지株 주목 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "중동 전쟁 이후 '에너지 안보'의 중요성이 부각되고 있다.",
+        "cause": "중동 전쟁으로 인해 에너지 안보에 대한 우려가 커진 것이 원인이다.",
+        "outlook": "에너지 안보 부각에 따라 재생에너지 관련 주식(재생에너지株)이 주목받고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중동 전쟁",
+        "에너지 안보",
+        "재생에너지",
+        "재생에너지株",
+        "주목"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "[IGEE서 선보인 태양광 강자들 (上)] HD현대에너지솔루션 · 한화큐셀 · OCI파워 - 투데이에너지",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VU2JVWEFpSy1OaXZHeDVGYTUwOFV0WjFJcjQ1QXRlRGljQ1RDYTh2UENUZTZPcEtuRnVrRjctZk13dmRmYTNIbV9KZWF4TzlxVEJnSGo2NDM1TGhKdUFLQ0V2TWdZR1l6b0hHNDdn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-04-24T08:24:17",
+      "description": "[IGEE서 선보인 태양광 강자들 (上)] HD현대에너지솔루션 · 한화큐셀 · OCI파워 투데이에너지",
+      "summary": {
+        "phenomenon": "IGEE(국제그린에너지엑스포로 추정)에서 HD현대에너지솔루션, 한화큐셀, OCI파워 등 태양광 분야의 주요 기업들이 소개되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "태양광",
+        "IGEE",
+        "HD현대에너지솔루션",
+        "한화큐셀",
+        "OCI파워"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "십시일반의 기적은 이뤄질까…납품업체들의 ‘초록마을’ 구출 작전",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202604250800021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-04-24T23:00:02",
+      "description": "초록마을 눈덩이 적자…납품업체들에 260억원 미정산의 도미노인수자 안 나타나…납품업체들 투자금 모아 직접 사려 동분서주4월 21일 서울 동대문구 장안동의 주거지역에 있는 초록마을 장안점. 이재덕 기자[주간경향] 4월 21일 오전 10시 서울 동대문구 장안동의 친환경·유기농 식품 전문점 ‘초록마을’ 매장. 단골 주모씨(41)가 매장에 진열된 메추리알 장조림을···",
+      "summary": {
+        "phenomenon": "친환경·유기농 식품 전문점 '초록마을'이 눈덩이 적자를 기록하며 납품업체들에게 260억 원을 미정산하는 상황에 처했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "인수자가 나타나지 않자, 납품업체들이 투자금을 모아 초록마을을 직접 인수하려는 움직임을 보이고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "초록마을",
+        "납품업체",
+        "적자",
+        "미정산",
+        "구출 작전"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "조지아 화재, 기후 변화가 동부 산불 증가로 이어졌음을 보여준다 - AP 통신",
+      "original_title": "Georgia blaze shows how climate change has led to more wildfires in the East - AP News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE95QUdnNjlkRmRkTDItVU9IcXplemk2b0R3RldpU2pZTVN0ZjE1VzIwWkF3alhIaDk4VjZCeFBrcnViWS1maHlIVEE3emo4SXI0SmZobmdGZWlnVTQ0djRqcnZ1eEtZenVQem1LYlRjYUR4SzdZYUhhaTkxR3dURm1qREZJWHIzUEFVdUZRYWN4c1pxN2RLRk5iLU1OSVE2Y25JZGxSa0xES0JH?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T15:06:00",
+      "description": "Georgia blaze shows how climate change has led to more wildfires in the East AP News",
+      "summary": {
+        "phenomenon": "조지아에서 발생한 화재는 동부 지역의 산불 증가 현상 중 하나이다.",
+        "cause": "기후 변화가 동부 지역의 산불 증가로 이어진 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "조지아",
+        "산불",
+        "기후변화",
+        "동부",
+        "증가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "Hot, dry and hurricane-scarred: How climate change fueled wildfires in Georgia and Florida - NBC News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcmFMQkpaQm50aTFZMlRpRFhCeG4wMWpfb1hOR1ZCSl9Ra2ZabmFrY1h0VGdmbWo0bm9rS1ZCb05UQjRCb1FITHRXblJJMVFxbEZHSjdBMXVPR245dE5jUHY4Nk9qRTlwN1R1R1lYWFdxTHpEbjlobmJsZFNIQkYxaEVuWUFBc1lCUmxYYVNzVldzeklxWXRsVndOWG5rdmdTelN3aEN0VV9GTU9ieDU2LTlnZHlPRVlfc2c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T18:00:41",
+      "description": "Hot, dry and hurricane-scarred: How climate change fueled wildfires in Georgia and Florida NBC News",
+      "summary": {
+        "phenomenon": "조지아와 플로리다에서 산불이 발생했다.",
+        "cause": "덥고 건조한 날씨와 허리케인으로 인한 피해가 기후 변화와 결합하여 이 지역의 산불을 부추긴 것으로 분석되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "39",
+      "title": "상원의원 후보, '미국은 기후 변화에 맞서 중국과 훨씬 더 협력해야 한다'고 말해 - 폭스 뉴스",
+      "original_title": "Senate hopeful says US should be 'far more cooperative' with China to fight climate change - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzZSRHhma3Zsd2RqR1lmLThlbmdIUnhEcDl5Y2NTUmU0THRxdEZKWUFHOVBRTExmdjV1cXRYQ1ptZkdfUFNlUU9DZk00TWtXTXVrRDhqbTNQTVNmR1Q4RjJuZHM2U21VMWk4bTVwd09VVDRLNzExSmwtODRQTXdPUXNReWhNWnU3YkJmMEFoU1VxOU5HNE9fdld1N0xuVWI5ZmU0dUdJLTZXc0EtYlVj0gG0AUFVX3lxTFBtcHpOb1hmeDlIRGc1Q3dHWnBEa3o4bTFpT2tLS1ZfWHdsQ3lRb1JyMS11R2cxZzlrRlZWUkZkbXFZNFN2QkZ4NjY3Qnhtamwxc1RKZFBOMVdPNE5MT21WMmQ2cmNlYUNaZGd6ZkprYV9ZdkVTS3ROcFhLbS1rcFBMXzlzN3I3X2hzb0J1bU5ORWU5U0g1Y0RhMXpHQk9pZXh5WnQ2ZkxrVHg5YjBGT1BnUDk4Mg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T12:46:28",
+      "description": "Senate hopeful says US should be 'far more cooperative' with China to fight climate change Fox News",
+      "summary": {
+        "phenomenon": "한 상원의원 후보가 미국이 기후 변화에 대응하기 위해 중국과 더 협력해야 한다고 발언했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "상원의원 후보",
+        "미국",
+        "중국",
+        "기후 변화",
+        "협력"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "40",
+      "title": "지금 기후 행동을 미루면 왜 2100년까지 해수면이 더 높아지는가 – 새로운 연구",
+      "original_title": "Why delaying climate action now means higher seas by 2100 – new research - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUGpjTUhHSGJzTTJNMVJkbkhHTVZZUmFTRzdMclJxZEFkWkM5bmgtMldRRTJmMUxNQ1NxU3JLVWlDa3NwMWNfYm9XRy11UHN6OE4yaGxhdnVWSEhPSUdkVkpwUGYydGhVRUt3aWp2VmpTRm9WQWdjT1NPVEo3Wm5Ba1c1bGtRQTZXZ05JOFBfckMtNWdDWG9mSm9xeU1uaXNVclJRd01hTEg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T10:18:19",
+      "description": "Why delaying climate action now means higher seas by 2100 – new research The Conversation",
+      "summary": {
+        "phenomenon": "새로운 연구에 따르면, 현재 기후 행동을 지연하면 2100년까지 해수면이 더 높아질 것으로 예측된다.",
+        "cause": "기후 행동 지연이 해수면 상승을 가속화하는 과학적 메커니즘은 기사에서 구체적으로 언급되지 않았다.",
+        "outlook": "현재 기후 행동을 미룰 경우 2100년까지 해수면이 더 높아질 것이라는 전망이 제시되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 행동",
+        "해수면 상승",
+        "지연",
+        "2100년",
+        "새로운 연구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "41",
+      "title": "OMSI, 기후 변화에 초점을 맞춰 자연 과학관 재개관 - 윌라멧 위크",
+      "original_title": "OMSI Reopens Natural Sciences Hall With Focus on Climate Change - Willamette Week",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzlRS19MUlEwUXFBaHdMcFhzYThncDlXVktCX0N3bGpPc1FYZlJHRmZENGtteHlZRmhCV2lKTHVtaUFFdG9PaVZSb3llbzFFUFFFUU44Qk40cTAxZktYUTRzb1Qydi1NX1lCOWdCeUJGRlVNZmI5eUdoMkQ3T2NReDNFYmhQT1NsYmpoczcweGIxUjhJWm1KUGpnSUE3TjZuUnNwOTRmN2o?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T19:51:26",
+      "description": "OMSI Reopens Natural Sciences Hall With Focus on Climate Change Willamette Week",
+      "summary": {
+        "phenomenon": "OMSI(오레곤 과학 산업 박물관)가 자연 과학관을 재개관했으며, 이번 재개관은 기후 변화에 초점을 맞추고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "OMSI",
+        "재개관",
+        "자연 과학관",
+        "기후 변화",
+        "중점"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "Climate change demands a smarter approach to healthcare - The Daily Star",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZlp1TlVheVFGOVhfTkk4OTVJS1RJd1RkYjE3eHlWWG9Vc2JfY01aOFh4M3hvbWJSemxvUTk3ZnpvbkJta2dSTU9OYTAyUmwxS2FpMWcxeEc1VWFnUW05dnVrRW8xc1UyUWQ1OFRNZHlOSGhtaFBQYkdaM19YY2M3dmhCS1FkQ3VCckFlVlE1RTlXd1NpOEg3VUpGZHdZTnE3RnNGYi0tYjdNQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T19:02:25",
+      "description": "Climate change demands a smarter approach to healthcare The Daily Star",
+      "summary": {
+        "phenomenon": "기후 변화가 의료 시스템에 대한 더 현명한 접근 방식을 요구하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화로 인해 의료 시스템이 변화하거나 새로운 접근 방식을 채택해야 할 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "프랑스, 미국과의 충돌 피하려 G7 의제에서 기후 변화 제외",
+      "original_title": "France Kept Climate Change off G7 Agenda to Avoid Clash With US - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVjRLNjFGLTNvQklsWGt0UG9XS2VGRlpiSzFWdTluY2dHMW1fZ1Rpd01LM2RXUl8zRUoxTkd6WDRLZ1VrdHByWGN3NFBxT25ZN2xpMldyLS1SdUhmbHRYWkFFMXk1T280MmttU0FtLUIxN01kbTE1d0VQcWYwdDRhUENLN3ZOQ0tfbUwwOEJ0TDJ4cUFpS1p4QW1uLVVFWmp6cTZ2MzFGOWFqWWt5VVRUNTM2ZmNvd2Zi?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:46:00",
+      "description": "France Kept Climate Change off G7 Agenda to Avoid Clash With US U.S. News & World Report",
+      "summary": {
+        "phenomenon": "프랑스가 G7 의제에서 기후 변화를 제외했다.",
+        "cause": "프랑스는 미국과의 충돌을 피하기 위해 기후 변화를 G7 의제에서 제외했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "프랑스",
+        "G7",
+        "기후 변화",
+        "미국",
+        "충돌 회피"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "Climate change lawsuits against fossil fuel companies would be blocked under Louisiana proposal - Louisiana Illuminator",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iM0NNaGV2aUdXN3NWa3d5MVBubkhtWEZmd2prcG95cFhWdmZiUlJTYWJwYVQ0eTVyTjJWN3hieXcyNmcyWjRESE5UTVZNQ2VpQjRrejJzY3hXaEJzZW5aMkxXaHJlOEg0TGN4ZVd3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T18:51:41",
+      "description": "Climate change lawsuits against fossil fuel companies would be blocked under Louisiana proposal Louisiana Illuminator",
+      "summary": {
+        "phenomenon": "루이지애나주의 한 제안에 따라 화석 연료 기업에 대한 기후 변화 소송이 차단될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "루이지애나주에서 화석 연료 기업에 대한 기후 변화 관련 법적 대응이 어려워질 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "유진 작곡가, 신작 뮤지컬 '워터웍스'에서 기후 변화와 인간과 자연의 관계 탐구 - NPR 포 오레고니언스",
+      "original_title": "Eugene composer explores climate change, humanity’s relationship to nature in a new musical ‘WaterWorks’ - NPR for Oregonians",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUTlGLWZWdGhmbUFDUnNBMDB3LTlreGR5TU41c2l0emEtS2hxbjMwUGRJSUJXaHVucDBBcTYyQVFjV25LWmp4OU9TN1B6a1p1ZXZKSXA2cXdSeUZaTFRpUHNIbjVyOHNvWUYtdWJNSlNrQVBBZlVrQWhSbm5XOE5yVmZMS3g2M3BET3JDNWNyQzNFRVQ4Q1EzYzNJVlZFQmpPM01hMnZCcHptdTJaLVVQelNNYlE2b19iYy1BZndlS0pRa2JTTU9pUjZiRU1KWUpYT0RhODEzcVJDbmJ5cUE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T13:14:00",
+      "description": "Eugene composer explores climate change, humanity’s relationship to nature in a new musical ‘WaterWorks’ NPR for Oregonians",
+      "summary": {
+        "phenomenon": "유진의 한 작곡가가 신작 뮤지컬 '워터웍스'를 통해 기후 변화와 인간과 자연의 관계를 탐구하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "유진 작곡가",
+        "기후 변화",
+        "인간과 자연",
+        "뮤지컬",
+        "워터웍스"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "G7 환경 정상회담에서 기후 변화 의제 제외, 미국 주도로 - 법원 뉴스",
+      "original_title": "Climate change off the table at G7 environmental summit, courtesy of US - Courthouse News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0ltVWdEZnk1YlhqVERXSmcyYVVlenJTTVV3OTlZbGVTQy1PLWE1UVBxTnJBc3ZaamJENk90d0xEcmdpQWpZQWRyZU5uR215b1JyZ3dqdFVic29adVBvejA5WEUyOWlSdEVmLTBPVXh6Tm8zdHpRbzk0T0ROTlR3VU9IZ0hLeTVjTUJqQUhHWnpCaWlCcXdnSkFCSkgzRjc5ZkMxeQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T15:44:52",
+      "description": "Climate change off the table at G7 environmental summit, courtesy of US Courthouse News",
+      "summary": {
+        "phenomenon": "G7 환경 정상회담에서 기후 변화 의제가 제외되었다.",
+        "cause": "미국 주도로 기후 변화 의제가 G7 환경 정상회담에서 제외되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "G7",
+        "환경 정상회담",
+        "미국",
+        "의제 제외"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "버지니아주 기후 변화 교육 법안 제정 - 국립 과학 교육 센터",
+      "original_title": "Climate change education legislation in Virginia enacted - National Center for Science Education",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEZS12RzFSUl9ibjNXNVc2bzFzWFJ4VDk3bm41cEFDamZ4bVpzbUxKUzZHRGFONmZ2UDdDWHB2MEFDdWdpRW9NOGItWDhlQzNlYl93WHhweTVJdWdwOGt1LWMyejJJbEJfbVBXRHZ6dm1oaXlJc3ZSQUx3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T19:05:33",
+      "description": "Climate change education legislation in Virginia enacted National Center for Science Education",
+      "summary": {
+        "phenomenon": "버지니아주에서 기후 변화 교육 법안이 제정되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "버지니아주에서 기후 변화 교육이 법적으로 의무화되거나 강화될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "교육",
+        "법안",
+        "버지니아",
+        "제정"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "퀴즈: 기후 변화가 우리가 먹는 것에 어떻게 영향을 미치고 있나요? - 빌 게이츠 재단",
+      "original_title": "QUIZ: How is climate change affecting what we eat? - Gates Foundation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQU9xOEZKNzhQSkRkY1lDSVRTU0JOdDhIZzdnRWg4SUwyeDVGUFR2cHQ0WkJwanluWGJhV0pvZ1k3ZUphcEZHSnI2Z3duYk9IU1NfSUlpRXFkbUdmQWlTR3FNQXBCUXAtU0MwMkNsZmVlakliSkdFWHk2clAyZXhQcHJpMnpKWWxTOHBZNmxhUzFTdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T19:30:00",
+      "description": "QUIZ: How is climate change affecting what we eat? Gates Foundation",
+      "summary": {
+        "phenomenon": "기후 변화가 인류의 식량에 영향을 미치고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화로 인해 인류의 식량 공급 및 소비 패턴에 변화가 있을 것으로 예상된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "식량",
+        "빌 게이츠 재단",
+        "퀴즈",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화로 심화된 심각한 해양 폭염, 캘리포니아와 멕시코 연안에서 확산 중 - Climate Central",
+      "original_title": "A severe marine heatwave, intensified by climate change, is growing off the coast of California and Mexico - Climate Central",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUWFEcUJDVmRoRW11TmZFRnZBcV81TUVfSnFxRHhVcGU3WnlLVkhxWklvTV9lSDB2VG83SU1hc05fT3lvN2JaMWtaX2JjRWFpeUxiTDRTbDhiU1JWMFpDRXZMOUNXN3U1STVwOFAySzRmektPTnhldDZBSUFLb0huZFk5VVdKOVVEb1V3SEo2MHgxVTZnbjREd21VOXQ0UUdsbFFaTFFpdU9XemJBMnJObGl3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T18:41:19",
+      "description": "A severe marine heatwave, intensified by climate change, is growing off the coast of California and Mexico Climate Central",
+      "summary": {
+        "phenomenon": "캘리포니아와 멕시코 연안에서 심각한 해양 폭염이 확산되고 있다.",
+        "cause": "이 해양 폭염은 기후 변화에 의해 심화되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "해양 폭염",
+        "기후 변화",
+        "캘리포니아",
+        "멕시코",
+        "심화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "염습지, 기후 변화로 압력 가중 - 더 빈야드 가제트",
+      "original_title": "Salt Marshes Face Increasing Pressure Under Climate Change - The Vineyard Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0lOVWM1SmdzTWo0REpDbmlPeDJlTDhzeVFIRXpCM0tLcGlDc3RyQjJTZ2VXUUx4dV9XMzVBbFAyREM1TDN1ZmtfLXA4WGUxc2Rjbnd6OTdVMVVuVFhmcTBzeGY1S3JnNXpwd0ZJUzc4OC1BUm9WM25WelJvN0VOWE9seXR0RFU5Um1sZURuM2JyZTdjYUhfdnZaaHpzSXc4Ri15Vw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T20:30:00",
+      "description": "Salt Marshes Face Increasing Pressure Under Climate Change The Vineyard Gazette",
+      "summary": {
+        "phenomenon": "염습지가 기후 변화로 인해 압력을 받고 있다.",
+        "cause": "기후 변화가 염습지에 대한 압력을 가중시키는 원인이다.",
+        "outlook": "기후 변화가 지속될 경우 염습지에 대한 압력이 더욱 심화될 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "염습지",
+        "기후변화",
+        "압력",
+        "증가",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "프랑스, 미국과의 충돌 피하려 G7 의제에서 기후 변화 제외",
+      "original_title": "France kept climate change off G7 agenda to avoid clash with US - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVF0TFlBSFNHck81QjJob05lSzVCdWVLNVpCZnpmZHlzaVpXb0pQaVQzYmxKQUppOGtnay0yX2dQQmhGaVl4T2RlSVlmOHZwY0NZTTNvU1VNOC00TlVQZ0lzSzE0U3pQUm02QldNMVVpY2RIX3FqSWdSdjVMSHpKVUtaS25Ja3ItbUc3Y05Ic1hCLU9ueFhEbDZBX01yVFNxSExTUHo1QmpnVWU0UU9pVXRQbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:47:43",
+      "description": "France kept climate change off G7 agenda to avoid clash with US Reuters",
+      "summary": {
+        "phenomenon": "프랑스는 미국과의 충돌을 피하기 위해 G7 의제에서 기후 변화를 제외했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "프랑스",
+        "G7",
+        "미국",
+        "기후 변화",
+        "충돌"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "수생 양치식물 물개구리밥(Marsileaceae)의 기후 변화로 인한 서식지 축소: 습지 식물 보전에 대한 시사점 - 네이처",
+      "original_title": "Climate change–driven range contraction in the aquatic Fern Marsilea minuta L. (Marsileaceae): implications for wetland plant conservation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hUXFQVU9MRUtPcWdydGlMR3JhOHk4V1ZVd0ctYlpLRE9YRTUxanBDUWgwWTJpN3FYTlh0N0xiZmJhNHpJeFdaSTNLNnZtWXFud2hhcTZpRmhKSzZDWnFz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:49:45",
+      "description": "Climate change–driven range contraction in the aquatic Fern Marsilea minuta L. (Marsileaceae): implications for wetland plant conservation Nature",
+      "summary": {
+        "phenomenon": "수생 양치식물인 물개구리밥(Marsilea minuta L.)의 서식지가 기후 변화로 인해 축소되었다.",
+        "cause": "기후 변화가 물개구리밥의 서식지 축소를 야기했다.",
+        "outlook": "이는 습지 식물 보전에 대한 시사점을 가진다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "서식지 축소",
+        "물개구리밥",
+        "습지 식물",
+        "식물 보전"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "53",
+      "title": "Why Are We Lying About Climate Change (Even When We’re Right) | by Ricky Lanusse | Southern Winds | Apr, 2026 - Medium",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBNRkxXcHc3LVk4WmwzS3JIWU5jeWxEaFViXzUyUlc5UFlmWmx2NW1kc1ZpQldkTjRSZl8xTkhnS3c5R0lyTFRCeDluOWhsdXVJUkJiSFVjYzhiMy1HY3pJRzdjd3ZhWEFQMjZPdTFoQ3pFZWdveHFqU2pwWGpGbHlJTGljaGRNWmotOURza0RUWEJQRXFicU1vbGJ6T1lIUkxobWQ3OFY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T11:16:01",
+      "description": "Why Are We Lying About Climate Change (Even When We’re Right) | by Ricky Lanusse | Southern Winds | Apr, 2026 Medium",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "54",
+      "title": "재활, 선거, 기후 변화 등 | 오늘의 이야기 | 4월 24일 - SDPB",
+      "original_title": "Rehabilitation, elections, climate change and more | Today's Stories | April 24 - SDPB",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnVxdDZEcGg0VUppTGoyTmxlak82dXlRLS05dThjdGhYb2h6cHRvYWVPYU9yOUY5ZnJvbUhlNXJjQVc5UWwyT2RIRFVwcnJzR0FTVERlR25RZm5nZVRlZmxyNE16WUJ3NmNSRkJIc1VDVVlrYkVNaTBTUjkzVVdETTN2d3YtMDZ2RzJlaGJGODRTbUh4cXllVWw3YkpyazhfMUxFSmhJVmRBLVdSdXFFWkp3dkJBWW5TZ0RKclFCRQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:35:00",
+      "description": "Rehabilitation, elections, climate change and more | Today's Stories | April 24 SDPB",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "재활",
+        "선거",
+        "오늘의 이야기",
+        "SDPB"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "55",
+      "title": "기후 변화가 비버를 북쪽으로 몰아 북극을 재편한다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - KTEN",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZFpwcTcxMnVzSS1yVlo3ZFFJTTdzOVdMaGEyb3I0MVYwMElpRndfUVp2REFzWmlPVW5YcGUyUlZkUmpmLUN4Ul9GTm52UmtSRnR3NjdrRU9GMHNPSVJoTXl6TjQ2SDU0RUM0MmhWS0cyNEdGQ1Y0cnJfWmcwdVB1WUc5Z2FBRlZtRGJteUhkeEhrWkRQSGI1TE5NRlpzRElSWC0xeGxFU3liUUZ0X25pVGRJTy1fa3poNjgydFJWQWZiMXR4UGFJMV8tczR1THBlNTVPRDY3QWMyV1ZF?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go KTEN",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 비버가 북쪽으로 이동하고 있으며, 이로 인해 북극 지역이 재편되고 있다.",
+        "cause": "기후 변화가 비버를 북쪽으로 이동시키는 원인이다.",
+        "outlook": "비버의 북상으로 북극 생태계가 재편될 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "북상",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "56",
+      "title": "Gov. Evers Highlights New Online Resources During Earth Week to Help Wisconsinites Protect the Planet, Themselves, and Others Amid Growing Concerns About Climate Change - Urban Milwaukee",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOWm1TaXRKcTk1S255QTJjUnNKTFFWSkN3eF9pdE85YVM0RjlScklyUlk2SU5yQmxpeDJSRm1kLUt4ZHJmbXh1TU53QXVkQjRTbEdiS0xKMkVhb0pMbnlnY0dGMXpZMDB5T0o2OVVTcmVJZzNFUnE4RjhuWVVkWmpwcm1vbVpfTzhUc3AxSUFmV0E2WWZjQUlaUHNLNDVXdDdLQ3R2UmxrTE9odHNKWEdKd0FHMWJBZ3Vwa1FWVl9qOUhCVklCTXFJSlhKS0NsQkpNdERTeUxIbjNFV0JCaG5TeUJCd0ZpUEhvYk4zdE5wSzdMUFRobGlFYTJuS2lVNFBWSVVwTVJzZ3ZiTVk3SktPaFN3RndXQjYtQ2dQYmJtS0lBSVU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:37:00",
+      "description": "Gov. Evers Highlights New Online Resources During Earth Week to Help Wisconsinites Protect the Planet, Themselves, and Others Amid Growing Concerns About Climate Change Urban Milwaukee",
+      "summary": {
+        "phenomenon": "기후 변화에 대한 우려가 증가하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "에버스 주지사는 지구의 날 주간 동안 위스콘신 주민들이 지구와 자신, 타인을 보호하는 데 도움이 되는 새로운 온라인 자료를 강조했다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "57",
+      "title": "기후 변화 심화에도 북미 멸종 위기 쥐, 강한 회복력 입증",
+      "original_title": "Most endangered mouse in North America is proving to be very resilient as climate change intensifies - Earth.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWGlMTFFlaXFLaHRvb0FDU0xDcG43aU1ta0dDcGhKaWR2SHQ5Wko0cXR3N2lQeFdQMGsxLWVORW51M25sQW1oX3dlQkZCTjNqN2FqM1V3b1BmSlRuUFFXRUQ4U1FWODJnMDVMeGtjaHFNcGF1cmFxVno5T1RuV055TTdUM1lpckRLRFV5ZjdKdEZHYV8tSWpFV1Z1eF8xcDR6Nnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T17:47:27",
+      "description": "Most endangered mouse in North America is proving to be very resilient as climate change intensifies Earth.com",
+      "summary": {
+        "phenomenon": "북미에서 가장 멸종 위기에 처한 쥐가 기후 변화가 심화되는 상황에서도 강한 회복력을 보이고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "멸종 위기종",
+        "북미",
+        "회복력",
+        "기후 변화",
+        "생존"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "58",
+      "title": "Beavers Are Ecosystem Engineers—and They Might Be Helpful Allies in the Fight Against Human-Caused Climate Change - Smithsonian Magazine",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXlIejc3TEpqYmsyeDVOMnIzZFBydTZEbXZKX054bjYtYnpsaGFCa2hWMTFBNjYyRjhFWldFLVpUcmF4WThaTXVMaVhackVjWlBYX2ZHZm5PV1lBLTZUWTNtRnZvRF8zZ3NzZHBqb0hwUWFSVjd2bENwalpZWmwtNXlHSUFHN1JsWUthOS1QSG1QMUFDRmxRRkJCWDd4MDFTMzhCVV91UmFJcTl6SXZNeGMwQjg1SGdkRXc5TEZuZmFUdC1ldmlidjVpSkpMQnVWdmppMm1pRFRSQkJhbHpROFZhalo0VjBPNmJTb2lvRFIwbU9hMjNadWRR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:36:06",
+      "description": "Beavers Are Ecosystem Engineers—and They Might Be Helpful Allies in the Fight Against Human-Caused Climate Change Smithsonian Magazine",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "비버는 생태계 엔지니어로서 인간이 야기한 기후 변화에 맞서는 데 도움이 되는 동맹이 될 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "59",
+      "title": "Can a Four-Day Workweek Help Fight Climate Change? - Hungarian Conservative",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX2YxU3Bwd1puRlJNOURQa1BZckg0OWNla2RsWE5KUHA1NmUzekFKUjM2aW1JdnVKOUNwd2w1VW9JaHRaWktaaDVmb1hlVGRfZ1Jla3VfcFpvekxvNzc0cFBDQllEUDdOalZsT0VKNlRuYTBLeWFwZTRjRWhQR2EtSzJOdGlPX1U3VEVHb2x5aw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T09:00:44",
+      "description": "Can a Four-Day Workweek Help Fight Climate Change? Hungarian Conservative",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "60",
+      "title": "루이지애나, 석유 기업 대상 기후 변화 소송 차단에 한 걸음 더 다가서다",
+      "original_title": "Louisiana moves a step closer to blocking climate change lawsuits against oil companies - The Advocate",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZldZdEFYYnRhWTN1dTg1dkUyNHM3SDctb1ltdzRrazlQeWxCbDhaQTMyVTZDa2haVWtfT1NsLVNXWnJZU20tNE9OejAxaEo1NTRrYmd1VDBObHlsdm1fNUYyS1pseVVQT3dsYS1wb3NqS0N0UDYtaVpBN3lPNDJXNVNhdXdBMk96THU1UFFlR0VZRXFWNU83MkpwT2JxVkF0ZDFNZUFzODZhNzVxcE5qdmxXRmtCMVpoSUhkUUxGWmdYRE90Wm1IZWVLcHAzMDU4dUtKRGFjdHB5RnEyYVpRdDBKaG5VWG41cUVv?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T12:00:00",
+      "description": "Louisiana moves a step closer to blocking climate change lawsuits against oil companies The Advocate",
+      "summary": {
+        "phenomenon": "루이지애나 주가 석유 기업을 대상으로 한 기후 변화 소송을 차단하는 데 한 걸음 더 다가섰다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "루이지애나",
+        "기후 변화",
+        "소송",
+        "석유 회사",
+        "차단"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "61",
+      "title": "기후 변화가 비버를 북쪽으로 이동시키고, 그들이 이동하면서 북극을 재형성한다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - hpenews.com",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOE9yM0lldEx2cmlHVXV6UW8yVFdPR1d3NTV1ZGpseVNOODdtcC1GQndZNTJiVEY3aS1tUmVWazY5WHlSU3lRLUVDVkdGaHI4U2VVWmVnMms1dzNEbWNoTUt1T1RKdHRGOXVZQ29mckNaOHhYXzU0VWFsV0swYUc1RTNIamZFQXAtOHJRdDRjYzBJTzFvQ2ZYSVYyU3R2OGN3aElPUWdjcnlwLU9RRmh1eURjLU02RG1wOEZ2U19lMDk5djZZTUdUUXNoZk1ET1RDSTdsS3dtaU4zRkIwUlg4ZnVTQ1hpSk9pbEFiQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go hpenews.com",
+      "summary": {
+        "phenomenon": "비버가 북쪽으로 이동하고 있다.",
+        "cause": "기후 변화가 비버의 북쪽 이동을 유발하고 있다.",
+        "outlook": "비버의 이동으로 북극이 재형성될 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "북상",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "62",
+      "title": "기후 변화가 비버를 북상시키고 북극을 재형성한다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMUNUeTV5T2J1cnBac1VKSHZDc1pld2RjVzlwU1FiMTZyYUlBVmVaSEtPTEc0ZnBjTm9meXpOSGpwSUtLNWtFNHVabFVYSnFJanNRWUx6LWp3anFCZmlROGYxM1JDbk8tOWtyX21EZUdHWTZyTlRpcGNjbE5RU0Q4Y0wzdzk0aldTTDh2QTdyeHFYcFozQlZKSktmaF9Kc2N5U0NIckRBMGQyRXhna3lxZ3Zsd1p0WWFQTUZXZVBRazhSeTJvc0tkMkJYVWROaUVXeW1zbVRJaFBXLXBvdTBrclNuV3k?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go The Killeen Daily Herald",
+      "summary": {
+        "phenomenon": "비버가 북쪽으로 이동하고 있다.",
+        "cause": "기후 변화가 비버의 북쪽 이동을 유발하고 있다.",
+        "outlook": "비버의 이동으로 북극이 재형성될 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "북상",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "63",
+      "title": "기후 변화가 비버를 북상시키고 북극을 재편성하다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - The Herald Palladium",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORWlfN0NvM2RNcm1Xb1lHTkVFVjdUelUxMU5xVno1T1FMMkpNWGVZM2dVZ054YnVuekJwQnlWM0Uwckw2TWpCY0tlVzlSMHlBVUw2cWY2VzdUcEVtQ1JsTG4tdXU1SGNzWm96LU5KRDZCWW40QkRSeHNqaFdCenlLaXhRT3U4UUdhMmdwaVZmTUNLdkhVbWptQVVxeE1jZ2VKakdTLTVLbTh3NGFjWXRWdDRRT3dKS2xHOGJoTGs5SGJXc1F3VDRkeTVQNUdyVmVSQUtmMVctRzMxM3UwcjFOMEEtNklnVGdyUURNYURJUGNPdHZrNHVF?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T20:31:57",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go The Herald Palladium",
+      "summary": {
+        "phenomenon": "비버가 북쪽으로 이동하고 있다.",
+        "cause": "기후 변화가 비버의 북쪽 이동을 유발하고 있다.",
+        "outlook": "비버의 이동으로 북극이 재형성될 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "생태계 변화",
+        "북상"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "64",
+      "title": "기후 변화로 콜로라도 주민들에게 370억 달러 비용 예상 - SnowBrains",
+      "original_title": "Climate Change Estimated To Cost Coloradans $37 Billion - SnowBrains",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeTd6aXBucWQyN19xcDRjYUl2aDlRdkJiWkU0S1BjNUxja2dHNzVKdk5tZnRKZ0dOVmdDZ1JfSWFISE93S01MMXJ0Mkd5eHJKaERKWXQ2YkhBeHdNeXpWS1NkaXRPSG9ZeFJFUkZ4eW0yODE2NTZ5aDFSV2VQMndqSUZ6UVo?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:16:09",
+      "description": "Climate Change Estimated To Cost Coloradans $37 Billion SnowBrains",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 콜로라도 주민들에게 370억 달러의 비용이 예상된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "콜로라도 주민들은 기후 변화로 인해 370억 달러의 비용을 지불하게 될 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비용",
+        "콜로라도",
+        "370억 달러",
+        "예상"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "65",
+      "title": "조지아 산불, 미국 동부 기후 변화 영향 강조 - 야후",
+      "original_title": "Wildfire in Georgia underscores climate change impact in Eastern US - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3M3dXdjQ0J1RzFmQ0R2R1Q4MTM5RTF2T3FDUUNUYUFodHB6aGZ4NHZRSU8zb01xMk5saGxqcnowRGRNRkkyUmNIZGExLXNKZm1GSzdGOTZWNFFrX1JwdE9BRFhPVUQwT2pqeldWNGxMbHZkdktSNkYzQTRuNUJhbmdMbDlwTVZQWjBiWExCUnRKS212enR4SkFn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T15:11:12",
+      "description": "Wildfire in Georgia underscores climate change impact in Eastern US Yahoo",
+      "summary": {
+        "phenomenon": "조지아에서 산불이 발생했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "산불",
+        "조지아",
+        "기후 변화",
+        "영향",
+        "미국 동부"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "66",
+      "title": "연구 스포트라이트: N2O 분해, 기후 변화 대응에 중요한 방법 - 더 데일리 에버그린",
+      "original_title": "Research Spotlight: Breaking down N2O, an important way to help fight climate change - The Daily Evergreen",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQkV2WmU2SWZ2RHAxU1ROMXU5RU04ZFlwWlFCTGdoX1JCbHN0M2J5dGF4b0dCUEc0eHNmQmtPWkpyc3N6ME0xTmxwVGpDVHpGZ0RpUUtrMWZJcFVJUkFvc2t6cHhiaUl5YThNTktCNHNqLWQyOTFEZ1dic3Y2cEEyTllBdHZNQjZ3U29CZ3NSN2FqemJhQ2o3VkNVWlQ0OXJKN18zc1pLWVlGSE05Nl9Tdm13Y0VJeFBEaHFYeEo4cw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T21:25:16",
+      "description": "Research Spotlight: Breaking down N2O, an important way to help fight climate change The Daily Evergreen",
+      "summary": {
+        "phenomenon": "N2O(아산화질소)를 분해하는 연구가 진행되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "N2O 분해는 기후 변화에 대응하는 중요한 방법이 될 것이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "아산화질소",
+        "N2O",
+        "분해",
+        "기후 변화",
+        "연구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "67",
+      "title": "생물 다양성, 이미 기후 변화로 영향받아",
+      "original_title": "Biodiversity already affected by climate change - MessageMedia.co",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZzFnOU1lYkRuRDdZd1M0cHMzZjFsdUdUSHIxcERCUldwRFpobWpEOHAyTThDMDJkeUwtMi1OZDVWTHRhempIU1BoU0k2SHdzcjh4Z2dqSVdkeG9YLWtrbVRKTlZhUGxPZWVoOU5iVG91QkdvMWpONHdmQXBveXBpQWJzQ2t0bmpGbktrMG9LUXRaS0xDaUozWW9aTVJERVdzT0M2TGRnZUlyRUFHNmlxREdYNjlzNHVhUmoxRm5SbFNKSzZmeks3UWlpbU1FaklmLTF5ZHZMOUswZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T08:30:00",
+      "description": "Biodiversity already affected by climate change MessageMedia.co",
+      "summary": {
+        "phenomenon": "생물 다양성이 이미 기후 변화로 인해 영향을 받고 있다.",
+        "cause": "기후 변화가 생물 다양성에 영향을 미치고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "생물 다양성",
+        "기후 변화",
+        "영향",
+        "이미",
+        "위기"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "68",
+      "title": "프랑스, 미국 달래려 G7 환경 정상회담 의제에서 기후 변화 제외 - RFI",
+      "original_title": "France leaves climate change off G7 environment summit agenda to placate US - RFI",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcl9sMldsSGhKXzMtNzNOTVhXY3lQdGVHUzRLMDI2RU43a0N3Z1RxNTZaZF9fdnUxc3VsazZ2cXIwR1JEYXB2dXozOXN1Sk5pN1RQNTJnWmhuRzVhaHFPRmdCcUEwRW5JVlhSSG9QUnFqX3doWWJWTUlGaHhPTHd5Rzk2TDkxNVFHNmUzWHo0Qkg4X1RwY1U3azhXMDBGd3JFc2NXSTV5dTJlbU0wTkJSR21QQldHS2lnclE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T10:04:23",
+      "description": "France leaves climate change off G7 environment summit agenda to placate US RFI",
+      "summary": {
+        "phenomenon": "프랑스가 G7 환경 정상회담 의제에서 기후 변화를 제외했다.",
+        "cause": "프랑스가 미국을 달래기 위해 기후 변화를 의제에서 제외했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "프랑스",
+        "G7",
+        "기후 변화",
+        "의제",
+        "미국"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "69",
+      "title": "기후 변화가 비버를 북상시키며 북극을 재형성한다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - Key Biscayne Portal",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOai1Bb1ZlMEdRZWpUcTh1V2R1cGxjNEVWUm9WSTZRNWUyems0UGlyUzJNdU95a1pZYkFybnduQU11d2RSQzVyS1VoWFowNDJrZExzVUNyS0IzNklZRDNKZDlJRjVXdS1BekJRX3ZMR2FWQ2RhUU1WWXBMUG5PLVJEdkxwWjRDZ2hZbURMTXFvdVhaeHhGX0RHRzhjdUl3SElKUk5fZVFKS3M5bHowVTJyeHpLV1BNNXo1R05wTzBYbXoyX1NUZkF3bEZlM05EdFV3aXZaTnhMNUhHRTJOemhwZG5QUnVWX1o5ZUZhWTNkZHFDZExJUmxPdmhB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go Key Biscayne Portal",
+      "summary": {
+        "phenomenon": "비버가 북쪽으로 이동하고 있다.",
+        "cause": "기후 변화가 비버의 북쪽 이동을 유발하고 있다.",
+        "outlook": "비버의 이동으로 북극이 재형성될 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "생태계 변화",
+        "북상"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "70",
+      "title": "Climate change driving beavers north and reshaping Arctic as they go - mydailyrecord.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQODVoRzlHWGpyMXh1Umt4WXRXM0pCOUo0TmtNcDdXLW5QNG85TmJkNFJqMUZhbjZVSklaX0s5Zzl2ZUdWR3ptWmREaS1OUzNXcVl6WUFlWUw3N3AwX0otWFRnVExWSjFOSU16X0RJU1Z2T3JSR0JteDFVTEhtaWpVY09pV1JQQ2V0Y044UENyM21ZSGRSUzJOZmVTdXBkZjNsTEZxVnhMdkE0QUVnZU9SeDh0aDJhcDBiZFNaeVdGOVF6WVhfZTMyZDhmdmVJLXRZQ3lIMGtTdl83dDlPdjlkWFNxdHZVX2dkU3F5MTZuY3hWMml5?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go mydailyrecord.com",
+      "summary": {
+        "phenomenon": "비버가 북쪽으로 이동하고 있다.",
+        "cause": "기후 변화가 비버의 북쪽 이동을 유발하고 있다.",
+        "outlook": "비버의 이동으로 북극이 재형성될 것이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "71",
+      "title": "기후 변화가 비버를 북쪽으로 몰아붙여 북극을 재편한다 - 노스웨스트 시그널",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - Northwest Signal",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkdyV2UySko4WGctUmVTU1FibFhiME4tMFZpRmlKNHVwekVmMURsTmdTYjZ5T2lrc3lMMFdvUnYtdVpuQVhoU25naFpkZUhNRjdUbVpIMG1LTEluLUpQbTZJNWJHZnhPRzlhQVRkOTZGYTN2MjNmYkduM19jaXFOaDlBZDFYTDRPQkZJUEYxOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go Northwest Signal",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 비버들이 북쪽으로 이동하고 있습니다.",
+        "cause": "기후 변화가 비버들의 북상 이동을 촉진하고 있습니다.",
+        "outlook": "비버들의 이동은 북극 지역을 재편하고 있습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "북상",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "72",
+      "title": "Coolcations and Responsible Tourism: How Climate Change Is Shaping Travel, All You Need To Know - Travel And Tour World",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLTdhWkE2eDlEQ3NQTS1HeEcwV1h5Z2lacFVod0VIRWRZSGpLM2MwTXJLLW0zXy1RTHotczlqWmplZFVkT0xwa01CdXFzYkNOei1nQ3gxczQ0andxQ3RXZ0wwSVg4UU52LUkzeExKVHNPZXA4N1plVWNHR1FfUlFJbzE0blFYeTE1dXBFWjhZMVhBX3ZZUGJ4Y0FlNm1vYVJTa1BtcUt0MzBDckFhb0QxYWgwbTAtLS04QS1DN0plZnQzbXNYdk5zTml5Z092dFljWElJUlpmRnM4dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T18:06:00",
+      "description": "Coolcations and Responsible Tourism: How Climate Change Is Shaping Travel, All You Need To Know Travel And Tour World",
+      "summary": {
+        "phenomenon": "기후 변화가 여행 방식에 영향을 미쳐 '쿨케이션(coolcations)' 및 책임감 있는 관광과 같은 새로운 여행 트렌드를 형성하고 있습니다.",
+        "cause": "기후 변화가 여행 산업의 변화를 이끄는 주요 원인입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "73",
+      "title": "기후 변화가 비버를 북상시키고 북극을 재편한다",
+      "original_title": "Climate change driving beavers north and reshaping Arctic as they go - Bryan Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1FuTGxkQVhHTDJ4ZnVFUGZEZExRV3NrZUxiYzhpSW1fd29mUGdKWXZwSFo0cENxaVItc1ZZM2txRmlXY0VGLUo1SGZBSG1uNWxaR0YxNDI2ckZKWERpaTZITlhlaE9ySDhROXVCR2VOSjNqbE9oVk9xcDJCMjRrVmFacURnd0JfcnN4V1NSenYwRFdGYVVuTmVoc296c015eERmcC1iX3pqX1JCUUpkZ2s1WDEyek5jdGVyblY0QVRrQ194VEt2ZjFrLW9BVVhfOHJIclZaNjVNZXVjRGVjUEJoME0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:28:05",
+      "description": "Climate change driving beavers north and reshaping Arctic as they go Bryan Times",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 비버들이 북쪽으로 이동하고 있습니다.",
+        "cause": "기후 변화가 비버들의 북상 이동을 촉진하고 있습니다.",
+        "outlook": "비버들의 이동은 북극 지역을 재편하고 있습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "비버",
+        "북극",
+        "북상",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "74",
+      "title": "기후 변화 주간 # 577— 풍력 발전을 위한 불법 벌목",
+      "original_title": "Climate Change Weekly # 577— Trees Illegally Logged for Wind Power - heartland.org",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDBPNklVWGtPZk82VDNXTFRyanEySXluX3VvMllZc2c2UEZhVFdnQUs1MFl6MUJ6OUNZR1p3R29RUDRBUlo4UGx3YmRUNHlNRFpIWkJvYmVLelFFeG5sNmZ2d0lFQ3daOV8zUkhrZ0RrODBMMmNpVXFYX0NmdWhScGp2QXhJME0xUkdHVFlKSWFwSnhGWUZUbUd3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T12:51:18",
+      "description": "Climate Change Weekly # 577— Trees Illegally Logged for Wind Power heartland.org",
+      "summary": {
+        "phenomenon": "풍력 발전을 위해 나무들이 불법적으로 벌목되고 있습니다.",
+        "cause": "벌목은 풍력 발전을 위해 이루어졌습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "불법 벌목",
+        "풍력 발전",
+        "환경 파괴",
+        "하트랜드 연구소"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "75",
+      "title": "식목일을 맞아, 기후 변화 완화를 위한 나무 심기에 대한 빌 게이츠의 발언을 되돌아본다: \"완전...\" - 디아리오 AS",
+      "original_title": "On Arbor Day we take a look back at Bill Gates’ remarks on planting trees to mitigate climate change: “complet - Diario AS",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRWNTZW04eHhDaFlPN2Y4allGRVEtaTdLZUZVeVZfeGJLdVBOdWV5ekpEaE9kcUJ5WFJrZm9DSnZjQlQ0bGNzX3I3TWJJNTZScmp6amUtdk1BZ0pCTF9kQWNRWEJVQVNLcFhaZ21neXIyRVNmVG0tNG80TVhpd0lndU44d3FFTHprZW1PaWNHSVgzZ1lqVVF4OS14MXpwYnVQYWM0eEtfOURxOC1yY3pMYlBfNERUZXJlQlBhcUJCN3pGZmxUWFBkNWtFQ3d2V191ZURkckZadUdWcnZ2eTh5MHRFck9tS2VidlRSQlJZTdIBgwJBVV95cUxOWFhwaGNmV1VMYTNieW9JanRYU2hTMnlZUGRsa2k4VHpHdHVsSVpfYzZDMXI5VWtESFdycUNCdk5NSW1IWXkyWDgwaDNaM1Fud1JVaXdOWkR6THJVbmlxSzUwZFROSDhaaWlsNHZvM3hHdFk4M2Z3eXlLY3RPTmhtNFhCaEd5WnF5X3g1UzBSOVZfS3dzdm5EanVCSHJ4TFpaMnFlaHc4R3dHeUtOWEVONHgtRDFRa29nRXpFN0puc3dXV0NneklFaUNSWlFFT3hqazJBV2lPUmZQWVNYamhHVEYxOGZybVFNSlU1c0tnSUk2cXJGVXZuRWk0RS1HZGpqMHpJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T14:10:00",
+      "description": "On Arbor Day we take a look back at Bill Gates’ remarks on planting trees to mitigate climate change: “complet Diario AS",
+      "summary": {
+        "phenomenon": "식목일을 맞아 빌 게이츠가 기후 변화 완화를 위한 나무 심기에 대해 언급한 발언이 재조명되었습니다.",
+        "cause": "기후 변화를 완화하기 위한 방안으로 나무 심기가 논의되었습니다.",
+        "outlook": "나무 심기가 기후 변화 완화에 기여할 수 있다는 전망이 제시되었습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "식목일",
+        "빌 게이츠",
+        "나무 심기",
+        "기후 변화",
+        "기후 완화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "76",
+      "title": "기후 변화에 맞서 남아시아 해안 공동체를 강화하는 4가지 방법 - 태국 비즈니스 뉴스",
+      "original_title": "4 ways to shore up South Asian coastal communities against climate change - Thailand Business News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdEZMTGtYdjBCQmZBOElmekZuQkIxOUZrM01ZUDZYY1RKQ2Q0Y3pwQjlGNFl3M19JV1JRcUs3OEh4UE9OTklEdWlULW9Ha1pEMjVDRmRyeVJ1akJjSTRGQm1GcUdnbU5XZkJqVU94U3dSTFM2dFNPTXJSN3FWT0c0NWJRaExRdWZZRTU0c05DcUlsRjFDRU03cFl3SkduZ29PM3JUTDBSMncxYnVQNEUwSUlwQWFwU2dQUmhtOTNPRk1uVFhISXR3TWluZXdkUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T17:20:00",
+      "description": "4 ways to shore up South Asian coastal communities against climate change Thailand Business News",
+      "summary": {
+        "phenomenon": "남아시아 해안 공동체들이 기후 변화에 취약한 상황에 놓여 있습니다.",
+        "cause": "기후 변화가 남아시아 해안 공동체들의 취약성을 야기하고 있습니다.",
+        "outlook": "기사는 기후 변화에 맞서 남아시아 해안 공동체를 강화할 수 있는 4가지 방법을 제시하고 있습니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "남아시아",
+        "해안 공동체",
+        "강화 방안",
+        "태국 비즈니스"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "77",
+      "title": "극한 기후, 2085년까지 육상 동물 서식지 3분의 1 이상 위협할 수 있다고 연구 경고 - 이코노믹 타임즈",
+      "original_title": "Extreme weather could endanger over one-third of land animal habitats by 2085, study warns - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNWJKVEFLX19PRXFWZ0JWR3FrVEt5THlSUjBTbDVJQzRVb191MUNBa1liLTVlalQtajRGaVdOZjkyRFNXZUJPbWE2YTBjZDQxQUdaMTh5WnZ3VFRNME11VkdMdTQxYXFlekR6QThBaFBLMHg3Ykl2aU1TTGRsbXBwNjVLb1BCVnVtTVRFWVhiMWZxN0tOQnpQeHZ3bW44SHphcHpmc2gxQ1B1czRkd0ZkRl9CUGplVUFxNkVYUzdjQWtrbnpFYVdnN2Mwc2o4NE9hWXd6NVRWZFBIN25OSTFOMFNOY091TXk3UEtOdTV2RHNOMU5GUHZ0edIB_gFBVV95cUxPVHRtMFBXNk9PeE5USTUwZFRMYjVaVHFLZXpfRzc4SVNna0JCZDdDczdHc3lyczdBODZCSHNETF9TVUY2YjRVc0VPMkRMbmFZTDdSTjdCNmliay10MUJScS1tdmIxWVZoV29BanBMTk9EMGpsYUVjZXFuc2JmTGJzQ0labDNrZkVyS1RlNW1WODlJMUZYSlhyVWhibld3VXFJTkhRaDdFY0wtbzZLcTkzQkJVcVZ5UndDc0tEM3hJdzd6LVR3R1pWR00tTFgzVTIxQ041QmN1YUtBQWQyazJfQW5YMERBTlozZE9PekF6RUNMVXRZZDNVVy1weE16QQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T19:05:09",
+      "description": "Extreme weather could endanger over one-third of land animal habitats by 2085, study warns The Economic Times",
+      "summary": {
+        "phenomenon": "한 연구에 따르면, 극한 기후가 2085년까지 육상 동물 서식지의 3분의 1 이상을 위협할 수 있다고 경고했습니다.",
+        "cause": "극한 기후가 육상 동물 서식지를 위협하는 직접적인 원인으로 지목되었습니다.",
+        "outlook": "2085년까지 육상 동물 서식지의 3분의 1 이상이 위험에 처할 수 있습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "극한 기후",
+        "육상 동물",
+        "서식지",
+        "위협",
+        "2085년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "78",
+      "title": "'기후 변화 영향에 대한 심도 깊은 논의': 환경 장관, 파리 G7 회의 언급 - CTV 뉴스",
+      "original_title": "'Robust conversations on the impact of climate change': Environment minister on G7 meetings in Paris - CTV News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN29YTEJZWXFhOVI0azFHWkhXQzZadkdGMHF5a2d3QVlXQk0zT1otcWVRR1Z3Y1I4Y1VYYm83eUppU2tlRTJrYUw5dVdrWTVFQ1l3WmtFeG1paE9YOTE2aEFhQUQyWV82el9CUE1Da2FOcVpHZWRqSnl2cEljejByVURDN0lveUp3RTVaNUlZb25xUFNFdDVsSnB3WVhEWWwtSVVHeEx3YWdZS29HMGNOckhVZkd0d0lQaGVWRXp2VlRlUzFkM3JOT25DQW9KajZnZUozYg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T21:20:05",
+      "description": "'Robust conversations on the impact of climate change': Environment minister on G7 meetings in Paris CTV News",
+      "summary": {
+        "phenomenon": "파리에서 열린 G7 회의에서 환경 장관은 기후 변화의 영향에 대해 '심도 깊은 논의'가 있었다고 언급했습니다.",
+        "cause": "기후 변화의 영향에 대한 우려가 논의의 배경이 되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "G7 회의",
+        "환경 장관",
+        "파리",
+        "심도 깊은 논의"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "79",
+      "title": "G7, 미국 참여 유지를 위해 파리 회의 의제에서 기후 변화 제외 - News24",
+      "original_title": "G7 drops climate change from agenda to keep US on board at Paris meeting - News24",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGRvMF9EeEdXU1VsN1VRczZWOHA2dVEwdmZNOHVIck1GSW0yOTZSUjhTMjBPZHpOTnZzaTVrQ2V2RUtaQXNLWTVMVnZyX3drdmt4c2VXNUhFcFNxYjZlaTFySHJsTmptSFdGdDNva3lvR0ZsRUNmdlJVS3I1cWRjSlVqTWtfcW04dElWcXVNZkR1aUtaZlZiY0diTFJXNFZfVjFVZ3hzdzVHd25VM0pnSl9BRU9KUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T15:04:18",
+      "description": "G7 drops climate change from agenda to keep US on board at Paris meeting News24",
+      "summary": {
+        "phenomenon": "G7은 파리 회의 의제에서 기후 변화를 제외했습니다.",
+        "cause": "미국의 참여를 유지하기 위해 기후 변화 의제가 제외되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "G7",
+        "기후 변화",
+        "의제",
+        "미국",
+        "파리 회의"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "80",
+      "title": "프랑스, 미국 달래려 G7 환경 정상회담 의제에서 기후 변화 제외 - 모던 가나",
+      "original_title": "France leaves climate change off G7 environment summit agenda to placate US - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzZKNVBrNHV5OTRoWHRPM2xxSUMtQmtmZjFPOHhNQ3prelg0OWp2cjNhaXptbFpiNEdFbTNjTkF2MVJ3VWlQTDhfU0R4dllCUEY1SVZJMlk4UWVlY0c2YTdSN0c5bFZWNmZVMDVqNHlkUFBWRUNWcVZmM1NJYUU1RFI2eUhnSWFXODY3YzhOOGg3NFNISFQ4Z9IBlwFBVV95cUxNeEVieTJTWmhoRXRTemJSRlNNR1Z2MVFXdlM4NlF5YXdOc2NoQ1NiRWxvSzk0X19MT2FYV0w2dThPWkYzbFlRRHpSTWRlRTRUZU1NU0xtNEUyeFJKSVZWZzVOQmxwTDNtRmlOblZKbjFGdU5oUTZEZGoxREs3SzRhaTMyUGZ6RXNIUEVNNzZSd3k0al9BeEMw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T11:57:10",
+      "description": "France leaves climate change off G7 environment summit agenda to placate US Modern Ghana",
+      "summary": {
+        "phenomenon": "프랑스는 G7 환경 정상회담 의제에서 기후 변화를 제외했습니다.",
+        "cause": "미국을 달래기 위해 기후 변화 의제가 제외되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "프랑스",
+        "G7 환경 정상회담",
+        "기후 변화",
+        "의제 제외",
+        "미국"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "81",
+      "title": "기후 변화 관련 영화 상영, 다음 달 개최 예정",
+      "original_title": "Film screening focused on climate change to take place next month - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMGJ1c3h6UlF2d3RKZXpiVkctQnM4ek1zYTNwMFQzZ3UwakJPblh5aE9Sc1hoYUFjekJrc3I0ZmFSN1FHRlZyMTRFWnBMODQ2aGVnNlEyTUM1TG5ycGRPTWxLNHpKZjRUa3gtZUxNeHVSb2NUeGFsNFFXQVNyVjBPSElaZlk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T13:00:00",
+      "description": "Film screening focused on climate change to take place next month Yahoo News UK",
+      "summary": {
+        "phenomenon": "다음 달(next month) 기후 변화에 초점을 맞춘 영화 상영이 개최될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "영화",
+        "상영",
+        "기후 변화",
+        "행사",
+        "예정"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "82",
+      "title": "프랑스, 미국과의 충돌 피하려 G7 의제에서 기후 변화 제외 - 인터내셔널",
+      "original_title": "France kept climate change off G7 agenda to avoid clash with US - Internazionale",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQREx6Yk1DRzZvRWQwdEMtX1RUZkEzMkpBN0sxOThYdzA1Rm5RQTl5RnNTbjJhOTNuczNFZ1RxZkw0YkUwZExpcGdhLWRzVDVwTS1HM3ZXbTRsOXpNcnN5NEVXWTVCTUcwb1lvVl8wUjA2cjFBdmVTOTAwWTJaX1o0YTFiRXVxOVZWLXNNeEJIcTk4RE8wdUJlZHg3WTBQTUdXZHdqSmFQQ1ZobTVvWEl0NkVhTHZkclJSUEVUUlhlbUYzQ1V4T3c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:46:28",
+      "description": "France kept climate change off G7 agenda to avoid clash with US Internazionale",
+      "summary": {
+        "phenomenon": "프랑스가 G7 의제에서 기후 변화를 제외했다.",
+        "cause": "미국과의 충돌을 피하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "프랑스",
+        "G7",
+        "기후 변화",
+        "의제",
+        "미국"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "83",
+      "title": "프랑스, 미국과 충돌 피하려 G7 의제에서 기후 변화 제외 - 더 스트레이츠 타임즈",
+      "original_title": "France kept climate change off G7 agenda to avoid clash with US - The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPanBKeXRSRVFMV2RUQ2VfX3VkNmFYaU1pZkw3YzZ0N0xrWUVuRk4zTmV5X0szRG5jOFFSRWFrNHJiRXFNTmFvVnNnRDFrSGV1Ti05Y1k3Y1M2TE83MVpOWG91bFZQRFNGdmdBNTYyaTVZQ3k3YzVKM3VhRW1DazEzNGNvZ0pfcnotOHJkOUFmNmc5Z3FnNDRLTW45NFVkcldNMDRJaHdJQUY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:51:15",
+      "description": "France kept climate change off G7 agenda to avoid clash with US The Straits Times",
+      "summary": {
+        "phenomenon": "프랑스가 G7 의제에서 기후 변화를 제외했다.",
+        "cause": "미국과의 충돌을 피하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "프랑스",
+        "G7",
+        "기후 변화",
+        "미국",
+        "충돌"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "84",
+      "title": "How is climate change and river pollution shaking up the Senedd Election? - ITVX",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRXYyM29wbVJpdVJwM3l2Si1SSHd0b2cyVVBuVlhFaTkzZkgzdk5HNGNIWFBJa2J3ZnQ0QXZjNk1YbG5DRl9ZOHVDR0t5clU2dHVucW0wWGR4YXl5Q0JrSFJfS3U3VGpKbmRDbWpuNUxYRkc3NF9zZXhOMHBUMzRJM2d6QkNBd0dUamRYTGZJYzNLaGFBNF94c2Z3NDZwNFdfS3hiaThGVlpiWGdyQ0ZqVm5TaW4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T16:28:01",
+      "description": "How is climate change and river pollution shaking up the Senedd Election? ITVX",
+      "summary": {
+        "phenomenon": "기후 변화와 강 오염이 세네드(Senedd) 선거에 영향을 미치고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "85",
+      "title": "아프리카개발은행, 기후 변화에 2천5백만 달러 보조금 승인",
+      "original_title": "AfDB approves US$25m grant for climate change - heraldonline.co.zw",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTN0RXRYVTNMR043QnZaMmpIVGhya3Z1Z0ZYY2RENzg1dkc5Y2o4QVhMSTdlRjZXOHRrUS1QOVppZlE4VzdpZGppN3Babi1FNU5ralpfOTMyQ0ZsanpjTjMtQ1hMLXFFclczb2cyRVUwaE9vUk5nWkVQaXN5a3d1T09n?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T15:31:21",
+      "description": "AfDB approves US$25m grant for climate change heraldonline.co.zw",
+      "summary": {
+        "phenomenon": "아프리카개발은행(AfDB)이 기후 변화 대응을 위해 2천5백만 달러(US$25m)의 보조금을 승인했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "아프리카개발은행",
+        "보조금",
+        "기후 변화",
+        "승인",
+        "자금 지원"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "86",
+      "title": "기후 변화: 약화된 해류가 빙하기를 촉진했을 수 있다",
+      "original_title": "Climate change: Weakened ocean currents could have promoted ice ages | blue News - blue News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVmJ1eUlCUUNHMDZ4VVhlX2xaNDhUazNQdUpsbzM3ODJPaXFFYlJDQ19nMktJNHdueV91Y3doVEFTaXl4NmFNX2dVQm9sSXNENGp2VkFQcWMxc2drTThVeW5na0JhTFBfa2h2dzBodjV4SDVWMXN2SHoyVklzVTVCdVd1WmpkdXgtZjlVaG9yd2E1VHJmV3U2TDhRM0c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T10:53:00",
+      "description": "Climate change: Weakened ocean currents could have promoted ice ages | blue News blue News",
+      "summary": {
+        "phenomenon": "약화된 해류가 과거 빙하기를 촉진했을 가능성이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "해류",
+        "빙하기",
+        "약화",
+        "촉진"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "87",
+      "title": "카타르의 생물다양성 증진 및 기후 변화 대응 노력이 조명되다",
+      "original_title": "Qatar’s efforts to boost biodiversity, combat climate change in spotlight| Gulf Times - Gulf Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbXdxX3JHQ2x5TUFvRE14Ul9VZU9kZkZ2Y21PQWdpb3AxMnU3Y3dwc0FEM2tvZUl1VUlmamhrbloxckZULUFLY1lIejlub2k2NU5mZk0waWlBVGRtYXQ5bFBQZVFzcnk3TVNKZkxzeVRZbUJOQnFFcDdjMkdtNzdyWlJEQmFjamFpdVRKWnBHVGNEQUpJVlFrejdzU2pTc25GNVZSMmk1azg1U1dOY1AxdFRlMTVwdkduS3ZON0dR0gHDAUFVX3lxTE5RSjhDcUpjckZKbjlmYU56MnRGOElXbkoxc08tdXZLZTVGVlBVM0hCWDgyOFhQRk1BWWkzTHVXMVJ3WWNzVHlFdmQyaEt5MFNnZndOQnB0aV9iMTNGYUFWZ3l5NEktZ2hHcHU5Rmh2LTBfbG5UemNac294cVFka3JLVzBKVFhMNU9zTW5ucVBmdDlMM2ZNeDY2dmxZNVpycUNDOENJS2EyMENJaHFTYno1VlV6ckpRckdoVlJ6c3dvU0t3Yw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T21:00:00",
+      "description": "Qatar’s efforts to boost biodiversity, combat climate change in spotlight| Gulf Times Gulf Times",
+      "summary": {
+        "phenomenon": "카타르의 생물다양성 증진 및 기후 변화 대응 노력이 주목받고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "카타르",
+        "생물다양성",
+        "기후변화",
+        "노력",
+        "조명"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "88",
+      "title": "의견 – 현대 해양 양식업과 기후 변화 - 뉴 에라 나미비아",
+      "original_title": "Opinion – Modern mariculture and climate change - New Era Namibia",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sUWtJdXJHUml4aXVub2FJbmFGWk9iYkFhelVLX25HTXF0ZllkLU50QWNWRWt5RG1SSjZ6LXl6eEZVcGhCT29OS0hwUFoxZWFtUGo2N09ldW5kVnJfVnFGTldWMERYVF9GcmV1dFZUM1psdE9SWmxr?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-04-24T12:30:12",
+      "description": "Opinion – Modern mariculture and climate change New Era Namibia",
+      "summary": {
+        "phenomenon": "나미비아에서 현대 해양 양식업과 기후 변화 간의 관계에 대한 의견이 제시되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "해양 양식업",
+        "기후 변화",
+        "의견",
+        "현대",
+        "나미비아"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "89",
+      "title": "4월 24일 - 새 보고서: 청정에너지가 워싱턴의 탄소 배출량 감소를 이끌고 있다 - 워싱턴주 생태국 (.gov)",
+      "original_title": "April 24 - New Report: Clean energy is powering reductions in Washington’s carbon emissions - Department of Ecology - State of Washington (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUZaUUZRWGdjWEd5VzJuNkYyY1pNZE9NeVltWEpFUGZjaTIxeFRTRi14d1VqamxwdzdPWnhoQWwtUmRoLWlYOXZTd2EtNVJNM1Fscm1tOXdqRndKVU8wdUR2STRINktBSHZhenZvZkxXYm0teUtubHJxLTVxWHZyYl9tS3BaOVpTbWE3b1FCNWwybFNQZUNRQ0ZoTzFweHVwTFFfOTNud1NWLV9BaTdVUUpHTVpWbXdNblN2TXpUbVJ4VXZtU29iejdR?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-04-24T22:00:38",
+      "description": "April 24 - New Report: Clean energy is powering reductions in Washington’s carbon emissions Department of Ecology - State of Washington (.gov)",
+      "summary": {
+        "phenomenon": "4월 24일 발표된 새 보고서에 따르면, 워싱턴주(Washington)에서 청정에너지가 탄소 배출량 감소를 주도하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "청정에너지",
+        "탄소 배출 감소",
+        "워싱턴주",
+        "새 보고서",
+        "생태국"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "90",
+      "title": "영국 당국, AI 데이터센터의 탄소 배출량 영향 크게 과소평가",
+      "original_title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+      "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+      "source": "guardian_climate",
+      "published_at": "2026-04-24T16:57:16",
+      "description": "Revised figures increase fears about energy-intensive datacentres worsening climate emergencyThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, after officials raised their estimate of carbon emissions from AI by a factor of more than 100.According to new data quietly published this week, energy use by AI datacentres in the UK could cause the emission of up to 123m tonnes of carbon dioxide (CO₂) – about as much as generated by 2.7 million peopl",
+      "summary": {
+        "phenomenon": "영국 정부가 인공지능(AI)의 기후 영향에 대한 추정치를 100배 이상 상향 조정하면서, AI 데이터센터의 탄소 배출량 영향이 크게 과소평가되었음이 드러났다. 이번 주 발표된 새로운 데이터에 따르면, 영국 내 AI 데이터센터의 에너지 사용은 최대 1억 2천3백만 톤(123m tonnes)의 이산화탄소(CO₂)를 배출할 수 있으며, 이는 약 270만 명의 인구가 배출하는 양과 맞먹는다.",
+        "cause": "AI 데이터센터의 에너지 집약적인 특성으로 인해 탄소 배출량이 발생한다.",
+        "outlook": "에너지 집약적인 데이터센터가 기후 비상사태를 악화시킬 수 있다는 우려가 커지고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI 데이터센터",
+        "탄소 배출량",
+        "과소평가",
+        "기후 위기",
+        "에너지 소비"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "91",
+      "title": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
+      "original_title": null,
+      "url": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
+      "source": "guardian_climate",
+      "published_at": "2026-04-24T12:22:40",
+      "description": "Officials hope more casual attire for public servants will save electricity during Iran war as summer heat approachesPublic servants working for the Tokyo metropolitan government are being encouraged to swap their suits for shorts this summer to combat sweltering heat and rising energy costs caused by the US-Israel war on Iran.Inspired by Japan’s Cool Biz energy-saving initiative, Tokyo officials hope the measure will cut dependence on air conditioning. Continue reading...",
+      "summary": {
+        "phenomenon": "도쿄도 공무원들이 올여름 무더위와 에너지 비용 상승에 대응하기 위해 반바지 착용을 권장받고 있습니다.",
+        "cause": "에너지 비용 상승은 미국-이스라엘의 이란 전쟁으로 인한 것이며, 이 조치는 일본의 쿨 비즈(Cool Biz) 에너지 절약 이니셔티브에서 영감을 받았습니다.",
+        "outlook": "관계자들은 이 조치가 전력 소비를 절감하고 에어컨 의존도를 낮출 것으로 기대하고 있습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "92",
+      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "source": "guardian_climate",
+      "published_at": "2026-04-24T11:42:26",
+      "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes place in Santa Marta, Colombia, from 24 to 29 April. A “coalition of the willing” – including 54 countries and various subnational governments, civil society groups and academics – will try to chart a new path to powering the world with low-carbon energy. Continue",
+      "summary": {
+        "phenomenon": "콜롬비아와 네덜란드가 공동 주최하는 세계 최초의 화석 연료 전환 회의가 4월 24일부터 29일까지 콜롬비아 산타마르타에서 개최되며, 54개국과 다양한 단체가 참여합니다.",
+        "cause": "이 회의는 COP 정상회담의 교착 상태에 대한 좌절감에서 영감을 받았으며, 석유 국가들의 COP 정상회담 방해를 우회하기 위함입니다.",
+        "outlook": "참가자들은 저탄소 에너지로 세계에 전력을 공급하는 새로운 길을 모색할 것입니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "93",
+      "title": "바다의 사운드트랙: 다이버들이 수중 스피커를 사용하여 죽어가는 산호초를 돕다",
+      "original_title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "source": "guardian_climate",
+      "published_at": "2026-04-24T10:30:37",
+      "description": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bond thriller No Time to Die. But today, beneath those same turquoise waves, a real-life mission is unfolding: the race to pull a dying coral reef back from the brink.However, the tools a team of divers are carrying to the seafloor are not what you would expect to find in a marine biologist’s kit. They a",
+      "summary": {
+        "phenomenon": "다이버들이 자메이카 근해의 죽어가는 산호초를 돕기 위해 수중 스피커를 설치하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 임무는 죽어가는 산호초를 '위기에서 벗어나게' 하는 것을 목표로 합니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "산호초",
+        "수중 스피커",
+        "자메이카",
+        "산호초 복원",
+        "다이버"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "94",
+      "title": "Three disasters in three years: Brazil’s deadly floods show women are ‘the first to die’ when extreme weather hits",
+      "original_title": null,
+      "url": "https://www.theguardian.com/global-development/2026/apr/24/three-disasters-three-years-brazil-deadly-floods-women-extreme-weather",
+      "source": "guardian_climate",
+      "published_at": "2026-04-24T11:00:37",
+      "description": "The climate crisis is accelerating the frequency of devastating events across the world, displacing millions and disproportionately affecting womenThe water mark on Naira Santa Rita’s wall told the story before she could find the words for it. High and brown, like a scar, it was the line left by the floodwater on 15 February 2022 – the night Petrópolis drowned.Within minutes, the mountain city she called home became a war zone. From her window, she watched bodies float past in the streets below.",
+      "summary": {
+        "phenomenon": "2022년 2월 15일, 브라질 페트로폴리스 산악 도시에 파괴적인 홍수가 발생하여 거리에서 시신이 떠다녔으며, 이는 3년 동안 발생한 세 가지 재난 중 하나입니다.",
+        "cause": "기후 위기가 전 세계적으로 파괴적인 사건의 빈도를 가속화하고 있습니다.",
+        "outlook": "극심한 기상 현상은 여성에게 불균형적으로 영향을 미쳐 '가장 먼저 사망'하게 하며, 기후 위기는 이러한 사건의 빈도를 가속화하고 있습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "95",
+      "title": "DeBriefed 24 April 2026: Europe’s energy-crisis plan | Renewables overtake coal | Colombia’s fossil-fuel summit",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/debriefed-24-april-2026-europes-energy-crisis-plan-renewables-overtake-coal-colombias-fossil-fuel-summit/",
+      "source": "carbonbrief",
+      "published_at": "2026-04-24T14:29:49",
+      "description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 24 April 2026: Europe’s energy-crisis plan | Renewables overtake coal | Colombia’s fossil-fuel summit appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "이 기사는 2026년 4월 24일자 'DeBriefed' 요약으로, 유럽의 에너지 위기 계획, 재생에너지의 석탄 추월, 콜롬비아의 화석 연료 정상회담 등 주요 기후 관련 동향을 다루고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "96",
+      "title": "Q&A: 중국 지도부, '화석 연료 엄격 통제' 촉구",
+      "original_title": "Q&A: China’s leadership calls for ‘strict control’ of fossil fuels",
+      "url": "https://www.carbonbrief.org/qa-chinas-leadership-calls-for-strict-control-of-fossil-fuels/",
+      "source": "carbonbrief",
+      "published_at": "2026-04-24T13:46:03",
+      "description": "Chinese government leaders published a policy document on 22 April – Earth Day – calling... The post Q&A: China’s leadership calls for ‘strict control’ of fossil fuels appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "중국 정부 지도자들이 지구의 날인 4월 22일에 '화석 연료의 엄격한 통제'를 촉구하는 정책 문서를 발표했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중국 지도부",
+        "화석 연료",
+        "엄격 통제",
+        "정책 문서",
+        "지구의 날"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "97",
+      "title": "AMOC: Is global warming tipping key Atlantic ocean currents towards ‘collapse’?",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/amoc-is-global-warming-tipping-key-atlantic-ocean-currents-towards-collapse/",
+      "source": "carbonbrief",
+      "published_at": "2026-04-24T10:43:37",
+      "description": "The Atlantic Meridional Overturning Circulation (AMOC) is a vast system of ocean currents that helps... The post AMOC: Is global warming tipping key Atlantic ocean currents towards ‘collapse’? appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "이 기사는 지구 온난화가 방대한 해류 시스템인 대서양 자오선 역전 순환(AMOC)을 '붕괴'로 이끌고 있는지 여부를 논의합니다.",
+        "cause": "AMOC의 잠재적 전복은 지구 온난화와 연관되어 있습니다.",
+        "outlook": "이 기사는 AMOC의 잠재적 '붕괴'에 대한 우려를 제기합니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 97,
+    "domestic_count": 36,
+    "international_count": 61,
+    "top_keywords": [
+      "기후 변화",
+      "기후변화",
+      "미국",
+      "탄소중립",
+      "재생에너지"
+    ],
+    "sentiment_breakdown": {
+      "positive": 25,
+      "negative": 36,
+      "neutral": 19
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
