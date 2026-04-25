@@ -1,16 +1,16 @@
 {
   "date": "2026-04-25",
   "metadata": {
-    "collected_at": "2026-04-24T23:28:34.378664",
-    "total_articles": 97,
+    "collected_at": "2026-04-25T08:25:12.303070",
+    "total_articles": 118,
     "sources": {
-      "korean": 36,
-      "international": 61
+      "korean": 45,
+      "international": 73
     },
     "sentiment_distribution": {
-      "positive": 25,
-      "negative": 36,
-      "neutral": 19
+      "positive": 33,
+      "negative": 40,
+      "neutral": 23
     }
   },
   "articles": [
@@ -2454,6 +2454,514 @@
       "keywords_matched": [
         "global warming"
       ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "10c42efabec62ade",
+      "title": "\"여름 생존템 구매하세요\"... 올리브영, 기후변화 대응 기획전 연다 - meconomynews.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XZVlTT2prU3JPVHROVWhhck0xdmR1T21RTkZONHppU19HNGxzbVVvSER6V2dPZG51MEc3MEhQQ0xhaW5oWkdBMG56SldQbUQ0NDJyWW5feFhsV2s5NDZtYl94VFdtY1RMbjdpWXF3aEQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T01:11:41",
+      "collected_at": "2026-04-25T08:20:35.191566",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "올리브영",
+          "기후변화",
+          "기획전",
+          "여름 생존템",
+          "마케팅"
+        ]
+      }
+    },
+    {
+      "id": "cd59245c1bda042d",
+      "title": "청송군, 지구 위해 '10분의 휴식'… 일상 속 탄소중립 문화 확산 앞장 - 폴리뉴스 Polinews",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBsbFhiaVA5RDlTOXRXcXFjQjJSWGhrbTUyUUVtZy1YRnMxeTl2dU52UXl6alN6VnJ0ajNGRkh1dV8zZkFRM0pQQzV0bHpmMVhsMlJzcUF0eFRvbV9tQlBEbXBGV3RBTGdOVUk3dUZB0gFyQVVfeXFMUDJHY3NBOW1hQXBkS1VFMklMYVVvVEV2UVZfSC1TQm8wem42WUhoaXV5SjJaZ0dDSDN1LU4yVGlvUjVfNGNsS3NNMUUyR1pnVFlOeDE0RGVleHQxMEFMYVlxcEE3M3FrdUh3VUt1RUNzRVVB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T01:54:46",
+      "collected_at": "2026-04-25T08:20:35.090054",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청송군",
+          "탄소중립",
+          "10분의 휴식",
+          "문화 확산",
+          "일상"
+        ]
+      }
+    },
+    {
+      "id": "a09146730bc24759",
+      "title": "대통령직속 국가기후위기대응위원회 - 국가기후위기대응위원회",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWp0UnJYWHVPSXozcDVkczJlNVRsRlhJN2dzN1VqNWtEUXpjanEtTzZiNEFTMXdkSkdqa29nZ0dfUHgyS1NBMWFfTmhwM19rdkg2R0pMX1VHN2dYcC00bkdpLVViWnBMbEt0eFhLNFUtazJuWHhMdXo3NVZlMUhLejJEVHpNOWJYWmNJQlRBMm9KTzRQOUdWRlllTnNrQUJzcEwwYnQ4b2pqUm5Yb3Z2bVhMYWo4dG1iSVBucHdCalhLZnExYmtKZ3kxZWNnV2NKOTU3LVIwZFA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-24T18:51:37",
+      "collected_at": "2026-04-25T08:20:35.090155",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "국가기후위기대응위원회",
+          "대통령직속",
+          "기후위기",
+          "대응",
+          "위원회"
+        ]
+      }
+    },
+    {
+      "id": "4a2189015460b0cb",
+      "title": "경주시, ‘찾아가는 탄소중립 ON 연극’ 첫 운영 성료 - 드림저널",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XTXNPT2loV1dQemFRVkVVLUIzZVFDVzl2UXVENXZaM2FoajZ0MDNJbE00M0ZxZEZ3eDAwRWQ2X0xaZE04alE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T00:04:00",
+      "collected_at": "2026-04-25T08:20:35.090294",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경주시",
+          "탄소중립",
+          "연극",
+          "찾아가는",
+          "성료"
+        ]
+      }
+    },
+    {
+      "id": "a170b735348e0deb",
+      "title": "[원자력연차대회] 최종웅 인코어드 대표, 'SMR-재생에너지' 시스템 제안 - 데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42c001a05qbWJCR2wtWEtJLXZsZDl0Mml6MlV0b2dGQUo3WGo4ZlRrdF9LRHRwRmd0bTBGbUEyWWFQX3ZRMXFzdU03YjJzc0RHSWR2MmZaNU5BQk1SN2NHX2JRRXctU2pWYjJrY25QMNIBc0FVX3lxTFBUdGxNTkc1OUlxbEJ2VXMzYS1MeXV2WE1CV25nY0dubzhkNWNfdXBqeXBGRXRJeHZwelNiYUpwdi1NRFJrMUFlZy10aVBUT20yZWRnWHdjT0E1NjFJU0hQWEdlWl9pQWxLTW9aWHV4WGxoOVk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T07:00:00",
+      "collected_at": "2026-04-25T08:20:35.141130",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "SMR",
+          "재생에너지",
+          "시스템 제안",
+          "원자력연차대회",
+          "인코어드"
+        ]
+      }
+    },
+    {
+      "id": "1366351c087fa2cd",
+      "title": "한전기술, 베트남 해상풍력시장 사업 추진 기반 마련 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3eE1kdWVzdXBTRXVoRW5oNHpBZ1RvS2dFMWxrN09Vc3poc0huTDFob1hmaXhOX3Z4V3pYdEpfZXpoUEYyMldTOThibzJ6eEgzR2hManhQM0l1MkU1Mnh0YnVDZWJIRmtURXppWVVqakJaQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T04:43:30",
+      "collected_at": "2026-04-25T08:20:35.141223",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전기술",
+          "베트남",
+          "해상풍력",
+          "사업 추진",
+          "기반 마련"
+        ]
+      }
+    },
+    {
+      "id": "c5eee2a6a690af51",
+      "title": "나주시, 한·중 포럼 개최…재생에너지·AI 협력 논의로 에너지 수도 위상 강화 - 여성종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HTFRuWXp2Nzd2ZnBmQmRERDF1YWxDMldVbWt0RWNNajlBSVJaclJvQjJCSHFqOUNHLU5mcXM3Q3FEWnFwdEhtQmUtSjF6QjZvY2VkRGQxMDBOa2lObGdma0pkVkp6QjhkcDhSbW11MA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-24T23:36:30",
+      "collected_at": "2026-04-25T08:20:35.141361",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "한·중 포럼",
+          "재생에너지",
+          "AI",
+          "에너지 수도"
+        ]
+      }
+    },
+    {
+      "id": "c60220347b354c3c",
+      "title": "한전기술 베트남 해상풍력시장 진출 본궤도 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zMFdKalVSdHNHQTFMOUppWVJmRFliYzd1RUhBT2tIbkw1VWQtTlFTY20tSEhkaV91MUpXUTdZNDNfSlFQQ3oxQzRWdEtEdHJCODFaQ1Q0R0k3bE45NzV5X0toSmFoMjBwMDBudQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-25T01:53:00",
+      "collected_at": "2026-04-25T08:20:35.141463",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전기술",
+          "베트남",
+          "해상풍력",
+          "시장 진출",
+          "본궤도"
+        ]
+      }
+    },
+    {
+      "id": "73ddfe6e4cf0eb1f",
+      "title": "파트 2: 친환경 전기는 새로운 에너지 전환을 만들어냅니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcTFic1BNVVVIekNJS3EtTk1SZXoxZDcwTDE4WlJzZnhEeUZBV2RGXzlPTlpxUHlMNlR1Ump4elJpcGNWNDI0aWZMTzhlVGJHQ2VFdGxibVppbERvNU84QnJhbm9HeTNubmJWY0pBUDYtSlRTbzJmMW9OcFpTX2tKcmZR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-04-24T23:57:51",
+      "collected_at": "2026-04-25T08:20:35.141837",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "친환경 전기",
+          "에너지 전환",
+          "새로운",
+          "전기",
+          "베트남"
+        ]
+      }
+    },
+    {
+      "id": "c94d5d4526d8d669",
+      "title": "A closer look at how climate change affects roly-polies - NBC Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUFlZ1dMODZJXy1pUHdpNkpHcWtYaDFib0N6dWVOS21BZ0JXMy0ySHpyRkNBcTBxYXRqVXM2OS14a1JLQzFwWDJXSTBNUWQ1bEx1LTFJNm1STXp5VWI2WmFmWDZMMjMxUWRmR2h2WWlud0t3cXY3bTV0VDhsd1NBUWtEZVdCTFJ1cE5vVtIBlAFBVV95cUxNUjRIdUp3YzJRdVliQzlyaTZyUUdSRGFFNDVMZWFHMXhQcE8wdXkzTzdkYUtXM2FmRXpqeDlPcFk1QU5IbkIzRVJrdWhHMVdyaVV0ZEx1MGFYRjZzN1VEeEpHcndMRTQ1d2YwN25vODlQYnNsOE9RQmRkWUJuWGtiVmlVR3NjUFcwTzhFeGhjeWxBM3l1?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T01:29:25",
+      "collected_at": "2026-04-25T08:20:36.011016",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "공벌레에 대한 기후 변화의 영향 심층 분석 - NBC 베이 에어리어"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "공벌레",
+          "영향",
+          "연구",
+          "생태계"
+        ]
+      }
+    },
+    {
+      "id": "d9c5c08d9a861804",
+      "title": "AI-powered drones, climate change and what UMN is doing - The Minnesota Daily",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUZ6bVJCTHRWemdFZUFqVUVlTkNoVnZRcEh6T2o5a1hzTlRnZVd2dkZqODQ2SHVlaW16Y1JHR2dDYUNhZDUwOWdHdEhWSkpWTFBNUUtqYW9WTmlNYkdIb1A3R2dmZWVNLVJKMDRMdjVfWnpVVHdPdjRVT2RnTXpfbXlRdm9jM0IzbUhhVmdMZDlWSHY4RC1jMmZuZktaUXVDRklTbXhKbzhqbXli?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-24T23:51:57",
+      "collected_at": "2026-04-25T08:20:36.011119",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "AI 기반 드론, 기후 변화 그리고 UMN의 활동 - 더 미네소타 데일리"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI 드론",
+          "기후 변화",
+          "미네소타 대학교",
+          "활동",
+          "기술"
+        ]
+      }
+    },
+    {
+      "id": "65156c30b03daf51",
+      "title": "G7 says nature talks a success as climate change sidelined for U.S. - Japan Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSENPTWtWbFBUMERRdndCcUNaaGlLYUY4Wk9VUVhsd3YycDVPSjBiUS1SWWM5TnhMRGUzUm1lUWtNaE80bFlXdkN0V1h3VEg1ZDVIZ085Q1Zfc0lVejZsaW9ZanEyaVR6OG12ek0yMkswVURFbkh2VHVxdFNvMjNjLU1Yc1p0Q25SMzAzd212ckZIcEZfVWozZEdBUTZaZ0xlSlBvYVduQTRlSkF6M3NSSg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-24T19:18:00",
+      "collected_at": "2026-04-25T08:20:36.011351",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "455f7fd408d1689a",
+      "title": "The Link Between Whales In The Andes & Climate Change - CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORjQxWkx1NERWeWJKY255RzRmS3hpWXNBdTlEeXU2RHp6cTdtYl8zT3AwUW1kM3dFOUhkbkRCb3hSUFR2TjREVTY0TkwxaVZHb19NUGJKYWpGbTVGQ1M4RVo5VW0xUGxvTFVpcjZ2UW92bzRtR0RmeFJfb0FSZUJrNzdHXzl1LV9haGhiZFE3Si1vMmvSAZsBQVVfeXFMTWlfX2hBc0pfRWFZZWY0elRhcFR6Z2hVNnVFdXRXQlllVXVBdkxFVUdIcmpyc3hab291UHRFQ0lHQkNyZTlucmVna3d5UV9zR1JpX2NYN29aejBWMGJHWVplQnV6Y1QyVjBINU9FckZ0SzQycGxjbDJIakZxdHBPaGt6VVlFWFVDNU1lOWIyZmhFQ2YyVmlvdTV4LTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T03:50:26",
+      "collected_at": "2026-04-25T08:20:36.011521",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "안데스 고래와 기후 변화의 연관성 - 클린테크니카"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "고래",
+          "안데스",
+          "기후 변화",
+          "연관성",
+          "클린테크니카"
+        ]
+      }
+    },
+    {
+      "id": "1857375a100f3bee",
+      "title": "Fossil fuels and climate change impact women’s rights - The Irish Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTWhyNEJiSXRmLTdjNTVhTjl6NHNvZi15bTR0NXppQ2FDS1ZTWFBZczBLcGU3b2J2OHlKaGVtM3JiYWtjbXpiMjk2UWpZUUVXUXlJLWo5cF9LV184RnZzLTh0eU5tV3k2QXgzdktzQnVVQTFqMG1YZFRkUERPNmFaeG9RWHNDS2h6Yl9iaUxRWXhwRHMwMTRRVnB5VWluUkVDdS03VHBfalI1U0k?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T05:04:47",
+      "collected_at": "2026-04-25T08:20:36.012147",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "화석 연료와 기후 변화, 여성 인권에 영향 - 아이리시 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "화석 연료",
+          "기후 변화",
+          "여성 인권",
+          "영향",
+          "사회 문제"
+        ]
+      }
+    },
+    {
+      "id": "3912c78433d6395a",
+      "title": "Climate Change Is Drying the World—And Water Scarcity Is No Longer a Distant Threat - Khmer Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQjNZb3ItcXNVQTB2YjNQbmhOdjg1WjM1UWdhZEJXRHJvbkFodjdUYTBvUlJtX1llNkhrZWVCR2lqVnFfMXl3WWtnOXp2UkVEMkthLUNkelJEMXVZODBweFFMcW8telNVcFEzTks2djBqakJ1ZlUxVzBRYlpQYXhhcV9LVi12RnlZU0pwR1hOZXVXLXpGbHBiaThmUmN1WGJtWXl4UWswU2R0Y2t4TllfTGZJcWQ2WWNHR2xQcG5CbEU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T03:34:04",
+      "collected_at": "2026-04-25T08:20:36.012421",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "eec2e1894c1462d4",
+      "title": "Climate change: environmental cost of war in the Middle East - The Nation Newspaper",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFQ1TXU2VXNYYlZEQjl2MUVTY0tLWVhlLXhJWGRRUzhHUmh6YXkxRjlXN1NvQ2h2djd0SmFHY3lrRVVvZG1IOHh0dHpGbEs1MWNyTWpBcUZHRFpYRkhabVpoOUF3VC0tVjFBRk15cVFETld3QjhWd2RjVWNRcXVpQkFUVDROMGlMV0kwZVJGOXA5YUR50gGaAUFVX3lxTE10VjZXQVVYV2JRM1loRGV0UllmbXFvTHFseWY4enIwcWJkbnB3Q3ZISjlodDNRQWpzSldvSkZBUTZ1OTJvdk53MmF2dGthV0ZWa0VobVFBeUYwd1pkcWwzZUliQlJoaVhrdVJEWFlqeVN6U2FMWkNiUzB5U0hGdlljaVFnUkpzRGV0QjVNUlA0TFJiWi1mUXMwY1E?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T05:18:24",
+      "collected_at": "2026-04-25T08:20:36.012686",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: 중동 전쟁의 환경적 비용 - 더 네이션 신문"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "환경 비용",
+          "전쟁",
+          "중동",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "d4cec68b867d4ebf",
+      "title": "France Excludes Climate Change from G7 Agenda to Avoid Clash with the US - صوت الإمارات",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2thT3lMczJIbHZjVFdpNU4xdjZDSlBuZVhYM0VVeHBzQVc4QUdnUmpBSDZYT2gxUHVreDJ6MWh1dTFraE9EcU1oM1Q0Z29aUWlOcWVOVjgzLXhLVGczeHRXVU92SGNVWVFqWWNVNDFkY2JHWHFQSFVhWnZXanBKLUVCLU9kYUxtZEx2eW93U0lzcnBmUFRQMnRRQlF4UU93eUs0NE1NY2hVWGxUcXBSVVB2RWd2czRMQ3BlRE1SUHJOdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-24T23:45:49",
+      "collected_at": "2026-04-25T08:20:36.012721",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "프랑스, 미국과의 충돌을 피하기 위해 G7 의제에서 기후 변화를 제외하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "프랑스",
+          "G7",
+          "기후 변화",
+          "의제 제외",
+          "미국"
+        ]
+      }
+    },
+    {
+      "id": "c9e88bc147b460e3",
+      "title": "Tiny mountain possum bred at lower altitudes due to climate change - Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUzBhQUd1MXJBbWlZOHA4T1lYeWNyME00SjFyRHo5WDJfSlJXeU5wUHVWS1J6UzlzTGhSTmk5T19ubHJFZ2J1WENCeWN3MVRFRS1LTVdpbUZoS2JCMXk4c24tbnlfbTFxSjdNUDFSTDJxYUl2YUtkRTQ3SEZzMno1SUFobThsbDVmbEEzYWVVNE81aEpGUG11RGx0Q0V2TUp2VS1ISWI3RGJiOFk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T00:00:00",
+      "collected_at": "2026-04-25T08:20:36.012904",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f98f5074f8af4939",
+      "title": "Climate Change event to return to Bracknell in July - Wokingham.Today",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQjBkNkxxVGFKdFgyM0hKb09HNUR1TVp2c0pDMUdjU0h0T1ZCTC1VTXZlUnIyUzRtYU5LWF9ReE9CS2pyWmxVR0duUnBtR0Y5bmJicmJrVFF5Q0Q4RU90SGZUdTYta2NvdHczbk1FSlhDX0pVdWppQVlKOEZ4b3ZyOFFB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-25T05:31:02",
+      "collected_at": "2026-04-25T08:20:36.013106",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화 행사, 7월 브랙넬 복귀 - 워킹엄.투데이"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "행사",
+          "브랙넬",
+          "7월",
+          "복귀"
+        ]
+      }
+    },
+    {
+      "id": "76f3d0485b2870d3",
+      "title": "Pollution, climate change and respiratory health - AusDoc",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWpSdXhCWGE1NXFsTnp2dVZ1eVZUdmthS3V4eEd4R0tTa2E1VlVSTFRlUmRMbGFTUHZHOF9DVXIwZHFNNnI2TXpaenZDR3JYZmZUQmRjT1REV2FNd3k2d0cyWVZQOU1NelNUdFItZm1aYVZPZnBYRTFNMzJObzJJYmRla3lFdVAxSElRbkVMVmZSY2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-04-24T22:03:09",
+      "collected_at": "2026-04-25T08:20:36.013128",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d6346737abe83594",
+      "title": "Everything but the kitchen sink: how to choose more sustainable and durable cookware",
+      "link": "https://www.theguardian.com/australia-news/2026/apr/25/kitchen-how-to-choose-sustainable-cookware",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-04-25T00:00:30",
+      "collected_at": "2026-04-25T08:20:35.804855",
+      "keywords_matched": [],
       "translation": null,
       "sentiment": null,
       "keywords": null
