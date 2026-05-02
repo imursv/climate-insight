@@ -1,0 +1,448 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T23:22:44.409745",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for May 2, 2026.",
+    "sections": [
+      {
+        "title": "🇰🇷 Domestic Carbon Neutrality Practices and Technological Innovation",
+        "content": "Domestically, various efforts are underway to transition towards a carbon-neutral society. Korea Gas Corporation (KOGAS) is simultaneously pursuing carbon neutrality practices and sharing through a step donation campaign [1], and Daegu Metropolitan City is spreading a culture of carbon neutrality practices through the activities of its youth supporters [4]. Notably, in Jeju, an AX smart farm utilizing AI technology is drawing attention for ushering in an era of carbon neutrality in the livestock sector through the smart operation of pig farms [3]. Furthermore, Dr. Kim Dong-sun, a principal researcher at the Korea Institute of Oriental Medicine, highlights the industrial potential of underutilized native plants, demonstrating the importance of sustainable resource utilization [5]. These efforts represent significant steps contributing to the achievement of domestic carbon neutrality goals.",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Intensifying Seasonal Impacts of Climate Change",
+        "content": "Globally, the direct impacts of climate change are manifesting in seasonal patterns, raising concerns. Specifically, rapid fluctuations in spring temperatures are occurring, a phenomenon exacerbated by climate change [6, 10]. Concurrently, observations suggest that winters are becoming shorter [12], and the potential disappearance of April showers has been mentioned, further increasing concerns about drought [15, 16]. These drastic seasonal shifts are expected to have widespread impacts on ecosystems and human life.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🔴 Climate Crisis, Deepening Social Inequality",
+        "content": "Warnings are emerging that the climate crisis is exacerbating social inequality and placing a greater burden on vulnerable populations. Indigenous peoples are directly hit by climate change but receive little funding to combat it [11], and the head of Christian Aid emphasized that the climate crisis is fundamentally altering the fight against global poverty [13]. Low-income immigrant communities in Houston, USA, are living in survival mode, facing complex crises including immigration crackdowns, chemical spills, and massive floods [17]. Furthermore, biodiversity is also under threat, as exemplified by Mendoza's Pehuenche frog facing climate change and invasive species threats [14]. This once again highlights the importance of climate justice.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Community's Climate Response and Adaptation Strategies",
+        "content": "The international community is exploring various strategies to respond to climate change. Japan is moving to preemptively secure the next-generation eco-friendly shipbuilding sector, aiming to lead the green transition of future marine transportation [2]. Meanwhile, discussions are taking place in Michigan on how to adapt dams to climate change, demonstrating the importance of infrastructure adaptation [9]. Climate awareness is also spreading in individuals' lives, with the introduction of a new funeral method called 'green death' for activists concerned about climate change and carbon footprints [8]. However, political differences in views on climate change still exist, as exemplified by Lee Zeldin criticizing the Democratic Party's 'pessimistic' climate change views after a heated House hearing [7].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlights the severe impacts of climate change, alongside the simultaneous domestic and international efforts underway to overcome them. This is a time when an integrated approach for a sustainable future becomes even more crucial. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "KOGAS Launches Step Donation Campaign: Practicing Carbon Neutrality and Sharing Simultaneously - Gyeongbuk News",
+      "original_title": "가스공사, 걸음 기부 캠페인···탄소중립·나눔 동시 실천 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPRnl0NjlzemZoZy1LeFlXQ09HT3dRXzJ4VS0zeDgtelhPME5qV3JBOWFhTVBubW5LSWM0RV8tRW5fZmQ0YzFtNjFpOU80cm1zeWVEc0JwTDA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-02T13:58:56",
+      "description": "KOGAS Launches Step Donation Campaign: Practicing Carbon Neutrality and Sharing Simultaneously Gyeongbuk News",
+      "summary": {
+        "phenomenon": "KOGAS is conducting a step donation campaign that simultaneously aims to achieve carbon neutrality and promote sharing.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KOGAS",
+        "Step donation",
+        "Campaign",
+        "Carbon neutrality",
+        "Sharing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가스공사, 걸음 기부 캠페인···탄소중립·나눔 동시 실천 경북신문"
+    },
+    {
+      "id": "2",
+      "title": "Japan Moves to Secure Lead in Next-Generation Greenhouse Gas-Free Eco-Friendly Ships - The Guru",
+      "original_title": "일본, 온실가스 없는 차세대 친환경 선박 선점 나서 - 더구루",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5yWWtZMWNsQTVjUHo1Nnphd1p1dEVScVloTWp1MzRFcUxKNEZnMGlMdGJSTkNyalZuWFE3bG1HWHVCazNTS2R6OG94SDB5ZTV3c2Mza0lKaFZxcnNVV3FyeFY4aw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-02T15:00:23",
+      "description": "Japan Moves to Secure Lead in Next-Generation Greenhouse Gas-Free Eco-Friendly Ships The Guru",
+      "summary": {
+        "phenomenon": "Japan is making moves to secure a leading position in the next-generation eco-friendly ship sector, which features zero greenhouse gas emissions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Japan",
+        "Greenhouse gas",
+        "Eco-friendly ship",
+        "Next-generation",
+        "Preemption"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "일본, 온실가스 없는 차세대 친환경 선박 선점 나서 더구루"
+    },
+    {
+      "id": "3",
+      "title": "AI Makes Pig Farms Smart: Jeju-Style AX Smart Farm Ushers in an Era of Livestock Carbon Neutrality - Environmental Surveillance Daily",
+      "original_title": "AI가 돼지 농장을 스마트하게 만든다: 제주형 AX 스마트팜, 축산 탄소중립 시대를 열다 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5HcU8tTlhKOFNYUEdsT3E0c3NXR0ptUzBZTVQyUDdJLW1zcUJoZV9wUS1Bcl9wbDZnbGZDcDN0Q3BtN0NqVDlzaENMTTIzVWM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-02T17:15:02",
+      "description": "AI Makes Pig Farms Smart: Jeju-Style AX Smart Farm Ushers in an Era of Livestock Carbon Neutrality Environmental Surveillance Daily",
+      "summary": {
+        "phenomenon": "The Jeju-style AX Smart Farm is utilizing AI technology to operate pig farms intelligently.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Jeju-style AX Smart Farm is expected to contribute to ushering in an era of carbon neutrality within the livestock sector."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Smart farm",
+        "Jeju-style AX",
+        "Livestock",
+        "Carbon neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI가 돼지 농장을 스마트하게 만든다: 제주형 AX 스마트팜, 축산 탄소중립 시대를 열다 환경감시일보"
+    },
+    {
+      "id": "4",
+      "title": "Daegu Metropolitan City: 'Youth Supporters' Activities to Spread Carbon Neutrality Practice Culture' - gukjenews.com",
+      "original_title": "대구광역시, \"청년 스포터즈 활약으로 탄소중립 실천 문화 확산한다\" - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Ta2VYZmhkcGZjdmFfUTV1R3pWRTlMVDlOTG8tdVphNFlzMVdqWEJENmlPMWF0OFR2djhGczZJTG1heXUtbWk4LWg3UzhNOW1PMTdzVGVhVkl2U2NNYy1TTjdNRW5Fa2ZRQnFTZnRn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-02T10:19:48",
+      "description": "Daegu Metropolitan City: 'Youth Supporters' Activities to Spread Carbon Neutrality Practice Culture' gukjenews.com",
+      "summary": {
+        "phenomenon": "Youth supporters in Daegu Metropolitan City are actively working to spread the culture of carbon neutrality practice.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is anticipated that the culture of carbon neutrality practice in Daegu Metropolitan City will expand through the active engagement of youth supporters."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu Metropolitan City",
+        "Youth supporters",
+        "Carbon neutrality",
+        "Practice culture",
+        "Dissemination"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구광역시, \"청년 스포터즈 활약으로 탄소중립 실천 문화 확산한다\" gukjenews.com"
+    },
+    {
+      "id": "5",
+      "title": "Discovering the Path to Industrialization of Native Plants from 'Gaetkkachisuyeom'",
+      "original_title": "‘갯까치수염’에서 발견하는 자생식물 산업화의 길",
+      "url": "https://www.khan.co.kr/article/202605030800011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-02T23:00:01",
+      "description": "Kim Dong-sun, Principal Researcher at the Korea Institute of Oriental Medicine, previously introduced the Korean mock orange (Philadelphus schrenkii) in a column titled 'Forgotten Native Plants, Reasons to Bring Them Back to the Table.' The Korean mock orange served not just as a rediscovery of an edible resource, but as an example demonstrating the industrial potential of our native plants. However, many underutilized native plants in Korea still lack sufficient scientific verification and application. Climate change and...",
+      "summary": {
+        "phenomenon": "Kim Dong-sun, Principal Researcher at the Korea Institute of Oriental Medicine, highlighted the industrial potential of underutilized native plants in Korea, citing the case of the Korean mock orange.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "김동선 한국한의학연구원 책임연구원지난 칼럼에서 ‘잊힌 자생식물, 다시 식탁에 올려야 하는 이유’라는 제목으로 고광나무를 소개한 바 있다. 고광나무는 단순히 식용 자원의 재발견에 그치지 않고, 우리 자생식물이 산업적 잠재력을 지닌 자원임을 보여준 사례였다. 그러나 국내에는 여전히 과학적 검증과 활용이 충분히 이뤄지지 않은 미활용 자생식물이 많다. 기후변화와 ···"
+    },
+    {
+      "id": "6",
+      "title": "봄철 기온 급변 현상, 기후 변화로 악화",
+      "original_title": "Spring Temperature Whiplash Is Getting Worse With Climate Change - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjZhM1c5ay04dzd2RXdzTjgtbWM4MU5qWjVLdUlzWTNFSjdaYlJFS1ZqeFE4U3FYN1RYNERBVVNKVlFTRmU4aDJ1Q3pPLXdZaGVEOTBhV0lHMk1SY2REV05SRFdpS0pyZnVwT2FzVGhEZXF4aUVxS3E3TGsxd3ZFbC1ja1JpTWhXWnZncWZoaU45c29SbFZ6NlhhMnI5VERWVU96OXdSSVM2QXdGRkc0Q2NsdS1fZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T13:30:18",
+      "description": "Spring Temperature Whiplash Is Getting Worse With Climate Change Bloomberg.com",
+      "summary": {
+        "phenomenon": "The phenomenon of rapidly fluctuating spring temperatures is occurring and is progressively worsening.",
+        "cause": "Climate change is exacerbating the phenomenon of rapid spring temperature fluctuations.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Spring",
+        "Rapid temperature change",
+        "Climate change",
+        "Worsening",
+        "Variability"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Spring Temperature Whiplash Is Getting Worse With Climate Change Bloomberg.com"
+    },
+    {
+      "id": "7",
+      "title": "이 젤딘, 격렬한 하원 청문회 후 민주당의 '비관적' 기후 변화 견해 비판 - 폭스 뉴스",
+      "original_title": "Lee Zeldin criticizes Democrats’ ‘pessimistic’ climate change views after heated House hearing - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UY1Z2SnlrZC01YW5LdXcwTDhuVnljN1JJcUdzbk1BMHMwd2xrbGxPejhxaGhiRTZBNW9qN2hsRHBUTjJ2a1VTbnZ5TW1iWjNjZ1hfbnF3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T16:57:38",
+      "description": "Lee Zeldin criticizes Democrats’ ‘pessimistic’ climate change views after heated House hearing Fox News",
+      "summary": {
+        "phenomenon": "Lee Zeldin expressed a critical stance on the Democratic Party's 'pessimistic' climate change views following a heated House hearing.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Lee Zeldin",
+        "Democratic Party",
+        "Climate change",
+        "Pessimistic views",
+        "House hearing"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Lee Zeldin criticizes Democrats’ ‘pessimistic’ climate change views after heated House hearing Fox News"
+    },
+    {
+      "id": "8",
+      "title": "'그린 데스'를 만나다: 기후 변화와 탄소 발자국을 걱정하는 활동가들을 위한 장례 방식 - 포춘",
+      "original_title": "Meet 'Green Death': the burial practices for activists worried about climate change and carbon footprint - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdE82NnkxVkRHZmJhdVVMLXYzTVhVTGl5NWxNbTJXYzd3MEdZbFAtRjlFWjVHS05uRHBIWVMzYVVZSnlIckRPcEtzZXlPajJFcjJkRG1FLWs2cXFHRmJpeGNrX0J5VzFtcUpkS2J5ckRyNkh6Q1ozX1hrbVNUaksxRmNUQnk5YzdyOWYyR1JfeER1YXVIRk9zdnlPTHJYX3lNZGc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T15:25:00",
+      "description": "Meet 'Green Death': the burial practices for activists worried about climate change and carbon footprint Fortune",
+      "summary": {
+        "phenomenon": "A new burial practice, termed 'Green Death,' is being introduced for activists concerned about climate change and their carbon footprint.",
+        "cause": "Concerns regarding climate change and individual carbon footprints are the underlying reasons for these burial practices.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Eco-friendly burial",
+        "Climate change",
+        "Carbon footprint",
+        "Burial practice",
+        "Activist"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Meet 'Green Death': the burial practices for activists worried about climate change and carbon footprint Fortune"
+    },
+    {
+      "id": "9",
+      "title": "How do we adapt Michigan’s dams to climate change? - Michigan Advance",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE04em9qcDUtdUJVU2VYOFdiOHhQYUZlMU9nTnlvU3EwaFVlSHhLUFJlWW5KZ3R2clJWNk1TS1dhVHJuQkgzUHR2aGExUTRaUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T13:05:33",
+      "description": "How do we adapt Michigan’s dams to climate change? Michigan Advance",
+      "summary": {
+        "phenomenon": "Discussions are underway regarding how to adapt Michigan's dams to climate change.",
+        "cause": "Adaptation strategies are required as climate change is anticipated to impact Michigan's dams.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How do we adapt Michigan’s dams to climate change? Michigan Advance"
+    },
+    {
+      "id": "10",
+      "title": "봄철 급격한 기온 변화, 기후 변화가 부추긴다",
+      "original_title": "Spring’s Hot-to-Cold Swings Are Being Juiced by Climate Change - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1BTVGZ0Z0lGTlRXVXQ2TVpveExlcGY3Q3o4Y0NhOE5CYzZHYnJHUUJtLThueUJCYXJyT0FfbjIxNUZWRWZqaUcwQjhjZjAxZUN4Vk5aczRGOURrQ1NTbWZXWjBaWjB6clpaUHhhOW1rVlFYcXp0cEMyT3FUTml6Nkd6RXZfZDlHdENjNEpfbE1mM3pvTHlvX2t2LVZudmFXZ2Q1SENnVFBWRVhfX2RtUmpRUmZKWWs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T14:10:08",
+      "description": "Spring’s Hot-to-Cold Swings Are Being Juiced by Climate Change Bloomberg.com",
+      "summary": {
+        "phenomenon": "A phenomenon of rapid temperature swings, alternating between warm and cold weather, is occurring during spring.",
+        "cause": "Climate change is exacerbating the rapid temperature fluctuations observed in spring.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Spring",
+        "Temperature fluctuation",
+        "Climate change",
+        "Rapid",
+        "Intensification"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Spring’s Hot-to-Cold Swings Are Being Juiced by Climate Change Bloomberg.com"
+    },
+    {
+      "id": "11",
+      "title": "원주민들은 기후 변화의 직격탄을 맞지만, 이에 맞설 자금은 거의 받지 못한다",
+      "original_title": "Indigenous peoples bear the brunt of climate change — but get almost none of the money to fight it - Indiginews",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Od2hLdWFHSnJPOGpheE95T0hpWUgxNlV1TDRtZWhtdWxUQ1hwZE05YlFBSFphZ25ZX3dTN1JwWExHNElLeElScGJxdThza0l1Y2dMMnZTeEh1cHJZSldDX1pWOWtoSWRlek1PRXk5bDFMcWQxQ3BCU3F3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T17:18:39",
+      "description": "Indigenous peoples bear the brunt of climate change — but get almost none of the money to fight it Indiginews",
+      "summary": {
+        "phenomenon": "Indigenous peoples are bearing the direct impact of climate change. Specific figures, locations, or timelines are not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Indigenous peoples are receiving almost no funding to combat climate change. Specific impacts or outlooks are not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Indigenous peoples",
+        "Climate change",
+        "Impact",
+        "Funding",
+        "Insufficient funding"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Indigenous peoples bear the brunt of climate change — but get almost none of the money to fight it Indiginews"
+    },
+    {
+      "id": "12",
+      "title": "Detroit Free Press. . Climate change has caused winters to become shorter. USA TODAY's Ignacio Calderon explains what it means for you. - facebook.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3lHbzNTbmJQX0kybkE0Qkh3QXpsSUs3N193ckhmRlJ6NWNJV1ZoX2NFQXFkWDNKODVCejJKbGhhVWVLQlR6QUdBeS1mZ3ptaDRpTzNwX1VmNVVLWHVabF9idm13NVRfSVlLLTFlU1BUVVdnanhuNmtzQlU5Z0xYM3h5bXVJc0prV2Y2c3ZpcnpnTDV6aEhRa0RXTm9Qc2FSWTFFRHhDVnU2SUZYRmdyMzRYcFp2R3FFVko2UjBSbTE3M01ob3QwcVBidVpTVHJmZ3lkdk1KX2lXR3Q0MDFR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T15:30:31",
+      "description": "Detroit Free Press. . Climate change has caused winters to become shorter. USA TODAY's Ignacio Calderon explains what it means for you. facebook.com",
+      "summary": {
+        "phenomenon": "Winters are becoming shorter. Specific figures, locations, or timelines are not mentioned in the article.",
+        "cause": "Climate change has caused winters to become shorter.",
+        "outlook": "USA TODAY's Ignacio Calderon is expected to explain what this means for individuals. Specific impacts or outlooks are not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Detroit Free Press. . Climate change has caused winters to become shorter. USA TODAY's Ignacio Calderon explains what it means for you. facebook.com"
+    },
+    {
+      "id": "13",
+      "title": "크리스천 에이드 대표, '기후 위기가 세계 빈곤 퇴치 싸움을 완전히 바꾸고 있다' - 인디펜던트",
+      "original_title": "Climate crisis completely changing fight against global poverty, says Christian Aid chief - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1JQY1FJdUx1dDNLeTI0aE5CbUJ4Y2hLcGRqYVRjWlBaNnZZMXdRa1AtUEtLTGJpOVJxcDZxRUZQVi1mWExfLW9rRm9DY0lWd251U012UXF4dnRMc3F6Z2VWUl9TeWJiVkhqX1NYMVY3ejJQQnQ2d2tsMWZIVUlleERsS1kyUzlQdWJMNlpnYkZvUTJTUVhpcWt4RTJXUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T18:05:00",
+      "description": "Climate crisis completely changing fight against global poverty, says Christian Aid chief The Independent",
+      "summary": {
+        "phenomenon": "The climate crisis is completely changing the fight against global poverty. Specific figures, locations, or timelines are not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate crisis",
+        "Global poverty",
+        "Poverty eradication",
+        "Aid organization",
+        "Change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate crisis completely changing fight against global poverty, says Christian Aid chief The Independent"
+    },
+    {
+      "id": "14",
+      "title": "페우엔체 개구리: 기후 변화와 외래종 위협에 직면한 멘도사의 생물학적 보석",
+      "original_title": "Pehuenche Frog: the Biological Jewel of Mendoza Facing Risks from Climate Change and Invasive Species - Noticias Ambientales",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNekxPdndKVUJZVUhRVW16eXBPNHRpeTgtUzJzX0ROSWJxNzdkUUlMNm5jMnc4YVhBdDVNQmFPVllPRG1QTDlVZ2JMVEk0SWd1RTdoSkVJNkttYU1raFdJWnhoQ1UxdzZsOE9QWVQtUnI4WjRKX1BZUWdlYi1WeVZIVWRrbmt0YkJUQXh4dGJvOUdfRWxGeWNOQlQ4a25qNGdTV3NHUFp3cjZkM0lVZ0pEYkdjWktwUWl6ZmtuUXZ5QlFQUG9uMTN2YlFQSmdhOFh4SnRxQUE2SWHSAd4BQVVfeXFMTi1ocEk3N3hKV2NMZURjclAyVjdNTTV5cFFaYzVWcjRORkZjZUxCRmQxSWpGRTU1dWpTbmFpMURLRG9mczZ1MDBVUG1TTVhWVTVxc3RQWjNIaS1WaTRpZHR4WkFfeGpzdmx4M2JIU293RHREN0ZpOUhubk1TS2RQcXN5dndsTmhUTS1FRFBzQ2FXUlFzWkVueGFsWHRkZXQ2Q0FIUHNaMWEtejF6dXlUYkZXYVJFS1dlSjFYZGNfdEUzYmpFSDUxZHZ1WnFPdUF5a1oyRWVFNkFkVWpqOXZB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T14:04:39",
+      "description": "Pehuenche Frog: the Biological Jewel of Mendoza Facing Risks from Climate Change and Invasive Species Noticias Ambientales",
+      "summary": {
+        "phenomenon": "Mendoza's Pehuenche frog is facing threats. Specific figures or timelines are not mentioned in the article.",
+        "cause": "Climate change and invasive species are threatening the Pehuenche frog.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Pehuenche frog",
+        "Mendoza",
+        "Climate change",
+        "Invasive species",
+        "Risk"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Pehuenche Frog: the Biological Jewel of Mendoza Facing Risks from Climate Change and Invasive Species Noticias Ambientales"
+    },
+    {
+      "id": "15",
+      "title": "Drip, drip, dropped… has climate change killed off April showers? - The Independent",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3FSMXljbWNXVnlpOEFubkdEczVwQ1FudHRSSW5zOFZrVE9JdjhHOHh0TDdxek1rQnhFeEpyX29VQ05kS2VhdVZEY3VtSE5TTW85cXdHU3N2Smp2MjJPQlpXY0ZTekxWbmk4SlJOZGh0aUprUkh2WGFHTERqNUQyS0VBSjNPQ2FGcHN5Rl81bEZaRnFFb05VaG9rN05rVktpU1ZiTm9B?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T18:07:00",
+      "description": "Drip, drip, dropped… has climate change killed off April showers? The Independent",
+      "summary": {
+        "phenomenon": "It is being suggested that April showers may have disappeared. Specific figures, locations, or timelines are not mentioned in the article.",
+        "cause": "It is being suggested that climate change may have caused April showers to disappear.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Drip, drip, dropped… has climate change killed off April showers? The Independent"
+    },
+    {
+      "id": "16",
+      "title": "Voices: Drip, drip, dropped… has climate change killed off April showers? - MSN",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZHpPa0dzYXA1Q0xla2tHeFZOS3lyWUJwd0xBVUpnOVlMS0xhV1otTXRrUEF1U2d1ZWI0bEhsX21jcktLdVZsa2twdThLTGFlNnV1QzF0dUpSX1NRVUVnRXhTSzlzRVJ0R2hnWndlZ1pzWmcyUW5Hc3loWlN4OEhOQW1xbjVLQS1FSVdoN3NSNHk3NVNNdm5wZmVVc0MxYVpKZlNXSXFxckFfYUIwem50VWVxVzAzdmt1c2l0N3pPN3ktYjc2bU5hOVBobw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-02T09:19:23",
+      "description": "Voices: Drip, drip, dropped… has climate change killed off April showers? MSN",
+      "summary": {
+        "phenomenon": "It is being suggested that April showers may have disappeared. Specific figures, locations, or timelines are not mentioned in the article.",
+        "cause": "It is being suggested that climate change may have caused April showers to disappear.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Voices: Drip, drip, dropped… has climate change killed off April showers? MSN"
+    },
+    {
+      "id": "17",
+      "title": "‘Living in survival mode’: Houston’s embattled immigrant community faces health, climate and petrochemical crises",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/may/02/houston-texas-immigrants-ice-health-extreme-weather",
+      "source": "guardian_climate",
+      "published_at": "2026-05-02T12:00:25",
+      "description": "Amid immigration raids, chemical spills, massive floods and costly healthcare, less-affluent residents of one of the most diverse US cities struggle to pull throughCándido Álvarez has made it his policy never to go to the doctor.“Not when I’m sick, not even when it’s serious,” he said. “I prefer not to go.” Continue reading...",
+      "summary": {
+        "phenomenon": "Low-income immigrant communities in Houston, USA, are living in survival mode, facing issues such as immigration raids, chemical spills, massive floods, and expensive healthcare. Specific figures or timelines are not mentioned in the article.",
+        "cause": "The climate crisis, petrochemical crisis, immigration raids, chemical spills, massive floods, and expensive healthcare are complexly interacting to affect immigrant communities.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Amid immigration raids, chemical spills, massive floods and costly healthcare, less-affluent residents of one of the most diverse US cities struggle to pull throughCándido Álvarez has made it his policy never to go to the doctor.“Not when I’m sick, not even when it’s serious,” he said. “I prefer not to go.” Continue reading..."
+    }
+  ],
+  "summary": {
+    "total_count": 17,
+    "domestic_count": 5,
+    "international_count": 12,
+    "top_keywords": [
+      "Climate change",
+      "Carbon neutrality",
+      "Spring",
+      "Gas Corporation",
+      "Step donation"
+    ],
+    "sentiment_breakdown": {
+      "positive": 5,
+      "negative": 6,
+      "neutral": 0
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "봄",
+      "가스공사",
+      "걸음 기부"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
