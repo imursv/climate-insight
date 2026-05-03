@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-05-03T08:38:02.750526",
+  "last_updated": "2026-05-03T23:23:53.006799",
   "available_dates": [
+    "2026-05-04",
     "2026-05-03",
     "2026-05-02",
     "2026-05-01",
@@ -89,23 +90,22 @@
     "2026-02-07",
     "2026-02-06",
     "2026-02-05",
-    "2026-02-04",
-    "2026-02-03"
+    "2026-02-04"
   ],
   "statistics": {
-    "total_articles": 14908,
+    "total_articles": 14719,
     "date_range": {
-      "start": "2026-02-03",
-      "end": "2026-05-03"
+      "start": "2026-02-04",
+      "end": "2026-05-04"
     },
     "sources_distribution": {
-      "korean": 11255,
-      "international": 3653
+      "korean": 11096,
+      "international": 3623
     },
     "sentiment_distribution": {
-      "positive": 9334,
-      "negative": 2597,
-      "neutral": 1434
+      "positive": 9195,
+      "negative": 2571,
+      "neutral": 1413
     }
   }
 }

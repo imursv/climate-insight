@@ -2,7 +2,7 @@
   "type": "enso_oni",
   "source": "NOAA_ENSO",
   "source_url": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
-  "collected_at": "2026-05-03T08:35:28.716647",
+  "collected_at": "2026-05-03T23:21:34.373635",
   "unit": "degrees_celsius",
   "description": "Oceanic Niño Index (3-month running mean SST anomaly in Niño 3.4 region)",
   "thresholds": {
@@ -11,7 +11,7 @@
   },
   "latest": {
     "year": 2026,
-    "avg_oni": -0.27,
+    "avg_oni": -0.14,
     "status": "neutral"
   },
   "annual_data": [
@@ -162,7 +162,7 @@
     },
     {
       "year": 2026,
-      "avg_oni": -0.27,
+      "avg_oni": -0.14,
       "status": "neutral"
     }
   ]
