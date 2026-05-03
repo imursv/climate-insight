@@ -1,16 +1,16 @@
 {
   "date": "2026-05-03",
   "metadata": {
-    "collected_at": "2026-05-02T23:22:44.410827",
-    "total_articles": 17,
+    "collected_at": "2026-05-03T08:38:02.645700",
+    "total_articles": 44,
     "sources": {
-      "korean": 5,
-      "international": 12
+      "korean": 24,
+      "international": 20
     },
     "sentiment_distribution": {
-      "positive": 5,
-      "negative": 6,
-      "neutral": 0
+      "positive": 17,
+      "negative": 12,
+      "neutral": 3
     }
   },
   "articles": [
@@ -408,6 +408,658 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "4269e8bedc74f907",
+      "title": "“봄이 사라졌다”…기후변화가 만든 ‘역대급 일교차’ [이슈+] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPYzdQM2hNUFZmV3NDWTMxTkVqcVBfVlQ0YTk2bThwdkxlajZCS3RHQTVmNFpnVVN2RVZnLWNoYW9uckgzMXZOWGZlbS1UdDVaVER6b2FjSFU4VlE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T02:53:34",
+      "collected_at": "2026-05-03T08:35:25.454286",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "97b19368d862c877",
+      "title": "[사설] 일상을 위협하는 기후위기 해결할 대표 뽑아야 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vYXZCTGF5LURzZG14R3daVXV6cHl4b00ydDg5YlA3eVNzNk5ieU9KNG45ZEdHQ29uZ0ZEb29GQ1I2eUZublRKSFlSdzdiT1pScGt5Y2xsT29COXlqRkpOX2NZd04xencwUVE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T05:13:31",
+      "collected_at": "2026-05-03T08:35:25.454455",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "일상",
+          "위협",
+          "해결",
+          "대표"
+        ]
+      }
+    },
+    {
+      "id": "f618f697d2babc16",
+      "title": "제주탄소제로니아, 개관 첫해 3400명 찾았다…기후위기 배우는 체험교육 거점으로 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iZERsNnNwLTE4RTJzaTVMcHJlaEJWdE9KdjZaazB1RnpiSjk4VnhHMGFuM2NYQWVWcGNnanU4RHdGZ0pNTERzNlFkZHA0aUU5OG40?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T03:13:00",
+      "collected_at": "2026-05-03T08:35:25.454738",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주탄소제로니아",
+          "기후위기",
+          "체험교육",
+          "개관",
+          "방문객"
+        ]
+      }
+    },
+    {
+      "id": "7de200db15fafff6",
+      "title": "배터리·수소·탄소중립 혁신할 에너지 반응 '핵심 비밀' 풀렸다 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9janM1MUxxOXUxSW1kQ2YzRFVRNWJNcGtoak1nXzFYWjRURDBNTUZOdnd5WHlhaFkxckhLMDNaZW1wZzZNY1c3anF0QUhmR0FFcWVYYmxtSlRiV0ZIRGNFbw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T03:00:00",
+      "collected_at": "2026-05-03T08:35:25.185885",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "배터리",
+          "수소",
+          "탄소중립",
+          "에너지 반응",
+          "혁신"
+        ]
+      }
+    },
+    {
+      "id": "907beb456b9e9cdc",
+      "title": "대전 대덕구, 가정의 달 탄소중립 체험프로그램 운영 - 타임뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PREJFWmM5RExUamFWY3NjbnJBLXFIY282c3NyUkxNTHF6bGJnSjlXQ1Q5czVBMFRvbGd3SGVRdGhDcEpRSlVVY3ZKN1BRT3N6bndCZg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T05:18:34",
+      "collected_at": "2026-05-03T08:35:25.185945",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 대덕구",
+          "탄소중립",
+          "체험프로그램",
+          "가정의 달",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "3d8109250c399f02",
+      "title": "“중고거래도 기후행동”… 당근, 정부·공공기관과 탄소중립 확산 나선다 - 벤처스퀘어",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBnbGd0a3FHS2I3RGlqSERaSGs2dUF2dFpKNnBCaGVoNzZGaWc1cmNHVzM3b3A1Tm5abmxPUi16VktGQ2VfazlGQkFSNFFXV3M?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T08:17:53",
+      "collected_at": "2026-05-03T08:35:25.185980",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "당근",
+          "중고거래",
+          "기후행동",
+          "탄소중립",
+          "정부협력"
+        ]
+      }
+    },
+    {
+      "id": "64f610dd35affd0c",
+      "title": "KAIST, 전기 이중층 분자구조 변이 규명…탄소중립기술 극대화 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xa3VwSExOZElpLXRlQVJGdjVzcWlGc240YXljaEs0eE1xSVBXV0F6b0ZvcVhUQzAxSklKUTRHNXpUQ3g5YV8wZ0NzVktoTTV2aFVjbHNhbU14WmFxTVpWS9IBeEFVX3lxTE9QVURFRUpjQlZVcXAtWlFnVElKZElQdDUwci02bG1YZHVhRjVWWlh0YjJxMFZvdjIyTWU5alVGdzhlcDF4WTBya0JfdmotQ2tJeGc4al93QjRHekRWOURiLUh1bTM4WWJ5VFo2NjR5dmEtaXE3Z1RmRA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T03:01:00",
+      "collected_at": "2026-05-03T08:35:25.186010",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KAIST",
+          "전기 이중층",
+          "분자구조 변이",
+          "탄소중립기술",
+          "극대화"
+        ]
+      }
+    },
+    {
+      "id": "afc2131f0d6a9f3d",
+      "title": "대전 대덕구, 대덕탄소중립생활실천센터 5월 프로그램 운영 - 투데이플러스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVUNvNUhVTkU1SjJXM0xndDFaQktZZWtPYXVQVDdPS1FZdkg3cl9QVzQ4MHBmd2Y0NHlYcG5OeHlqRXMwemZRTDlpNEZpNFg1YnVlZ1kzWGFvVDdrUVVUMlVRVlFZeDI5MVpENHc4Um5NQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T01:58:45",
+      "collected_at": "2026-05-03T08:35:25.186080",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 대덕구",
+          "대덕탄소중립생활실천센터",
+          "탄소중립",
+          "프로그램",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "7f5928eacb2c3b55",
+      "title": "박찬대 후보 \"탄소중립 실천하면 이음카드 포인트 제공\" - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVVrN3E1dzNWbm5SamJHTE1xM1RKWms3ZW9JWFN6NlVEX1B5SVZaM0JpTEJsRGJfTmJXazNSUTV6azRkeWR5U2ZqeHVZdFo0TTJDUjJGeUY1VmtaVENBVFZteFR4aFpHT0pLNno3R29JSWViTTdldmVLZzB5a3ZLbQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T05:48:08",
+      "collected_at": "2026-05-03T08:35:25.186213",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "박찬대 후보",
+          "탄소중립",
+          "이음카드",
+          "포인트 제공",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "c2eb813b37d564a7",
+      "title": "시흥에코센터 어린이날 맞아 탄소중립체험관 등 전 시설 무료 개방 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vUkNzM2VrVWdNdGNSSG9BaG9EdEx3ZUhQMWRDQ3JEVmNpdkxXZ1hrRmVsMVJoUzRuOG9aLWcyeTVnZ01xTjF4Z2JDTDVWQjVmR00zeG5weWVwN1cwN2RIMXVscXlncnhobTI2TVptYkY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T02:41:00",
+      "collected_at": "2026-05-03T08:35:25.186241",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥에코센터",
+          "어린이날",
+          "탄소중립",
+          "무료 개방",
+          "체험관"
+        ]
+      }
+    },
+    {
+      "id": "62c846b0d192405e",
+      "title": "제주탄소제로니아, 개관 첫해 3400명 찾았다… 기후위기 배우는 체험교육 거점으로 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UOTMyaXJMTm5ERUFOQXRpWVViRDlKQ3R3WXV5V3B1eXQ5WUZraGEzQXN4cHNtVVFSNGx2NExwMjJYVEpNdFRuS01lbmg2RW90dHpRVXNCLTBaUdIBXkFVX3lxTFBwVVgxeHlVZHdEUHFvWmlpWS1DQ3owOVdyLVIzd3lNZUpRZE1fWHZ2eWtIQy1Zdzdoakl0d2JzWURRUVQ4MHlzTk9HRk1xT0tSTklpV1EtQ0hmbzYtRkE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T03:12:28",
+      "collected_at": "2026-05-03T08:35:25.186519",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주탄소제로니아",
+          "기후위기",
+          "체험교육",
+          "거점",
+          "3400명"
+        ]
+      }
+    },
+    {
+      "id": "d25086830864ade6",
+      "title": "에너지 안보, 재생에너지로 지킬 수 있나 - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uMFFqa0JqNFh5cHRYYkNsMmlzVWZON2t6ckhYS2ZCdzFMUFVxcm9ESUN5bWcyMWFTeWRGbjc1S21Ndzd4NkRzcjhQcHEycy1McEwybDM4dE9fUdIBVEFVX3lxTE5WdzNiZDF4YzJqSG05eHZMTUd1U0RwMjdaS3BYUDd5OGRJck9KQXk2U0t1OHU2Szk1SXZNWl9JNEx2alVFVXBCekVybXMwR3pvV2gxUg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T08:22:51",
+      "collected_at": "2026-05-03T08:35:25.259387",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지 안보",
+          "재생에너지",
+          "한국경제",
+          "에너지",
+          "안보"
+        ]
+      }
+    },
+    {
+      "id": "e324770d20fc2492",
+      "title": "중부발전 ‘재생에너지운영본부’ 출범 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPSkJpZmdRc1pBU0hBY2VYSjZxNjFpUkgtWTdCMmdZSGRNd1dYQndsWlBGdGU2a0hWUms4TXp3djhPLWY3eWNkeXA2X0RTSy1ta3pmdDF3bllGd3hncVk4YndEVXYzcmtnS2NVRA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T01:03:00",
+      "collected_at": "2026-05-03T08:35:25.259419",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중부발전",
+          "재생에너지",
+          "운영본부",
+          "출범",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "c6226a1e3949060b",
+      "title": "중동 리스크 커진 제조 현장, 재생에너지 대응 기업 `눈길` - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15ZEtyUk9SRmlQWVJfY254TFZTT1ducXNobUhvQkFxMUhwbzdCeVBtdkpfdk5HVU1VUXZLakRQNnc5THFsQlVabC0wN0JiT1lKWTFoT1kxQjhzUHpkR01EWE13?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T04:42:45",
+      "collected_at": "2026-05-03T08:35:25.259446",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중동",
+          "리스크",
+          "제조 현장",
+          "재생에너지",
+          "기업"
+        ]
+      }
+    },
+    {
+      "id": "bc522103c81c2768",
+      "title": "임창휘 도의원, ‘재생에너지 도민참여 펀드’ 적극 추진 주문 - 일간경기",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBESFlOd04zV2tvOExhU1dTcTBQcmo4WjJFc0RwRzlDVzdSbVVzemNEYjU4U2RFR3NiY2VYcnJYX1NUMGRTc2dGMU5XMzFsQ3RLcFRZS2FQU1VmWDVJSnZ6c2JzclJqUlRm?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T01:14:31",
+      "collected_at": "2026-05-03T08:35:25.259472",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ae20ec20103e00e2",
+      "title": "한국중부발전, ‘재생에너지운영본부’ 본격 가동…AI 기반 통합 운영 강화 - 행정수도뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jUUFRT2lYSWw3YmtaUGQ5YlNtQmo1MUdCVE8xZV91Uk1IY1dxbTB2LTV3UkxpRnlodnFMeVdtU0Z5NEs5anVzaS1La1RIa1dMZXdoLWEwX21SLW05T2NlS3ByX3dNQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T06:20:17",
+      "collected_at": "2026-05-03T08:35:25.259498",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국중부발전",
+          "재생에너지운영본부",
+          "재생에너지",
+          "AI 기반",
+          "통합 운영 강화"
+        ]
+      }
+    },
+    {
+      "id": "921e28c28f1615bf",
+      "title": "호주 태양광, 2026년 1분기 역대 최고 기록 경신 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96OXkxY0w4c0FYcm50V25Pa3pfSlB4dGloYTVaV2J0VEU0UGthZDVYRjJKSXNmVDBxUl94X19yZ3VuajdtWmpUVEUwWG1fR3ZyUWItUlQ5UTdVbWhkeTRfUDZBM3NGbnlEMVE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-03T00:45:00",
+      "collected_at": "2026-05-03T08:35:25.259551",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "호주",
+          "태양광",
+          "2026년 1분기",
+          "역대 최고 기록",
+          "경신"
+        ]
+      }
+    },
+    {
+      "id": "992a15dd1b38abf2",
+      "title": "[다른 목소리②]‘환경노벨상’에도 정치권은 무관심…“기후위기·불평등 함께 이야기하는 후보 뽑을 것”",
+      "link": "https://www.khan.co.kr/article/202605031604001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-03T07:04:00",
+      "collected_at": "2026-05-03T08:35:26.621325",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "de9076f84726cfe2",
+      "title": "오늘의 인사-국무조정실, 외교부, 문체부, 기후부, 국립현대미술관",
+      "link": "https://www.khan.co.kr/article/202605031347001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-03T04:47:00",
+      "collected_at": "2026-05-03T08:35:26.622127",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "인사",
+          "국무조정실",
+          "국가기후위기대응위원회",
+          "신강민",
+          "기후부"
+        ]
+      }
+    },
+    {
+      "id": "f846892c9a0b335a",
+      "title": "The impact of climate change on the crisis situation in the Lake Chad Basin and Sahel regions - Amani Africa",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenlNcXNhR3ozaXRfQk9GYUxFa2ctZm5VNkIzX2s0UmZPVUQxTzc2V2ZvOXBTUlRjclNnazZnckp2WVpQc0ZueGxLcmx4VzE4cDlzTHA1NzczeVJ4Vmc4bmlfRFlLN2RBVUhoMFFFZHZuOEtpT2llMjhaODNaemJDbjl3M3dKdXQtYmtLVWh6dWdfSkhaTzI5Z0ItYl9DalFNVDhhOVVRb3RPSnpDQmc4cTBBZlRqWG5JWXNRQkhB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T07:47:55",
+      "collected_at": "2026-05-03T08:35:27.039479",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "차드 호수 분지 및 사헬 지역의 위기 상황에 미치는 기후 변화의 영향 - 아프리카 아마니"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "위기 상황",
+          "차드 호수 분지",
+          "사헬 지역",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "7b812cd8811ea7cd",
+      "title": "Spring temperature whiplash is getting worse with climate change - Hanford Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZTdLR0xEYjBIZjU3MmlLZjdkTTB6OVY1VU5YZ3c4STVnOWQ0X2t3X3RPa2ZmY2xEbVRqdzJwWkg5QnZIU1BMek1XM0VSTVNMcHBKUkgzNHQweXVuaWNReEFKUTViYUNVRGFWSEJrVkJ1Mk11Undjc2JQTU16SW1wOW1wdW1MMEs1VjNVVlgyRC1ZSmRvUWxHa2lLcVhEazBJZ1FCenBncGVWUUlGNG1lcnFJTVdobWsybkpHREd0bE9nYWZnUHdKWWk3NHdJT2FTeFlFdl9rZktZRzlNVDhtSGxtWVlLSlFJdi1scNIB8gFBVV95cUxPZU5Cci1Ya1dpTnVRNTlUOTJkNGRuWVNTY1NnaGIyalc1ay0zVlZKZXBsV2JGVk41aVZLSTBmXzBqS2hFYkNyZlZSd09ISGFWeFdHZkpCNW85ZGhTekJGa1JzaWp4TDlic2UwQXMyQkdCOEZMYmVVUnVrbWFKelhZN1dRdEZIOWhHazlGcXFDMVRUODlsLS0yX2ltd2NjaDlRY0VDLXpMYVBEM0hEUUw1OTlsMEpBbnVmV2JpQjVwWTdjQ0hIMm54aGw2aXozWkprVXBkVTBuVWc0NU5yS28xbmxsb0RlTC1JeHJjaUZwaDhWUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-02T23:05:00",
+      "collected_at": "2026-05-03T08:35:27.039513",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "봄철 기온 급변이 기후 변화로 인해 악화되고 있다 - 핸포드 센티넬"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "봄",
+          "기온",
+          "급변",
+          "기후 변화",
+          "악화"
+        ]
+      }
+    },
+    {
+      "id": "35a20a29cdc90900",
+      "title": "Oliver Cussen · No One Can Live on Iron: History after Climate Change - London Review of Books",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGljLVhzcWw1STNJUWpOSVFzVjlMVmtvX2xiSHJjcFpMZVZVVUc5dkJueTlRRmJrZEdicnAxaFpwNnRwc3dHaEhWMm40Vk5XcGhrSWdqZ2xnZkN2eF9uRHpiN0Y1NzczOUxkZFVsZ0htTUNRUF9BcGlrUTBObC1ISWEwUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T01:25:04",
+      "collected_at": "2026-05-03T08:35:27.039553",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f4931a2736ca030f",
+      "title": "Deep Water Coral May Be More Susceptible To Climate Change - DeeperBlue.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3RSYkhtc2xLX3MtX0NJM1I0a0pyOEE2MDdwRTBmMzZyRXkyX3E2blgxZ3pRVURyZkQ4TFJsYUtOZTRJdDZFbFNGTWRBUUw0cjZlT21NNUViSy1uaXQ2bENvbnVxeE5mZ09JUTRmY3VEWTFTaU1MeUlwOU1xYkNQRWdUZWVCdF9IQUtIaEdGcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T06:00:42",
+      "collected_at": "2026-05-03T08:35:27.039685",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "심해 산호가 기후 변화에 더 취약할 수 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "심해 산호",
+          "기후 변화",
+          "취약성",
+          "해양 생태계",
+          "환경 위협"
+        ]
+      }
+    },
+    {
+      "id": "58bb11abca6205b0",
+      "title": "Why recent heat waves are a consequence of man-made climate change - Counterview",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMEFFNVJydjdhMkVuMmZJMkJRbGlJR3M5QVpqZnVUWE9HcURncHRmV3RtUm41dzRkYk1mUE5HSjVmRkg2d1NobVdMVmRSelFFSGNDR2pqYW8zdEJPS0xHR3VJMXV2cUtvMnpIcllEQTdMRXA0alVlaWNxYnRrdTR3SlA5LUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T02:39:00",
+      "collected_at": "2026-05-03T08:35:27.040378",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ec2c7d3fc2e986d5",
+      "title": "How J.G. Ballard’s terrifying, prophetic vision of overheating cities and climate change is coming true - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSTdJM0h2RDR6Tk1sT2l2ek9YbC1sc1RTSlFTektfTG8waUFHRkwwVjVibzcxTldya2Z3bGt0Q2Q3VWhVQ1MtNzZaaWdVWHNPN3lBUHBiUFVEWVBEWGJ5dnBwRTctVUxBYVpuNEVNY1FSN0o2eXZHZklZc19EV2x4eDhqellIM0cxZUxNeUx1THo2cTZ4RWplYUFNWVk1TE5lNWpGZHpKRHc1bVBZZTcydkVGa9IBuAFBVV95cUxPdWJaQWhiMW82NTNDSmJHeDZfdVh2d3dTNWJZS0RWWGlyN3pfa29Mb1JqRXFtTWtNcmRSWm0ySUstbVlfU0JvOE50blBwX2hVYXV4YlRROF9ET21TcmdZX21mQ3Z6NWl5eVhoVnhCZDd6c2pBbjZPaWpOcGJRSHdvakhCeUNLdk1QZTV6cTV3SXlPYUNKQm9vNEtuWjQxQmNTVVdWWWNIQUVkamhYTmxfQ3ZVUEpNdGRK?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T07:29:33",
+      "collected_at": "2026-05-03T08:35:27.040900",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "57b4196bc4314be1",
+      "title": "Sky News Australia. . One Nation MP Barnaby Joyce says the climate change agenda has done “so much damage” to Australia. - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSktjOHQ0bGJlWl9BYzBNcmdDWUQ5aE5BcHhOX3NpaHBScHhZRFZBekVoWkFhczI2Y0N4VmJLYW1teE5VeGdHSnNJSmpzQ3MzVG1JRll4bmlDaHA2U0hvSXQzUkNTRG1QZGZBZ19lOV9CR0ZKQmdYX1BVYmdQalNZQUhZSW5KaVhaWVMwaktRZ25pbGJSdkd2N0c2YlhYUkFRNk1zQ2xXODc4b012UHJqNVVyckYyWll0eGFTWVpscnhCZlNxZy1KZU5yWFB0M2czQ1BDR1FDcldaLWRBTVE0TQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-03T00:04:52",
+      "collected_at": "2026-05-03T08:35:27.040982",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "스카이 뉴스 오스트레일리아. 원 네이션 의원 바나비 조이스, 기후 변화 의제가 호주에 '막대한 피해'를 입혔다고 말하다. - facebook.com"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "바나비 조이스",
+          "원 네이션",
+          "기후 변화 의제",
+          "피해",
+          "호주"
+        ]
+      }
+    },
+    {
+      "id": "2648576f5a92bffd",
+      "title": "Europe named 'fastest-warming continent' in latest climate change report - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYlZib1c5ZE04cUxyV1dTc1RTSXFfWkZLRG5fMGhoeXFNOHQ2b3ZGM1BjNE1Kc0s4Q1pUWkhnZmFfWE1RbV83dDRwRC14QWg0RUxyV0hKQU40S1MycHZCenZJRDhPeUIxdXRhTkpUdmFyMHB1QmtleEZPaGJuV2lVY1hWMXllX3VCUWFZbXpPQU92cEd0OWNObGFCUXRxZ0Q1Tjg0NnQ1S2VDSU9RTi00RTVVV3p2UdIBuwFBVV95cUxOR2NCU1dUOEFKazZ1Nkd5RHZHX3lnU1JNRDNPTjNLZmpaZUJNUlpEb29zazBKQmRJUjl3cHBtbW9TVkV0NkpBeVg4V1VZallEa3U1MjI3a0NJRkx0czlsTGNQNlFFckk1Zkh3WUljaVpsalU5SUd0Q1NKRG9BSGxKRGkxUUNleWRZU1h5NXBrWnM2SGRYV1Q1X3Q2SUNWNXRqRHd4QjBJckgxRWJ6M2JKVGdIVXQ5MWY1LTFv?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-02T21:46:07",
+      "collected_at": "2026-05-03T08:35:27.041390",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "최신 기후변화 보고서에서 유럽이 '가장 빠르게 온난화되는 대륙'으로 명명되다 - 더 비즈니스 스탠다드"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "기후변화",
+          "온난화",
+          "보고서",
+          "대륙"
+        ]
+      }
     }
   ]
 }
