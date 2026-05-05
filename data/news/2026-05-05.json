@@ -1,16 +1,16 @@
 {
   "date": "2026-05-05",
   "metadata": {
-    "collected_at": "2026-05-04T23:33:04.840593",
-    "total_articles": 95,
+    "collected_at": "2026-05-05T08:51:27.516350",
+    "total_articles": 127,
     "sources": {
-      "korean": 33,
-      "international": 62
+      "korean": 43,
+      "international": 84
     },
     "sentiment_distribution": {
-      "positive": 25,
-      "negative": 39,
-      "neutral": 11
+      "positive": 38,
+      "negative": 52,
+      "neutral": 13
     }
   },
   "articles": [
@@ -2375,6 +2375,833 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "025f5f818f702561",
+      "title": "환경 파괴 이은 기후변화…어린 연어들이 ‘강의 유령’이 되는 이유 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GX1VQc3ZJQWpXcWlPeHVRR0VvcE5HYXI4QlJBSmYyU1BkajV4MmxGREdCbmFSYmF3VjlDckJGQWJCb0ZTSm9BSFl5N3ptMmc2VGR4VUNmWDFyWUFrR3JFZl9HYzZOUzRXd1Zodkg0V2pQQlE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T08:35:00",
+      "collected_at": "2026-05-05T08:45:34.920018",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "환경 파괴",
+          "기후변화",
+          "어린 연어",
+          "강의 유령",
+          "생태계"
+        ]
+      }
+    },
+    {
+      "id": "0a7a42fc50f819b8",
+      "title": "이천시, 기후변화 대비 농가 경영안정 지원 - 경기매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lQTZxYWV4MXhKYTJ1Z2tSY0hTOWZob3NGdFR6dHBKTFhkRzFIdlozVFd3dmVXcXRELTdSWjhpalNLMHNvbkNMenI1S3ZJVHY5NlZROHA2TC1XS1hfNlJzdm55Z0VjTE0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T06:58:15",
+      "collected_at": "2026-05-05T08:45:34.920250",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이천시",
+          "기후변화",
+          "농가",
+          "경영안정",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "c4d03962594877ea",
+      "title": "경북도, 가뭄 취약지 4곳 1483억 투입…농업용수 인프라 확충 본격화 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5UUxGTFBnSkRDLWQ3VFl3bEQtdk5fcjhXR2xxYzRjVl9iLURMdzFYZWE2M1M1T0xTQmpiQzVHc3FMWTdwNzBHZHBuVG9LVWVldVZnSE9fc09GbWEzZnRtbnpCVFJQUTR3NHBQZ1E3VQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T07:36:53",
+      "collected_at": "2026-05-05T08:45:34.920414",
+      "keywords_matched": [
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경북도",
+          "가뭄",
+          "농업용수",
+          "인프라 확충",
+          "1483억 투입"
+        ]
+      }
+    },
+    {
+      "id": "d6772289fb111eb2",
+      "title": "'AI가 돈사 운영' ETRI 제주서 AX 스마트팜 구축… '탄소중립' 축산 실증 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wM29qbVgzbFhRX0RwekxjRjQtX1h0OERBRFpUaG9GNFhhcUJCT3l5cGhobzY5WGtuMGVCN0ttSmJKWDVxekw2WWdUR0ZVRms?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T08:08:42",
+      "collected_at": "2026-05-05T08:45:34.868850",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "스마트팜",
+          "탄소중립",
+          "축산",
+          "ETRI"
+        ]
+      }
+    },
+    {
+      "id": "7e5576d22d35f9ac",
+      "title": "“영농폐기물 수거로 탄소중립 실천” - 뉴스엔톡",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mazAzQ3MwVTNlbjc3RTRqTXFGdEhMMHNoOUlGUldCOHVjU0JPdE5INElpek51bVZBN1JSWHhhUmtGblU2a21iR09VNGhUcVhiN2N5Ynl2LUlqYnoyNFhQTVp1eGN4YTBWWGZiOQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T06:02:58",
+      "collected_at": "2026-05-05T08:45:34.869045",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영농폐기물",
+          "수거",
+          "탄소중립",
+          "실천",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "ac5dca734fb2033d",
+      "title": "대덕구, 대덕탄소중립생활실천센터 5월 프로그램 운영 - 중앙매일",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95bzE5OUUwMThZY0lDWUFrM2pqV2JlbmZweGdpajloZl91UmFjUG5IUEd4YUJmRExzNnlTOEY4TktXWl9aTFR5WDEydHUyUC1GUTAtOXJOeW95RFRWOEV2Zzc3c3Rtdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T04:41:56",
+      "collected_at": "2026-05-05T08:45:34.869072",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대덕구",
+          "탄소중립",
+          "생활실천",
+          "센터",
+          "프로그램"
+        ]
+      }
+    },
+    {
+      "id": "57859c458ef1223c",
+      "title": "동서발전, 6개 풍력 출자회사와 간담회… \"재생에너지 안전망 강화\" - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xZ0FTLWZXOXJyNko3TkVOMGFybS1NTWNNdjVNOTlaMHhrX0V1Ri1CckctZnVaanBNSmRxQXk5cEZQMXJEUWxReEtISGM4WjJyU2lGSV9jNlU3aGRuazNseA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T03:48:04",
+      "collected_at": "2026-05-05T08:45:34.814675",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동서발전",
+          "풍력",
+          "재생에너지",
+          "안전망 강화",
+          "간담회"
+        ]
+      }
+    },
+    {
+      "id": "fad99eaa08dd943f",
+      "title": "무안군, 재생에너지 융복합 지원 사업 공모 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xTmVxdExYbjRpVTBHZllVZUdlT0VTZ3YtZGpTRXRFYmZmR2ZROVRxZUNOOXJ2aEVYSnBCZ0ZYc2IyNVpOdTNDQWVCVFJDM00tOW51cnI5YjItLTVaVTBrR1h0Rnh0NnczcmJGdNIBb0FVX3lxTFB2YXVMaEo4SjUtVU5pNnlkb1VjaF8yYldmbm1udEJlR1l3Qi1QRTgxWHY2WENpVFpRRndUSktUV2g4STdrbTFzWE0wMUNvY0hJQnZtX0kyaUJWcXJsU3ZpS080RzhLdURWaHFscUxHRQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T00:55:05",
+      "collected_at": "2026-05-05T08:45:34.814708",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "무안군",
+          "재생에너지",
+          "융복합",
+          "지원 사업",
+          "공모"
+        ]
+      }
+    },
+    {
+      "id": "6f71abc487c35564",
+      "title": "까마우시는 전력망 인프라에 대규모 투자를 하며 재생에너지의 흐름을 적극적으로 수용하고 있습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZGQyNkJkbnBtU09wbDJtQ1c3WVhxeFdXNUJuMzZMZGd0b3BLcXdFeHVITXpxSFhJMVFqWVNHb3lsMFZNazR5YTlFRkxVTHJzRWV3WWxzMl9CY3lBRmVNY0ZnYUl5UXJpTzFodkJkd3ZkUE9zTVdMUnY3WER4aHNZVGx6REtzR21VYnluTzdHTnM3bjRx?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-05T01:02:38",
+      "collected_at": "2026-05-05T08:45:34.814849",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "까마우시",
+          "전력망 인프라",
+          "대규모 투자",
+          "재생에너지",
+          "적극적 수용"
+        ]
+      }
+    },
+    {
+      "id": "8ce95535205c29cc",
+      "title": "주민들에 1억원 돌려주고 숲도 만들었다···광주 ‘친환경 실천’ 선물",
+      "link": "https://www.khan.co.kr/article/202605051326001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-05T04:26:00",
+      "collected_at": "2026-05-05T08:45:35.550201",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광주 남구",
+          "재활용",
+          "무인회수기",
+          "주민 보상금",
+          "숲 조성"
+        ]
+      }
+    },
+    {
+      "id": "93969e7d2bf87c10",
+      "title": "Trump administration moves to block Minnesota climate change lawsuit against oil companies - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFpSUHpJX01MRkZ1NVI3SFZiX3dtTXdPd2hHZnJtLV9ielRoQ1YwS2VpRFpyc2VWMlR2RjBpN1h4NFJUMG9BcWtaUThJcFJJUlJtMXlxcWl4LWwtdXgtcGhzR2FvOVpmV2RnTGpNc0pKa0hTcUs3OGJ0VGc4SEF4M25sRTBLSS1IeTNySDJyS1d5LUNEV1JLSQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-04T22:06:51",
+      "collected_at": "2026-05-05T08:45:36.039412",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, 미네소타의 석유 회사 대상 기후변화 소송 저지 시도"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "미네소타",
+          "기후변화 소송",
+          "석유 회사",
+          "저지 시도"
+        ]
+      }
+    },
+    {
+      "id": "68f3045d0902481f",
+      "title": "Utah Senator frames climate change through faith and stewardship - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd3IzSGR4U1ZTUHRCbU55cGgxSkVual80SEdnY3JZMUxSR0QxV2V3VzAtUUxaWHZkdnBUMXNWeTVIUEdKWUtJODdmb21JQkhXWFo2aWhKdHBZWUN4WTJidTJkU1JrdFE2d2NvRnZVUS04Z0hkS1JLT0UwalB2Ul9sM1FPYmtyTVZP?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T03:01:00",
+      "collected_at": "2026-05-05T08:45:36.039504",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유타주 상원의원, 신앙과 청지기 정신으로 기후 변화를 조명하다 - 데저렛 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "유타주",
+          "상원의원",
+          "기후 변화",
+          "신앙",
+          "청지기 정신"
+        ]
+      }
+    },
+    {
+      "id": "6ed6df66f821dc22",
+      "title": "Misinformation and climate change are endangering summer watermelons - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX1BybDdUYUtaQmhPeDM2YWNlRGpRVjI2cmJZVXdXcDhTbnEyV3lXTXIyZXBvcl9iMU4zNEZlMWZUeEt0Z3R2Q0Q4eU94S1FOdTVDdjdKOU53T09qWDRqYksybGZWbEVwNjJyTElBU21QUVRtSU9oU3Y3eGxhaHFrMVE4cFp5TGg0enF3T0F4dUdyRXh0V0dFTkxLc2xHbmZHdnFXaVhPd0hSbmxUdDdJajVJYUFIQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T04:43:36",
+      "collected_at": "2026-05-05T08:45:36.039707",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "잘못된 정보와 기후 변화가 여름 수박을 위협하고 있다 - 유전적 문해력 프로젝트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "잘못된 정보",
+          "기후 변화",
+          "수박",
+          "위협",
+          "여름"
+        ]
+      }
+    },
+    {
+      "id": "23922c4b14495067",
+      "title": "Trump administration moves to block Minnesota climate change lawsuit against oil companies - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSjJBOUhLRUNTS0RIUnlEWTh6dnhVR2wzbUFQRXRMMjFMbEtvUEdGbnJSMUdoRmhDVlM1cEpNWDh6UnFnN1U2eWV4UUVrSkNLRmN6aU9xOWNPRFV0cUdGaExZT3VKNkJhWnpZS3ctdWZEUGtSd1dQci00VnQ3el9mTUdvZ2g4Tko4Z0xfVnBZSnNYdEFjT1lnUkxtTDluUlFOd2M1b0gtTFRQQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-04T22:28:00",
+      "collected_at": "2026-05-05T08:45:36.039761",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, 미네소타의 석유 회사 상대 기후 변화 소송 저지 움직임 - AP 통신"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "미네소타",
+          "기후 변화",
+          "소송",
+          "석유 회사"
+        ]
+      }
+    },
+    {
+      "id": "89aff8f881a0940f",
+      "title": "Avocados push out citrus fruits as Japan warms up from climate change - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3JwSUlFMWFXUjJyTm8xNXhBQnRFUTlQR2lSZEhTRVZOSWZWOThwLXVaRFZJVzRTeGtIUkhJNGhVM21MMUxUYlRHNk1uUC1HSFdUUVh3dFB4QTZ0MkVmR05SYlNmbmpHV2dabTB0NUFOSE42bTBGNXFQYkpDQlFzUGlsb29LRVJQd0ZzeWhfVzh5aVM4bU1rcjhaNnVPT0VOY09kczF1N0hDM3phX0ZuRlVBOGN1ZkM2LVNzcC1YSdIBvwFBVV95cUxOZzdZTDA1a3E2V3J2eW9zMUl0TjVucnpFSl9aSExHNzBxTGFjMlJVcmd5X3ZocHk3d2laX1otVDF2TEZjM21nWG8yTmtPR21PX0ZidllHSjZzVGtxaWNZcm5pekRoekJmSjVTdmh6Y3NDVnBqcmx0RFAtVTktcE9yNDdualdXZzEzdm9lTzdaZURZdlVUeEstdTlLOFF4d2FmMTVTSTV6LUZtb1lORzZqWWVVWXR2NVAweXVuT2xFMA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T04:20:44",
+      "collected_at": "2026-05-05T08:45:36.039883",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 일본 온난화, 아보카도가 감귤류 밀어내 - 사우스 차이나 모닝 포스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "아보카도",
+          "감귤류",
+          "일본",
+          "기후 변화",
+          "온난화"
+        ]
+      }
+    },
+    {
+      "id": "7ec295130c5050b9",
+      "title": "Designing a motor for electric vehicles of the future - CORDIS",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVBneGxTZGIyb3NIeW5SUk5Pdm5kSGExOXNsVUFsc2p0RTJteHZsR2ZhYW8xRHFCbkJudFhDQVFON0huRDk4WDFuLUdFcUpGMWJrczE2cDVEWGRsa0thZjhuSzBjV18yQXJNRTZrUHFsRkNsdFIzVk5laG41TUJNN08wYjE0cjk3UGdEd2pJT2dNeWllVElsZXNyMnA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T07:41:15",
+      "collected_at": "2026-05-05T08:45:36.040008",
+      "keywords_matched": [
+        "electric vehicle"
+      ],
+      "translation": {
+        "title_ko": "미래 전기차용 모터 설계 - CORDIS"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기차",
+          "모터",
+          "설계",
+          "미래",
+          "기술개발"
+        ]
+      }
+    },
+    {
+      "id": "6b0d271e17038cd0",
+      "title": "5-4-2026 The war, climate change and more… - My Bellingham Now",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXpBam91dzdoNVFSVFEzZEI3U2tXbS0xbDZVaHZxWXN6YjJNcERZd0dDNDhiRkg3WS1JMlA1a0tDWDRwTEFQWUZnWm5QYWRFRUctSTJ6aEFjOER6SmhiRUVLeDUxMkhhN0RlbzZHdnJTRGc3bFNwczIxaXhrMFNQRkk1VUs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T00:19:19",
+      "collected_at": "2026-05-05T08:45:36.040041",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "2026년 5월 4일 전쟁, 기후 변화 그리고 더 많은 것들… - 마이 벨링햄 나우"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "전쟁",
+          "벨링햄",
+          "뉴스",
+          "시사"
+        ]
+      }
+    },
+    {
+      "id": "97b6d6977daf8aaa",
+      "title": "World Bank: Climate change could cut Malaysia GDP by up to 8.3% by 2050 - chinadailyasia.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tWGFwcE9yay1yc21VUTVYR2doNW1sX1VjbWdWM2lsUVhmVFlxb3A1dUtVX0J4a3JZVnp6OUNDUzcwRTBlY3UzUXNOU3lJTUF2TXJ4WE9lWGE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T03:06:56",
+      "collected_at": "2026-05-05T08:45:36.040344",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "세계은행: 기후 변화로 2050년까지 말레이시아 GDP 최대 8.3% 감소 가능성"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "세계은행",
+          "기후 변화",
+          "말레이시아",
+          "GDP",
+          "경제 손실"
+        ]
+      }
+    },
+    {
+      "id": "7e178ee625318384",
+      "title": "Trump administration moves to block Minnesota climate change lawsuit against oil companies - guardonline.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOVWJHdnJnNWRJNmpaSTZTV0docFl5d19rOC1wRUQ3SWd3NHNqLXkwcEhHbzUtUkpHengyZnBjTzNHZWJJVTFkdDVQb3VDOWN3elVaRmtuMURUdG9FNHJ3VFExYUloWXFVU3IyOEpqQ0RlcXNUOThkaE9CU0MtTjRKb1RHSVRHejIxV0N3SHdsZ21MRk9iaHNjOWltb2x2TlNTU2o3dG1ScHpvZXZ4UlplaHo4Y2NHS0pmeDNvT2NqbWstamZ1M1hOWl9PWi1vQnplMkRHZTJ2UFl3azBIcFU5Z0ktUVdIbXFUczdBSkNrMS0xeVN0c2ZVUWRsXzFWZDBtZFVLTi1Edkw4ZUlVUnRZ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-04T22:28:38",
+      "collected_at": "2026-05-05T08:45:36.040456",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, 미네소타의 석유 회사 상대 기후 변화 소송 저지 움직임"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "미네소타",
+          "기후 변화 소송",
+          "석유 회사",
+          "저지"
+        ]
+      }
+    },
+    {
+      "id": "2ce7c39fff7e3996",
+      "title": "Victoria circus blends art with ocean science to address climate change - Vancouver Island Free Daily",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRzhlbDJPYS1ScFQ1bWRCSktPTi1BOWlJX3dZRnJLWWdQQm1jNGJwRk1fMFljTC10YzBJekdpdjhIZE41eTBoN2hDcjA2a2t5aURVTDNDanZsOVNfTkR5bkIyZi1yMGJhWVNBX0huMHFWZmUtalVmT2dNZkJOcm9rUXFYVFI4aElLQl9jMlpySzQ3amxDZ1lsR2hjUXNLay1iQlVjUGRBamxTZUhHLTU4Q0FzSnA2WnlkMFhTcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T00:02:14",
+      "collected_at": "2026-05-05T08:45:36.040938",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "빅토리아 서커스, 예술과 해양 과학을 융합해 기후 변화에 대처 - 밴쿠버 아일랜드 프리 데일리"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "빅토리아 서커스",
+          "예술",
+          "해양 과학",
+          "기후 변화",
+          "융합"
+        ]
+      }
+    },
+    {
+      "id": "da60c5717e1ec5f2",
+      "title": "Thailand Joins Global Efforts to Combat Climate Change by Issuing Heat Index Warning for Bangkok, Alongside Cities Like New Delhi, Beijing, and Manila - Travel And Tour World",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObTY1dXpJdmEzYlpOenJ4OF9CTnBjOFItd3pQZVZsTDlEY3FreXpySlo1WTRPV01oRUFQR0MwNlVqSVEwOTB6N0RCdVJxbUJ2dkV4UlloekhHZGx3RU5OdWU5U0ZfZlgxNmJDZzl5MmlnQWZIcEltMGpwNFdCQjZHZEZKUTRYcVhTWUdZUVk3YmpyZnhjXzdBUVhhZzhlbmVGSnE2cy1wcnh3QW1mN2VpRk93Z1QtM1JUdmMxR1hzLWQ5S3BDYUZJRVV1SjZKZzF1MmtYSnZDTURnN0NSNnNmRTZtdi12Ym9JWVZDMDlQZEp3Ti14em55NlhidmV2Rlp2Uzc1WXdLM2M0QnJWQzFKVlRJVHhTb1VRUi1FVzdZaDN2UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T06:57:10",
+      "collected_at": "2026-05-05T08:45:36.041017",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "태국, 방콕에 폭염 경보 발령하며 뉴델리, 베이징, 마닐라 등과 함께 기후 변화 대응 국제적 노력 동참 - 트래블 앤 투어 월드"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "태국",
+          "폭염 경보",
+          "기후 변화",
+          "방콕",
+          "국제적 노력"
+        ]
+      }
+    },
+    {
+      "id": "a344490c54f8e8fb",
+      "title": "Audit finds flood hazard mapping behind schedule, doesn't account for climate change - Coast Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS1ZxYlRDTGNQY2drTlM0eU1oNFdVeVFnRDlSSktOODdiaE0yY2hQcFJoend2OVE2eXVCQTMtRERxVTVucmtyZG44WmlFaU9QMFhlT211TmMzSW1sbXEyUFNzMnhpTFdWYU9MUmM5Y3RiOXhFNmhzNHZwNFRwWndaQTJYX1FnMDhaNXMzRkpxR281OG9UZEhZZF90dE5zV256NFNUbDY3VUZGU2RVSEhlWURhaUdRTmVfNWdJbE5GVjdUc0g0N1llTg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-04T20:54:21",
+      "collected_at": "2026-05-05T08:45:36.041062",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "감사 결과, 홍수 위험 지도 작성 일정 지연 및 기후 변화 미반영 확인 - 코스트 리포터"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "감사",
+          "홍수 위험",
+          "지도 작성",
+          "일정 지연",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "27b4bf19001690ac",
+      "title": "Trump administration moves to block Minnesota climate change lawsuit against oil companies - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaDh3cklBMlQ3a3ZVa3YtTDM4aVE3Zm9jejlzMWRYWGROZThrMVZWRlBOWUpmVWUzNGVCZURCbEhaaFJFOFhQZTVVUWExN2NPVVFhRkhsMXJiX2lBMGZsZGVvbEpRa09vNVJsLWhleVVCQnFMaFRYamtGV1RiRXpWeG50M2RXekVjTXNQRG9pS0ExcmM3cUVrVjhDZ3RaNFJfcXc4UnE3VEJxdDdCTTZ5Tjdnc1F4SWF5cnBVWDYycXJfbGw1R0pRbC1TVWREeEVKYWhMN244Z1RYNHc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-04T22:09:09",
+      "collected_at": "2026-05-05T08:45:36.041209",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프 행정부, 미네소타주의 석유 기업 상대 기후변화 소송 저지 움직임"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 행정부",
+          "미네소타",
+          "기후변화 소송",
+          "석유 회사",
+          "저지"
+        ]
+      }
+    },
+    {
+      "id": "6aad2fc17ace3af9",
+      "title": "Government's strategy to protect critical infrastructure from climate change falling short: report - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUFdvYVpSRUUyQlFPcV9aOUt5ZTZ2RnRpVHV3OHllVkpwb2FBa2FRc25vQ3laVS0yaVJuWWRkV3VDTldsVk03RXdpcEctbTZ4NUJLdFYtOWE1dThmT2lCSHJmNFd1S0lzZWd6aTV1THFoSXJKQmJJUGY1TFNKV2NEZldEeWE4QjNRMDVEVUt3SUtZSWpGSmxyODNrMWlYNVI2NC1sR3hNU1hsVmRWNUM5a0t3ZTlPX3hBNnEwdF9xZWFLLU5SMUU5c0xzUjlmOHBQMEJ6bTBYdlF2dHVqUDFYRlBXVG1fSmRhMTB6dEgxYkhnQ19xUmRz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T03:22:11",
+      "collected_at": "2026-05-05T08:45:36.041260",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "정부의 기후 변화 핵심 기반 시설 보호 전략, 미흡하다는 보고서"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "정부 전략",
+          "핵심 기반 시설",
+          "기후 변화",
+          "미흡",
+          "보고서"
+        ]
+      }
+    },
+    {
+      "id": "15afa35f21a5684e",
+      "title": "Japanese citrus farmers switch to avocados as climate change warms soil - Bangkok Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQWkyWFpMLWpJRlM1ZGJrSDU4VDlGVG5WdGRxczdYOE43elBTVkhhWS1ISTZ3U3VodE5PQ2duaTNtYjZfUWVuSG5BMERjS0Z3Wk9mRW5sV01zWno0TE91dl9LTk5Rc1ZwMHhPclFCTGpCVzQyTnN0UnRveWMxS0RCdDFFX2cwRDBCVV8zYmJSN1F4UEI0M2RvdmlPdHlpMk51MmxoWkdXYzFJZjRkR2Jj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T08:02:00",
+      "collected_at": "2026-05-05T08:45:36.041286",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "일본 감귤 농부들, 기후 변화로 토양 온난화되자 아보카도로 전환 - 방콕 포스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "일본",
+          "감귤",
+          "아보카도",
+          "기후 변화",
+          "토양 온난화"
+        ]
+      }
+    },
+    {
+      "id": "6cde9e80fb66d13f",
+      "title": "Climate Change Concerns Surge in Asia, but Public Backing for Policies Varies - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcUYxblM4QUowS0JpaTlwWTdpM1JRTFh2Y0FXMTFTQklYSzlfQ3R5LU5kN2ZpZ044dXpfQkxjRnJ4TXNqbEZobHFqTERsdFJGbFpNVXo4NXZwRFdQN2dsMjlwLTZDMlljRlpFREdoVWZ2SkxOQW9qaV9rYlNyZG10b19ZQWppWkVUT1dadkRFUENCZ2s2SU9MTG1ldWtmQzZpR2szNmE1WWhrdXVGSVN0YUpSLUlSVUxJbHNnUmM1T0xscGprQ1kwMFRod1NrbnNlWmFTang5TG_SAd4BQVVfeXFMTkdSbTJyd1FPZC0zUnNvSVpCb2QwX3hWWmZJMVh5QVlQSlRrOEV1MU5xdFhlZmtYVDZnOGhScFIyV1JwWFZYdUFEQjZLQlBNY2VldEtiUXl4TDBKX28zZXcwS0pkakN0Y1htODl6ZE5Zbm1PbjVUQkdSMWhPYWVCaDhMbzJ4VzRmdUlLZ01HZlM4ZHFwLWN5M2tnRVM4cjVTSkRsTENwaEFYbHJQR3U3Q3hfSHltbGZBNmVjQWwxV1RyVl80cFcyVVNxdldGWWRBN3FkQ0s3bV82eV9mdS1B?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T04:20:15",
+      "collected_at": "2026-05-05T08:45:36.041334",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "5dcef978acf82f21",
+      "title": "Climate change threatens TZ’s blue economy growth, govt warns - Tanzania Insight",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMFZib09PWGN4SHdPNTBPeEJ4S1R1X0pxTFRiNmVyejhsSnQtQjg0R3h3SVNzNXJJNUltVVBzeFJxN0ZBakhXTmlUUmVDd1hvNXpCemJaQ3YxNDhNVFdrVWYzZnNTMW40SHBVc2pBb3Yyb09XY3NDN255TjV0aXA4bXFHU0pMT2VqaFpUOURlYTB4QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T06:42:38",
+      "collected_at": "2026-05-05T08:45:36.041365",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 탄자니아 블루 이코노미 성장을 위협한다고 정부 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "탄자니아",
+          "블루 이코노미",
+          "성장 위협",
+          "정부 경고"
+        ]
+      }
+    },
+    {
+      "id": "37ac675d01e8a676",
+      "title": "Rain without a pause: Climate change deepens coastal seven-days rain phenomenon - Daily Nation",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWZYV1BnalJvY2N4bW43TEhoaGFaU0JiRGRBMk5MXzMzRlgxYnB0WUFkZXk1UkFOTVZPYmJ2b3lBZklIdFVPeS1QZE1fRnNGTXNKUHJjak1Pa2U3aFQ4aFNUYXYtdDlVZUt4UUNOX1ltQnBRZ3hRSXNNdHZHQ2s4Sm1aQjQxZEtRZVI1ZDlja29Tc0gzWTlNXzRkRGEwUlFNbFFMQWI1cVZCQ2ZHdncxRUxMdXU3UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T04:30:00",
+      "collected_at": "2026-05-05T08:45:36.041393",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8080db4ca47b149d",
+      "title": "King penguins are benefiting from climate change - The Star",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlh1U0Z2QUFfZFhTVThieFFxelI3dE5QQXZaeFNsaXlYOEFSQ1FrdVJodlRxSzBpWkZmV3BLSjJLT2tWc2pXM1pxWmRCVGRVZlY5c0xHZWxzeVJ3Z1EtU2kwUjFxMFY4Uk1IU0ZZYTZmbHltcnhBc0hXWGNzQWZQdDNZcGNfM3haalRfSHI1R3RBdnNzVnVVNV9ZYmlvOUhoeWdYRHl3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T07:00:00",
+      "collected_at": "2026-05-05T08:45:36.041626",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0880a107d634cda5",
+      "title": "Ulukhaktok's David Kuptana talks climate change he's seen on the land - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kOS1BT1ppT3A5czNvNWVpNDBMRHFrRk4tWkFDUmJrZlduRGJzV04wTE10NDROLU11bElHZVJxczN5dEhIdXUycS1rc1BSRDBqS0ZhU3VmSG5pQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-05T00:33:56",
+      "collected_at": "2026-05-05T08:45:36.041651",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a009debb6e253452",
+      "title": "‘Historic breakthrough’: could the fossil fuel era be coming to an end? – podcast",
+      "link": "https://www.theguardian.com/science/audio/2026/may/05/historic-breakthrough-could-the-fossil-fuel-era-be-coming-to-an-end-podcast",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-05-05T04:00:43",
+      "collected_at": "2026-05-05T08:45:35.666758",
+      "keywords_matched": [
+        "renewable energy"
+      ],
+      "translation": {
+        "title_ko": "‘역사적인 돌파구’: 화석 연료 시대는 끝날 수 있을까? – 팟캐스트"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 회의",
+          "화석 연료 종식",
+          "재생 에너지 전환",
+          "역사적 돌파구",
+          "산타마르타"
+        ]
+      }
+    },
+    {
+      "id": "38d16c443ef56ff6",
+      "title": "Q&A: How countries got the global ‘net-zero’ shipping deal ‘back on track’",
+      "link": "https://www.carbonbrief.org/qa-how-countries-got-the-global-net-zero-shipping-deal-back-on-track/",
+      "summary": null,
+      "source": "carbonbrief",
+      "language": "en",
+      "published_at": "2026-05-05T07:55:20",
+      "collected_at": "2026-05-05T08:45:35.781815",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "Q&A: 각국은 어떻게 글로벌 '넷제로' 해운 협약을 '다시 본궤도에 올렸나'"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해운",
+          "배출량",
+          "넷제로",
+          "협약",
+          "국가"
+        ]
+      }
     }
   ]
 }
