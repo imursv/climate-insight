@@ -1,16 +1,16 @@
 {
   "date": "2026-05-09",
   "metadata": {
-    "collected_at": "2026-05-08T23:31:39.499436",
-    "total_articles": 63,
+    "collected_at": "2026-05-09T08:37:48.071380",
+    "total_articles": 90,
     "sources": {
-      "korean": 36,
-      "international": 27
+      "korean": 51,
+      "international": 39
     },
     "sentiment_distribution": {
-      "positive": 34,
-      "negative": 9,
-      "neutral": 6
+      "positive": 47,
+      "negative": 15,
+      "neutral": 10
     }
   },
   "articles": [
@@ -1537,6 +1537,684 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "10a2aff3f8cb97fa",
+      "title": "한전, 태양광 인버터 협의체 출범 - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5obnJ3T19qbzcwbXBJZTNkM011QkR2T01qM3ZQRHRjSS1aem8zT3ZXSkR4dldhSVYwblFSQk5fVHc3MXlkTkQwSFFHdkZyMThpZlZTUVRiZHl2c1ZPdHlLT3p4eGxCWnFE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T04:28:54",
+      "collected_at": "2026-05-09T08:33:48.351624",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전",
+          "태양광",
+          "인버터",
+          "협의체",
+          "출범"
+        ]
+      }
+    },
+    {
+      "id": "ac20edfd576d3bfe",
+      "title": "‘찾아가는 환경교실’로 탄소중립 실천 확산 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sSVZ6ajBwM2Z2ZXRhQ3dtQ0hHN3dHWkNwYmt4MG53MkU4TnMzVkNGZmxPczV3TUhJMjUydzhyR0h2NEkwUlk1dE5vaE5CX2FURGVfWk44Tzl4WXdzN2pLN1NoVmRSQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T01:59:34",
+      "collected_at": "2026-05-09T08:33:48.352172",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "찾아가는 환경교실",
+          "탄소중립",
+          "실천",
+          "확산",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "04386a0c143902ca",
+      "title": "환경부, 제4차 국가 기후위기 적응대책(2026~2030) 수립 착수… 물가 안정·취약계층 보호 핵심 - 유스연합",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43dEZ4VzBwMWJTRzd4VmYwYzhqWlNHZ1ZkcHFpdktfV3VTSFFmVUgyTGR0OXdNMTdPZ0txNGlfSlpLR3ROd3g0Zjg4bmJhWTNWT2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T00:41:19",
+      "collected_at": "2026-05-09T08:33:48.352347",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "환경부",
+          "기후위기 적응대책",
+          "물가 안정",
+          "취약계층 보호",
+          "수립 착수"
+        ]
+      }
+    },
+    {
+      "id": "ce6830db5b0f33f6",
+      "title": "탄소중립기본법 개정, 5월 처리 안갯속… 주요 쟁점은 [기웃, 기후] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8waXJiRW5TZDhNazlRRlRjeVJ6d2VQb3Jzb1ZsVW02SUIwOGpBYWNiQWNFMUw3bnpBalhOQldxUW5qcEZtM2RZZnd1U01STTg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T02:23:19",
+      "collected_at": "2026-05-09T08:33:48.408781",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립기본법",
+          "개정",
+          "5월 처리",
+          "안갯속",
+          "쟁점"
+        ]
+      }
+    },
+    {
+      "id": "aa9f6752aa338e4c",
+      "title": "인천 동구, 탄소중립 환경교육 특강 - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iTVBrZF9wVGt6dzFwTTk1ekYwYmdvN0dQY1l1NWdCOFhOMFNrZTJBOWRWWDNXNkpoejNQMTc2VmIzTFpTRW8xd2x1S2o0MTJsYW02UEVpNGJ3azlibkI3cEtmWVNxMll3YWpn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T00:08:44",
+      "collected_at": "2026-05-09T08:33:48.408945",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천 동구",
+          "탄소중립",
+          "환경교육",
+          "특강",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "76afb6b7e3d2c429",
+      "title": "\"충남 자원봉사 릴레이, 아산서 첫걸음. 탄소중립 실천 캠페인 전개\" - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuMjFoU0drUUhIMnFjUlpsQkdzSGdtcmp1UFBmYUF3RnFfVWhYSjZBVUhvOXRYb0RkVXk0WDNwRFlFNXZnX2g5M2VJNGFzdVhxX0Rfd0J0TlhPU09RSWtvMlVIX0xqei1aNEhNNEJB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T01:11:34",
+      "collected_at": "2026-05-09T08:33:48.408978",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "실천 캠페인",
+          "자원봉사",
+          "충남",
+          "첫걸음"
+        ]
+      }
+    },
+    {
+      "id": "d680adbc7e4d59e2",
+      "title": "한대희 \"탄소중립 실행·재생에너지 확대방안 마련할 것\"[6·3군포] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB2a3FQcWFnM0tBc2VHOEl4WFFNRXAzUG1RMk5rWnVFUkZraGkzbGxYWG5LcVo3dFM0M19iXzNHdE1QNG1lRW1GSnM0c0FTdVN2aVBxczlNbURMQjAxel80TzNSNDVBZFFMYkVscXY1MG0ybW1pcThXZA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T07:09:00",
+      "collected_at": "2026-05-09T08:33:48.409005",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한대희",
+          "탄소중립",
+          "재생에너지",
+          "확대방안",
+          "군포"
+        ]
+      }
+    },
+    {
+      "id": "902741245a5cfc14",
+      "title": "[안희민의 에너지산책] 국회 기후특위 탄소중립기본법 개정안 '각양각색' - 데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtMFBGdVlnazhMM0FXRk1YanBodi1JdjlVTzJWbWZmRkxZYUZPakR6UXFrbzdqZi1Rc2tacXhaRDhHTUduN3VoX0ZSdmZ2MkNVQ0E1UkpmLXRHUUpNcjF5d1VTbjdpSVRNVDdVZU9SMNIBc0FVX3lxTE5LV2FZTGFvbjVkeERrRnhSdFI4dWVDN1RDZmk5R3hLVm1xMFpUV1hVU3kzYzVndXFTRWZCMkRpRlppUWY2dkcxR3ZfVXdpdExZa1RzZmJINllIX1Vja0otOWRER1Y1SVZiOUV6T3ZHdW5WdDQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T07:00:00",
+      "collected_at": "2026-05-09T08:33:48.409053",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "국회",
+          "기후특위",
+          "탄소중립기본법",
+          "개정안",
+          "각양각색"
+        ]
+      }
+    },
+    {
+      "id": "5f8bd89f7bd1e25b",
+      "title": "한대희 군포시장 예비후보, 환경단체와 탄소중립 정책 간담회 개최 - 경인매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14d25TUnphMkhBbXc0aGEtQTc3Mk1qbVBwM0JubWVSNzZkcEVob2k4R0FoemdlMGZwYVpud29xT0RXaWRzNFdXSVgtaVVrd3AxcTZNd1dJc3NrX1FLeU1UUkhMcy1TOHNZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T05:56:18",
+      "collected_at": "2026-05-09T08:33:48.409101",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "한대희",
+          "군포시장 예비후보",
+          "환경단체",
+          "탄소중립",
+          "정책 간담회"
+        ]
+      }
+    },
+    {
+      "id": "0544a4222e2b9e54",
+      "title": "아산시, ‘충청남도 자원봉사 릴레이 선포식’ 개최... 탄소중립과 나눔의 대장정 - 뉴스홈(newshome)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40MkliTlZfVS03SXhMRjNnUVg5WFV6UTFjQURFMkV0V0d1eDlDRjVZcHllZmlGRUNDZUJnRmFWTzNTNGpBQWVBUXpwZWk0bHNUUmx5WTljMTNVRUpiS2s2LUZOc0pmRDZwNmNzZkVB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T01:32:20",
+      "collected_at": "2026-05-09T08:33:48.409190",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아산시",
+          "충청남도",
+          "자원봉사",
+          "탄소중립",
+          "나눔"
+        ]
+      }
+    },
+    {
+      "id": "9c8e61f131d6d6a2",
+      "title": "한대희 \"탄소중립 실행·재생에너지 확대방안 마련할 것\"[6·3군포] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mdjRlUDFpSTZ5U0ZHQXlDOE90bDdfQjhfTGpPZV9wTkpXbHlHd2hTdTZvOTRuaVNCeFVGNVlLMXRyV0prMGFybm45aDRlT1A3TUNj?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T07:09:00",
+      "collected_at": "2026-05-09T08:33:48.409234",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한대희",
+          "탄소중립",
+          "재생에너지",
+          "확대방안",
+          "군포"
+        ]
+      }
+    },
+    {
+      "id": "d27ce4cb985118bf",
+      "title": "전력자립률 전국 하위권 충북, 재생에너지 확대보급 전략 모색 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sLVp1aHhiQjVOSDRocG1IdDJ2dWVVY3J4eDdWUzlKWmNwN05NNjlBRE95cmJocUU0OU8wNkoyT0YyLU9qRzl0djJWRzFkTV9QdFpLcU83TXEwVDjSAWBBVV95cUxPVTZ3YkkyNDBWdEw3QjN2OW5EcUhKNFU5dmlTb0o3TkozR3pCZlVmVEE0R0c5b0xoWFZtVmZmbmtCQktmcGE5bzNHVklrbVEyaGZTdVV0RmpLcEp2VUo2bkw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T00:00:08",
+      "collected_at": "2026-05-09T08:33:48.298761",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c42af257fd18cc45",
+      "title": "\"메타·아마존이 태양광 구매\"...덴마크 페리거스, 기업 전력계약 비중 35% 돌파 - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JQ2d1dFJ4YVdJY3FaQkhBLVdSTklwY0ZTUDg2WXplSVVWUlF4bXNhN2Z4Ujh4TW53OFFNaUdwNmE3OHppVUc3S0ZrWGs1UHhaa1g0dVRDeXFpUy12WXFldFZTSmpmMW9JUnc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T00:45:00",
+      "collected_at": "2026-05-09T08:33:48.299032",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "메타",
+          "아마존",
+          "태양광",
+          "기업 전력계약",
+          "페리거스"
+        ]
+      }
+    },
+    {
+      "id": "7e19972d7bf88d74",
+      "title": "전력자립률 전국 하위권 충북, 재생에너지 확대보급 전략 모색 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlcXprcjdfSG5fbkM5SWx1R1pOanRScTJGWkZVSTVaOHhJMXVQTFk3b3ZzbU80TlFybUtJSWZFUWt4aW04LU9wYzV6WnMzSU1xRXUw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T00:01:00",
+      "collected_at": "2026-05-09T08:33:48.299326",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전력자립률",
+          "충북",
+          "재생에너지",
+          "확대보급",
+          "전략 모색"
+        ]
+      }
+    },
+    {
+      "id": "c82087108e4318d2",
+      "title": "[농림부] 임차농도 허용…영농태양광 새판 짠다 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ub0w1d1ZfM05tZkFpZlgwdGpzQ3V0cHRBeXN2LXRhTWp2S3F4b2JHV2hIOTdfWDZoajdwdWg4eGtkUWxuNHVHaGxraDBaLVZITEZGLWhuX1o2SXFfemxRejlOWS12R2dkaFdramQzSF9vOUnSAXdBVV95cUxQbDd1NVJZdTdaRUR6T3ZMR0RKbGxzQWNpT3h4aDVubmRlZ2RQbUJkdVBScnRfVDJBdVJET1ZVNkVpWUZQZDh2TURfbHRqWVZuOHpwc05pajQxWjNHMDhGa2pYVExZMlN4ZzlVV1B1QklZRXlQdjRGWQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T01:30:55",
+      "collected_at": "2026-05-09T08:33:48.299351",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농림부",
+          "영농태양광",
+          "임차농",
+          "허용",
+          "새판"
+        ]
+      }
+    },
+    {
+      "id": "99f30463d62b03a1",
+      "title": "There has been a sudden increase in the rate of sea level rise - New Scientist",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWlFqRklZN3BKLXVnanNqa0hjM241NGI1MFl3MjJhdGstbUZoN3V1TUtXR3R4RDR1LW1QYnpSclI0RjQ0NHNORUZ0SzBGcFhHbG5fQ1RobFZmWXVKazRmVXpwSEd0STNGMllLLXBPUGRZX1VPandaSFk4alZkeC1QNTlVc1FFMXZsQUlIY01OSkRUdTdFY2hiTjIxc3c1RkpkbG8zX3BnMFljemZC?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T05:36:26",
+      "collected_at": "2026-05-09T08:33:49.864555",
+      "keywords_matched": [
+        "sea level rise"
+      ],
+      "translation": {
+        "title_ko": "해수면 상승 속도 급증 - 뉴 사이언티스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "해수면 상승",
+          "속도",
+          "급증",
+          "기후 변화",
+          "뉴 사이언티스트"
+        ]
+      }
+    },
+    {
+      "id": "d4b243bf60481710",
+      "title": "Hantavirus cases nearly doubled in Argentina in the past year. Experts say climate change is to blame - CNN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWdlV2lFNjlCX0VBSHJJbmQxSmZncl8wS25TeXZVQ2o2aHI2bWVlT2pERC1mdThpWDRyUGs4X1FUM0tXYkU3Z1Jna2dPcldVZjVkOEN0cmhWX3pvZ1Z0cTg4VVRtdzl1bHprRUtraGduVTVaZmQwTkVyNWR6blpGVmFNa2Z6S0RPbWdEeGs3cGozd3lKazVqaUdfaUxtR29n?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T04:00:51",
+      "collected_at": "2026-05-09T08:33:49.864714",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "06187b5a165a1d1d",
+      "title": "“For Us, Almost Everything is at Stake\": How Students from the Pacific Took the Fight Against Climate Change to the World’s Top Court - Amnesty International USA",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOMHBqZFBYM0xMX2tJNExJa0VFVmk1MGkxZkd0WExUa1BfcmtKNDMyczBHdmdsQ3pMV3dWRjM1R213RjZvY29FSmJibXJRSmtwSTFQLXhwUHhxeVBTV2dzaVpRNmx4bTE2N1hyWTZhWVVvVndCRDZRQ3pSeWlCSW1NWU51azJsU3g1c2xSbEt0akxkX2Jod2xUZ0NkSXZZYXpNbGgyQmVWbXY3NjFJcDhZckZYRjJ1VEVRaU8ySXRJbE5XSXNXU2NiNFRIa3Y0OGxfSFVFYU9UUWpIX3NBZENpQ1dxRURGbWpUdHJuQkdSNlNqZDQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-08T20:22:50",
+      "collected_at": "2026-05-09T08:33:49.864865",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "95161508aace377b",
+      "title": "Global patterns of student mobility align with national climate adaptation - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoYjBkMXloQm9UbnNaTHhiYS1TSDJyWmFrVjc0VWZBUXRQTHhWQm1WX2lMUWR2N0RUOVNoQXI3S0M3TjJ0U3JpZVM3WU5OaWI4RDBkTGNBdlBIZFMwV3dn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T06:05:39",
+      "collected_at": "2026-05-09T08:33:49.865124",
+      "keywords_matched": [
+        "climate adaptation"
+      ],
+      "translation": {
+        "title_ko": "학생 이동의 글로벌 패턴이 국가 기후 적응과 일치한다 - 네이처"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "학생 이동",
+          "기후 적응",
+          "글로벌 패턴",
+          "국가 정책",
+          "연관성"
+        ]
+      }
+    },
+    {
+      "id": "733e9164c4296a9e",
+      "title": "Maidstone man composes climate change song for Sir David Attenborough - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBSFBuakdWX1R5V3h5R2dyX3N4RXljRzZUaWVmc3Q4WUJyUEJSdExsVVp6REdOMC1PVjRJU3pvWFUyd1c1OEItNjZXNjhUSlk3al9haUxhN2FKUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T06:07:17",
+      "collected_at": "2026-05-09T08:33:49.865368",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "메이드스톤 남성, 데이비드 애튼버러 경을 위한 기후 변화 노래 작곡 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "노래",
+          "작곡",
+          "데이비드 애튼버러",
+          "메이드스톤"
+        ]
+      }
+    },
+    {
+      "id": "7bc9c227e2d75945",
+      "title": "Heat-trapping microplastics found to play role in climate change - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOX2FRNVlTR3FUOG1iTXhvM1VjanZXcm9MeXNLZjFvR3JiTzdJV0hrS3YxSFFzZDgtdXNDN21JZkR1NXM5cnk2b0QwTDJtRS02R0Vpbk1mLUNEcGJ1MUNvY2RjRnFXTjBZYWVEczlIUXNtUHlHNmw1dHMxNUFjN3d1V1VZLWpRTXZxc0ZPTXVycDBvOWFIVVFZUldCX2F5Y3p0cGt0Q0xnTEVibUlUbUxFLVN0eE1lZGpXUHBQYk9wcThrQzZGWU13TzNaOU9hZndadnNQeHVFWmdleTB4R2NlcUZTMGY5d9IB6wFBVV95cUxNeDRxTnVmdXEtck1IRVdlcmtsd2JNaS1kZnp3SVNicDYwQzRTeTdrNnd6czBYb0xSVkdzNEFpVmNDYklWVmhGdkx6TzZRWHBYRTNZRTdlZlE1R3Zpci1GX0Y1TVB3Sm1OdkZRRWZqVDZtUkJUTVF3MnNpczhxeWRDdXhRblcyd1JsTDA5aXpTR1J1SzhXUVZOQzJPWHp1dXh4WlAtUUV5cHQzLUctc2N1eFI1blYxdmJULV9WTERYMnRwaE9Gb1RvdVpwdHpRekthcEZ4eXQ1Nlg2MFhnd1ZyRU56eF96Q0szVUFj?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T05:17:05",
+      "collected_at": "2026-05-09T08:33:49.865746",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6182a4201b5c2002",
+      "title": "New study shows biomass carbon removal can help tackle climate change, and strong standards are needed for the industry to scale sustainably - Ethical Marketing News",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPUGNDejMzRXlTS0JVYXVCODlITGFZU3dZbTFmSW5NSmkzdmxWX3JoQzhJV1BUUlR3dEl2TG9TemRWYmFObFdFeHNnUTlQTW5IS1ZXX0RkSTR6dXNoNWNqR3FQNjZGNlJaV1prSXhYTVVsNW5KQ085aUNCMl95RmJYYTlwMkxHVWd0MGt1a1FxR0pabVN0Yk9LTjJYaVNtb0RNMWQ2LVY2azFpUGZONDUxek5rOG5aZTdINFhINFZfQ0Z4bi04SjFpN1dfRXlDNTctQlM1UzNQaVJNcjQ3eGplQ0FzOGJDZWZVMThwUExUY0J6dHY0eTFheUsyQzhVanBRWVE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T04:00:00",
+      "collected_at": "2026-05-09T08:33:49.866039",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "새로운 연구: 바이오매스 탄소 제거, 기후 변화 해결에 도움... 지속 가능한 산업 확장을 위한 강력한 표준 필요 - 윤리 마케팅 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "바이오매스",
+          "탄소 제거",
+          "기후 변화",
+          "지속 가능성",
+          "산업 표준"
+        ]
+      }
+    },
+    {
+      "id": "24833ffff8fd7f0a",
+      "title": "No silver lining: Great tits under threat from global warming - Irish Examiner",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xOVVvNVFKdzNtXzV0ZVpDaG1aTGFLaE15RXNkcjkwSk9IU193WWh6WGVEcFBlUGVRRWJUWDY0Z01oVXJaSWN5TEp6ZGNxZmtJQTc4MEd1MWgwOG1ldmM1SEF5Q3RzYTljYmZaWmFxNmVES2tFT2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T05:00:00",
+      "collected_at": "2026-05-09T08:33:49.866497",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "희망은 없다: 지구 온난화로 박새가 위협받고 있다 - 아이리시 이그재미너"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "박새",
+          "지구 온난화",
+          "생존 위협",
+          "기후 위기",
+          "부정적 전망"
+        ]
+      }
+    },
+    {
+      "id": "4ef0040a1c33e255",
+      "title": "Back to basics is key to combating climate change – 9 May 2026 - heraldgoa.in",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFVNRUdzM1B5OGRfaHhFdGVGRUo3OVlCeGZJa2FuNlVFamNNNW1JcVAyb2hEMDlLRUZmbUtuUHI1NUtLUXJMS3pqSmxLMDM5OENtY29RczdjaXdadU53c1pGazBvY0h4MzFEaDcyMHRuejhkVXNOVEota3RTdTlORmJXczZCZE1BNVZVUVdzNA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T03:09:00",
+      "collected_at": "2026-05-09T08:33:49.866616",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기본으로 돌아가는 것이 기후 변화 대응의 핵심이다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "대응",
+          "기본",
+          "핵심",
+          "전략"
+        ]
+      }
+    },
+    {
+      "id": "f2a21a2db5c73b2b",
+      "title": "Deadly Andes hantavirus spreading faster due to climate change, expert issues serious warning - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdlpscGdOY1dDd3FwYW9HN3UzOS15RkJ4am9VRFFKVTJ3NGkzeHp1U1R5aTRpWXFjY01FbTl2MklIcDhlZlV5YUExeklNTjFtbzRlS1k1NFlSenBOaVRWSTlac1E2MzlXS01YVkNFdl93NHd6Ul85ZHRQVDhPMHQ5dVp2dmFrRE9ueVRlUDRBNzVQWXo2R21UWVFGT1dRUnpiT0tNczFIZzRwZmdZSU1CSUdSd1U4ckxyNFhpYXRZSEcyaHpONEJmUDVVeXdjazVoU0FfcFkwRm84QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T07:30:49",
+      "collected_at": "2026-05-09T08:33:49.866674",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "치명적인 안데스 한타바이러스, 기후 변화로 확산 가속화, 전문가 심각한 경고 발표"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "한타바이러스",
+          "기후 변화",
+          "확산 가속화",
+          "안데스",
+          "전문가 경고"
+        ]
+      }
+    },
+    {
+      "id": "d2147dd62b8b205b",
+      "title": "‘It could have been a second Great Fire’: how east London blaze showed scale of UK wildfire threat",
+      "link": "https://www.theguardian.com/uk-news/2026/may/09/second-great-fire-wennington-london-wildfires-threat",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-05-09T08:00:51",
+      "collected_at": "2026-05-09T08:33:49.760406",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "'제2의 런던 대화재가 될 뻔했다': 동런던 화재가 보여준 영국 산불 위협의 규모"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "영국 산불",
+          "기록적 폭염",
+          "주택 손실",
+          "웨닝턴",
+          "대응 미흡"
+        ]
+      }
+    },
+    {
+      "id": "ba65491aa6f04e94",
+      "title": "‘The odds are not in our favour’: who sets the Doomsday Clock – and what can they tell us about the future of humanity?",
+      "link": "https://www.theguardian.com/science/2026/may/09/doomsday-clock-ai-iran-ukraine-war-climate-breakdown-nuclear-apocalypse",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-05-09T05:00:49",
+      "collected_at": "2026-05-09T08:33:49.760513",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "'승산은 우리 편이 아니다': 운명의 날 시계는 누가 설정하며, 인류의 미래에 대해 무엇을 말해줄 수 있는가?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "운명의 날 시계",
+          "핵전쟁",
+          "기후 붕괴",
+          "인공지능",
+          "인류의 미래"
+        ]
+      }
     }
   ]
 }
