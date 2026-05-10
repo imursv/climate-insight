@@ -1,16 +1,16 @@
 {
   "date": "2026-05-10",
   "metadata": {
-    "collected_at": "2026-05-09T23:24:25.364409",
-    "total_articles": 19,
+    "collected_at": "2026-05-10T08:40:42.776892",
+    "total_articles": 39,
     "sources": {
-      "korean": 5,
-      "international": 14
+      "korean": 20,
+      "international": 19
     },
     "sentiment_distribution": {
-      "positive": 3,
-      "negative": 8,
-      "neutral": 2
+      "positive": 14,
+      "negative": 13,
+      "neutral": 4
     }
   },
   "articles": [
@@ -469,6 +469,514 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "f2d9e34256a46648",
+      "title": "김호겸 “기후변화에 고통받는 경기도민 어려움 살펴야” - 서울일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50TFFRUUt0R1RNVjZJdGJ4b2dybHNiM3dFUjBVVVZoekxEQ3RQTGUydzMwOFVOQl8yYWl1RXFqZjYxSHJ5WEZsWXRJWVRpREtRRXY5ZnBDT3I5M01YLTBJcWdsM1hWSGVnb0NV0gFvQVVfeXFMUEhxeTJlc1NCYkxnb1p1ZXVvSlFjdXlsSHNSTXpUenBhaTRmc1QzS0FrTlpnVzZsSmM2aTJrNXktVUpKVVVKSFBmemFyQmx1QTNMNHFUMjNSRnJqMnRxWG9Eck9FNlEzZldKdUNsamNz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T06:33:40",
+      "collected_at": "2026-05-10T08:38:21.046169",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "김호겸",
+          "기후변화",
+          "경기도민",
+          "고통",
+          "어려움"
+        ]
+      }
+    },
+    {
+      "id": "27b8c6ceffe137ce",
+      "title": "금산군, 기후변화 대응 인삼 생산자재 지원 - 대전일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IN0VNemh5VVlmZVRsMXJ3TnhJQXc1LTJjR25yc1BIT0VUQllFbmFNOXpsOVpuajI2Y3lfSTBkR0QzU1VkdWZYdVVGVU9RdnpmY3RsNllna2RqeVZKU01VdUVpS0gyQjJrYjE1MmNnc9IBc0FVX3lxTE5kZnV3LV9WbzdtYUhCMDJQejBiNkpZQ2RTcF94NE1WZEZMN1FIMmN1QlBGQWpfWktOVWhrY3lKbWQ5T2U0dFNVLVlMQ1h0N0VTSWZRWkFBcU1URnQ5UGhRaE5BWlNsRl9hcTkzMk5CNHZvamc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T03:01:00",
+      "collected_at": "2026-05-10T08:38:21.046228",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "금산군",
+          "기후변화",
+          "인삼",
+          "생산자재",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "d7a17866f333742d",
+      "title": "청주시탄소중립지원센터, 청주 그린 페스티벌 시민참여 이끌어 - 청주일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tOGtGWTNNd1BSVW5NWkdaZ2lIbml2eWc3bXF0bGJmMGFid1Fua2Zvd0VDUktVSTFDMDBXLTJ6SHJydjhNTGxHblVnRGxxQnVGVjJWSDhJQm4xZWdEaVBGakNBT2ZwRXVRQkE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T03:13:52",
+      "collected_at": "2026-05-10T08:38:21.047153",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청주시탄소중립지원센터",
+          "청주 그린 페스티벌",
+          "시민참여",
+          "탄소중립",
+          "그린"
+        ]
+      }
+    },
+    {
+      "id": "d0ce2303da2c3a20",
+      "title": "서귀포시, 탄소중립 실천 선도 마을 확대 - 삼다일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQMThIdEE0YlNFZGw4ZUtieDZiQkp3V29jYVQyWmxWX1NZbzZickYybU5raFlBclRrVUlDQXJzcmxNRVBYYlRUTjk1ajFQWU0zbVE0TGxPZVpNeFFJWlZnY250enVNWXFfMHQtYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T01:50:00",
+      "collected_at": "2026-05-10T08:38:20.936910",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서귀포시",
+          "탄소중립",
+          "선도 마을",
+          "확대",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "7f6fb8516e8792b2",
+      "title": "[기획] 오성환, “당진 미래는 지금부터 완성” 산업·정주·탄소중립 연속성 강조 - 투데이충남",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xcmNBSVRKcDdKNE5sYlhtajh6SkZyanEwWkVqb1R0VFBLZXJlbkhCMF9sX1kyWVNyczF1S2NmUlBsM3JRMjBJMjVfb0VFZzVjX2JmOG45NFczSkdCakU2TmNsbGRNWWstNUpCcl9YaTZMdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T07:52:59",
+      "collected_at": "2026-05-10T08:38:20.936952",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오성환",
+          "당진",
+          "탄소중립",
+          "미래",
+          "연속성"
+        ]
+      }
+    },
+    {
+      "id": "027344637f0f13f6",
+      "title": "동대문구시설관리공단, 동대문구탄소중립지원센터와 업무협약 체결 - 산경일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94dUNPbW9SM1NZS3NNa2pmQVA5TURCT1E1Wm9TSXJ5aU83N2d0dHpzOGNXNlkxXzl0TGMwVHJkSlZlYUFXeEdGN3pnb2xkSXNVUHByN1V1TC00dktNTGV2bWZUa3g1TDJCRzlHb1RUZVg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T05:53:23",
+      "collected_at": "2026-05-10T08:38:20.936983",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동대문구",
+          "탄소중립",
+          "업무협약",
+          "시설관리공단",
+          "지원센터"
+        ]
+      }
+    },
+    {
+      "id": "679598e9a3cf74dc",
+      "title": "한대희 군포시장 예비후보, 탄소중립 정책 논의 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSGtnNy1IdzJtMEdzdElaRm0ydjdhYzFFSk0tampCTjNiYVRVSW1DaEl1STZIbDJsSXBxZlM2R2lPamwxWnJZaGNaZkU3eGlMYlM5T0tPbjZxNlpJaDFqMEtPRmNkYnltajd5U1h4WXg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T23:38:47",
+      "collected_at": "2026-05-10T08:38:20.937039",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "한대희",
+          "군포시장",
+          "예비후보",
+          "탄소중립",
+          "정책 논의"
+        ]
+      }
+    },
+    {
+      "id": "2b0c41570d4a8dc4",
+      "title": "연천군 탄소중립지원센터 구석기 축제서 탄소중립 체험부스 성료 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUVozOHhFeHNSQXJGRjNTdWRiU0xQakVicjFRY2VaQXNXVVh2Q2xmMGRnX01BNmJmWWtfWXpPWHVnVXF5bXVVdXZqWEFYekZvdGlhNWlwZEFzX250eWJ3N1lVM2dXOERrVENyRUxiczU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T07:47:00",
+      "collected_at": "2026-05-10T08:38:20.937117",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "연천군",
+          "탄소중립",
+          "지원센터",
+          "체험부스",
+          "축제"
+        ]
+      }
+    },
+    {
+      "id": "f55a6d314642b8c0",
+      "title": "제주, 감귤 전정 가지 소각 대신 파쇄... 농가 시름 덜고 탄소중립 앞장 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1XTkkwNUZ6YmFIWjI4STJ1ZFIzeEVobTY1REw4TVd2ay1obldWcnFFMEY2QXRneXVqcHdjVEdyako4dnc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T23:25:00",
+      "collected_at": "2026-05-10T08:38:20.937563",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "감귤",
+          "가지 파쇄",
+          "탄소중립",
+          "농가"
+        ]
+      }
+    },
+    {
+      "id": "d0de253ccefc871b",
+      "title": "농촌 일손 부족·탄소중립 '두 토끼' 잡는다…임실군, 마른논 써레질 기술 보급 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51VkpGNWxMcWgwcDNnQy1TdTIteW94WFN5THJVREJNLURZRU1JbF8zamU3dkVOZWV1VVo4Y2Z3cENkZmNqek1lS3ZBQ1lMcTVzTmQ4?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-10T00:57:00",
+      "collected_at": "2026-05-10T08:38:20.937593",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농촌 일손 부족",
+          "탄소중립",
+          "마른논 써레질",
+          "임실군",
+          "기술 보급"
+        ]
+      }
+    },
+    {
+      "id": "64566280bc3762b8",
+      "title": "[급변하는 외교시장: 세르비아 재생에너지시장] “발칸의 수소 허브 꿈꾼다”…세르비아, 그린수소 경제 본격 시동 - 코리아포스트 한글판",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zRGFadmhPMnJ5VlhrUTBSeGJqUXBCZ2VGUjFWYUR5cURrekVsYU5yWTBRX3dITnlCbFNDUl9fQ25SalBtWnNKZDVodXdUUGhCR1ZPdmN5b0lPcDdXWVpNeHFhRHRjVXZGSjlfcTRB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T23:30:00",
+      "collected_at": "2026-05-10T08:38:20.996194",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "세르비아",
+          "그린수소",
+          "수소 허브",
+          "재생에너지",
+          "경제 시동"
+        ]
+      }
+    },
+    {
+      "id": "6087ec4bdcc271b5",
+      "title": "IRENA 보고서 \"태양광·풍력+배터리, 화석연료보다 싸고 안정적\" 공식 확인 - 한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5PNWFmQkRwMW42dG5xT08yam5XcVZweS1YYnZqZ205SHBqNG5Bd2RUaWxiWFkybGZmeExxUmljak9SNjQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-09T17:57:20",
+      "collected_at": "2026-05-10T08:38:20.997369",
+      "keywords_matched": [
+        "태양광",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "IRENA",
+          "태양광",
+          "풍력",
+          "배터리",
+          "화석연료"
+        ]
+      }
+    },
+    {
+      "id": "f4d62fe982e5addd",
+      "title": "오늘의 부고-이재용 서울경제신문 선임기자 부친상 외",
+      "link": "https://www.khan.co.kr/article/202605101559011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-10T06:59:01",
+      "collected_at": "2026-05-10T08:38:22.616051",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "별세",
+          "부친상",
+          "모친상",
+          "발인",
+          "부고"
+        ]
+      }
+    },
+    {
+      "id": "5fd35954b7d2f464",
+      "title": "국회미래연구원 “정권 바뀔 때마다 널뛰는 에너지 목표··· 과학적 계획 필요”",
+      "link": "https://www.khan.co.kr/article/202605101519001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-10T06:19:00",
+      "collected_at": "2026-05-10T08:38:22.616505",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지 목표",
+          "정권 교체",
+          "정책 일관성",
+          "국회미래연구원",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "ec8df3b6d1411b2a",
+      "title": "현대L&C 직영 ‘스튜디오 H’ 전시장 녹색매장 선정",
+      "link": "https://www.khan.co.kr/article/202605101514001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-10T06:14:00",
+      "collected_at": "2026-05-10T08:38:22.616608",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대L&C",
+          "스튜디오 H",
+          "녹색매장",
+          "친환경 소비",
+          "녹색제품"
+        ]
+      }
+    },
+    {
+      "id": "af2bce03dd526051",
+      "title": "Beware of Wolves, but Straw Houses Could Help With Climate Change - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NcS1meC1EUi15ODBxS2taR3Zvd3dBcjFOQXZhSmZ2SnptOVROYVRoS21ELVBzVXlyYzVSOE90VENjb0F3MHlLQ3BLV1hfR2U1ZGEzNXoyNW8weG41QlVaLVB5ZFdJQWdsVHhjaS1oZFpSZF9NUDVNWTln?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-10T07:00:14",
+      "collected_at": "2026-05-10T08:38:23.076048",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "466fe390f8b87896",
+      "title": "Concerns grow over more gray whale deaths in Bay Area and climate change's global contribution to the epidemic - ABC7 San Francisco",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWGl0WGhFNDFmNG1hUnZ0M0N0VkxaVFR2bjNYek9faUFhYkwxaGdMRWRiSHZhbDhlOFJmeEJNc0txd25kenBOWVJqWHNoajdhenQwblI4eHlIMFBuLTI2c3psUHVFS2lTS0Qwc1ZZNjFLVU9aLWNvZUtKT0t5U1U3ZElWNjB3M2NlRUFpTm5WY01ua29QdUxlU3ZkN1N4TERfazdPUXp1dUsxWE4xTGk3QXI0anRRNDhTYldyd0l0MkVPMnU30gHKAUFVX3lxTE1GcHhVblJFektWZGhnVnEzWXRTdndaX3dhVzY4aVpWeUQzVml4WGV2V2ZkYVh2RHFRZkdyN0g0WFZsSVRCZnNlV0xIbFVhVXVibmhGTmdYd05WU3ZqNHNibVVraVJVWUpiejlHb3ZhUDdKNG9HM2lGU3NDTC1NRXY1OUI1NktVWmtGZXhiOUVmSDROLXNST05jSHZsallDWm5XbTBWRExiRkNIVzAwOWNwNFpMOEVUNlhKbkc2ZlBzWmk4TU9HWUVqMnc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-09T23:39:53",
+      "collected_at": "2026-05-10T08:38:23.076237",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a4b7928e9fc95a6f",
+      "title": "How Climate Change Supercharges Hurricane Flooding, Deaths - Informed Comment",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81YVZXNlZnaTJzNUdkbkxtMHQ3WnFaX2ZfcU9tdTl2V0pBSnk2ZVlmekpVZkkyY2dxV1VIVkxwRXhlWnhyS0JCOWdTejRWa0wzeDJqSGF2TVEwZkZ5Tm1VR0lfNGs2OTFzdzlKY1BaZzFkZ1JJVFgzZA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-10T04:06:34",
+      "collected_at": "2026-05-10T08:38:23.076357",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 허리케인 홍수와 사망을 어떻게 증폭시키는가 - 정보 논평"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "허리케인",
+          "홍수",
+          "사망",
+          "증폭"
+        ]
+      }
+    },
+    {
+      "id": "a943635da7a8d5b4",
+      "title": "Combined impact of climate change & rapid devpt triggers landslides: Study - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdUI2a0Qydm0ydmNwNkNmbUpOb0Q2TjAycjNlQ1pNbzlVUi1oZG03NTlWWFRYZzdkQVI5em43SEZmbTc4MGpBWF9zY3ZFNlVxTGhKTTJYQ1lPa3dfYjZoQTJ0QjRFM1pIVGtaN3F6dDRYWjdZZkJESmtSa2p5bDdRSUVnWHpXSVRiaFZ0SDNHc2VseTV5T2MwanJYYzhTM2d5WmdYUkJnUHdYYXh0NmxPMGVoQ09XdEhZV1IwMmhKcm1zLUxYbVVfejlMUGpoTDVSbmN0NkVHdU5CMGxMT1FlYi1SelrSAeoBQVVfeXFMUC1QRUxKMmdiYWdWUWdULWc2WmhkOVJieDlyVEVfUFVQRldDVEUzNHBJZFJvYWFCUW13X09JYXdqaXp5dENIMkU2Y2kwc2VCR2xhSFQ5bXFFc0xBVFoxTWQ3ZThNaHRQaVhmcWd0RFBzYUp0QWJ1NmRXdGpxRFl1dDQ5eElvR1h1T3o1WlBKS1d5T3BzWVg4dmVoMzJKbEJDbkpJeG55Z0ZRYUNyUXpIaWFnSTZXQmhRdC1OUEVSMjFDSTlKSmZhOTAzQVZqZ012VVd4cGhDWE10YWFSVURJaG8wZjl4MUl3UzdB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-10T02:16:00",
+      "collected_at": "2026-05-10T08:38:23.077543",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화 및 급속한 개발의 복합적 영향이 산사태를 유발: 연구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "급속한 개발",
+          "산사태",
+          "복합적 영향",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "5a004dbd980a834f",
+      "title": "South Korea’s kimchi industry squeezed by cheap imports, climate change - Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmXzU5WXI3RWx5N21Fa01fNjQ3LV91cElWNXNPVm9XQURUVDlELThQTFhPV0Y0LUZWbFVxcXFOZzVqWVAycnN2Z0NMQ3h6bTdocWI5a25ieXBWb1ZYOUt5UVVwN1V2QTk10gFcQVVfeXFMTUhTcEs5dU01TDJKQVJJQ1JKOE9ZSUdCNzNKc3NqdS1BODI5eTEwZktTWmYtSjVCOEtJczg1dmpkbHlCU0gtekZiNnpkY0xWTkxaNTYtRklsOFBlWDQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-10T06:12:54",
+      "collected_at": "2026-05-10T08:38:23.077895",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "한국 김치 산업, 저가 수입품과 기후 변화로 압박받다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "김치",
+          "한국",
+          "기후 변화",
+          "수입품",
+          "산업 위기"
+        ]
+      }
     }
   ]
 }
