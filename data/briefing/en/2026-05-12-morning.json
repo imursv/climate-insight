@@ -1,0 +1,1512 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T23:30:32.871526",
+  "briefing": {
+    "opening": "Hello everyone. We will now begin the climate briefing for May 11, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Climate Crisis: A Threat Becoming Reality",
+        "content": "Globally, the direct impacts of climate change are becoming increasingly evident. Glaciers in the Everest region are melting, increasing climbing risks [2], while wild blueberry farms in Maine, USA, and fruit farms in Gyeongsangbuk-do, South Korea, are suffering due to changes in cultivation periods and pest issues caused by climate change [3, 30]. Furthermore, the Phoenix area in the United States is experiencing unusual heat in May [40], and an overwhelming majority of Colorado residents state that climate change harms human health [33]. France's tourism sector is exacerbating the climate crisis by emitting 75 million tons of CO₂ [59], and agriculture faces a triple crisis of war, climate change, and inflation [55]. These phenomena clearly demonstrate that the climate crisis is no longer a distant future concern but a reality directly impacting various aspects of our lives.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Carbon Neutrality and Renewable Energy: Transition Through Innovation",
+        "content": "Efforts towards carbon neutrality and renewable energy transition to address the climate crisis have become a global mega-trend, with a former UN Under-Secretary-General stating that renewable energy is no longer an option but a necessity [7, 18]. Germany is accelerating its industrial transition to carbon neutrality by approving industrial decarbonization contracts worth $5.9 billion [11], and domestically, Chungcheongnam-do is encouraging community participation by expanding eligibility for the Carbon Neutrality Point System and operating 'Carbon Up-Shoe' [8, 9]. Particularly noteworthy is the change in the industrial sector, where KT signed a PPA agreement to directly supply 50MW of renewable energy to Tokyo Electron Korea, creating the largest renewable energy supply case among global semiconductor equipment companies [14, 21, 23, 25]. Furthermore, as of May 2026, with the advent of the 'Carbon-Neutral AI Era,' AI-RE100 is being recognized as a new competitive factor [15], and the role of the financial sector is also growing, with Shinhan Bank, Shinhan Asset Management, and Hyosung Heavy Industries expanding their global renewable energy business collaborations [20, 24].",
+        "tone": "positive"
+      },
+      {
+        "title": "🇰🇷 Climate Action by Future Generations and Local Communities",
+        "content": "Responding to the climate crisis is becoming stronger through the active participation of not only governments and corporations but also civil society, especially future generations. Domestically, elementary school students are practicing climate change response activities through 'Leftover ZERO' campaigns and using personal water bottles [1], and the Daejeon Regional Meteorological Administration and Suncheon Bay Eco-Cultural Education Center are also raising awareness among future generations by operating climate crisis response contests and education for elementary school students [5, 13]. Local governments are also collaborating with the Korea Forest Service to achieve carbon neutrality [10], and Wonju City is exploring region-specific policies, such as conducting a demand survey for its renewable energy convergence support project [26]. Concurrently, a 79.5% increase in umbrella sales at GS25 convenience stores is an example demonstrating that public awareness of climate change is leading to changes in consumption patterns [4].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 International Climate Policies and Perceptions",
+        "content": "The international community continues multifaceted discussions and responses to climate change. The IPCC has begun reviewing the draft of its 'Climate Change and Cities' report, highlighting challenges for South Korean urban policy [6], and according to a Brookings study, care services are analyzed to support effective climate adaptation within national adaptation plans and greenhouse gas reduction targets [41]. Meanwhile, many African nations have expressed the stance that they should not be forced to choose between development financing and climate change response, emphasizing the importance of a just transition [50]. A survey of global civil servants indicated that interest in AI and climate change are expected to emerge as key issues in 2026 [51], however, differences in perception exist, with Canadians expressing greater concern for economic growth than climate change [56]. These international discussions suggest that responding to the climate crisis is a complex challenge spanning social, economic, and political spheres, beyond merely an environmental issue.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's climate briefing has shown that while the global climate crisis is deepening, innovative efforts and community participation to overcome it are also actively underway. This is a time when sustained attention and multifaceted responses to climate change are becoming even more crucial. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "From 'Leftover Food ZERO' Campaigns to Personal Water Bottles: Elementary Students Demonstrate Practical Climate Action - Korea Policy Briefing",
+      "original_title": "잔반 ZERO 캠페인부터 개인 물병까지…초등학생들이 보여준 기후대응 현!답! - 대한민국 정책브리핑",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VX0IyWjZPbTYzdWhETm1CVi1wZG9qMnpZcEx6cmFha1pia25MRk5aYTM5ZmE0UWRqWGtfZ3k1S2tIUFNkeTVjcm9JenR4RlhWc3hqSDRfUVh4UjBfVDV5MlY4SnQ1V2ZjZlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T08:39:34",
+      "description": "From 'Leftover Food ZERO' Campaigns to Personal Water Bottles: Elementary Students Demonstrate Practical Climate Action - Korea Policy Briefing",
+      "summary": {
+        "phenomenon": "Elementary school students are actively participating in climate change response initiatives, including 'Leftover Food ZERO' campaigns and the use of personal water bottles.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Elementary students",
+        "Climate response",
+        "Leftover Food ZERO",
+        "Personal water bottle",
+        "Practical solution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "잔반 ZERO 캠페인부터 개인 물병까지…초등학생들이 보여준 기후대응 현!답! 대한민국 정책브리핑"
+    },
+    {
+      "id": "2",
+      "title": "[Global Climate Action] Everest Glaciers Melting Due to Climate Change: 'Climbing Risks Increasing' - Nate",
+      "original_title": "[글로벌 기후행동] 기후변화에 녹아내리는 에베레스트 빙하…\"등반 위험 커져\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wS2ZSM3ZzR080VTVhVTE5a0FkQ0pYeGF3SHlwSGtXWUVaOHNRR1cyZ3VJbkJob2k0RWJ4SG5HRWF5Q1RnYWo1RDZmTkNxblU5eVJ3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T12:01:00",
+      "description": "[Global Climate Action] Everest Glaciers Melting Due to Climate Change: 'Climbing Risks Increasing' Nate",
+      "summary": {
+        "phenomenon": "Glaciers in the Everest region are melting.",
+        "cause": "Everest glaciers are melting due to climate change.",
+        "outlook": "As glaciers melt, the risks associated with climbing Mount Everest are projected to increase."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Everest",
+        "Glacier",
+        "Melting",
+        "Climbing risk"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[글로벌 기후행동] 기후변화에 녹아내리는 에베레스트 빙하…\"등반 위험 커져\" 네이트"
+    },
+    {
+      "id": "3",
+      "title": "Orchard Farms Grapple with Climate Change; Gyeongbuk Province Partners with Switzerland for Eco-Friendly Pest Control - kyongbuk.co.kr",
+      "original_title": "기후변화 덮친 과수농가…경북도, 스위스와 친환경 병해충 방제 맞손 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZYnVDeGM3NTUxd01WUTNfVlV4aGZUbVpFOGNpYlVqUnRrdzFkVWRUY3pKWnZodzFLQXJQamtHRTlNRG1MMGstbjQ1aUNqalJsNFNzNlVZTncweVg5ZmF3S1VZUEpUcG03NVdJdDY4UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T09:55:06",
+      "description": "Orchard Farms Grapple with Climate Change; Gyeongbuk Province Partners with Switzerland for Eco-Friendly Pest Control kyongbuk.co.kr",
+      "summary": {
+        "phenomenon": "Orchard farms in the Gyeongsangbuk-do region are experiencing impacts from climate change.",
+        "cause": "Climate change is impacting orchard farms.",
+        "outlook": "Gyeongsangbuk-do Province plans to collaborate with Switzerland on eco-friendly pest and disease control measures."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Orchard farm",
+        "Gyeongbuk Province",
+        "Switzerland",
+        "Eco-friendly pest and disease control"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화 덮친 과수농가…경북도, 스위스와 친환경 병해충 방제 맞손 kyongbuk.co.kr"
+    },
+    {
+      "id": "4",
+      "title": "GS25 Expands Strategic Product Line in Response to Climate Change; Sun/Rain Umbrella Sales Up 79.5% - Korea Economic Daily",
+      "original_title": "GS25, 기후변화에 전략 상품 확대..우양산 매출 79.5% 늘어 - 한국정경신문",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZG1ZRGtsdzBwTGNfeDd1ZVJ4NjlDUnRvOVUzRklnZWhheGd4LVhyTmxQZFJlbVg4Z1MwckZWdTh1bEVDcVVHaGttdnVIM3NEQlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T23:14:09",
+      "description": "GS25 Expands Strategic Product Line in Response to Climate Change; Sun/Rain Umbrella Sales Up 79.5% Korea Economic Daily",
+      "summary": {
+        "phenomenon": "Sales of sun/rain umbrellas (umbrellas that function as both rain and sun protection) at GS25 convenience stores have increased by 79.5%.",
+        "cause": "This increase is a direct result of GS25's strategy to expand its product offerings in response to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "GS25",
+        "Climate change",
+        "Strategic product",
+        "Sun/rain umbrella",
+        "Sales"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "GS25, 기후변화에 전략 상품 확대..우양산 매출 79.5% 늘어 한국정경신문"
+    },
+    {
+      "id": "5",
+      "title": "Daejeon Regional Meteorological Administration Hosts Climate Crisis Response Contest for Elementary Students - Joongdo Ilbo",
+      "original_title": "대전기상청, 초등생 대상 기후위기 대응 콘테스트 개최 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ybXhoQ1NVMndaRzkwMjJKZEM4ZEFhS1NzNWNjMFFIcVU2SE9ndlVmVnM2NXc1VDVTSl9QWjJNQWtWa3VYWllORUpaLXFmdmFleGFVR3l1MGRQQzNnVmlmSHRXYm0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T08:54:16",
+      "description": "Daejeon Regional Meteorological Administration Hosts Climate Crisis Response Contest for Elementary Students Joongdo Ilbo",
+      "summary": {
+        "phenomenon": "The Daejeon Regional Meteorological Administration organized a climate crisis response contest for elementary school students.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon Regional Meteorological Administration",
+        "Elementary students",
+        "Climate crisis",
+        "Response",
+        "Contest"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전기상청, 초등생 대상 기후위기 대응 콘테스트 개최 중도일보"
+    },
+    {
+      "id": "6",
+      "title": "IPCC Begins Review of 'Climate Change and Cities' Report Draft; Implications for Korean Urban Policy - Korea Public Policy News",
+      "original_title": "IPCC '기후변화와 도시' 보고서 초안 검토 돌입…한국 도시 정책에 던지는 과제 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE05dDNCM2V1RmJ6cXVjZW1BTVNYYlpIdkdhLThjU0w4V09DZWtVQUZtQlN2dkV5WkhzdUNJU01mSmdkRG8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T08:50:41",
+      "description": "IPCC Begins Review of 'Climate Change and Cities' Report Draft; Implications for Korean Urban Policy Korea Public Policy News",
+      "summary": {
+        "phenomenon": "The IPCC (Intergovernmental Panel on Climate Change) has commenced its review of the draft 'Climate Change and Cities' report.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This report is anticipated to present significant challenges and considerations for South Korea's urban policies."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "IPCC",
+        "Climate change",
+        "City",
+        "Report",
+        "Korean policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "IPCC '기후변화와 도시' 보고서 초안 검토 돌입…한국 도시 정책에 던지는 과제 한국공공정책신문"
+    },
+    {
+      "id": "7",
+      "title": "[7th Anniversary Conference ③] Carbon Neutrality as a Mega-Trend: Korean Steel Industry Positions Itself as a 'First Mover' - Ferro Times",
+      "original_title": "[창간7주년 간담회③] 탄소중립은 메가 트렌드…韓 철강 '퍼스트무버'로 포지셔닝 - 페로타임즈",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSWtMb0ItRzJiU2NjUUliWHR2VFAxRVZjWG1PNzY3S0NMby1BX1c0QXU0S28zU0l2QkFuLXd1cHpkWXlPT3BLUDNQb3lrQVZnbWlEbzBZSFp4X2dmdHMtc1pSc3dvZHBOeXBWTg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T19:02:00",
+      "description": "[7th Anniversary Conference ③] Carbon Neutrality as a Mega-Trend: Korean Steel Industry Positions Itself as a 'First Mover' Ferro Times",
+      "summary": {
+        "phenomenon": "Carbon neutrality is emerging as a global mega-trend.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The South Korean steel industry aims to position itself as a 'first mover' within this global trend."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "Steel",
+        "Mega-trend",
+        "First mover",
+        "Positioning"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[창간7주년 간담회③] 탄소중립은 메가 트렌드…韓 철강 '퍼스트무버'로 포지셔닝 페로타임즈"
+    },
+    {
+      "id": "8",
+      "title": "Chungcheongnam-do Province Expands Eligibility for Carbon Neutrality Point System - Express News",
+      "original_title": "충남도, 탄소중립포인트제 참여 대상 확대 - 특급뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHa0h5T2I5U2paZkpQRHpzRkNaMUpzUTNselhZV0RwSGMtWjJ4TktjbVNsR2d5czJOSTRkRUVzWk44UzlRVHFsbDlScW53azZyenBTUGFLNEdPblNEd3JqblNTaGdRejNqYXdDblV6cEJDZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T22:39:56",
+      "description": "Chungcheongnam-do Province Expands Eligibility for Carbon Neutrality Point System Express News",
+      "summary": {
+        "phenomenon": "Chungcheongnam-do Province has expanded the scope of participants for its carbon neutrality point system.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chungcheongnam-do Province",
+        "Carbon neutrality point system",
+        "Participants",
+        "Expansion",
+        "Carbon neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도, 탄소중립포인트제 참여 대상 확대 특급뉴스"
+    },
+    {
+      "id": "9",
+      "title": "Chungcheongnam-do Province Launches 'Carbon Up-Shoe' as Part of Carbon Neutrality Point System - Global News Agency GNA",
+      "original_title": "충남도, 탄소중립포인트제 ‘탄소업슈’ 운영 - 글로벌뉴스통신GNA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jaEV3cEFuZzUzcXQwNmd6aUxSQ1lIeHViVUVJaXM5TlNXUVFjbW5RX0ttOHh6dWF1c0ctTXRydTlZVV9wRDRWY3VTNEdrd182a05Pdl9BQ2tJNklINjNSamY5d05UV1hWVzk0MlU2LWxxVWhs?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T22:49:30",
+      "description": "Chungcheongnam-do Province Launches 'Carbon Up-Shoe' as Part of Carbon Neutrality Point System Global News Agency GNA",
+      "summary": {
+        "phenomenon": "Chungcheongnam-do Province is operating 'Carbon Up-Shoe' as an initiative under its carbon neutrality point system.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chungcheongnam-do Province",
+        "Carbon neutrality point system",
+        "Carbon Up-Shoe",
+        "Operation",
+        "Carbon neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도, 탄소중립포인트제 ‘탄소업슈’ 운영 글로벌뉴스통신GNA"
+    },
+    {
+      "id": "10",
+      "title": "'Offsetting Carbon with Trees': Korea Forest Service and Local Governments Partner for Carbon Neutrality - Pax Economic TV",
+      "original_title": "\"나무로 탄소 지운다\"···산림청-지방정부 탄소중립 '맞손' - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pYUVhX1oyOEstSVJuMDVVeVZGWnZlVnlobk5HSEhuLV9Ra1hLdVk3b1QtN1NtTS1YR2o3elJ2YWNCSjVadUJlSkprUUtyTkFyNllRNEUycUozSzRUYlhMRDZ3alR3WTA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T09:15:24",
+      "description": "'Offsetting Carbon with Trees': Korea Forest Service and Local Governments Partner for Carbon Neutrality Pax Economic TV",
+      "summary": {
+        "phenomenon": "The Korea Forest Service and local governments are collaborating on initiatives for carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "They are expected to pursue strategies that utilize trees to offset carbon emissions."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Tree",
+        "Carbon",
+        "Korea Forest Service",
+        "Local government",
+        "Carbon neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"나무로 탄소 지운다\"···산림청-지방정부 탄소중립 '맞손' 팍스경제TV"
+    },
+    {
+      "id": "11",
+      "title": "Germany Approves $5.9 Billion Industrial Decarbonization Contract… “Accelerating Transition to Carbon-Neutral Industry” - ESG Business Review",
+      "original_title": "독일, 59억 달러 규모 산업 탈탄소 계약 승인… “탄소중립 산업 전환 본격화” - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LekxOd0Zxb3JJZzM1ekpEcmdNVTdSbUVuMHF6bXNHN2N5MVVLN0xjV1k1NWx4bWZteWNCM1p6Wnk0N2JsdndvNEpCT0tfMjJJWFA4UGd5THk4V0tMX2lFbU8zb3NUWUcyR25vMzBWVEJrNmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T14:52:26",
+      "description": "Germany Approves $5.9 Billion Industrial Decarbonization Contract… “Accelerating Transition to Carbon-Neutral Industry” ESG Business Review",
+      "summary": {
+        "phenomenon": "Germany has approved an industrial decarbonization contract worth $5.9 billion.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This is expected to accelerate the transition to a carbon-neutral industry."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Germany",
+        "Industrial Decarbonization",
+        "Contract Approval",
+        "Carbon Neutrality",
+        "Industrial Transition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "독일, 59억 달러 규모 산업 탈탄소 계약 승인… “탄소중립 산업 전환 본격화” ESG비즈니스리뷰"
+    },
+    {
+      "id": "12",
+      "title": "“Strengthening Capabilities for Manufacturing AI Transition and Carbon Neutrality Response…” Kim Jeong-dae Appointed President of Korea Construction Equipment Research Institute - Segye Ilbo",
+      "original_title": "“제조 인공지능 전환·탄소중립 대응 역량 강화…” 김정대 한국건설기계연구원장 취임 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ad0xXYUd3czNybS14SVdIYS1FYnZIM2ZRaXR1ODVtUDRiRFpSQU0yaVRDOUNFYWFiTTZHZGxHanNWR25rVnY5LUFGT0l5MXlBT1RUdkUtODHSAVRBVV95cUxQT1BMdG52RVdQXzFuQmdNeFdpbXItYkJvakhOQzY2UFY3OUxPZjE1d2s4TmRuajN6WnMxd0hEX1R1VzU0YWxPb3Fua3dPQTNHYTJ2OUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T14:00:00",
+      "description": "“Strengthening Capabilities for Manufacturing AI Transition and Carbon Neutrality Response…” Kim Jeong-dae Appointed President of Korea Construction Equipment Research Institute Segye Ilbo",
+      "summary": {
+        "phenomenon": "Kim Jeong-dae has been inaugurated as the President of the Korea Construction Equipment Research Institute.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "He is expected to promote the transition to manufacturing AI and strengthen capabilities for carbon neutrality response."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Manufacturing AI",
+        "Carbon Neutrality",
+        "Capacity Building",
+        "Korea Construction Equipment Research Institute",
+        "Inauguration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“제조 인공지능 전환·탄소중립 대응 역량 강화…” 김정대 한국건설기계연구원장 취임 세계일보"
+    },
+    {
+      "id": "13",
+      "title": "Suncheon Bay Eco-Cultural Education Center to Operate Visiting Climate Crisis Response Carbon Neutrality Education in 2026 > News - The Korea",
+      "original_title": "순천만생태문화교육원 2026 찾아가는 기후위기 대응 탄소중립 교육 운영 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9VQWJhanFraC04ck9tY0R0YlcwZjBDOXd2dGtDemZEOHBMWjFfWXVGUmF3RTIxNWx0VWQ1cHFXZm5TeUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T12:55:00",
+      "description": "Suncheon Bay Eco-Cultural Education Center to Operate Visiting Climate Crisis Response Carbon Neutrality Education in 2026 > News The Korea",
+      "summary": {
+        "phenomenon": "The Suncheon Bay Eco-Cultural Education Center plans to operate visiting education programs on climate crisis response and carbon neutrality in 2026.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Suncheon Bay Eco-Cultural Education Center",
+        "Climate Crisis Response",
+        "Carbon Neutrality Education",
+        "Visiting Education",
+        "Year 2026"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "순천만생태문화교육원 2026 찾아가는 기후위기 대응 탄소중립 교육 운영 > 뉴스 더코리아"
+    },
+    {
+      "id": "14",
+      "title": "\"Achieving Carbon Neutrality through Full-Scale Expansion of Direct PPA\"... KT Supplies Renewable Energy to Tokyo Electron Korea - The Global Giving News",
+      "original_title": "\"직접PPA 본격 확대로 탄소중립 실현\"... KT, 도쿄일렉트론코리아에 재생에너지 공급 - 더글로벌기빙뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyWTNoVl9tek5mdnZNdFVqQWNHeUtnVVRKN0ZDcEIwTjRJYi1xMjBKYmtkOUNHR0dyR0dZdmFtajF1RjI3VGlDbjdLaHU4UkFXaUxkLQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T14:57:00",
+      "description": "\"Achieving Carbon Neutrality through Full-Scale Expansion of Direct PPA\"... KT Supplies Renewable Energy to Tokyo Electron Korea The Global Giving News",
+      "summary": {
+        "phenomenon": "KT has supplied renewable energy to Tokyo Electron Korea.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This is part of an effort to achieve carbon neutrality through the full-scale expansion of Direct PPA (Power Purchase Agreement)."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Direct PPA",
+        "Carbon Neutrality",
+        "Renewable Energy",
+        "KT",
+        "Tokyo Electron Korea"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"직접PPA 본격 확대로 탄소중립 실현\"... KT, 도쿄일렉트론코리아에 재생에너지 공급 더글로벌기빙뉴스"
+    },
+    {
+      "id": "15",
+      "title": "[As of May 2026, we are entering the \"Carbon-Neutral AI Era\"] In the industry, AI-RE100 is recognized not merely as a regulation but as a new competitive factor. With strengthening ESG investment standards, AI services with high carbon emissions face disadvantages in investment and customer acquisition - AI Net",
+      "original_title": "[2026년 5월 현재, \"탄소중립 AI시대\"를 맞이하고 있다] 산업계에서는 AI-RE100이 단순한 규제가 아닌 새로운 경쟁력 요소로 인식되고 있다. ESG 투자 기준이 강화되면서, 탄소 배출이 높은 AI 서비스는 투자와 고객 확보에서 불리 - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9JTnoxLXR0QlBFd0pLM3doX2RpYjNGOEt1Y3JybjNiQ1h3M2dyMWF1MWtJMHhacGdfbDhFX25ZLUw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T11:44:53",
+      "description": "[As of May 2026, we are entering the \"Carbon-Neutral AI Era\"] In the industry, AI-RE100 is recognized not merely as a regulation but as a new competitive factor. With strengthening ESG investment standards, AI services with high carbon emissions face disadvantages in investment and customer acquisition AI Net",
+      "summary": {
+        "phenomenon": "As of May 2026, the industry is entering the 'Carbon-Neutral AI Era' and recognizes AI-RE100 as a new competitive factor.",
+        "cause": "This is due to strengthening ESG investment standards.",
+        "outlook": "AI services with high carbon emissions will face disadvantages in investment and customer acquisition."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon-Neutral AI",
+        "AI-RE100",
+        "Competitiveness",
+        "ESG Investment",
+        "Carbon Emissions"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[2026년 5월 현재, \"탄소중립 AI시대\"를 맞이하고 있다] 산업계에서는 AI-RE100이 단순한 규제가 아닌 새로운 경쟁력 요소로 인식되고 있다. ESG 투자 기준이 강화되면서, 탄소 배출이 높은 AI 서비스는 투자와 고객 확보에서 불리 AI넷"
+    },
+    {
+      "id": "16",
+      "title": "AGI Edu Co., Ltd. Accelerates Construction of World's Second 'Carbon-Neutral AGI Campus' in Korea... Innovating Education with Digiverse Technology - AI Net",
+      "original_title": "(주)AGI에듀, 세계 두 번째 '탄소중립 AGI 캠퍼스' 한국 건립 가속화... Digiverse 기술로 교육 혁신 - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0wUUlXd2Jhakx4TFBXUHNkMVExdXktc0R0QjJBUklyNGVTSkE0Q2Q0dTJqNEJ1ZGZOOElsSjVFSkk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T12:04:53",
+      "description": "AGI Edu Co., Ltd. Accelerates Construction of World's Second 'Carbon-Neutral AGI Campus' in Korea... Innovating Education with Digiverse Technology AI Net",
+      "summary": {
+        "phenomenon": "AGI Edu Co., Ltd. is accelerating the construction of the world's second 'Carbon-Neutral AGI Campus' in Korea.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This aims to achieve educational innovation by utilizing Digiverse technology."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AGI Edu",
+        "Carbon Neutrality",
+        "AGI Campus",
+        "Digiverse Technology",
+        "Educational Innovation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "(주)AGI에듀, 세계 두 번째 '탄소중립 AGI 캠퍼스' 한국 건립 가속화... Digiverse 기술로 교육 혁신 AI넷"
+    },
+    {
+      "id": "17",
+      "title": "Sejong Facilities Corporation Leads Carbon Neutrality Practice with Eco-Drive Education - Korea AI Real Estate News",
+      "original_title": "세종시설공단 에코드라이브 교육, 탄소중립 실천 앞장 - 한국AI부동산신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OYlhtWnVaTmV1SEhKd09jLVlCZGpPRnpMTkJTOE1QcTZHbWZXVVRGQl8ydlUxNGFic0VNQ0NKNko4dndjYUlhc3VUY3Q?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T10:12:59",
+      "description": "Sejong Facilities Corporation Leads Carbon Neutrality Practice with Eco-Drive Education Korea AI Real Estate News",
+      "summary": {
+        "phenomenon": "The Sejong Facilities Corporation is leading the practice of carbon neutrality through eco-drive education.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sejong Facilities Corporation",
+        "Eco-Drive",
+        "Carbon Neutrality",
+        "Education",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "세종시설공단 에코드라이브 교육, 탄소중립 실천 앞장 한국AI부동산신문"
+    },
+    {
+      "id": "18",
+      "title": "[International] Former UN Under-Secretary-General: \"Renewable Energy is Now a Necessity, Not an Option\" - Naewae News Agency",
+      "original_title": "[국제] 前 유엔 사무차장 \"재생에너지, 이젠 선택 아닌 필수\" - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42Mm5yV3JxdFRLaEdVUENQNnVLZXFMNzlPQkZ6WWJtWVZLREJ1bWRfZFdtMS0yTllpMEZ2M3pxd1ZCaUI5d0dicUZzN2xIME5rYkxGcElJWGlVZjY2Y3dUajdONUZTZ19BNWxDSQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T12:17:21",
+      "description": "[International] Former UN Under-Secretary-General: \"Renewable Energy is Now a Necessity, Not an Option\" Naewae News Agency",
+      "summary": {
+        "phenomenon": "A former UN Under-Secretary-General stated that renewable energy is now a necessity, not an option.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "Necessity",
+        "UN",
+        "International",
+        "Climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[국제] 前 유엔 사무차장 \"재생에너지, 이젠 선택 아닌 필수\" 내외뉴스통신"
+    },
+    {
+      "id": "19",
+      "title": "Shinsung E&G Strengthens Renewable Energy Business - The Elec",
+      "original_title": "신성이엔지, 재생에너지 사업 강화 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42bTVmc1E4SWRQbEw3d2JlQmtpNC1SSF9IYjhjQVZueDNQUFR2OHE1WFlpcDFWR05kSl85X0xCU2stcFVRMVdlUWVFX1dxbjVsOGxfd0VHaTVnSmM1Q3VFdXBUQmp4QQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T22:39:27",
+      "description": "Shinsung E&G Strengthens Renewable Energy Business The Elec",
+      "summary": {
+        "phenomenon": "Shinsung E&G is strengthening its renewable energy business.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Shinsung E&G",
+        "Renewable Energy",
+        "Business",
+        "Strengthening",
+        "Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "신성이엔지, 재생에너지 사업 강화 디일렉"
+    },
+    {
+      "id": "20",
+      "title": "Shinhan Bank, Shinhan Asset Management, and Hyosung Heavy Industries 'Join Hands' for Global Renewable Energy Business - Redian",
+      "original_title": "신한은행, 신한자산운용·효성중공업과 글로벌 신재생에너지 사업 ‘맞손’ - 레디앙",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsRDJhaGp1RHQtcVFBcWR1RlhWSWRZVjF2V3ZjUV9pQXJxeFpVclhuaXpCakVwTXVScEJMNk5YY1Bvb3hWdVp0Q3psTkNXNnNaN09fTURXdC11blBxVFA2VlN2REVSWTB5?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T09:00:37",
+      "description": "Shinhan Bank, Shinhan Asset Management, and Hyosung Heavy Industries 'Join Hands' for Global Renewable Energy Business Redian",
+      "summary": {
+        "phenomenon": "Shinhan Bank has partnered with Shinhan Asset Management and Hyosung Heavy Industries for a global renewable energy business.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Shinhan Bank",
+        "Shinhan Asset Management",
+        "Hyosung Heavy Industries",
+        "Renewable Energy",
+        "Global Business"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "신한은행, 신한자산운용·효성중공업과 글로벌 신재생에너지 사업 ‘맞손’ 레디앙"
+    },
+    {
+      "id": "21",
+      "title": "“Global Semiconductor Equipment Company's Largest Scale” Tokyo Electron Korea-KT Sign Direct PPA for 50MW Renewable Energy Supply - v.daum.net",
+      "original_title": "“글로벌 반도체 장비사 최대 규모” 도쿄일렉트론코리아-KT, 50MW 규모 재생에너지 공급 직접PPA 협약 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NLXZiTDAtbXFBUGNRUHA2dHlnZE51ZW12R2w1MXRlNWtVNkFRSVRXRVpxdTVpVWZvQXhLUUdsdzljTFczWEFDN3hRcktwNzg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T14:33:15",
+      "description": "“Global Semiconductor Equipment Company's Largest Scale” Tokyo Electron Korea-KT Sign Direct PPA for 50MW Renewable Energy Supply v.daum.net",
+      "summary": {
+        "phenomenon": "Tokyo Electron Korea and KT have signed a Direct Power Purchase Agreement (PPA) for the supply of 50MW of renewable energy. This marks the largest renewable energy supply agreement among global semiconductor equipment companies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Tokyo Electron Korea",
+        "KT",
+        "Renewable Energy",
+        "Direct PPA",
+        "Semiconductor Equipment Company"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“글로벌 반도체 장비사 최대 규모” 도쿄일렉트론코리아-KT, 50MW 규모 재생에너지 공급 직접PPA 협약 v.daum.net"
+    },
+    {
+      "id": "22",
+      "title": "Iran War Proves Value of Renewable Energy…UK Saves £1.7 Billion with Wind and Solar Power - Youth Alliance",
+      "original_title": "이란 전쟁이 증명한 재생에너지 가치…영국, 풍력·태양광으로 17억 파운드 절감 - 유스연합",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPWk90TER3Y25MSWpGSFZrWkRqU3ZpbnA4ZEYyUjdhYkRFQXd0dHR0bkJsNURlSUpBd0liSlB1QVFjNUt5T1FZRjlBc214WW9DQmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T22:02:15",
+      "description": "Iran War Proves Value of Renewable Energy…UK Saves £1.7 Billion with Wind and Solar Power Youth Alliance",
+      "summary": {
+        "phenomenon": "The UK saved £1.7 billion through wind and solar power generation amidst the energy crisis caused by the Iran war.",
+        "cause": "Instability in the energy market and rising fossil fuel prices due to the Iran war highlighted the economic value of renewable energy.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "UK",
+        "Wind Power",
+        "Solar Power",
+        "Savings"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "이란 전쟁이 증명한 재생에너지 가치…영국, 풍력·태양광으로 17억 파운드 절감 유스연합"
+    },
+    {
+      "id": "23",
+      "title": "Tokyo Electron-KT Sign MOU for 50MW Renewable Energy Supply - The Elec",
+      "original_title": "도쿄일렉트론-KT, 50MW 규모 재생에너지 공급 MOU 체결 - 디일렉",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhODM3eENQNTJEb3FxcE5LVDdQY1VJbElRZ2hGQjhjek0xSFpma1B0QlRmdHhmVnBMTGtjZGpqN2MxeGFIaWFkZUJzOG9zeXctRzhqemhBbldwQllDTzhpSFlMd0NIdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T08:36:27",
+      "description": "Tokyo Electron-KT Sign MOU for 50MW Renewable Energy Supply The Elec",
+      "summary": {
+        "phenomenon": "Tokyo Electron and KT have signed a Memorandum of Understanding (MOU) for the supply of 50MW of renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Tokyo Electron",
+        "KT",
+        "Renewable Energy",
+        "MOU Signing",
+        "50MW"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "도쿄일렉트론-KT, 50MW 규모 재생에너지 공급 MOU 체결 디일렉"
+    },
+    {
+      "id": "24",
+      "title": "Shinhan Bank-Shinhan Asset Management-Hyosung Heavy Industries Global Expand Renewable Energy Business Cooperation - mstoday.co.kr",
+      "original_title": "신한은행-신한자산운용-효성중공업글로벌 신재생에너지 사업 협력 확대 - mstoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NZE5jajB2X0x0OTJ5MHhGZ3phQVdMWG5ZSEZlUHg2ZzYyOGxseE5ZdGZlak5aLTMwNi1NTWViMjYzalJOVlA2a2ZrTUtBR1ptcUVQdW45QUpISm8wS3dNZVhhNXdVUG8?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T08:33:58",
+      "description": "Shinhan Bank-Shinhan Asset Management-Hyosung Heavy Industries Global Expand Renewable Energy Business Cooperation mstoday.co.kr",
+      "summary": {
+        "phenomenon": "Shinhan Bank, Shinhan Asset Management, and Hyosung Heavy Industries are expanding their global renewable energy business cooperation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Shinhan Bank",
+        "Shinhan Asset Management",
+        "Hyosung Heavy Industries Global",
+        "Renewable Energy",
+        "Business Cooperation Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "신한은행-신한자산운용-효성중공업글로벌 신재생에너지 사업 협력 확대 mstoday.co.kr"
+    },
+    {
+      "id": "25",
+      "title": "KT Directly Supplies Renewable Energy to Tokyo Electron Korea - The Fact",
+      "original_title": "KT, 도쿄일렉트론코리아에 재생에너지 직접 공급 - 더팩트",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WYkhyT1hKWXVlczkxVDRGRXgzczR1NFpGdm5jSEpNZFdoXzF1NWNMRGJnRFZuN2xtTXFWRHRmdW1Gc1hQaFFucWxGM2tRa0hGVEctdk5UNlZqd9IBVEFVX3lxTFBkTWh5aE5tRk1XS2I3LXhHNHdvRnZpRV9VWG84V29Wc2NiNEVZcUNpZUNYTm0zU21qbVEyWnkyTEI3SXMtRkdYZU5wN1ZSQnJYcl9hZA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T08:25:52",
+      "description": "KT Directly Supplies Renewable Energy to Tokyo Electron Korea The Fact",
+      "summary": {
+        "phenomenon": "KT is directly supplying renewable energy to Tokyo Electron Korea.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KT",
+        "Tokyo Electron Korea",
+        "Renewable Energy",
+        "Direct Supply",
+        "Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "KT, 도쿄일렉트론코리아에 재생에너지 직접 공급 더팩트"
+    },
+    {
+      "id": "26",
+      "title": "Wonju City Conducts Demand Survey for Renewable Energy Convergence Support Project - Korea Media News Agency",
+      "original_title": "원주시, 재생에너지 융복합지원사업 수요조사 실시 - 한국미디어뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdDRpRUNXU3k0Q3NROGZIdm8xT3J5QnlyYjhRVkhMZmZmR3JGQUQtcXMtM2hkTEVHNHNKM3JhOGZmc2d5Rzk5MTVEZEtQVmZlWXdNajhYS2lObTVaR3l0eloycEE0bF9UNWthZA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T22:46:38",
+      "description": "Wonju City Conducts Demand Survey for Renewable Energy Convergence Support Project Korea Media News Agency",
+      "summary": {
+        "phenomenon": "Wonju City is conducting a demand survey for the Renewable Energy Convergence Support Project.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "원주시, 재생에너지 융복합지원사업 수요조사 실시 한국미디어뉴스통신"
+    },
+    {
+      "id": "27",
+      "title": "'First-Generation Solar Company' Shinsung E&G Simultaneously Recruits Professional Manager and Invests in Manufacturing Line - Daily Hankook",
+      "original_title": "‘태양광 1세대’ 신성이엔지, 전문 경영인 영입·제조라인 투자 동시 진행 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PMmEzdkdYNWctbzd5N0NqLWZyQ29RVmZOZnhiZ0dEU2FUazg0R2NzN0FHaXdENzkxN2JnUXYweVRHQU53b1J0aDQ2emNKNEZxSUhrTnY5YnNxMzRFX3pxa1N5dkt3c0FyUzBFVF9rQdIBc0FVX3lxTFBWVXhiX2xlVU9JeEx2NXBkNGZnUWxzd2VWZEU0OEk3TGt2WDRhNVRPZlh1ZkZ4WDMtTmZqYTM2ZURPZzdYbl9wVm85M2drUnlPUjQwZUJFbXp4MW5SeDNIS1ZGZTZocGpQQW5wN0RManZteWc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T14:11:20",
+      "description": "'First-Generation Solar Company' Shinsung E&G Simultaneously Recruits Professional Manager and Invests in Manufacturing Line Daily Hankook",
+      "summary": {
+        "phenomenon": "Solar company Shinsung E&G is simultaneously recruiting a professional manager and investing in its manufacturing line.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Shinsung E&G",
+        "Solar Power",
+        "Professional Manager",
+        "Manufacturing Line",
+        "Investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘태양광 1세대’ 신성이엔지, 전문 경영인 영입·제조라인 투자 동시 진행 데일리한국"
+    },
+    {
+      "id": "28",
+      "title": "LS Cable & System and KEPCO E&C Form Alliance to Secure Floating Offshore Wind Market",
+      "original_title": "LS전선·한전기술, ‘부유식 해상풍력’ 시장 선점 동맹",
+      "url": "https://www.khan.co.kr/article/202605112137015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-11T12:37:01",
+      "description": "LS Cable & System and KEPCO E&C are embarking on a strategic collaboration to secure a leading position in the rapidly growing floating offshore wind market. The plan is to maximize global competitiveness by combining the capabilities of both companies from the design stage. LS Cable & System announced on the 11th that it signed a Memorandum of Understanding (MOU) with KEPCO E&C for floating offshore wind cooperation. The core of this agreement is to integrate from the initial stages of power system design...",
+      "summary": {
+        "phenomenon": "LS Cable & System and KEPCO E&C signed a Memorandum of Understanding (MOU) for floating offshore wind cooperation on the 11th. Both companies will engage in strategic collaboration on core design and procurement technologies to secure a leading position in the floating offshore wind market.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Both companies plan to maximize global competitiveness by combining their capabilities from the design stage."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Floating Offshore Wind Power",
+        "LS Cable & System",
+        "KEPCO E&C",
+        "Strategic Cooperation",
+        "Market Leadership"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "설계·조달 핵심기술 전략적 협력LS전선이 한국전력기술과 손잡고 급성장하는 ‘부유식 해상풍력’ 시장 선점을 위한 전략적 협력에 나선다.설계 단계부터 양사의 역량을 결합해 글로벌 경쟁력을 극대화한다는 구상이다.LS전선은 한국전력기술과 ‘부유식 해상풍력 협력을 위한 양해각서(MOU)’를 체결했다고 11일 밝혔다. 이번 협약의 핵심은 전력계통 설계 초기 단계부터 ···"
+    },
+    {
+      "id": "29",
+      "title": "Beware of Wolves, but Straw Houses Could Help With Climate Change - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NcS1meC1EUi15ODBxS2taR3Zvd3dBcjFOQXZhSmZ2SnptOVROYVRoS21ELVBzVXlyYzVSOE90VENjb0F3MHlLQ3BLV1hfR2U1ZGEzNXoyNW8weG41QlVaLVB5ZFdJQWdsVHhjaS1oZFpSZF9NUDVNWTln?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T15:45:00",
+      "description": "Beware of Wolves, but Straw Houses Could Help With Climate Change The New York Times",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Straw houses could contribute to addressing climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Beware of Wolves, but Straw Houses Could Help With Climate Change The New York Times"
+    },
+    {
+      "id": "30",
+      "title": "메인주 야생 블루베리 농장들, 기후 변화로 재배 시기 뒤바뀌며 피해 입어",
+      "original_title": "Wild Blueberry Farms Across Maine Suffer as Climate Change Upends Growing Seasons - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdkZPaGd6RUMyd1dBd0pfSkkzQnR1ejdyUVByVlY0NkFKbE8zNmhqMy1GZC1yUm5SNlduQ3hRN3JWdkphLWJlNDItQWJlLWxUQWY0UXhVXzJLMWFac21nV3JlUE9FODBjVjUwd0t3X0xyUXMzTlJjZWtyS0QyZWMzdUFNTG40Q1hRUDd2T0Jqcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:00:00",
+      "description": "Wild Blueberry Farms Across Maine Suffer as Climate Change Upends Growing Seasons Inside Climate News",
+      "summary": {
+        "phenomenon": "Wild blueberry farms across Maine, USA, are experiencing damages as climate change disrupts their growing seasons.",
+        "cause": "Climate change is acting as the cause of disruption to the growing seasons of wild blueberries.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Wild Blueberries",
+        "Maine",
+        "Climate Change",
+        "Growing Season",
+        "Agricultural Damage"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Wild Blueberry Farms Across Maine Suffer as Climate Change Upends Growing Seasons Inside Climate News"
+    },
+    {
+      "id": "31",
+      "title": "Weathering the Storm: Climate Change and Mental Health - MPR News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2JfYnNWdnh1ZDNpRmFDMlBkdXN1QUR5dFZNZHlTUmNvRUVZMkhmZHpJQVlCdm1lbFlBcFJfSU9vQ3JZR3VKLVFQazdRVEhLQTF2ZG5oWkxXRno1YkM5MlByTlQ4ZHQ2czBWZ2l6eXg3bG53emkzRGlBOHJFamU3X3JmNnNpQkl2M0w3MVV3elJUMHV4TXpqRk81YXZsQUcydzNPMzhaeVpjaEhtNXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T18:12:52",
+      "description": "Weathering the Storm: Climate Change and Mental Health MPR News",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Weathering the Storm: Climate Change and Mental Health MPR News"
+    },
+    {
+      "id": "32",
+      "title": "A New Way to Fight Climate Change Emerges From Erupting Volcano - Gizmodo",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGpvM2tOUU1YcUdmLUlCUlpVaG9TN0RIMVlpRjdtTDZOc3hBX3ZIY2hJRkJCOUtrRnNSN0plNE0yLUlWWGtEbUpIemE2T1J5eVo3MDFVMm1hSkpUM291QUxoZThjVEgzbW90WllJNUU3anJkazZjaFo2clo1dUNGalpiQUR3VzYtZUFsUUFpS2VUUFBWU18zOWNB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:30:24",
+      "description": "A New Way to Fight Climate Change Emerges From Erupting Volcano Gizmodo",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "A New Way to Fight Climate Change Emerges From Erupting Volcano Gizmodo"
+    },
+    {
+      "id": "33",
+      "title": "콜로라도 주민 압도적 다수, 기후 변화가 인간 건강 해친다고 말해 - 더 콜로라도 선",
+      "original_title": "An overwhelming percentage of Coloradans say climate change is harming human health - The Colorado Sun",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kS2JSSXNiYjZqVk5BaVpRakxpQkxaTnc4dHdGUzZpRTYwc0xOa2pwUmtOUkktTHRlLWF1VWVVMUpzd1N4NHItbDJjbS12Z0pSLUlDUFJiNGNzbktZamNKa05ncWx4V2R1ek5McFlESjRibXNERWow?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:57:00",
+      "description": "An overwhelming percentage of Coloradans say climate change is harming human health The Colorado Sun",
+      "summary": {
+        "phenomenon": "An overwhelming majority of Colorado residents state that climate change is harming human health. Specific figures or timelines were not mentioned in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Colorado",
+        "Climate Change",
+        "Human Health",
+        "Harm",
+        "Perception"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "An overwhelming percentage of Coloradans say climate change is harming human health The Colorado Sun"
+    },
+    {
+      "id": "34",
+      "title": "What tree rings reveal about climate change in the Amazon - news - Mongabay",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGRyR0MyNF9DOURqZV9fOHpEaF9BaS1UY1dIVFNXNHJ2OHF3dHNyRi1lNHhFNkIyazVYZnJzMWFhWEFpd3oxZk5ZRG9lWUJJLVVsVWV4VnBTR1JSQXNOYjg5akh0cjdNRnpTZTVVQ2UyR0l1YlBRRGFPU2Z4bjVGMUNlOGRfMHVkNmZMWWszVjM4S3JFeWN3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:44:34",
+      "description": "What tree rings reveal about climate change in the Amazon news - Mongabay",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "What tree rings reveal about climate change in the Amazon news - Mongabay"
+    },
+    {
+      "id": "35",
+      "title": "리처드 C. J. 서머빌, 기후 변화 과학에 대하여 - AMS 헤드라인",
+      "original_title": "Richard C. J. Somerville on the Science of Climate Change - AMS Headlines",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2thSWN1X3dQRlA3ajVmOFlXUUFJakhoVVlVLTBHd1RwTjQzOUp1d0JFaWZtUFI0ZF84UEVLSkI1OXZFR0kxOUdhMlJCMnU1alEtS2R4OUtwVTFrMDI4aXk1X2tSYTZCUGZpbUVDazFtU0JNSHdTNlN0amw0MnlJN3JCNXFEeWtQTDAwNEx2R0xnb1hoMG0yQTFVQTlYQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T19:50:32",
+      "description": "Richard C. J. Somerville on the Science of Climate Change AMS Headlines",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Science",
+        "Expert",
+        "Analysis",
+        "AMS"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Richard C. J. Somerville on the Science of Climate Change AMS Headlines"
+    },
+    {
+      "id": "36",
+      "title": "마이애미 괭생이모 문제 폭증, 기후 변화 탓일까?",
+      "original_title": "Miami’s sargassum problem is exploding. Is climate change to blame? - Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHpuSy1MaXItT2l5Y3g2RG5PU0pvTERGVjVBZFNza1hBSmtTckNsenlhV3dFbFRWZmdsMURRUlhHWmwxLXRoc2ZVYUYtcXI3Skt4R0cxLVJZcE5uYW1WNGdJLVZjSnlESDdqMGNLLXpPR1FOSTM4aE9KYkhVM3lDSTFKVExFWXp2ZTlHbEJyNjXSAZABQVVfeXFMTWkzbHZ5NlNla2s4cnpEU29tSWRESUNoNEloOXVaazh1YTY0NlNmVGZrMVVUQl9kckZNZkFIVzdyaGdYaW5sMnQzd2FrRXk2ZHpGWlhJN3ZCSk12MlhhNDJnWUQxUlVMOG9LQkNKMlVWOHRYckJKVlI2ZlhhUTR4ZVAxdHZNZ2UxN1JvZWFtY2pw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:01:09",
+      "description": "Miami’s sargassum problem is exploding. Is climate change to blame? Miami Herald",
+      "summary": {
+        "phenomenon": "The issue of sargassum is rapidly increasing in the Miami area. Specific timelines or figures were not mentioned in the article.",
+        "cause": "Questions have been raised about whether climate change could be a cause of the surge in sargassum, but specific scientific reasons were not explicitly mentioned in the article.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Miami",
+        "Sargassum",
+        "Issue",
+        "Surge",
+        "Climate Change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Miami’s sargassum problem is exploding. Is climate change to blame? Miami Herald"
+    },
+    {
+      "id": "37",
+      "title": "Debunking the \"End of Climate Change\" Narrative - EVWORLD.COM",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGZJZ3BPMEhJWDl5OHBlUmFMbGJhdXU1YkNNLWQxWHlnX191QUNydTVlcXZfMzJqZHhob3ZxdDFJQUhYQWF4V1V0MUNZZS1DQVE4RFVBWW03OHlYZUg1OVR1VFdENWtMV040NDVPMDZVVWhhS2R5VE8yNHRIMF9GV3k5cy1lRGV1QTR3TWptSDh5d0ZaeWFIeA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T21:11:15",
+      "description": "Debunking the \"End of Climate Change\" Narrative EVWORLD.COM",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Debunking the \"End of Climate Change\" Narrative EVWORLD.COM"
+    },
+    {
+      "id": "38",
+      "title": "우리 모두 기후 변화 완화를 위한 조치를 취할 수 있습니다 [서한] - 랭커스터온라인",
+      "original_title": "We can all take steps to help mitigate climate change [letter] - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPOEdmMkk1MV9DalhjejdDQUxtR0dlNnVJVzVsbHR5dzZGZmp1d0ZKV3QyVi1ySl8zMHFRSklVSnhtYVJDbEttbDZ2anR0b19mMjVkSC1Id0NuaG9IZU0tNkRJT2NsTUc3OGs2b2FmMzlYaE1pMGZ3VDVTU21UOGhiX0h4Tk1ObW1QZC11VWJ5ZWlYV3FlX0ROYzQyMG5zNERTeVV0cWdLaE5lTzdYMEtWX0xXX3FqMzNpamZXQmg3TXlySlB5cW5TUEstblRteUFQT0dwWDdLTF9VWkg2ZG9jYWdkRldtWll6QmJ6Z0ZhNFJ1ZTl5WkZR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:00:00",
+      "description": "We can all take steps to help mitigate climate change [letter] LancasterOnline",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Mitigation",
+        "Individual Efforts",
+        "Environmental Protection",
+        "Participation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "We can all take steps to help mitigate climate change [letter] LancasterOnline"
+    },
+    {
+      "id": "39",
+      "title": "네이처 버킷 – 2026년 4월부터 5월까지 기후 변화가 새 이동에 미치는 영향 - 데일리 코스",
+      "original_title": "Nature Bucket – Climate Change effects on bird migration April to May 2026 - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHU1a2lDUHdPS2ctRmMwbjMycWUxUEVwSFJaWjNXNnNIbXNGdW5TaFVkZEdCeU1EZjkwSGFFYTQ0Z2g0U19hQWRLa3VlV29lc05FSkN0dXd5di1BQ2EtX0llSVpLU2FJalpka1VSdjRCVXBSNHM2RzNfU3NUR19mQmttcEJmLTEydHltdmhpczdKaUJ6QWFuQlVwZmMzOFBHVDVUSnNMczNxQW9EY0p5ai05X1B5Y1ZaQnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T14:06:30",
+      "description": "Nature Bucket – Climate Change effects on bird migration April to May 2026 Daily Kos",
+      "summary": {
+        "phenomenon": "The article is expected to cover the impact of climate change on bird migration from April to May 2026. Specific phenomena that have currently occurred were not mentioned in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Bird Migration",
+        "Impact",
+        "2026",
+        "Daily Kos"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Nature Bucket – Climate Change effects on bird migration April to May 2026 Daily Kos"
+    },
+    {
+      "id": "40",
+      "title": "피닉스 지역의 이 이상 고온 5월 날씨, 기후 변화와 강력히 연관돼 - KJZZ",
+      "original_title": "This unseasonably hot May weather in Phoenix area has a strong climate change link - KJZZ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYndfZWp4QmRsS0toRGcwTk1MZjhqdy14UGxkN3dub1RGRDF2Smt3b3FlVEEwR3U3SFFmM0VfQUZDRGxJTGV6T2tORWpmbTBjRUVYYlFya1NhTUZENkUwblJYM0dNWmhQSC12Rml5SUt6ZDF2UjcyOXRodHlvYmk3R3NHLTRFM0pYcGFkdGJnYWs5dURnRERaWFhLRVlOTkhweWkyQTNLRndoVjE1YUUxNlJvak1sbzZ2TFh6OWpkNA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T22:09:00",
+      "description": "This unseasonably hot May weather in Phoenix area has a strong climate change link KJZZ",
+      "summary": {
+        "phenomenon": "Unseasonably hot weather occurred in the Phoenix area in May. Specific figures were not mentioned in the article.",
+        "cause": "This unseasonably hot weather was mentioned as being strongly linked to climate change, but specific scientific causes or background were not explicitly stated in the article.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Phoenix",
+        "Unseasonably Hot Weather",
+        "May Weather",
+        "Climate Change",
+        "Link"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "This unseasonably hot May weather in Phoenix area has a strong climate change link KJZZ"
+    },
+    {
+      "id": "41",
+      "title": "돌봄 서비스가 효과적인 기후 적응을 지원한다: 국가 적응 계획 및 국가 온실가스 감축 목표 내 돌봄 연계 분석 - 브루킹스",
+      "original_title": "Care services support effective climate adaptation: Mapping care within National Adaptation Plans and Nationally Determined Contributions - Brookings",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3dWdlI1YnVpdDREOFc1eXVDa21mZ1laSkt1NTl2em9Ia2NxeEFvNG44a0Vhd2QwRmhVY2pXVUZMLWdHejBLS3l5ZmpzMk1tTDdoNldzX19GLV9aT3ZyaWdhSWlFa0p0c2F1NmRnVWdaRDVaTkx6UVNHUmhQRTh6bFkwdE0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T21:47:35",
+      "description": "Care services support effective climate adaptation: Mapping care within National Adaptation Plans and Nationally Determined Contributions Brookings",
+      "summary": {
+        "phenomenon": "According to a Brookings study, the ways in which care services support effective climate adaptation within National Adaptation Plans (NAPs) and Nationally Determined Contributions (NDCs) were analyzed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Care services",
+        "Climate adaptation",
+        "National Adaptation Plans",
+        "Nationally Determined Contributions",
+        "Brookings"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Care services support effective climate adaptation: Mapping care within National Adaptation Plans and Nationally Determined Contributions Brookings"
+    },
+    {
+      "id": "42",
+      "title": "호주 대법원의 기후 변화 - 베르파슝스블로그",
+      "original_title": "Climate Change in the High Court of Australia - Verfassungsblog",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NTBTV0NRRjBzeFNKQVdNTmlGOWl2Nm04bUVuWmdRN1NDVmJDOEtjdlF5UzB6bVF1endfUC1CNzhzZTFia2VlRllYTWozUmhURlMtazY5ZWx6Q0ZOWUtqemdCSDRBZ09qVGxqeXFuZXhEMU4yV21xemxkWjdrUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T19:24:49",
+      "description": "Climate Change in the High Court of Australia Verfassungsblog",
+      "summary": {
+        "phenomenon": "Matters related to climate change are being addressed in the High Court of Australia.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "High Court of Australia",
+        "Legal issues",
+        "Judiciary",
+        "Verfassungsblog"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change in the High Court of Australia Verfassungsblog"
+    },
+    {
+      "id": "43",
+      "title": "블루 카본 생태계를 기후 변화 대응에 우선시해야 할까?",
+      "original_title": "Should blue carbon ecosystems be prioritised in the fight against climate change? - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWVh6cThfNTlGRWlUdDhoSjdKdUhJNmpRUzhDTmg0X010cmh6cUxGaTJ3S2hVZHNGbnRDLUFsOTA4MUxmM2NaQ0RscTJIR2FKcDdpTEV2RDdfQVJITlRGOTZqdnN2bm1FUnd6bndQU0dkM054ZldQVE5lRVVydFJNWlRaamNFY1NDTTNuZjF1MFBoZ2JtWEliaG96YTl4RlptdG5pWENJTEdTNTR2UlFabUNvYUxTWHJXZmxOWXdsRTVWMVppNDlpLWRUelo?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:09:07",
+      "description": "Should blue carbon ecosystems be prioritised in the fight against climate change? Digital Journal",
+      "summary": {
+        "phenomenon": "Discussions are underway regarding whether blue carbon ecosystems should be prioritized as part of climate change response strategies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Blue carbon",
+        "Ecosystems",
+        "Climate change",
+        "Priority",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Should blue carbon ecosystems be prioritised in the fight against climate change? Digital Journal"
+    },
+    {
+      "id": "44",
+      "title": "Elegies for a changing land: how Ireland’s poets are responding to the climate crisis - The Conversation",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmJJWF94VjBLV0pnZ05BbjZONTVjbGlJcUVLX3hrcm1IaktjOHlxT05GWmdZRXFhR25QUjlFSEFQQWhHTjRDdUw2UmhCNUd4OUZBWElocWQyV1pFWW9JRWtTYmp5dDRqUGFzWDdUX2FxN1ZheTFDTm1yS0oxUVZnbXNKUTBXT2F5ZjhlMXFTQ2RGVFVSVElDd1dSTnRWT2FCVlBnT2xQT0VYVzJuOHVZcGIxVlNQR0ZVZXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:27:39",
+      "description": "Elegies for a changing land: how Ireland’s poets are responding to the climate crisis The Conversation",
+      "summary": {
+        "phenomenon": "Irish poets are responding to the climate crisis through elegies for a changing land.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Elegies for a changing land: how Ireland’s poets are responding to the climate crisis The Conversation"
+    },
+    {
+      "id": "45",
+      "title": "AI 동반자부터 기후 행동까지, 우리는 다가올 미래를 과소평가한다 - 더 컨버세이션",
+      "original_title": "From AI companions to climate action, we undervalue what lies ahead - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkd2ZHBQZ2xPVHNSUjZTUmxPdDRWaVlmclR3WUNWZnUyNGl2X3dLZTJBdXhkSjZYT2l2UXA2TlkxNGE2ZF9VMTdXSE1zVHpfMzR4ZWQyOUJoUlNvV1NQSWk2TzJXQy1HcGJwNXFtUVI5R1VoQ185WnpKZTV1SE05TEdLN0xoZVc2V1FqbVMxelJwT1dmeVZsb0V6bkhCb0Z5NHFR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T16:02:27",
+      "description": "From AI companions to climate action, we undervalue what lies ahead The Conversation",
+      "summary": {
+        "phenomenon": "It has been argued that important future values, ranging from AI companions to climate action, are currently being undervalued.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI companions",
+        "Climate action",
+        "Undervaluation",
+        "Future",
+        "The Conversation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "From AI companions to climate action, we undervalue what lies ahead The Conversation"
+    },
+    {
+      "id": "46",
+      "title": "Troubling signs of climate change are showing up on Nova Scotia’s remote Sable Island - Canadian Geographic",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVlNfLUtlMUIyWkdyZzgyckN5WXZ2MjJTc1hrdlJnNzRfTGRiWHFiblRvQkdmZ045bmJvUi16ODBiZkg4bW83ZldRVEJ5M3JxOFR1UFF6R3hGTm9fQUJRaVJBblY5S1hNd1d1TV92Q2VZOHh4TkVWRlBsZS1JWENpRkhtTms0YUZQYzFDWk0wbktHbFlfb2dpTE0xYkI0czZHenp4ODVpOVh6Q0dwWXlwb1RSY1dOdF9FNWNKOThQU1Qtdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T13:49:24",
+      "description": "Troubling signs of climate change are showing up on Nova Scotia’s remote Sable Island Canadian Geographic",
+      "summary": {
+        "phenomenon": "Troubling signs of climate change are appearing on Canada's remote Sable Island, Nova Scotia.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Troubling signs of climate change are showing up on Nova Scotia’s remote Sable Island Canadian Geographic"
+    },
+    {
+      "id": "47",
+      "title": "남아프리카 와인메이커, 기후 변화에 맞서 피노 누아 재배 - 야후",
+      "original_title": "South African winemaker growing pinot noir in the face of climate change - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNem9waXpHNWx1Q2hiV2JnV0s5Y0tjX190ZnByUVdMR0c1aXhKMWpicUR2N3oyU21OenJzaVpNNjVBNWYxd0lXM3VZSUUwVHdJVFdQaGNSRkpKYVpzcm40NkVwazNPVWd1TWJWTnR5allfcW9lQVlTWWJ5d2Rhd1B6ZFFucWZXSFdPMFFkU0paVQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T16:55:59",
+      "description": "South African winemaker growing pinot noir in the face of climate change Yahoo",
+      "summary": {
+        "phenomenon": "A South African winemaker is cultivating Pinot Noir grapes in the face of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "South Africa",
+        "Wine",
+        "Pinot Noir",
+        "Climate change",
+        "Cultivation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "South African winemaker growing pinot noir in the face of climate change Yahoo"
+    },
+    {
+      "id": "48",
+      "title": "크리스천 에이드 보고서: 기후 변화가 우리의 차 한 잔을 망칠 수 있다 - 인디펜던트 가톨릭 뉴스",
+      "original_title": "Christian Aid report shows climate change could ruin our cuppa - Independent Catholic News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vUVdKZUNIYXcwX1ZVU3psSUo2V2FrRTN2YVpBV3BzeTl5b1oyZW9fQzNMd2Y1eWhIY0laOVdKLWFTaXBZeG5hZTVtMV85a3ZqaU5ZNg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T12:36:46",
+      "description": "Christian Aid report shows climate change could ruin our cuppa Independent Catholic News",
+      "summary": {
+        "phenomenon": "According to a Christian Aid report, concerns have been raised that climate change could negatively impact tea production.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change could ruin our cup of tea."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Christian Aid",
+        "Report",
+        "Daily life disruption",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Christian Aid report shows climate change could ruin our cuppa Independent Catholic News"
+    },
+    {
+      "id": "49",
+      "title": "지방 의회가 기후 위기 대처를 위해 실제로 할 수 있는 일",
+      "original_title": "What your local council can actually do to tackle the climate crisis - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDN5NnpLMVBKcG5qQVhGOVpiTXBRcTBvWHlYMGpKZ0RFX1RDQ05zd0NHQ1kwTnM1Y0ZiN0JIbkdXS1E1VW1xVlJMQ1ItY2R5TkJTR29DWmJGWkc4S1Z1bFZ2a1BhX2kwNkhyZXFLZjdCN0VxbWFPbFJHcHNrSllyd2JnOFJoWXNrZ19GVjBGd1lIcEliekg0b3d3TVZ3c1dnY0pCUGdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T13:50:04",
+      "description": "What your local council can actually do to tackle the climate crisis The Conversation",
+      "summary": {
+        "phenomenon": "An exploration is underway into the specific actions local councils can actually take to tackle the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Local council",
+        "Climate crisis",
+        "Tackle",
+        "Role",
+        "Action"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "What your local council can actually do to tackle the climate crisis The Conversation"
+    },
+    {
+      "id": "50",
+      "title": "'많은 아프리카 국가들은 개발 자금 조달과 기후 변화 대응 사이에서 선택을 강요받아서는 안 된다고 믿는다' - 르몽드.fr",
+      "original_title": "'Many African countries believe they shouldn't have to choose between funding their development and fighting climate change' - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOR09laV9ralVjQ1pJZWVSYjd3RFBWM3o4WDN3UUxwZ0VBSHdzZW5hT21vQ0dISEdsOHZWS3JMUG5DcUphRG1UNURHYjZqVFJTNW55Mk1FMmVlZjVlQktyUXJzYmhwN1FDZnMwV1EtS1ZiMXJ5a21pcENUMWt6WkM2UWRmUHNYOW0wckVITXpZSGl6dTdOMGNTeXJNVTFJNG5fRmlYamVkczNwWF9FdmZMYnlDVHhKZ3N3dmwyd2M4elFaNmFJQ0Zob0R2eHdxNHlGbXNYSndpTzgwZGRFQmFiQV8za0d2dHVLM2YzNDA0dElzcGVoNUFzRF9FczdjZTV1bk1obDZaeThYYmNDVzJQQVBPRmRqVGJxRVVvWW9DOTU0dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T12:26:48",
+      "description": "'Many African countries believe they shouldn't have to choose between funding their development and fighting climate change' Le Monde.fr",
+      "summary": {
+        "phenomenon": "Many African countries have stated that they should not be forced to choose between the two critical challenges of funding their development and combating climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Africa",
+        "Development",
+        "Climate change",
+        "Funding",
+        "Dilemma"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "'Many African countries believe they shouldn't have to choose between funding their development and fighting climate change' Le Monde.fr"
+    },
+    {
+      "id": "51",
+      "title": "AI curiosity and climate change: What a global survey of public officials tells us about 2026’s big issues - Civil Service World",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRkFvZzU4QTQyYlhfTHp4SFVuSC1VLXRTYTJ2NVd0X1p4dVdBTHdycmlUeHRMVFg4VG1vU3lLUFhNN2Jna19obGFNLWJsU2xXNGhLb21DeG9FWGhSNFY4clJnZnJQQmY1YmxoWEJTUTVJRE1zN0NDRm0zeVYwUUVIbm9VLUhEOGtLWU1JZlZTcGFvWHpxd1RTQjZfUU5tLVhDSndVbmVIUHdhNlVYX1pmdWRybjl1UndHM0xyRDNqdWEtYXpHRFVrcGxwWE93by0zVlQwd1JaWjV3N1J0S0c1ZVYzSERuaGdLTDV0eQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T12:12:55",
+      "description": "AI curiosity and climate change: What a global survey of public officials tells us about 2026’s big issues Civil Service World",
+      "summary": {
+        "phenomenon": "A global survey of public officials indicates that interest in AI and climate change are emerging as key issues for 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "AI and climate change are expected to be significant concerns for public officials in 2026."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "AI curiosity and climate change: What a global survey of public officials tells us about 2026’s big issues Civil Service World"
+    },
+    {
+      "id": "52",
+      "title": "The British cuppa under threat as climate change turns tea bitter - Environment Journal",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnp0NU5sRUdodlBRYUQ5NUlqSFU1azd6dHUxSHItWElPMnQ2Z3Q2bzU5TlFaRVZzel9iek51TG50dXZ6aVBvcHg1eFplbWVZX2JleThGQnBmRXh6N3RUcGtDSjNfODZtd2FvbXgxN0JtSktYdV9KX2NKbnJWb3F5b25FNVBxRGk1M3Z4U1o4TXZVb3Q4N21uT2VaZzJ3UlJkbEtjdkV1VnUyR3NkYUFn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T14:57:12",
+      "description": "The British cuppa under threat as climate change turns tea bitter Environment Journal",
+      "summary": {
+        "phenomenon": "British tea is turning bitter due to climate change, threatening the UK's tea culture.",
+        "cause": "Climate change has been identified as the cause of the bitter taste in tea.",
+        "outlook": "The UK's tea tradition is projected to remain under threat due to climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The British cuppa under threat as climate change turns tea bitter Environment Journal"
+    },
+    {
+      "id": "53",
+      "title": "정부, 획기적인 재판을 앞두고 기후 변화 소송 제한 움직임 - Stuff",
+      "original_title": "Government moves to restrict climate change lawsuits before landmark trial - Stuff",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnB3M1ctdXF5c3B6X1JaVzBRS1RVdXF1cUtXbDR0TmstbDZOLXNpcHNTQW4zVXAtTHVOWTFTaDhQWGUxSm40Q3kwdkdhSVFjUFpRd0dmQzh4ZzJYeFkzbEs4S2tsazV1dGtVR2RuZ0pXSUExTHd3dkRpMTBUbkxiRDFPVHJobVBON3Nta0NIY2dkdlEzTFo1YkV6TTZyZFNYVFRuNFlnbjdXc28?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T21:54:11",
+      "description": "Government moves to restrict climate change lawsuits before landmark trial Stuff",
+      "summary": {
+        "phenomenon": "The government is moving to restrict climate change-related lawsuits ahead of a landmark trial.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change-related lawsuits are likely to be restricted, which could impact the landmark trial."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Government",
+        "Climate Change",
+        "Lawsuit",
+        "Restriction",
+        "Trial"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Government moves to restrict climate change lawsuits before landmark trial Stuff"
+    },
+    {
+      "id": "54",
+      "title": "기후 변화가 영국의 차 전통을 위협한다 - 걸프 투데이",
+      "original_title": "Climate change threatens Britain's tea tradition - Gulf Today",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc1lqLTVocllrZGpzTk9na2lxMWNqbnNVRXdqMnE2a1lpSjRUOTF0cUZ6MnZRMFFaNGR4eWdJMGhlZl9QWTFTQThyUHlhNEpBVU1wbmxNc1duVWp5N0hlbDZIcWloSWxsOTdqNFBFNmlVU0JhMGlGdUVKRlVJMnRiOWxZM0tUcVN4UjN0RGF6WUJXYUlZMGc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T15:59:26",
+      "description": "Climate change threatens Britain's tea tradition Gulf Today",
+      "summary": {
+        "phenomenon": "Climate change is threatening Britain's tea tradition.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Britain's tea tradition is projected to face continued threats from climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Threat",
+        "UK",
+        "Tea",
+        "Tradition"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change threatens Britain's tea tradition Gulf Today"
+    },
+    {
+      "id": "55",
+      "title": "농업, 전쟁·기후 변화·인플레이션 삼중 위기에 갇히다 - 카운터커런츠",
+      "original_title": "Agriculture Trapped in a Triple Crisis: War, Climate Change, and Inflation - Countercurrents",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjNMbXVGWTlOTE5CX2JLQ1ZFWlFSSjhzZ29Nb2hOTXNiYU1zNmgxX3BZeF9hbDg4aDlsWHJmRWdkRVpkM0haaVplMzh1bDRvQ3M3aWNJbk05eGdCWFM1RzYzWHVwUVhGbkxQdW9WTmxIcWxBckhvNXJfUXFrVGhRVkNobzBuOHlpVW1FWlFsSmtkZU5vNmw0b0Nyb0lRaGhZdlFJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T10:52:44",
+      "description": "Agriculture Trapped in a Triple Crisis: War, Climate Change, and Inflation Countercurrents",
+      "summary": {
+        "phenomenon": "The agricultural sector is facing a triple crisis: war, climate change, and inflation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The agricultural sector is expected to continue confronting a complex crisis stemming from war, climate change, and inflation."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Agriculture",
+        "Crisis",
+        "War",
+        "Climate Change",
+        "Inflation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Agriculture Trapped in a Triple Crisis: War, Climate Change, and Inflation Countercurrents"
+    },
+    {
+      "id": "56",
+      "title": "캐나다인, 기후 변화보다 경제 성장에 더 우려: 여론조사 - 주노 뉴스",
+      "original_title": "Canadians more concerned with economic growth than climate change: poll - Juno News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jLU1ZLXJyZzFVY1JtR0JLbHZUUlVaWkNTWUpEUDNuZFh3cHk0Q0tfRnBNZ1ZCY3NmVUJqM25TMnZTdVR6akpXdFBCM0RnU29JQXJSdFFicjVxZDNLOG56bll2dmtULUtVbnFuc3NHbVVrUHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T16:36:56",
+      "description": "Canadians more concerned with economic growth than climate change: poll Juno News",
+      "summary": {
+        "phenomenon": "According to a poll, Canadians are expressing greater concern for economic growth than for climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Canadians",
+        "Economic Growth",
+        "Climate Change",
+        "Poll",
+        "Concern"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Canadians more concerned with economic growth than climate change: poll Juno News"
+    },
+    {
+      "id": "57",
+      "title": "Shaping global climate action at UNSW - Inside UNSW",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmhvekxhZE5vTXd6aXRMdlV3TXNIOTgwUlVnc1hGbl96LVVHcUsxaDFmNlZ6RWxObHhfVnpjVDA5Y1Itbkk5Mkpad2RiZ2JoWmd4WGdYVHBUMW10V2hIYU8wZzdseE1SOWozcWh0Yzdqc2FYV2lXb2lqOHd3UzVmUWFHZzZodUl2?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T22:36:04",
+      "description": "Shaping global climate action at UNSW Inside UNSW",
+      "summary": {
+        "phenomenon": "Efforts are underway at UNSW (University of New South Wales) to shape global climate action.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Global climate action is expected to be shaped through UNSW's initiatives."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Shaping global climate action at UNSW Inside UNSW"
+    },
+    {
+      "id": "58",
+      "title": "유엔여성, 젠더 및 기후변화 선임 전문가 채용 (재택근무 컨설턴트) - 2026년 5월 12일까지 지원 - 글로벌 사우스 기회",
+      "original_title": "UN Women is Hiring a Gender and Climate Change Senior Expert (Home-Based Consultant Role) - Apply By 12 May 2026 - Global South Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DY0xJZDNoU3hhQ3p3MEo2bWl4ZkFSdXVBZEFOTGlwSVhoVm9mdjRGdVpwSUpXZXVUUEd2MXVqRW90QmQzU3g2VHdLcGt0Y05rWHVqNS1aemszR2V4QkJxTzlOcVlBSGktUUxWb0x3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:53:21",
+      "description": "UN Women is Hiring a Gender and Climate Change Senior Expert (Home-Based Consultant Role) - Apply By 12 May 2026 Global South Opportunities",
+      "summary": {
+        "phenomenon": "UN Women is recruiting a Senior Expert in Gender and Climate Change (home-based consultant) with an application deadline of May 12, 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "UN Women is expected to strengthen its expertise in gender and climate change to address related issues."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "UN Women",
+        "Gender and Climate Change",
+        "Senior Expert",
+        "Recruitment",
+        "Global South"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "UN Women is Hiring a Gender and Climate Change Senior Expert (Home-Based Consultant Role) - Apply By 12 May 2026 Global South Opportunities"
+    },
+    {
+      "id": "59",
+      "title": "프랑스, 관광 부문 7천5백만 톤 CO₂ 배출로 기후 위기 심화 및 환경 지속 가능성과 기후 변화 대응 노력에 새로운 중대한 위협 제기 - 트래블 앤 투어 월드",
+      "original_title": "France Faces Growing Climate Crisis as the Travel and Tourism Sector Contributes Seventy-Five Million Metric Tons of CO₂ Emissions and Poses a New Significant Threat to Environmental Sustainability and Global Efforts to Combat Climate Change - Travel And Tour World",
+      "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVDhqZW9EYVJQWWZvOUlqS3oxUHhieVdyaS1FVVlGWXIzcXJBT3NLZkRlZW5QVDlPYjRxMDVXS2lhV01QVTI2S1BDb2NnRm1ucnVFNUYxQmVSNzRXZ0trVzRWcHJROXdET2JMZmhFRnRRajhseWhBZzliVFRUb0lIVmF5Smlkek1nczJJQlB4T1EzTTRGSFZ6YWFHcGtYSWJJelpDMWpLQ0oySnBqNnExbDJwM0pBV3VUQmFveDJwQmtJR2ZSQVRBeWlNWl9KMUxRUDYtSFFKVTBDWUhnSTlnVjNqaXJ3S2ZTc0JFN2F0NnkzTDBUekhqempIWTBzeUFhV1lzSmtpUUxMUkNRQ2hCU2lsOHlLMzJmM3pTTTFUeHRJd1Rwam9DRTJGbWFRaGRvbThvOW5MakdlX1JxYVY0Rm42d0xidkVEalFjLUNtOHVsY1VROWJjNkFiYnpMN1FzcHNILXdYZnM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T09:53:56",
+      "description": "France Faces Growing Climate Crisis as the Travel and Tourism Sector Contributes Seventy-Five Million Metric Tons of CO₂ Emissions and Poses a New Significant Threat to Environmental Sustainability and Global Efforts to Combat Climate Change Travel And Tour World",
+      "summary": {
+        "phenomenon": "France's travel and tourism sector is exacerbating the climate crisis by emitting 75 million metric tons of CO₂, posing a new significant threat to environmental sustainability and global efforts to combat climate change.",
+        "cause": "CO₂ emissions from France's travel and tourism sector have been identified as a cause of the deepening climate crisis.",
+        "outlook": "France is projected to face a further deepening of its climate crisis and significant threats to environmental sustainability and climate change mitigation efforts due to CO₂ emissions from its travel and tourism sector."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "France",
+        "Climate Crisis",
+        "Tourism Industry",
+        "Carbon Emissions",
+        "Environmental Sustainability"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "France Faces Growing Climate Crisis as the Travel and Tourism Sector Contributes Seventy-Five Million Metric Tons of CO₂ Emissions and Poses a New Significant Threat to Environmental Sustainability and Global Efforts to Combat Climate Change Travel And Tour World"
+    },
+    {
+      "id": "60",
+      "title": "Lasers in the sky: hi-tech missions track record snowpack loss in US west",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/may/11/critically-low-snowpack-west",
+      "source": "guardian_climate",
+      "published_at": "2026-05-11T13:00:55",
+      "description": "Data from missions showing critically low snowpack on mountains across the west raises alarm among expertsHigh above the jagged peaks of California’s Sierra Nevada, the view from the cockpit is breathtaking. At first glance, the mountains appear draped in a pristine white blanket. But as the flight crew gears up for a high-stakes mission, the sensors onboard this specialized aircraft prove that looks can be deceiving.“This is a distinct dry year,” says Tom Painter, CEO of Airborne Snow Observato",
+      "summary": {
+        "phenomenon": "Record-low snowpack has been observed in the mountainous regions of the Western United States, particularly California's Sierra Nevada range, through aerial sensor data.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Experts are expressing concern over the critically low snowpack in the Western U.S. mountainous regions, which could have future implications."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Data from missions showing critically low snowpack on mountains across the west raises alarm among expertsHigh above the jagged peaks of California’s Sierra Nevada, the view from the cockpit is breathtaking. At first glance, the mountains appear draped in a pristine white blanket. But as the flight crew gears up for a high-stakes mission, the sensors onboard this specialized aircraft prove that looks can be deceiving.“This is a distinct dry year,” says Tom Painter, CEO of Airborne Snow Observato"
+    },
+    {
+      "id": "61",
+      "title": "쉬인, 테무의 '산업적 규모' 저작권 침해 혐의로 영국 법적 분쟁 제기 - 로이터",
+      "original_title": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNjeTdFZWYwa1R2cHVqRlFxYUVCbDQ5RGphZHA2WWVUcDNtWmhkNkpHODdlSVg4VF9NUFNuV2Vsd1YzbXBPSGR6Z1gzVC1WczYwOFBsanFxa1F6aTFzQm0ycGRWZGR5a01zT2NyYk5TeDhWb25abW1WTkV5NHc5T3FZa216aVRfU3R2bTVwZko0TEtXZmxBVVQybFVNSzVwbGZmWFRWSFJNSFpTNk5JY0hEVjV3SHRBV1FQZW5GODA?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-05-11T20:56:57",
+      "description": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle Reuters",
+      "summary": {
+        "phenomenon": "Fast fashion company Shein has initiated a legal dispute in the UK, accusing its competitor Temu of 'industrial scale' copyright infringement.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Shein",
+        "Temu",
+        "Copyright infringement",
+        "UK lawsuit",
+        "Legal dispute"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Shein accuses Temu of 'industrial scale' copyright breaches in UK legal battle Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 61,
+    "domestic_count": 28,
+    "international_count": 33,
+    "top_keywords": [
+      "Climate Change",
+      "Carbon Neutrality",
+      "Renewable Energy",
+      "Climate Change",
+      "KT"
+    ],
+    "sentiment_breakdown": {
+      "positive": 28,
+      "negative": 14,
+      "neutral": 7
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "재생에너지",
+      "기후변화",
+      "KT"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
