@@ -1,0 +1,3284 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T09:11:34.260971",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 5월 12일 기후 브리핑을 시작하겠습니다. 오늘 하루 동안 수집된 기후 관련 주요 뉴스를 바탕으로, 기후변화의 현실과 대응 노력을 다각도로 살펴보겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 기후변화의 직접적 영향과 생태계 변화",
+        "content": "오늘 브리핑은 기후변화가 우리 생태계에 미치는 직접적인 영향과 그로 인한 경고음으로 시작합니다. 국내에서는 제주 해안에서 한반도 미기록종인 준맹그로브가 발견되고 난대 및 아열대 식물이 국내 최초로 확인되는 등, 기후변화로 인한 생태계 변화의 뚜렷한 신호들이 포착되고 있습니다 [1, 8, 11]. 국제적으로는 마이애미의 괭생이모 폭증과 기후 변화로 인한 산호초 황폐화 소식이 전해졌으며 [111, 113], 아마존 지역에서도 기후 변화의 흔적이 나무 나이테를 통해 드러나고 있습니다 [119]. 피닉스 지역의 5월 이상 고온 [121]과 한때 곤충 없던 아이슬란드에 모기가 출현하는 등 [132], 전 세계적으로 기후 변화의 가속화가 생태계와 지역 환경에 미치는 영향이 심각하게 나타나고 있습니다 [133]. 이러한 변화들은 우리가 직면한 기후 위기의 현실을 다시 한번 상기시켜 줍니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ 심화되는 기후 위기, 국내외 경고음과 적응 노력",
+        "content": "기후변화로 인한 극한 기상 현상에 대한 국내외 경고음이 더욱 커지고 있으며, 이에 대한 적응 노력이 시급합니다. 기상청은 올여름부터 폭염특보를 전면 개편하여 '폭염중대경보'와 '열대야주의보'를 신설하고, 호우 시 재난문자 추가 발송을 예고했습니다 [15, 107, 108]. 기후부는 AI 및 DT 기반의 홍수 대비책을 마련하고, 정부는 홍수 피해 예방을 위해 '숨은 물그릇' 10억 4천만 톤을 확보하는 등 재난 대응 역량 강화에 주력하고 있습니다 [3, 106]. 국제적으로도 에식스 주민들의 홍수 문제 관심 [124]과 피닉스 지역의 이상 고온 현상 [121]이 보고되며, 기후 변화가 한타바이러스 숙주 증가 [115]나 유럽의 렙토스피라증 위험 증가 [117]와 같은 보건 위협으로 이어질 수 있다는 경고도 나오고 있습니다 [135, 137]. 이러한 상황은 기후 위기가 단순한 환경 문제를 넘어 사회 전반의 안정과 안전을 위협하는 복합적인 문제임을 보여줍니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 탄소중립 사회로의 전환 노력 가속화",
+        "content": "탄소중립 사회로의 전환을 위한 다양한 노력이 국내외에서 가속화되고 있습니다. 제주도에서는 '2035 탄소중립' 목표 달성을 위한 기후시민회의가 출범하여 시민들의 목소리를 담아내고 있으며 [18, 32, 55, 62], 충청남도는 '탄소업슈' 사업을 확대하여 생활 속 탄소중립 실천 시 최대 10만원의 혜택을 제공하며 참여를 독려하고 있습니다 [19, 26, 27, 31, 34, 38, 40, 42, 43, 46, 47, 49, 51, 53, 54, 56, 57, 60, 61, 63]. 국민건강보험공단의 건보료 전자 고지 [20]와 LS전선의 친환경 자원순환 공급망 가동 [22, 109] 등 공공기관과 기업의 실천도 이어지고 있습니다. 교육 분야에서는 경북교육청이 '햇빛이음학교'를 시범 운영하고 [24, 37], 거제시와 영주시 등 지자체들이 찾아가는 환경 교육을 통해 탄소중립 문화 확산에 기여하고 있습니다 [23, 25, 29, 39, 45]. 완도에서는 해조류를 활용한 블루카본 국제 포럼이 열리며 탄소중립 해법을 논의하는 등 [33, 59], 전 사회적인 탄소중립 전환의 흐름이 강화되고 있습니다.",
+        "tone": "positive"
+      },
+      {
+        "title": "⚡️ 재생에너지 전환 가속화와 당면 과제",
+        "content": "재생에너지로의 전환은 탄소중립 목표 달성을 위한 핵심 동력으로, 그 투자가 지속적으로 확대되고 있습니다. 원광전력 [64, 101]과 코오롱베니트 [69]는 재생에너지 사업자 등록을 완료하며 직접 PPA(전력구매계약)를 본격화하고 있으며, KT는 반도체 생태계 기여를 위해 재생에너지를 직접 공급하는 계약을 체결했습니다 [66, 73]. 경기도는 '산업단지 RE100 전환 시범사업'을 통해 태양광 설비 지원에 나서고 [92], 금산군 [48, 77, 83, 84, 93, 98]과 전남도 [75, 82, 88, 90, 96]는 재생에너지 보급 확대를 위한 사업을 추진하거나 국비 지원을 요청하는 등 지자체의 노력도 활발합니다. 그러나 유럽 ENTSO-E는 데이터센터의 유연성 없이는 재생에너지 확대가 불가능하다고 경고했으며 [70, 139], 국내에서는 REC(재생에너지 공급인증서) 폐지로 재생에너지 연금 수익률이 타격을 입는 등 [100] 정책적, 기술적 과제 또한 산적해 있습니다. AI 데이터센터의 전력 대란이 현실화되면서 원전 및 CCS(탄소 포집·저장)가 대안으로 부상하는 복합적인 상황 속에서 [102], 안정적인 재생에너지 시스템 구축을 위한 심도 깊은 논의가 필요합니다 [65, 91].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🇰🇷 기후변화에 대응하는 사회적 적응 및 국제 협력",
+        "content": "기후변화에 대한 사회 전반의 적응 노력과 국제적인 협력 논의도 활발하게 이루어지고 있습니다. 국내에서는 유통업계가 기후변화를 새로운 전략으로 삼아 상품 구성을 변화시키고 있습니다. GS25는 우양산을 기획하여 단독 출시하고 매출이 79.5% 증가하는 등, 편의점 히트 상품이 기후변화에 따라 달라지는 양상을 보였습니다 [2, 6, 7, 14]. 한편, 기후변화대사는 제17차 피터스버그 기후대화에 참석하여 국제 공조를 이어갔으며 [5], WIPO 개발위원회에서는 지식재산(IP)과 기후변화를 통합 논의하는 과정에서 선진국과 개발도상국 간의 격차가 재확인되는 등 [10] 국제적인 과제도 명확해지고 있습니다. 뉴질랜드에서는 기업의 온실가스 배출 책임을 묻는 민간소송을 차단하는 기후법 개정이 추진되는 등 [9, 136], 각국의 정책적 대응 방향도 주목됩니다.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘 브리핑에서 살펴본 바와 같이, 기후변화의 영향은 더욱 뚜렷해지고 있으며, 이에 대응하기 위한 전 사회적 노력이 국내외에서 다각도로 이루어지고 있습니다. 기후 위기 극복을 위한 지속적인 관심과 실천이 중요합니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "기후변화의 증거? 난·아열대 식물 제주서 국내 첫 발견 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UVzAycmJLcVVKZ2RydVlid0tfM1Fhem1WblNSaGppNFhMcldkcVU2UlZGeUJIa2xXc0RlVWREekw2dnhhUmxyVlV2N1ZYbDg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T02:20:34",
+      "description": "기후변화의 증거? 난·아열대 식물 제주서 국내 첫 발견 v.daum.net",
+      "summary": {
+        "phenomenon": "난대 및 아열대 식물이 제주에서 국내 최초로 발견되었다.",
+        "cause": "기사 제목에서 '기후변화의 증거?'라고 언급하며 기후변화가 원인일 수 있음을 시사한다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "난·아열대 식물",
+        "제주",
+        "국내 첫 발견",
+        "증거"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "GS25, 우양산 2종 출시…“기후변화 전략상품으로” - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CZEQ3Qzc1OHBvcmJjQVFpU3ZPMHBIa1hOd1Fzb0pNYnI1YThjS1Bzc2pESlNmTkw0Ny0xcnNHdFA2bk5oNnlZUzdNaFVMQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T23:41:08",
+      "description": "GS25, 우양산 2종 출시…“기후변화 전략상품으로” 전자신문",
+      "summary": {
+        "phenomenon": "GS25가 우양산 2종을 출시했다.",
+        "cause": "GS25는 우양산을 기후변화에 대응하는 전략 상품으로 출시했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "GS25",
+        "우양산",
+        "출시",
+        "기후변화",
+        "전략상품"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "기후부, 기후변화 대응 'AI·DT 기반 홍수대비책' 마련 - 메트로신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmalBWeW5COWQtMWwxVlhVaHZYZkNnOGU5aFN0cTBoaVA2RHFqRWw0ZTZTR2dIZ3FYNGE2b2ZYNFZ3S0lvSWZGWDZJa3dHcmhZaU94WGVPODhUTHlDZDRn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T05:44:08",
+      "description": "기후부, 기후변화 대응 'AI·DT 기반 홍수대비책' 마련 메트로신문",
+      "summary": {
+        "phenomenon": "기후부가 AI 및 DT(디지털 전환) 기반의 홍수 대비책을 마련했다.",
+        "cause": "이 대비책은 기후변화에 대응하기 위해 마련되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "[잠깐] 기후변화·탄소중립 해법…전국이 ‘정원앓이’ - 농민신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Zal81dWRZOXZueFA4RDJOcHhUVW1GYjJYZklsV3JSclNfMU0wRE8wRy1FOFJCc0h5ZHdLMmhBcmFDUk5mNE9mQkxwWEdwZktnck9DY2x5bGk1UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T08:07:52",
+      "description": "[잠깐] 기후변화·탄소중립 해법…전국이 ‘정원앓이’ 농민신문",
+      "summary": {
+        "phenomenon": "전국적으로 '정원앓이' 현상이 나타나고 있다.",
+        "cause": "이는 기후변화와 탄소중립에 대한 해법으로 제시되고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "탄소중립",
+        "해법",
+        "정원앓이",
+        "전국"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "기후변화대사, 「제17차 피터스버그 기후대화」 참석 - 대한민국 정책브리핑",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSFpJNDRoZVI3c1N5SGRNTUZ6dkhQeGk3SC1ONEN0dmZ6MXdhOElmNHRQYzVIQTIzc3R6U0pqdzFuUzJSTWtweW80MF81YVhoSm14V041d2lObWFRWjhodUFqd2hiUzdxOFhIUkVjOVVaQzRzaWJNV0NfSVVUdGdqRHdoaHZtS2JCNWNv?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T04:48:40",
+      "description": "기후변화대사, 「제17차 피터스버그 기후대화」 참석 대한민국 정책브리핑",
+      "summary": {
+        "phenomenon": "기후변화대사가 제17차 피터스버그 기후대화에 참석했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화대사",
+        "피터스버그 기후대화",
+        "참석",
+        "기후변화",
+        "대한민국"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "GS25, 기후변화에 '우양산' 기획 단독출시 - 메트로신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GdkpQamJXdE1iaGs1Y1NjM3dLVDFzU095cUh2ZUU5bThnbGZqOERVM0JZOF80enpsYmstTXJfbG9aejFXeERCZHFLQ2JfM0tyX1FnNDBJNDdYYUFOZlJN?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T08:20:14",
+      "description": "GS25, 기후변화에 '우양산' 기획 단독출시 메트로신문",
+      "summary": {
+        "phenomenon": "GS25가 우양산을 기획하여 단독 출시했다.",
+        "cause": "이 제품은 기후변화에 대응하기 위해 출시되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "GS25",
+        "기후변화",
+        "우양산",
+        "단독출시",
+        "상품"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "기후변화에 달라지는 편의점 히트상품…GS25, ‘우양산’ 육성 - 디지털데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yRURJNHlEMUZ1RzRRSXRQQi1fU3lUVU8xSzVDMEEwSE5iWWpJcTdZU0NyN21QOW1PYy0tWFZ4M0UzOFFyamQxUXVCcm43T2ZsY3pxWFpXNWltamp2OGd1XzhudnE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T08:14:45",
+      "description": "기후변화에 달라지는 편의점 히트상품…GS25, ‘우양산’ 육성 디지털데일리",
+      "summary": {
+        "phenomenon": "GS25가 우양산을 히트상품으로 육성하고 있으며, 편의점 히트상품이 기후변화에 따라 달라지고 있다.",
+        "cause": "편의점 히트상품의 변화는 기후변화의 영향으로 발생하고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화",
+        "편의점",
+        "히트상품",
+        "GS25",
+        "우양산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "기후변화 영향 한반도 첫 목본식물 제주서 발견 ‘주목’ - 제주매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iRkRlbDNxdEluVnZIdXFJbXpIVnRxXzF2UElZVnA4R2pEaXVjY1Jhd0RobTIzZWJvb1dnREZvbjUwX204ZkNOOWxySmMxYjVZcVUzY0hkQ3hSdy1qWmRMS1EzRjRXa1BXaHc3TA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T02:05:14",
+      "description": "기후변화 영향 한반도 첫 목본식물 제주서 발견 ‘주목’ 제주매일",
+      "summary": {
+        "phenomenon": "기후변화의 영향으로 한반도에서 처음으로 목본식물이 제주에서 발견되어 주목받고 있다.",
+        "cause": "이 목본식물의 발견은 기후변화의 영향으로 발생했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화",
+        "한반도",
+        "목본식물",
+        "제주",
+        "발견"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "뉴질랜드 기후법 개정 추진, 기업 온실가스 배출 책임 묻는 민간소송 차단 - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNTWJhUjF4SkEzeDJadjdlTzF3YThmYlhSc2w5YmtFa2dpWE5QWU0tcWR1b3BGVElrTHhrWkg4Wlg3bkRCZkxab3JRNmlfYjdMMUV5ZmxZbzUyZWRYWmRsSmtNZHlkWkFKMjl5VDVIdTRVc1U?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T00:51:18",
+      "description": "뉴질랜드 기후법 개정 추진, 기업 온실가스 배출 책임 묻는 민간소송 차단 비즈니스포스트",
+      "summary": {
+        "phenomenon": "뉴질랜드에서 기후법 개정이 추진되고 있으며, 이는 기업의 온실가스 배출 책임을 묻는 민간소송을 차단하는 내용을 포함한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "뉴질랜드",
+        "기후법",
+        "개정",
+        "기업",
+        "민간소송"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "WIPO 개발위원회, IP·기후변화 통합 논의서 선진국·개발도상국 간 격차 재확인 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03cVFyUkx4cDhZWFlQMnE2aTYxY0lneHFNd1BCTkJUR1JIbjVpRW9FdnV1ODVrQWd0cDB6TXh5RHptU2lfamN2MUhGLXQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T23:32:47",
+      "description": "WIPO 개발위원회, IP·기후변화 통합 논의서 선진국·개발도상국 간 격차 재확인 브랜드경제신문",
+      "summary": {
+        "phenomenon": "WIPO 개발위원회에서 IP(지식재산)와 기후변화를 통합 논의하는 과정에서 선진국과 개발도상국 간의 격차가 재확인되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "제주 해안서 한반도 미기록 준맹그로브 첫 발견… 기후변화 생태 신호 뚜렷 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUkhxcTJfSDVpTG9PLWF2eVNRNXY3SjNaU0xORllYN0ZhM0ZhdDlTVFdsNi1VOEZsU3ZKREFpeGN0SlA0Z09EaXJYODZnTW9xUkZfTTdpbW5DUdIBXkFVX3lxTE0xME1NTmxJaVk2TDJjYWN2TndlTDZsa2t4ajJRWVA5S3JtN2huOEtFRE9NLTFZcEtEY1M0M2c0RWFDTjg5Wl9VMGpKQ3ZXNDNWaTV4YW5wX0dpWXNKOHc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T01:16:08",
+      "description": "제주 해안서 한반도 미기록 준맹그로브 첫 발견… 기후변화 생태 신호 뚜렷 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "한반도 미기록종인 준맹그로브가 제주 해안에서 처음으로 발견되었습니다.",
+        "cause": "기사 내용에 따르면, 이는 기후변화의 생태 신호로 해석됩니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "제주 해안",
+        "준맹그로브",
+        "첫 발견",
+        "기후변화",
+        "생태 신호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "정선 임계농협, 대파 매취 사업 ‘승부수’…기후변화 위기 뚫고 농가 소득 지킨다 - 농민신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WTZJSVZKR0p0WVVRdmliMlVyckp5eFE0ak1YYTdhd25hTlJVcUExZnQ1UDJHbHY0SHRYanpoTFBDdFl0WmpZUjdDdWdQM2dBeFZGWm1leEZtZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T01:47:00",
+      "description": "정선 임계농협, 대파 매취 사업 ‘승부수’…기후변화 위기 뚫고 농가 소득 지킨다 농민신문",
+      "summary": {
+        "phenomenon": "정선 임계농협이 기후변화 위기 속에서 농가 소득을 지키기 위해 대파 매취 사업을 시작했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "대파 매취 사업을 통해 농가 소득을 지키는 것이 목표입니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "정선 임계농협",
+        "대파 매취 사업",
+        "기후변화 위기",
+        "농가 소득",
+        "승부수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "해상풍력·수산업 공존, 공공기준과 현장 참여부터 - 환경일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kZGZJOTZhdkVmVlh2RGREOGxRSXRRNEg2Mk5qT0FGVS02RHRiN3VTblRZM2ZYaDVUWTlXTmpsQnlTOTdtUlA3VlQ2cGwzSTNlNzREVWVBeEo5WjZ2UDNrZXBjSlphb2RW?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T08:30:00",
+      "description": "해상풍력·수산업 공존, 공공기준과 현장 참여부터 환경일보",
+      "summary": {
+        "phenomenon": "해상풍력 발전과 수산업의 공존을 위한 공공기준 마련 및 현장 참여의 필요성이 제기되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해상풍력",
+        "수산업",
+        "공존",
+        "공공기준",
+        "현장 참여"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "GS25, 기후변화에 전략 상품 확대..우양산 매출 79.5% 늘어 - 한국정경신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VZG1ZRGtsdzBwTGNfeDd1ZVJ4NjlDUnRvOVUzRklnZWhheGd4LVhyTmxQZFJlbVg4Z1MwckZWdTh1bEVDcVVHaGttdnVIM3NEQlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T23:14:09",
+      "description": "GS25, 기후변화에 전략 상품 확대..우양산 매출 79.5% 늘어 한국정경신문",
+      "summary": {
+        "phenomenon": "GS25 편의점에서 기후변화에 대응하여 전략 상품을 확대한 결과, 우양산 매출이 79.5% 증가했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후변화에 따른 소비 패턴 변화에 맞춰 전략 상품을 지속적으로 확대할 것으로 예상됩니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "GS25",
+        "기후변화",
+        "전략 상품",
+        "우양산",
+        "매출"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "기상청, 올여름부터 폭염특보 전면 개편‥'폭염중대경보·열대야주의보' 신설 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBSc3MwMl9ZbjcwTkFLeWQ3eWNfX1VDdjJ5VWhJOEY5U2VQSlJINnlvbkRiMG9NajlpeFhzbGF3RkJIMXYwYXJKejhweFUzbWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T07:03:05",
+      "description": "기상청, 올여름부터 폭염특보 전면 개편‥'폭염중대경보·열대야주의보' 신설 v.daum.net",
+      "summary": {
+        "phenomenon": "기상청이 올여름부터 폭염특보 체계를 전면 개편하여 '폭염중대경보'와 '열대야주의보'를 신설합니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기상청의 폭염특보 개편으로 국민들이 폭염과 열대야에 더욱 효과적으로 대비하고 피해를 줄일 수 있을 것으로 기대됩니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "‘우주 돌멩이’부터 기후위기 사진까지… 대전시민천문대, 5월 한 달 특별체험 연다 - 공뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tQkkxWWJlRkhuMFlISTFiU0lxZGVFMEtYcG56bnFWNzI2dWtZVDdoWVlvYlZkUFNoNHA5TGE3RExBckRyX2FhaEotMGx0TmJGMUdHVHJOdzZQN01jdXprazliR1UyZ2w1TmFzWA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-11T23:46:54",
+      "description": "‘우주 돌멩이’부터 기후위기 사진까지… 대전시민천문대, 5월 한 달 특별체험 연다 공뉴스",
+      "summary": {
+        "phenomenon": "대전시민천문대에서 5월 한 달 동안 '우주 돌멩이' 전시와 '기후위기 사진' 전시를 포함한 특별 체험 프로그램을 운영합니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "대전시민천문대",
+        "특별체험",
+        "기후위기",
+        "우주",
+        "5월"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "\"지표면은 끓는데 상공은 차갑다?\"…온실가스의 역설, 50년 미스터리 풀렸다 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucnQwa3RhQzZwSnM5QWpJejN4R0VMM1gtZ1BNMzY1LUdRUjhOZ3g4T2NVTnFYTnpJajkzMVBzYW9kMFUyS3h6a0ZZQldjWi1aamxB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-12T01:52:00",
+      "description": "\"지표면은 끓는데 상공은 차갑다?\"…온실가스의 역설, 50년 미스터리 풀렸다 네이트",
+      "summary": {
+        "phenomenon": "지난 50년간 지표면은 뜨거워지는데 상공은 차가워지는 '온실가스의 역설' 현상이 관측되어 왔습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "온실가스",
+        "역설",
+        "지표면",
+        "상공",
+        "미스터리"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "‘2035 탄소중립’향한 시민의 목소리, 제주 기후시민회의 첫발 - 제민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4ycmJ4ZzVuZEtvYWJPcFVkUHlmWXZzb2xGa3M3WkxMYlFwaVlqSVBHMDlvMmZrWHkxQjBIbk9nS0JadmY2ck5QbTlmQUJ4bVE3NHJTZmxjZ1lrQ0ZGbGg3Y2l2QjFjQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T05:29:10",
+      "description": "‘2035 탄소중립’향한 시민의 목소리, 제주 기후시민회의 첫발 제민일보",
+      "summary": {
+        "phenomenon": "제주도에서 '2035 탄소중립' 목표 달성을 위한 제주 기후시민회의가 첫발을 내디뎠습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후시민회의를 통해 2035년 탄소중립 목표 달성을 위한 시민들의 목소리가 반영될 것으로 기대됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "2035 탄소중립",
+        "시민의 목소리",
+        "제주",
+        "기후시민회의",
+        "첫발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "생활 속 탄소중립 실천해 최대 10만원…충남도 '탄소업슈' 확대 - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96MHM5ck9Oc25VLTJpaDhLUzVDWXB0WEQtNi1MVjBsUWFBcTE1dERMOXNPZ2h1MUJzZnItS2RCZXNKTjd3NWRTU09Kdmo5S1J3OHhoMmFDTUVGQ0XSAWBBVV95cUxPcWRlNjR6MDFtLVd2Z1h6MWExenVwQ0VzLXJ6MWNxS3VPTFJ2Rlg5bFVUWVo4ME53SDdMRFlSMVJEeEFZem83MjZRZ3BobHk1cHZ4eFBkaDRYN0xiVm1KRVA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:32:08",
+      "description": "생활 속 탄소중립 실천해 최대 10만원…충남도 '탄소업슈' 확대 연합뉴스충남, 탄소중립 실천하면 10만원 준다 서울경제탄소중립 실천하고 ‘최대 10만원 혜택’ 받으세요! v.daum.net",
+      "summary": {
+        "phenomenon": "충청남도가 생활 속 탄소중립 실천을 독려하기 위해 '탄소업슈' 사업을 확대하여 최대 10만원의 혜택을 제공합니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "'탄소업슈' 사업 확대를 통해 더 많은 도민이 탄소중립 실천에 참여하고, 이를 통해 탄소 배출량 감축에 기여할 것으로 기대됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "충남도",
+        "생활 실천",
+        "인센티브",
+        "탄소업슈"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "국민건강보험공단, '탄소중립' 디지털 행정…건보료 전자 고지 - 한국경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdHgzeTlhazMxei1reDhyTUpvRTctWDdZQmMxWGtNWTl5YVBJM1pWRVBBNUdnd3l5ZHhxXzVxeHFSQmEtci1wY2pWQjk3aGdQQUFMaWtmNVg5d9IBVEFVX3lxTE10WHZvbVRjclZHVVpfRWVxd1lUS2ZBTFRKeTg5VnJRWXc0am9mMnZmbjROeVRQdVN5UzF0REh1OVgtdXR4anF3SXpjNmZHeDhOSUVuZg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T06:53:59",
+      "description": "국민건강보험공단, '탄소중립' 디지털 행정…건보료 전자 고지 한국경제",
+      "summary": {
+        "phenomenon": "국민건강보험공단이 탄소중립 실천의 일환으로 건보료 전자 고지 등 디지털 행정을 확대합니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "디지털 행정 확대를 통해 종이 사용량을 줄여 탄소 배출량 감축에 기여하고, 탄소중립 목표 달성에 도움이 될 것으로 예상됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국민건강보험공단",
+        "탄소중립",
+        "디지털 행정",
+        "건보료 전자 고지",
+        "전자화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "국민의힘 \"기후특위 기한 연장해 여야 합의로 탄소중립법개정 처리해야\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Yc1RtYTlVWWkxSWczeFZPbkgxOUFDam9Kb0t5YnNPcm5Zd08weWRfZVVFa3hVTnlvSFlGWWZtV0lZWmxaNUhHdFg2UDR1Ykc2NC13?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:04:00",
+      "description": "국민의힘 \"기후특위 기한 연장해 여야 합의로 탄소중립법개정 처리해야\" 네이트",
+      "summary": {
+        "phenomenon": "국민의힘이 기후특위 기한을 연장하고 여야 합의를 통해 탄소중립법 개정을 처리해야 한다고 주장했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국민의힘",
+        "기후특위",
+        "기한 연장",
+        "여야 합의",
+        "탄소중립법개정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "“구리도 탄소중립 시대”…LS전선, 군산서 친환경 자원순환 공급망 가동 - 에너지데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DUVM2Nnc2RDBMZjJudmdwMjNYNWstUTlUYWItU095dzlPanpDUFVqdjdnaXVoZ1Vza09OSkRSZzlsNHAtNWprcGw0cURjM3R1a1hRTlBWZnFUWHJkLXB1czIwZERDUnluWHBoUEZsUnk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:09:00",
+      "description": "“구리도 탄소중립 시대”…LS전선, 군산서 친환경 자원순환 공급망 가동 에너지데일리",
+      "summary": {
+        "phenomenon": "LS전선이 군산에서 친환경 자원순환 공급망을 가동하기 시작했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 공급망 가동은 구리 산업이 탄소중립 시대로 나아가는 데 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "LS전선",
+        "친환경",
+        "자원순환 공급망",
+        "구리"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "거제시, 사등면서 ‘찾아가는 탄소중립 환경교육’ 시작 - 거제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1adDhNcnk1d3RVN3FweWRCdlFodjFvaW43TVUtNjRHSmxMLVhQM3VZNm5SWVdxRDlIX0pmLURrdWlZaEg4MXBnT09IOXVHNnRCbTFTLVpUcU5CTTNNLW1aWEM5RjdjU0dyOFJFVXBB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:12:13",
+      "description": "거제시, 사등면서 ‘찾아가는 탄소중립 환경교육’ 시작 거제신문",
+      "summary": {
+        "phenomenon": "거제시가 사등면에서 '찾아가는 탄소중립 환경교육'을 시작했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "환경교육",
+        "찾아가는",
+        "시작"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "'학교가 탄소중립 발전소로' 경북교육청, ‘햇빛이음학교’ 30개교 시범 운영 - 이로운넷",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jUWJldHFHcFNYbHpRLUVibXM4aks0cHdNQkR4SUdmUW5TWmNoNUZmTTJuLVFGeWlMQmRoWWJtRzhhYXBiYVVtbmJkRm02aU9obkV2NzJnOGxtc2p3NHQ5aTRXN05tQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T03:39:25",
+      "description": "'학교가 탄소중립 발전소로' 경북교육청, ‘햇빛이음학교’ 30개교 시범 운영 이로운넷",
+      "summary": {
+        "phenomenon": "'학교가 탄소중립 발전소로' 경북교육청, ‘햇빛이음학교’ 30개교 시범 운영 이로운넷",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경북교육청",
+        "햇빛이음학교",
+        "탄소중립",
+        "학교",
+        "시범 운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "거제시, 이장 대상 탄소중립 환경교육…마을 실천 분위기 조성 - 거제저널",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLWnloVThqMlExWkFmeXk3elZieEdYR3RNbk95dzJrRnhHQm1UMkxWVjhaTzNWdFZPWjNhV2ZYVWtRTDRPQ2J0Z29hWW83dW5OZXZDYjZBQmpVVEJpbklCMnZtRXU5cUVUQ2lLUDltZ1M1UDA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:50:03",
+      "description": "거제시, 이장 대상 탄소중립 환경교육…마을 실천 분위기 조성 거제저널",
+      "summary": {
+        "phenomenon": "거제시, 이장 대상 탄소중립 환경교육…마을 실천 분위기 조성 거제저널",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "환경교육",
+        "이장",
+        "마을 실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "충남도, 탄소중립 실천하고 ‘최대 10만원 혜택’ 받으세요 - 전국매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SOV96M3BQYl9xUE5WWG9vbXFvaVl3MDNTQWU4TmZwU0xhU0RLYXJDMlZxajZXdjhfc3hVUTQ5T0FUUnRoVWxrUG54em1qR2RmUkg4SEJnN0gzNUFIZG4wZ3VfUG5aWTlzT2JnVVJ3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:35:43",
+      "description": "충남도, 탄소중립 실천하고 ‘최대 10만원 혜택’ 받으세요 전국매일신문",
+      "summary": {
+        "phenomenon": "충남도, 탄소중립 실천하고 ‘최대 10만원 혜택’ 받으세요 전국매일신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "실천",
+        "혜택",
+        "10만원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "충남도, 탄소중립 포인트제 참여 대상 확대…최대 10만 원 혜택 - LG헬로비전",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QVXBOWGRwck52S1liX2dmcks3Y3l3VXFoNlZsYV9vVU5XMC13bFRjUXh2TXQwdzlHOGJ0b1Q3TzlLRjlvajBDMjN1aXBPa1FzQVI4Z21zcDl0cFRIelVMRFotRFdka242WDRuRnYxTTdKd9IBdkFVX3lxTE1LRWVwOTNBUzdFUHQ5SjVXY2VMUkFnUUsyQ1gwUnZqYnQ0WXBpeVdUN3hNOWQzSW1KNTFZWS1Dek43YS1yRF80ajRGZkJNRlhPOE5uT3A2enVGZS1NX0xuV1ViTm9pNVJEcUJHc2ZuVjAzc3hILVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:03:17",
+      "description": "충남도, 탄소중립 포인트제 참여 대상 확대…최대 10만 원 혜택 LG헬로비전",
+      "summary": {
+        "phenomenon": "충남도, 탄소중립 포인트제 참여 대상 확대…최대 10만 원 혜택 LG헬로비전",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "포인트제",
+        "참여 확대",
+        "혜택"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "충남도, 현안 대응·탄소중립 등 미래정책 추진 강화 - 농수축산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvbllOSUpPeVl6eUw2UHNtblozcDNPVDl3WkdZa3plLUZVY09YcUl0dDJfQzhjVTVIMGI1V1FkY1NMTHN3MHVkby02N3NIeDczTldVb3pBNktPN1lBamEzeHg1VzZYN3YzcUVuZg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:32:13",
+      "description": "충남도, 현안 대응·탄소중립 등 미래정책 추진 강화 농수축산신문",
+      "summary": {
+        "phenomenon": "충남도, 현안 대응·탄소중립 등 미래정책 추진 강화 농수축산신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "미래정책",
+        "현안 대응",
+        "추진 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "영주시, 시민 참여형 환경교육으로 탄소중립 실천문화 확산 - 경북신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94Z0ZWaDBlLU1ic254bFp5bHdib1NGMmd2QUVpbkp6c3gtZXhRUE9YM3FzNzZ4Smx0dzZBNGlLejdZMTZ2TjBrLThLZWJoemVpUEZFajFVTEc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T01:31:07",
+      "description": "영주시, 시민 참여형 환경교육으로 탄소중립 실천문화 확산 경북신문",
+      "summary": {
+        "phenomenon": "영주시, 시민 참여형 환경교육으로 탄소중립 실천문화 확산 경북신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영주시",
+        "시민 참여형",
+        "환경교육",
+        "탄소중립",
+        "실천문화 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "UPA, 북극항로 대비 ‘친환경 에너지 물류허브’ 전략 포럼 개최 - 물류신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DRkxNUzJoTThSQmNZbjRGeFc1QnRZODNXV2RaRjBSQ1FHdDVFUFBJaW9oeEtSMWprWXZZNWljYXVWV1gwZmtmajVsb3dkY1pZNGxRMGlBcEQzMWo4dVZPUlVObVFnZmFRMWRF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T08:15:08",
+      "description": "UPA, 북극항로 대비 ‘친환경 에너지 물류허브’ 전략 포럼 개최 물류신문",
+      "summary": {
+        "phenomenon": "UPA, 북극항로 대비 ‘친환경 에너지 물류허브’ 전략 포럼 개최 물류신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "UPA",
+        "북극항로",
+        "친환경 에너지",
+        "물류허브",
+        "전략"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "[포토] 탄소중립 실천하고 최대 10만원 혜택 받으세요 - 충남일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wS293QnhZTlR3RGpLZVBxZ0hORVRBS3ZLd016TDAxNlp4YXR1SGdvYVlVRUZjN1oxWmpWV2dxOXVfQVc4ai1VaHh1b0lNMEE3U1RiVjRIal8xa0p6QWYwdlhpelRnc3BMSjI1bUdnbGtPSVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:13:53",
+      "description": "[포토] 탄소중립 실천하고 최대 10만원 혜택 받으세요 충남일보",
+      "summary": {
+        "phenomenon": "충남일보에서 탄소중립 실천 시 최대 10만원의 혜택을 받을 수 있다는 내용이 보도되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "실천",
+        "혜택",
+        "환경",
+        "참여"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "‘2035 탄소중립’ 시민 목소리 듣는다 ... ‘제주 기후시민회의’ 출범 - 뉴스N제주",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oQU1SVFpuWFdzLVJNNXQ0aEtTWW01S0VyQmxvUkdjeEFaSWsyZkZST3lzcDZFaFJBMExlSFNiVU9kZmkySWFpdnVnQjFrdG1MNjhhVDV5RXNVU2FsQllqN1NBSXhXQnotbEt3QQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:54:43",
+      "description": "‘2035 탄소중립’ 시민 목소리 듣는다 ... ‘제주 기후시민회의’ 출범 뉴스N제주",
+      "summary": {
+        "phenomenon": "제주도에서 2035년 탄소중립 목표 달성을 위해 시민들의 목소리를 듣는 '제주 기후시민회의'가 출범했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "제주",
+        "기후시민회의",
+        "시민참여",
+        "2035"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "[완도] 블루카본 글로벌 허브 시동...국제포럼서 해조류 탄소중립 해법 논의 - 해양레저신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwZmcxWkIyaTJhMFRZWTFlU0JBR09KOFNwaUwwZFhGN0E1QmowaWdRMV9xX0dUTDBXV2o1d0cyNEtkU2VrSld1UXR6ZWY3d0RWTW9UOFVWRDZDSEZU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T03:16:00",
+      "description": "[완도] 블루카본 글로벌 허브 시동...국제포럼서 해조류 탄소중립 해법 논의 해양레저신문",
+      "summary": {
+        "phenomenon": "완도에서 블루카본 글로벌 허브 구축이 시작되었으며, 국제포럼에서 해조류를 활용한 탄소중립 해법이 논의되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "블루카본",
+        "완도",
+        "글로벌 허브",
+        "해조류",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "탄소중립 실천하고 '최대 10만원 혜택' 받자 - 대전일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tWF82eVJxNFFqZk9QeC1JTFNKRmRqbks4S21ncUd5TFFWT09qNkhYY0FQLTFZZm83czdRVW9nbEtBZ1A4QlVrSGVxTUdncmtMYThydmg2TkJpRC1NNDVpUW9fYjVqWTFLbE9tNmpVMNIBc0FVX3lxTE1kYlZLVzVVaEJkTUtxWkNITkJaa1B4M3dEUGNWSTl2WHpCUnhvVlZuV29mbzZvZjZzd0w1VTVtYWZyQ0RwRGxwcjJqVGlRYi13Z2VpV3RfVUQ2YlBOQ3ZqTHJYZXp0OUR0ZTllVENmeEJ1SE0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:39:00",
+      "description": "탄소중립 실천하고 '최대 10만원 혜택' 받자 대전일보",
+      "summary": {
+        "phenomenon": "대전일보에서 탄소중립 실천 시 최대 10만원의 혜택을 받을 수 있다는 내용이 보도되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "실천",
+        "혜택",
+        "10만원",
+        "대전"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "국민의힘 \"기후특위 기한 연장해 여야 합의로 탄소중립법개정 처리해야\" - OBS경인TV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rc1Y5NDdORjBNQjFEWlNiZmtIcVNsZXF1dWtaVVpEQ3UyQ2I1cGVISkpOUlB2aFQycWZWcEtPY3hNV2JSeWF3TmFIeG4xc1RCcFZjZS0yQUhGQ0hlZU1keHVwZlhBZmF1bUxiaW1B?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:03:04",
+      "description": "국민의힘 \"기후특위 기한 연장해 여야 합의로 탄소중립법개정 처리해야\" OBS경인TV",
+      "summary": {
+        "phenomenon": "국민의힘이 기후특위 기한을 연장하여 여야 합의로 탄소중립법 개정을 처리해야 한다고 주장했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국민의힘",
+        "기후특위",
+        "기한 연장",
+        "여야 합의",
+        "탄소중립법 개정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "[창간7주년 간담회③] 탄소중립은 메가 트렌드…韓 철강 '퍼스트무버'로 포지셔닝 - 페로타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSWtMb0ItRzJiU2NjUUliWHR2VFAxRVZjWG1PNzY3S0NMby1BX1c0QXU0S28zU0l2QkFuLXd1cHpkWXlPT3BLUDNQb3lrQVZnbWlEbzBZSFp4X2dmdHMtc1pSc3dvZHBOeXBWTg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T19:02:00",
+      "description": "[창간7주년 간담회③] 탄소중립은 메가 트렌드…韓 철강 '퍼스트무버'로 포지셔닝 페로타임즈",
+      "summary": {
+        "phenomenon": "페로타임즈 창간 7주년 간담회에서 탄소중립이 메가 트렌드로 언급되었으며, 한국 철강 산업이 '퍼스트무버'로 포지셔닝해야 한다는 논의가 있었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "메가 트렌드",
+        "韓 철강",
+        "퍼스트무버",
+        "포지셔닝"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "경북교육청, 2026 탄소중립 녹색학교가꾸기 현장 맞춤형 컨설팅 본격 시동 - 미디어투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FaXNJbWdiRUd2TTRxVEV1OG9RZUJObWRWazh1RWZRSS1CWFJMeE05U2dPYVRWMldFYzBBdE9ZVjJGcWE4ZXZxSUFn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:11:00",
+      "description": "경북교육청, 2026 탄소중립 녹색학교가꾸기 현장 맞춤형 컨설팅 본격 시동 미디어투데이",
+      "summary": {
+        "phenomenon": "경북교육청이 2026년까지 탄소중립 녹색학교 가꾸기를 위해 현장 맞춤형 컨설팅을 본격적으로 시작했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경북교육청",
+        "탄소중립",
+        "녹색학교",
+        "컨설팅",
+        "2026"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "충남형 탄소중립포인트제 '탄소업슈' 확대 운영…최대 10만원 혜택 - 뉴데일리 충청세종",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13YktNdGtYbTJlYkVxYVlobjNOV3ZreHFEQjcyb0QxQmVGYnhsTkxCSE1sODZ3cl9CcVl5R1pmVjQ3NGhSRk1xOVZXOEE4Vm5wZnJ1TUlzUUV6RVliWHZOZDE0UGQtX29qT0ZIRVQzQUtLUjlDa1BoQjFB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T20:53:13",
+      "description": "충남형 탄소중립포인트제 '탄소업슈' 확대 운영…최대 10만원 혜택 뉴데일리 충청세종",
+      "summary": {
+        "phenomenon": "충남 지역에서 '탄소업슈'라는 충남형 탄소중립포인트제가 확대 운영되어, 참여자에게 최대 10만원의 혜택이 제공된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남",
+        "탄소중립포인트제",
+        "탄소업슈",
+        "확대 운영",
+        "혜택"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "거제시, 사등면 시작으로 이장 대상 2026년 찾아가는 탄소중립 역량강화 환경교육 추진 - 포인트경남",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xV242bk1DY1NsdHpBQkFud3VOdTNPNXdBOC0zZEdNUFpYSFJESlRiNi1FRmdFbUJyazFLS19jY3NPZnpnNmZsMEhDMkd6Ulg2eEd0REx3Ykl5MGhuUFctSEotclFLSVU0NzNWMWVSNUY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T06:27:00",
+      "description": "거제시, 사등면 시작으로 이장 대상 2026년 찾아가는 탄소중립 역량강화 환경교육 추진 포인트경남",
+      "summary": {
+        "phenomenon": "거제시가 사등면을 시작으로 이장들을 대상으로 2026년까지 찾아가는 탄소중립 역량강화 환경교육을 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "환경교육",
+        "역량강화",
+        "이장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "충남도, 생활 속 탄소중립 실천...최대 10만 원 혜택 제공 - 뉴스타운",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FdmdyYVZxRGFjdFlyVzFqenI5UmkxMUpGQTNxNWpmWVV6ZE12UjJxbWZST1BXeXZndEFrN241cDg4MmJjMXRuQk5JbXlTSndEQUFIcmhNdXhZTjNMQ2hsRkpZM3RuZ2VQbFFCcktR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:41:13",
+      "description": "충남도, 생활 속 탄소중립 실천...최대 10만 원 혜택 제공 뉴스타운",
+      "summary": {
+        "phenomenon": "충남도에서 생활 속 탄소중립 실천을 장려하며, 참여자에게 최대 10만원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "생활 실천",
+        "혜택",
+        "10만 원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "대전 동구, 가족과 함께하는 목재 탄소중립 체험 - 타임뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kRllya1NhVXU1d1YzRUFuTExtS2dVblRLQ0o3alZOME8zSlVaTS0wY1B1aHZHR3VpTHFJeVVrN2RKa2ZYWFRZVTVNNWlodWZ3MUhOTA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:52:00",
+      "description": "대전 동구, 가족과 함께하는 목재 탄소중립 체험 타임뉴스",
+      "summary": {
+        "phenomenon": "대전 동구에서 가족을 대상으로 목재를 활용한 탄소중립 체험 행사가 진행되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전 동구",
+        "가족",
+        "목재",
+        "탄소중립",
+        "체험"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "42",
+      "title": "충남도, 직장인까지 확대된 탄소중립포인트제 시행 - 충남내포뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YeVRXa1RRVUF1eWRUdUpWRHZsYS10M1MybkhXZ3dPT0RsSl8yaGZTaE9zUThfbjNxLUJRQXdrU1lyS0xBeXNZeU9yQ2dDUXc0WUdMQThnMGt1SE9OcDZSVzJvQTcxNnAxQnJrR2Fn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T01:58:20",
+      "description": "충남도, 직장인까지 확대된 탄소중립포인트제 시행 충남내포뉴스",
+      "summary": {
+        "phenomenon": "충남도에서 탄소중립포인트제 시행 대상을 직장인까지 확대했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립포인트제",
+        "직장인",
+        "확대",
+        "시행"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "43",
+      "title": "충남도, 탄소중립 실천 최대 10만원까지 혜택 - 헤럴드경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41ajdRbDFFZnF0bzJmNFQtQnJRRVg1eVVUUzBQMlk1VVVWRldwSXBkbGZMTEhJRnEyWGRnWFJHZUQ2bF9VeXRvc0Q4ZVlweVZJLVFISlNR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:47:46",
+      "description": "충남도, 탄소중립 실천 최대 10만원까지 혜택 헤럴드경제",
+      "summary": {
+        "phenomenon": "충남도에서 탄소중립 실천에 참여하는 주민에게 최대 10만원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "실천",
+        "혜택",
+        "10만원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "44",
+      "title": "노원구, '탄소중립체험관' 개관 - B world",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45RjFGdVlFMnNhOHMyU1VsRVJSVWFTaXlfREJkN0hsZmRyYnJsN2FDdDVqamVBTXN2RUZ2U3kzbW5la2JNMWt1eHBZRHJxdjZnVW1HekhiYUNsNGpLck5uOUNqOXZWZUhuVl9UX1M5YUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T23:24:52",
+      "description": "노원구, '탄소중립체험관' 개관 B world",
+      "summary": {
+        "phenomenon": "노원구에서 '탄소중립체험관'을 개관했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "노원구",
+        "탄소중립체험관",
+        "개관",
+        "탄소중립",
+        "환경"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "45",
+      "title": "거제시, 사등면 시작으로 이장 대상 2026년 찾아가는 탄소중립 역량강화 환경교육 추진 - 경남도민뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82TDVZVTJ3T3lCeDF3aFFaUWdySFJ6NTRkc0lhcmI5Q1JScXBVYWtnclNsYmZaMFkyeXB2T0xJb1lrVkRJMERHOGFaTVZwMll3TmRLdmdRR1o2TkxEWWduSnJCWQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T08:10:55",
+      "description": "거제시, 사등면 시작으로 이장 대상 2026년 찾아가는 탄소중립 역량강화 환경교육 추진 경남도민뉴스",
+      "summary": {
+        "phenomenon": "거제시가 사등면을 시작으로 이장을 대상으로 2026년까지 찾아가는 탄소중립 역량강화 환경교육을 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "거제시",
+        "탄소중립",
+        "환경교육",
+        "이장",
+        "역량강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "46",
+      "title": "충남도, ‘탄소업슈’ 참여 확대… 탄소중립 실천하면 최대 10만원 혜택 - nmn.ff.or.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9za292NXdzU25vUnp3RHJ6Q2lQOWNxWThUaGhyMS1pU1g5SlpoaDBLR3VtbEg4VC03anBpWnU5MllmSEZHS0FBLWJodDRpV1M1U2JDc1gySW8xb3RsV0E?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T23:49:16",
+      "description": "충남도, ‘탄소업슈’ 참여 확대… 탄소중립 실천하면 최대 10만원 혜택 nmn.ff.or.kr",
+      "summary": {
+        "phenomenon": "충남도에서 '탄소업슈' 참여를 확대하고 있으며, 탄소중립 실천 시 최대 10만원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소업슈",
+        "탄소중립",
+        "참여 확대",
+        "혜택"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "47",
+      "title": "충남도, 탄소중립 실천 포인트 ‘탄소업슈’ 운영 - 뉴스프리존",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HbEYtV2RjZVVaUkpyTlJrSTNRaVFZZlo5YUtPS0g3SldEeHNmTjV3Y1FpUnNXVzFVTXBrb0xpYUlWZ2NPazJaU1ZqcE9DZFpBY2plV0ZZTDQ1dUVXb3pPWEZTR1pHZVJmSFc5OTc3eWNldlHSAXdBVV95cUxNUjZtV3B3TVJJMXhGMjJveW5NVU1UU29KSGpGeU9HM0JEUjk0My1SaWU0Y2pZWFVFdGh6NmR4dm9ub0JscUwxV0JvV1lTT01XSlNweWlJRTRwaVEyQm5vNXZ5T21FUWx4QUE3ODJVdXdabUVlc2NEZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T01:15:48",
+      "description": "충남도, 탄소중립 실천 포인트 ‘탄소업슈’ 운영 뉴스프리존",
+      "summary": {
+        "phenomenon": "충남도에서 탄소중립 실천 포인트 제도인 '탄소업슈'를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "실천 포인트",
+        "탄소업슈",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "48",
+      "title": "금산군, 올해 재생에너지 보급 확대 주력… 탄소중립 경제 실현 가속도 - 대전일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ueGYzZVM1ZEhNSGF0NGl6UE1Odi1URDhxalcwV3p6eVM2eWxWbHdpOU9yaS1zOGVwTGJmUnp3Z3JWeXBTRkttQXZPMmV2WEJBeDBDOW5HOXgtYlZMRlhPR1RSbDYzZE55UkZVYk5pONIBc0FVX3lxTFBiX0NjOF9xX0x1WHdnQzktQXFGLXJXRnJRaEJPVmZfaDVyblRKbENVY3pyMW0xMVZkUUtTUWNhU0RUa0thdjFoNGYtV1JVTTRJczlwc2J4d0tZSU4zSFZYYk5PT0hkTnBsY3Zyejk1OUdpa0U?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T02:09:00",
+      "description": "금산군, 올해 재생에너지 보급 확대 주력… 탄소중립 경제 실현 가속도 대전일보",
+      "summary": {
+        "phenomenon": "금산군이 올해 재생에너지 보급 확대에 주력하여 탄소중립 경제 실현에 가속도를 내고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "보급 확대",
+        "탄소중립 경제",
+        "가속도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "49",
+      "title": "탄소중립 실천하면 최대 10만 원…'탄소업슈' 참여 대상 등 확대 - 노컷뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MdzVxZVc1dTFxZXVFLV9qTzdFS1JxeTduOXFCN2M1eE5VaDNLUjI3aEgwTzVMTURHM2ZBcml4SnFyY1pmSlVoRjBwWG9nX2dVcFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T01:10:00",
+      "description": "탄소중립 실천하면 최대 10만 원…'탄소업슈' 참여 대상 등 확대 노컷뉴스",
+      "summary": {
+        "phenomenon": "탄소중립 실천 시 최대 10만원의 혜택을 제공하는 '탄소업슈'의 참여 대상이 확대되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "인센티브",
+        "탄소업슈",
+        "참여 확대",
+        "환경 실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "50",
+      "title": "전주 탄소중립 완산마을에 선풍기 수리소 떴다… ‘고쳐 쓰는 여름’ 준비 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fTkxmZnM1U0xTa19Dczd5WGt4aVhZMWdJaHhFWWttUGoxczFlQ2NpZ0x5UXFhYUg3d3RKREdHMHo5RkxaVnl2WnJlaXQ4MFZHakNXMXRUR2pFQVlVeE51WHJSZjdZamc3S1BOZFlQS3c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T06:38:00",
+      "description": "전주 탄소중립 완산마을에 선풍기 수리소 떴다… ‘고쳐 쓰는 여름’ 준비 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "전주 탄소중립 완산마을에 선풍기 수리소가 운영되어 '고쳐 쓰는 여름'을 준비하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전주",
+        "탄소중립",
+        "완산마을",
+        "선풍기 수리소",
+        "고쳐쓰기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "51",
+      "title": "충남, 탄소중립 실천하면 10만원 준다 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rczNva0hLRmwtUEhnYUVQb2VyWDJkVnNpVDZ4UVZheFRMRlhaLW5PcjYydHM3UVVjckZvSDNlLXRfa2FjN0kyT2QtQXZPTE90eTdB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T08:12:00",
+      "description": "충남, 탄소중립 실천하면 10만원 준다 네이트",
+      "summary": {
+        "phenomenon": "충청남도에서 탄소중립을 실천하는 주민에게 10만원을 지급하는 정책이 시행된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남",
+        "탄소중립",
+        "실천",
+        "10만원",
+        "인센티브"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "52",
+      "title": "산림청, 국가온실가스 감축목표 달성 위해 지방정부와 협력 - 환경일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hcmdCVHNVZks5Nlh0RVBZdWk2UUI5TnNoeVc5azYwN0ZFZFhPZVFIbFUzMER2LS1od1dlMmQyOVBlajhsQU9NVmk0REJlNHdFVlloNFM1eTBGbl9uM3pyT00yOWRMSkZt?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T03:46:19",
+      "description": "산림청, 국가온실가스 감축목표 달성 위해 지방정부와 협력 환경일보",
+      "summary": {
+        "phenomenon": "산림청이 국가온실가스 감축목표 달성을 위해 지방정부와 협력할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "산림청",
+        "국가온실가스 감축목표",
+        "지방정부",
+        "협력",
+        "달성"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "53",
+      "title": "충남도, 탄소중립 실천하면 연간 최대 10만 원 지급…‘탄소업슈’ 운영 - 뉴스충청인",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RT3N0bVNzWUdCcldIeVlIekJQLVV6LUMwSzJPNnFLRFRqdmp1bDY4Q0w0N2F4YjVWVHFBT2paSkZqcDlod2c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:07:57",
+      "description": "충남도, 탄소중립 실천하면 연간 최대 10만 원 지급…‘탄소업슈’ 운영 뉴스충청인",
+      "summary": {
+        "phenomenon": "충청남도에서 탄소중립 실천 시 연간 최대 10만 원을 지급하는 ‘탄소업슈’ 제도를 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "탄소업슈",
+        "인센티브",
+        "환경실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "54",
+      "title": "충남도, '탄소중립포인트제' 참여대상 확대 - 금강일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWZVhVbFJmM3BCZHhQM19oVkZLSkxRdUZJcERtQUgxNnAtVjZJbkctaHdLcUoxUnJPeEF6dklfQlVBUGtaYTRQOHpsY3AxZEhQWjZUcmNmVXRMS1JGREJoLUh4QzdEUFlUeFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T07:36:31",
+      "description": "충남도, '탄소중립포인트제' 참여대상 확대 금강일보",
+      "summary": {
+        "phenomenon": "충청남도가 '탄소중립포인트제'의 참여 대상을 확대한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "55",
+      "title": "제주 2035 탄소중립, 도민 결정 과제로 옮긴다 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MNWkyVDJwQ3pMWDZidm1idTc5YUN1S3RsaFFCQl9jMER3V3ZRRWJ2TjJCSUlMdTdvaGJicUJidTBIeWZ6d1FxZXdXcWtOOTJRV0E5VHF6OVg3UdIBXkFVX3lxTE1mNjFaX1MyaEhiXzIwZ3k3SFpfdldqUTNIWkRfbnRINHVkWnF0UnN6MnlZa0pzUlFIQzc2Y3d4VkZJek0tbHBuME44OFJfbkRIZW1aeno0QlJZS1hjNVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:44:26",
+      "description": "제주 2035 탄소중립, 도민 결정 과제로 옮긴다 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "제주도가 2035년까지 탄소중립을 달성하기 위한 과제를 도민 결정으로 옮길 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "제주",
+        "2035",
+        "탄소중립",
+        "도민",
+        "결정 과제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "56",
+      "title": "충남도, 탄소중립 실천하면 최대 10만 원 혜택 - 아산데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfeVhHaVFQOHQ4SXV2Q3VoSkdWOHJQOFliNkZtTkJLQ3ZPWGhWYlJDUUdfbDRoOWRhYy1VSGc5elpIUUpBZjVFT2ZXcmVnZVNZRFJr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T01:12:25",
+      "description": "충남도, 탄소중립 실천하면 최대 10만 원 혜택 아산데일리",
+      "summary": {
+        "phenomenon": "충청남도에서 탄소중립을 실천하는 경우 최대 10만 원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "실천",
+        "혜택",
+        "10만 원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "57",
+      "title": "충남도, 탄소중립포인트제 ‘탄소업슈’ 운영 - 글로벌뉴스통신GNA",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jaEV3cEFuZzUzcXQwNmd6aUxSQ1lIeHViVUVJaXM5TlNXUVFjbW5RX0ttOHh6dWF1c0ctTXRydTlZVV9wRDRWY3VTNEdrd182a05Pdl9BQ2tJNklINjNSamY5d05UV1hWVzk0MlU2LWxxVWhs?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T22:49:30",
+      "description": "충남도, 탄소중립포인트제 ‘탄소업슈’ 운영 글로벌뉴스통신GNA",
+      "summary": {
+        "phenomenon": "충청남도에서 탄소중립포인트제인 ‘탄소업슈’를 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립포인트제",
+        "탄소업슈",
+        "운영",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "58",
+      "title": "[경제+] 2시간에 방 한 칸 뚝딱!...中 산둥성, '조립식 건축'으로 탄소중립 앞당겨 - 서울뉴스통신",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40YXl5cUhVOWpmNlpPbVBlMHJrZkg3N1VxbnJwdzJjRkd4dFNITVdiZGZRekFpZFBWdHVNQ1ktNy1DTDBSdFVoMHZ3R0daYVNIZ0JMdWJNVkxqaVN4MzBRQVg0Zmk3S0M1RTdF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T06:50:15",
+      "description": "[경제+] 2시간에 방 한 칸 뚝딱!...中 산둥성, '조립식 건축'으로 탄소중립 앞당겨 서울뉴스통신",
+      "summary": {
+        "phenomenon": "중국 산둥성에서 '조립식 건축' 방식을 활용하여 탄소중립 달성을 앞당기고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "59",
+      "title": "완도, 블루카본 중심지 도약 시동… 국제 포럼서 해조류 탄소중립 비전 제시 - 한국뉴스코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTV3RpTGJfdC1wUWxxdVVvQWhVS1FkLVlOTUpKOVpabHRULU01TnRONnE3LTUwUFVJYWc3NTB2N3BiOVE1WUotZmFmMFRrVFhVMVhpMEFKbE1KdEtXX1BDUGNwZ0xNQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T04:52:33",
+      "description": "완도, 블루카본 중심지 도약 시동… 국제 포럼서 해조류 탄소중립 비전 제시 한국뉴스코리아",
+      "summary": {
+        "phenomenon": "완도군이 국제 포럼에서 해조류를 활용한 탄소중립 비전을 제시하며 블루카본 중심지로 도약하려 한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "완도",
+        "블루카본",
+        "해조류",
+        "탄소중립",
+        "중심지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "60",
+      "title": "충남도, 탄소중립 실천 시 최대 10만원 혜택 제공 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxazlqRWxNWnhVdjVuV0hldWlrQjloNnpmRk13MHZzcUd5Q3M5OWM3S0pTbmd0aUktdW5vVTlYRlBXMmtaUV9yc01iUUktWnQ5ek42eWtQa2xaZ1cxU0dLWm80eXdxb2JmM2hqREFMZ0lMQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-11T23:29:15",
+      "description": "충남도, 탄소중립 실천 시 최대 10만원 혜택 제공 웹이코노미",
+      "summary": {
+        "phenomenon": "충청남도에서 탄소중립 실천 시 최대 10만원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립",
+        "실천",
+        "혜택",
+        "10만원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "61",
+      "title": "생활 속 탄소중립 실천해 최대 10만원…충남도 '탄소업슈' 확대 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EdEJKSHR2cFVsWC1Ga0FZVjRkOVVfRGdoUzYyOTVSRVBXenk5N2J1M2V2NGs3U1pWQlBUazlfQ0FJOXQzTlVtQUpPVHlOdE03a1Nj?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:33:00",
+      "description": "생활 속 탄소중립 실천해 최대 10만원…충남도 '탄소업슈' 확대 네이트",
+      "summary": {
+        "phenomenon": "충청남도에서 '탄소업슈' 사업을 확대하여 생활 속 탄소중립 실천 시 최대 10만원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "충남도",
+        "탄소업슈",
+        "생활 속 실천",
+        "인센티브"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "62",
+      "title": "제주 2035 탄소중립, 도민 결정 과제로 옮긴다 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsWTNFT3NuRThmeDJZSVVhWEdhQzc2VjB0eWp1R0JaczYyTHdEYWZEd2NGRnk0UF9ZeUhJZnFSSWJ4c1V4dFpCREc1M2VsUE9EYnhn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T00:45:00",
+      "description": "제주 2035 탄소중립, 도민 결정 과제로 옮긴다 네이트",
+      "summary": {
+        "phenomenon": "제주도가 2035년까지 탄소중립을 달성하기 위한 과제를 도민 결정 사항으로 전환한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "제주",
+        "탄소중립",
+        "2035",
+        "도민",
+        "결정 과제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "63",
+      "title": "충남도, 탄소중립포인트 참여 확대…최대 10만 원 혜택 - 보도자료 | 기사 - 더팩트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ieGhKRG9NemUwZ2NYZXBEYWRDYTlTakJ0ZW80NHJZbzRyZklSN1pTakUzQWhKdDFQS3ZxU2EwY0Q2aDd3SEhtWjAxcGZQUHdkZTZ6VGZZOEFOR1k0LXI0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-12T04:14:35",
+      "description": "충남도, 탄소중립포인트 참여 확대…최대 10만 원 혜택 - 보도자료 | 기사 더팩트",
+      "summary": {
+        "phenomenon": "충청남도가 탄소중립포인트 참여를 확대하여 참여자에게 최대 10만 원의 혜택을 제공한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "충남도",
+        "탄소중립포인트",
+        "참여 확대",
+        "10만 원 혜택",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "64",
+      "title": "원광전력, ReSCO(재생에너지종합서비스기업) 등록 완료…햇빛소득마을 사업 ‘속도 낸다’ - 전기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjZkJKQ0Y0eHEtQVZYSHFoV1FxTmtvSlpFYTRIbVF3RGdVYURKeDFFWnkyUVpsUGMybTRSenJkcFRTa09naWJlckszV0dvVEhLMk9zR0UxTVdab2pkUjZYaFZ6SFFJOF9mRHVnSNIBcEFVX3lxTE9WS1JmcTd3YlB3RVJXVFpRRmVYRGdxOFVJT2xnYkhrRnFFc2xNQXpwRlVOZzllRjQ5dXloRG9Zd2NxT0J3MDJkc3N1Z1c2SjktZ1kwcjlMY3BaVmV5RGozdFBiUEFFZEFhVzd6SjBEb3o?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T00:27:07",
+      "description": "원광전력, ReSCO(재생에너지종합서비스기업) 등록 완료…햇빛소득마을 사업 ‘속도 낸다’ 전기신문",
+      "summary": {
+        "phenomenon": "원광전력이 재생에너지종합서비스기업(ReSCO) 등록을 완료했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "원광전력의 햇빛소득마을 사업이 속도를 낼 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원광전력",
+        "ReSCO",
+        "재생에너지",
+        "햇빛소득마을",
+        "사업 가속화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "65",
+      "title": "에너지 대란 재생에너지 전환으로 돌파해야 - 한국경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVkRqOFJSNWpiVnBFSEtsejNhMV9zZFlWblc0VnFEclJsQTJZQ3l5RW94cDlfVzhTbEprY2VKYzFxWG8wekx1TzB4SGtuOHJJSnlONzZMZmg0QdIBVEFVX3lxTE9pU2JuQlA2OGtQQjZnUTRTOExYSXhuUmJSQndUMHluQ21wTzdZTWNhTndXMTJNMmpUT0ZpM1dLUkNRRFByd0JFbElnWHRIbFNkendWaA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T07:33:47",
+      "description": "에너지 대란 재생에너지 전환으로 돌파해야 한국경제",
+      "summary": {
+        "phenomenon": "현재 에너지 대란이 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "에너지 대란을 재생에너지로의 전환을 통해 돌파해야 한다고 제안되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "에너지 대란",
+        "재생에너지",
+        "전환",
+        "돌파",
+        "한국경제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "66",
+      "title": "KT 재생에너지 직접 공급 계약 체결해 반도체 생태계 기여한다 : RE100 앞당기기에 힘 보태 - 허프포스트코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGOW5reGZ3WVJoQ1hfRjhaOHd2TmdWc2tlbXZOYTREMUtfVlJLRUU5QTlzaHhjb0kwOHFkZWw3Q3lKYnlqQWphR1RTclVjRWF6Z3FlVU5yOA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T23:29:17",
+      "description": "KT 재생에너지 직접 공급 계약 체결해 반도체 생태계 기여한다 : RE100 앞당기기에 힘 보태 허프포스트코리아",
+      "summary": {
+        "phenomenon": "KT가 재생에너지 직접 공급 계약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "KT는 재생에너지 직접 공급 계약을 통해 반도체 생태계에 기여하고 RE100 달성을 앞당기는 데 힘을 보탤 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KT",
+        "재생에너지",
+        "RE100",
+        "반도체 생태계",
+        "직접 공급"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "67",
+      "title": "신성이엔지, 재생에너지 사업 강화 - 디일렉",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42bTVmc1E4SWRQbEw3d2JlQmtpNC1SSF9IYjhjQVZueDNQUFR2OHE1WFlpcDFWR05kSl85X0xCU2stcFVRMVdlUWVFX1dxbjVsOGxfd0VHaTVnSmM1Q3VFdXBUQmp4QQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T22:39:27",
+      "description": "신성이엔지, 재생에너지 사업 강화 디일렉",
+      "summary": {
+        "phenomenon": "신성이엔지가 재생에너지 사업을 강화하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신성이엔지",
+        "재생에너지",
+        "사업",
+        "강화",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "68",
+      "title": "포천시, 2027년 재생에너지보급 융복합지원사업 수요조사 실시 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95MkQ2RFgyUUQtTURKcnk2NDBmaElUSnc4a0pUZXFzcFBmNUgzNFY0ZDh6VExyREJ4WVJaOW9CSmJTaUNOSjNLOS05MEdVZWx0THhvRmlZUF9CRjhfN2xzOTg0dWU?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T05:38:40",
+      "description": "포천시, 2027년 재생에너지보급 융복합지원사업 수요조사 실시 매일일보",
+      "summary": {
+        "phenomenon": "포천시가 2027년 재생에너지보급 융복합지원사업에 대한 수요조사를 실시하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "포천시",
+        "2027년",
+        "재생에너지보급",
+        "융복합지원사업",
+        "수요조사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "69",
+      "title": "코오롱베니트, ‘재생에너지 전기공급사업자’ 등록 완료 “직접 PPA 본격화” - 헬로티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84QWZ5aHN0Y0kzckVKUk9OTzdvM0d3a0lrV1BDTFpYMGEwQWhmalY5aXJiTEZNclR2WWFDUGFIOVV2UThTNEtLUklUbDVBWWg2QkxObkFwX05FY1VZUGJz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:27:41",
+      "description": "코오롱베니트, ‘재생에너지 전기공급사업자’ 등록 완료 “직접 PPA 본격화” 헬로티",
+      "summary": {
+        "phenomenon": "코오롱베니트가 '재생에너지 전기공급사업자' 등록을 완료했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "코오롱베니트는 재생에너지 전기공급사업자 등록을 통해 직접 PPA(전력구매계약)를 본격화할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코오롱베니트",
+        "재생에너지",
+        "전기공급사업자",
+        "직접 PPA",
+        "등록 완료"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "70",
+      "title": "유럽 ENTSO-E \"데이터센터 '유연성' 없으면 재생에너지 확대 불가능\" - AI타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oaWZlQ2pDLUtGUGlEVmVad091R1pQMHdqd1RiMnQwZ2stOVgtZkZIRUo3N1R6N2lZWjV0OWxwOFgtYmpFemZKNVVUdzJmZE9lN3hJY24wU2xJNk4wdWh1RDYteUR0djlWNlE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T04:34:24",
+      "description": "유럽 ENTSO-E \"데이터센터 '유연성' 없으면 재생에너지 확대 불가능\" AI타임스",
+      "summary": {
+        "phenomenon": "유럽 ENTSO-E가 데이터센터의 '유연성'이 부족하면 재생에너지 확대가 불가능하다고 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "데이터센터의 유연성 확보가 이루어지지 않으면 유럽에서 재생에너지 확대가 어려울 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽 ENTSO-E",
+        "데이터센터",
+        "유연성",
+        "재생에너지",
+        "에너지 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "71",
+      "title": "원주시, 재생에너지 융복합지원사업 수요조사 실시 - 원주신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbElDck41RzFnYjRpUFBKT21qS1hjbnVyWFBiTk81S0U2bXpZUDFBV1JOc0h2TzRjNzhvU2RWbzRKQ0g2ZUh0NmplZ21sYVBKYjZvNXJPcnFNV3hfVmVEVW5wR3RVTkk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T05:26:52",
+      "description": "원주시, 재생에너지 융복합지원사업 수요조사 실시 원주신문",
+      "summary": {
+        "phenomenon": "원주시가 재생에너지 융복합지원사업에 대한 수요조사를 실시하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "재생에너지",
+        "융복합",
+        "지원사업",
+        "수요조사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "72",
+      "title": "한경ESG 5월호 발간...재생에너지 대전환, 투자지도 바뀐다 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9odnZLUVVNU3B2OG96R2FsREl3U0p0bHk5Y1gzajJBOFJEZGdkLVFYcU1wem1TUXlMeVN4blJMNTctMHRVc0g2VkdtU1hMQmM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:47:05",
+      "description": "한경ESG 5월호 발간...재생에너지 대전환, 투자지도 바뀐다 v.daum.net",
+      "summary": {
+        "phenomenon": "한경ESG 5월호가 발간되었으며, 재생에너지 대전환으로 인해 투자 지도가 변화하고 있다는 내용이 다뤄졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한경ESG",
+        "재생에너지",
+        "대전환",
+        "투자지도",
+        "투자"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "73",
+      "title": "KT, 도쿄일렉트론코리아에 재생에너지 공급… 직접 PPA 추진 - 솔라투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xVE95LUI2cjRmajYxblc5cVZKdTBvWng4SloxOUtpUklFTTFQSDQxOWhBVEpMZUxPUTBLYW14X1hUMzhSWEx4eTllMkF2cGFFdGw2cl9FQlJVTDFEUjJuMkxoZDlsOWtxckpaZ2hEZkk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:44:38",
+      "description": "KT, 도쿄일렉트론코리아에 재생에너지 공급… 직접 PPA 추진 솔라투데이",
+      "summary": {
+        "phenomenon": "KT가 도쿄일렉트론코리아에 재생에너지를 공급하며 직접 PPA(전력구매계약)를 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KT",
+        "도쿄일렉트론코리아",
+        "재생에너지",
+        "직접 PPA",
+        "공급"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "74",
+      "title": "신재생에너지책 추진으로 의정부시 전력 자립도 향상 - 현대일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqSXZCX05nN040Mnd5ODh3TU9fVllic1Q5S3ppVTZWV19hYlRSM2NZSkFDNXpYWm5yWEZzWm0wdTA3cmhiVXcweTJ0a0ltWW5La04wUndSMGJiWDBzbEs4N0p4YjhqM0tpUXlzWnFB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:16:22",
+      "description": "신재생에너지책 추진으로 의정부시 전력 자립도 향상 현대일보",
+      "summary": {
+        "phenomenon": "의정부시가 신재생에너지 정책을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "의정부시의 전력 자립도가 향상될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신재생에너지책",
+        "의정부시",
+        "전력 자립도",
+        "향상",
+        "추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "75",
+      "title": "전남도, 기획예산처에 '주민참여형 재생에너지 사업' 지원 건의 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qelZVQWZkTEFCWGNGQ2dxdlY0S1hKZjRsY29uZTJYc0s3dGg5TVdnSGRxcHRqMUFhTWpuOEJEUGJOQW9Qenl3XzAxMTl0eUJlck1qYWxOeU5iSEdsbWs4?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:12:47",
+      "description": "전남도, 기획예산처에 '주민참여형 재생에너지 사업' 지원 건의 뉴스1",
+      "summary": {
+        "phenomenon": "전남도가 기획예산처에 '주민참여형 재생에너지 사업'에 대한 지원을 건의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "기획예산처",
+        "주민참여형",
+        "재생에너지 사업",
+        "지원 건의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "76",
+      "title": "원주시, 재생에너지 융복합지원사업 수요조사 실시 - 강원일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BMF9wbkEwZWc0YU05akc1LURCY0hpR05OVG9wSFhTTWN4T0FVR0xyd2x6LUxPOUNXSDgyU1ItTjVROER5TGUwQXZZdE9YZkF3N3FfRW5VeVF5RlJOTDdVYXJB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T02:20:38",
+      "description": "원주시, 재생에너지 융복합지원사업 수요조사 실시 강원일보",
+      "summary": {
+        "phenomenon": "원주시가 재생에너지 융복합지원사업에 대한 수요조사를 실시하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "재생에너지",
+        "융복합지원사업",
+        "수요조사",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "77",
+      "title": "금산군, 재생에너지 보급 확대…올해 37억원 투입 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBteHkzLTNOaV9wRlhGZTFlTW5GNzJ3MWc5R0NvRlN5Q1pKWUpZQnZvRDlNZXREdDNfczZFRkl4OF9KazF5UHdGM29JX0FmM05ZNlZSYjdyYmE4bmZzTDFNUGQxdmVNaldpdWFrRzVpY2M?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T03:19:56",
+      "description": "금산군, 재생에너지 보급 확대…올해 37억원 투입 신아일보",
+      "summary": {
+        "phenomenon": "금산군이 재생에너지 보급 확대를 위해 올해 37억 원을 투입한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "보급 확대",
+        "37억원",
+        "투입"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "78",
+      "title": "유럽 재생에너지·배터리 결합 설비, 2030년까지 450% 성장 전망 - ESG경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vMkN6b2ZCSUJqclU2dE1OSENyb1UxbFVrR2dCMmxXS3dxcDFlOTJHT2VRUk1abmhwb0FBQlNQeV82MWNLMGtrN0ZQMEFjejJHRWp2QVh1c3dLc3E0N0RRQUVwR0c3d25jdzZVVw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T02:04:44",
+      "description": "유럽 재생에너지·배터리 결합 설비, 2030년까지 450% 성장 전망 ESG경제",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "유럽에서 재생에너지와 배터리 결합 설비가 2030년까지 450% 성장할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "유럽",
+        "재생에너지",
+        "배터리",
+        "결합 설비",
+        "성장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "79",
+      "title": "보뇌르, 2026년 1분기 재생에너지로 EBITDA 7.6억 NOK 달성 - Investing.com 한국어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mcVhVZVFiN1VsWkRNa0I3ZEVUUHo3WHlsaGRNd1FvT2s4S3ZjdnpITEV3amVnb3Z5QUpNTk9xNWx3R0ROSnJZX3NFU3JkXzl2eHQ0V1FJdE8tdVlVd1o1M2d2ZFhndjgwZmE2b0xSQzk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:26:00",
+      "description": "보뇌르, 2026년 1분기 재생에너지로 EBITDA 7.6억 NOK 달성 Investing.com 한국어",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "보뇌르가 2026년 1분기에 재생에너지로 7.6억 NOK의 EBITDA를 달성할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "보뇌르",
+        "재생에너지",
+        "EBITDA",
+        "7.6억 NOK",
+        "2026년 1분기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "80",
+      "title": "[데일리토픽] 신한은행-효성중공업, 글로벌 신재생에너지 사업 금융지원 확대 - 현대경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XZFhUb3dvVEd2cVhQUWlUTWNtMDZNUThlbUJfbFg3MnBPak5KNjlpVmU2aFpZdGVhX3Q5czlESlV4bjFQb2I4ZVZEY2FRN1hjZ0lKOHZSNHJDeXJZRGMxWFR0aUdnRGfSAWtBVV95cUxQVVBRQllzQUJLcXlWNENNa3BDeWEzcE5mR0VnRUlKRm1QdDl6ZDhRT0FON1NOUjVBNk5SaDNscmNmS3g3VTN6Wm1aZHJLQWlNbjlrS0VPZnpxTFZyX0pmOFlaX1oyTjA0Z3FFWQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:40:49",
+      "description": "[데일리토픽] 신한은행-효성중공업, 글로벌 신재생에너지 사업 금융지원 확대 현대경제신문",
+      "summary": {
+        "phenomenon": "신한은행과 효성중공업이 글로벌 신재생에너지 사업에 대한 금융 지원을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신한은행",
+        "효성중공업",
+        "신재생에너지",
+        "금융지원",
+        "글로벌"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "81",
+      "title": "[위클리오늘] 원주시, 재생에너지 융복합지원사업 수요조사 실시 - 위클리오늘",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xSi1iTmJLeWNJNm0tMHhCX1ZIOTcwcnFZNU5tTzNwMDV6bFdaQzFiTnFjTGxyRG9HYUNaT1ZodEVSbzdBSnI5Zk1KYW40WjAtTmNReDREWEoySHBCS2psU0gycTdyNFNxS3RvUnhn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T04:43:47",
+      "description": "[위클리오늘] 원주시, 재생에너지 융복합지원사업 수요조사 실시 위클리오늘",
+      "summary": {
+        "phenomenon": "원주시가 재생에너지 융복합지원사업에 대한 수요조사를 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "재생에너지",
+        "융복합지원사업",
+        "수요조사",
+        "지원사업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "82",
+      "title": "전남도, 기획처에 재생에너지사업 전폭 지원 건의 - 남도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zZG1sa09RX0VTM2FDWFhCOENoVy1fVEdXSTNmU256Y1ZHbDdiUzNPOFlZSklqWFlQejJxWGx6ZFFkenBGcDZEREJqaW9nNXpsdUVOR25xcGxnd1ZKWXliN0p1VmowcUo1VGhEZNIBcEFVX3lxTE53WEFkNzQ0dkR0OG5CemdyNnludUd5aEY3Q2dMSG53Zm94Mk5vV2ZCTEg3N2hNcmpnTGk2MjRpZFp6cUo5VERkN1ZaVXUtNEFOZDl0UUsza19GbXRjNzdVbjM0amZNb0oyaUJSWWxIVWo?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:32:00",
+      "description": "전남도, 기획처에 재생에너지사업 전폭 지원 건의 남도일보",
+      "summary": {
+        "phenomenon": "전남도가 기획처에 재생에너지사업에 대한 전폭적인 지원을 건의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "기획처",
+        "재생에너지사업",
+        "전폭 지원",
+        "건의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "83",
+      "title": "금산군, 재생에너지 보급 확대 박차... 에너지 자립도시 기반 다진다 - 뉴스파고",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5la2RQYUJKb1AySDhLazdOakQzUHRYdGhoVlNmX21YRXpndXM1UkVRYXdMbjNOSWtOaFlGc01wMkFKTjJ0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T04:51:00",
+      "description": "금산군, 재생에너지 보급 확대 박차... 에너지 자립도시 기반 다진다 뉴스파고",
+      "summary": {
+        "phenomenon": "금산군이 재생에너지 보급 확대를 위해 박차를 가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "금산군은 이를 통해 에너지 자립도시의 기반을 다질 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "에너지 자립",
+        "보급 확대",
+        "기반 마련"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "84",
+      "title": "금산군, 재생에너지 보급 확대 - 충청매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FZFM5aE1YY3h6ZmF1REdONlVETEpZSTR1RlhaLUFQQVdIeHB0N0E0TU1QOHFnVm9Uam5IdkJQV09uVzNGNk4ycEEzbDJmdTRzSXJBVlpJZzVocklPZm1DLU1naXhuaDdvV3c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T05:05:00",
+      "description": "금산군, 재생에너지 보급 확대 충청매일",
+      "summary": {
+        "phenomenon": "금산군이 재생에너지 보급을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "보급",
+        "확대",
+        "친환경"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "85",
+      "title": "재생에너지 수익과 금융 항목 개선으로 Bonheur 순이익 3배 급증 - Investing.com 한국어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJY0FjdWs3U3ZwMWY5V0JqbnF5QUhJMlVEU2R5WUJVNEtOYmU1WWFvVzFjMDMtZFplQXJmQ1JySDl6bVVPQjdPQjhELUNmNHJHVkZYc3JVOUlJTGxsY3NvUFh1bG4?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:57:00",
+      "description": "재생에너지 수익과 금융 항목 개선으로 Bonheur 순이익 3배 급증 Investing.com 한국어",
+      "summary": {
+        "phenomenon": "Bonheur의 순이익이 재생에너지 수익과 금융 항목 개선으로 3배 급증했다.",
+        "cause": "재생에너지 수익 증가와 금융 항목 개선이 순이익 급증의 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "Bonheur",
+        "순이익",
+        "급증",
+        "수익"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "86",
+      "title": "의정부시 신재생에너지 확대 추진 전력 자립 기반 강화 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Kdk55RjBBR1NNSTR2MkxnUFo4OE9QMjQyVE9QYXluY2NXTmtlbVk5RTZKMFFNS3VRR2drZko1d2R1ZEY3R0JDMnBXcWdiUVRyWUZaLUZNU0VYVkMxNlV0ejJnbWRpbG5ldDEwNmsyQTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T05:20:00",
+      "description": "의정부시 신재생에너지 확대 추진 전력 자립 기반 강화 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "의정부시가 신재생에너지 확대를 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "의정부시는 이를 통해 전력 자립 기반을 강화할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "의정부시",
+        "신재생에너지",
+        "전력 자립",
+        "확대",
+        "강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "87",
+      "title": "에코핀 U.S. 재생에너지 인프라, 주주에 1천만 달러 반환 예정 - Investing.com 한국어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1VDhaN25Fc3RzbGg3TXg2MzZFT0dQTzdTRHAxa0ZKWmdDbVBsTFUwT0dqd0EzVm5yLW12OU9MMFJpbzZUdG95ZEg4ZG5KZEcwV0NxOXFqTXhxLUZyV1dDS1dhNDdrQ2lVN2JWbmZnNTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:09:00",
+      "description": "에코핀 U.S. 재생에너지 인프라, 주주에 1천만 달러 반환 예정 Investing.com 한국어",
+      "summary": {
+        "phenomenon": "에코핀 U.S. 재생에너지 인프라가 주주에게 1천만 달러를 반환할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에코핀 U.S.",
+        "재생에너지",
+        "인프라",
+        "주주",
+        "반환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "88",
+      "title": "전남도, 주민참여형 재생에너지 모델 국비 지원 요청 - 아주경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoTEFmLTl5b3d3dEVDT1RxakFEVzdXTU9XSlZwNHUzR1VoNjNlZUFKeG91WTd6Snc5QVQ0YkJCVXNJS0VPLU0yLW1TcS11THNHWFNYTzhJV1VXUdIBWEFVX3lxTE9oTnRpRmZGbkt2cXV5dUVCb2FKWWdaQTl2c2NRX2tVN0htUEpKdnZOaC15UW5BcFJqb0RDa1I0d0hUSjhNVWVNcWFXMTJibVlMR3lCaDlDOHg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:32:06",
+      "description": "전남도, 주민참여형 재생에너지 모델 국비 지원 요청 아주경제",
+      "summary": {
+        "phenomenon": "전남도가 주민참여형 재생에너지 모델에 대한 국비 지원을 요청했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "주민참여형",
+        "재생에너지",
+        "국비 지원",
+        "모델"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "89",
+      "title": "원주시, 2027년 재생에너지 융복합지원사업 수요조사 실시 - 뉴스타운",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ici0xaFdrZjVSM0lBMEdBdXBXNFZpOW40WllfV0ltOVRqeXM1WENYa3hNMEgwVjB1cmE5c0cyTXFJX1hOWWlhbkVfenlNUThOQmtBc25raElKWkEydTg0c0t3MTFwVmVmV3U0eTF3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T00:02:45",
+      "description": "원주시, 2027년 재생에너지 융복합지원사업 수요조사 실시 뉴스타운",
+      "summary": {
+        "phenomenon": "원주시가 2027년 재생에너지 융복합지원사업에 대한 수요조사를 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "원주시",
+        "2027년",
+        "재생에너지",
+        "융복합지원사업",
+        "수요조사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "90",
+      "title": "전남도, 재생에너지·노인일자리·치안현안까지…국비 확보·민생정책 총력 기울여 - Queen 이코노미퀸",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zTFd6U05ucmkxN2stazdwOUhKTElLUTkta3FqUkhBTWFfZzJvQTVuVWU1bHoxcURJOTd3VzZkYVltNG8tTTkxb1I1WExjMy1uVzZlcWYtNWYxR0Y4dUtDejc0QXBJR1dZSmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:19:23",
+      "description": "전남도, 재생에너지·노인일자리·치안현안까지…국비 확보·민생정책 총력 기울여 Queen 이코노미퀸",
+      "summary": {
+        "phenomenon": "전남도가 재생에너지, 노인일자리, 치안현안 등 다양한 분야에서 국비 확보와 민생정책 추진에 총력을 기울이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "재생에너지",
+        "노인일자리",
+        "치안현안",
+        "민생정책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "91",
+      "title": "에너지 대란 재생에너지 전환으로 돌파해야 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwaWJHcjkwTHJsNHBXSUhrUjY3MjNsNUtpMHpxejZ0S203LWwxRUg4bGtyWGhNd3Z1OGJPTWhVYjNzTkFHY0EwaXN3ZmdtZFpJOHpV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T07:34:00",
+      "description": "에너지 대란 재생에너지 전환으로 돌파해야 네이트",
+      "summary": {
+        "phenomenon": "에너지 대란이 발생했으나, 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "에너지 대란을 재생에너지 전환으로 돌파해야 한다는 제안이 있었으나, 구체적인 영향이나 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에너지 대란",
+        "재생에너지",
+        "전환",
+        "돌파",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "92",
+      "title": "경기도, ‘산업단지 RE100 전환 시범사업’ 참여기업 모집…태양광 설비 지원 - 경기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sSzJjRWN6SGJSbVY5MVl6b1AxaENMUWRQekJXM0NwQUMzWXRqOUlxQTFRcElibmdBalpDRzJnUHpKM3pKVVB3Nk9BUzhvSm5PbTRCcmxNanFhQ1Q4Ui1yRTd3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:24:35",
+      "description": "경기도, ‘산업단지 RE100 전환 시범사업’ 참여기업 모집…태양광 설비 지원 경기신문",
+      "summary": {
+        "phenomenon": "경기도가 '산업단지 RE100 전환 시범사업'을 위해 참여 기업을 모집하고 있으며, 태양광 설비를 지원할 예정입니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "산업단지",
+        "RE100",
+        "시범사업",
+        "태양광"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "93",
+      "title": "금산군, 올해 재생에너지 지원사업 박차 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Tb1pWTW91X05GdG1vTjN5R1AyTEVtNWFrTjd3Z3pjQ3lPR2xleDFBLWZ6S1JoajE4QlJFY0lEbDJjZWN6cGVQVEQ5dUF4MHptcFdfN3doVjlQVFEwVW1WY25KVHl3enpRWkwxYTY1OFQ1dw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T07:17:30",
+      "description": "금산군, 올해 재생에너지 지원사업 박차 웹이코노미",
+      "summary": {
+        "phenomenon": "금산군이 '올해' 재생에너지 지원사업에 박차를 가하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "지원사업",
+        "박차",
+        "올해"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "94",
+      "title": "여성소비자신문 모바일 사이트, 재계, 풍력 발전 사업 확장 박차 - 통신일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GY05iRDE3RERmXy15VUZhQy04UXFsSDZ2cXVpOFRCOExKTkpjX3g1d2JqVjFJQTQ1NkpVeXRjdU5YSDdlcHBUczZqY2hHSXFpU3pVOHoyQUpqSEQ1SmhhMmg2M0ZYZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:13:09",
+      "description": "여성소비자신문 모바일 사이트, 재계, 풍력 발전 사업 확장 박차 통신일보",
+      "summary": {
+        "phenomenon": "재계가 풍력 발전 사업 확장에 박차를 가하고 있습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재계",
+        "풍력 발전",
+        "사업 확장",
+        "박차",
+        "신재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "95",
+      "title": "박영식 코레일 전기본부장 “에너지, 경영혁신 핵심 수단…친환경 철도 선도” - 전기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYzc5V1hCYmZISkJLdU1ZWDZzQm9XNU1rcFhWVDVyS1daRG9OYXkwZ0xRdEZiS1JsZkU2dHpRc0oyOG1HVUxReWdzYXhoc2NuRmhISlViNElwSm1wRlEyNkZ0ZHdQbXpEQzhZMtIBcEFVX3lxTE9iVG1vNDdvdm5OYXc0S2RjYXI2Z3paVkIweGRuMUczVFo2STBGNldBT2RpRTFJOWtzdDRMak1sd1YtYmJMM1J0Zml0X09VRWFlcUg3OHZFVE42QkFhdmJlaFBsbTc1aDlMS3F6bVJQQlA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T00:00:53",
+      "description": "박영식 코레일 전기본부장 “에너지, 경영혁신 핵심 수단…친환경 철도 선도” 전기신문",
+      "summary": {
+        "phenomenon": "박영식 코레일 전기본부장이 에너지를 경영혁신의 핵심 수단으로 삼아 친환경 철도를 선도하겠다고 밝혔습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "코레일",
+        "에너지",
+        "경영혁신",
+        "친환경",
+        "철도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "96",
+      "title": "전남도, 기획처에 주민참여형 재생에너지사업 지원 요청 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDU294dFd3T1I0cnlxYXd1LWM2c2M4LU5POXlQUTZ3NEljRlZxTjFzMHdKa1ozVnlSMDN4Q2pnRTcwelJ2dm9yTFNuQkRjUDVzTTUw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T08:17:00",
+      "description": "전남도, 기획처에 주민참여형 재생에너지사업 지원 요청 네이트",
+      "summary": {
+        "phenomenon": "전라남도가 기획처에 주민참여형 재생에너지사업 지원을 요청했습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전남도",
+        "재생에너지",
+        "주민참여",
+        "사업 지원",
+        "기획처"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "97",
+      "title": "\"태양광으로 농가 소득 높인다\" 경북도, 햇살에너지 지원사업 95개 농가 선정 - 매일신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02SHFNbUNVWml2YnNzTU9zUTRmbW45aE1XT2M5ZVdfU1ZHbnl0R3NyUTB1MzlwYTh4b3BNSEhjU2t5MWhqc25XbUVucUxoSkc5XzVjdHJtcHV5cVdrREZRaWNB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:19:25",
+      "description": "\"태양광으로 농가 소득 높인다\" 경북도, 햇살에너지 지원사업 95개 농가 선정 매일신문",
+      "summary": {
+        "phenomenon": "경상북도에서 '햇살에너지 지원사업'을 통해 95개 농가를 선정하여 태양광으로 농가 소득을 높이려 하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "태양광을 통한 농가 소득 증대라는 목표가 언급되었으나, 구체적인 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "태양광",
+        "농가 소득",
+        "경북도",
+        "햇살에너지 지원사업",
+        "농가 선정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "98",
+      "title": "금산군, '재생에너지 확대' 37억 원 투입 - 뉴스워커",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WHNyR1E5LUlOTXZKVG5sYkl4bjhleUp1Ync0NHpSWVRQTTJELWNZU2ZwY0JnRXBVMm1LV2FoV25GVGQ3SFdxamtVRWhGZV8yOGJGcG83cDZaeFNZUU10SjJfWnRfQUg5S2V4M3VzRm_SAXNBVV95cUxNcV9Md01oQ2hsaXRnMkJvVG5EYWd4QUdtWm5uTmFURlhuLUtfS1E0VE5rZG0tZlNYcjVZYnEtVWlGVVFIazhEbVJIMDR5a0FFVnB0NVRYUnVIbG1PdFVFV0IxQUtka0EwSHR6cFByNlJ5c0hV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:00:00",
+      "description": "금산군, '재생에너지 확대' 37억 원 투입 뉴스워커",
+      "summary": {
+        "phenomenon": "금산군이 재생에너지 확대를 위해 37억 원을 투입합니다. 구체적인 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "금산군",
+        "재생에너지",
+        "확대",
+        "투입",
+        "37억 원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "99",
+      "title": "한전케이디엔, 재생에너지 예측 AI 플랫폼 전국 확대 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YVE9xTXNWaWFYbEFPeHVxenB3cXJjaVZDR0hUV3Z4MWQ4TFFNWUVGM1piSmlZU1RzaU1QZ3dSUndVYTNJVU5FOU05b1FDY1kxX0JR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T07:25:00",
+      "description": "한전케이디엔, 재생에너지 예측 AI 플랫폼 전국 확대 네이트",
+      "summary": {
+        "phenomenon": "한전케이디엔이 재생에너지 예측 AI 플랫폼을 전국으로 확대합니다. 구체적인 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한전케이디엔",
+        "재생에너지",
+        "AI 플랫폼",
+        "예측",
+        "전국 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "100",
+      "title": "REC 폐지로 재생에너지 연금 수익률 타격.. 구조 개편 비상 - 한라일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SeUFDdV9pV0lFQTZSY2xFZ1NMWDlCeGg1MXN2NUJ5LVJJaWk0MVdUdk1GcnJLUnNwQ2RmQVg2Mk5tSTdQaXgtd1ZQQkZQUGpvQXBsWi0zS0w5ZXgySTZ2a1NYMl9LQU1CdGc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T01:27:18",
+      "description": "REC 폐지로 재생에너지 연금 수익률 타격.. 구조 개편 비상 한라일보",
+      "summary": {
+        "phenomenon": "REC(재생에너지 공급인증서) 폐지로 인해 재생에너지 연금 수익률이 타격을 입었습니다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "재생에너지 연금 수익률 타격으로 인해 구조 개편이 비상 상황에 놓였다는 언급이 있으나, 구체적인 전망은 기사에서 언급되지 않았습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "REC 폐지",
+        "재생에너지 연금",
+        "수익률 타격",
+        "구조 개편",
+        "비상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "101",
+      "title": "원광전력, '재생에너지종합서비스기업' 등록…햇빛소득마을 본격 추진 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iWHJGaE9wZ2pJeWJjWnpoYnRDdUpfUjV0VDNoUnpKV2FFZWFPT19XVlhmRTVvV1g4SXFBM2t2TUdrVExqeFJyQ1R5d0pVZVJab3pV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T01:59:00",
+      "description": "원광전력, '재생에너지종합서비스기업' 등록…햇빛소득마을 본격 추진 네이트",
+      "summary": {
+        "phenomenon": "원광전력이 '재생에너지종합서비스기업'으로 등록되었으며, '햇빛소득마을' 사업을 본격적으로 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원광전력",
+        "재생에너지종합서비스기업",
+        "햇빛소득마을",
+        "등록",
+        "추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "102",
+      "title": "AI 데이터센터 전력대란 현실화…\"탄소배출 급증속 원전·CCS 대안 부상\" - 에너지프로슈머",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9lbHRRVG1VOWRTSkRDVGVOZmpwMnpCenJNOG5oTExfZXRWNFpHYnk0OTR0eEVYSHo5aTV4dHc5Z3ozcGpGMEdVZDY5VEw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T23:50:00",
+      "description": "AI 데이터센터 전력대란 현실화…\"탄소배출 급증속 원전·CCS 대안 부상\" 에너지프로슈머",
+      "summary": {
+        "phenomenon": "AI 데이터센터의 전력 대란이 현실화되고 있다.",
+        "cause": "AI 데이터센터의 확산으로 전력 수요가 급증하고 있으며, 이로 인해 탄소 배출량도 급증하고 있다.",
+        "outlook": "전력 대란과 탄소 배출 증가에 대한 대안으로 원자력 발전과 탄소 포집 및 저장(CCS) 기술이 부상하고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI 데이터센터",
+        "전력대란",
+        "탄소배출",
+        "원전",
+        "CCS"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "103",
+      "title": "임창휘·경기의회, ESS 집적단지로 첨단산업 전력 위기 돌파 전력 자립률 62.1%, 재생에너지 비중 7.1% 불과 - 오토투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Y0MzeHhHQndzdWREY3dTRXY2Rk5mRWpuWndEck8wLWhMNEpBT2kxVURCa3FIWVVXT0lJSThqdXNFbTdIV0pPV2hjMjFndERPRXo4QzU0c1M5bGFPYU5aMDVQZDBPa1hWMUhwXzN3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T05:09:56",
+      "description": "임창휘·경기의회, ESS 집적단지로 첨단산업 전력 위기 돌파 전력 자립률 62.1%, 재생에너지 비중 7.1% 불과 오토투데이",
+      "summary": {
+        "phenomenon": "경기도의 전력 자립률은 62.1%에 불과하며, 재생에너지 비중은 7.1%로 낮은 수준이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "임창휘 의원과 경기의회가 ESS(에너지저장장치) 집적단지를 통해 첨단산업의 전력 위기를 돌파하려 한다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "104",
+      "title": "ESG·디지털·자원순환…산업계 ‘전환 경쟁’ 본격화 - 코리아포스트 한글판",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MVXVDRFFDa0tyYUtfSjR6MXRES20zSVN2OUllVlltaHk0a2FyN0J2XzdUbjVXM3dBaVNDbnRYb29ZRmlGR19mN2dRRTE2NFdhc0UzOUE2d1N2cFR4VmNzZUwxdExLb3NBQVEtZi1B?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-12T06:44:50",
+      "description": "ESG·디지털·자원순환…산업계 ‘전환 경쟁’ 본격화 코리아포스트 한글판",
+      "summary": {
+        "phenomenon": "산업계에서 ESG, 디지털 전환, 자원순환을 중심으로 한 '전환 경쟁'이 본격화되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ESG",
+        "디지털",
+        "자원순환",
+        "산업계",
+        "전환 경쟁"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "105",
+      "title": "이란 전쟁이 증명한 재생에너지 가치…영국, 풍력·태양광으로 17억 파운드 절감 - knpp.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5xU2MzZTRXbUdWNW5Ld2UyUE13OGVpcVlxQW1RVU5XTTBReGdFTUVtVElMVnhBOUpQVVV0d01kbnZvVTg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-11T22:02:15",
+      "description": "이란 전쟁이 증명한 재생에너지 가치…영국, 풍력·태양광으로 17억 파운드 절감 knpp.co.kr",
+      "summary": {
+        "phenomenon": "영국은 이란 전쟁으로 인한 에너지 위기 상황에서 풍력과 태양광 발전으로 17억 파운드를 절감했다.",
+        "cause": "이란 전쟁으로 인한 에너지 시장의 불안정성 속에서 재생에너지가 에너지 비용 절감에 기여했기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "영국",
+        "풍력·태양광",
+        "절감",
+        "이란 전쟁"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "106",
+      "title": "홍수 대비 ‘물그릇’ 10억4000만t 확보…서울 6개 구에 도시침수예보",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202605121657001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-12T07:57:00",
+      "description": "지난해 7월17일 서울 관악구 신림동 신대방1교 아래 도림천 물이 불어나 있다. 정지윤 선임기자정부가 농업용 저수지와 댐, 하굿둑 등 이른바 ‘숨은 물그릇’을 비워 홍수에 대응한다. 서울 강남역 일대 등 6개 구에는 ‘도시침수예보’를 신설해 주민들에게 재난 위험을 알린다.기후에너지환경부는 12일 이 같은 내용을 담은 ‘2026년 여름철 홍수 대책’을 국무회···",
+      "summary": {
+        "phenomenon": "정부는 지난해 7월 17일 서울 관악구 신림동 신대방1교 아래 도림천 물이 불어나는 등 홍수 피해가 발생한 경험을 바탕으로, 농업용 저수지, 댐, 하굿둑 등 ‘숨은 물그릇’ 10억 4천만 톤을 확보하여 홍수에 대비한다. 또한 서울 강남역 일대 등 6개 구에 ‘도시침수예보’를 신설한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후에너지환경부는 12일 '2026년 여름철 홍수 대책'을 발표했으며, 이를 통해 주민들에게 재난 위험을 알리고 홍수에 대응할 예정이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "107",
+      "title": "기상청 폭염중대경보·열대야주의보 신설···‘시간당 100㎜’ 호우 땐 재난문자 추가 발송",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202605121654001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-12T07:54:00",
+      "description": "폭염이 지속되고 있는 2024년 6월27일 서울 광화문 네거리에서 시민들이 더위를 피해 발걸음을 재촉하고 있다. 성동훈 기자기상청이 올여름 기후재난에 대비해 ‘폭염중대경보’와 ‘열대야주의보’를 신설하는 등 기상특보 체계를 강화한다. 폭염특보 개편은 18년 만이다.기상청은 12일 서울 종로구 정부서울청사에서 브리핑을 열고 “최근 5년간 전국 평균 폭염·열대야···",
+      "summary": {
+        "phenomenon": "2024년 6월 27일 서울 광화문 네거리에서 폭염이 지속되는 등 최근 5년간 전국 평균 폭염·열대야 일수가 증가했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기상청은 올여름 기후재난에 대비하여 18년 만에 폭염특보 체계를 개편, '폭염중대경보'와 '열대야주의보'를 신설하고, 시간당 100mm 호우 시 재난문자를 추가 발송할 예정이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "108",
+      "title": "읍면동장이 ‘주민대피명령’ 내리고 체감 38도 이상 땐 ‘폭염중대경보’ 발령···올해 풍수해·폭염 대책",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202605121600001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-12T07:00:00",
+      "description": "지난해 8월13일 서울 노원구 월계1교 인근 중랑천이 범람해 동부간선도로가 물에 잠겨있다. 연합뉴스올해부터 집중호우와 산사태 등 재난으로 큰 피해가 우려될 때 읍·면·동장이 주민대피명령을 내릴 수 있게 된다. 체감온도 38도 이상일 때 ‘폭염중대경보’가 발령돼, 야외 작업과 활동을 중단하는 방안이 추진된다.정부는 12일 관계부처 합동으로 이런 내용의 ‘20···",
+      "summary": {
+        "phenomenon": "지난해 8월13일 서울 노원구 월계1교 인근 중랑천이 범람해 동부간선도로가 물에 잠겨있다. 연합뉴스올해부터 집중호우와 산사태 등 재난으로 큰 피해가 우려될 때 읍·면·동장이 주민대피명령을 내릴 수 있게 된다. 체감온도 38도 이상일 때 ‘폭염중대경보’가 발령돼, 야외 ",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "109",
+      "title": "LS전선, ‘구리 대란’ 속 자원순환 공급망 구축···친환경 소재 양산 박차",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202605121547001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-12T06:47:00",
+      "description": "12일 열린 한국미래소재 전북 군산공장 준공식에서 김우태 LS전선 안전경영총괄 대표, 이상호 LS전선 상생경영총괄 대표, 전익수 한국미래소재 대표, 김종훈 전북자치도 경제부지사, 김영민 군산시 부시장(오른쪽 3번째부터) 등이 기념촬영을 하고 있다. LS전선 제공인공지능(AI) 데이터센터 확산과 글로벌 전력망 확충으로 구리 수요가 폭증하는 가운데 LS전선이 ···",
+      "summary": {
+        "phenomenon": "12일 열린 한국미래소재 전북 군산공장 준공식에서 김우태 LS전선 안전경영총괄 대표, 이상호 LS전선 상생경영총괄 대표, 전익수 한국미래소재 대표, 김종훈 전북자치도 경제부지사, 김영민 군산시 부시장(오른쪽 3번째부터) 등이 기념촬영을 하고 있다. LS전선 제공인공지능",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "LS전선",
+        "구리 대란",
+        "자원순환 공급망",
+        "친환경 소재",
+        "구리 수요 폭증"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "110",
+      "title": "‘포니에서 AI까지’ 국내 자동차, 50년 만에 ‘7655만대’ 수출 금자탑···“쉽지 않은 미래”",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202605121539001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-05-12T06:39:00",
+      "description": "국내 생산 1억3000만대 돌파 ‘대기록‘전기차 캐즘·중국 공세에 ‘사면초가’업계 “생산 촉진 세제 등 정부 지원 절실”1976년 출시된 포니와 2025년 출시된 아이오닉9. 현대자동차 제공국내 자동차 산업이 올해 수출 50주년을 맞아 대기록을 썼다. 1976년 국산 고유 모델 ‘포니’ 6대가 에콰도르 땅을 처음 밟은 지 반세기 만에 누적 수출 7655만대···",
+      "summary": {
+        "phenomenon": "국내 생산 1억3000만대 돌파 ‘대기록‘전기차 캐즘·중국 공세에 ‘사면초가’업계 “생산 촉진 세제 등 정부 지원 절실”1976년 출시된 포니와 2025년 출시된 아이오닉9. 현대자동차 제공국내 자동차 산업이 올해 수출 50주년을 맞아 대기록을 썼다. 1976년 국산 ",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "111",
+      "title": "마이애미의 괭생이모 문제가 폭증하고 있다. 기후 변화가 원인일까?",
+      "original_title": "Miami’s sargassum problem is exploding. Is climate change to blame? - Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaHpuSy1MaXItT2l5Y3g2RG5PU0pvTERGVjVBZFNza1hBSmtTckNsenlhV3dFbFRWZmdsMURRUlhHWmwxLXRoc2ZVYUYtcXI3Skt4R0cxLVJZcE5uYW1WNGdJLVZjSnlESDdqMGNLLXpPR1FOSTM4aE9KYkhVM3lDSTFKVExFWXp2ZTlHbEJyNjXSAZABQVVfeXFMTWkzbHZ5NlNla2s4cnpEU29tSWRESUNoNEloOXVaazh1YTY0NlNmVGZrMVVUQl9kckZNZkFIVzdyaGdYaW5sMnQzd2FrRXk2ZHpGWlhJN3ZCSk12MlhhNDJnWUQxUlVMOG9LQkNKMlVWOHRYckJKVlI2ZlhhUTR4ZVAxdHZNZ2UxN1JvZWFtY2pw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:01:09",
+      "description": "Miami’s sargassum problem is exploding. Is climate change to blame? Miami Herald",
+      "summary": {
+        "phenomenon": "마이애미에서 괭생이모 문제가 폭증하고 있다.",
+        "cause": "기후 변화가 원인일 수 있는지에 대한 의문이 제기되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "마이애미",
+        "괭생이모",
+        "문제",
+        "폭증",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "112",
+      "title": "Beware of Wolves, but Straw Houses Could Help With Climate Change - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NcS1meC1EUi15ODBxS2taR3Zvd3dBcjFOQXZhSmZ2SnptOVROYVRoS21ELVBzVXlyYzVSOE90VENjb0F3MHlLQ3BLV1hfR2U1ZGEzNXoyNW8weG41QlVaLVB5ZFdJQWdsVHhjaS1oZFpSZF9NUDVNWTln?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T01:59:00",
+      "description": "Beware of Wolves, but Straw Houses Could Help With Climate Change The New York Times",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "짚으로 만든 집이 기후 변화에 대처하는 데 도움이 될 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "113",
+      "title": "How underwater speakers are helping revive coral reefs devastated by climate change - PBS",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRy1RV2hManhRSlh6ZmFmVlhndUlXbDFIT18zY0VPakdEX3pWLUtuak5oamMtd1RJMWlocE9TbGZrcmFybzEweWxWQW1EM3loaVFidFNxaUc2V0RvVkdEUE45OC11bWtYVTk4NkVCQ1NzY2c4cThDdGVxcnNPMlMtYU1icHVkSzJCVHowUGlGLTBMUUx3eDVldFhqbWZEUHBiSXpvYm5GT1N4TnV1YmNCbWJudWg0ZFh3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T22:20:24",
+      "description": "How underwater speakers are helping revive coral reefs devastated by climate change PBS",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 산호초가 황폐화되었다.",
+        "cause": "기후 변화가 산호초 황폐화의 원인이다.",
+        "outlook": "수중 스피커가 황폐화된 산호초를 되살리는 데 도움을 주고 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "114",
+      "title": "기후 변화에 따라 DC 지역에서 특정 씨앗을 심는 시기를 아는 방법 - WTOP",
+      "original_title": "How to know when to plant certain seeds in the DC region as the climate changes - WTOP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFZyend3UF81XzY4S0VKNFA3VlBBTFR4b1lyT1o4V0hGRHZBdVFsN1VkQVR6cmEwZ0E1TC1PdWktQ0l0eFdvSG1qTUVvc293dlRrdVdRbk5JTWQwbFQycWpfWjdPeGpyVW9sY3NBLUZlRG9fZ1ZsUUdfOVlMMS1nd0staDhIbTlUcW53NjNXbW1XZmFYOWRYOHpmOVJGd0xwY1NHeTJ6OU1JcWRhOFZJMk54VGRzZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T01:24:06",
+      "description": "How to know when to plant certain seeds in the DC region as the climate changes WTOP",
+      "summary": {
+        "phenomenon": "DC 지역의 기후가 변화하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화에 따라 DC 지역에서 특정 씨앗을 심는 시기를 알아야 할 필요성이 생겼다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "DC 지역",
+        "씨앗",
+        "파종 시기",
+        "재배"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "115",
+      "title": "기후 변화가 한타바이러스의 숙주를 늘리는 방법",
+      "original_title": "How climate change could help hantavirus find more hosts - grist.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdnZqaWhqeWFUY0wySE1uRkdlTU56dzloaDVOV0hJbWRTdGRqdG9FRDFTZHBscC1mN1VCVXJRbDdwUEJfT1JwclV1TGE3bHBSYk1ac0g4VTZLenp4ZWNQYnZXOWRubzliS1dfaXdOeTNITEc4M29WSmRIYTY4OFIwcUZ5OVp0SE4zZEE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T08:01:00",
+      "description": "How climate change could help hantavirus find more hosts grist.org",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기후 변화가 한타바이러스가 더 많은 숙주를 찾도록 도울 수 있다.",
+        "outlook": "기후 변화로 인해 한타바이러스의 숙주가 증가할 수 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "한타바이러스",
+        "숙주",
+        "질병 확산",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "116",
+      "title": "Weathering the Storm: Climate Change and Mental Health - MPR News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR2JfYnNWdnh1ZDNpRmFDMlBkdXN1QUR5dFZNZHlTUmNvRUVZMkhmZHpJQVlCdm1lbFlBcFJfSU9vQ3JZR3VKLVFQazdRVEhLQTF2ZG5oWkxXRno1YkM5MlByTlQ4ZHQ2czBWZ2l6eXg3bG53emkzRGlBOHJFamU3X3JmNnNpQkl2M0w3MVV3elJUMHV4TXpqRk81YXZsQUcydzNPMzhaeVpjaEhtNXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T06:12:52",
+      "description": "Weathering the Storm: Climate Change and Mental Health MPR News",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화가 정신 건강에 영향을 미칠 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "117",
+      "title": "유럽의 렙토스피라증: 기후 변화가 위험을 높일 것",
+      "original_title": "Leptospirosis in Europe: climate change will raise the risk - joint-research-centre.ec.europa.eu",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX0F5SkVNd2U0cEhhclNWcFdDaGhQVFduX3YzcjFIbWxncV9abG1YTGhVQVgxMmRrOFZ0UDVQamNlOGpHRDFKck1iZTZzZ01FMzJNeGpDSnZ2ejd6U0Jmb3RTUThEZXoyNHdvYV9PT2FZbDd4bW9neXF6UHJYYkc4VTFUUkZpRUtjT1hYX0pWbnU3emxiX0lDcGtWY2w5V3QtVnM5TzVnelh6UmpkbFZwd3FPS050S2V5bjE0Y3Y2N1Y0eDg1eG5Rdg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T08:20:05",
+      "description": "Leptospirosis in Europe: climate change will raise the risk joint-research-centre.ec.europa.eu",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화로 인해 유럽에서 렙토스피라증의 위험이 높아질 것이다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "렙토스피라증",
+        "유럽",
+        "기후 변화",
+        "위험 증가",
+        "질병"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "118",
+      "title": "박물관은 기후 소통을 어떻게 발전시키고 있는가?",
+      "original_title": "How Are Museums Advancing Climate Communication? - Yale Program on Climate Change Communication",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGNSQnFMeUtGdWJCQmpXOWlTandxdWp4Mk9zZnRranpQa3VfbFJhNTIyWkwtVTFvZVBrZC1KbHhURnZ4cld1LXdERGxIUEVwcU1YR0pYMHNoMDIwLV85WDdSOE5UN0pLZUJzSk9PdWsxbFQ3MTkzeUptUVduZ0pramF0QWRUbHlIZHAtU2FtaWpON3NnT0tUaUlTMktCN2s?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T07:58:33",
+      "description": "How Are Museums Advancing Climate Communication? Yale Program on Climate Change Communication",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "박물관이 기후 소통을 발전시키는 방법에 대한 논의가 이루어지고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "박물관",
+        "기후 변화",
+        "소통",
+        "증진",
+        "교육"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "119",
+      "title": "What tree rings reveal about climate change in the Amazon - news - Mongabay",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGRyR0MyNF9DOURqZV9fOHpEaF9BaS1UY1dIVFNXNHJ2OHF3dHNyRi1lNHhFNkIyazVYZnJzMWFhWEFpd3oxZk5ZRG9lWUJJLVVsVWV4VnBTR1JSQXNOYjg5akh0cjdNRnpTZTVVQ2UyR0l1YlBRRGFPU2Z4bjVGMUNlOGRfMHVkNmZMWWszVjM4S3JFeWN30gGcAUFVX3lxTE9Fb1kxU3BlYXRnRV82RU9yLXcwR3JHUWFLX1VVWnFXaWZxQ3RGdnd3Zk4xLTN2UXo1QVR6X2x3c2JRa243b2JjVUJ4bEpmSUxXRk1PdjdNelJjVE1Md2EtajBYSEk4M0tHMTRJc3A0Y2taVVVXdVZMcENpcGpYQmZ1VEVTQ1RPcHptMGxHTlAwZUU1SkotMk5Ta0c4bA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:46:25",
+      "description": "What tree rings reveal about climate change in the Amazon news - Mongabay",
+      "summary": {
+        "phenomenon": "아마존 지역의 기후 변화가 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "나무 나이테를 통해 아마존 지역의 기후 변화에 대한 정보를 얻을 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "120",
+      "title": "이 부부는 텍사스의 기후 변화를 피해 뱅거로 이주했다",
+      "original_title": "This couple moved to Bangor to flee climate change in Texas - Bangor Daily News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGNzVTQ3WEVMM29SOXpaQ0dNbEp2Z2hsOHVISVYwUXVJNTU2dndGWUNDVXRzX1ZaNVY2eWtoRkdfNzJUYzlpcXB3aDh0cTJZYzJRa3pweUY5SjZZMVFHUjA0ZXIwNUo0WnA4Y3VHdV9QRHJzdVl4ZGJCYVpCcXl0Wm5qa0RXaTBjZGc3N0otc1ZQMGFYS3llaXRfM1poaTY2em5yOFVidGpEczZHOVhOaTFhU0Q3Tlk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T05:00:00",
+      "description": "This couple moved to Bangor to flee climate change in Texas Bangor Daily News",
+      "summary": {
+        "phenomenon": "텍사스에서 기후 변화가 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "텍사스의 기후 변화로 인해 일부 주민들이 뱅거로 이주하는 현상이 나타났다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "부부",
+        "이주",
+        "뱅거",
+        "텍사스",
+        "기후 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "121",
+      "title": "피닉스 지역의 5월 이상 고온 날씨, 강력한 기후 변화 연관성 - KJZZ",
+      "original_title": "This unseasonably hot May weather in Phoenix area has a strong climate change link - KJZZ",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYndfZWp4QmRsS0toRGcwTk1MZjhqdy14UGxkN3dub1RGRDF2Smt3b3FlVEEwR3U3SFFmM0VfQUZDRGxJTGV6T2tORWpmbTBjRUVYYlFya1NhTUZENkUwblJYM0dNWmhQSC12Rml5SUt6ZDF2UjcyOXRodHlvYmk3R3NHLTRFM0pYcGFkdGJnYWs5dURnRERaWFhLRVlOTkhweWkyQTNLRndoVjE1YUUxNlJvak1sbzZ2TFh6OWpkNA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T22:09:00",
+      "description": "This unseasonably hot May weather in Phoenix area has a strong climate change link KJZZ",
+      "summary": {
+        "phenomenon": "피닉스 지역에서 5월에 계절에 맞지 않는 고온 날씨가 발생했다.",
+        "cause": "이 이상 고온 날씨는 기후 변화와 강력한 연관성이 있다고 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "피닉스",
+        "이상 고온",
+        "5월 날씨",
+        "기후 변화",
+        "연관성"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "122",
+      "title": "리처드 C. J. 서머빌의 기후 변화 과학에 대한 이야기 - AMS 헤드라인",
+      "original_title": "Richard C. J. Somerville on the Science of Climate Change - AMS Headlines",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2thSWN1X3dQRlA3ajVmOFlXUUFJakhoVVlVLTBHd1RwTjQzOUp1d0JFaWZtUFI0ZF84UEVLSkI1OXZFR0kxOUdhMlJCMnU1alEtS2R4OUtwVTFrMDI4aXk1X2tSYTZCUGZpbUVDazFtU0JNSHdTNlN0amw0MnlJN3JCNXFEeWtQTDAwNEx2R0xnb1hoMG0yQTFVQTlYQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T19:50:32",
+      "description": "Richard C. J. Somerville on the Science of Climate Change AMS Headlines",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "과학",
+        "리처드 C. J. 서머빌",
+        "AMS",
+        "헤드라인"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "123",
+      "title": "박물관-경관 최종 - 예일 기후변화 소통 프로그램",
+      "original_title": "Museums-Landscape FINAL - Yale Program on Climate Change Communication",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX0JsWmpCYWZ3T0tqX2V6VXBLV2VtQjhaSG96QTVRX2c3cVRGbHR5LU1Rdm9TOHdOTk45T05NQ194WDB0SUJ2d2piYWFCcXlmR2luZkozVUd4eXNYaWxZeEo0NG5BeXBFVzFMVXR3bGViVFNsWlQwUGh3RzNtT0FDRk9pWEMtT1JtaVYtMEdmQ3JsQkpjdGdZQzNfOWx5amw3SVZYUlR4QktrQjZkbFF1dUdoa3YwdVkwMWV2VkdQYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T08:25:27",
+      "description": "Museums-Landscape FINAL Yale Program on Climate Change Communication",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화",
+        "소통",
+        "예일",
+        "박물관",
+        "경관"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "124",
+      "title": "홍수는 에식스 주민들의 최대 관심사 — 기후 변화는 홍수 완화의 빠진 고리",
+      "original_title": "Flooding is a top concern for Essex residents — and climate change is the missing link in flood mitigation - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY1VqZmktSjJmcE1sMXhWSThhTWNmUXBpbkxWUzlNVU9pTlBQTG5OYmFfOG8wQlNLV0ZLeDRVWWQ5ZERucnBMbFZpV0w1NDBsdldfWlFjYmYwRFdXNzRmZUgxZHlhSF9SRVduZlIyWmtKMF9WbnJvOTZoVkhjOHhfQWJKcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T08:00:00",
+      "description": "Flooding is a top concern for Essex residents — and climate change is the missing link in flood mitigation Yahoo News Canada",
+      "summary": {
+        "phenomenon": "에식스 주민들에게 홍수가 주요 관심사로 떠올랐다.",
+        "cause": "기후 변화가 홍수 완화에 있어 중요한 연결 고리로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "홍수",
+        "에식스 주민",
+        "기후 변화",
+        "홍수 완화",
+        "우려"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "125",
+      "title": "Debunking the \"End of Climate Change\" Narrative - EVWORLD.COM",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVGZJZ3BPMEhJWDl5OHBlUmFMbGJhdXU1YkNNLWQxWHlnX191QUNydTVlcXZfMzJqZHhob3ZxdDFJQUhYQWF4V1V0MUNZZS1DQVE4RFVBWW03OHlYZUg1OVR1VFdENWtMV040NDVPMDZVVWhhS2R5VE8yNHRIMF9GV3k5cy1lRGV1QTR3TWptSDh5d0ZaeWFIeA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T21:18:37",
+      "description": "Debunking the \"End of Climate Change\" Narrative EVWORLD.COM",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "126",
+      "title": "호주 대법원의 기후 변화 - 베르파숭스블로그",
+      "original_title": "Climate Change in the High Court of Australia - Verfassungsblog",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83NTBTV0NRRjBzeFNKQVdNTmlGOWl2Nm04bUVuWmdRN1NDVmJDOEtjdlF5UzB6bVF1endfUC1CNzhzZTFia2VlRllYTWozUmhURlMtazY5ZWx6Q0ZOWUtqemdCSDRBZ09qVGxqeXFuZXhEMU4yV21xemxkWjdrUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T19:24:49",
+      "description": "Climate Change in the High Court of Australia Verfassungsblog",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "호주 대법원",
+        "법률",
+        "소송",
+        "헌법"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "127",
+      "title": "유럽, 지구 온난화의 진앙지, 자체 모순에 직면하다",
+      "original_title": "Europe, epicenter of global warming, faces its own contradictions - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTURCdzNyU2NvWm1RVGcxaTQ4dWh5UThJdTVPczhYM0lrUFYzOGllcWhkNGxLZTVVOWlXWURicmtHX1ZGTDQwVU9MQWpiNmcxeE1KZVVPdEc0cnB4c1diTEhXZDd2LWpTU0xhdHlBVWI3QTVVN015bF9Rc1lLQkRlOXRzLV9uMThrTXZtcmNzZE4yR0xySU9IY3hUSHZvMU5pWDNDR191MzhLOXZQOUVBdHBQcVAyODZYSFhiTnVyUHFib1lDSXQ0RWxXZng?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T02:24:26",
+      "description": "Europe, epicenter of global warming, faces its own contradictions Le Monde.fr",
+      "summary": {
+        "phenomenon": "유럽이 지구 온난화의 진앙지로 지목되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "유럽이 자체적인 모순에 직면하고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽",
+        "지구 온난화",
+        "진앙지",
+        "모순",
+        "기후 위기"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "128",
+      "title": "A New Way to Fight Climate Change Emerges From Erupting Volcano - Gizmodo",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGpvM2tOUU1YcUdmLUlCUlpVaG9TN0RIMVlpRjdtTDZOc3hBX3ZIY2hJRkJCOUtrRnNSN0plNE0yLUlWWGtEbUpIemE2T1J5eVo3MDFVMm1hSkpUM291QUxoZThjVEgzbW90WllJNUU3anJkazZjaFo2clo1dUNGalpiQUR3VzYtZUFsUUFpS2VUUFBWU18zOWNB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:30:24",
+      "description": "A New Way to Fight Climate Change Emerges From Erupting Volcano Gizmodo",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "분출하는 화산으로부터 기후 변화에 맞설 새로운 방법이 나타났다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "129",
+      "title": "Care services support effective climate adaptation: Mapping care within National Adaptation Plans and Nationally Determined Contributions - Brookings",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZ3dWdlI1YnVpdDREOFc1eXVDa21mZ1laSkt1NTl2em9Ia2NxeEFvNG44a0Vhd2QwRmhVY2pXVUZMLWdHejBLS3l5ZmpzMk1tTDdoNldzX19GLV9aT3ZyaWdhSWlFa0p0c2F1NmRnVWdaRDVaTkx6UVNHUmhQRTh6bFkwdE0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T21:47:35",
+      "description": "Care services support effective climate adaptation: Mapping care within National Adaptation Plans and Nationally Determined Contributions Brookings",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "돌봄 서비스가 효과적인 기후 적응을 지원한다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "130",
+      "title": "지구 온난화 사실: 자연과 인간 생활에 미치는 주요 영향",
+      "original_title": "Global Warming Facts: Key Impacts on Nature and Human Life - vocal.media",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQekY4a0hMUW9WcmF0QklLUWNFY3JQVmsxeVNMRVVMdi1aWVJVQldQcnVOc2lmRy1ITnFWXzVXaEdYNzFYTDF6NExqSldaTjJNMTQ2N3lRNHVZczhLYzdaUmUxek04M3dRNUpfLV9Zd0dIT1JFWXh5X0E2OUlyYzdCWHB3VzcyR1V4NHNR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T06:59:59",
+      "description": "Global Warming Facts: Key Impacts on Nature and Human Life vocal.media",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "지구 온난화가 자연과 인간 생활에 주요 영향을 미친다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "지구 온난화",
+        "주요 영향",
+        "자연",
+        "인간 생활",
+        "사실"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "131",
+      "title": "블루 카본 생태계를 기후 변화 대응에 우선해야 하는가?",
+      "original_title": "Should blue carbon ecosystems be prioritised in the fight against climate change? - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWVh6cThfNTlGRWlUdDhoSjdKdUhJNmpRUzhDTmg0X010cmh6cUxGaTJ3S2hVZHNGbnRDLUFsOTA4MUxmM2NaQ0RscTJIR2FKcDdpTEV2RDdfQVJITlRGOTZqdnN2bm1FUnd6bndQU0dkM054ZldQVE5lRVVydFJNWlRaamNFY1NDTTNuZjF1MFBoZ2JtWEliaG96YTl4RlptdG5pWENJTEdTNTR2UlFabUNvYUxTWHJXZmxOWXdsRTVWMVppNDlpLWRUelo?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T20:09:07",
+      "description": "Should blue carbon ecosystems be prioritised in the fight against climate change? Digital Journal",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "블루 카본",
+        "생태계",
+        "기후 변화",
+        "우선순위",
+        "탄소 흡수"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "132",
+      "title": "한때 곤충 없던 아이슬란드, 기후 변화로 모기 출현",
+      "original_title": "Once Insect-Free Iceland Now Sees Mosquitoes Amid Climate Change - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOai1ydDZudE9wRnNianBTdzVqZkplQ2dDZFFQTnZxTjJDdXRDWlFKWkhlbkpyN0VsNS0zWVlKLXBnaVhYZ3o4MFFxaUpPRmFKc25uNzlfWUQ3eUVCZ0tjOWxwOUlpeG92LUZHYlF2WVk0OGNIYVRJb2dqbFJTVlJ5aWswS1Uxc1Blem1laGpmOUlfLTRZTTBWbktYQk9taEgwRXRGUlhNTDnSAbABQVVfeXFMUFRRWVlmSWhmS2Nmb19pM1FVdi1TT2lFQXREX0V4aENSQ2FwOUZCcHhFZXMxMlhROENHek82dEFVdHFkeHotcDZxc1MwT1RZTjR5djJmMmZqMWp6aGs5NWdrTnlmNnNkQ1o5cDRJdU9UZnJvbVV5bXFsbGwxSWFtdWRUWVJGcFJPanhKdndCWFhNaE1jVWN6VkdjZ2ZveW5mRTZLbVNIQW9vbTNZQ1ZqWW4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T05:50:13",
+      "description": "Once Insect-Free Iceland Now Sees Mosquitoes Amid Climate Change NDTV",
+      "summary": {
+        "phenomenon": "한때 곤충이 없었던 아이슬란드에서 모기가 출현했다.",
+        "cause": "기후 변화로 인해 모기가 출현했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "아이슬란드",
+        "모기",
+        "기후 변화",
+        "곤충",
+        "생태계 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "133",
+      "title": "기후 변화와 엘니뇨가 전례 없는 전 세계 산불 급증을 부채질한다, 연구진 경고 - AnewZ",
+      "original_title": "Climate change and El Niño fuel unprecedented global wildfire surge, researchers warn - AnewZ",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVjBEODNjYUhqc3JWdTZBMzZVTUE3UjVuYWhqV25nSG5zeDdVRDZUUF9tS1llY1B4cVVsX1NuM0ZpNWNMV2lNdWpvWWRMTU9pcmRudWsxT0FmczBldkM2RnktUk02RndxQi1iRXl1anB6ZHFGSE1CbUNXYzJ1a1EyQllpaFcyUmNSQUtHM1dYcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T06:15:03",
+      "description": "Climate change and El Niño fuel unprecedented global wildfire surge, researchers warn AnewZ",
+      "summary": {
+        "phenomenon": "전 세계적으로 전례 없는 산불이 급증하고 있다.",
+        "cause": "연구진은 기후 변화와 엘니뇨가 이러한 산불 급증을 부채질하고 있다고 경고했다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "엘니뇨",
+        "산불",
+        "급증",
+        "경고"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "134",
+      "title": "서한: 전기차는 지구 온난화에 맞서는 의미 있는 발걸음 - 찰스턴 가제트-메일",
+      "original_title": "LETTER: Electric vehicles are a meaningful step against global warming - Charleston Gazette-Mail",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNemU2Y29kUFJReTlsWVNEdVN5eS1XaERJNlcwTjBFSElkZm1zZ0I4UXRzNVF0M0xmZVJ0Y0syTWRHTUJndVhBWi1ZTFc1bGpnaUNBY2wtSDBua3lIY3U5dy1HOExZLU5IUlZ4Q2w3Q04xQkRWTWZiYjQxdWprd3JuaVEwQlhPQnlhbUY5aUhiaXI1LV9ZVzM5X0dxWFQ3N2hoclhYZXdHQ2xaQ2pFMGk0QXM4dnJwOXpHYlVtQ1FMaFdlY1J6aXdtQTRZTFoyNkhuQTJuU19ReWZQWEUtZGFydERXLWhkRThDajFVZHVEM3JXbzc0emRRVHU1aVF6NXdHekNJQlN3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T04:00:00",
+      "description": "LETTER: Electric vehicles are a meaningful step against global warming Charleston Gazette-Mail",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "전기차는 지구 온난화에 맞서는 의미 있는 발걸음이 될 수 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전기차",
+        "지구 온난화",
+        "기후 변화",
+        "환경",
+        "해결책"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "135",
+      "title": "기후 변화가 국가 간 전쟁과 분쟁을 부추기고 있는가? 과학은 그렇다고 말한다 - 인디아 투데이",
+      "original_title": "Is climate change fuelling wars and conflicts across nations? Yes, says science - India Today",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSEVlSmRmNTRWby1sSG8wdzAzeHlEZG9lbWltN1JQOW1WbzBpOHhsV3hQZE5VMkZPV1lvRVpjV0ttcnpaWnB2QU51WDRrLUN0dXYtbjhhYXB1WE1FcHY3Zy1FLWJ3dEI2SEkzM2E1UWEyZ1pYS0Vidk9Wb014ZEtGUHEzdG80WDhWSjY1UG1VaHVuZVNGWGVlbllzeHJRWUdxNXQ1T3I1MGszOVU5QmV1Z29OZWRXVzRkbDh4ay1TSDdrTkpZRWVQS0pxdF85cnREcGY3U25ZekJSaGhYWkhuMmlJenlGbEI2Nzg5Rm0tY9IB9AFBVV95cUxNUFlmdk1PRlZSS2dEUTBoTGRZTldFLVdVS1J1SUt1SEJkNnVWS1FZeDNaZlRWczF4eExRTklhNUJSeXB1TVc5alJ0M3lYMmVXZEpJV0JCbWlVeEJNRXJVTnRRUEE3dkZfb19YaTJFOTBZcktqaEd5SVg3bmo0YVdySHBYdDVRZy1vaVZwR0JNYlZDLWk0OGZpeWFMbUFnLXhYdmdCb2JkZEg0eWVYZ0lndHpESnFVaHJDTVY2MVFHUC1hTG1hZHVvb0VWZ2tTOUx6emd5eVRKczFVSDhNWjZFNGFQczVPckFBY2xNbW9qM1Bjamdr?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T06:08:20",
+      "description": "Is climate change fuelling wars and conflicts across nations? Yes, says science India Today",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "과학에 따르면 기후 변화가 국가 간 전쟁과 분쟁을 부추기고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "전쟁",
+        "분쟁",
+        "과학",
+        "국가"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "136",
+      "title": "Govt More to Block Climate Change Lawsuits Against Businesses in Legal Reform - Devdiscourse",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGhXV2hiUVVzSWl6c1lEVWpXRjlfWUFpR2ZLLUJPMlMwdFV1MXM4aExhM2dYQy1QcEZVc05NU2xsU0I0SVpVM05zdGRSQWRkRXJRRnVpUkt2TXFfTDBXWWdGWUhTNGVmSVJUNDVZRW5Hem01b0JSekUtUFNkYlRtSkdsM2t0UWJuVVh2RU9ndEsxWlBZd1V3YWg5UE1NQkJDa2RZR0VqOS1pMk5ER1ZXbFhIeGVTRXF6T2ZGUmFfR1Q2bm1uaExfelNKRmXSAdIBQVVfeXFMT1dJb2l4OVpVaDNkR0JuSkpHT2dMS1dlRzF0RDE3UlQ3WWV4NllSRG9xY0VzYXRpc3pSaXVJdFFCbFIwcnBDbURPc3lydmFXdVdVaXRkWHdic1lYNlNGTHM2X3lYd3VzU2Fxa3lLcFdRNjA5eXhENmtBS3pfMThKQ3VVYkJzcmtvVXNseUtKa0I3bzFQTU5idGZCZ3FtanRLa3dqNmc2T1JpT3VaTWJCeU10WHNUOUQ2dUs2bnA2NzRoNXhnNzRNbnZzbzEzcnZJOGhB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T08:14:40",
+      "description": "Govt More to Block Climate Change Lawsuits Against Businesses in Legal Reform Devdiscourse",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "정부는 법률 개혁을 통해 기업에 대한 기후 변화 소송을 차단하려 할 것이다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "137",
+      "title": "보이지 않는 위협: 기후 변화와 증가하는 미세 플라스틱 위기 - 크메르 타임즈",
+      "original_title": "The Invisible Threat: Climate Change and the Growing Crisis of Microplastics - Khmer Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmhIZ0piNDU3QXBfdl82NHNOUVlwQjVrWVJ2bE1DdUFvNU5fQ2dUV282X0tHX1pxcU1ZeWFqY3haaWFnZ3QyRDBSUEFOdENMc0VXNmpkTUxzRnhZczBWc1djNmpieTMybE9BUDZ6cG1UZ0pramotUWd1U0Zzd2ExeGM3bE84c3VCUEdPTFVjMVJGVTFsMGJpSVJNS1RzOUJ1b2FSYTRJNEhTZFNJbEllbjhNbWdZeXhW?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-12T03:12:13",
+      "description": "The Invisible Threat: Climate Change and the Growing Crisis of Microplastics Khmer Times",
+      "summary": {
+        "phenomenon": "미세 플라스틱 위기가 증가하고 있다.",
+        "cause": "기후 변화가 미세 플라스틱 위기와 연관되어 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "미세 플라스틱",
+        "보이지 않는 위협",
+        "증가하는 위기",
+        "환경 문제"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "138",
+      "title": "인도, 기후 변화에 맞서 새로운 재생 에너지 이니셔티브 착수 - 인도 뉴스 네트워크",
+      "original_title": "India Launches New Renewable Energy Initiatives to Combat Climate Change - India News Network",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTkxMQ3gwV0xvMVBfQy1OVVlqLW5zT1RvTHUwZnJTWFA2bW1yQmhmMHBJVWhnbnozaVltcWhHZW1XNUpsamtaa2JmWGdfNVBFMDdBQmZldEVDVmZjS3FqcGdVU0tMbjhZTG14VE1aZU1lb3F2TE9sODkxSF9pSndpNEhuRVljYWJBZGZwU2tLbEoyLUFEMGp1QUtpOGlpdEQ3WExaTHBONXRyeFI4TXpsVnhVOGs?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-11T19:02:41",
+      "description": "India Launches New Renewable Energy Initiatives to Combat Climate Change India News Network",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "인도는 기후 변화에 맞서기 위해 새로운 재생 에너지 이니셔티브를 착수할 것이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인도",
+        "재생 에너지",
+        "기후 변화",
+        "이니셔티브",
+        "착수"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "139",
+      "title": "데이터센터, 풍력·태양 에너지 투자 의무화해야... 퀸즐랜드 제외 전 주 동의",
+      "original_title": "Datacentres should be forced to invest in wind and solar energy, agree all states except Queensland",
+      "url": "https://www.theguardian.com/environment/2026/may/12/datacentres-australia-wind-solar-energy-investment",
+      "source": "guardian_climate",
+      "published_at": "2026-05-12T05:16:37",
+      "description": "State and federal energy ministers say investments in new renewable energy and storage should ‘fully offset’ new datacentres’ energy needsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPower hungry datacentres that are growing to meet the demands of artificial intelligence could be forced to invest in enough new solar and wind generation to completely cover their electricity needs.State and federal energy ministers agreed at a mee",
+      "summary": {
+        "phenomenon": "인공지능 수요를 충족하기 위해 전력 소비가 많은 데이터센터가 증가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "퀸즐랜드를 제외한 주 및 연방 에너지 장관들은 새로운 데이터센터의 에너지 수요를 완전히 상쇄할 만큼의 신규 태양광 및 풍력 발전 투자를 의무화해야 한다고 동의했다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "데이터센터",
+        "재생에너지",
+        "투자",
+        "에너지 장관",
+        "에너지 상쇄"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 139,
+    "domestic_count": 110,
+    "international_count": 29,
+    "top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "기후 변화",
+      "충남도",
+      "기후변화"
+    ],
+    "sentiment_breakdown": {
+      "positive": 85,
+      "negative": 17,
+      "neutral": 19
+    }
+  },
+  "period": "afternoon",
+  "period_label": "오후"
+}
