@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14T23:30:53.490559",
+  "last_updated": "2026-05-15T09:13:09.515279",
   "available_dates": [
     "2026-05-15",
     "2026-05-14",
@@ -158,6 +158,11 @@
         "period": "morning",
         "file": "2026-05-15-morning.json",
         "period_label": "오전"
+      },
+      {
+        "period": "afternoon",
+        "file": "2026-05-15-afternoon.json",
+        "period_label": "오후"
       }
     ],
     "2026-05-14": [
@@ -1934,6 +1939,6 @@
       }
     ]
   },
-  "latest": "2026-05-15-morning",
-  "total_briefings": 296
+  "latest": "2026-05-15-afternoon",
+  "total_briefings": 297
 }
