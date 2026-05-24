@@ -1,16 +1,16 @@
 {
   "date": "2026-05-24",
   "metadata": {
-    "collected_at": "2026-05-23T23:27:39.381927",
-    "total_articles": 28,
+    "collected_at": "2026-05-24T08:54:47.976212",
+    "total_articles": 50,
     "sources": {
-      "korean": 10,
-      "international": 18
+      "korean": 28,
+      "international": 22
     },
     "sentiment_distribution": {
-      "positive": 10,
-      "negative": 8,
-      "neutral": 6
+      "positive": 23,
+      "negative": 14,
+      "neutral": 7
     }
   },
   "articles": [
@@ -725,6 +725,567 @@
       "collected_at": "2026-05-23T23:24:43.011061",
       "keywords_matched": [
         "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "95442975d2846206",
+      "title": "기후변화 속 서해 자원 지킨다…‘탐구 2호’ 가동[씨뷰어] - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVMtZzU0Z2swbjhXam5nN1dWMUZETlk2a2FnX0lLOTI5ZGM0VEV2OWQ5R0tvS1hGcXBuODdKUEtucmFsZFVnNGVJQTg3QjhFbm03XzgtRHdPOFprOXNJd0VqX0o2bzUtSlFNWnNKTkVjQ1ZQNlRybktYZnhLMXpEWg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T05:15:03",
+      "collected_at": "2026-05-24T08:52:26.403449",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "서해",
+          "자원",
+          "탐구 2호",
+          "가동"
+        ]
+      }
+    },
+    {
+      "id": "09534dfaf0d84fee",
+      "title": "\"기후위기 대응은 선택 아닌 의무\"···유엔, ICJ 권고 재확인[정리뉴스] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsa0U4X3FTZzUxUWllSTM3RVBDZXR4cURwdGlPUGktZkRSYWQ2ZFVvUUxHeXNCQlF4VjZCNkJGbkJzVkY4MmlqUzJKMmo5cWY5OVpV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T08:21:00",
+      "collected_at": "2026-05-24T08:52:26.403684",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응",
+          "의무",
+          "유엔",
+          "ICJ"
+        ]
+      }
+    },
+    {
+      "id": "bd7e9bca7f62db18",
+      "title": "인도 ‘48.2도’ 살인적 폭염에 열사병 사망자 37명 속출 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtRnBydFUxNlJTdnNISjFKcmdrMG1OaUlNT3VoX1RfVGJ3S19FRDFvVTMzMkdoUlduZkctM0YtOTAyTEZoWHY2TVFHcTlnUVMxOWZSOEpjTlRKb0gtSTdaZ0tnZnEzRzhJ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T02:21:32",
+      "collected_at": "2026-05-24T08:52:26.403844",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "인도",
+          "폭염",
+          "48.2도",
+          "열사병",
+          "사망자"
+        ]
+      }
+    },
+    {
+      "id": "59b2282e2682b24a",
+      "title": "거제·통영시장 후보 탄소중립·재생에너지 확대 ‘공감’ - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54MTZvRzBtRUVrdkEzeFJnUjdYbjRHT2RhY252Q184cWpVdTJkSkdTcnhZbzFNZF92R3ZDRG9ESGxiNWttU1p3TjVwTjJwOTg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T06:25:28",
+      "collected_at": "2026-05-24T08:52:26.455296",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제",
+          "통영",
+          "시장 후보",
+          "탄소중립",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "7951f692b1c623d3",
+      "title": "자전거·텀블러 이용…탄소중립 실천하고 ‘최대 10만원’ 혜택 - 미주중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BeWRkUk54QUVkcVhPNlhEcDU3bW1tcGRsUUh5R2QtTGlMYUtJRF9xU0s0Z3JtNmVLTEFrZmJzUllSMDBGV0NpWnhrN21ua2l2ZDhqODFzQlkxOWlBOW9zem9R?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-23T22:00:00",
+      "collected_at": "2026-05-24T08:52:26.455333",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "자전거",
+          "텀블러",
+          "탄소중립",
+          "실천",
+          "혜택"
+        ]
+      }
+    },
+    {
+      "id": "2fb1dc1773ed6877",
+      "title": "남부발전, 대한상의와 탄소중립 실현·에너지 대전환 가속화 - 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10bGVYVGdtRFlMejBWRnI0WjZaSWxVcDdONy1nRG1pcy1rTzRxZm1xZmI1SFBkVWF3LUNNdUlMNmEydV9xVTZKZUc3MDRqUXl5X3Zzd2VRTdIBsAJBVV95cUxQdnJTSEJkdG1Rc2JaWGZVTEJiQmxVVmxnaHBrTGVWUVFnZXBQV2IxSzhsVnZnMFVyZmdVbzVISFYwMmIzVnRtVmJIdm5aYTl6WW5Oekl2MDIxeHM1bl9mTTFaQk9vMkF1dURPaGpRZ2pTNHRIRWhiUFVtTHJVVU5ReVFuTC1CenhWY0lZLUZFbnJfbVpBOVJtVjJJVV81SjZJYlRKeHJ5UnkxbmIwU2JGSHhLdV95cXYxRGFLUE9xSGdGbDRHaVFLMjhMRmxobU5VMmlCU1h3NExwSy0yR0VVWk5lczRtMkFERGhLSTZOMnRTUU5abWZJVElfWmxHWXdsWVpNenYySGc5cTNYUWl5aWkydV9jR0g4UGNuMzIzc3ZLendYX0FxREJzRVZtbXVT?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-23T23:42:00",
+      "collected_at": "2026-05-24T08:52:26.455364",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남부발전",
+          "대한상의",
+          "탄소중립",
+          "에너지 대전환",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "92ca8da43ea55a3c",
+      "title": "[보도설명자료]「'탄소 중립' 강조하더니...내년 기후대응 예산, 계획보다 16% 삭감」(9.22., 한국일보) 보도 관련 - 국가기후위기대응위원회",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSjdTX2EzZHNxcjdTbWdxZE1GeWNhRmJ3am5BQnVLX1lTc2JfNjUzOERVNHU4c01zY2JtRkZGMmZ3LWZQcHczYmhESWY0Q0F2dnRpcGVnTHFMM0FBNzJSTXh5ZHk5NDcxOG5XN3F6cnJXc3cxWGRMTTcxRkx4cVM2UTdrX3pIdkl5T3ItUjJ4Mll4X0pSX1VZcHdUWGstbmtYdGFqQXZuRnFuY2lsOTBCZENlRDNpUXlkUjFJek1HR3gtYzRrYW9QM19PYzRnVkg4R3BmdkxR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T02:48:20",
+      "collected_at": "2026-05-24T08:52:26.455488",
+      "keywords_matched": [
+        "기후위기",
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e69d62b4e1855027",
+      "title": "거제시, 거제대학교 축제서 탄소중립 실천 홍보 - 진주뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLWG9HNDVlQmsyd0dFVTcxZm5naDhXRmQxaDIycU1wX3A2Y05hemJBcnV0SEZZWG5wWUhEN0tMVi1wMi1oX2ZxeGVkUFN0ZW1vcnpBN1BpTUJTUXRXSFZYbUo0ZVlvcFByU1E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T01:44:13",
+      "collected_at": "2026-05-24T08:52:26.455543",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "거제시",
+          "거제대학교",
+          "축제",
+          "탄소중립",
+          "실천 홍보"
+        ]
+      }
+    },
+    {
+      "id": "ed7748e425fa8b78",
+      "title": "산은법 개정안 3건 계류…‘탄소중립·균형발전·부산 이전’ 역할 확대 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OY3dWVUx6a0o2VkQzQXdwVWhQeGhCaEd1TFlYYjZqLS1DQUpwYTdDMDN4SjZvU1FzV3ZHbVBNa282Rnpxb2FXazc4QlMxTGE5eUVxQjdzMHFlUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T01:49:00",
+      "collected_at": "2026-05-24T08:52:26.455570",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "산은법",
+          "개정안",
+          "탄소중립",
+          "역할 확대",
+          "균형발전"
+        ]
+      }
+    },
+    {
+      "id": "f82f77a36371ef3c",
+      "title": "탄소중립 실천 나선 한성자동차…횡성 숲체원서 구상나무 600그루 식재 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13bWJxamFmdGtCSTlJVVhublJ2VWp6ejVKSExYcEt1NG0yYlBfV0lXa3lnMHhrY3R3by1ncGQyOG0zX28zMWVjeERsdE9jdHRQRVkxZThOSllYSGtlTmh4RGR3OXBFUjk0QUJ1cUxnQktRVDjSAXdBVV95cUxQaDE4WWpoMVNDOWxwY0cxQV9JRG43bzVsek5yZ2pXazFJTFAxN0RBLWVwMWxCbEVGcC1UaHVZQ3FybE84Z3pPbmxZdWRsZ3M1azdNTlpzOHJyMURyVFFVM21rb1BucXdtRFFSRlpndWhkUjR1VXE2RQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T08:40:28",
+      "collected_at": "2026-05-24T08:52:26.455597",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "한성자동차",
+          "구상나무",
+          "식재",
+          "횡성 숲체원"
+        ]
+      }
+    },
+    {
+      "id": "3dbf7438fe0c8e86",
+      "title": "대한상의–한국남부발전 ‘탄소중립과 에너지 전환 협력 업무협약’ 체결 - 마일드경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KUHg1by0wcC1zTFliWUdSVng3TGFad0FGdURhX01XOXNpRnBKSmZkY2FaQ2YwU1VTVl9xcjhJQ0VERnpIZmtMNEhoM3JyeWMtVU42T05mOHlRUUpwYzNuSUlsNlJpcEMySnBn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T03:09:09",
+      "collected_at": "2026-05-24T08:52:26.455644",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대한상의",
+          "한국남부발전",
+          "탄소중립",
+          "에너지 전환",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "f1d5af0df5c783b8",
+      "title": "‘재생에너지 중심지’ 새만금에 원전 공약…환경단체 “시대착오적 발상” - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TNkNWb2FCVlVrb0ZMT1NYd3NjOGFKMFhhMXhqb2tQUjktNUtCa0ZlNUhrMWg0M1pyV0NmcGg2UmxlbzNGVXR4NkRtSFBRT21lcnZ4bHpvakk5a3FFVzJYcg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T07:44:00",
+      "collected_at": "2026-05-24T08:52:26.348111",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "새만금",
+          "원전 공약",
+          "환경단체",
+          "시대착오적"
+        ]
+      }
+    },
+    {
+      "id": "c68e2556f08cb72f",
+      "title": "원전 vs 재생에너지…여야 에너지 공약 ‘극과 극’ [창간기획] - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZLUlSblVBaWo4d1M4b1otUXNEUWFuOW1laktFOGYtVDdNOGxBU1V0bkFnMVJfZldQTllrSnhYekZrV0h3blhXYThzVC01bXZTRTdmV3htcUlVaTUwdVE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-23T21:00:00",
+      "collected_at": "2026-05-24T08:52:26.348159",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원전",
+          "재생에너지",
+          "여야",
+          "에너지 공약",
+          "극과 극"
+        ]
+      }
+    },
+    {
+      "id": "25175a0136733fbb",
+      "title": "기후부, 재생에너지 간헐성 줄일 '차세대 ESS' 개발에 박차[이영민의 알쓸기잡] - 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWpqQldScEhnVDFtNmpUUFkxM0U4MzIta0lhZERBSzZuWFpJZ2NNc0ozYWF0ZHdyd041aVlJdzdjVGN4MkNUcldQNDJPYy1Uc3UzZGI4eExNcjUtMEVqVTdSNFZ5a3R6S09lRXdhNnpoMVlyazdIaHBWM1dqbmlsQg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T01:00:04",
+      "collected_at": "2026-05-24T08:52:26.348234",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후부",
+          "재생에너지",
+          "간헐성",
+          "ESS",
+          "개발"
+        ]
+      }
+    },
+    {
+      "id": "e4afacde26c3be16",
+      "title": "[에너지이슈] 전남 3.12GW 태양광 프로젝트 가시화…장흥 400MW 발전사업허가 획득 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbGxuRmE4OEhOdGc2Z1ZsZ01oMTE4M1Z2cGF0MGlqUFhkQS1jdTdXLXBLaGN5amVISENCdTlOUVRFVzRnTi1qeV9NeEJqME40MHVIRHVDZ01qZnpvS0M3WEVTWlpsYzg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T08:10:41",
+      "collected_at": "2026-05-24T08:52:26.348379",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남",
+          "태양광",
+          "프로젝트",
+          "발전사업허가",
+          "가시화"
+        ]
+      }
+    },
+    {
+      "id": "6196f010b39a50a5",
+      "title": "재생에너지 ‘지산지소’엔 큰소리… 삼전 가는 송전망 피해엔 침묵하는 후보들 - 한겨레21",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUWtUNXk3MEpURWY2S2J6WGhxRVBSYkRudEY1WXAzb3RneXl0VEVWb3dQVGZBRTZxdHNBOFB0QjloZklrZ2FUZUlfUGRvdWVicmdEOXpBdVc4VkM1OFFWaUxnSDczWlc5Ymc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-05-24T04:59:00",
+      "collected_at": "2026-05-24T08:52:26.348636",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "지산지소",
+          "송전망",
+          "후보들",
+          "침묵"
+        ]
+      }
+    },
+    {
+      "id": "d4186219baf6d6cf",
+      "title": "[정리뉴스]“기후위기 대응은 선택 아닌 의무”···유엔, ICJ 권고 재확인",
+      "link": "https://www.khan.co.kr/article/202605241720001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-24T08:20:00",
+      "collected_at": "2026-05-24T08:52:27.336178",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔",
+          "ICJ",
+          "기후위기",
+          "법적 의무",
+          "유엔 총회"
+        ]
+      }
+    },
+    {
+      "id": "365129e871717831",
+      "title": "EU의 중국 견제에 유탄 맞은 한국 철강…정부 협상력과 친환경 제품에 미래 달렸다",
+      "link": "https://www.khan.co.kr/article/202605241434001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-05-24T05:34:00",
+      "collected_at": "2026-05-24T08:52:27.337019",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "EU 철강 관세",
+          "한국 철강 산업",
+          "중국 저가 철강",
+          "친환경 철강",
+          "정부 외교력"
+        ]
+      }
+    },
+    {
+      "id": "7f9461a6acd3a14e",
+      "title": "Could Bradford's children lead the way on climate change? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uZThnODktMzNPLUVSb1N6V1U5NjNKVFlMZk9xOHJRVEM5YnZqYTRNOTUwZnVjN1Q5eE5lUXRjVk1mazNnQ1NBTFJOR19Qc3FiYlFtSHFobzZ1UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-24T08:35:43",
+      "collected_at": "2026-05-24T08:52:27.783478",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "브래드포드의 아이들이 기후 변화에 앞장설 수 있을까?"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "브래드포드",
+          "어린이",
+          "기후 변화",
+          "선두",
+          "미래"
+        ]
+      }
+    },
+    {
+      "id": "d7fb8b783e4c4cfc",
+      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTZnOGRFMnk4aUJTaWt1SGxaUDFPWlU4ckdMM1lvc05fZWNwbkRIbEFEd2hqbW9fWDN4QUpKaXN5MUpQZjBDZHlYY0J4OEdhSUFuQ2gzNkFvVTFwVUV5WWlvWk1xRExpc1dGMkNZVjE4NkFVMV96cE5yTXhEZzBRZFlPZjc3YWYzQXJSQm5lamtQNXlibUEzUWI3RGNSOTZUWVFoeTRNbEZYQTJyTV93dEF4cHFMN2dBWlFOUnp6OHg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-24T04:01:15",
+      "collected_at": "2026-05-24T08:52:27.783513",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "콘크리트 주형이 폭탄과 기후 변화로 파괴된 산호초를 되살릴 수 있을까?"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "산호초",
+          "콘크리트",
+          "복원",
+          "기후 변화",
+          "폭탄"
+        ]
+      }
+    },
+    {
+      "id": "46b88e357805cb97",
+      "title": "Climate change could destroy thousands of plant species by the end of the century - scientists - Українські Національні Новини (УНН)",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdEhSZE8ybXBGaW9sX1dWcFN3UzFVUEhPZl9rRklyVWVRU1VoblgwSWViTzgzeFJZQS1pQ2EyaFZoNFBsQ1FQX3A3TG9sSzktTTd3aUlnbm11Yjd0d1BTWWZtNFVlVW1qdktla1lVdk1fOTJSNWNhdU1rWHAxX1RJc2lLdE9iVXFoczdiMDFaaE1jYVY1aS02Q2Vpb2ZxTEhMTEtJcmo0LV9nWG5JUm9td1lMMXZyd9IBtAFBVV95cUxNbl9aUmowb3lESEtnLWZkMG1UOXBEV1hjWG5JZ0FQNEFTOVBfWUc0MVFIUzltYXhjLUhuLXFBZEdKUkxZUVhQRWMxakpCX09kbDBkVTg4U1RodlplZ2hUQmhNOThKbmIwTmZUZHBPYzVDcDZndU93YmpHOEcyQU11b3pqak9ocjhyTVgtZzAtMVp5ZzNvajBFZDMyd1FSb0hXcXdhTlVRSG41UmxXLUc5WjJQMWM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-24T01:35:09",
+      "collected_at": "2026-05-24T08:52:27.784125",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화는 금세기 말까지 수천 종의 식물 종을 파괴할 수 있다 - 과학자들"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "식물 종",
+          "파괴",
+          "세기말",
+          "과학자들"
+        ]
+      }
+    },
+    {
+      "id": "fb137b9a1a34b736",
+      "title": "Why dropping the worst-case climate scenario does not undermine the reality of global warming - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWDB0SU9SdWgwNEJwWHhrQkpMQjZyclEzQVNWTDZSVkpHQU5sRHJWYzN3S3ZpU3pMaWdGX1ota3NWVV9JWXE0X2I1NmFEUFFJSTR5MXBpRnFQcDlwLUVBUnlzOG9valRGQTlXVDhfUzhRcWFWRTE1Nk8yV2NPZWhNWDNVemtqZkMya0FxcWNnNmlzOFZ4X1k0SmxuUHlfRy14LWd2UGZmRXVqazdvcHlXcXdnUEo3SkEwcmJxOFJsRllsRUt1SUIwR2hsb0xJXzBJYlJBR2U4OWxQTWR3U3lhakZFMVJPOTVsRFpMOGQwRnJrR3RLeWJmVXZiRQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-05-23T23:30:50",
+      "collected_at": "2026-05-24T08:52:27.784240",
+      "keywords_matched": [
+        "global warming"
       ],
       "translation": null,
       "sentiment": null,
