@@ -1,0 +1,927 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T23:32:30.529268",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 5월 31일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 국내외 기후 위협 심화 및 경고",
+        "content": "오늘 국내외에서는 기후변화로 인한 심각한 위협들이 보고되었습니다. 국내에서는 기후변화로 인해 식중독 시즌이 빨라지고 살모넬라균에 대한 경보가 발령되었으며, 미래에는 물 부족량이 현재보다 8배 급증할 것으로 예측되고 있습니다 [1, 2]. 국제적으로는 약 100만 년 전부터 남극이 기후 변화에 훨씬 더 민감해졌다는 연구 결과와 함께, 튀르키예는 기후 변화와 인구 증가로 인한 담수 부족 위험에 직면했습니다 [28, 31, 37]. 또한, 기온 상승이 심장병을 포함한 인간 건강에 더 큰 공중 보건 위협이 될 수 있으며, 식물 생명에도 실존적 위협을 가한다는 경고가 나왔습니다 [34, 35, 36]. 이러한 보고들은 기후 위협이 우리 생활 전반과 생태계에 미치는 광범위한 영향을 다시 한번 상기시켜 줍니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제 기후 정책 및 연구 동향",
+        "content": "국제 사회에서는 기후 변화 대응에 대한 정책적 논의와 함께 다양한 연구 결과가 발표되었습니다. 특히 미국 증권거래위원회(SEC)가 기후 변화 관련 정보 공개 규정을 폐지할 것을 제안하며, 이에 대한 비판적인 사설이 발표되는 등 정보 투명성 확보에 대한 우려가 제기되었습니다 [25, 27]. 한편, 기후 변화의 흔적을 통해 새로운 시대의 폭풍 대비 중요성이 강조되었으며, 아마존 나이테 연구를 통해 기후 변화에 대한 새로운 정보가 밝혀지고 있습니다 [29, 32]. 아시아 태평양 지역에서는 기후 변화와 무국적 상태 간의 연관성을 이해하고 대응 방안을 모색하는 움직임도 포착되었습니다 [33].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌱 국내 탄소중립 실천 및 교육 확대",
+        "content": "국내 여러 지자체와 기관에서는 탄소중립 실천을 위한 활발한 움직임을 보이고 있습니다. 서부평생교육원, 용인시, 경남교육청 등은 환경교육주간을 맞아 탄소중립 실천 캠페인 및 환경교육을 운영하며 시민들의 참여를 독려하고 있습니다 [4, 7, 14]. 광명시의 '1.5도 기후의병'은 햇빛발전소 탐방 등 현장 학습을 통해 생활 속 탄소중립을 이끌고 있으며 [5, 10], 청주시는 시민 챌린지 '오늘도 그린'과 '초록빛 레이스'를 통해 탄소중립 실천을 독려하고 있습니다 [8, 9]. 용인시는 경전철 이용 시 지역화폐를 지급하는 등 탄소중립 실천 혜택을 확대했고, 현대백화점은 장바구니 사용 인센티브를 제공하는 친환경 행사를 진행했습니다 [13, 15].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 국내 재생에너지 전환 가속화 및 산업 동향",
+        "content": "국내외적으로 재생에너지 전환과 관련된 긍정적인 소식들이 이어지고 있습니다. 유럽의 최대 데이터센터 허브는 재생에너지 접근성을 경쟁력으로 삼는 전략을 추진하고 있으며 [16, 24], 국내 남부발전은 2040년까지 총 11.2GW 규모의 재생에너지를 보급하겠다는 목표를 발표했습니다 [17]. 서부발전은 신재생에너지학회로부터 '산업진흥대상'을 수상하며 역량을 인정받았고, 중부발전은 세종시에서 태양광 사업을 추진하는 등 발전 공기업들의 에너지 전환 노력이 활발합니다 [18, 19]. 또한, 이재명 정부는 '재생에너지 르네상스'를 가속화하며 발전 공기업들이 '산단 태양광'을 통해 RE100 목표 달성을 추진하고 있으며, 당진 지역에서는 석탄 대신 재생에너지를 활용하자는 '기후 협약'이 맺어지기도 했습니다 [21, 23].",
+        "tone": "positive"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후 위협의 심각성과 함께 이를 극복하기 위한 국내외의 다양한 노력들을 보여주었습니다. 지속 가능한 미래를 위해 모두의 관심과 실천이 더욱 중요해지는 시점입니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "기후변화에 빨라진 식중독 시즌…살모넬라 경보 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QenVPTmVFbDY5QmRxWkl1N1FqSUNwcDRBSjhjMWRkWTRiZERnRDdTdFlMVGdLaloyY1dOLUhCeTdGa2NQdWNDUE5Yb3JmVGVzcEEwRzJNVVRHck1YYkZsVjdHZXpLQnVOWG9FdUVmRUvSAXRBVV95cUxQcnAwcjIzOGE3cmV6WjNYRmR6OUFXNUZ3cU1KcXNxaThPYUhpb1lsN0VxNFJhZHlSczFZQWd2N21ESHYxbU1JbXdRbTVPaGQwWFNSbXBpVng5dlVyWkdIdmhOX2doYUNXdHp0TmRpRENDSXFKVA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-31T11:10:00",
+      "description": "기후변화에 빨라진 식중독 시즌…살모넬라 경보 이뉴스투데이",
+      "summary": {
+        "phenomenon": "기후변화로 인해 식중독 시즌이 빨라졌으며, 살모넬라균에 대한 경보가 발령되었다.",
+        "cause": "기후변화가 식중독 시즌을 앞당기는 원인으로 지목되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "식중독",
+        "살모넬라",
+        "경보",
+        "시즌"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "기후변화 땐 물 부족량 8배 급증…필요 재정도 6배↑ - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16aFhWaWVaUHZYdmppcnNFcTZKV1pmNWQ2QUZPeGM4NFczQ0FrLXdGZzFpSm9FNU5pWGt4UEF0Q2toTWdvYTZhSGJwT1A0VmdYUlRZ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-31T08:32:00",
+      "description": "기후변화 땐 물 부족량 8배 급증…필요 재정도 6배↑ 네이트",
+      "summary": {
+        "phenomenon": "기후변화가 발생할 경우 물 부족량이 현재보다 8배 급증할 것으로 예상된다.",
+        "cause": "기후변화가 물 부족량 급증의 주요 원인으로 제시되었다.",
+        "outlook": "물 부족량 급증에 대비하기 위한 필요 재정 또한 6배 증가할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "물 부족",
+        "재정",
+        "급증",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "북극해, 2009년 이미 임계점 넘어 불모의 바다로 - ESG비즈니스리뷰",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQ0VfT1k4TzNkdUxLTVdmNDFqYk44QWpTVEZPNHJ4MUZkSFBFNDJILUtyLVpMRzR3R0k2QzRXVUludHlDTVRTUkVFbVBvVEdQWWJUdnhRakNWeEwyU08tamlBLUliWXRsYlBpZFdEdklWeDQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-05-31T09:24:52",
+      "description": "북극해, 2009년 이미 임계점 넘어 불모의 바다로 ESG비즈니스리뷰",
+      "summary": {
+        "phenomenon": "북극해가 2009년에 이미 임계점을 넘어 불모의 바다로 변했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "서부평생교육원, 환경교육주간 맞아 '탄소중립 실천 캠페인' 전개 - 중도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DZkc2VmdnMVZ2ZTdqVGkxeWJlRlpiMk1MTzNjeElreElpUXB6ellwRENfd1l0cXJDUUtKdGNyYTdvdVg3MjVQMm5XSkdYa3RVVk00M2pkSnk0UWdFV0lrWlNtMDg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T15:02:22",
+      "description": "서부평생교육원, 환경교육주간 맞아 '탄소중립 실천 캠페인' 전개 중도일보",
+      "summary": {
+        "phenomenon": "서부평생교육원이 환경교육주간을 맞아 '탄소중립 실천 캠페인'을 전개했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부평생교육원",
+        "환경교육주간",
+        "탄소중립",
+        "실천 캠페인",
+        "환경교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "광명시 1.5도 기후의병 40명, 햇빛발전소 등 탄소중립 현장 탐방 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FSGctSXhOLUw5R2lORkQ2SldDaDVReHdYckVIVDdfOUxwamFfSmpuY3lVVmFjbnpEUk4tZHVzc016UkwyZmxjSzhXNDRTUQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T16:50:43",
+      "description": "광명시 1.5도 기후의병 40명, 햇빛발전소 등 탄소중립 현장 탐방 전자신문",
+      "summary": {
+        "phenomenon": "광명시의 '1.5도 기후의병' 40명이 햇빛발전소 등 탄소중립 현장을 탐방했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "기후의병",
+        "탄소중립",
+        "햇빛발전소",
+        "현장 탐방"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "[환경부] 국립생태원, ‘기후변화, 탄소중립, 생태 이야기’ 발간 - 국가기후위기대응위원회",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWk1JOEdndTloM2VfblN0SXY1UjdhXzlyZXkwY2hDUzRxUmJVY0F3cE8tUjAwb3d4bjdIVkdjZ3RsLW5yMkFHc0JkQTVCYVhqUVp1bkczc3JyZzR6b3p0VkJ5elNLVFVaYVVoNkVFbjNOTC15X3hJR1gzckFxVFJOdnhsWHRPcm1TWE8tUjc5SGVqZURfWTN0NUF5ZTVIeU9RQy1Qa0NUZEhsVzNtUUNvZVFXSkh3dGxwTDZfV2hjcEh5YjI1aFRtbFltbUc0R053YXdiZDhCRFMwblpsc2hWN1BWUGFpQ0E3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T11:06:25",
+      "description": "[환경부] 국립생태원, ‘기후변화, 탄소중립, 생태 이야기’ 발간 국가기후위기대응위원회",
+      "summary": {
+        "phenomenon": "국립생태원이 '기후변화, 탄소중립, 생태 이야기'라는 자료를 발간했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화",
+        "탄소중립",
+        "생태 이야기",
+        "국립생태원",
+        "국가기후위기대응위원회"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "용인시, 환경의 날 맞아 탄소중립 체험·환경교육 주간 운영 - 데일리엔뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03dXdVeV9BQmFnSDhycGV4VmdWamhMdWowdnBtVGpTSkhRTDNvcWpCZk8tblIzMXJVN1NfM0xNcEprQmQzWDk1TDhzOGRzSFFIZ0x6ZVEwRE5Udw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T22:28:53",
+      "description": "용인시, 환경의 날 맞아 탄소중립 체험·환경교육 주간 운영 데일리엔뉴스",
+      "summary": {
+        "phenomenon": "용인시가 환경의 날을 맞아 탄소중립 체험 및 환경교육 주간을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인시",
+        "환경의 날",
+        "탄소중립",
+        "환경교육",
+        "체험"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "청주시, 6월부터 11월까지 탄소중립 시민 챌린지 '오늘도 그린' 추진 - BBS불교방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSci1mRnR4b0F5VGp2WEtHMm92aXNpQzloUUtzSFpESHVQbzk3Y1NaLVRJUVJISUthck5Ra1RJcmFnbXdRdXdFUm5jTkZrNGJHenBVTktsV1lsZ25vUkM5R3NDRGdmNFBwejc4?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T22:37:53",
+      "description": "청주시, 6월부터 11월까지 탄소중립 시민 챌린지 '오늘도 그린' 추진 BBS불교방송",
+      "summary": {
+        "phenomenon": "청주시가 6월부터 11월까지 탄소중립 시민 챌린지 '오늘도 그린'을 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "청주시",
+        "탄소중립",
+        "시민 챌린지",
+        "오늘도 그린",
+        "추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "“매월 미션 깨고 경품도 받고”… 청주시, 생활 속 탄소중립 ‘초록빛 레이스’ 막 올렸다 - 타임뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jS2Q4TElJOV9HQjRQQ3d5SHFuM0w4QUFqSXBmTWEwVVEzeXpjb0U0OHp5SVhpeTdET1VZWUgzS2Y3ZnlYWkxtQXA5LVBLOEJkM3lweQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T23:18:36",
+      "description": "“매월 미션 깨고 경품도 받고”… 청주시, 생활 속 탄소중립 ‘초록빛 레이스’ 막 올렸다 타임뉴스",
+      "summary": {
+        "phenomenon": "청주시가 생활 속 탄소중립을 위한 '초록빛 레이스'를 시작했으며, 참가자들은 매월 미션을 수행하고 경품을 받을 수 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "청주시",
+        "탄소중립",
+        "초록빛 레이스",
+        "생활 속",
+        "미션"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "광명시 기후의병, 현장에서 배우고 생활 속 탄소중립 이끌어 - 경기경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EZG11dDFBOU9yTU5uVTZCM19JcFhyYXdScjc0ck41VkhXVVVZUmRlYWljSW01Nm91Nl9rMmtoNDZQWi1QTG9rbExGempkZllXNk1kRnNiOXNmeDNzUXNqeg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T13:32:55",
+      "description": "광명시 기후의병, 현장에서 배우고 생활 속 탄소중립 이끌어 경기경제신문",
+      "summary": {
+        "phenomenon": "광명시 기후의병이 현장 학습을 통해 생활 속 탄소중립 실천을 이끌고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "기후의병",
+        "탄소중립",
+        "현장 학습",
+        "생활 실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "새홍천로타리클럽 탄소중립 환경정화 - 강원도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RSk1FZ0JqcmZicUFGTFNsRlFSTU14MDQwaG1SSEE5Q0I5TXcwbFdSbGpXMGpoS3lWOWF1aEdrYi00cGtZSUd0SXQ3MDVvVF9GNDNIWndDczhJR09IZmtEQzVGcG16M00?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T15:02:01",
+      "description": "새홍천로타리클럽 탄소중립 환경정화 강원도민일보",
+      "summary": {
+        "phenomenon": "새홍천로타리클럽이 탄소중립 환경정화 활동을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "새홍천로타리클럽",
+        "탄소중립",
+        "환경정화",
+        "로타리클럽",
+        "환경보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "성광진 “대전을 학교·마을 잇는 탄소중립 교육도시로” - 비알뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yTE1mekMwRHQtT2JRSGNSRXVBZU8tajF5ck45dWpOS2tRVFMtcEVTcjdhZ2p4VW9PRlZiaFRqeWlzM2lZVjlKcjc3SlZDTE1oOHZHclRXOFY4MkNlQ2RycGszeXkyTzZzRHc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T08:45:00",
+      "description": "성광진 “대전을 학교·마을 잇는 탄소중립 교육도시로” 비알뉴스",
+      "summary": {
+        "phenomenon": "성광진이 대전을 학교와 마을을 잇는 탄소중립 교육도시로 만들겠다는 비전을 제시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성광진",
+        "대전",
+        "탄소중립",
+        "교육도시",
+        "학교·마을"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "경전철 타면 지역화폐 쌓인다…용인시, 탄소중립 실천 혜택 대폭 확대 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9GbkFTdkZ2ODVsdWRRZmE2WlY1cHI3OEVVZmc0b2xXWDBBS0lyMnRjLW1WQU1iX2p0akFGV19wd2lQblU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T21:49:00",
+      "description": "경전철 타면 지역화폐 쌓인다…용인시, 탄소중립 실천 혜택 대폭 확대 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "용인시가 경전철 이용 시 지역화폐를 지급하는 등 탄소중립 실천 혜택을 대폭 확대했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인시",
+        "탄소중립",
+        "경전철",
+        "지역화폐",
+        "혜택 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "\"탄소중립 모두가 함께해요\" 경남교육청, 제5회 환경교육주간 운영 - 한국정경신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHR3ptbzdVblgxall4MmtxSHNYcUI1MjV3ZkVWcnM2ZU1feHVyTTVwOGYxT2FwNkJJUUhZSTBtU3o0b1BZN21YSWFSTnZNU0lHa2c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T11:04:29",
+      "description": "\"탄소중립 모두가 함께해요\" 경남교육청, 제5회 환경교육주간 운영 한국정경신문",
+      "summary": {
+        "phenomenon": "경남교육청이 '탄소중립 모두가 함께해요'라는 슬로건 아래 제5회 환경교육주간을 운영했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "경남교육청",
+        "환경교육주간",
+        "환경교육",
+        "참여"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "장바구니 쓰면 인센티브 드려요… 현대百, '환경의 날' 친환경 행사 - 파이낸셜포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9teGtseG1EUjI3TlVBeXI5STJhZTdLVl81SVZ6MGg2RHZPLTdRU25MYXhzNUo4QXRTdnc2MmNNdHVmY0VKZkpKWXBNOThHaDU4VEFkQlhYTGZrYjgzUmNqSUhkZ2d5Y3psMHMyZ3RyaTIwSkth?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-05-31T09:20:38",
+      "description": "장바구니 쓰면 인센티브 드려요… 현대百, '환경의 날' 친환경 행사 파이낸셜포스트",
+      "summary": {
+        "phenomenon": "현대백화점이 '환경의 날'을 맞아 장바구니 사용 시 인센티브를 제공하는 친환경 행사를 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "장바구니",
+        "인센티브",
+        "현대百",
+        "환경의 날",
+        "친환경 행사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "\"재생에너지 접근성이 경쟁력\"…유럽 최대 데이터센터 허브 전략 보니 - 머니투데이 - 머니투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uYXZXYzZLeUZWc3Z4QjV5MTJLTmdLVS01dXBTRnhMTmw3WU9XZC1CaF9XZmpoUkxLZl9SMWVJU0drQ0VZT3JSb0V5Z1ZrZndKYS13T0pmcW8yZzFYNUh1TG1nWGRwd3pTRnR0TdIBckFVX3lxTFBucWNzZjBzTjYzdFZWSWVxYTgwMldJN2tIcVhUb2tvX3dPZ0tCa1BuTHBVQ2ZUMXFHRG5wa29DelYyT3AtbUdRSjZBb2RROEhLVkNXcjBVdWJQdURoc2hIaTJtUmJjOXhBaDg0UGlQenNzQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T19:20:00",
+      "description": "\"재생에너지 접근성이 경쟁력\"…유럽 최대 데이터센터 허브 전략 보니 - 머니투데이 머니투데이",
+      "summary": {
+        "phenomenon": "유럽 최대 데이터센터 허브가 재생에너지 접근성을 경쟁력으로 삼는 전략을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "데이터센터",
+        "경쟁력",
+        "유럽",
+        "전략"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "남부발전 “2040년까지 재생에너지 총 11.2GW 보급” - 부산일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2azhvTWdRcUNrbEszV2xCTmZZXzJQOE0zNmVhLWdCSG1mMzlkX2Nyc0sySkRabXUtY0RsT0pOTkIxYzNWNmt2WjJUR2ZJUnZCY2lvWjEtb3hxWE9rdzZQUDBqcW9ILWFUSVFTU3pQRjFrX2Q4?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T11:08:59",
+      "description": "남부발전 “2040년까지 재생에너지 총 11.2GW 보급” 부산일보",
+      "summary": {
+        "phenomenon": "남부발전이 2040년까지 총 11.2GW 규모의 재생에너지를 보급하겠다는 목표를 발표했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "남부발전",
+        "2040년",
+        "재생에너지",
+        "11.2GW",
+        "보급"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "서부발전, 신재생에너지학회 ‘산업진흥대상’ 수상 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BclE0c3d1VEVxS2pDME04OXZ0cXRoWWpTYTRuSGFOaTBDYWw3TWxhTk8ydWxQM24wTXdWWkNuVVJVZ2lrenBWczBqdWpWeHBZblJTRVVTYW1GdnhvdU1USHZRMDU4X3M?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T14:49:57",
+      "description": "서부발전, 신재생에너지학회 ‘산업진흥대상’ 수상 산경e뉴스",
+      "summary": {
+        "phenomenon": "서부발전이 신재생에너지학회로부터 '산업진흥대상'을 수상했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서부발전",
+        "신재생에너지학회",
+        "산업진흥대상",
+        "수상",
+        "신재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "지역과 함께 에너지전환…중부발전, 세종 태양광사업 추진 - 에너지타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtdWx6WTV0bHQyWTNYLWNyS19jajAwb2w1enZVR05DWDFHcXN3dm1hS1dSTkN6RDAxRllwMHVaVHVHTGliN2pkdHRySnlUbjU0Z29OQWw1aEtDeG9EYUhPSUdUaFZDMHBPcXQtXw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T22:47:00",
+      "description": "지역과 함께 에너지전환…중부발전, 세종 태양광사업 추진 에너지타임즈",
+      "summary": {
+        "phenomenon": "중부발전이 지역과 함께 에너지 전환을 목표로 세종시에서 태양광사업을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "에너지전환",
+        "중부발전",
+        "세종",
+        "태양광사업",
+        "지역"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "상주시, 신재생에너지 융복합지원사업 준공시설 현장점검 실시 - 데일리한국",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDbk9tOEhUbFBncnNIYmdVb1BFWFlpRHhXY2xGOGV3SEhQbllUWEszaFpPcUI4bTd1a2tjQzktdEd6RHgzVF83VlQ2Q0pLTVFxQV84V0tnR2hZVEV1Z2tPOXVnYWJHZW91bk9IQlM2TdIBc0FVX3lxTE9UQUFJUlhlYWQ3VGVPSU0wa2RfVkdrV2JWcHJnSy1XZWJDYWZPemVGX1V1YlU0SkU5aHRMdDZBdDVkZ01LY0ZZMlF5THEwTVdtMTBEbXFuSVhDSmZ6ZHJjY0xLNkhnTXJPZGdNLTFnSF9xaGM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T23:00:54",
+      "description": "상주시, 신재생에너지 융복합지원사업 준공시설 현장점검 실시 데일리한국",
+      "summary": {
+        "phenomenon": "상주시가 신재생에너지 융복합지원사업 준공시설에 대한 현장점검을 실시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "상주시",
+        "신재생에너지",
+        "융복합지원사업",
+        "현장점검",
+        "준공시설"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "\"당진의 미래, 석탄 대신 재생에너지로\" 김기재 후보, 시민사회와 '기후 협약' - 디트NEWS24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GaHBoeWV6aHpqQk1aMy1Qb1c0OUdYRndndXIxdDhKbWVXV0trZ21GY3E5UEUwdzRQUmlmZTBOUElVVHRpTzhFVHlNSk9CYTF1TkJNMGVxYzlyMEFCR18xN3gzSUdUODZQeGQ0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T23:00:51",
+      "description": "\"당진의 미래, 석탄 대신 재생에너지로\" 김기재 후보, 시민사회와 '기후 협약' 디트NEWS24",
+      "summary": {
+        "phenomenon": "김기재 후보가 시민사회와 '기후 협약'을 맺었다. 이 협약은 당진 지역의 미래를 위해 석탄 대신 재생에너지를 활용하는 내용을 담고 있다. (구체적인 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "당진",
+        "재생에너지",
+        "석탄",
+        "김기재 후보",
+        "기후 협약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "상주시, 신재생에너지 융복합지원사업 준공시설 현장점검 실시 - 한국미디어뉴스통신",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15cy1Scl9Ra3dRUVp0cUxUMGtSeUZPMzN3RGQ0QVdNR0FJTm82bW5XV1pFa3ZGaFNUT2RWd2tHWUVrNE9JQTJoRDNYUjM3NTBHbEtleFBFZnV2aEM4eE9lUkdKQ3NiZVBGR1hhNw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T22:52:18",
+      "description": "상주시, 신재생에너지 융복합지원사업 준공시설 현장점검 실시 한국미디어뉴스통신",
+      "summary": {
+        "phenomenon": "상주시에서 신재생에너지 융복합지원사업의 준공시설에 대한 현장점검이 실시되었다. (구체적인 시점, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "상주시",
+        "신재생에너지",
+        "융복합지원사업",
+        "준공시설",
+        "현장점검"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "[에너지이슈] 이재명 정부 ‘재생에너지 르네상스’ 가속페달…발전 공기업, ‘산단 태양광’으로 RE100 정면 돌파 - 산경e뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2U2RYeWVrNTllb2dRRlZLS3JBeGRLdEJrQko1OFNWY21hdDlDQmVsc3BicVJfSEJlV3Y5UUFsNmJzeERzeVp3QldVVnRZTXhIYVZrQk5KbmZRQkpYUEtId1o1RndoVTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T13:42:00",
+      "description": "[에너지이슈] 이재명 정부 ‘재생에너지 르네상스’ 가속페달…발전 공기업, ‘산단 태양광’으로 RE100 정면 돌파 산경e뉴스",
+      "summary": {
+        "phenomenon": "이재명 정부가 '재생에너지 르네상스'를 가속화하고 있으며, 발전 공기업들이 '산단 태양광'을 통해 RE100 목표 달성을 추진하고 있다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이재명 정부",
+        "재생에너지",
+        "산단 태양광",
+        "RE100",
+        "발전 공기업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "\"재생에너지 접근성이 경쟁력\"…유럽 최대 데이터센터 허브 전략 보니 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmTGxWcWxOSWVfbWdQNE16LU8tRU9zalBtNlU2RG05QTRSUUd1aEFLUEdZXzVJV1hmZll0WDBONV81Zm53a1g2RFVfQmR0YTlfWjF2NWJxN3laaXBleWc1NnZFN1dGbVRuQXBhOEV0LWFKZkR4QUJOcg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-05-31T19:20:00",
+      "description": "\"재생에너지 접근성이 경쟁력\"…유럽 최대 데이터센터 허브 전략 보니 네이트",
+      "summary": {
+        "phenomenon": "유럽 최대 데이터센터 허브에서 재생에너지 접근성을 경쟁력으로 삼는 전략이 나타났다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "데이터센터",
+        "경쟁력",
+        "유럽",
+        "전략"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "S.E.C. Proposes to Kill Climate Change Disclosure Rule - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWTgxcjg2Q3JxbFVhODJKSks1cWZRYnR0Sk50bEw1c19sWUdIQmlTVDJNN2VrQ3RwcktIR054QmE2MkVhc3lvdXhvQWhUY2syVGQ0aFVTWUVob3VpN2JJVXVzeUhXaHFMQkdUSW16bGZNYUNUOV9yRXM0LV82eF82RQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T16:10:00",
+      "description": "S.E.C. Proposes to Kill Climate Change Disclosure Rule The New York Times",
+      "summary": {
+        "phenomenon": "미국 증권거래위원회(S.E.C.)가 기후 변화 관련 정보 공개 규정을 폐지할 것을 제안했다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "26",
+      "title": "기후 변화 혁신 자금 지원에 고무됨 - 캠브리지 데이",
+      "original_title": "Encouraged by climate change innovation funding - Cambridge Day",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQclNMdEZjTVhJX3ZyMVQtYnpCbEhaV21IaEJscnltX3JYcjhYa0ZOOTBpWG1TeWU4eUJWWEVPX0VtcUMzcXFBb0xJSVoyRGVsWjBZeHhVRTZna1U5ci0xOHBvVjNvU1ZOTEVMQVpPaW5vS0J5TWhSTU1DR2Ztc3dYcnhUVHM3WUh2dk9UZ0xuYVlDUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T16:41:18",
+      "description": "Encouraged by climate change innovation funding Cambridge Day",
+      "summary": {
+        "phenomenon": "기후 변화 혁신 자금 지원에 대한 고무적인 분위기가 나타났다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "혁신",
+        "자금 지원",
+        "고무됨",
+        "캠브리지 데이"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "27",
+      "title": "사설: SEC는 우리가 기후 변화에 대해 알 필요가 없다고 생각한다",
+      "original_title": "Editorial: The SEC thinks we don’t need to know about climate change - wildhunt.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ21HMFpsTC1EZmg3RWhlbFNQay1BYjlCX1lrNjhfR0hPRU91RXQ2WWlxNFZfN0J5OGdGRU9HNzhHNWFpZFhaZ2RXNFo5RzhNRTNvaFZVeHVsRTNsZF9YdElIUks4eWxYTS1KeGJveC1xQUtSTmNNUDlNRlowRXlOZy1rS1dySzN5U1Rqdm5NSEVqX0MwV21ZWHRTRElzbDhPSWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T23:00:56",
+      "description": "Editorial: The SEC thinks we don’t need to know about climate change wildhunt.org",
+      "summary": {
+        "phenomenon": "미국 증권거래위원회(SEC)가 기후 변화에 대한 정보 공개의 필요성을 부정적으로 보고 있다는 사설이 발표되었다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "SEC",
+        "기후 변화",
+        "정보 공개",
+        "규제",
+        "사설"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "28",
+      "title": "Antarctica Suddenly Became Far More Sensitive to Climate Change 1 Million Years Ago - SciTechDaily",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPODNsVGd3aDdsSU1HY1pMQXlVeWM1Ni1sTE92d0JTSWVQUnN4LUpMeFZWMUFlNTV4T3ZPaU9Kc2dubGxJRm9Yck9JanMzUXJNNFJaY1J5M2RfVWt2aWhQbXlfdE5malBtbFZwVHJkdkpCYmxsN2pmclk0ZWc0QXYzSFJKNnUtVV9EVkszTlRWSXBaYzFoSnJvdmM5OXdnb2hiVHFhU3V3QWEzd1dNekE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T16:16:06",
+      "description": "Antarctica Suddenly Became Far More Sensitive to Climate Change 1 Million Years Ago SciTechDaily",
+      "summary": {
+        "phenomenon": "남극이 약 100만 년 전부터 기후 변화에 훨씬 더 민감해졌다. (시점: 약 100만 년 전, 지역: 남극)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "29",
+      "title": "Fingerprints of Climate Change: Storm Preparedness In A New Era - DCReport.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGJldUVlV2FFbmtXQ1RaLXRYRHlNNF9fU2JGZHZucHVhRF9MSlllSEo4cWdKTXNKU1Q2cnZZUkRaQVB2ZGxvRzZ1V2stQlJiRTEwd0RILVR3UHdNbTVHaWR6UF91OFdWb0tDLUhSdkxZaFBRMW4wNnl1WjQzNlNVSXVBejE1Y2NqQVlvSWRXazJxQ1Npa200OEJMT0tuTk5n?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T14:32:58",
+      "description": "Fingerprints of Climate Change: Storm Preparedness In A New Era DCReport.org",
+      "summary": {
+        "phenomenon": "새로운 시대에 기후 변화의 흔적(Fingerprints)으로서 폭풍 대비의 중요성이 강조되고 있다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "Dim the sun to tackle climate change? Fine by us, public suggests - The Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0ZzZGtGT3h5MlhndWo0U0xtbjB3TmFSckxhbm1QTmFwYzc4ZmxfZ2NLendMWjhubFgxd0VOV0IydXBIb1dPUV93aVNRQnpkTk9pNW93TElvVlhPOVJqVFo0U1ktOGNLc2NucmFBSUZQNlkxaE9ZdHpWbG51RWlTSlFRMm16ZFVKdUlOMXBNWS1sRGo2aHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T16:08:43",
+      "description": "Dim the sun to tackle climate change? Fine by us, public suggests The Times",
+      "summary": {
+        "phenomenon": "기후 변화에 대처하기 위해 태양을 어둡게 하는 방안에 대해 대중이 긍정적인 반응을 보였다. (구체적인 시점, 지역, 수치는 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "튀르키예, 기후 변화 및 인구 증가 심화로 담수 부족 위험 직면",
+      "original_title": "Türkiye Faces Freshwater Shortage Risk as Climate Change and Population Growth Intensify - Caspianpost.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ29EZzRmRWI5T2dXeFJfNjZULWctWWhiYVBsSEEzQ2IxSFB1andtbGVyVGgzbXZDZEVlU0h6TVJ4VG5nSjVNaVhSMTBlSWo2cmFkRHVZQU5FUDhJM21KRVRUamI4STMwX3VIN2taV1JlRjBWbnBub2JhTVBDNElraHpoc2tDMzVmbnp0Yy1YLTZybUVwRERXV1ZkWmhnVHc0ZG1CQUFwT3dGMnppU0pwSk1IcWFIeU5oRFFTWQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T12:22:22",
+      "description": "Türkiye Faces Freshwater Shortage Risk as Climate Change and Population Growth Intensify Caspianpost.com",
+      "summary": {
+        "phenomenon": "튀르키예가 담수 부족 위험에 직면했다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않음.",
+        "cause": "기후 변화와 인구 증가가 심화되고 있기 때문이다. 과학적 원인/배경은 기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "튀르키예",
+        "담수 부족",
+        "기후 변화",
+        "인구 증가",
+        "위험"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "32",
+      "title": "아마존 나이테가 기후 변화에 대해 밝히는 것",
+      "original_title": "What Tree Rings Reveal About Climate Change in the Amazon - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLU9aRU0wYnpDZy1ib1FQZHpod3BiNGxVWGRWZDZoSm5Gb2lGNEUtN0s4X1BERzFnLWx6b09rbl9nU2liYXp2RmNieHZ3dGc2Qy1ZSmlKaXY2ZlpMTGp4WGZ2ekpYY2FDdUwwX21xMHUyYUFvMUVYeHJOX3JtaUxFN2VFOWpnbXE1aXY5ZkJwaXJ6aWZOWEYxVVphNEpvUE9Fc2tfSg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T22:33:20",
+      "description": "What Tree Rings Reveal About Climate Change in the Amazon The Good Men Project",
+      "summary": {
+        "phenomenon": "아마존의 나이테가 기후 변화에 대한 정보를 밝혀내고 있다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "나이테",
+        "기후 변화",
+        "아마존",
+        "연구",
+        "데이터"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "33",
+      "title": "아시아 태평양 지역의 기후 변화-무국적 연관성 이해 및 대응 방안 - 멜버른 아시아 리뷰",
+      "original_title": "Understanding the climate change-statelessness nexus in the Asia Pacific and what to do about it - Melbourne Asia Review",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSVVTSEt1Si1JN3d6ZWxIMmhVQnJJMEw4aXRydG1jMFBaNGlUbFRDMXhSa08xQmNCUThTaEhOejJMZjYtV2VGazdiUDV0b29kNnREcXRuc082S3Y1X1dBaVJLNTJTSnJuVUk4RUl5WDJtcXdFUlM0dnVuVDlUVUxnYzhGTW1ZY2ZudnQ2cnRsbmdTRUVuMnVj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T20:47:13",
+      "description": "Understanding the climate change-statelessness nexus in the Asia Pacific and what to do about it Melbourne Asia Review",
+      "summary": {
+        "phenomenon": "아시아 태평양 지역에서 기후 변화와 무국적 상태 간의 연관성이 존재한다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 변화-무국적 연관성을 이해하고 이에 대응하는 방안을 모색해야 한다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "무국적",
+        "아시아 태평양",
+        "연관성",
+        "대응 방안"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "34",
+      "title": "기후 변화는 인간 건강에 위험을 제기한다 | 켄 스코그 - 위스콘신 주 저널",
+      "original_title": "Climate change poses risks to human health | Ken Skog - Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGtlSzdfUFhGdmVGanhEN0lSTDY5MFNmT24tMlE4RUxFbk40T2JhbkNmZVpyN1VZeDNrRkNDY29XVzlrLVdZdmRmNXhKTHpzMWw4dEktcjlfMWJPN1pLS2REM0VuUUQycGU2dEJXWVI2VGJHT0RaZHdHWWVBQXNoX2dKTEtBRG5LZ3FRTXR3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T10:00:00",
+      "description": "Climate change poses risks to human health | Ken Skog Wisconsin State Journal",
+      "summary": {
+        "phenomenon": "기후 변화가 인간 건강에 위험을 제기하고 있다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인간 건강",
+        "위험",
+        "위협",
+        "위스콘신 주 저널"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "35",
+      "title": "기후 변화 경고: 기온 상승이 심장병을 더 큰 공중 보건 위기로 만들 수 있다는 연구 결과",
+      "original_title": "Climate change alert: Rising temperatures could turn heart disease into an even bigger public health crisis, finds study - connectedtoindia.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTGxVNEZFX0ppajZnX2pzLXlneGpaSURBTHh2cC1VdnB1eDFBd3FnVTBaaXZZUkx0eGZSVm9CdGtDbXU0LWFKSG5zbDhSd0tSczdycC1vYW40cllqZGVoMW80MmxHajNHVm1iRGxLd2FVakJKTWtybEtXZG5tTjZsMU4tS2RFVTVUUGJYNWhyWlpWU2sxbF9la0l1TU0tanFnWG52YXltSEctQnZQSDRwT2EwZVl0VXNSVVV6WDktSngzWlpTY2laamltUWkxWVpOYzhPWVZwRjEzVk1Rc1VJN181d21EQUU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T10:33:28",
+      "description": "Climate change alert: Rising temperatures could turn heart disease into an even bigger public health crisis, finds study connectedtoindia.com",
+      "summary": {
+        "phenomenon": "기온 상승이 심장병을 더 큰 공중 보건 위기로 만들 수 있다는 연구 결과가 발표되었다. 구체적 수치, 지역, 시점은 기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기온 상승으로 인해 심장병이 더 큰 공중 보건 위기가 될 수 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "기온 상승",
+        "심장병",
+        "공중 보건 위기",
+        "연구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "36",
+      "title": "기후 변화는 식물 생명에도 실존적 위협이다 | 캐롤 스타인하트 - 위스콘신 주 저널",
+      "original_title": "Climate change is an existential threat to plant life, too | Carol Steinhart - Wisconsin State Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaXNBOFVYTnVoNGNNV21XODNCak1IT1cxc2NRMk1lbGJJYXhEX3FxUXlCMWRPeS1LTEotVHktdU51NzNqdFlzbTRZcW1hSExobnlJLUZ5OXZEcjBPclN5R1AzWlU3c1N5SVRUWm9IU1RmcFNULWRMRHFIOUhCcDMzTEUyTjFIMFY5VXByNXJB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T10:00:00",
+      "description": "Climate change is an existential threat to plant life, too | Carol Steinhart Wisconsin State Journal",
+      "summary": {
+        "phenomenon": "Climate change is an existential threat to plant life, too | Carol Steinhart Wisconsin State Journal",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "식물",
+        "실존적 위협",
+        "생태계",
+        "환경 위기"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "37",
+      "title": "기후 변화와 인구 증가, 튀르키예를 담수 부족으로 내몰다",
+      "original_title": "Climate change, population boom push Türkiye toward freshwater shortage - Caliber.Az",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3RqNUpWTy1wZl96dldFY1daNW5SNlhuc1R6WjN4WHZKaXRWMi1DaGFCLTZ6U3dKOWhaYlN0cmlFU29wQlJqSjQ4Y19NZGl2cW95RHhaNEdVbE5aakZiS3hzbHA2SHJXSTExYlBMMWR4T2pqNG5JWno5ckctaUhzYjJrY1diemZhLTI3dk9HeXlQNEI4STBROGtjZzUtdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T11:42:17",
+      "description": "Climate change, population boom push Türkiye toward freshwater shortage Caliber.Az",
+      "summary": {
+        "phenomenon": "Climate change, population boom push Türkiye toward freshwater shortage Caliber.Az",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "인구 증가",
+        "튀르키예",
+        "물 부족",
+        "담수 위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "38",
+      "title": "No ‘let up’ in rain until at least Tuesday: Environment & Climate Change Canada - Lethbridge News Now",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3V0UEpiWlJ4RXZvLVh2UGUwY2tURFMtdnBjME80cTI3ajJXeWtnbkt6NnltTTM2aElwRV8xaFpWa0U3Rm5NZC1TRmU5V1MyQUdZek1BR0dkRlY5MjlXQWJrU0hXVFBOTDNaTGJ2Sjh6TzROSl9SbndGckJfYlFGNXhqc1E4R1lWbWMxeWpTcjdzblpVVm1yeWp6c0hRcHNwUDJ4VlZ5SzQ3NnlUdmdOQl9PRS0zTkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-05-31T23:27:01",
+      "description": "No ‘let up’ in rain until at least Tuesday: Environment & Climate Change Canada Lethbridge News Now",
+      "summary": {
+        "phenomenon": "No ‘let up’ in rain until at least Tuesday: Environment & Climate Change Canada Lethbridge News Now",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 38,
+    "domestic_count": 24,
+    "international_count": 14,
+    "top_keywords": [
+      "탄소중립",
+      "기후 변화",
+      "재생에너지",
+      "기후변화",
+      "환경교육"
+    ],
+    "sentiment_breakdown": {
+      "positive": 19,
+      "negative": 8,
+      "neutral": 5
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
