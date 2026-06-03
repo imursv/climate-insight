@@ -3,11 +3,11 @@
   "source": "NOAA_GML",
   "location": "Mauna Loa Observatory, Hawaii",
   "source_url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_daily_mlo.csv",
-  "collected_at": "2026-06-03T09:37:04.622524",
+  "collected_at": "2026-06-03T23:38:02.629438",
   "unit": "ppm",
   "latest_daily": {
-    "date": "2026-05-31",
-    "co2_ppm": 431.56
+    "date": "2026-06-02",
+    "co2_ppm": 432.08
   },
   "latest_monthly": {
     "year": 2026,
@@ -15,10 +15,6 @@
     "co2_ppm": 428.53
   },
   "daily_data": [
-    {
-      "date": "2026-04-15",
-      "co2_ppm": 429.26
-    },
     {
       "date": "2026-04-16",
       "co2_ppm": 429.36
@@ -134,6 +130,10 @@
     {
       "date": "2026-05-31",
       "co2_ppm": 431.56
+    },
+    {
+      "date": "2026-06-02",
+      "co2_ppm": 432.08
     }
   ],
   "monthly_data": [
