@@ -1,16 +1,16 @@
 {
   "date": "2026-06-14",
   "metadata": {
-    "collected_at": "2026-06-13T23:32:50.094057",
-    "total_articles": 20,
+    "collected_at": "2026-06-14T09:10:46.443517",
+    "total_articles": 63,
     "sources": {
-      "korean": 13,
-      "international": 7
+      "korean": 50,
+      "international": 13
     },
     "sentiment_distribution": {
-      "positive": 13,
-      "negative": 3,
-      "neutral": 2
+      "positive": 46,
+      "negative": 9,
+      "neutral": 4
     }
   },
   "articles": [
@@ -523,6 +523,1117 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "c261e940df867f15",
+      "title": "[기고] 기후위기 시대, 미래를 바꾸는 교육의 힘 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XUldFYnJBR3pZYlhMcXh2ZlZBeF92N1ktb0xhXzVHVTRUaVJWbms4dE52cjZVSEd5OHpzaTBObDlwOTVUQzhPVXMxd2hXQjg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:25:06",
+      "collected_at": "2026-06-14T09:06:27.643552",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "교육",
+          "미래",
+          "힘",
+          "바꾸는"
+        ]
+      }
+    },
+    {
+      "id": "f1911d077c5e6d9e",
+      "title": "첨단기술로 기후위기 대응 고도화 - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KM2RYNGF4b2VxRURxQ0l5cmFmSUtYNEpZU0lsc3ZpUmZSNXNpVG9zRVhZQ1JJQ1d3Z1NacGNERDV3SG1jdkY1eUNFeXZxX0ZRX0VaMzJFSTFOQUpwUnc0RVBQbzRvY1laQkE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T06:28:02",
+      "collected_at": "2026-06-14T09:06:27.643644",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "첨단기술",
+          "기후위기",
+          "대응",
+          "고도화",
+          "기후대응"
+        ]
+      }
+    },
+    {
+      "id": "c8e5023b34161f25",
+      "title": "한국기후변화연구원, 인도네시아 국영 온실가스 검증기관 피티 수코핀도와 온실가스 검증 역량 강화 협력 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2bm9mVmt5MEpBckhRRmY2anYwNzBwVXRWblBpaFkzWTFZLVMtX1ZmT2V0TTBBcm5sVUdMYzNleDhNYnhSeVJXMWo1cTZTWjg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T02:29:00",
+      "collected_at": "2026-06-14T09:06:27.643709",
+      "keywords_matched": [
+        "기후변화",
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국기후변화연구원",
+          "인도네시아",
+          "온실가스 검증",
+          "역량 강화",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "7725e4f070dcf09d",
+      "title": "[기고] 기후위기 시대, 미래를 바꾸는 교육의 힘 - 인천일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9za0JETHppbVhac3VuRjdvOVl3b2h0Y1BlS2lkVUxsZV9JZ1JRN3JrMjFSYXc4WVpTclNCeDRVNnBYVjdIS05aTnprUmVtSmVPWWV2Ri1mTTdEZ2ZEU2xUNlhJcGJWZEc0eWhCTE5nSQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:18:00",
+      "collected_at": "2026-06-14T09:06:27.643812",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "교육",
+          "미래",
+          "힘",
+          "기고"
+        ]
+      }
+    },
+    {
+      "id": "098259a27396aca1",
+      "title": "대전시-LH토지주택연구원 ‘디지털 기반 기후변화 예측·피해 최소화 기술개발’ 업무협약 - 중부매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RU3RNOWVVTkU5djQwME91X3lrTnU0MmEtVjFUczRxblBMUDNVVjdTalc4YWlIY1NDUm1mWWplVkozVWZ1MDE2RnlhLU5ibkdhTWlibXE1UUttb1B4aVkwQzROMHVaVFhFT1HSAW5BVV95cUxOLWhEd3RGOUpjaGJGaVFBMEFEV3dNTTNkU2JIdTU1cmVKeHBYMC1tWjRTTElPWHFPR1dlcy1PSHpvNGcycS13eDZFeTgxRm9kQXdNWVhxRFVMM0hfanhMdGxDWExlZlgyOFNNNWM2Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:24:51",
+      "collected_at": "2026-06-14T09:06:27.643858",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c7b5519944aeda26",
+      "title": "대전시, 첨단기술로 기후위기 대응 고도화 - 비알뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ETGJuSW9YVHlKUnBKZTlwU0pGR2R5cnFEVkczOXd6OTFUQkwxM0ZSUDdnQWxNMEVlem5qUU9DWWdScHZlM0xMZWxybVZ4cGNqMWpWMHROeWdTZlR2QXRlNXFvNnlKUUxQTEE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:59:55",
+      "collected_at": "2026-06-14T09:06:27.643881",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전시",
+          "첨단기술",
+          "기후위기",
+          "대응",
+          "고도화"
+        ]
+      }
+    },
+    {
+      "id": "215dac123eb07896",
+      "title": "요꼬가와, SBTi 넷제로 목표 인증 획득…2050년 공급망 탄소중립 로드맵 본격화 - 헬로티",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00R2FvRlltUXBSMWdSWnZySE0tVHpDR190V2x3T0lfVnJiN29GbUdmLXNqTEVuczdIVWltdDlHRU9PanAzeHBnMnVZc1pmN0NoWGxSNWlCbkV0emlNaS04?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T03:17:47",
+      "collected_at": "2026-06-14T09:06:27.643989",
+      "keywords_matched": [
+        "탄소중립",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "요꼬가와",
+          "SBTi",
+          "넷제로 목표",
+          "인증 획득",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "2f03fb34f067eda9",
+      "title": "해양 온난화 직격탄 맞은 ‘바다 숲’… 전 세계 복원 프로젝트 가속화 - ESG비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DQXZ1OTM4MDRZanNfVDdoV18ta2x4YVdfZVdqR0NvNi1RekVxV2FEVUFqemVfVTdwZWg0cmw3YjE1ZkxuUWtWYjJwYWhMYWtLV2VwUDgyazk1RW53NFdaZ2NCbV9jUXRDYjlmbUZFbGJJeFk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T02:27:05",
+      "collected_at": "2026-06-14T09:06:27.644218",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "해양 온난화",
+          "바다 숲",
+          "복원 프로젝트",
+          "전 세계",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "232b8e3ebe6e17fa",
+      "title": "엄마 목소리가 에어컨보다 훌륭한 폭염 대비책? [달콤한 사이언스] - 서울신문",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92d1dCWnRYZlJOV3JGNllnWHNsTThJLXJrc1ptOWhuZXZwc2tsaXpwLUhwQzRPTVRhOGgyTnl0dC1MaHdMWXRSeVNjQl9NYTE2azJOMVhiM3lPWk9DWTBNTFRUVThzZmlMWXA4TVF5TWdxeEdlZUN1dk9mTzdFUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:30:00",
+      "collected_at": "2026-06-14T09:06:27.644687",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "엄마 목소리",
+          "에어컨",
+          "폭염",
+          "대비책",
+          "사이언스"
+        ]
+      }
+    },
+    {
+      "id": "dbe15d2b9c731d26",
+      "title": "온실가스 배출을 규제하는 법규를 조속히 확정해야 합니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGliZEJYUFF5T1c3a1FlczYtdzZQbEVTeEo5akVrYi14OElQYmJxUkVVSjF1OUNOa3ZXNEVVbEwzcDI5ZzFJb3kyT2VTQkJxdU9XbndRM2JTT29XaEpZOWtrZjNYSnJ1MjF3WG9uS1V0cWNwb2JQRUJfT0UtNkk4d0kyZThWWFg4cFE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T02:02:07",
+      "collected_at": "2026-06-14T09:06:27.645136",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "온실가스",
+          "배출",
+          "규제",
+          "법규",
+          "조속히"
+        ]
+      }
+    },
+    {
+      "id": "ef5a70e5d2e63d07",
+      "title": "용인특례시 도서관, 탄소중립 실천 위한 ‘그린 라이브러리’ 조성 - 인천일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WaTNZQjlrVTExT0xfR2RTczZtek43R2ZiVFd5c3RMSUxic1NoV3lpRW1jWHVYX3VMWkFnaURmRGtfVWY4RmV5c1RSQjAxSWxPa0p5bEVfS0ZleTlMV0NVQWNRRUNCXzlPYTRaTl9uNA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:08:00",
+      "collected_at": "2026-06-14T09:06:27.600308",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "도서관",
+          "탄소중립",
+          "그린 라이브러리",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "cd5a892bcf879a50",
+      "title": "\"탄소중립 실천\" 용인시 도서관, '그린 라이브러리' 운영 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IYjZrSU9Xd1VLNUNLV2FRNS0zSTBCdHlzZkk3b0ZWbjE3R2I5c09NQVZFN3JNU0dpT1poV0NzRkMzMVZzaF9FRjZ0TjdncEtKSkxtWGpR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:05:48",
+      "collected_at": "2026-06-14T09:06:27.600341",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "용인시",
+          "도서관",
+          "그린 라이브러리",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "2f390ac7351e5b12",
+      "title": "용인시 도서관 '그린 라이브러리' 운영…생활 속 탄소중립 실천 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BeVh1WC1uOS1xQ1llNXhiQ2pfMmR6OUFkOWV2VlZXTDNhNEtBQkZDeGR2SmxKT05iQTdpWVpiMWhFc19qNTZOMU0tdjBrTXRjVUhDOXdpUllnRWJ0ZlBuUXNveFFiTkxPVjQ4NGFZb9IBc0FVX3lxTE9qNnFZdUl3THJsdUczYW50VFNHSVVUbldDblJyU19ja2JDTzBCRUxXLVVWcDR0ODlJWEwzTV80d1A2WHlZWFFvZFpnX21kcHBPYXVZQ3BZQkc2NS1SZmg5eWhCcGRtU0UzZGNtQnlxQjZUYjg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T06:50:16",
+      "collected_at": "2026-06-14T09:06:27.600369",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인시",
+          "도서관",
+          "그린 라이브러리",
+          "탄소중립",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "51a7f8d34527ff60",
+      "title": "전진선 양평군수 “청정 양평서 탄소중립 실천” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53US02NEpYbXp2YmdERzJjaW45MjNySkpSSkY0eGdGYXhmYXh0RDAwaWJNZkg3R3JYaFlSRmY1bl94UDZqNmtMNk9XV1RjQUk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:45:03",
+      "collected_at": "2026-06-14T09:06:27.600394",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "양평",
+          "탄소중립",
+          "실천",
+          "청정",
+          "양평군수"
+        ]
+      }
+    },
+    {
+      "id": "80d4dee08503c66c",
+      "title": "시화산단, 대기질 개선·탄소중립 실현 공동연구 착수 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmemxhRjRhTzZpdW9fNFVrMEE2bmZPVm5yTnNUU1VpQ2EyM2N4YlVhSmNSYzhBckxnRVdtMDZfNnJYQ1FaWHZsU0hmZ2Nlc0czZ3hkb2tCd0h5b1p1X0pKcNIBeEFVX3lxTE8wYVl6MGR2dU53bGJnSlJrdlBVd2pQc1VmX09zU3dFMFpDWVEzck5BOHJDUVM4ODBHR0NOaElTdWMwVXgyM20yaS1jTmRhWWZpcUhpbzBCNjUwcUl3cVdzak9OMDBrNFRoM25KcUNsSTlSOF8tN2F3Sw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:36:55",
+      "collected_at": "2026-06-14T09:06:27.600419",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시화산단",
+          "대기질 개선",
+          "탄소중립",
+          "공동연구",
+          "착수"
+        ]
+      }
+    },
+    {
+      "id": "6e664509bc9512ed",
+      "title": "춘천시육아종합지원센터, 영유아 가정 대상 탄소중립 프로그램 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pQnhfLU9Ubkl1QnV6dlJzUGRLdHRGOVdXQUd3QmYtVVdiMXk2OFBVMk5fZ2Z6SWVkT2xmb3FhX2ZZcFJOM244TWhpbWg3STM0UGdTYS1tVWVoZmE4X2hfbTZJMXNma2M?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:50:55",
+      "collected_at": "2026-06-14T09:06:27.600597",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "춘천시육아종합지원센터",
+          "영유아 가정",
+          "탄소중립 프로그램",
+          "프로그램",
+          "육아"
+        ]
+      }
+    },
+    {
+      "id": "b8350b137c8bacab",
+      "title": "심평원, 탄소중립 실천문화 확산 환경주간 성료 - 병원신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EQWRoQXNvNWlSRVRUSkI1cVZualRmLXVza1NuYlZjdk9Gc0hPbmRfWGlaeTlzYTFMMVJRdkRkQkZab0NuajFhRGlIQk0ycHYtbnRINElNbGhBSkV3c0V3R3FKRWtSYlBFU1E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T06:40:08",
+      "collected_at": "2026-06-14T09:06:27.600621",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "심평원",
+          "탄소중립",
+          "실천문화",
+          "환경주간",
+          "성료"
+        ]
+      }
+    },
+    {
+      "id": "eed7da40ccbfd8c8",
+      "title": "울산시 탄소중립지원센터, ‘탄소 영감 실험실’ 출범 - 울산매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04TmtSM0pNUS1mMWtoWWpRbHUtNUNxdFNfblZoWVFaMzNLc2F4akhSMzZKcnJua0hpa3VNQWN2NjZLY1RRR1ZGdFRZZ29jeUljT2EtbncybEZJd3k1MElVdXRqX1I2V0J1a0HSAW5BVV95cUxQc3VNdFN5Z1J3aTNWNFpSY0RINS1Wb3NSWjZjeUlyUHU3cnh3OWdrVTF5c0RRWC1KTzdPRllkNzlvbFIyRXBhN0ZNOWRjSGM3TmZLdFJGZ2lCVE9NcFZqU0Rfb25jcm5MSnJsZzdSZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:03:17",
+      "collected_at": "2026-06-14T09:06:27.600673",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "울산시",
+          "탄소중립지원센터",
+          "탄소 영감 실험실",
+          "출범",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "5d57f18aac25577c",
+      "title": "‘치악산서 배우는 탄소중립’⋯원주시, 청소년 환경교육 강화 - 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lMjdhaUNDaWVIdFN2cWY5Wk9xQ005eklJNkpzTjFhZkFqdXhpdXFmcDMyWTVyaDI4ajl0QV9HQWhQeUI0STl5OG5wcjduOWluN0kzZEZadnM5ajFUT0JYZWJ3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:32:47",
+      "collected_at": "2026-06-14T09:06:27.600724",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "원주시",
+          "청소년",
+          "환경교육",
+          "탄소중립",
+          "치악산"
+        ]
+      }
+    },
+    {
+      "id": "a96091aa423f3746",
+      "title": "용인시, 도서관에서 시작하는 탄소중립 실험 - 데일리엔뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XZ0ZLazNJaDBDdVRxS21vTGdCY3d0aFg3cm11U1l4QkNpNDhUQjVhMXAydUluWkE1ajFNOVVqMWNPbmtXZzJvV2tzRnp1cjd5OFllU00wUHFBZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T00:11:24",
+      "collected_at": "2026-06-14T09:06:27.600780",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인시",
+          "도서관",
+          "탄소중립",
+          "실험",
+          "시작"
+        ]
+      }
+    },
+    {
+      "id": "57df3cdbdaa0fb67",
+      "title": "광명시, 2026 환경교육주간 개최해 생활 속 탄소중립 실천 확산 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSjZRdjZtSWZta0E0X2l5T21TbjZuM1hVRU82NmJmeVZTdHJkTnV2UzcyWjNzZmlhQ05Kdk95dWxPVmJXN0NreHNLeFBDemswODYzbGFBSE5fd2pSN2FuVUdSSVRSZjNEd18yRUdCZ18?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T07:15:00",
+      "collected_at": "2026-06-14T09:06:27.600823",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "환경교육주간",
+          "2026",
+          "탄소중립",
+          "실천 확산"
+        ]
+      }
+    },
+    {
+      "id": "cbc92c85664526c0",
+      "title": "K-생태도시 시흥…스마트허브 친환경·탄소중립 활동 다각도 추진 - 어반톡",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44Z1JTV0VoU1BBQTRCdXBWZGNqOTFtazNPRXZ2Y25nNTVhVlNUbkFGS3kyUmw5YmwyVnRYTWxJTjM3NVR6ejUwaVlQaHQwU1NaNHhldWpn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-13T23:34:44",
+      "collected_at": "2026-06-14T09:06:27.600846",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥",
+          "K-생태도시",
+          "스마트허브",
+          "친환경",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "08a53d44e147388a",
+      "title": "[문제열의 窓] 탄소중립 사회로 가는 도시 전략, 스톡홀름에서 배우다 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFUXdmbU1Ja29XYWI4WE5nai1ZRmpmcUE5eGJtUFh0eDlsbVNXYW9XTFRYbEN2OTdVSXN2eXRDaHhBOTdjeXpYRjRlNUVRcDdQT0h1NzdpT3BDWnNDRVA0akZfeVFaQWhwendJVm9B?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T04:50:36",
+      "collected_at": "2026-06-14T09:06:27.600871",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "도시 전략",
+          "스톡홀름",
+          "배우다",
+          "사회"
+        ]
+      }
+    },
+    {
+      "id": "57172bd715739ad2",
+      "title": "탄소중립 시대, 부산권 대학들 `지역 수소산업` 기술 개발·인재 양성 나서 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16Nm1fZFpiS1ZUWlJ6MDE1VF9OR1NFazRpLTM2UGk1TG9pY1hnUjY1OTZxUDMzbXZCazM0U2o5T3d1SS1WSWtrU2FGTXVPQk8tWGlYRWdiMlJpUkYtNWtUcnVURlRNMzZtQ2hlWXFHY2ZLbXpY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T06:21:31",
+      "collected_at": "2026-06-14T09:06:27.600896",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "부산권 대학",
+          "지역 수소산업",
+          "기술 개발",
+          "인재 양성"
+        ]
+      }
+    },
+    {
+      "id": "503121352635acb7",
+      "title": "전진선 양평군수 “청정 양평서 탄소중립 실천” - 인천일보",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVThNSS1HTnBSM3NPcldoYm94VXVRMDhJeE1DRUVsY1N4ekdOUkZtMmwzT29RTnJfTWNuZGtvMXVHYnRmSndzcFBxWXE0SkZxMlpWZkNBNll1UGN3bEpQM0d0RDg5T0o3VkNCYllXaw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:36:00",
+      "collected_at": "2026-06-14T09:06:27.600918",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "양평군수",
+          "양평",
+          "탄소중립",
+          "실천",
+          "청정"
+        ]
+      }
+    },
+    {
+      "id": "d4a43f33b50c7aae",
+      "title": "용인특례시 도서관, 탄소중립 실천 위한 그린 라이브러리 본격 조성 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RekRJcjBZRC12ZnVlSGJTcnJpN0xjQTFjdFFXdjlKMktoMkwxQzZkU3pVZ0k3azF0VGZCcVFhTE11VTJvcktIdkMtWjNKTkZEWnViUEtWVnVSdXNvVmZETFF5ZlVSVkRWS0VHamJpakY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T07:19:00",
+      "collected_at": "2026-06-14T09:06:27.600961",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "도서관",
+          "탄소중립",
+          "그린 라이브러리",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "d74edc55e479fd99",
+      "title": "광명시, 환경교육주간 열어 생활 속 탄소중립 의미 나눠 - 저스트 이코노믹스",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pMlRYSXowcDhnYU1uRlRHckJHb3Jyc0MxRVNmVTR4bzMtcW4tb1NrZ2YyVGk4RmFBYjhJcGR3dlVqajVIMm5Sd1IyRFl0b2JhbkVKNlVRUWR2SGVzOU40?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:01:24",
+      "collected_at": "2026-06-14T09:06:27.600986",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "환경교육주간",
+          "탄소중립",
+          "생활",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "bc1a7039d098ac66",
+      "title": "용인특례시 도서관, 탄소중립 실천 위한 ‘그린 라이브러리’ 조성 - 일간투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YXzdxTnMwRXQtUUxiUjc0WkJyNU4zTVh5VzgxdmZuZV9jd25USEpkOXNSb0ViQVhrVDdWX2JQRjJoV0h2QnBldEhZYnJEaTNyVTZHbk42Zk5Bd3RYanJMbzhOTjFCSkk3NzE4?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:42:03",
+      "collected_at": "2026-06-14T09:06:27.601011",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "도서관",
+          "탄소중립",
+          "그린 라이브러리",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "dff85962f2eec657",
+      "title": "용인특례시, ‘그린 라이브러리’ 운영…도서관서 탄소중립 실천 - 이코노뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mV1BkSjRUWFU4UHAxaGpXOWhteTFNZ2Fla21wUzJhcGhFWDBqUEh1WVgtMlpzaE5DeHUxWGN6REJldU94TUdCcjdYV2ZlaS1BeXB4QXZoRE5MbW5pa2Zidy1fRmtJRDV2b01udmx2Yw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:27:01",
+      "collected_at": "2026-06-14T09:06:27.601050",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "그린 라이브러리",
+          "탄소중립",
+          "도서관",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "17a0839d8692956d",
+      "title": "청주시, 탄소중립포인트 인센티브 1억2000만원 지급 - 충청도민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yRWkya3B3STFCREpNQTVtclN6UzgxVjdSSVNDR3Itbmo4cHM2eTlwaTI1U2xCV2xqRUVsZ1RIX3lWYV9RREt1czhjR0xNcEFWZDB4eFNHX0lsanpEN0hNbG9jWUtSZVRLUFlLLQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T05:30:11",
+      "collected_at": "2026-06-14T09:06:27.601106",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청주시",
+          "탄소중립포인트",
+          "인센티브",
+          "지급",
+          "1억2000만원"
+        ]
+      }
+    },
+    {
+      "id": "8461fafe042bb95e",
+      "title": "용인시, 탄소중립부터 하천 정비·반도체 인재 양성까지…'지속가능 미래도시 구축 박차' - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9zTVVYMmJpY3NocTdldmotNDhiOE1xNkhDVjltWU9VUzd4Tm9JMnI4Rm1vTnZNSkIxcDNxdEplYlNEOUN6cUhNcjJ5cWhhOXZwY0lraWtNNzY5YmFSUnNHakdMZUNrdWVsUjlLVXpLVUI3dDVLR2hmQURQN0M?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T00:26:00",
+      "collected_at": "2026-06-14T09:06:27.601167",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인시",
+          "탄소중립",
+          "하천 정비",
+          "반도체 인재 양성",
+          "지속가능 미래도시"
+        ]
+      }
+    },
+    {
+      "id": "6a0c6ed49afebe85",
+      "title": "용인특례시, 도서관 탄소중립 실천 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84aWx1S3lHZlR4cXRVbkk0b01rM1hOdmNBdERDZ015by12ejRrTFJ5aXdza0RaZnVSeDNBYlNSeHdSWDZ2dmZ2cmFPOUVSeFNVNFc4TFliYUtIdnBRVHB2MzMtY1Y?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-13T22:42:15",
+      "collected_at": "2026-06-14T09:06:27.601330",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "도서관",
+          "탄소중립",
+          "실천",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "88c5cd9ebe3d9343",
+      "title": "[기획]⑥재생에너지는 이상이 아니라 전력 가격 보험이다 - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFT1ItclEwcWtfM2NGbEZBd1FIVTJJZW1EMmh0ZHhtV3lkWS1FUmJMVW44cG5xVloxd1VUTWlOZ3FrdEN3aFc4Y2xsd09VenhtR01qeXFsbGhsRGo0R0JxbFZ5Ynk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T03:29:52",
+      "collected_at": "2026-06-14T09:06:27.553764",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "전력 가격",
+          "보험",
+          "기후",
+          "경제"
+        ]
+      }
+    },
+    {
+      "id": "f04700dab0e74f60",
+      "title": "석탄화력 폐쇄 본격화… “공공재생에너지 확대·발전노동자 총고용 보장” 창원서 시민대행진 - 노동과세계",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYa283bFJxazAteTNwQUx4ZnlhZlFDTzhrcW81RHU1VG9iUHZReFFsdzJqZ1dsX3dLNFZiNFk5bnNMWWc5SFdidk84N0tQZC1od3VEZmRlNHpHYzhCNDUxVjc5ZXR4NDZQT1dkQXlR0gFyQVVfeXFMUGY1MDhodmNVeU5hRm1jU3c5WVltSjh6aXRsd3VwM3kzN19jM1htYlFnTWYyWDNaaWdpb1Mxcmo4MHNZaFU5VTAxYU9RWWFvdlhQN1RCdGpLTElidENTVXZlOFhteldZeU9yY1p3MWlPVjN3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-13T23:29:00",
+      "collected_at": "2026-06-14T09:06:27.553806",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "석탄화력 폐쇄",
+          "공공재생에너지",
+          "발전노동자",
+          "총고용 보장",
+          "시민대행진"
+        ]
+      }
+    },
+    {
+      "id": "8ddb097bff86f446",
+      "title": "재생에너지 대전환! 한-이탈리아 공동 대응 #이재명 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRUmJhT1hFcGNBUTJacm5tSzFJaUN4SEpUS3RGOXhDTmkzWVotOFV3ejU0WGtxWjVBVTVzUFhJazQ5VkhCczlLLUV1dFlJZjRPSlVjRXBMOXVqc3lTaXo1dEFsYkxrT1AtSm4zbg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T06:34:00",
+      "collected_at": "2026-06-14T09:06:27.553836",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "대전환",
+          "한-이탈리아",
+          "공동 대응",
+          "이재명"
+        ]
+      }
+    },
+    {
+      "id": "0d882a8d762098a7",
+      "title": "2분기 실적도 ‘훨훨’… 한화솔루션, 화학·태양광 쌍끌이 효과 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yWWU0UWQ2aVgzSmpyV2xQTUJfMFpBYlRjMFNDQUtZVlR0RWQ3NkM2OU1SYllXV1Z0OTNiVmx3Yi1aa0tRS2ZnaHpfTk83RXd1SFNtNHNmRUZJcHJsTXE3RnB6TUNFdi1QRndLVU1R?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T08:33:51",
+      "collected_at": "2026-06-14T09:06:27.554098",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한화솔루션",
+          "2분기 실적",
+          "화학",
+          "태양광",
+          "쌍끌이 효과"
+        ]
+      }
+    },
+    {
+      "id": "eeb3eacb11a37e27",
+      "title": "클린 에너지 전환 가로막는 '레드 테이프'…미국 태양광, 연방 허가 지연에 발목 잡혔다 - 브랜드경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAxQkh4S3NpZnRxYmZtaFlyaGxnZWRMYjl4aDg3UUZMYkJLZmh6dWZydm5FYUdHUEZUY0lWUmhvZWlkUmJPLTk1U3NOOXQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-14T01:57:14",
+      "collected_at": "2026-06-14T09:06:27.554415",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "클린 에너지",
+          "레드 테이프",
+          "미국 태양광",
+          "연방 허가 지연",
+          "에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "c8ba1f24e5cd1ec0",
+      "title": "Acadia tackles climate change with its largest-ever restoration project - Bangor Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQVc1SnZSUXdTblBFanNKUjlKa1JPQmkxU0hRYi1idGxYOU5tT0Fydk1RcHM2S3RJbUdIdHc0VkswRGl0NEVWaThKdjhUM2N5WFdzNWxwdURNNHB6NkVHLThTNG9FMG9fYkFZelJ5eEtkR0pWd01GbmNxWUc1Nld2b3dvdEVrMEFFN0t0eF95aFYxYXhSZURqeF9KTUxOLUdSMzFQRGkxLWZDSmhJQjR5SmlWM0ptc3JWT0FsWFVpUlVLbXVDOUtOUzltd2MxUGFqaHdnYUEwOA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T05:00:00",
+      "collected_at": "2026-06-14T09:06:28.933648",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "아카디아, 역대 최대 복원 프로젝트로 기후 변화에 맞서다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아카디아",
+          "기후 변화",
+          "복원 프로젝트",
+          "역대 최대",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "1d9bdd2a7d763a35",
+      "title": "Four Republicans to duke it out for a seat in State House talk climate change, abortion, bill to split state - The Spokesman-Review",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObEVjLWg2aDV3Z0dYeXdGalplVms2SXQ0OUxoY3NSTnpiUEpoUFpzRDAxbTF5T2I2OXlzTGV5N3lCcmVzQ3Qzc3pzNlg1RHE4bmJ4S010TmFxSlZ4QXFKWUpCMnJHdlVDN01BQnRodEN6dVZsQlo2U19NMXBGZEtvY1J4aXBuVmtXNnVLMzVodE9KcTd5QVJVRlRIR09Odw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T08:00:00",
+      "collected_at": "2026-06-14T09:06:28.933913",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "주의회 의석 경쟁 4명의 공화당원, 기후 변화·낙태·주 분할 법안 논의 - 스포크스맨-리뷰"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "공화당원",
+          "주의회",
+          "기후 변화",
+          "낙태",
+          "주 분할 법안"
+        ]
+      }
+    },
+    {
+      "id": "f86ddc2ff523930a",
+      "title": "As Global Warming Threatens Corals Worldwide, Woods Hole Scientists Search for ‘Super Reefs’ That Can Take the Heat - Inside Climate News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTENnWFlWQk5keURxVFNmT3RkbkQwZ1RjdUtnZVh3R1gxLTVzRVdldFFEZHNNYlg3TVNLbWhoS3V3dU56VmtXWnd0TmtTcm54dmthaWtyZUhBNC1xbTVyX1V2QlhOV2o0NUlLeWN6SUhJUXNXX2kzYTMyMzlsWWpKU29sSHJTVGZSZmZfeXBrWkg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T09:00:00",
+      "collected_at": "2026-06-14T09:06:28.933954",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3f665b35ba8da45c",
+      "title": "Antarctica Climate Change: Lessons From an Expedition to the Iceberg Graveyard - The Better India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdG1pWDV5d09oeWhDdjVGVXMwb1hnZDE1dEZ6QjZMT3dXVzJ0MEFkTU9UX3RHb1Uwc3daNENmdU4ybXlDN2FBSlNpSzFCYVpDWGZ3MkFKbm54WDRYTDRUM0ZNRUV2ZldQMHA0WVBVUzdZaHlsNmNfcGQyak9lMDFqOUpFaTNmSU9SaGZZdlRndVphRjdGVGxIMFIyLTB0cnhwdGQtRXF1Q3MtZmo4cHd6a2tmMG5pY1pBZzB2YmNRaENhdHBDOFVv0gHMAUFVX3lxTE5zWDdTS05KajdoYWtnaWVkYi1aTWdVc3RJTExhbFo1UHdEOVk0TVFzcTFaVWd2R0NXYV9kTTZUeUtLZ2s0eDZFZkUxQ2x2WnBvMncxUUQ5VVR2ZHRwVUtjVnNCN2FMUk1iNng0MVpLZmNCclV2QmhCbkJnN3ZWeTZGVk1HeXg3VUtfWFdhTUJuQTdlbHhtTmlITFZIVjZkQ0JRZlNCOHdZMF9FLV9RNjdZaDY4TXJjQ0VjeVJtcGhhcGZoUzJuX2x3ell1Vg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T03:30:37",
+      "collected_at": "2026-06-14T09:06:28.934974",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "남극 기후 변화: 빙산 묘지 탐험에서 얻은 교훈"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "남극",
+          "기후 변화",
+          "탐험",
+          "빙산 묘지",
+          "교훈"
+        ]
+      }
+    },
+    {
+      "id": "1f2804ead74be022",
+      "title": "'Climate change, water scarcity a major challenge for future generations': Judge Vibhu Bakhru - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQjMtT1VxUjdwSTlwQllXbHpmNUtsYjVXcllKbVFnVk1wQ1R2QVJKQ0dVWkpMbEpRNE5XWEJLRUU1dlRBYjdJWUt4Ym5qTzVsREpTUnRpdkVXeGh0dDIyeWJFTGhGRVU5dHRscTNLZlVhRzJ1Q3hNVEJhbllXWnRWTU1CYjFUZWpleUViWWE5STF4SEJMaGdMLWp6VEs0OUNISFl6a3VfcGhIQk1IT0hNRWNnOE5wZElZbXFhSVRTeEFnMGhGVjZIaU55bTd2RlZUNUlhUmRvZGtIdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T01:19:53",
+      "collected_at": "2026-06-14T09:06:28.935019",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "'기후 변화, 물 부족은 미래 세대의 주요 과제': 비부 바크루 판사 - 데칸 헤럴드"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "물 부족",
+          "미래 세대",
+          "주요 과제",
+          "판사"
+        ]
+      }
+    },
+    {
+      "id": "68e5ca80ef16335a",
+      "title": "Climate Change Threatens Assam Tea Industry's Future - Prag News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTB1bTNqOHphRDl6bkpFSXZyRUxiejdXYURhRFUxUERVN2VfOURkVVpKTS03U1REZk0zRUsxOHpGTHZzNG55MDFid3dpTm5oWkU0QmxKNWxSU2ZUZ3dxNndnNUNyY21DLWVGYTh3WG8wV1BpbDYyZnY0WTczWWtWQzZMYUFCUFBuR0k1TA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-14T05:52:04",
+      "collected_at": "2026-06-14T09:06:28.935297",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 아삼 차 산업의 미래를 위협 - 프라그 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "아삼",
+          "차 산업",
+          "위협",
+          "미래"
+        ]
+      }
     }
   ]
 }
