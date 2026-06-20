@@ -1,0 +1,735 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T23:35:46.341860",
+  "briefing": {
+    "opening": "Good morning/afternoon. Welcome to the climate briefing for June 20, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Escalating Climate Crisis: Global Extreme Weather Phenomena",
+        "content": "According to news reported today, sea temperatures off the East Coast have reached a 'boiling' state, leading to an abundant catch of bluefin tuna, which is interpreted as a serious warning of climate change [1]. Despite being a temperate climate zone, Europe is experiencing increasingly severe heatwaves [5], and concerns are growing that this heatwave is more intense than previous ones [7]. Specifically, wildfires have broken out on Evia Island in Greece, deploying firefighters and aircraft [28], and in New Jersey, 27,229 acres burned during the 2025 wildfire season, indicating that climate change is making wildfire suppression more challenging [15]. In Bangladesh, powerful flood images demand deep introspection on climate change [26], and in Nepal's high-altitude regions, climate change threatens Tibetan Bon religion, demonstrating the global spread of the direct impacts of the climate crisis [13]. These phenomena suggest extreme heatwave conditions where even a broken car air conditioner can be life-threatening [19], and research indicating that roads built in northern peatlands for oil and gas exploration could accelerate climate change further underscores the severity of the current situation [25].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Climate Response Efforts and Policy Challenges",
+        "content": "In positive news, the EU has confirmed progress towards carbon neutrality by reducing greenhouse gas emissions by 17% over the past decade [8]. The United States is expected to rank better than Canada in climate change response 'despite Donald Trump' [21], which highlights the importance of national climate policies. Meanwhile, the phenomenon of 'waving the white flag' on climate goals by US Democratic strongholds, despite the cheapest solar technology, demonstrates the difficulties of policy implementation [3]. France is discussing whether to change its conventional thinking on the necessity of air conditioning for heatwave management [24], seeking new approaches to climate change adaptation strategies. In Canada, local leaders are gaining ground in the race to re-establish the climate change agenda as a national priority [27], indicating the potential for strengthened political momentum for climate action.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🇰🇷 Domestic Climate Response and Renewable Energy Trends",
+        "content": "Domestically, Gangjin County has completed the creation of a climate-responsive urban forest at Gangjin Intersection, implementing local-level climate action [4]. In Gangneung, one year after the 'drought in 108 years,' the water management system has reached a turning point, demonstrating adaptation efforts to climate change [2]. In the renewable energy sector, multi-trillion dollar investment opportunities are mentioned, with '200 trillion won big players' eyeing Korea as an investment destination, raising positive outlooks [11]. Furthermore, the practical role of hydropower and pumped-hydro storage in power stability during the renewable energy era is being emphasized [10], and the CEO of Scout Clean Energy has unveiled its 2026 wind and solar pipeline, exploring cooperation strategies with Korean companies [12], anticipating the expansion of the domestic renewable energy industry. However, concerns that the rapid expansion of solar power could lead to dependence on China [9], coupled with active discussions on the key issues and implications of Article 36 of the Framework Act on Carbon Neutrality and Green Growth regarding special provisions for carbon tax collection [6], necessitate a cautious approach to domestic climate policy.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌱 Raising Climate Change Awareness and Human Resilience",
+        "content": "Efforts to raise public awareness of climate change are ongoing, with the necessity for continuous dialogue on the matter being emphasized [17]. Visualization tools like '#ShowYourStripes' are highly regarded as excellent instruments for drawing attention to global warming [14, 18]. Small individual actions can also contribute to climate change mitigation, and it is emphasized that everyday choices, such as 'a single meal,' can drive change [16]. Michael Bloomberg is encouraging active private sector participation by donating an additional 400 million pounds to climate change response efforts [20]. An interesting Israeli study reports that humans steadfastly confronted climate change 6,500 years ago [23], demonstrating humanity's long-standing resilience. A coastal village is fighting climate change through a boat race [22], suggesting that local communities can engage in climate action in creative ways.",
+        "tone": "positive"
+      }
+    ],
+    "closing": "Today's news highlights both the severity of the global climate crisis and the diverse efforts and policy challenges in addressing it. Sustained attention and proactive action on climate change are more crucial than ever. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Scorching East Coast, a Climate Change Warning Hidden Behind an Abundant Bluefin Tuna Catch - 2news.co.kr",
+      "original_title": "펄펄 끓는 동해안, 참다랑어 풍어 뒤에 숨겨진 기후변화의 경고 - 2news.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUEpVSW02Q2xHVkVER29NVFZmR2t3dmJ3WlJ0Z2oxMG5JckZxajlVVHZmTkZsNlV3YTh0UkNyWlVPTlF0ZHVTN3lNS245d05aX1czSXhmZkNNSlp1NGpHWkN0QW93R2hz?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T21:53:00",
+      "description": "Scorching East Coast, a Climate Change Warning Hidden Behind an Abundant Bluefin Tuna Catch",
+      "summary": {
+        "phenomenon": "The water temperature off the East Coast has risen to a 'scorching hot' state, leading to an abundant catch of bluefin tuna.",
+        "cause": "This phenomenon has been cited as a warning of climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "East Coast",
+        "Bluefin Tuna",
+        "Bumper Catch",
+        "Climate Change",
+        "Warning"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "펄펄 끓는 동해안, 참다랑어 풍어 뒤에 숨겨진 기후변화의 경고 2news.co.kr"
+    },
+    {
+      "id": "2",
+      "title": "'Drought in 108 Years' One Year Later... Gangneung Drought Becomes a Turning Point for Water Management System - Yonhap News",
+      "original_title": "'108년 만의 가뭄' 그 후 1년…물관리 체계 전환점 된 강릉 가뭄 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkc2MtZC1BY2NyV0h5UkptbUhGUjJZNEtWVlhpWURUTzdXR0gwN2xfMWR3LUpzMTFzOEsyMWRPamQzZ01xZXdEblBGa1E4bU5JNTVDS0dzbFd4MlHSAWBBVV95cUxNbGV4d094c0hXWkc4WlZvZzlUcHBsMFc0UG8zWXkwRFNGS2ZadWtldF9YdnpKU2MzN2VrZkZFYTRHREN6eTZLbnFMTm1nWDkxX1oyaS1PZXpHU0docWFhLVA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T22:00:22",
+      "description": "'Drought in 108 Years' One Year Later... Gangneung Drought Becomes a Turning Point for Water Management System",
+      "summary": {
+        "phenomenon": "'Drought in 108 Years' One Year Later... Gangneung Drought Becomes a Turning Point for Water Management System",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Drought",
+        "Gangneung",
+        "Water Management",
+        "System Transition",
+        "Turning Point"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'108년 만의 가뭄' 그 후 1년…물관리 체계 전환점 된 강릉 가뭄 연합뉴스"
+    },
+    {
+      "id": "3",
+      "title": "Cheapest Solar Power, Yet US Democratic Stronghold States Wave White Flag on Climate Goals - Global Economic",
+      "original_title": "가장 저렴한 태양광, 정작 美 민주당 텃밭 주들은 기후 목표 ‘백기’ - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0E1bVpGWDlpTlRUWnZNVXZHSTNnZEw4eFRYZjVBWmFWUUtyMjlfVGNlUjNLRExxajZnQkZ4RzAxcHdrSXdyUXhHRENKVzJ5dWdaTUYzVnJsMTU2VkthekV3Sjh3ZmMwU3BPMGFXRG9mdktIaGlCQTI2VXg3VDhzRDgzdjY3MGpI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T22:30:16",
+      "description": "Cheapest Solar Power, Yet US Democratic Stronghold States Wave White Flag on Climate Goals",
+      "summary": {
+        "phenomenon": "Cheapest Solar Power, Yet US Democratic Stronghold States Wave White Flag on Climate Goals",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Solar Power",
+        "US Democratic Party",
+        "Climate Goals",
+        "White Flag",
+        "Affordable"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "가장 저렴한 태양광, 정작 美 민주당 텃밭 주들은 기후 목표 ‘백기’ 글로벌이코노믹"
+    },
+    {
+      "id": "4",
+      "title": "Gangjin County Completes Climate Response Urban Forest Creation at Gangjin Intersection - Tamsa Ilbo",
+      "original_title": "강진군, 강진교차로 기후대응 도시숲 조성 완료 - 탐사일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wRmh6aFctTVowN1ZjN0RkcTdQTnJndnJ1OEVraHVLUVptRlZvUWtQaVJBaHlPa1VTaE0tR2I2emJTUkU0QXdlS28xSVo0YnJVbVB4aTA1cHpPQ1dNOWg0WlhXSW1rQk5uS2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T16:12:00",
+      "description": "Gangjin County Completes Climate Response Urban Forest Creation at Gangjin Intersection",
+      "summary": {
+        "phenomenon": "Gangjin County Completes Climate Response Urban Forest Creation at Gangjin Intersection",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gangjin County",
+        "Gangjin Intersection",
+        "Climate Response",
+        "Urban Forest",
+        "Creation Completed"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "강진군, 강진교차로 기후대응 도시숲 조성 완료 탐사일보"
+    },
+    {
+      "id": "5",
+      "title": "Despite Europe Being a Temperate Climate Region, Why Are Heatwaves Becoming Increasingly Severe? - Vietnam.vn",
+      "original_title": "유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지는 이유는 무엇일까요? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWdOdWZPWWs1MXBBZHViRk5VcVBzSjNuTThOOUZwOW56MkpkcGI1T2ZOejJKQzh1UVdPaVBsYzU5cDV6akNNV2I3VnBxZVBMbDBFckp1U3M1VnFGX1pucElCV0tpVlR3eFZHMkVQMlJZMWllQmFoX2R1aVlMd0tUZWg0VktmN3NaOHlGb0UxVndIX1VvbTBZNHJrQTNHUGUxMGRTNmh3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T15:14:52",
+      "description": "Despite Europe Being a Temperate Climate Region, Why Are Heatwaves Becoming Increasingly Severe? Vietnam.vn",
+      "summary": {
+        "phenomenon": "Despite Europe Being a Temperate Climate Region, Why Are Heatwaves Becoming Increasingly Severe? Vietnam.vn",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Europe",
+        "Heatwave",
+        "Temperate Climate",
+        "Intensification",
+        "Climate Change"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지는 이유는 무엇일까요? Vietnam.vn"
+    },
+    {
+      "id": "6",
+      "title": "Article 36 of the Framework Act on Carbon Neutrality and Green Growth: Key Issues and Significance of Special Provisions for Carbon Tax Collection - Environmental Monitoring Daily",
+      "original_title": "40화 탄소중립녹색성장기본법 제36조, 탄소세 징수 특례 규정의 핵심 쟁점과 의미 - 환경감시일보",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kVmVPYlFKLWdJeS1jNjFQdjEzZTVfWHVmaUM4MVRKRTl4clUzcGhxMzVQUkdhSHdKbXFfZDFfbVNNMm85NVVYLS1odFVvZDQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T09:41:03",
+      "description": "Article 36 of the Framework Act on Carbon Neutrality and Green Growth: Key Issues and Significance of Special Provisions for Carbon Tax Collection",
+      "summary": {
+        "phenomenon": "Article 36 of the Framework Act on Carbon Neutrality and Green Growth: Key Issues and Significance of Special Provisions for Carbon Tax Collection",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "40화 탄소중립녹색성장기본법 제36조, 탄소세 징수 특례 규정의 핵심 쟁점과 의미 환경감시일보"
+    },
+    {
+      "id": "7",
+      "title": "Why Is This Heatwave More Severe Than Before? - Vietnam.vn",
+      "original_title": "이번 폭염이 예전보다 더 심한 이유는 무엇일까요? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85eVN3Q2dxYmMteVlnVkRDUXgtT1JUalJSZ0lFTFhwZFhONTlaR1F5eENFTU5sbktyZ1FrMUF3NEtFN3pfZGdOVzdLOEpEUzNUX2ZVUDJSR0JNUXRJcnE4dVJtWUVXc2sxOFFzM0tQYkJSZEw5M0l3MEVVb19XZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T09:29:50",
+      "description": "Why Is This Heatwave More Severe Than Before? Vietnam.vn",
+      "summary": {
+        "phenomenon": "Why Is This Heatwave More Severe Than Before? Vietnam.vn",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Severe",
+        "Than Before",
+        "Reason",
+        "This"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "이번 폭염이 예전보다 더 심한 이유는 무엇일까요? Vietnam.vn"
+    },
+    {
+      "id": "8",
+      "title": "EU Greenhouse Gas Emissions Down 17% in 10 Years... Progress Towards Carbon Neutrality Confirmed - Climate Energy Economy",
+      "original_title": "EU 온실가스 배출 10년 만에 17% 감소…탄소중립 향한 진전 확인 - 기후에너지경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4eFZrbFpxSVlGa25kc05JTjNYckg2UzhkaHhIdHQzMU5XUVpscjhmdFFvZkhNOHNULU5BNGdneGFHbjgyYUg1M3ZLQ1RIVVBBbkZSaGVzTDUtNnprRXFqOWJJTmY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-20T13:51:42",
+      "description": "EU Greenhouse Gas Emissions Down 17% in 10 Years... Progress Towards Carbon Neutrality Confirmed",
+      "summary": {
+        "phenomenon": "EU Greenhouse Gas Emissions Down 17% in 10 Years... Progress Towards Carbon Neutrality Confirmed",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "EU",
+        "Greenhouse Gas Emissions",
+        "17% Reduction",
+        "Carbon Neutrality",
+        "Progress"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "EU 온실가스 배출 10년 만에 17% 감소…탄소중립 향한 진전 확인 기후에너지경제"
+    },
+    {
+      "id": "9",
+      "title": "[Field View] Solar Power Expansion Speed Race: Risk of Fostering Only 'Assembly Korea' Dependent on China - Chosunbiz",
+      "original_title": "[현장의 시각] 태양광 확산 속도전, 중국 종속 ‘어셈블리 코리아’만 키울라 - 조선비즈 - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdERLcWs5aWxjZVRZT1lPMlh3RUU0cUF1cEJGTjA1eVk2UU04UEg0WkdJUDVNUTZrd0JUUWsyWW5oblBtaE84OWI5blJBX2s5NVIyVnlheW9NRExFeEs2aTBkVlNrd1ZhUkthWmVDV2sxNzVhRkhNTGpwRmJ6NTJNTnNIalXSAZgBQVVfeXFMTVNDT1BnVnh3NTUyS3VUWWR1XzhCMWt5MTlvOEtIWGREWEJMRHpyQnBMeE92MC1PcDBHaFRUMlQxQWxCVXhrUkVRS3lQY0RpdjNON2VDZHlrYlpZRUtlNG00S0VYRlRtdkEwQjNadGtIdGtva3J1WWxGQXFadzJZcTRpeGlqeGV0Q3ZwM0NtX0FIZFh1TUotdFo?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T21:58:00",
+      "description": "[Field View] Solar Power Expansion Speed Race: Risk of Fostering Only 'Assembly Korea' Dependent on China",
+      "summary": {
+        "phenomenon": "[Field View] Solar Power Expansion Speed Race: Risk of Fostering Only 'Assembly Korea' Dependent on China",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Solar Power",
+        "Chinese Dependence",
+        "Speed Race",
+        "Assembly Korea",
+        "Warning"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[현장의 시각] 태양광 확산 속도전, 중국 종속 ‘어셈블리 코리아’만 키울라 - 조선비즈 Chosunbiz"
+    },
+    {
+      "id": "10",
+      "title": "In the Era of Renewable Energy, the Key to Power Stability: The Real Role of Hydro and Pumped-Storage Power Generation - Brand Economic Newspaper",
+      "original_title": "재생에너지 시대 전력 안정의 핵심, 수력·양수발전의 현실 역할 - 브랜드경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kRUdPSktZNHB0dE5vN0poNVY5alo1dU4zWUNpZ3RYaXM3eGlRSUxwNmw3ZFhWakhqaGhmdnQtcHp4WDVtd3VfREdNWHg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T20:59:44",
+      "description": "In the Era of Renewable Energy, the Key to Power Stability: The Real Role of Hydro and Pumped-Storage Power Generation",
+      "summary": {
+        "phenomenon": "In the Era of Renewable Energy, the Key to Power Stability: The Real Role of Hydro and Pumped-Storage Power Generation",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "Power Stability",
+        "Hydroelectric Power",
+        "Pumped-Storage Power",
+        "Key"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 시대 전력 안정의 핵심, 수력·양수발전의 현실 역할 브랜드경제신문"
+    },
+    {
+      "id": "11",
+      "title": "“Trillions of Dollars Opportunity in Renewable Energy”… Where the '200 Trillion Won Big Investor' Has Chosen to Invest in Korea - Nate",
+      "original_title": "\"재생에너지에 수조달러 기회\"…'200조 큰손'이 찍은 韓 투자처는 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WX0dXWU1kVWxCZGZDRjVaM2c2bTF4WEpGa2pyVWFBVVVhUVNMZXV3OGRyWGsydUd6RHQ1RU8zRnE4b1pTTEx1S3phWURiNGktRkM0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T21:01:00",
+      "description": "“Trillions of Dollars Opportunity in Renewable Energy”… Where the '200 Trillion Won Big Investor' Has Chosen to Invest in Korea - Nate",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable energy",
+        "Trillions of dollars",
+        "Opportunity",
+        "Investment",
+        "Korea"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"재생에너지에 수조달러 기회\"…'200조 큰손'이 찍은 韓 투자처는 네이트"
+    },
+    {
+      "id": "12",
+      "title": "Scout Clean Energy CEO Unveils 2026 Wind and Solar Pipeline… What is the Cooperation Strategy with Korean Companies? - Korea Public Policy News",
+      "original_title": "Scout Clean Energy CEO, 2026년 풍력·태양광 파이프라인 공개…한국 기업 협력 전략은 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ZQk5JSXFfdDhkc3hiQTVmTllSeFRBVkpSeVcxZDZncDY5dm9UTmk3a2lYcjFseDhRMG4yX1dYZUtkc3M?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T18:10:45",
+      "description": "Scout Clean Energy CEO Unveils 2026 Wind and Solar Pipeline… What is the Cooperation Strategy with Korean Companies? - Korea Public Policy News",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Scout Clean Energy",
+        "Wind power",
+        "Solar power",
+        "Pipeline",
+        "Korean corporate cooperation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "Scout Clean Energy CEO, 2026년 풍력·태양광 파이프라인 공개…한국 기업 협력 전략은 한국공공정책신문"
+    },
+    {
+      "id": "13",
+      "title": "네팔 고산지대에서 기후 변화가 티베트 뵌교를 위협한다",
+      "original_title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU9nc1h4dXQ2ak0yRXc2aGNoUjJMUnJ2T3NrVHBaSlVWamo1QzliSHZYaDlKc2ZLWHZabjJwZlJhZld5elF2aGMtdG9QSWFiQy1aa004X0VEbG9PbmV3WGU4aVZXa0c2aWNyY0o1T0c1a25jM2YzSzh2X1lFQkVmUTRGaW5vcmpaenpQNUt6WUxLRmFzYzFsVkRQMVNVekc2eGdrVmt5RXJKV0J5dV9UcU9aeUlwd9IBuwFBVV95cUxPUWcteWlRRzJpdGc0VHVud2RjMjV4UlpWaUh6WDRNMDN6bUUyRU9jZEFPeHNuU28zZzd5SlhCeHk5YlM3bEVHVDBlYWlmVUtFZ1hxLS1OQXhHdDI4RTBuRzBUb3EtWHMwYmNFZmlldWNjMkFZWFUwSXhpOEVMd2JrTEk3TUFhTHY2amcyWXQ2aWkwVjNIblkxQVBfbkVEOUNsNHcta0hCM3BxdjV1UV9CN044ZWIwZGtmdWVJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T13:11:46",
+      "description": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith Al Jazeera",
+      "summary": {
+        "phenomenon": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith Al Jazeera",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nepal",
+        "Highlands",
+        "Climate change",
+        "Tibet",
+        "Bon faith"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith Al Jazeera"
+    },
+    {
+      "id": "14",
+      "title": "#스트라이프를보여줘: 하나의 훌륭한 기후 변화 시각화 - 브라이언 알렉산더",
+      "original_title": "#ShowYourStripes: one excellent climate change visualization - Bryan Alexander",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2lxVHR5M2VVWkp4Z3lMYmx2MTZuVWZTMGdJNHVUc1pKLUdxREpVNmZibUV6NmNFN181NUhBQmNhblV5UFB4aUhncnlJZTVra2NDbjd6WUdXOGpjYU5xYUFyY0psUTQ1akNnLVY1VzBNeDJIS1ZxUmljVm8tVEVDaS02TUMwaDllbFhBdmNMdUJWdGR1aE9YNFktc3ZWWFhRN0E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T20:49:15",
+      "description": "#ShowYourStripes: one excellent climate change visualization Bryan Alexander",
+      "summary": {
+        "phenomenon": "#ShowYourStripes: one excellent climate change visualization Bryan Alexander",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Visualization",
+        "Data",
+        "Awareness",
+        "Campaign"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "#ShowYourStripes: one excellent climate change visualization Bryan Alexander"
+    },
+    {
+      "id": "15",
+      "title": "2025년 뉴저지 산불 시즌 동안 27,229에이커가 불탔다. 기후 변화가 산불 진압을 더 어렵게 만들고 있다 - WHYY",
+      "original_title": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain - WHYY",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdJVzk3Xy1RX0NhNlBCOEsxM2JLWXZrWl9lNmJkLVpzVWlXVklvNENlaE9CUWZBd1kxS1VIYVd5ek53Sko1TjFmdVo1MW5uQXVLeVkzWUJIS3hBcHhwWTFwOXR1U19aQWRJZ1J2V3RXcVNidTRUUGwtYTItUWxZYg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T09:30:38",
+      "description": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain WHYY",
+      "summary": {
+        "phenomenon": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain WHYY",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "2025",
+        "New Jersey",
+        "Wildfires",
+        "Climate change",
+        "Difficulty in containment"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain WHYY"
+    },
+    {
+      "id": "16",
+      "title": "한 끼 식사로 기후 변화 완화하기 - 에스테로 베이 뉴스",
+      "original_title": "Mitigating Climate Change One Meal at a Time - Estero Bay News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFo2NnJiRUVJekNHWnZ6UDUzTmxENU84bU81YlAwc2NlU1VKMm01VTFfUjJCaFJJS1lwekx5aWhYdGFocUstM1BBMFpiR1JDU2ZhUXhKOHZXM2dBM3Z3MmhLR2M4OFlNTk9tSmZhdVdnT1ZDV0NVaG1UcERpYnZ1eGFOVVNjNEt5elhqb0l3OTJHZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T18:17:29",
+      "description": "Mitigating Climate Change One Meal at a Time Estero Bay News",
+      "summary": {
+        "phenomenon": "Mitigating Climate Change One Meal at a Time Estero Bay News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Mitigation",
+        "Meals",
+        "Food",
+        "Individual action"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Mitigating Climate Change One Meal at a Time Estero Bay News"
+    },
+    {
+      "id": "17",
+      "title": "Why we need to (keep) talking about climate change - E3G",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Y0IxaVptSV94N2FoMW04LU4yd2tpcTNreEhQYkdKQUF2ME5JUGU3MUZocmNRMGViOG5kRDQ0bTIwM2xLRWdUcVpmQWlaN243alpJN0xBRmdrRXJtZ2FJUHhqMVl0UzJ1SHJMd1huOEJoa2JoREk5SjVvY0J2LTA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T23:31:10",
+      "description": "Why we need to (keep) talking about climate change E3G",
+      "summary": {
+        "phenomenon": "Why we need to (keep) talking about climate change E3G",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why we need to (keep) talking about climate change E3G"
+    },
+    {
+      "id": "18",
+      "title": "Show your stripes: Graphic brings attention to global warming - The Invading Sea",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGhUZmJvRkRQUTJfYzdYS3h2bnZVR0V3M2E4YzI1bW9BSEFSVnZXZTZNVXpVci1CZEdCMmRjUGJDSFhxc0kxTkpma2UwY25zMldoZFJ1RTJEY3lPN0M5bGVOanRxYlphN1FDVUF1aVdFS0picGNXd1MtelVCUTBSNEI1X2hmNGJIWG02aTB1UEZEU2lWcmtVRlN6TVA1NGxacTFQYk9sa3FfTWpsZmJ1dUdNeS1qMmlEWWlBT3E5LWdVS2FkTTF0QU5FekZDMGc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T11:45:42",
+      "description": "Show your stripes: Graphic brings attention to global warming The Invading Sea",
+      "summary": {
+        "phenomenon": "Show your stripes: Graphic brings attention to global warming The Invading Sea",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Show your stripes: Graphic brings attention to global warming The Invading Sea"
+    },
+    {
+      "id": "19",
+      "title": "고장난 자동차 에어컨 하나면 기후 변화로 죽을 수도 있다",
+      "original_title": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You - jezebel.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW9mdlRlZGVrc2ptX296TVF2ZzI3RnlRTnZBSUNUMmF0MXFlTlYwLU9CaDBMU01oXzN6a05oN0UyTEdKRWxJQzlfZ1E0bkhleG1GZWNRZG9SWnBDNW9YLVU3VTl5YWxDTW1oMnNOMEVVNzRLSWtfQ0FjeFRuckZEQVp2UWJ4c1NxbHJfbDE0UEF1TUg0Q2Y3S2VoOVRJbUpMckN2anVyZUJxVmprV0o1VWxrNVo3NFdROUEzeEhn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T12:35:21",
+      "description": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You jezebel.com",
+      "summary": {
+        "phenomenon": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You jezebel.com",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Car air conditioner",
+        "Death",
+        "Breakdown",
+        "Risk"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You jezebel.com"
+    },
+    {
+      "id": "20",
+      "title": "마이클 블룸버그, 기후 변화 대응에 4억 파운드 추가 기부 - 더 타임스",
+      "original_title": "Michael Bloomberg to commit extra £400m for climate change fight - The Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT19LbEhfd3NORE5sWUlYR053RFRfUXZMU2NHQkl1ekRVX3dNSnlXbXFjN256RGNHeVUyVHJsdzNKMjlKXzNURDhJRGUxSDBaa3NZWDVCdEZWYzBENEZodHZJWFFvNW1Sa1l3aGEzWjIwZURyQ3hMcGZoU0xwbmtTVXV6MFB6YmhiZWZtV1oyaWZOZW9LZ2hralU0TURFYUQ4WG5pX3VIbUxCaUMtekFWamotWEZoQWZIY3FBdHlmYVpnMFpQbWN6ZzlFSnhsQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T21:00:00",
+      "description": "Michael Bloomberg to commit extra £400m for climate change fight The Times",
+      "summary": {
+        "phenomenon": "Michael Bloomberg to commit extra £400m for climate change fight The Times",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Michael Bloomberg",
+        "Climate change",
+        "400 million pounds",
+        "Donation",
+        "Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Michael Bloomberg to commit extra £400m for climate change fight The Times"
+    },
+    {
+      "id": "21",
+      "title": "미국, '도널드 트럼프에도 불구하고' 기후 변화 대응에서 캐나다보다 나은 순위 기록할 것 - 몬트리올 가제트",
+      "original_title": "The U.S. will rank better than Canada in the climate change fight ‘despite Donald Trump’ - Montreal Gazette",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjE1MkxmVlBxUUV5djNOMG1SRVBfWXZQazh0N3ZXLVAtcDExV1ZGUGhZSThsTks0OXZGMmYtTlEwWDIxSXVRcGdic3N5SkphX3JHM0xsX205U3QxaEdFd25sNHdKQnJscHZrYjZXbzhLamZxSXlFOEFvcU1pOXRiSGw4bkVSUlZmM0VHQWVJT0I0dnhucEFRcDROVFhmc2E5UnpRX1lPOUJoSkRnS1V5b1VOOXdZRmxIWHQzYVVaV2ZMQl9zQ3BtWWdWaHQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:00:00",
+      "description": "The U.S. will rank better than Canada in the climate change fight ‘despite Donald Trump’ Montreal Gazette",
+      "summary": {
+        "phenomenon": "The U.S. is projected to achieve a better ranking than Canada in its efforts to address climate change. Specific rankings or timelines were not detailed in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "U.S.",
+        "Canada",
+        "Climate Change",
+        "Donald Trump",
+        "Climate Response"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The U.S. will rank better than Canada in the climate change fight ‘despite Donald Trump’ Montreal Gazette"
+    },
+    {
+      "id": "22",
+      "title": "Rowing against the tide: How a coastal village is fighting climate change with a boat race - The Business Standard",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGFXcjF1NXAyZW9MZVFPTFVDYTcyVERwblRjYjltWlJPTVV3dUJvZGZyeWVfWEttb2MyeklRT3hUM0NwN1hQLUpmMllUcTZ3S1JCUEktU0xZQ3VGNkFibEFwUzZ3anRXdE9td19CZi0wSXpmNzhLWHRKZkpIaFF3S0tGaUpTMTNJWDBvN3A0bjB4YjRoWlh4dlJnZ3VmclJqeUExYXVmM2k2LXl4c3oza2V0a0FxOUZNOFlLNUo5YWHSAcYBQVVfeXFMTXRtSjFrUHd3VlJDY2xPZS00MU9yRGQ4WVZFSHJQbVVTLVpaUGxMVmNHWW5aU1dWUEt2bW5PcWZ0T2lKYXFLSW1FQ3djakk2Nk5zSVAwNlVGODRqYkVxMWxiZ1ZOeVpoUG84azVXYTFFZVQ2dzZoaWEyMTFtWUdYZWt0ZDlkRGxUa3llN3hQbTVPVkVhTi1KeF9sMUF2VDktY2RQaXRPbE1ubGhxRWQxV292dlFLYWs5bDNZR2lMX1ZRTk43dl9B?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T19:48:44",
+      "description": "Rowing against the tide: How a coastal village is fighting climate change with a boat race The Business Standard",
+      "summary": {
+        "phenomenon": "A coastal village is employing a boat race as a strategy to combat climate change. Specific geographical details, timelines, or quantitative data were not provided in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Rowing against the tide: How a coastal village is fighting climate change with a boat race The Business Standard"
+    },
+    {
+      "id": "23",
+      "title": "이스라엘 연구: 6,500년 전 인간, 기후 변화에 굳건히 맞섰다",
+      "original_title": "Study in Israel shows humans stood tall in front of climate change 6,500 years ago - WION",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWxfLVY5elhPVGFUWlJ1VlNFbW5HczB3MmRRNHhudmllNGVMblVLV2ZfSmlGMml1LTlzdlJUeThYSExrVjVraVlWcGp2bmxJQXpSdDNKZGxCY3I0Tm1LM0d6Y3JyWlU2bDA4VkkweWpLNWtQUUZIYXlFU051NE9SS2ZDYkhEMFd1WDBxQWVxVHVDd2wxVzREbXRmZ013Q1pROW11Ymk4ZFhLMGVpS0tfWEJQNDVHejVvR2NUc3l1RkVkNXlpaDNZV9IBzgFBVV95cUxNR3ZTUzZ1YUVGbnZ4OWhfRUlBcTRJcmtZOFo5NUhuNnpxaGtmekh0WEx0VlNnUGtTWkctNVV3ZkdydVA0SFQ5dTZUWVJUNzQ5WjRpaFNUSTUwSHg1bXQ2dWJ0cDJaWWNBZzV6NUNqeUMtbHVIY2RJOEVpTkdMbTBTeVpaanh1X2RzQVdoRWFOQkI1c003dUpzMXBQRzRGUXl3NEcycmhkVGpJdlVTVTVqS245dlNzbVFHdzFSNnJuTm9CV1c0S2ZTTXhnQm9aQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T13:01:00",
+      "description": "Study in Israel shows humans stood tall in front of climate change 6,500 years ago WION",
+      "summary": {
+        "phenomenon": "Research conducted in Israel indicates that humans demonstrated resilience in the face of climate change 6,500 years ago. The specific manifestations of climate change or the exact human response mechanisms were not elaborated upon in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Israel",
+        "Climate Change",
+        "Humans",
+        "Adaptation",
+        "Ancient"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Study in Israel shows humans stood tall in front of climate change 6,500 years ago WION"
+    },
+    {
+      "id": "24",
+      "title": "에어컨이 폭염 대처에 필수적인가? 프랑스가 이 문제에 대한 생각을 바꿀 수도 있다 - 르몽드.fr",
+      "original_title": "Is air conditioning essential for coping with heatwaves? France might be changing its mind on the issue - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeFVoSWx2SE9JMktwTERXd3RjV09Ud3Bodk9SSWRUSEwyNEN3Um1fbW9wejkyTjRlTWI5T3pCMDR3cXdVNFpFWWprSTZCVFNTWHRFenFwV19nNWVPblB2Ny1EeFEzQUpJWmpocldyNE9FQmxtX1VUZWR4T2k3dUx2bWF0Skxkam8weXF4NzVGVWhCeFppWjd3d2FITFFWS1ZYNm43M3paazJZaFp3M1BKVUgxTVlaTzZkbnVlNVdLal9XSGFHb2dwYXFXUEJ6VFVsMWV2RU1LdDB5aGc0b2hDN0ZycHE2SVRadUFSVUh5Qm9XZS02Wk45ODMtNktvZGZVTElBdUoxVQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:38:48",
+      "description": "Is air conditioning essential for coping with heatwaves? France might be changing its mind on the issue Le Monde.fr",
+      "summary": {
+        "phenomenon": "France may be re-evaluating its perspective on the necessity of air conditioning for managing heatwaves. The specific timing or location of heatwave occurrences, or France's prior stance, were not mentioned in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Air Conditioning",
+        "Heatwave",
+        "France",
+        "Essential",
+        "Policy Change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Is air conditioning essential for coping with heatwaves? France might be changing its mind on the issue Le Monde.fr"
+    },
+    {
+      "id": "25",
+      "title": "석유 및 가스 탐사를 위해 북방 이탄지에 낸 길이 기후 변화를 가속화할 수 있다: 연구",
+      "original_title": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYW9HTEJHOHJJaFU0ZGd3UHRpQXUzT2pMb2c0eWVOSERkejlISG1WUUZBY0dzTVFWTlV5WGcycVRWN1ZOclNiV0hoVXVIMWtOOXBCSkpiZUZWekdzbmpuTFp1NjNDbl83eTFTSHZWNU9oUUJNa2dGaTBxZXVWYzhsXzUxaVJXdVF0My1ranUyeHZqUkxTd2ZaMg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T14:00:00",
+      "description": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study CBC",
+      "summary": {
+        "phenomenon": "A study suggests that pathways created in boreal peatlands for oil and gas exploration may be accelerating climate change. Specific regions, timelines, or the degree of acceleration were not detailed in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Boreal Peatlands",
+        "Oil and Gas Exploration",
+        "Climate Change",
+        "Acceleration",
+        "Study"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study CBC"
+    },
+    {
+      "id": "26",
+      "title": "방글라데시 홍수의 이 강력한 사진들은 당신이 기후 변화에 대해 더 깊이 생각하게 할 것입니다 - 아마추어 사진작가",
+      "original_title": "These powerful photographs of the Bangladeshi floods will make you stop and think harder about climate change - Amateur Photographer",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVlWMnhNYmg3dE83ejZ3dmsxekNmTnkwMUNqU3pKZlY4Yk5IM3RoRlhuWmdVY3ZTMzRVVjlmdDRIQ2EtLUxENVlWc3ltRFRlR1JjeS1nMl9yVDBnVlVHXzNZc0JVWktJUE9lQ0lPZ1JZZm5TSmxENXBRVGtiaU9WbGNZMDhhTkl2RU1meVAtZlhNNjFtdGUtUTlBa19GZ1IzMjNLcW1oSExGejlZOHhFQnI0WnhISkp6SkdsQ0NQeXlTbEJ3WEV0NUxxWWtpZFZ0OGg1dEJOaVNOUFBNcm1uWjFqbkZVczdpalkyNg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:00:00",
+      "description": "These powerful photographs of the Bangladeshi floods will make you stop and think harder about climate change Amateur Photographer",
+      "summary": {
+        "phenomenon": "Flooding has occurred in Bangladesh, and compelling photographs of these events are prompting deeper consideration of climate change. The specific timing, location, or scale of the flood impact were not mentioned in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Bangladesh",
+        "Flood",
+        "Climate Change",
+        "Photographs",
+        "Awareness"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "These powerful photographs of the Bangladeshi floods will make you stop and think harder about climate change Amateur Photographer"
+    },
+    {
+      "id": "27",
+      "title": "키스 게라인: 지방 지도자들, 캐나다 기후 변화 의제 재상정 경쟁에서 주도권 확보 - 에드먼턴 저널",
+      "original_title": "Keith Gerein: Municipal leaders grab the reins in the race to put climate change back on Canada's agenda - Edmonton Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGl4b0tlNjlIeEJsOHl0WlROSWxiWWhqRkdNZmdsTkttQWlnVXhOb2xfbU02NHF0bXhXMXRFRmlVaE9Zd05DeUJia0x3RVNTYWFLZ0ZlZVdoR1BqSjQ5NW5KMktPRUVBeV9DQkNvYlotbURfUG1rVXBoQ0hWTm8xYVp5TzJ2ci04cTQ1N1h5QkRHNlBZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T11:23:19",
+      "description": "Keith Gerein: Municipal leaders grab the reins in the race to put climate change back on Canada's agenda Edmonton Journal",
+      "summary": {
+        "phenomenon": "Local leaders in Canada are taking the initiative in efforts to re-prioritize climate change on the national agenda. Specific timelines or regions were not provided in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Local Leaders",
+        "Climate Change",
+        "Canada",
+        "Agenda",
+        "Leadership"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Keith Gerein: Municipal leaders grab the reins in the race to put climate change back on Canada's agenda Edmonton Journal"
+    },
+    {
+      "id": "28",
+      "title": "그리스, 에비아섬 산불 진압에 소방관·항공기·헬기 투입 - 로이터",
+      "original_title": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0F1OGJFY0NlWHd0RHM5QW9FU090UDBSZEF6aFdLcGNucm81QXBpaFBsMlZZTkhGMUpvUTFpcXVySldjLWdDQXVMZGswWjRkMkQzVlMzQUdmVm9hVmNrbk5WaDBkWjdxeVRtTzFaWkdTX2loejMxZUtQOHJpWnFxQ1NmMF9zSWdySTZEdnVVZXBGTnlBdVg1c292T1BXaXF5eW9OTHpIT0lLWmFEb09YVzFtbzJDRG1mYzZtanZvbG1xZGNl?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-06-20T18:21:06",
+      "description": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island Reuters",
+      "summary": {
+        "phenomenon": "Greece has deployed firefighters, aircraft, and helicopters to combat a wildfire on Evia Island. The specific timing, scale, or cause of the wildfire were not detailed in the article.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Greece",
+        "Wildfire",
+        "Firefighters",
+        "Evia Island",
+        "Suppression"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 28,
+    "domestic_count": 12,
+    "international_count": 16,
+    "top_keywords": [
+      "Climate change",
+      "Solar power",
+      "Heat wave",
+      "Climate change",
+      "Warning"
+    ],
+    "sentiment_breakdown": {
+      "positive": 11,
+      "negative": 11,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "태양광",
+      "폭염",
+      "기후변화",
+      "경고"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}

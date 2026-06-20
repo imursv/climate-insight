@@ -1,0 +1,699 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T23:35:46.341860",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 6월 20일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 격화되는 기후 위기: 전 세계적 이상 기후 현상",
+        "content": "오늘 보고된 뉴스에 따르면, 동해안의 수온이 '펄펄 끓는' 상태에 이르러 참다랑어 풍어가 발생했으나, 이는 기후변화의 심각한 경고로 해석됩니다 [1]. 유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지고 있으며 [5], 이번 폭염이 예전보다 더 강렬한 양상을 보이는 것에 대한 우려가 커지고 있습니다 [7]. 특히, 그리스 에비아섬에서는 산불이 발생하여 소방관과 항공기가 투입되었고 [28], 뉴저지에서는 2025년 산불 시즌 동안 27,229에이커가 불타는 등 기후 변화가 산불 진압을 더욱 어렵게 만들고 있습니다 [15]. 방글라데시에서는 강력한 홍수 사진들이 기후 변화에 대한 깊은 성찰을 요구하고 있으며 [26], 네팔 고산지대에서는 기후 변화가 티베트 뵌교를 위협하는 등 전 세계적으로 기후 위기의 직접적인 영향이 확산되고 있습니다 [13]. 이러한 현상들은 고장 난 자동차 에어컨 하나로도 생명을 위협받을 수 있는 극심한 폭염 상황을 시사하며 [19], 석유 및 가스 탐사를 위해 북방 이탄지에 낸 길이 기후 변화를 가속화할 수 있다는 연구 결과는 현 상황의 심각성을 더합니다 [25].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제적 기후 대응 노력과 정책적 과제",
+        "content": "긍정적인 소식으로, EU는 지난 10년간 온실가스 배출량을 17% 감소시키며 탄소중립을 향한 진전을 확인했습니다 [8]. 미국은 '도널드 트럼프에도 불구하고' 기후 변화 대응에서 캐나다보다 더 나은 순위를 기록할 것으로 예상되며 [21], 이는 국가별 기후 정책의 중요성을 시사합니다. 한편, 가장 저렴한 태양광 기술에도 불구하고 미국 민주당 텃밭 주들이 기후 목표에서 '백기'를 드는 현상은 정책 실행의 어려움을 보여줍니다 [3]. 프랑스는 폭염 대처에 에어컨이 필수적인지에 대한 기존의 생각을 바꿀 수도 있다고 논의하며 [24], 기후 변화 적응 전략에 대한 새로운 접근을 모색하고 있습니다. 캐나다에서는 지방 지도자들이 기후 변화 의제를 국가 의제로 재상정하려는 경쟁에서 주도권을 확보하고 있어 [27], 기후 행동을 위한 정치적 동력이 강화될 가능성을 보여줍니다.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🇰🇷 국내 기후 대응 및 재생에너지 동향",
+        "content": "국내에서는 강진군이 강진교차로에 기후대응 도시숲을 조성 완료하며 지역 차원의 기후 행동을 실천하고 있습니다 [4]. '108년 만의 가뭄' 이후 1년이 지난 강릉에서는 물관리 체계가 전환점을 맞이하여 기후 변화에 대한 적응 노력을 보여줍니다 [2]. 재생에너지 분야에서는 수조 달러 규모의 투자 기회가 언급되며, '200조 큰손'이 한국을 투자처로 주목하는 등 긍정적인 전망이 제기됩니다 [11]. 또한, 재생에너지 시대의 전력 안정에 있어 수력 및 양수발전의 현실적 역할이 강조되고 있으며 [10], Scout Clean Energy CEO는 2026년 풍력·태양광 파이프라인을 공개하며 한국 기업과의 협력 전략을 모색하고 있어 [12], 국내 재생에너지 산업의 확장이 기대됩니다. 그러나 태양광 확산 속도전이 중국에 대한 종속으로 이어질 수 있다는 우려와 함께 [9], 탄소중립녹색성장기본법 제36조의 탄소세 징수 특례 규정의 핵심 쟁점과 의미에 대한 논의가 활발히 진행되고 있어 [6], 국내 기후 정책의 신중한 접근이 요구됩니다.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌱 기후 변화 인식 제고와 인간의 회복력",
+        "content": "기후 변화에 대한 대중의 인식을 높이기 위한 노력도 지속되고 있으며, 이에 대한 지속적인 대화의 필요성이 강조됩니다 [17]. '#스트라이프를보여줘'와 같은 시각화 자료는 지구 온난화에 대한 관심을 유도하는 훌륭한 도구로 평가받고 있습니다 [14, 18]. 개인의 작은 실천 또한 기후 변화 완화에 기여할 수 있으며, '한 끼 식사'와 같은 일상적인 선택이 변화를 이끌어낼 수 있음이 강조됩니다 [16]. 마이클 블룸버그는 기후 변화 대응에 4억 파운드를 추가 기부하며 민간 부문의 적극적인 참여를 독려하고 있습니다 [20]. 흥미로운 이스라엘 연구에 따르면, 6,500년 전 인간은 기후 변화에 굳건히 맞섰다고 보고되어 [23], 인류의 오랜 회복력을 보여줍니다. 한 해안 마을은 보트 경주를 통해 기후 변화에 맞서 싸우고 있어 [22], 지역 사회가 창의적인 방법으로 기후 행동에 동참할 수 있음을 시사합니다.",
+        "tone": "positive"
+      }
+    ],
+    "closing": "오늘의 뉴스들은 전 세계적 기후 위기의 심각성과 함께, 이에 맞서는 다양한 노력과 정책적 과제들을 동시에 보여주고 있습니다. 기후 변화에 대한 지속적인 관심과 적극적인 행동이 그 어느 때보다 중요합니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "펄펄 끓는 동해안, 참다랑어 풍어 뒤에 숨겨진 기후변화의 경고 - 2news.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lUEpVSW02Q2xHVkVER29NVFZmR2t3dmJ3WlJ0Z2oxMG5JckZxajlVVHZmTkZsNlV3YTh0UkNyWlVPTlF0ZHVTN3lNS245d05aX1czSXhmZkNNSlp1NGpHWkN0QW93R2hz?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T21:53:00",
+      "description": "펄펄 끓는 동해안, 참다랑어 풍어 뒤에 숨겨진 기후변화의 경고 2news.co.kr",
+      "summary": {
+        "phenomenon": "동해안의 수온이 상승하여 '펄펄 끓는' 상태가 되었으며, 이로 인해 참다랑어의 풍어가 발생했습니다.",
+        "cause": "이러한 현상은 기후변화의 경고로 언급되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "동해안",
+        "참다랑어",
+        "풍어",
+        "기후변화",
+        "경고"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "'108년 만의 가뭄' 그 후 1년…물관리 체계 전환점 된 강릉 가뭄 - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkc2MtZC1BY2NyV0h5UkptbUhGUjJZNEtWVlhpWURUTzdXR0gwN2xfMWR3LUpzMTFzOEsyMWRPamQzZ01xZXdEblBGa1E4bU5JNTVDS0dzbFd4MlHSAWBBVV95cUxNbGV4d094c0hXWkc4WlZvZzlUcHBsMFc0UG8zWXkwRFNGS2ZadWtldF9YdnpKU2MzN2VrZkZFYTRHREN6eTZLbnFMTm1nWDkxX1oyaS1PZXpHU0docWFhLVA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T22:00:22",
+      "description": "'108년 만의 가뭄' 그 후 1년…물관리 체계 전환점 된 강릉 가뭄 연합뉴스",
+      "summary": {
+        "phenomenon": "'108년 만의 가뭄' 그 후 1년…물관리 체계 전환점 된 강릉 가뭄 연합뉴스",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가뭄",
+        "강릉",
+        "물관리",
+        "체계 전환",
+        "전환점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "가장 저렴한 태양광, 정작 美 민주당 텃밭 주들은 기후 목표 ‘백기’ - 글로벌이코노믹",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN0E1bVpGWDlpTlRUWnZNVXZHSTNnZEw4eFRYZjVBWmFWUUtyMjlfVGNlUjNLRExxajZnQkZ4RzAxcHdrSXdyUXhHRENKVzJ5dWdaTUYzVnJsMTU2VkthekV3Sjh3ZmMwU3BPMGFXRG9mdktIaGlCQTI2VXg3VDhzRDgzdjY3MGpI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T22:30:16",
+      "description": "가장 저렴한 태양광, 정작 美 민주당 텃밭 주들은 기후 목표 ‘백기’ 글로벌이코노믹",
+      "summary": {
+        "phenomenon": "가장 저렴한 태양광, 정작 美 민주당 텃밭 주들은 기후 목표 ‘백기’ 글로벌이코노믹",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "태양광",
+        "미국 민주당",
+        "기후 목표",
+        "백기",
+        "저렴"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "강진군, 강진교차로 기후대응 도시숲 조성 완료 - 탐사일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wRmh6aFctTVowN1ZjN0RkcTdQTnJndnJ1OEVraHVLUVptRlZvUWtQaVJBaHlPa1VTaE0tR2I2emJTUkU0QXdlS28xSVo0YnJVbVB4aTA1cHpPQ1dNOWg0WlhXSW1rQk5uS2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T16:12:00",
+      "description": "강진군, 강진교차로 기후대응 도시숲 조성 완료 탐사일보",
+      "summary": {
+        "phenomenon": "강진군, 강진교차로 기후대응 도시숲 조성 완료 탐사일보",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "강진군",
+        "강진교차로",
+        "기후대응",
+        "도시숲",
+        "조성 완료"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지는 이유는 무엇일까요? - Vietnam.vn",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWdOdWZPWWs1MXBBZHViRk5VcVBzSjNuTThOOUZwOW56MkpkcGI1T2ZOejJKQzh1UVdPaVBsYzU5cDV6akNNV2I3VnBxZVBMbDBFckp1U3M1VnFGX1pucElCV0tpVlR3eFZHMkVQMlJZMWllQmFoX2R1aVlMd0tUZWg0VktmN3NaOHlGb0UxVndIX1VvbTBZNHJrQTNHUGUxMGRTNmh3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T15:14:52",
+      "description": "유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지는 이유는 무엇일까요? Vietnam.vn",
+      "summary": {
+        "phenomenon": "유럽은 온대 기후 지역임에도 불구하고 폭염이 점점 더 심해지는 이유는 무엇일까요? Vietnam.vn",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽",
+        "폭염",
+        "온대 기후",
+        "심화",
+        "기후 변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "40화 탄소중립녹색성장기본법 제36조, 탄소세 징수 특례 규정의 핵심 쟁점과 의미 - 환경감시일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kVmVPYlFKLWdJeS1jNjFQdjEzZTVfWHVmaUM4MVRKRTl4clUzcGhxMzVQUkdhSHdKbXFfZDFfbVNNMm85NVVYLS1odFVvZDQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T09:41:03",
+      "description": "40화 탄소중립녹색성장기본법 제36조, 탄소세 징수 특례 규정의 핵심 쟁점과 의미 환경감시일보",
+      "summary": {
+        "phenomenon": "40화 탄소중립녹색성장기본법 제36조, 탄소세 징수 특례 규정의 핵심 쟁점과 의미 환경감시일보",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "이번 폭염이 예전보다 더 심한 이유는 무엇일까요? - Vietnam.vn",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85eVN3Q2dxYmMteVlnVkRDUXgtT1JUalJSZ0lFTFhwZFhONTlaR1F5eENFTU5sbktyZ1FrMUF3NEtFN3pfZGdOVzdLOEpEUzNUX2ZVUDJSR0JNUXRJcnE4dVJtWUVXc2sxOFFzM0tQYkJSZEw5M0l3MEVVb19XZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-20T09:29:50",
+      "description": "이번 폭염이 예전보다 더 심한 이유는 무엇일까요? Vietnam.vn",
+      "summary": {
+        "phenomenon": "이번 폭염이 예전보다 더 심한 이유는 무엇일까요? Vietnam.vn",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "심한",
+        "예전보다",
+        "이유",
+        "이번"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "EU 온실가스 배출 10년 만에 17% 감소…탄소중립 향한 진전 확인 - 기후에너지경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4eFZrbFpxSVlGa25kc05JTjNYckg2UzhkaHhIdHQzMU5XUVpscjhmdFFvZkhNOHNULU5BNGdneGFHbjgyYUg1M3ZLQ1RIVVBBbkZSaGVzTDUtNnprRXFqOWJJTmY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-20T13:51:42",
+      "description": "EU 온실가스 배출 10년 만에 17% 감소…탄소중립 향한 진전 확인 기후에너지경제",
+      "summary": {
+        "phenomenon": "EU 온실가스 배출 10년 만에 17% 감소…탄소중립 향한 진전 확인 기후에너지경제",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "EU",
+        "온실가스 배출",
+        "17% 감소",
+        "탄소중립",
+        "진전"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "[현장의 시각] 태양광 확산 속도전, 중국 종속 ‘어셈블리 코리아’만 키울라 - 조선비즈 - Chosunbiz",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdERLcWs5aWxjZVRZT1lPMlh3RUU0cUF1cEJGTjA1eVk2UU04UEg0WkdJUDVNUTZrd0JUUWsyWW5oblBtaE84OWI5blJBX2s5NVIyVnlheW9NRExFeEs2aTBkVlNrd1ZhUkthWmVDV2sxNzVhRkhNTGpwRmJ6NTJNTnNIalXSAZgBQVVfeXFMTVNDT1BnVnh3NTUyS3VUWWR1XzhCMWt5MTlvOEtIWGREWEJMRHpyQnBMeE92MC1PcDBHaFRUMlQxQWxCVXhrUkVRS3lQY0RpdjNON2VDZHlrYlpZRUtlNG00S0VYRlRtdkEwQjNadGtIdGtva3J1WWxGQXFadzJZcTRpeGlqeGV0Q3ZwM0NtX0FIZFh1TUotdFo?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T21:58:00",
+      "description": "[현장의 시각] 태양광 확산 속도전, 중국 종속 ‘어셈블리 코리아’만 키울라 - 조선비즈 Chosunbiz",
+      "summary": {
+        "phenomenon": "[현장의 시각] 태양광 확산 속도전, 중국 종속 ‘어셈블리 코리아’만 키울라 - 조선비즈 Chosunbiz",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "태양광",
+        "중국 종속",
+        "속도전",
+        "어셈블리 코리아",
+        "경고"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "재생에너지 시대 전력 안정의 핵심, 수력·양수발전의 현실 역할 - 브랜드경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kRUdPSktZNHB0dE5vN0poNVY5alo1dU4zWUNpZ3RYaXM3eGlRSUxwNmw3ZFhWakhqaGhmdnQtcHp4WDVtd3VfREdNWHg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T20:59:44",
+      "description": "재생에너지 시대 전력 안정의 핵심, 수력·양수발전의 현실 역할 브랜드경제신문",
+      "summary": {
+        "phenomenon": "재생에너지 시대 전력 안정의 핵심, 수력·양수발전의 현실 역할 브랜드경제신문",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "전력 안정",
+        "수력발전",
+        "양수발전",
+        "핵심"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "\"재생에너지에 수조달러 기회\"…'200조 큰손'이 찍은 韓 투자처는 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WX0dXWU1kVWxCZGZDRjVaM2c2bTF4WEpGa2pyVWFBVVVhUVNMZXV3OGRyWGsydUd6RHQ1RU8zRnE4b1pTTEx1S3phWURiNGktRkM0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T21:01:00",
+      "description": "\"재생에너지에 수조달러 기회\"…'200조 큰손'이 찍은 韓 투자처는 네이트",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "수조달러",
+        "기회",
+        "투자",
+        "한국"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "Scout Clean Energy CEO, 2026년 풍력·태양광 파이프라인 공개…한국 기업 협력 전략은 - 한국공공정책신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1ZQk5JSXFfdDhkc3hiQTVmTllSeFRBVkpSeVcxZDZncDY5dm9UTmk3a2lYcjFseDhRMG4yX1dYZUtkc3M?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-20T18:10:45",
+      "description": "Scout Clean Energy CEO, 2026년 풍력·태양광 파이프라인 공개…한국 기업 협력 전략은 한국공공정책신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Scout Clean Energy",
+        "풍력",
+        "태양광",
+        "파이프라인",
+        "한국 기업 협력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "네팔 고산지대에서 기후 변화가 티베트 뵌교를 위협한다",
+      "original_title": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQU9nc1h4dXQ2ak0yRXc2aGNoUjJMUnJ2T3NrVHBaSlVWamo1QzliSHZYaDlKc2ZLWHZabjJwZlJhZld5elF2aGMtdG9QSWFiQy1aa004X0VEbG9PbmV3WGU4aVZXa0c2aWNyY0o1T0c1a25jM2YzSzh2X1lFQkVmUTRGaW5vcmpaenpQNUt6WUxLRmFzYzFsVkRQMVNVekc2eGdrVmt5RXJKV0J5dV9UcU9aeUlwd9IBuwFBVV95cUxPUWcteWlRRzJpdGc0VHVud2RjMjV4UlpWaUh6WDRNMDN6bUUyRU9jZEFPeHNuU28zZzd5SlhCeHk5YlM3bEVHVDBlYWlmVUtFZ1hxLS1OQXhHdDI4RTBuRzBUb3EtWHMwYmNFZmlldWNjMkFZWFUwSXhpOEVMd2JrTEk3TUFhTHY2amcyWXQ2aWkwVjNIblkxQVBfbkVEOUNsNHcta0hCM3BxdjV1UV9CN044ZWIwZGtmdWVJ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T13:11:46",
+      "description": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith Al Jazeera",
+      "summary": {
+        "phenomenon": "In Nepal’s highlands, climate change threatens Tibet’s Bon faith Al Jazeera",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "네팔",
+        "고산지대",
+        "기후 변화",
+        "티베트",
+        "뵌교"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "14",
+      "title": "#스트라이프를보여줘: 하나의 훌륭한 기후 변화 시각화 - 브라이언 알렉산더",
+      "original_title": "#ShowYourStripes: one excellent climate change visualization - Bryan Alexander",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2lxVHR5M2VVWkp4Z3lMYmx2MTZuVWZTMGdJNHVUc1pKLUdxREpVNmZibUV6NmNFN181NUhBQmNhblV5UFB4aUhncnlJZTVra2NDbjd6WUdXOGpjYU5xYUFyY0psUTQ1akNnLVY1VzBNeDJIS1ZxUmljVm8tVEVDaS02TUMwaDllbFhBdmNMdUJWdGR1aE9YNFktc3ZWWFhRN0E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T20:49:15",
+      "description": "#ShowYourStripes: one excellent climate change visualization Bryan Alexander",
+      "summary": {
+        "phenomenon": "#ShowYourStripes: one excellent climate change visualization Bryan Alexander",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "시각화",
+        "데이터",
+        "인식",
+        "캠페인"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "15",
+      "title": "2025년 뉴저지 산불 시즌 동안 27,229에이커가 불탔다. 기후 변화가 산불 진압을 더 어렵게 만들고 있다 - WHYY",
+      "original_title": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain - WHYY",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdJVzk3Xy1RX0NhNlBCOEsxM2JLWXZrWl9lNmJkLVpzVWlXVklvNENlaE9CUWZBd1kxS1VIYVd5ek53Sko1TjFmdVo1MW5uQXVLeVkzWUJIS3hBcHhwWTFwOXR1U19aQWRJZ1J2V3RXcVNidTRUUGwtYTItUWxZYg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T09:30:38",
+      "description": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain WHYY",
+      "summary": {
+        "phenomenon": "In 2025, 27,229 acres burned during N.J.’s wildfire season. Climate change is making them harder to contain WHYY",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "2025년",
+        "뉴저지",
+        "산불",
+        "기후 변화",
+        "진압 어려움"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "16",
+      "title": "한 끼 식사로 기후 변화 완화하기 - 에스테로 베이 뉴스",
+      "original_title": "Mitigating Climate Change One Meal at a Time - Estero Bay News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSFo2NnJiRUVJekNHWnZ6UDUzTmxENU84bU81YlAwc2NlU1VKMm01VTFfUjJCaFJJS1lwekx5aWhYdGFocUstM1BBMFpiR1JDU2ZhUXhKOHZXM2dBM3Z3MmhLR2M4OFlNTk9tSmZhdVdnT1ZDV0NVaG1UcERpYnZ1eGFOVVNjNEt5elhqb0l3OTJHZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T18:17:29",
+      "description": "Mitigating Climate Change One Meal at a Time Estero Bay News",
+      "summary": {
+        "phenomenon": "Mitigating Climate Change One Meal at a Time Estero Bay News",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후 변화",
+        "완화",
+        "식사",
+        "음식",
+        "개인 실천"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "17",
+      "title": "Why we need to (keep) talking about climate change - E3G",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15Y0IxaVptSV94N2FoMW04LU4yd2tpcTNreEhQYkdKQUF2ME5JUGU3MUZocmNRMGViOG5kRDQ0bTIwM2xLRWdUcVpmQWlaN243alpJN0xBRmdrRXJtZ2FJUHhqMVl0UzJ1SHJMd1huOEJoa2JoREk5SjVvY0J2LTA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T23:31:10",
+      "description": "Why we need to (keep) talking about climate change E3G",
+      "summary": {
+        "phenomenon": "Why we need to (keep) talking about climate change E3G",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "18",
+      "title": "Show your stripes: Graphic brings attention to global warming - The Invading Sea",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSGhUZmJvRkRQUTJfYzdYS3h2bnZVR0V3M2E4YzI1bW9BSEFSVnZXZTZNVXpVci1CZEdCMmRjUGJDSFhxc0kxTkpma2UwY25zMldoZFJ1RTJEY3lPN0M5bGVOanRxYlphN1FDVUF1aVdFS0picGNXd1MtelVCUTBSNEI1X2hmNGJIWG02aTB1UEZEU2lWcmtVRlN6TVA1NGxacTFQYk9sa3FfTWpsZmJ1dUdNeS1qMmlEWWlBT3E5LWdVS2FkTTF0QU5FekZDMGc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T11:45:42",
+      "description": "Show your stripes: Graphic brings attention to global warming The Invading Sea",
+      "summary": {
+        "phenomenon": "Show your stripes: Graphic brings attention to global warming The Invading Sea",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "19",
+      "title": "고장난 자동차 에어컨 하나면 기후 변화로 죽을 수도 있다",
+      "original_title": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You - jezebel.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRW9mdlRlZGVrc2ptX296TVF2ZzI3RnlRTnZBSUNUMmF0MXFlTlYwLU9CaDBMU01oXzN6a05oN0UyTEdKRWxJQzlfZ1E0bkhleG1GZWNRZG9SWnBDNW9YLVU3VTl5YWxDTW1oMnNOMEVVNzRLSWtfQ0FjeFRuckZEQVp2UWJ4c1NxbHJfbDE0UEF1TUg0Q2Y3S2VoOVRJbUpMckN2anVyZUJxVmprV0o1VWxrNVo3NFdROUEzeEhn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T12:35:21",
+      "description": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You jezebel.com",
+      "summary": {
+        "phenomenon": "All It Takes Is a Broken Car Air Conditioner for Climate Change to Kill You jezebel.com",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "자동차 에어컨",
+        "사망",
+        "고장",
+        "위험"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "20",
+      "title": "마이클 블룸버그, 기후 변화 대응에 4억 파운드 추가 기부 - 더 타임스",
+      "original_title": "Michael Bloomberg to commit extra £400m for climate change fight - The Times",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT19LbEhfd3NORE5sWUlYR053RFRfUXZMU2NHQkl1ekRVX3dNSnlXbXFjN256RGNHeVUyVHJsdzNKMjlKXzNURDhJRGUxSDBaa3NZWDVCdEZWYzBENEZodHZJWFFvNW1Sa1l3aGEzWjIwZURyQ3hMcGZoU0xwbmtTVXV6MFB6YmhiZWZtV1oyaWZOZW9LZ2hralU0TURFYUQ4WG5pX3VIbUxCaUMtekFWamotWEZoQWZIY3FBdHlmYVpnMFpQbWN6ZzlFSnhsQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T21:00:00",
+      "description": "Michael Bloomberg to commit extra £400m for climate change fight The Times",
+      "summary": {
+        "phenomenon": "Michael Bloomberg to commit extra £400m for climate change fight The Times",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "마이클 블룸버그",
+        "기후 변화",
+        "4억 파운드",
+        "기부",
+        "대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "21",
+      "title": "미국, '도널드 트럼프에도 불구하고' 기후 변화 대응에서 캐나다보다 나은 순위 기록할 것 - 몬트리올 가제트",
+      "original_title": "The U.S. will rank better than Canada in the climate change fight ‘despite Donald Trump’ - Montreal Gazette",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUjE1MkxmVlBxUUV5djNOMG1SRVBfWXZQazh0N3ZXLVAtcDExV1ZGUGhZSThsTks0OXZGMmYtTlEwWDIxSXVRcGdic3N5SkphX3JHM0xsX205U3QxaEdFd25sNHdKQnJscHZrYjZXbzhLamZxSXlFOEFvcU1pOXRiSGw4bkVSUlZmM0VHQWVJT0I0dnhucEFRcDROVFhmc2E5UnpRX1lPOUJoSkRnS1V5b1VOOXdZRmxIWHQzYVVaV2ZMQl9zQ3BtWWdWaHQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:00:00",
+      "description": "The U.S. will rank better than Canada in the climate change fight ‘despite Donald Trump’ Montreal Gazette",
+      "summary": {
+        "phenomenon": "미국이 기후 변화 대응 노력에서 캐나다보다 더 나은 순위를 기록할 것으로 예상된다. 구체적인 순위나 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "미국",
+        "캐나다",
+        "기후 변화",
+        "도널드 트럼프",
+        "기후 대응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "22",
+      "title": "Rowing against the tide: How a coastal village is fighting climate change with a boat race - The Business Standard",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGFXcjF1NXAyZW9MZVFPTFVDYTcyVERwblRjYjltWlJPTVV3dUJvZGZyeWVfWEttb2MyeklRT3hUM0NwN1hQLUpmMllUcTZ3S1JCUEktU0xZQ3VGNkFibEFwUzZ3anRXdE9td19CZi0wSXpmNzhLWHRKZkpIaFF3S0tGaUpTMTNJWDBvN3A0bjB4YjRoWlh4dlJnZ3VmclJqeUExYXVmM2k2LXl4c3oza2V0a0FxOUZNOFlLNUo5YWHSAcYBQVVfeXFMTXRtSjFrUHd3VlJDY2xPZS00MU9yRGQ4WVZFSHJQbVVTLVpaUGxMVmNHWW5aU1dWUEt2bW5PcWZ0T2lKYXFLSW1FQ3djakk2Nk5zSVAwNlVGODRqYkVxMWxiZ1ZOeVpoUG84azVXYTFFZVQ2dzZoaWEyMTFtWUdYZWt0ZDlkRGxUa3llN3hQbTVPVkVhTi1KeF9sMUF2VDktY2RQaXRPbE1ubGhxRWQxV292dlFLYWs5bDNZR2lMX1ZRTk43dl9B?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T19:48:44",
+      "description": "Rowing against the tide: How a coastal village is fighting climate change with a boat race The Business Standard",
+      "summary": {
+        "phenomenon": "한 해안 마을이 기후 변화에 맞서기 위해 보트 경주를 활용하고 있다. 구체적인 지역, 시점, 수치는 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "23",
+      "title": "이스라엘 연구: 6,500년 전 인간, 기후 변화에 굳건히 맞섰다",
+      "original_title": "Study in Israel shows humans stood tall in front of climate change 6,500 years ago - WION",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWxfLVY5elhPVGFUWlJ1VlNFbW5HczB3MmRRNHhudmllNGVMblVLV2ZfSmlGMml1LTlzdlJUeThYSExrVjVraVlWcGp2bmxJQXpSdDNKZGxCY3I0Tm1LM0d6Y3JyWlU2bDA4VkkweWpLNWtQUUZIYXlFU051NE9SS2ZDYkhEMFd1WDBxQWVxVHVDd2wxVzREbXRmZ013Q1pROW11Ymk4ZFhLMGVpS0tfWEJQNDVHejVvR2NUc3l1RkVkNXlpaDNZV9IBzgFBVV95cUxNR3ZTUzZ1YUVGbnZ4OWhfRUlBcTRJcmtZOFo5NUhuNnpxaGtmekh0WEx0VlNnUGtTWkctNVV3ZkdydVA0SFQ5dTZUWVJUNzQ5WjRpaFNUSTUwSHg1bXQ2dWJ0cDJaWWNBZzV6NUNqeUMtbHVIY2RJOEVpTkdMbTBTeVpaanh1X2RzQVdoRWFOQkI1c003dUpzMXBQRzRGUXl3NEcycmhkVGpJdlVTVTVqS245dlNzbVFHdzFSNnJuTm9CV1c0S2ZTTXhnQm9aQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T13:01:00",
+      "description": "Study in Israel shows humans stood tall in front of climate change 6,500 years ago WION",
+      "summary": {
+        "phenomenon": "이스라엘에서 수행된 연구에 따르면, 6,500년 전 인간은 기후 변화에 굳건히 맞섰다. 구체적인 기후 변화의 양상이나 인간의 대응 방식은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이스라엘",
+        "기후 변화",
+        "인간",
+        "적응",
+        "고대"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "24",
+      "title": "에어컨이 폭염 대처에 필수적인가? 프랑스가 이 문제에 대한 생각을 바꿀 수도 있다 - 르몽드.fr",
+      "original_title": "Is air conditioning essential for coping with heatwaves? France might be changing its mind on the issue - Le Monde.fr",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeFVoSWx2SE9JMktwTERXd3RjV09Ud3Bodk9SSWRUSEwyNEN3Um1fbW9wejkyTjRlTWI5T3pCMDR3cXdVNFpFWWprSTZCVFNTWHRFenFwV19nNWVPblB2Ny1EeFEzQUpJWmpocldyNE9FQmxtX1VUZWR4T2k3dUx2bWF0Skxkam8weXF4NzVGVWhCeFppWjd3d2FITFFWS1ZYNm43M3paazJZaFp3M1BKVUgxTVlaTzZkbnVlNVdLal9XSGFHb2dwYXFXUEJ6VFVsMWV2RU1LdDB5aGc0b2hDN0ZycHE2SVRadUFSVUh5Qm9XZS02Wk45ODMtNktvZGZVTElBdUoxVQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:38:48",
+      "description": "Is air conditioning essential for coping with heatwaves? France might be changing its mind on the issue Le Monde.fr",
+      "summary": {
+        "phenomenon": "프랑스가 폭염 대처에 에어컨이 필수적인지에 대한 기존의 생각을 바꿀 수도 있다. 구체적인 폭염 발생 시점이나 지역, 프랑스의 기존 생각은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "에어컨",
+        "폭염",
+        "프랑스",
+        "필수",
+        "정책 변화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "25",
+      "title": "석유 및 가스 탐사를 위해 북방 이탄지에 낸 길이 기후 변화를 가속화할 수 있다: 연구",
+      "original_title": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYW9HTEJHOHJJaFU0ZGd3UHRpQXUzT2pMb2c0eWVOSERkejlISG1WUUZBY0dzTVFWTlV5WGcycVRWN1ZOclNiV0hoVXVIMWtOOXBCSkpiZUZWekdzbmpuTFp1NjNDbl83eTFTSHZWNU9oUUJNa2dGaTBxZXVWYzhsXzUxaVJXdVF0My1ranUyeHZqUkxTd2ZaMg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T14:00:00",
+      "description": "Paths carved into boreal peatlands for oil and gas exploration could be speeding up climate change: study CBC",
+      "summary": {
+        "phenomenon": "석유 및 가스 탐사를 위해 북방 이탄지에 낸 길이 기후 변화를 가속화할 수 있다는 연구 결과가 발표되었다. 구체적인 지역, 시점, 가속화 정도는 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "북방 이탄지",
+        "석유 가스 탐사",
+        "기후 변화",
+        "가속화",
+        "연구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "26",
+      "title": "방글라데시 홍수의 이 강력한 사진들은 당신이 기후 변화에 대해 더 깊이 생각하게 할 것입니다 - 아마추어 사진작가",
+      "original_title": "These powerful photographs of the Bangladeshi floods will make you stop and think harder about climate change - Amateur Photographer",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdVlWMnhNYmg3dE83ejZ3dmsxekNmTnkwMUNqU3pKZlY4Yk5IM3RoRlhuWmdVY3ZTMzRVVjlmdDRIQ2EtLUxENVlWc3ltRFRlR1JjeS1nMl9yVDBnVlVHXzNZc0JVWktJUE9lQ0lPZ1JZZm5TSmxENXBRVGtiaU9WbGNZMDhhTkl2RU1meVAtZlhNNjFtdGUtUTlBa19GZ1IzMjNLcW1oSExGejlZOHhFQnI0WnhISkp6SkdsQ0NQeXlTbEJ3WEV0NUxxWWtpZFZ0OGg1dEJOaVNOUFBNcm1uWjFqbkZVczdpalkyNg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T10:00:00",
+      "description": "These powerful photographs of the Bangladeshi floods will make you stop and think harder about climate change Amateur Photographer",
+      "summary": {
+        "phenomenon": "방글라데시에서 홍수가 발생했으며, 이 홍수의 강력한 사진들이 기후 변화에 대한 심도 깊은 성찰을 유도하고 있다. 구체적인 홍수 발생 시점, 지역, 피해 규모는 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "방글라데시",
+        "홍수",
+        "기후 변화",
+        "사진",
+        "경각심"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "27",
+      "title": "키스 게라인: 지방 지도자들, 캐나다 기후 변화 의제 재상정 경쟁에서 주도권 확보 - 에드먼턴 저널",
+      "original_title": "Keith Gerein: Municipal leaders grab the reins in the race to put climate change back on Canada's agenda - Edmonton Journal",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeGl4b0tlNjlIeEJsOHl0WlROSWxiWWhqRkdNZmdsTkttQWlnVXhOb2xfbU02NHF0bXhXMXRFRmlVaE9Zd05DeUJia0x3RVNTYWFLZ0ZlZVdoR1BqSjQ5NW5KMktPRUVBeV9DQkNvYlotbURfUG1rVXBoQ0hWTm8xYVp5TzJ2ci04cTQ1N1h5QkRHNlBZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-20T11:23:19",
+      "description": "Keith Gerein: Municipal leaders grab the reins in the race to put climate change back on Canada's agenda Edmonton Journal",
+      "summary": {
+        "phenomenon": "캐나다의 지방 지도자들이 기후 변화 의제를 다시 국가 의제로 올리려는 경쟁에서 주도권을 확보하고 있다. 구체적인 시점이나 지역은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "지방 지도자",
+        "기후 변화",
+        "캐나다",
+        "의제",
+        "주도권"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "28",
+      "title": "그리스, 에비아섬 산불 진압에 소방관·항공기·헬기 투입 - 로이터",
+      "original_title": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV0F1OGJFY0NlWHd0RHM5QW9FU090UDBSZEF6aFdLcGNucm81QXBpaFBsMlZZTkhGMUpvUTFpcXVySldjLWdDQXVMZGswWjRkMkQzVlMzQUdmVm9hVmNrbk5WaDBkWjdxeVRtTzFaWkdTX2loejMxZUtQOHJpWnFxQ1NmMF9zSWdySTZEdnVVZXBGTnlBdVg1c292T1BXaXF5eW9OTHpIT0lLWmFEb09YVzFtbzJDRG1mYzZtanZvbG1xZGNl?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-06-20T18:21:06",
+      "description": "Greece deploys firefighters, planes and helicopters to fight fire on Evia Island Reuters",
+      "summary": {
+        "phenomenon": "그리스가 에비아섬에서 발생한 산불을 진압하기 위해 소방관, 항공기, 헬기를 투입했다. 구체적인 산불 발생 시점, 규모, 원인은 기사에서 언급되지 않았다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "그리스",
+        "산불",
+        "소방관",
+        "에비아섬",
+        "진압"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 28,
+    "domestic_count": 12,
+    "international_count": 16,
+    "top_keywords": [
+      "기후 변화",
+      "태양광",
+      "폭염",
+      "기후변화",
+      "경고"
+    ],
+    "sentiment_breakdown": {
+      "positive": 11,
+      "negative": 11,
+      "neutral": 2
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
