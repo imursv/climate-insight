@@ -1,0 +1,1769 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T23:38:33.287820",
+  "briefing": {
+    "opening": "Good morning/afternoon. Welcome to the climate briefing for June 26, 2026. Today, we will primarily cover the severity of the record-breaking heatwave that has swept across Europe, along with updates on domestic and international efforts towards carbon neutrality and advancements in climate adaptation technologies.",
+    "sections": [
+      {
+        "title": "🔴 Europe-wide Intense Heatwave and the Warning of Climate Change",
+        "content": "Recently, Europe has experienced a series of record-breaking heatwaves, sounding a severe warning about the direct impacts of climate change. Scientists state that Europe's unusual June heatwave would have been 'virtually impossible' without climate change, clearly indicating that human-induced climate change is intensifying these heatwaves [29, 38, 51, 54, 58, 59, 62, 71]. In Paris, France, alcohol sales were halted to support hospitals amidst the deadly heatwave, and in the UK, June heat records were broken for three consecutive days, marking an unprecedented situation [59, 64]. These extreme weather phenomena, coupled with population decline issues in the European Union's (EU) islands and coastal regions, pose a complex threat [1]. Furthermore, the economic damage is severe, with the German economy suffering billions of euros in losses due to the heatwave [6].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Domestic Efforts for Carbon Neutrality Implementation and Climate Crisis Response",
+        "content": "Domestically, various efforts to address the climate crisis and achieve carbon neutrality are becoming visible. A unified consultative body has been launched to remove barriers between institutions, and memoranda of understanding have been signed for joint responses, thereby strengthening cooperation systems for efficient climate crisis response [3, 4]. Pohang City demonstrated efforts to reflect citizen opinions in policy by holding pre-workshops for citizen review and implementation checks of carbon neutrality policies [12, 13, 20]. Pocheon City is also focusing on education and awareness-raising, promoting the establishment of a carbon neutrality education center utilizing disused schools [14]. Furthermore, the role of the financial sector is being emphasized, with the Korea Exchange hosting a policy forum on green transition and transition finance to discuss industrial competitiveness and carbon neutrality solutions [15, 21].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Expansion of Renewable Energy and Smart Technology-based Climate Adaptation",
+        "content": "In response to the era of climate crisis, efforts for renewable energy transition and smart technology-based adaptation are actively underway. SK Hynix is accelerating its net-zero implementation by sourcing 31% of its production electricity from renewable energy [25], and Samsung Electronics has achieved a 95% renewable energy transition rate. Major domestic companies are thus moving towards carbon neutrality goals through ESG management [26, 27]. In the agricultural sector, 'smart farming' technologies that overcome heatwaves and droughts are being demonstrated in the field, and Ho Chi Minh City is also promoting smart and eco-friendly rural development, indicating that technological solutions for climate change adaptation are being sought [8, 9]. Korea Water Resources Corporation (K-water) is driving energy transition in various ways, including promoting the expansion of renewable energy by holding public-private cooperation meetings to vitalize the floating solar power industry [24, 28].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Widespread Socio-Economic Impacts of Climate Change and International Discussions",
+        "content": "Climate change is having widespread socio-economic impacts, from energy security to social inequality and mental health, triggering various discussions in the international community. Discussions among international experts on the impact of climate change on nuclear power generation were held in Seoul [2], and climate change issues are being significantly addressed in political circles, with U.S. House candidates discussing climate change, the military, and housing issues through Q&A sessions [30]. Furthermore, direct health issues such as the impact of climate change on pollen levels and skin health are being raised [31, 33, 40], and the importance of mental health as both a consequence and a determinant of climate adaptation is also being emphasized [46]. The necessity for international cooperation and a comprehensive approach is being highlighted, with leaders from various countries urging that oceans be at the core of climate action [41, 55].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "As highlighted in today's briefing, climate change is having immediate and severe impacts globally, making domestic and international response efforts increasingly crucial. Continued interest and participation in scientific insights and concrete actions to overcome the climate crisis are essential. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "From Climate Change to Population Decline... EU Steps Up to Save Islands and Coasts - Yonhap News",
+      "original_title": "기후변화에 인구감소까지…EU, 섬·해안 살리기 나서 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oVFFKTDFIRy1kcExkWW82WWE4OHJPRm9qNjBpUFpNUG1Yc0lNNWl6NVk3YzZ1eHFIQXN3TFdJVDJEdGRqaDcwX2ZZRjYwWExKWVlDaGhQazRuT0s4MnhrQ9IBYEFVX3lxTE9oVFFKTDFIRy1kcExkWW82WWE4OHJPRm9qNjBpUFpNUG1Yc0lNNWl6NVk3YzZ1eHFIQXN3TFdJVDJEdGRqaDcwX2ZZRjYwWExKWVlDaGhQazRuT0s4MnhrQw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T12:55:12",
+      "description": "From Climate Change to Population Decline... EU Steps Up to Save Islands and Coasts",
+      "summary": {
+        "phenomenon": "The islands and coastal regions of the European Union (EU) are facing challenges posed by climate change and population decline.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The EU plans to take measures to preserve and revitalize its island and coastal regions in response to these challenges."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Population Decline",
+        "EU",
+        "Island",
+        "Coast"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화에 인구감소까지…EU, 섬·해안 살리기 나서 연합뉴스"
+    },
+    {
+      "id": "2",
+      "title": "What is the Impact of Climate Change on Nuclear Power Plants? International Experts Gather in Seoul - Korea Electric Power News",
+      "original_title": "기후변화가 원전에 미치는 영향은? 국제 전문가들 서울에 모였다 - 한국전력신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KS0ZHaDFNQnV2ZWtLOUQ4WEtQRXktZ3F4ZGVHOFNrRGNfUUNIV2JLM1lkRUpoOUFLcDRxMGZ0VV9fVHJjTXYwS082bE5jbzVTcHZiODlYaC1aWUNSSEVPalJybW03RlFLUUE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T12:41:03",
+      "description": "What is the Impact of Climate Change on Nuclear Power Plants? International Experts Gather in Seoul",
+      "summary": {
+        "phenomenon": "International experts have convened in Seoul to discuss the impact of climate change on nuclear power generation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "A profound discussion is anticipated regarding the potential impacts of climate change on the safety and operation of nuclear power facilities."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Nuclear Power Plant",
+        "International Expert",
+        "Seoul",
+        "Impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화가 원전에 미치는 영향은? 국제 전문가들 서울에 모였다 한국전력신문"
+    },
+    {
+      "id": "3",
+      "title": "Business Agreement for Joint Response to Climate Change - Agriculture, Fisheries, and Livestock News",
+      "original_title": "기후변화 공동 대응 업무협약 - 농수축산신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CV1V5QUh0V1JsRm9fX3JZYnJsTGRRakZncDZXM0h0ZGxOWXNRbDBESmI4S3pkVFY4bmkxakVGNC1zWm1jc0JPdnpGT1JSMzBESzhSS3B3bkJ4TlM2TTRoNzBXOVRPb0tmRTBleg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T09:56:52",
+      "description": "Business Agreement for Joint Response to Climate Change",
+      "summary": {
+        "phenomenon": "A business agreement has been signed to jointly address climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This agreement is expected to strengthen inter-institutional cooperation and joint efforts in responding to climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Business Agreement",
+        "Joint Response",
+        "Agriculture, Fisheries, Livestock",
+        "Response"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화 공동 대응 업무협약 농수축산신문"
+    },
+    {
+      "id": "4",
+      "title": "Removing Institutional Barriers in Climate Crisis Response... Integrated Consultative Body Launched - KBS News",
+      "original_title": "기후위기 대응에 기관 칸막이 없앤다…통합협의체 출범 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YenYtZVlScENKa19mZmN6emJPMEF2R09XUjkyclNYT01aTHF1UzR0Q0VGM28xZGdGek5nVlhNSF9vdENBblNUdmVWck9oQ014M2prNlVfZUttdHlKRmxTLU5JSWJNZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T12:56:00",
+      "description": "Removing Institutional Barriers in Climate Crisis Response... Integrated Consultative Body Launched",
+      "summary": {
+        "phenomenon": "To enhance the efficiency of climate crisis response, an integrated consultative body has been launched, breaking down barriers between institutions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The integrated consultative body is expected to foster synergy among institutions and explore effective solutions in advancing climate crisis response policies and projects."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Crisis",
+        "Response",
+        "Institution",
+        "Integration",
+        "Consultative Body"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 대응에 기관 칸막이 없앤다…통합협의체 출범 KBS 뉴스"
+    },
+    {
+      "id": "5",
+      "title": "In the Era of Climate Crisis, a Declaration of Major Transformation to Eco-Friendly Agriculture! The 8th Chungbuk Eco-friendly Farmers' Convention Successfully Concludes - Monthly Eco-friendly",
+      "original_title": "기후위기 시대, 친환경농업으로 농업생태 대전환 선언! 제8회 충북 친환경농업인대회 성료 - 월간친환경",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NUkx6aWctX0JkeHJqamFlSVhJZG9tOHctZ2JYMVpERi10OFBJVkU5clBrVFpjeU4zZVotLVp5ejZTdDlPcjBYMlRZM0g2Mi0yVVp3YkdtYjkwZjR4bVBjVzd5T0VsMFNVNDJrYlJVTzlHdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T09:32:59",
+      "description": "In the Era of Climate Crisis, a Declaration of Major Transformation to Eco-Friendly Agriculture! The 8th Chungbuk Eco-friendly Farmers' Convention Successfully Concludes",
+      "summary": {
+        "phenomenon": "The 8th Eco-friendly Farmers' Convention was successfully held in Chungbuk, where a major transformation of agricultural ecosystems towards eco-friendly agriculture was declared in response to the climate crisis era.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Efforts to expand eco-friendly agriculture and foster sustainable changes in agricultural ecosystems are expected to accelerate, particularly in the Chungbuk region."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Crisis",
+        "Eco-friendly Agriculture",
+        "Major Agricultural Ecosystem Transformation",
+        "Chungbuk",
+        "Farmers' Convention"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 시대, 친환경농업으로 농업생태 대전환 선언! 제8회 충북 친환경농업인대회 성료 월간친환경"
+    },
+    {
+      "id": "6",
+      "title": "[Climate+] German Economy Suffers Billions of Euros in Losses Due to Heatwave ① - S Journal",
+      "original_title": "[기후+] 독일 경제, 폭염으로 수십억 유로 손실 발생 ① - S저널",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xdmMtM1BXdGxLYWNMc2ZZU19PM21TYXBLVHNxRmVCZ0lYem9SWUNwQTZOVXhpY3pGRzI3UzVJOUVsZkctNkRvNEZkVmotcGZsN244U2xYbDJRLTlXMnFXZWcwZGI1THdRVFNwSDZ3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T12:08:49",
+      "description": "[Climate+] German Economy Suffers Billions of Euros in Losses Due to Heatwave ①",
+      "summary": {
+        "phenomenon": "[Climate+] The German economy has incurred billions of euros in losses due to a heatwave.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Germany",
+        "Economy",
+        "Heatwave",
+        "Loss",
+        "Billions of Euros"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기후+] 독일 경제, 폭염으로 수십억 유로 손실 발생 ① S저널"
+    },
+    {
+      "id": "7",
+      "title": "SM Entertainment Unveils Carbon Neutrality Roadmap - IT Chosun",
+      "original_title": "SM엔터, 탄소중립 로드맵 공개 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HNmJtelRFMmg4S1VHZHU1RlA3T003dGZRbjF2dHA0aDFBbEZTRGJfRGctSDI2YV9DUnM1ZUl2VjFmV25LUV85Q2p4Z1BONE5tTUVSQnZNTDF2eVpFNXk0dWJwZEU3MVN3UjhJWWo2SVnSAXRBVV95cUxPbEZEdS0yWHdOVG5sRDBCRUdYQUhPZVBYWTdhQkRsS3hma0VJekVJdDV5Z0lNZk4taERmNnExbkhzX01abFEyMmFwV010VXhLQkNzNkloTEF2NFEyZXFVWmtHVHFLTTYtYno0NVdqdGdXcWhVVw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T08:33:38",
+      "description": "SM Entertainment Unveils Carbon Neutrality Roadmap",
+      "summary": {
+        "phenomenon": "SM Entertainment has unveiled its carbon neutrality roadmap.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "SM Entertainment",
+        "Carbon Neutrality",
+        "Roadmap",
+        "Unveiling",
+        "Climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "SM엔터, 탄소중립 로드맵 공개 IT조선"
+    },
+    {
+      "id": "8",
+      "title": "'Smart Agriculture' Overcoming Heatwaves and Droughts... First Field Demonstration of AI Cultivation Technology for Yeongam Figs - Polinews",
+      "original_title": "폭염·가뭄 넘는 '스마트 농업'…영암 무화과, AI 재배기술 현장서 첫 실증 - 폴리뉴스 Polinews",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBZQ2M0bTF6aVp3amJ2WlN3alBCVVF0dVJtbGxWdTdDaGt6N1hlSXgwVjVrc0VrSEx5TDFtZU4yZXN2YnFENWFWT0dkX3lzQUZWUHg5Umx1Y003c0tPNl9hT1RUYmZlWFBqOF96R0Rn0gFyQVVfeXFMTjdZcGR5R0dLV3JONm9NbUQzQ2dkVVNPZmNQSzZkRFhhaUw0Q2dEYUllbC1PUDdFUEUzVEJJSnczNEtYRm91REU3ZTVseXNxMUZJd240akppNHNadGdPV3d4V2RfbWZMSHFSVm9ISzIwN0NR?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T09:13:53",
+      "description": "'Smart Agriculture' Overcoming Heatwaves and Droughts... First Field Demonstration of AI Cultivation Technology for Yeongam Figs",
+      "summary": {
+        "phenomenon": "The first field demonstration of AI cultivation technology for Yeongam figs, showcasing 'smart agriculture' capable of overcoming heatwaves and droughts, has been successfully conducted.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Smart Agriculture",
+        "AI Cultivation Technology",
+        "Heatwave Drought",
+        "Yeongam Fig",
+        "Field Demonstration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염·가뭄 넘는 '스마트 농업'…영암 무화과, AI 재배기술 현장서 첫 실증 폴리뉴스 Polinews"
+    },
+    {
+      "id": "9",
+      "title": "Ho Chi Minh City is Developing Smart, Eco-Friendly, and Climate Change-Adaptive Rural Areas - Vietnam.vn",
+      "original_title": "호치민시는 스마트하고 친환경적이며 기후 변화에 적응하는 농촌 지역을 개발하고 있습니다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaHhKWDNTWF80Wm91SXdsZHl0ZExjaVEwTVoyZnVZamo0aGQ3TWdnZGRhbldmVWF6emJkZkU4YUc5bXBHTXRsbVM0RkNNaXR0LTh6d19NcXRQaWxhNWJtODN6UkVWQ3M1YmE2cjRFMHRKckVQdFhHRkhESlRnRDRhTTlfZ3ZpcXFNRmI4ZVFOMHdWbXRxTTF4T3ktU2w?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-06-26T10:22:14",
+      "description": "Ho Chi Minh City is Developing Smart, Eco-Friendly, and Climate Change-Adaptive Rural Areas",
+      "summary": {
+        "phenomenon": "Ho Chi Minh City is actively developing rural areas that are smart, eco-friendly, and adaptive to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ho Chi Minh City",
+        "Rural Area",
+        "Smart",
+        "Eco-friendly",
+        "Climate Change Adaptation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "호치민시는 스마트하고 친환경적이며 기후 변화에 적응하는 농촌 지역을 개발하고 있습니다. Vietnam.vn"
+    },
+    {
+      "id": "10",
+      "title": "Guri Urban Corporation Conducts Carbon Neutrality Practice Campaign for 'Environment Month' - Ilgan Today",
+      "original_title": "구리도시공사, 「환경의 달」 맞아 탄소중립 실천 캠페인 실시 - 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZklhZ1dJTU01QWEzY2IzNURnY0RjTVRqY3ZFTWw3QUl0QXhyRWp2R2xyY3h5ckxkME1HSkJjQXVESzNBWkZ2Wm00S3h4ODFpaHFPR3FTWTU1aTJkeUJ5RWtUdFRRSnBsMXZz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T11:43:25",
+      "description": "Guri Urban Corporation Conducts Carbon Neutrality Practice Campaign for 'Environment Month'",
+      "summary": {
+        "phenomenon": "Guri Urban Corporation has launched a carbon neutrality practice campaign in observance of 'Environment Month'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Guri Urban Corporation",
+        "Environment Month",
+        "Carbon Neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "구리도시공사, 「환경의 달」 맞아 탄소중립 실천 캠페인 실시 일간투데이"
+    },
+    {
+      "id": "11",
+      "title": "National Hoengseong Forest Education Center and Jamsil Youth Center Sign MOU for Youth Carbon Neutrality and Forest Education - gukjenews.com",
+      "original_title": "국립횡성숲체원-잠실청소년센터, 청소년 '탄소중립·숲교육 업무협약' 체결 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBScXh2aF9QSjg2WVhRYXFfejBPemhFWmo0Zk0tVF85dTdCQk5XWWhXdnI4TWRselh2TGcyRjY3RFNFQzFCRnFKem01c3dQajlYdHFtSmhzZzJmZ1pDeFMtUncyODRHVjZLMzVrem53?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T11:49:53",
+      "description": "National Hoengseong Forest Education Center and Jamsil Youth Center Sign MOU for Youth Carbon Neutrality and Forest Education gukjenews.com",
+      "summary": {
+        "phenomenon": "The National Hoengseong Forest Education Center and Jamsil Youth Center have signed a Memorandum of Understanding (MOU) for 'Carbon Neutrality and Forest Education' programs aimed at youth.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Forest Education",
+        "Youth",
+        "MOU",
+        "National Hoengseong Forest Education Center"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "국립횡성숲체원-잠실청소년센터, 청소년 '탄소중립·숲교육 업무협약' 체결 gukjenews.com"
+    },
+    {
+      "id": "12",
+      "title": "Pohang City Conducts Citizen Review of Carbon Neutrality Policies - Gyeongbuk Shinmun",
+      "original_title": "포항시, 탄소중립 정책 시민 점검 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11VkFlRUVOSGFDd2VuTkx0YjMzWi1PVmdiYlQwejNGNDRTN1NWVFRqbGV0NTZZNmhGa1h4aE5XdDZoN1dpT1F1c0IwajQ5UDFvaFZOZjUzeFg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T09:13:10",
+      "description": "Pohang City Conducts Citizen Review of Carbon Neutrality Policies Gyeongbuk Shinmun",
+      "summary": {
+        "phenomenon": "A citizen review of carbon neutrality policies has been conducted in Pohang City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality",
+        "Policy",
+        "Citizen",
+        "Review"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 탄소중립 정책 시민 점검 경북신문"
+    },
+    {
+      "id": "13",
+      "title": "Pohang City Holds Pre-implementation Review Workshop for Carbon Neutrality Policies; Citizen Opinions to be Reflected - Seoul Economic TV",
+      "original_title": "포항시, 탄소중립 정책 이행점검 사전 워크숍…시민 의견 정책 반영 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fQ3U3ekZfUl82RlJtSHMydHB3a0ktWHNPclF5a0x4RGRLM1RfVGFveVdMZ2Fkbzd2bHVfY1J6NVdSS3llZjR5eDVod1VuanNpQm1ITFE2WDcyM1RVbXhQNTI2UzA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T13:16:15",
+      "description": "Pohang City Holds Pre-implementation Review Workshop for Carbon Neutrality Policies; Citizen Opinions to be Reflected Seoul Economic TV",
+      "summary": {
+        "phenomenon": "A preliminary workshop for the implementation review of carbon neutrality policies was held in Pohang City, with plans to incorporate citizen feedback into the policies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Citizen opinions are expected to be reflected in Pohang City's carbon neutrality policies."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality",
+        "Policy",
+        "Workshop",
+        "Citizen Opinion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 탄소중립 정책 이행점검 사전 워크숍…시민 의견 정책 반영 서울경제TV"
+    },
+    {
+      "id": "14",
+      "title": "Pocheon City Promotes Establishment of Carbon Neutrality Education Center Utilizing Closed Schools - Gyeonggiin Journal",
+      "original_title": "포천시, 폐교 활용 탄소중립 교육센터 조성 추진 - 경기인저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBZa0wxclpFYTRDYVRxekpqNEV0bS1oSTEta2c3dEM2b3BqNGQwTE9ZaFhNOXNFUU1YSG1SbjdfOUNsZWJPOWlFUVhraGZRQ1pKM2VKUndGVjdIRE9ZZFlaSzdEODY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T11:30:21",
+      "description": "Pocheon City Promotes Establishment of Carbon Neutrality Education Center Utilizing Closed Schools Gyeonggiin Journal",
+      "summary": {
+        "phenomenon": "Pocheon City is moving forward with plans to establish a carbon neutrality education center by repurposing closed schools.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pocheon City",
+        "Closed School",
+        "Carbon Neutrality",
+        "Education Center",
+        "Promotion of Establishment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포천시, 폐교 활용 탄소중립 교육센터 조성 추진 경기인저널"
+    },
+    {
+      "id": "15",
+      "title": "[Issue] 'Transition Finance' for Carbon Neutrality... \"Financial Sector's Screening and Post-Management Capabilities are Key\" - Pax Economic TV",
+      "original_title": "[이슈] 탄소중립 위한 '전환금융'…\"금융권 심사·사후관리 역량이 관건\" - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tcHVkaUxkckUwN2Y4LThUTFdvaXpxY3ZoemxKU0R2YjNGNVBVZC1RQUxPc0dKbmQzWkhiQTI1VXNqcnNjdHlKWHhYTjB2M2JrWUxHMThwQ284TjFnb2xsMUx2dHF2Y00?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T08:49:16",
+      "description": "[Issue] 'Transition Finance' for Carbon Neutrality... \"Financial Sector's Screening and Post-Management Capabilities are Key\" Pax Economic TV",
+      "summary": {
+        "phenomenon": "'Transition finance' for carbon neutrality is emerging as a significant topic of discussion.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The financial sector's capabilities in screening and post-management are expected to be crucial for the successful implementation of transition finance."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Carbon Neutrality",
+        "Transition Finance",
+        "Financial Sector",
+        "Screening",
+        "Post-management"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[이슈] 탄소중립 위한 '전환금융'…\"금융권 심사·사후관리 역량이 관건\" 팍스경제TV"
+    },
+    {
+      "id": "16",
+      "title": "From Carbon Neutrality to Climate Disclosure: Korea Investment & Securities and SK Securities' ESG Initiatives Attract Attention - Biztribune",
+      "original_title": "탄소중립부터 기후공시까지… 한국투자증권·SK증권, ESG 행보 '눈길' - 비즈트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hemJjejJzeVRrNk5NNVotcXF4QlJUUmRmYXRZcUlyYURDRUtwdkRORl9SOXBVYWpmSVVNZkVuQjNWbFdnYndzc0RIZEIzSER6MDMxZXowcU1lRHJTM2hTYVRReExQbW9CZnBVa0VnVHE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T11:58:45",
+      "description": "From Carbon Neutrality to Climate Disclosure: Korea Investment & Securities and SK Securities' ESG Initiatives Attract Attention Biztribune",
+      "summary": {
+        "phenomenon": "Korea Investment & Securities and SK Securities are actively pursuing ESG (Environmental, Social, Governance) initiatives, encompassing carbon neutrality and climate disclosure.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Climate Disclosure",
+        "Korea Investment & Securities",
+        "SK Securities",
+        "ESG"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립부터 기후공시까지… 한국투자증권·SK증권, ESG 행보 '눈길' 비즈트리뷴"
+    },
+    {
+      "id": "17",
+      "title": "Incheon Environmental Corporation Reviews 2026 Greenhouse Gas Reduction Projects - Gyeonggi Domin Ilbo Media",
+      "original_title": "인천환경공단, 2026년 온실가스 감축 사업 점검 - 경기도민일보 미디어",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSMk96aXpBLW9oRlJHN0V3Tm1Fd1dXU2IwNTEtRU1VaHE4ZG5uekJ3N09FX2pQVjlTUk5mczdKZFNzaU8xMGpxWTdqMldLbjFqU29mOVNYbGxjX0JscklGT251NDllSE9DdlE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T15:40:03",
+      "description": "Incheon Environmental Corporation Reviews 2026 Greenhouse Gas Reduction Projects Gyeonggi Domin Ilbo Media",
+      "summary": {
+        "phenomenon": "The Incheon Environmental Corporation is currently conducting a review of its 2026 greenhouse gas reduction projects.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Incheon Environmental Corporation",
+        "Greenhouse Gas",
+        "Reduction Project",
+        "Review",
+        "2026"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인천환경공단, 2026년 온실가스 감축 사업 점검 경기도민일보 미디어"
+    },
+    {
+      "id": "18",
+      "title": "Seosan Osan Elementary School Launches Carbon Neutrality Campaign in Conjunction with History and Culture City Tour - News TNT",
+      "original_title": "서산 오산초등학교, 역사문화 시티투어 연계 탄소중립 캠페인 전개 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93dm9qMnhBOE94dWZCdXZGeFllSmltSW1EeE9FdWVBQVBMcjhaNnJVZ2lqanVZZEF4R0daRUJIRXFNUGF5VGM1N0NtMkZaR2cxNHdIaFBvM2tqeEtTVFQ1M0V4U0VCQ21SZmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T16:11:00",
+      "description": "Seosan Osan Elementary School Launches Carbon Neutrality Campaign in Conjunction with History and Culture City Tour News TNT",
+      "summary": {
+        "phenomenon": "Seosan Osan Elementary School has launched a carbon neutrality campaign, integrated with a history and culture city tour.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seosan Osan Elementary School",
+        "Carbon Neutrality",
+        "Campaign",
+        "History and Culture City Tour",
+        "Environmental Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서산 오산초등학교, 역사문화 시티투어 연계 탄소중립 캠페인 전개 뉴스티앤티"
+    },
+    {
+      "id": "19",
+      "title": "Ansan Environmental Foundation's 'On-site Carbon Neutrality Environmental Education' Receives Strong Response; 10,000 Participants Expected - NSP Tongsin",
+      "original_title": "안산환경재단, ‘찾아가는 탄소중립 환경교육’ 큰 호응…1만명 참여 예정 - NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKM19HN2ZfNmw5a2FvdlljU3d3WTFBUXNYM0JibVg1VzI2SGR0TldmeEpHWmRpN3Y3MUQ3MXNWNkZxU0hHbGloOGRrLTd2RDVTYUpURkhYQVFLM2ZmaE9POA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T08:48:06",
+      "description": "Ansan Environmental Foundation's 'On-site Carbon Neutrality Environmental Education' Receives Strong Response; 10,000 Participants Expected NSP Tongsin",
+      "summary": {
+        "phenomenon": "The 'On-site Carbon Neutrality Environmental Education' program, conducted by the Ansan Environmental Foundation, is receiving a strong positive response, with approximately 10,000 participants expected.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Approximately 10,000 citizens are anticipated to participate in the carbon neutrality environmental education."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ansan Environmental Foundation",
+        "Carbon Neutrality",
+        "Environmental Education",
+        "Strong Response",
+        "10,000 Participants"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안산환경재단, ‘찾아가는 탄소중립 환경교육’ 큰 호응…1만명 참여 예정 NSP통신"
+    },
+    {
+      "id": "20",
+      "title": "Pohang City Holds Pre-implementation Review Workshop for Carbon Neutrality Policies - Web Economy",
+      "original_title": "포항시, 탄소중립 정책 이행점검 사전 워크숍 개최 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1naW5iUFhUTjRobUJ6RXY3R1k2cndZbFNvQ0dHcTh4cU9DX1VqdW83UTB1bHN6QWs2bENwTEJGckpaRlFoOHFQY3p5d09paFZSQ3I1ZVNYb2NiZXRFZ3V6Mk94UW1wcURTd2x1a1ZHazFsQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T10:59:57",
+      "description": "Pohang City Holds Pre-implementation Review Workshop for Carbon Neutrality Policies Web Economy",
+      "summary": {
+        "phenomenon": "A preliminary workshop was held in Pohang City for the implementation review of carbon neutrality policies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality",
+        "Policy",
+        "Implementation Review",
+        "Workshop"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 탄소중립 정책 이행점검 사전 워크숍 개최 웹이코노미"
+    },
+    {
+      "id": "21",
+      "title": "Korea Exchange Hosts Green Transition and Transition Finance Policy Forum... Discussing Industrial Competitiveness and Carbon Neutrality Solutions - Pinpoint News",
+      "original_title": "한국거래소, 녹색전환·전환금융 정책포럼 개최...산업 경쟁력과 탄소중립 해법 논의 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZmtEcDBGdVBhQk0wQTRoR2hfWFlOS1AtNkZyaE10dFNoZExTLXJzSlM5QlVHVkJVbFlvMzEwbTlYbERYWWVEanR2YmJNVG1mVVZIXzNySVBvVC1DWVBUT0I2elBJU2tRQW15NTJBX3dXWmPSAXdBVV95cUxPRkdOZ2VBTW5BYTZaQ3g1bUl3QVVJQWpNd1ZaaDF0NVJNM3N6TzRDM0xFb0p6MlpMTkhwT0QzeHoxSWc1TmFGb1hSS0hKbk1PTkl6dHptWlhUMm9GWkI3TDhmN0NuQkU5RjZPU2VLYkxBcnNtZUkyMA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-06-26T11:24:56",
+      "description": "Korea Exchange Hosts Green Transition and Transition Finance Policy Forum... Discussing Industrial Competitiveness and Carbon Neutrality Solutions Pinpoint News",
+      "summary": {
+        "phenomenon": "The Korea Exchange held a policy forum on green transition and transition finance.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The forum aimed to discuss industrial competitiveness and solutions for carbon neutrality."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Exchange",
+        "Green Transition",
+        "Transition Finance",
+        "Policy Forum",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국거래소, 녹색전환·전환금융 정책포럼 개최...산업 경쟁력과 탄소중립 해법 논의 핀포인트뉴스"
+    },
+    {
+      "id": "22",
+      "title": "Rural and Fishing Village Renewable Energy Special Committee Focuses on On-site and Institutional Improvement Discussions for Smooth Promotion of 'Sunshine Income Villages' - NewsN Jeju",
+      "original_title": "농어촌재생에너지특별위원회,원활한 햇빛소득마을 추진 위한 현장 및 제도개선 논의 집중 - 뉴스N제주",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qcjF5Y3NGc1V1RFRyN2RNZXpDNXFRZXRVblZPeURwU3BZank3dE13a0VYdDNJVmtva1docENic2x5MzVXSjRXZDlEM0dPMEs3WGc0ZmdfeVljczNlWm5UQ0l2TGsxR3RMUWFSRw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T15:07:05",
+      "description": "Rural and Fishing Village Renewable Energy Special Committee Focuses on On-site and Institutional Improvement Discussions for Smooth Promotion of 'Sunshine Income Villages' NewsN Jeju",
+      "summary": {
+        "phenomenon": "The Rural and Fishing Village Renewable Energy Special Committee focused on discussions regarding on-site and institutional improvements to facilitate the promotion of 'Sunshine Income Villages'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "On-site and institutional improvement measures for the smooth promotion of 'Sunshine Income Villages' are expected to be discussed."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Rural and Fishing Villages",
+        "Renewable Energy",
+        "Sunshine Income Village",
+        "Special Committee",
+        "Institutional Improvement"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "농어촌재생에너지특별위원회,원활한 햇빛소득마을 추진 위한 현장 및 제도개선 논의 집중 뉴스N제주"
+    },
+    {
+      "id": "23",
+      "title": "ABO Energy Wins German Onshore Wind Tender - 2news.co.kr",
+      "original_title": "ABO에너지, 독일 육상풍력 입찰 수주 - 2news.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUE8xY0xJUHhkMkRuUHN3Y2l0TFJDVnFRWUloZ3dVSm5fREtLSHlLS1dlLXFleG1hTHJWNzBra1dSYW1TbVdYTVBWcTJaaXN4Y3BtaDZLOWdHWV82TEtESHBiOW0wMnZR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T20:34:10",
+      "description": "ABO Energy Wins German Onshore Wind Tender 2news.co.kr",
+      "summary": {
+        "phenomenon": "ABO Energy has won an onshore wind tender in Germany.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ABO Energy",
+        "Germany",
+        "Onshore Wind",
+        "Tender",
+        "Awarded"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "ABO에너지, 독일 육상풍력 입찰 수주 2news.co.kr"
+    },
+    {
+      "id": "24",
+      "title": "K-water, 수상태양광 민관 협력 간담회 개최…10GW 재생에너지 확대 추진 - 퍼블릭뉴스통신",
+      "original_title": "K-water, 수상태양광 민관 협력 간담회 개최…10GW 재생에너지 확대 추진 - 퍼블릭뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nS3Y5WlFicG1vTEdMYWZRamdnejlENDM2NE1KRC12ejVvTklfMjZEeS1LNDhiN25kMmlDUlJsSUducm5rR3o3S0hEQUYtOFljSnltQTRBU1dVZ3plWmRWcXl5MWhROFF3NFFz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T15:17:47",
+      "description": "K-water Holds Public-Private Cooperation Meeting on Floating Solar Power... Pursuing 10GW Renewable Energy Expansion Public News Agency",
+      "summary": {
+        "phenomenon": "K-water held a public-private cooperation meeting on floating solar power.",
+        "cause": "Not mentioned in the article",
+        "outlook": "K-water plans to pursue the expansion of 10GW of renewable energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "K-water",
+        "Floating Solar Power",
+        "Renewable Energy",
+        "Public-Private Cooperation",
+        "10GW Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "K-water, 수상태양광 민관 협력 간담회 개최…10GW 재생에너지 확대 추진 퍼블릭뉴스통신"
+    },
+    {
+      "id": "25",
+      "title": "SK Hynix Procures 31% of Production Power from Renewable Energy... Accelerating Net-Zero Implementation - ESG Economy",
+      "original_title": "SK하이닉스, 생산 전력 31% 재생E 조달…넷제로 실행 속도 - ESG경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YdVB6Q0drc0VFQVhqN3h2RnFoOFZZcnZ5a0Z3WVNKMk1nTkh0a2pzRXB5TWE5MGF5aW42ajNrOVFkMVNKWkhkRFlOSG96UHRSSXI5RC1BR0FQaDltQkk0ZmtKUnlnVTZWMHgzRg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T08:49:49",
+      "description": "SK Hynix Procures 31% of Production Power from Renewable Energy... Accelerating Net-Zero Implementation ESG Economy",
+      "summary": {
+        "phenomenon": "SK Hynix has procured 31% of its production power from renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The company is accelerating its net-zero implementation."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "SK Hynix",
+        "Renewable Energy",
+        "Net-Zero",
+        "Production Power",
+        "31%"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "SK하이닉스, 생산 전력 31% 재생E 조달…넷제로 실행 속도 ESG경제"
+    },
+    {
+      "id": "26",
+      "title": "Samsung Electronics Publishes Sustainability Report... Achieves 67% Renewable Energy Transition and Water Resource Restoration - Financial Post",
+      "original_title": "삼성전자, 지속가능경영보고서 발간…재생에너지 전환·수자원 환원 67% '달성' - 파이낸셜포스트",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zemZZSWh5M0REdU9hLVA5OERxdG5YSzZsaHhDTlhwSlRIazRHV2VfT0Rodk1MZzYtRjBRR3ZiV25ha3ZBSXA4aEJHTV92UXJhWnJnTFcwUmZBQkcxLXFpU2k0Wk9ERS00bFZCX2ZHeHdYaVJM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T08:55:40",
+      "description": "Samsung Electronics Publishes Sustainability Report... Achieves 67% Renewable Energy Transition and Water Resource Restoration Financial Post",
+      "summary": {
+        "phenomenon": "Samsung Electronics has published its sustainability report, achieving 67% of its goals for renewable energy transition and water resource restoration.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Samsung Electronics",
+        "Sustainability Report",
+        "Renewable Energy Transition",
+        "Water Resource Restoration",
+        "Achievement"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "삼성전자, 지속가능경영보고서 발간…재생에너지 전환·수자원 환원 67% '달성' 파이낸셜포스트"
+    },
+    {
+      "id": "27",
+      "title": "Samsung Electronics' 259,149 Domestic and International Employees Achieve 95% Renewable Energy Transition Rate - Public Times",
+      "original_title": "삼전 국내외 임직원 25만 9149명, 재생에너지 전환율 95% - 퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uSW1wQXBwaVQtR2h4UUFFUEtsb1NDQ2VsdFdFclU3d2Q3NWJ4Mk5TZDZwUWtsNkk3cnM1cGxCS2d2eUNQV2JVSXh4SWhlaG9nd3k1TE9jWlUtYXJTLTNUbVQwWVhhbV92NWfSAW5BVV95cUxQb2M2WC1JWU12bWw4elJlWnpXYlo2bHBxNkxJOUF3d2wyOFVCRm1qV0RBWUttY3drVEQxR1B6ZGdLWm5BNEs0WC1LcDFZY0ZlV043ZWNMbVVSRUR4V2RvZGk0LW5vMkxSUWhmY3FQUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T09:03:44",
+      "description": "Samsung Electronics' 259,149 Domestic and International Employees Achieve 95% Renewable Energy Transition Rate Public Times",
+      "summary": {
+        "phenomenon": "The renewable energy transition rate for Samsung Electronics' 259,149 domestic and international employees has reached 95%.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Samsung Electronics",
+        "Renewable Energy",
+        "Transition Rate",
+        "95%",
+        "Employees"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "삼전 국내외 임직원 25만 9149명, 재생에너지 전환율 95% 퍼블릭타임스"
+    },
+    {
+      "id": "28",
+      "title": "Korea Water Resources Corporation Holds Public-Private Meeting to Revitalize Floating Solar Power Industry - Yugyo Newspaper",
+      "original_title": "한국수자원공사, 수상태양광 산업 활성화 민관 간담회 개최 - 유교신문",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4yQWtsWDVyVE0xaU1JSHhDbGRvVUJVbXA0c0NhYTgxMWoyMUZLM0ZJM3hUNUg2amgxeVBXTGZCQ3R6RXM3MTZPcl85V3pxMGY2U1hlOU1HdUU4Q3lSQ3c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-06-26T13:52:01",
+      "description": "Korea Water Resources Corporation Holds Public-Private Meeting to Revitalize Floating Solar Power Industry Yugyo Newspaper",
+      "summary": {
+        "phenomenon": "The Korea Water Resources Corporation held a public-private meeting to revitalize the floating solar power industry.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Measures to revitalize the floating solar power industry are expected to be discussed."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Water Resources Corporation",
+        "Floating Solar Power",
+        "Industry",
+        "Revitalization",
+        "Public-Private Meeting"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국수자원공사, 수상태양광 산업 활성화 민관 간담회 개최 유교신문"
+    },
+    {
+      "id": "29",
+      "title": "“이것이 기후 변화”: 과학자들, 유럽 폭염은 온난화 없이는 불가능하다고 말해",
+      "original_title": "‘This is climate change’: European heat wave impossible without warming, scientists say - E&E News by POLITICO",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYnBjaG1qV2pIMktxcmpSSVZNUlBlTWtxSHY2RVVGcFF1YjJBT3Q4RkNRQVlvY2RoaHQzb0hWWVMxcHJCdUE1bDROUjE1VjFXMVRwd2drZVMyMUxBZU5JYTBXS3RQaGdkdWNEU0dHNG9COUNtRG5QVDd4ODdVRlltOG9vMFFzZzZMVXp0dHl5R0YyUG9WUkszdFVUZkxBdW9QTVY2cjI2NDhKenQxZ1E4MUx1TjBPazA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T16:27:00",
+      "description": "‘This is climate change’: European heat wave impossible without warming, scientists say E&E News by POLITICO",
+      "summary": {
+        "phenomenon": "A heat wave has occurred in Europe.",
+        "cause": "Scientists stated that this European heat wave would have been impossible without global warming.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "European Heat Wave",
+        "Climate Change",
+        "Global Warming",
+        "Scientists",
+        "Unavoidable"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "‘This is climate change’: European heat wave impossible without warming, scientists say E&E News by POLITICO"
+    },
+    {
+      "id": "30",
+      "title": "기후 변화, 군대 그리고 주택: 미국 하원 2지구 후보자 질의응답 - 호놀룰루 시빌 비트",
+      "original_title": "Climate Change, The Military And Housing: U.S. House 2nd District Candidate Q&As - Honolulu Civil Beat",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZTVXVzBQdlpwS21Fd2pVczVBaGItMmFwZ2xJa2ozaVRNUDhwT1ZFdHZrTEVzTlU3Wmx0Ykc2NTRLTzhOd2pYQmZaS3gyQk00ZUxhc0UwT2RxUWVCSExmV2NiSFI2S0VFWnowLUJSOEFGR0U4ZFRBVVBhUHN0cnpTa3lHLW1GS1pHX3VVblVEejBtek00ZkNXcUhxYUpiRWdsWmQ5LVByRDJJNFE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:01:00",
+      "description": "Climate Change, The Military And Housing: U.S. House 2nd District Candidate Q&As Honolulu Civil Beat",
+      "summary": {
+        "phenomenon": "Candidates for the U.S. House 2nd District held a Q&A session on climate change, the military, and housing issues.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This was an opportunity to hear the candidates' positions on climate change, the military, and housing issues."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Military",
+        "Housing",
+        "U.S. House 2nd District",
+        "Candidate Q&A"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change, The Military And Housing: U.S. House 2nd District Candidate Q&As Honolulu Civil Beat"
+    },
+    {
+      "id": "31",
+      "title": "ACES, 기후 변화의 건강 영향 살펴보는 행사 개최 - AspenTimes.com",
+      "original_title": "ACES hosts event looking at health impacts of climate change - AspenTimes.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVTlTYkR6aXBkRjRMRkZRN2NHOU9xOTlhWEVTZGtWQWlJNXVKRFMtMjh3Tlh5Qm9QZmRFMEdTUnFNNXZvemY1TEVMdGVSVlVSSDRybHFUc3c4WmJHQ0xDZW5DNzJoZTRqOWxBWlp6R214Y3ZOTGxjZVlSZ25WY2U0R0tQMWFQSy1uZXJ0SmhoeFpPbG56dkpYTw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T23:13:36",
+      "description": "ACES hosts event looking at health impacts of climate change AspenTimes.com",
+      "summary": {
+        "phenomenon": "ACES hosted an event examining the health impacts of climate change.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "ACES",
+        "Climate Change",
+        "Health Impacts",
+        "Event",
+        "Aspen Times"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "ACES hosts event looking at health impacts of climate change AspenTimes.com"
+    },
+    {
+      "id": "32",
+      "title": "기후 변화와 침식: 뉴햄프셔 트레일의 과제 - 밸리 뉴스",
+      "original_title": "Climate Change and Erosion: Challenges for NH Trails - Valley News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OOEdUb0hXT0ZfaTRFNzFXRFdsRXUwZEJibW80a2ptWGl6ckFQNW50OERPUEIzVElyaVBQNTYzYTZKSkFEYjlNQlgxMFMtVnN5N2FlZm85RF80OE9jTGlUM3lnWlhXalZ3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T16:00:00",
+      "description": "Climate Change and Erosion: Challenges for NH Trails Valley News",
+      "summary": {
+        "phenomenon": "Erosion issues are occurring on trails in the New Hampshire (NH) region.",
+        "cause": "Climate change is identified as the cause of erosion problems on New Hampshire trails.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Erosion",
+        "New Hampshire",
+        "Trail",
+        "Challenge"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change and Erosion: Challenges for NH Trails Valley News"
+    },
+    {
+      "id": "33",
+      "title": "기후 변화가 어떻게 피부에 스며드는가",
+      "original_title": "How climate change gets under the skin - grist.org",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2RLbEx1QWk3Wk4wX3B3RzNSMU1wMXItT1JQRUFfZ3Z5SjhYbnNOODFYbGMtb0pGejlrZm9IWHhmVHRwU0FTZjlHU1RqZG9kLTRERVVNYzc1V1dudklRS3hPd2xCZGh6UjltYjlKMGMxck1OZW9hM1FMZ1VIbkEyNS1xM18?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T08:45:00",
+      "description": "How climate change gets under the skin grist.org",
+      "summary": {
+        "phenomenon": "How climate change gets under the skin grist.org",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Personal Impact",
+        "Health",
+        "Skin",
+        "Psychological"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change gets under the skin grist.org"
+    },
+    {
+      "id": "34",
+      "title": "트럼프가 폐쇄했던 기후변화 사이트, 비영리 단체 손으로 재개 - 더 레지스터",
+      "original_title": "Trump-shuttered climate change site back online in nonprofit hands - The Register",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEp1X3ZETjRVXzlnbkdmcFpiWGc0RURQSl9XU1ROcUkxbmRuQzZyY1NOTGN0ZWhzMVU2S0Q5Rzl6UkQzZk5LdFJ3ekJyMEU5MEdzQ3gtTFRlZEZrcF9WTWdKRWNvOEZkaklJWFpINmZHYzFHWFBzQTZ0MHVEdUJyT1ZLb2dtbnVMeVZ1d2hGZW01TWs5Q3pQY2NPdmxZVnZfTm42dGE5d0psSlZLLUNnTWtQcGstR2FJQ1pFenBR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T20:39:07",
+      "description": "Trump-shuttered climate change site back online in nonprofit hands The Register",
+      "summary": {
+        "phenomenon": "Trump-shuttered climate change site back online in nonprofit hands The Register",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Trump",
+        "Climate Change",
+        "Website",
+        "Reopening",
+        "Nonprofit"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Trump-shuttered climate change site back online in nonprofit hands The Register"
+    },
+    {
+      "id": "35",
+      "title": "The continuous global greening under climate change - Nature",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XdlBzc0ZyVG1uaTFVYTg5NTVtOTFUSm1uX3NFVDJOandpaEg0WUx2eG9rU2ZsUlF0Y3I3eWVQbjVHOW5Kb1Y3d1liR2FsLXl6eExyUnJyc2liNG5NRVow?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:24:19",
+      "description": "The continuous global greening under climate change Nature",
+      "summary": {
+        "phenomenon": "The continuous global greening under climate change Nature",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The continuous global greening under climate change Nature"
+    },
+    {
+      "id": "36",
+      "title": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action - The New York Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaWNrR0V1UlJGVzVDNWVjd0lDRm13dHlYY2lpMUNkb3Y3cV9jbjVYQmVVa0d0XzJ4RGpwdGstcUxhSUxob0daUnRBSWl6SW5ERHlQRkgtcjl5dlQ2bTV6MWFUV0QyNGdvRnlIYVpsVU5SVmhZYjhoYXprcUg1VHpzUDlNRlhBNnBSTWdjTmI2TkxiZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T13:08:19",
+      "description": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action The New York Times",
+      "summary": {
+        "phenomenon": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action The New York Times",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "As Europe Sweats, Some Politicians Talk of Air-Conditioning, Not Climate Action The New York Times"
+    },
+    {
+      "id": "37",
+      "title": "Shifting growth–climate limitations in Canadian forests under recent climate change - Nature",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vaWlIWlZua1o5Zko4UmRKNlZweGFRb285dW82d2NFOHhmeVlpZHFuQ0FibkJhRWNoR0hwM21TZC1CWWVuSmJmSktmMFhoVjU4ODlTaVdVY3FSaHRxZ1pB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T14:33:27",
+      "description": "Shifting growth–climate limitations in Canadian forests under recent climate change Nature",
+      "summary": {
+        "phenomenon": "Shifting growth–climate limitations in Canadian forests under recent climate change Nature",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Shifting growth–climate limitations in Canadian forests under recent climate change Nature"
+    },
+    {
+      "id": "38",
+      "title": "It’s not just hot, it’s climate change: the heatwave scorching Europe would have been impossible just 50 years ago - EL PAÍS English",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOUHFpaFJONWR5eS0tXzgwRkt3UmJkVTY0dEJ6cWRFeFhtVEtZcFQybUJLZFNldFB4Q3llSUdEY1VCcjNGaDJyMHZaNEhud0VhcDVSTVpOMEVIUnRjcDBhczBYSy1aZ2VFNUc1VTNHWkZJcmlkWVdwTHNQdjN3Tk1WbEl4S3YyYUkyTk9qb29xMTVOcXpaeTZSN0UtcVZwblh2Y0hlZDhsSEhXOWlEN3NuVWRjek9Fa2N4djl5WUItb2wzYVotTWVNb2k3ZkpNODRBMFY3NlVUcXlDLU1WcmdveXZfek9yV2ZqbmZiRVFTMVEwbXfSAYcCQVVfeXFMTzFMd0ZLU21uYXY4RkdmTlFZWkRVRU9GZjBMWGhfSnlSQ1pJOW9QSi1OX2FUSlctMXV5ODdQcV9UeUdLd01lVnJvV2ViNmUzNnoyRmx0WE1uc0gtWXRtWEtpa3JWV3hxTjhQZHhEODZ3WmlRWF9OcXljR09mV0hXUHd3VU9uOURvZjRUaUJfY3Y1OHlMdW16bkNKbE8wLXczdFBiYTZwS0Y2WFUycUpRdHhOOFBhempJdkptcHpza2YyWFl1Wi1iZ1FNbnhjbHF0Z1dEX1Q0UG5fcFJLRFdscHFIMmNNOU40c2NBZTlrcUc1VVBhUVVMTTRPRXNfU25UUUhCMTdGTFU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T15:18:50",
+      "description": "It’s not just hot, it’s climate change: the heatwave scorching Europe would have been impossible just 50 years ago EL PAÍS English",
+      "summary": {
+        "phenomenon": "It’s not just hot, it’s climate change: the heatwave scorching Europe would have been impossible just 50 years ago EL PAÍS English",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "It’s not just hot, it’s climate change: the heatwave scorching Europe would have been impossible just 50 years ago EL PAÍS English"
+    },
+    {
+      "id": "39",
+      "title": "Climate adaptation in Africa needs investment, not imported solutions - Climate Home News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblUwbUQ1TGdRTzc1Rk55QVRkc0ZUT2NoZXUwcXpZc1V6VFVLLXlFd2MxUGpBLWNWcmtsREhuOFJlSVhhc1dIZ1RFam5tMXo5TXRpenF3d1FoeHFpQjRUNzd2cnI4R1FFSWtKWExSa3JOWEZDYlF0SW5EUXFaTmZGQTM4WERmWG54OGpOUjBPUHpyQVJWY3d0RU5Hdl9nWWZiWnJoWUtrRzRjZXFLcU1pOXN1bXk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T19:33:46",
+      "description": "Climate adaptation in Africa needs investment, not imported solutions Climate Home News",
+      "summary": {
+        "phenomenon": "Climate adaptation in Africa needs investment, not imported solutions Climate Home News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate adaptation in Africa needs investment, not imported solutions Climate Home News"
+    },
+    {
+      "id": "40",
+      "title": "기후 변화가 꽃가루 수치에 미치는 영향은 이미 느껴지고 있다 - 영양사가 증상 완화를 위한 간단한 주방 치료법을 공유한다 - News-Medical",
+      "original_title": "Impact of climate change on pollen levels is already being felt - Nutritionist shares simple kitchen remedies to ease symptoms - News-Medical",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT2RSX0kzQWwtOGtnN3FEcTBiTjh0QmZ2RmVEd2ZFNEhtU0dVNG5OR0pZcm9WR29LYVF4SEZGS1ppTEpSMmo0WmZRc0luUk9ZWUxQSUxiZ2E0eTNMUVJiT0JBMTczUkdid05xZFBtMWZZVFNkekVDZ3BmX3B4OHI0M1ZOOXpZVFFYbGRZeEo1S0FPWjdYRXdLUGFNaWs2UFdWY20zZ0cyMG1BQ0NrWjlISm1fLXhJUk5yS2FtVkVaYU1uTG4xc3BLczd3d01HNjRpeTg4NEtSTzZ6enNOdkkwZ1dPUHRZNUhsVHdLUzJmZlBIcWZpaU83N3ZYa2IzZWl6M0E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T11:43:00",
+      "description": "Impact of climate change on pollen levels is already being felt - Nutritionist shares simple kitchen remedies to ease symptoms News-Medical",
+      "summary": {
+        "phenomenon": "Impact of climate change on pollen levels is already being felt - Nutritionist shares simple kitchen remedies to ease symptoms News-Medical",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Pollen",
+        "Symptom Relief",
+        "Nutritionist",
+        "Home Remedies"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Impact of climate change on pollen levels is already being felt - Nutritionist shares simple kitchen remedies to ease symptoms News-Medical"
+    },
+    {
+      "id": "41",
+      "title": "Ocean must be at the heart of climate action, leaders urge - thecommonwealth.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY0pkVGY4NENYQnE0bFNCa2xPWjltb1dwbENJZW1ERE50MlRrT0FGeWYxM2pWcUQ1QjV6ejVEYlBudER0UXVhVTFMSzNuTTJHeVVkT2JiWTFXUGpwNXBjaVlnN0tZbTJBOEJRdVZjOTE2ajd5V3lHM0ZZTXdCZU1rZU05eUY3dkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T17:09:34",
+      "description": "Ocean must be at the heart of climate action, leaders urge thecommonwealth.org",
+      "summary": {
+        "phenomenon": "Leaders from various nations are urging that the ocean be at the heart of climate action.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Ocean must be at the heart of climate action, leaders urge thecommonwealth.org"
+    },
+    {
+      "id": "42",
+      "title": "기후 변화 피해 미국인들, 국회의원들에게 답변 요구",
+      "original_title": "Americans impacted by climate change demand answers from lawmakers - japantoday.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb29BZ25PRkNNb2lSaFBKOVNmd0d3VWJqUGRLcVFITW9BdVVwZ2JPbFIyd3ZlUGJ3R2J6Qkt1QXR5dE9GR0lrU0VUbUtMYVFSald0OEdIWmVNZlBDZXE1VHlJenY5QlJqajc0LXV1YXBoWmE4OFNYZjNIdXUwSWl2MXpUWFU4WFNINFBjeU9iWk9Ha3V0aE1jWksxZ2ZJekEwb0NlYjFtUkJ4UXVEdXdQQ29wVWp1WTRmY3Q0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T19:44:00",
+      "description": "Americans impacted by climate change demand answers from lawmakers japantoday.com",
+      "summary": {
+        "phenomenon": "Americans impacted by climate change are demanding answers from lawmakers.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Americans",
+        "Impact",
+        "Demand for Answers",
+        "Lawmakers"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Americans impacted by climate change demand answers from lawmakers japantoday.com"
+    },
+    {
+      "id": "43",
+      "title": "중앙 콜로라도 인문주의자들과 그레이터 아칸소 강 자연 협회 (GARNA), 기후 변화 북 토크 주최 - 아크 밸리 보이스",
+      "original_title": "Central Colorado Humanists And Greater Arkansas River Nature Association (GARNA) To Host Climate Change Book Talk - Ark Valley Voice",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbE43Z2VOOUtXTVFjUFFTT2tpUUlnNEdEc3p0MWRnMlJBZm93REl4bFU5MUdRMGpPQ0ZxMjJiYjY3c2tOaVozSmNTMUdycGZWZ2VJLXhHV0RMNkZObGJNZHItZ2toeld3cUFOeHNVQ1ZsYjRKY2ZTMWNlNTVDNlVaMXIzVzJOQjI1TjNhR01POTUxOEd4YVNzd2VTTFl4SEF0YnpRQWJ5VDd3RnU4c1RCREFEMWJwdk95c05sZE9NOE9PSkFsamlIWUZ0ZVpXQUw4UVB4VjZ3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T18:01:47",
+      "description": "Central Colorado Humanists And Greater Arkansas River Nature Association (GARNA) To Host Climate Change Book Talk Ark Valley Voice",
+      "summary": {
+        "phenomenon": "Central Colorado Humanists and the Greater Arkansas River Nature Association (GARNA) are set to host a book talk on climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Book Talk",
+        "Humanists",
+        "Environmental Organization",
+        "Colorado"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Central Colorado Humanists And Greater Arkansas River Nature Association (GARNA) To Host Climate Change Book Talk Ark Valley Voice"
+    },
+    {
+      "id": "44",
+      "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat - Carbon Brief",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNV9LTXo0VG03anZ6NlJhN1NPVFhsYlFlU3JVbm5rd1JyUlh4VzhPU1lPVHd0azNUR3B6d1JXaklURjFISkszRjRQeks1djA3QXhLR1c0SHl3SE1aRGFkaEF2Tlg1bXlfZXhPMkNDcFdUdk5OYU1rZDJ0aFBObWh0aHBxbnM0cE54ek1BNGFJOU90LUpPX1k3MHRfa3FqeEV4alFMZWMwNVdzT0NT?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T12:52:07",
+      "description": "Media reaction: How climate change intensified Europe’s record-breaking June heat Carbon Brief",
+      "summary": {
+        "phenomenon": "Europe experienced record-breaking heatwaves in June.",
+        "cause": "Climate change intensified Europe's record-breaking June heatwaves.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Media reaction: How climate change intensified Europe’s record-breaking June heat Carbon Brief"
+    },
+    {
+      "id": "45",
+      "title": "기후 변화 심화로 워싱턴 번개 산불 급증",
+      "original_title": "Lightning-related wildfires surge in Washington as climate change intensifies - dailydispatch.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRlhrMnAxZ0Z0cmxRejVWTGNxcFNkZzF3ZWd2a0tpSHA5OTJVM0FqdUZoRVRLb2VrMDN0YnFaaFhfZFEwU2VfSzVjZ1NjeWMwSnlBekZoZzV5WS1uaVBfbGhyMlMycUFfNldGY0Z5WUtwNEJGWlFxQkNEYThBT2d2OFRabkNmQ0Rnb1B3SzdRM1JWLWY5RkdDNFRuYnB0X3QtNVpjbTVXMTFxVGUwSTBoQVUwUjI5NUhNNFQ3c2ZmRHk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T09:23:49",
+      "description": "Lightning-related wildfires surge in Washington as climate change intensifies dailydispatch.com",
+      "summary": {
+        "phenomenon": "Lightning-related wildfires surged in Washington State.",
+        "cause": "As climate change intensifies, lightning-related wildfires have increased.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Lightning Wildfires",
+        "Surge",
+        "Washington",
+        "Climate Change",
+        "Intensification"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Lightning-related wildfires surge in Washington as climate change intensifies dailydispatch.com"
+    },
+    {
+      "id": "46",
+      "title": "기후 적응의 결과이자 결정 요인으로서의 정신 건강 - 네이처",
+      "original_title": "Mental health as both outcome and determinant in climate adaptation - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZFNZOXRxc2tRb0VCRTFJMzFlcTd3cmowYWFSdUNRZnVJdGRBdFhpSFdOYlo4Z1NlaHAtSUFBbzU1eDBfVE4wM2dCQU1LOTB1N3BnZTBrNVBvYlF3VlY4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:05:22",
+      "description": "Mental health as both outcome and determinant in climate adaptation Nature",
+      "summary": {
+        "phenomenon": "Mental health acts as both an outcome and a determinant in climate adaptation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Mental Health",
+        "Climate Adaptation",
+        "Outcome",
+        "Determinant",
+        "Interaction"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Mental health as both outcome and determinant in climate adaptation Nature"
+    },
+    {
+      "id": "47",
+      "title": "Bronx gardens adapt to unpredictable weather as climate change alters growing seasons - The Riverdale Press",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODlJR3lfR3JXX1dtcndqZ1lQaExkN2lfRnJQYzJwLUJQcDI5bjVpWWxSZ3dFRUdoQXR5Rm5ZcWRYVTIzLXl5cUx2cktNLUR4bC15Z3NQdGVGa3ozUVdpbjlWQkd1eUlqT3BDeDVibFg1aTcwaXhMYnlkZlpVV2k2d2hTYm9MNTAzYVlxOTNZLWhhODFnUlZFMnM3ZEtZM0I1UWVmazQzc0tidXYwcUpWWDhKT0s5a2xZMWg0V0lRbm1SWDhvbFE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T15:00:00",
+      "description": "Bronx gardens adapt to unpredictable weather as climate change alters growing seasons The Riverdale Press",
+      "summary": {
+        "phenomenon": "Gardens in the Bronx are adapting to unpredictable weather as climate change alters growing seasons.",
+        "cause": "Climate change alters growing seasons and causes unpredictable weather.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bronx gardens adapt to unpredictable weather as climate change alters growing seasons The Riverdale Press"
+    },
+    {
+      "id": "48",
+      "title": "프랑스의 녹색 정책이 기후 변화에 대한 대비를 부족하게 만들었다 - 뉴스위크",
+      "original_title": "France’s Green Policies Have Left It Unprepared for Climate Change - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVQ2Um1yQmY2aXM1Z0ktQ2toZU1VclFxa1RKZU1GdWd4ZUoxcUZHNHJRS25CNE1sVDdTTEw2RXNueDd4bTd0bnRMejNZZmc0d1p5MTYxZXc3SjVobE9SaWlMMy1ja2R1dklnbC1YNFhSODctZ2lOU1gzRXp2OGlSNkZfT3FzZm1sN1hIZ3l2djZxUHd0cVlOS2R2anBLZkQx?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:14:00",
+      "description": "France’s Green Policies Have Left It Unprepared for Climate Change Newsweek",
+      "summary": {
+        "phenomenon": "France's green policies have left it unprepared for climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "France",
+        "Green Policies",
+        "Climate Change",
+        "Unpreparedness",
+        "Newsweek"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "France’s Green Policies Have Left It Unprepared for Climate Change Newsweek"
+    },
+    {
+      "id": "49",
+      "title": "그리스, 주차 공간 크기 산불 감지 위성 네트워크로 기후 변화 산불 위험에 대응 - 포춘",
+      "original_title": "Greece tackles climate change wildfire risk with satellite network that can spot a blaze the size of a parking space - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEFKek9xYlVlR3lxcHpCT2ppNEF3VUF0SWdJb1VxV3NOeTRTOFg1ckRwS0gwTXkzOVNKMkVGampmU09jdVNnR25hQUNTOW5HR1pSeWxjLXN4U21OZWkyOEpoT190TmVpRkx3OW5zd0NHbHM1NGhlMFVSZHRkdGxfY3B5SUU5ZGhOTXh2N0NONA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T17:26:00",
+      "description": "Greece tackles climate change wildfire risk with satellite network that can spot a blaze the size of a parking space Fortune",
+      "summary": {
+        "phenomenon": "Greece is using a satellite network that can detect blazes the size of a parking space to tackle wildfire risks exacerbated by climate change.",
+        "cause": "Climate change is increasing wildfire risks.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Greece",
+        "Climate Change",
+        "Wildfire Risk",
+        "Satellite Network",
+        "Fire Detection"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Greece tackles climate change wildfire risk with satellite network that can spot a blaze the size of a parking space Fortune"
+    },
+    {
+      "id": "50",
+      "title": "How the Baltic Sea Became a test case for climate change in coastal waters - Ynetnews",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5veVhYYklFcm9PT19IOXI1c29lck5wY1ROQmJnVWpkMTRtMkRFQ3YzUFpENXQyODlJLVZ5bFlCeWZCaXJJRmN1NVFMT0RhSWwzcWUwOFV4REYzNEZJa0hLYzBRX01SOHFnR2c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:24:43",
+      "description": "How the Baltic Sea Became a test case for climate change in coastal waters Ynetnews",
+      "summary": {
+        "phenomenon": "The Baltic Sea has become a test case for climate change in coastal waters.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How the Baltic Sea Became a test case for climate change in coastal waters Ynetnews"
+    },
+    {
+      "id": "51",
+      "title": "유럽의 치명적인 폭염은 기후 변화 없이는 '사실상 불가능했을' 것이다",
+      "original_title": "Europe’s Deadly Heat Wave Would Be “Virtually Impossible” Without Climate Change - jezebel.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUtKZC16V3dMMDZ2ckZfMjRLd2pWb1BRN1BVaWoyRjRVUHFxXzhxVU90YUZUZUlzTC1GcFlha1JZU2Rma0tZQkxMOXJmY3hTZ1ZwcnVBcDB0dW1rT0lUQjc4XzVIYVFaOTBDdWNyem1NaVZQdUVaWldld2pjSkZZOVIxUnNRSlRXWVRDbVRmUWZrQ3NkWndHWWExcVVEUTZxU1R2VmhIOEZ1MXNm?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T21:04:04",
+      "description": "Europe’s Deadly Heat Wave Would Be “Virtually Impossible” Without Climate Change jezebel.com",
+      "summary": {
+        "phenomenon": "A deadly heatwave has occurred in Europe. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "It has been stated that such a heatwave would have been 'virtually impossible' without climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Europe",
+        "Heatwave",
+        "Deadly",
+        "Climate Change",
+        "Impossible"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Europe’s Deadly Heat Wave Would Be “Virtually Impossible” Without Climate Change jezebel.com"
+    },
+    {
+      "id": "52",
+      "title": "기후 문해력이 기후 변화에 대한 기업의 적응을 강화할 수 있다: 인도에서 얻은 실험적 증거",
+      "original_title": "Climate Literacy Can Strengthen Business Adaptation To Climate Change: Experimental Evidence From India - Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSF91dkF6aHpFM0ViS25NOEt0V051SW41M1lVNVZDQzdQYWppaWdUbzZoNUc2MEp5RENGLTRVWHZPelM4UGNrSHZXb01hWmFmMzFILWhYUkN1RnF4M3B6d2VMVWduYlFLLWNPV185RmgwSmJKc052VC1Yd0JuZENnVDBlQ3BEMmliX2s0akF5aC1wV2hWX2tNT21PMUxlcXMzN0RBaU1YeXRiU1RTcklGY3ZRdlVROFNSZGJuMXltUEs2d1Jqd0VvQmFGb1dnS25KSWNWWFk1em1TZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T16:00:19",
+      "description": "Climate Literacy Can Strengthen Business Adaptation To Climate Change: Experimental Evidence From India Eurasia Review",
+      "summary": {
+        "phenomenon": "Experimental evidence has emerged from India suggesting that climate literacy can strengthen business adaptation to climate change. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate literacy is projected to enhance businesses' adaptation capabilities to climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Literacy",
+        "Business Adaptation",
+        "Climate Change",
+        "Experimental Evidence",
+        "India"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Literacy Can Strengthen Business Adaptation To Climate Change: Experimental Evidence From India Eurasia Review"
+    },
+    {
+      "id": "53",
+      "title": "CERN, 자연의 예상 밖 회복력으로 기후 변화에 대한 희소식 전해 - 더 디브리프",
+      "original_title": "CERN Provides Good News on Climate Change as Nature Proves Unexpectedly Resilient - The Debrief",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXV5T0lJY0hEV1dpRjRiY201RVVvM2N0dENyQ0RjRHgwMzNUdm1FQ0hYLVptWkJwMWs3YldTN2Y2Q080NF9vb1J5WXhzN28tOW1Xb2k3NF9fSXhDX0lmTXM4WERHZU1YMTQzOXd1TmtBU0NFQjIzdVFaeEx4TkFjdUpsbUxyRVlId2JuTE9YSkhPVDhWVzRsR0l3VnlYVDZNZkY2UVFFRnQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T12:30:45",
+      "description": "CERN Provides Good News on Climate Change as Nature Proves Unexpectedly Resilient The Debrief",
+      "summary": {
+        "phenomenon": "CERN has reported positive news regarding climate change, citing nature's unexpected resilience. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "With nature demonstrating unexpected resilience, a positive outlook on climate change has been presented."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "CERN",
+        "Good News",
+        "Climate Change",
+        "Nature",
+        "Resilience"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "CERN Provides Good News on Climate Change as Nature Proves Unexpectedly Resilient The Debrief"
+    },
+    {
+      "id": "54",
+      "title": "기록적인 폭염, '명백히' 기후 변화 때문 - 프랑스 24",
+      "original_title": "Scorching record-breaking heatwave 'unequivocally' due to climate change - France 24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1psam5NZTlWVDhWV3g0NWlnVTAwdnk0TkljSzlmNDVPZlJmVjhMYS1lMmhNV2JkZ1R6dVJ1VWtWQXp5QmV0b2RtSkdra3EzalFXRkw2SlFRYjc2cnRzWnhGd244aUZfaHdIZHNUUjhPLU9LZVdZVnR4eGtfRnJ3SDVtUnpvRnY3X0hYdzhGTHR3aGpOWENiaU9YWE02Tzg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T08:53:34",
+      "description": "Scorching record-breaking heatwave 'unequivocally' due to climate change France 24",
+      "summary": {
+        "phenomenon": "A record-breaking heatwave has occurred. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "This record-breaking heatwave has been 'unequivocally' attributed to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Record-breaking",
+        "Climate Change",
+        "Unequivocally",
+        "France"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scorching record-breaking heatwave 'unequivocally' due to climate change France 24"
+    },
+    {
+      "id": "55",
+      "title": "Three ways climate action can be more inclusive for 1.3 billion disabled people - The Conversation",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdk5OWFlwZnJUdVhqS2lqNHJqZmNUeE9wWXFlb1hxdUFkSGdOMjdUSm51Y2pZWjBwemVZd3I1bVVoZmdFcHQtR2M0eFh6aTc0QlJfdlpoTFRORDg1enRDWVUycFVpbmtUOFNScW9pVjlWMF9XOElvR2V1aDF5Z1Vkc1ptYms2WXVNbjFEYkdLRHV2UkpWTHBZd1NZTC1tNXo2UW12TVhtRWxjTkZ4MXZzMmVLNjc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:00:13",
+      "description": "Three ways climate action can be more inclusive for 1.3 billion disabled people The Conversation",
+      "summary": {
+        "phenomenon": "The need for more inclusive climate action for 1.3 billion disabled people globally has been highlighted. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate action is projected to become more inclusive for 1.3 billion disabled people through three distinct approaches."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Three ways climate action can be more inclusive for 1.3 billion disabled people The Conversation"
+    },
+    {
+      "id": "56",
+      "title": "Climate Change Weekly # 583—Climate Lawfare Is Flawed, Legal Panel Finds - heartland.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDhVRk5xMkZxb3F1RUhRT2Q1UGp1Rk1FNXBkMU9jWXRQNHZKZlFvWFVfQUdxNXdzamZpeEQybzJZdV9WV2dJQzVHTGt6VlJJUm05NnpDc09Zd1Qxay0wVGk0VW1uZE9yYi1MMDdNWjFkRE9iQTFNNEstTy1ERjhyNWJwM0NvRWJfN29CV21lazlDTFhvaVg5NFp5b2p5Ri1Jd0E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T13:02:28",
+      "description": "Climate Change Weekly # 583—Climate Lawfare Is Flawed, Legal Panel Finds heartland.org",
+      "summary": {
+        "phenomenon": "A legal panel has identified flaws in climate-related litigation, referred to as 'Climate Lawfare'. (Specific data, locations, and timelines are not detailed in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "The discovery of flaws in climate-related litigation may necessitate a reevaluation of future legal approaches."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Weekly # 583—Climate Lawfare Is Flawed, Legal Panel Finds heartland.org"
+    },
+    {
+      "id": "57",
+      "title": "브라질 아마존의 기후 변화와 여성 건강: 지역 관점",
+      "original_title": "Climate Change and Women’s Health in the Brazilian Amazon: A Local Perspective - The European Sting",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYzFIb2NlTG1UX2FqNUVuSENYSTk0Njd5YUpUTVQzdElZRU5tWFhiZWQ5N0NsdThiVU1FcTZhSVR0dnhKSWdDQ2hTbGZYR1VsSXVnOXM0YmpwdjJEVTBlbVlVRFFCRV8wX0xxM0RxX3JDUWRwcnh5NEo1QnZpam85aFdxN0JOTi1mcVE2amgwQnNOLU51QmpVWXdwZnhDem01MkI4MUFJVWo5TFJGSUZDNHZ6a00?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T13:16:27",
+      "description": "Climate Change and Women’s Health in the Brazilian Amazon: A Local Perspective The European Sting",
+      "summary": {
+        "phenomenon": "The connection between climate change and women's health in the Brazilian Amazon has been examined from a local perspective. (Specific data and timelines are not detailed in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change is anticipated to impact women's health in the Brazilian Amazon, underscoring the importance of understanding this through a local lens."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Women's Health",
+        "Brazilian Amazon",
+        "Local Perspective",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change and Women’s Health in the Brazilian Amazon: A Local Perspective The European Sting"
+    },
+    {
+      "id": "58",
+      "title": "연구: 기후 변화, 유럽 6월 폭염 심화시켜",
+      "original_title": "Study finds climate change intensified Europe's June heatwave - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3A5MnJLMEpnclNPbDFSNThqYWZKNUFQWjFBT0hjQVZjZTRMUWlZLUxIbmg3anBCYnBhY19wdmd1NVJnYWFGZDE2V1ZXczVVSnRuempQQzNsN3RaUWVVbm5za2hRRnBGemdqaFh6WS1xNEgta1Q1ajQ5QnhhQjRHQXY0bEEtTG5UWlhaUGVPNG5qWlZzVEpCNk1lRkQ2Ynd4eFVzVGpKQ3V4TW93VGtrX254OHhrNXlZNmc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T11:41:20",
+      "description": "Study finds climate change intensified Europe's June heatwave news.cgtn.com",
+      "summary": {
+        "phenomenon": "Europe experienced a June heatwave, which research findings indicate was intensified.",
+        "cause": "Research has revealed that climate change intensified Europe's June heatwave.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Europe",
+        "June Heatwave",
+        "Intensification",
+        "Research"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Study finds climate change intensified Europe's June heatwave news.cgtn.com"
+    },
+    {
+      "id": "59",
+      "title": "파리, 치명적 폭염 속 병원 지원 위해 주류 판매 중단... 과학자들, 인간 유발 기후 변화 탓으로 돌려 - CBS 뉴스",
+      "original_title": "Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1GMElGcWUzUmRkVWdpdTI3M2Y1dG9qNEZWNTkxM0lJV0hBYW5iSFRQckxhN0hUT0RyVUJhek5LaHNiTEZzNzRLTG1TRkhIRHRJVmtoNmFNaEx0eHQ5MUtkUzUydVI5VDRaQmpHSU91UDJsVVhUUVMyTWpHWQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T13:37:00",
+      "description": "Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change CBS News",
+      "summary": {
+        "phenomenon": "A deadly heatwave in Paris led to a suspension of alcohol sales to support hospitals. (The specific timing is not detailed in the article.)",
+        "cause": "Scientists have attributed this heatwave to human-caused climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Paris",
+        "Heatwave",
+        "Alcohol Sales Halt",
+        "Hospitals",
+        "Climate Change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change CBS News"
+    },
+    {
+      "id": "60",
+      "title": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ - Carbon Brief",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTWhOVER0bm5uaDRjQmE4djZneHBNOHBUTW1VUzlpdWtUdGJ6ZlpXZkI0anYyZ1NqZUUtbjN5YXpIcF95MVpzYTlhUXJxTjNYR0lrUWczQ21OQUE5WUxXcmpvd1dsSnh3LTg2QlBpSHVzeXpYRnhDMzFyLVgzXzZENTd4cXRsNmxDMUZRNXdNZC1mUGM2aVVVS0J4eXQ2bW93S2YxSW1URUFzWl9mTnFXUmxCRS1MLVR1N2I5N1V5VXVtaTJwNTRtaEtsaUNDTkZVODNENEVB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T14:37:40",
+      "description": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ Carbon Brief",
+      "summary": {
+        "phenomenon": "On June 26, 2026, heat records were broken across Europe.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ Carbon Brief"
+    },
+    {
+      "id": "61",
+      "title": "(S+) Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom - Spiegel",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbU5FVWJ1QWJWMDF0SC1sNmZFRnB1ZFlMNUJOZUYwZ3l1VVl4OXlzTjRvRTk1NE8yWWxLdDVsaGw5NU9ENWZRZm9UcERCQmh0VV92Rl8wMjVhZlZ6TE9BM2JJaTJBUFFjSkpmSzYyVlViLW5PbUt0UTQ1Rnk0NElfbVlHc3E3Y1dMcUpDRFA4TVJ0bXdScmtxRkVpeFplZXBicXhCcnVIZnpMZm9VRlVncXZWenlwX3NtT3Z2OV94V1RjcXdKdmprNnpMVV9qX21sR0NzRks2VGlydkU5SjRLNA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-06-26T10:52:00",
+      "description": "(S+) Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom Spiegel",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "(S+) Climate Change in Oceania: Tuvalu Is Tired of the Prophets of Doom Spiegel"
+    },
+    {
+      "id": "62",
+      "title": "유럽인들, 맹렬한 폭염 속 우려 표명 - 영상",
+      "original_title": "Europeans voice concerns amid sweltering heatwave - video",
+      "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T19:18:26",
+      "description": "European residents and tourists voiced their concerns over soaring temperatures as the continent continues to grapple with 'the most severe and widespread' heatwave ever. In summer 2022, more than 60,000 people died due to heat in Europe, and the current heatwave is already disrupting lives and livelihoodsEuropean heatwave is worst ever and impossible without climate crisis, scientists say Continue reading...",
+      "summary": {
+        "phenomenon": "A 'most severe and widespread' heatwave has occurred across Europe, leading residents and tourists to express concerns. In the summer of 2022, over 60,000 people died due to heatwaves in Europe, and the current heatwave is already disrupting lives and livelihoods.",
+        "cause": "Scientists state that the current heatwave in Europe is the worst ever, impossible without the climate crisis.",
+        "outlook": "The current heatwave is already disrupting the lives and livelihoods of Europeans."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Europe",
+        "Concern",
+        "Climate crisis",
+        "Fatalities"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "European residents and tourists voiced their concerns over soaring temperatures as the continent continues to grapple with 'the most severe and widespread' heatwave ever. In summer 2022, more than 60,000 people died due to heat in Europe, and the current heatwave is already disrupting lives and livelihoodsEuropean heatwave is worst ever and impossible without climate crisis, scientists say Continue reading..."
+    },
+    {
+      "id": "63",
+      "title": "유럽의 잔혹한 폭염 동진 예보 속 프랑스서 네 번째 유아 사망",
+      "original_title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T17:04:30",
+      "description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four toddlers and more than 55 drownings, as the brutally hot conditions sweeping Europe were forecast to shift east, choking 150 million people under 35C (95F) temperatures.Scientists said the heatwave was the most severe and widespread ever, leaving nearly half of the region’s 850 largest cities grappling w",
+      "summary": {
+        "phenomenon": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in Franc",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Deaths",
+        "Europe",
+        "Toddlers",
+        "Drownings"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four toddlers and more than 55 drownings, as the brutally hot conditions sweeping Europe were forecast to shift east, choking 150 million people under 35C (95F) temperatures.Scientists said the heatwave was the most severe and widespread ever, leaving nearly half of the region’s 850 largest cities grappling w"
+    },
+    {
+      "id": "64",
+      "title": "영국 6월 폭염 기록 사흘 연속 경신, 장관들에 행동 촉구",
+      "original_title": "UK June heat record broken for third day in a row as ministers urged to act",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T15:56:13",
+      "description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for action to protect people against the intensifying effects of the climate crisis, as the highest maximum temperature record for June was broken for the third day in a row.With the country in the grip of the worst heatwave ever recorded in western Europe – a direct result of global heating – the chair o",
+      "summary": {
+        "phenomenon": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK gov",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "UK",
+        "Heatwave",
+        "Record-breaking",
+        "Climate crisis",
+        "Government action"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for action to protect people against the intensifying effects of the climate crisis, as the highest maximum temperature record for June was broken for the third day in a row.With the country in the grip of the worst heatwave ever recorded in western Europe – a direct result of global heating – the chair o"
+    },
+    {
+      "id": "65",
+      "title": "‘우리는 소작농 같다’: 여성과 저소득층, 폭염의 직격탄 맞아",
+      "original_title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T15:00:14",
+      "description": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of heat and humidity fuelled by the climate crisis making scores of cities feel unliveable. While for some the adverse impacts amount to disturbed sleep and sticky days in the home office, low-income families are often worse affected by cities’ lack of adequate adaptation measures, with women at the sharp e",
+      "summary": {
+        "phenomenon": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europ",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Low-income groups",
+        "Climate crisis",
+        "Socioeconomic disparities",
+        "Adaptation measures"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of heat and humidity fuelled by the climate crisis making scores of cities feel unliveable. While for some the adverse impacts amount to disturbed sleep and sticky days in the home office, low-income families are often worse affected by cities’ lack of adequate adaptation measures, with women at the sharp e"
+    },
+    {
+      "id": "66",
+      "title": "마틴 로슨: 영국의 기록적인 6월 기온 – 만화",
+      "original_title": "Martin Rowson on the UK’s record-breaking June temperatures – cartoon",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jun/26/martin-rowson-uk-record-breaking-temperatures-cartoon",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T16:34:14",
+      "description": "Continue reading...",
+      "summary": {
+        "phenomenon": "Continue reading...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "UK",
+        "Record-breaking",
+        "June",
+        "Temperature",
+        "Heatwave"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Continue reading..."
+    },
+    {
+      "id": "67",
+      "title": "Climate sceptics cheering as they melt in record temperatures? This heatwave is where satire has come to die | Jonathan Freedland",
+      "original_title": null,
+      "url": "https://www.theguardian.com/commentisfree/2026/jun/26/climate-sceptics-record-temperatures-heatwave-ed-miliband-net-zero",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T16:31:05",
+      "description": "Delegates at an ‘anti-woke’ conference disparaged Ed Miliband’s net zero policies. But even they could not ignore the sweat on their foreheadsIt was hardly a perfect film, but I keep thinking of Don’t Look Up. In its depiction of a world that stubbornly refuses to heed the warnings of an imminent planetary disaster, it was perhaps too on the nose. But these days, reality itself is too on the nose.This week served up ample evidence, on both sides of the Atlantic. In Britain, like much of Europe, ",
+      "summary": {
+        "phenomenon": "Delegates at an ‘anti-woke’ conference disparaged Ed Miliband’s net zero policies. But even they could not ignore the sweat on their foreheadsIt was h",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Delegates at an ‘anti-woke’ conference disparaged Ed Miliband’s net zero policies. But even they could not ignore the sweat on their foreheadsIt was hardly a perfect film, but I keep thinking of Don’t Look Up. In its depiction of a world that stubbornly refuses to heed the warnings of an imminent planetary disaster, it was perhaps too on the nose. But these days, reality itself is too on the nose.This week served up ample evidence, on both sides of the Atlantic. In Britain, like much of Europe, "
+    },
+    {
+      "id": "68",
+      "title": "'사람들에게 꿈을 꾸게 하라': 공동선을 위한 경제를 구축하는 방법",
+      "original_title": "‘Make people dream’: how to build an economy for the common good",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
+      "source": "guardian_climate",
+      "published_at": "2026-06-26T12:05:14",
+      "description": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. They know what they want to achieve, can articulate why, and work out in public how to get there. They don’t just spout slogans about economic growth – because growth is meaningless unless we know what it is for. They understand that there is no trade-off between solving social problems and boosting the economy, and aim to do both, while avoiding rigi",
+      "summary": {
+        "phenomenon": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. The",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Common good economy",
+        "Government role",
+        "Solving social problems",
+        "Economic growth",
+        "Vision"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. They know what they want to achieve, can articulate why, and work out in public how to get there. They don’t just spout slogans about economic growth – because growth is meaningless unless we know what it is for. They understand that there is no trade-off between solving social problems and boosting the economy, and aim to do both, while avoiding rigi"
+    },
+    {
+      "id": "69",
+      "title": "디브리프드 2026년 6월 26일: 유럽 전역 폭염 기록 경신 | 런던 기후 행동 주간 | '프로젝트 코스모스' 소개",
+      "original_title": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’",
+      "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
+      "source": "carbonbrief",
+      "published_at": "2026-06-26T14:27:07",
+      "description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 26 June 2026: Heat re",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Europe",
+        "Climate action",
+        "Project Cosmos",
+        "Climate trends"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ appeared first on Carbon Brief."
+    },
+    {
+      "id": "70",
+      "title": "Q&A: What change of power in Colombia could mean for world’s fossil-fuel transition",
+      "original_title": null,
+      "url": "https://www.carbonbrief.org/qa-what-change-of-power-in-colombia-could-mean-for-worlds-fossil-fuel-transition/",
+      "source": "carbonbrief",
+      "published_at": "2026-06-26T14:04:53",
+      "description": "Over the last four years, Colombia has emerged as one of the most vocal advocates... The post Q&A: What change of power in Colombia could mean for world’s fossil-fuel transition appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "Over the last four years, Colombia has emerged as one of the most vocal advocates... The post Q&A: What change of power in Colombia could mean for wor",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Over the last four years, Colombia has emerged as one of the most vocal advocates... The post Q&A: What change of power in Colombia could mean for world’s fossil-fuel transition appeared first on Carbon Brief."
+    },
+    {
+      "id": "71",
+      "title": "언론 반응: 기후 변화가 유럽의 기록적인 6월 폭염을 어떻게 심화시켰나",
+      "original_title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
+      "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
+      "source": "carbonbrief",
+      "published_at": "2026-06-26T12:44:22",
+      "description": "For the second time in two months, western and central Europe has been hit by... The post Media reaction: How climate change intensified Europe’s record-breaking June heat appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "Western and Central Europe has been hit by a record-breaking June heatwave for the second time in two months.",
+        "cause": "Media outlets have analyzed that climate change intensified Europe's record-breaking June heatwave.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Europe",
+        "Heatwave",
+        "Climate Change",
+        "Record-breaking",
+        "Media Reaction"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "For the second time in two months, western and central Europe has been hit by... The post Media reaction: How climate change intensified Europe’s record-breaking June heat appeared first on Carbon Brief."
+    },
+    {
+      "id": "72",
+      "title": "트럼프 청정에너지 세액 공제 중단으로 프로젝트 급증, 가격 급등 예상 - 로이터",
+      "original_title": "Trump clean energy tax credit cutoff drives project rush as prices set to soar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOblZWbTB1bWZiQVVXODNWdkpHVlhXTnNsUHNKc2pRc3E5V0FoNG5kd0d5U2VGekI4b29qTHBzTFBfZmFZSUVIUU5fOVRnVTlmcVlod1ZMUmlRZmNVcTNKRGNzcktTV20tdXI3ZGNfLU9fblN1TXo3Z0I5WWZiX1JjeDJCdEc4WnQxd3pGWmg0REVaX0RLQXNWa25oeTB3bmM2TkxpenBVa3ZqZzgxYXA4MnlFa3U5cURsRUIzaVNzSnk5dE0?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-06-26T16:53:33",
+      "description": "Trump clean energy tax credit cutoff drives project rush as prices set to soar Reuters",
+      "summary": {
+        "phenomenon": "A surge in clean energy projects is occurring following the Trump administration's announcement to cut off clean energy tax credits.",
+        "cause": "The Trump administration's policy to discontinue clean energy tax credits is identified as the cause of this project surge.",
+        "outlook": "Consequently, prices related to clean energy are projected to rise sharply."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Trump",
+        "Clean Energy",
+        "Tax Credit",
+        "Project",
+        "Price Surge"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Trump clean energy tax credit cutoff drives project rush as prices set to soar Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 72,
+    "domestic_count": 28,
+    "international_count": 44,
+    "top_keywords": [
+      "Climate change",
+      "Carbon neutrality",
+      "Heatwave",
+      "Europe",
+      "Climate change"
+    ],
+    "sentiment_breakdown": {
+      "positive": 27,
+      "negative": 22,
+      "neutral": 8
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "폭염",
+      "유럽",
+      "기후변화"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
