@@ -1,16 +1,16 @@
 {
   "date": "2026-06-27",
   "metadata": {
-    "collected_at": "2026-06-26T23:38:33.290119",
-    "total_articles": 72,
+    "collected_at": "2026-06-27T08:58:43.120412",
+    "total_articles": 94,
     "sources": {
-      "korean": 28,
-      "international": 44
+      "korean": 44,
+      "international": 50
     },
     "sentiment_distribution": {
-      "positive": 27,
-      "negative": 22,
-      "neutral": 8
+      "positive": 32,
+      "negative": 36,
+      "neutral": 9
     }
   },
   "articles": [
@@ -1790,6 +1790,563 @@
           "가격급등"
         ]
       }
+    },
+    {
+      "id": "15214b3c7adea339",
+      "title": "[자막뉴스] 모두가 잠든 새벽 쏟아지는 물폭탄...기후변화가 만든 '야간 폭우' - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1czZ1T2JHalB5LW9rTkNWUnYzVlQ1NFN4bmdxaDhBRHNWUGxwSVFQT1VrX1d6aWNiVlozcUxqYVd0a2tSNHh3YzlWb1AzNjJYdDFfRVFNMTZYR1NNSlE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T06:49:00",
+      "collected_at": "2026-06-27T08:55:57.898863",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "야간 폭우",
+          "물폭탄",
+          "새벽",
+          "폭우"
+        ]
+      }
+    },
+    {
+      "id": "1f35ddde55b4279f",
+      "title": "기술과 기후변화가 만든 북극의 '강대국 경쟁' - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02TjQyS1ZXMUxSLVB4UUJ0dGpyaUNtLXA3bV8tdXJkRUhZVmR4T28zckNObG43dm9yRzNYZEhPMVZNQzZGY3RyR1NyUlBoc3VmRzMtYWxINWUtOUJQVTZRZW5xMDBrYTRDMkVR0gFwQVVfeXFMTkpmdnFWeG5jdkM0a3ljRXlTdE5hZkhjOGlGZngzMDMyZWNKalUyVGUzUGhQU3JyT182TEM1WEdENXR5X1F0T3d2M0pVYUpRWktXS2xDQU10RUhCM0xkbmVuMVgzZmRlMXN6cHR5dVBQOQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T00:30:00",
+      "collected_at": "2026-06-27T08:55:57.898966",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기술",
+          "기후변화",
+          "북극",
+          "강대국",
+          "경쟁"
+        ]
+      }
+    },
+    {
+      "id": "43cb482792b70055",
+      "title": "그늘에선 시원했던 과거 유럽 여름, 지금은 왜 폭염에 시달릴까? - 강찬수의 에코파일",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pb05Cc1ZCd25YemwtX2VLNUlTNE4wZW5wYkJhaUNXN0hxaF9JRVBZbWk4SzBBcU9lOTRUWG11OEtrRXVXZUkxU2Z2Z3JwM19ycm4wamRtSkVzYm8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T02:26:28",
+      "collected_at": "2026-06-27T08:55:57.899098",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "과거 여름",
+          "기후 변화",
+          "그늘"
+        ]
+      }
+    },
+    {
+      "id": "db7c1b876af2c3d2",
+      "title": "[칼럼]유럽을 강타한 \"오메가 열돔\"과 기후위기와의 연관성 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9icHVpODBnYm5fT05kbWRPdGRjVUp3VFA4LWVmcDd2bmNCeFVyejFyTm5FckJCWHZtUUxiOGkzcjJXMHljcFBpTlIzSEY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T06:37:21",
+      "collected_at": "2026-06-27T08:55:57.899145",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "오메가 열돔",
+          "기후위기",
+          "연관성",
+          "강타"
+        ]
+      }
+    },
+    {
+      "id": "b923468fe6b2b80e",
+      "title": "[남성현의 산림르네상스(18)] 참나무는 없다, 기후변화 시대에 ‘참나무류’를 다시 보다 - 한국강사신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01SjBNS0VBbE1KRmk2cGczaEVpSTk3cTg0MEVlMElZUkVRY3FZem1mQnl1cHk2Nm5VeWZwdmg4Ty1RTTVOaUJYMTd0cGxsQTNRVHpQbzJkc2pmVlpROEczOGZxd3FFTmpjdWhWbDh2dG0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-26T23:13:52",
+      "collected_at": "2026-06-27T08:55:57.899274",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "참나무",
+          "산림",
+          "생태계",
+          "재평가"
+        ]
+      }
+    },
+    {
+      "id": "392ea67136cd59f7",
+      "title": "유럽 41도 폭염 쇼크… 지금 사야 할 수혜주는 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWERHaUlCUEdEY2REMW9KX0lGX0F3R0xmcHRDc1VydlJMSFJQcC05R0JJcXBvQ3UxZGpSVjBYaHJEV0NaSzVyUnBJODJIR0p6dGNIUVBVcVFrRkxKN3RDTHZ6dFFJVHYxaFVvN3JHZ0JGYS0yQ2NvZVZySktEU1RPODlWOFlfZGZ6?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-26T22:38:54",
+      "collected_at": "2026-06-27T08:55:57.899300",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "쇼크",
+          "수혜주",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "282748ce41d12cd0",
+      "title": "기술과 기후변화가 만든 북극의 '강대국 경쟁' - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjT2RaOHB0a29tTGZqaEZFRFNmTkhWM21STUtwcVNGbVlWQ21VcmpzbnR1RzNEMjU3Vy1FQTNfd3k5c2RFUG1oZGpSSUNESkx4YXZv?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T00:30:00",
+      "collected_at": "2026-06-27T08:55:57.899435",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기술",
+          "기후변화",
+          "북극",
+          "강대국",
+          "경쟁"
+        ]
+      }
+    },
+    {
+      "id": "b3d4009269bb92ba",
+      "title": "유럽이 이전에는 상상도 할 수 없었던 폭염을 겪고 있는 이유는 다음과 같습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTVYwS0tqdDJlT1pCMnRtRTFra0M3b1JRd1ltSEd2VmJEUDdQUVlHZHVLdGpiT3FuVVVMcnBaLXF5YkVFSTRMdFhmV0lBcWlpaFo2eUVWTmJ3Ny1hdGJzV1A2bHEyY2kwYk56M0Q5X3lQcnQxY3VCcEEyRWhROHJLR1ZOR01WQUhiMGJONU5icDJQcjZqMVVqZTdDLXkwZl9s?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T03:47:27",
+      "collected_at": "2026-06-27T08:55:57.900064",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "이상기후",
+          "기후변화",
+          "원인"
+        ]
+      }
+    },
+    {
+      "id": "67cebe844ebe6e08",
+      "title": "유럽은 역사상 가장 심각한 폭염을 겪고 있습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOFdSLWhNWVdzcmtabDdCYjVzYU1Ud2FqSERPajRMY0t6ZDJKVFlDS0dBaVVZcXluSjlQUlpvV0wxNVp4RU9pNWI4VE9SOWZfeGVtWk5oTGdQVjFIWTI5Z1NjU0VDR2RCWWdwX3VIOFhEY2c3S0JjOXA0aG5EZnpaMG54dkJ0MEJkMkRSeHo0S3ZjaTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T05:45:55",
+      "collected_at": "2026-06-27T08:55:57.900341",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "역사상",
+          "심각한",
+          "기후 위기"
+        ]
+      }
+    },
+    {
+      "id": "bc1914765f819973",
+      "title": "포항시, 탄소중립 정책 이행점검 사전 워크숍 … 시민 의견 정책 반영 - 시사뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9adWhsMUl6RFFmTUNZQjdoeUFEb282cGpkVEUzd2dHdDFCQ3VhcVlieGRKT0FETFJBNjZldFhTaXhSZkJ1WDJfS29LYjFNak1jM3phYWltY2JrY05oUnhfWDV3Yw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T07:52:01",
+      "collected_at": "2026-06-27T08:55:57.847170",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "탄소중립",
+          "정책",
+          "워크숍",
+          "시민 의견"
+        ]
+      }
+    },
+    {
+      "id": "23111eb2d22cef30",
+      "title": "삼성전자 DX부문 재생에너지 전환율 94.8%…2050 탄소중립 추진 - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxNGFvZWxibmMtNktva1VPSVp0SUpZNFAtY2FIdDZFY2cxS0lobVdtaDBmSm96M0N0WEVMSWh1eFVlaWdCWm9LeEhoY1hRUXEyMnhENE9BN09hT09IMnN5djhSa1RhLWlK?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T04:25:00",
+      "collected_at": "2026-06-27T08:55:57.847204",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성전자",
+          "DX부문",
+          "재생에너지",
+          "탄소중립",
+          "전환율"
+        ]
+      }
+    },
+    {
+      "id": "282a5b2a635334d6",
+      "title": "중국 재생에너지 기록 경신에도 석탄 발전 다시 증가 - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sWEI5SWhXREFGVjdaRnc0dDNRM2szT2RRb2pSbC1XbHRlRjZDM3lYZjNVRWNnRDhrczRrY1BmVTFmeTNRYXpUU2tLeU1FVlo4SHk2eWhtMUJKbEdnRVdHZUZ2UkM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T04:16:08",
+      "collected_at": "2026-06-27T08:55:57.792094",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "재생에너지",
+          "석탄 발전",
+          "기록 경신",
+          "증가"
+        ]
+      }
+    },
+    {
+      "id": "e82bdabe42a39a8b",
+      "title": "우크라이나 전력망 복구, 재생에너지·배터리 중심으로... - AI타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LcXBwS0FlTHFVRWljd0k4ZUJGc0dyTnJYbmFaeGpMY0ZxTEN0Q2kweExFQ1gwQUxmSmE0ZlhuazRQemx3Ny1GemdUS3NuV3I4RnU3cWc3LXVIX2J5WFdranRHTEpTaERwaFE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T00:30:00",
+      "collected_at": "2026-06-27T08:55:57.792132",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "우크라이나",
+          "전력망",
+          "복구",
+          "재생에너지",
+          "배터리"
+        ]
+      }
+    },
+    {
+      "id": "0f6dc1a233cb26b6",
+      "title": "비올라 린 대만풍력산업협회장 “해상풍력 세계 5위 대만, CPPA 활성화로 RE100 대비” - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fLWJTZFdSbENIZV9WMzNwMXZIN0tWcHBHekZPMUVCeXZDZjF0eFE1UktaRXZQX1lJYXctS0hXRmtTSk96RThzTFdjS3JQTkQzRzA1cldJQ1dWU0RFazUxSUxsTnZCcFVhZy16c9IBcEFVX3lxTE1ZbTdrTWVuUDI5Z2tuNjBpSHlVVDUxRUNDTmpjcTVjaHpUOGNTREx4bGl4bFV5emVQY2tzZ3dFam5VQVllQTdPWTh0WHFoMVk3SmJLbm1BQTdvSnJmQzZDVDFrT095eWpFbEJRcWktTGQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-27T01:00:00",
+      "collected_at": "2026-06-27T08:55:57.792285",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대만",
+          "해상풍력",
+          "RE100",
+          "CPPA",
+          "세계 5위"
+        ]
+      }
+    },
+    {
+      "id": "19a0c153ec6dcc8c",
+      "title": "두 사람은 친환경 에너지로의 전환을 주도하고 있다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CLS1SWlEwS09Tcnp0ZFZvbzNYaklodU5Ecm05YU82VFFtbm94dU5tQWd1Y0pCQ19BRFV5bDhSblB3SXY4cm5xS2FneHMtWDRqbVRKbnBGR2I0YTUtaUNfaENlZHBkM1EyRWxraWZxMU9WSk1PMnB3cQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-06-26T23:48:43",
+      "collected_at": "2026-06-27T08:55:57.792891",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "친환경 에너지",
+          "에너지 전환",
+          "주도",
+          "베트남",
+          "리더십"
+        ]
+      }
+    },
+    {
+      "id": "e207894380439d26",
+      "title": "“주식시장엔 돈 밀려드는데 노동자 주머니는 가뭄”, 민주노총 최저임금인상 촉구",
+      "link": "https://www.khan.co.kr/article/202606271726001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-06-27T08:26:00",
+      "collected_at": "2026-06-27T08:55:58.881323",
+      "keywords_matched": [
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "민주노총",
+          "최저임금",
+          "인상 촉구",
+          "집회",
+          "노동자"
+        ]
+      }
+    },
+    {
+      "id": "404eb658accb3db3",
+      "title": "How are West Midlands farmers adapting to climate change? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vaHBUVXNOendpSm5tUEpzTUppaFFLcHZPU2JKMGEyU1VGZ1ZfOXk1QWx5QmF6bTdzcTA4LWhTb0h6eHBrWHlzNTd5R0xjdEhiWG5PM1FNc3pudw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-27T06:10:30",
+      "collected_at": "2026-06-27T08:55:59.275755",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "웨스트 미들랜즈 농부들은 기후 변화에 어떻게 적응하고 있나?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "웨스트 미들랜즈",
+          "농부",
+          "기후 변화",
+          "적응",
+          "농업"
+        ]
+      }
+    },
+    {
+      "id": "42a64270fd4d5c1f",
+      "title": "Europe’s extreme heat would be impossible without climate change, scientists say - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNXdhSWZqd3FkUFhKTHFFdGpvZVBESHdRcC1xMFk4OHI0V0ZmVmlISjUtdmxTaS1CcUxfY0xPcS05dUhRclZ6Qjd5eThTdFZxMTVseGlrbUNNdzFiRU1vOFlKUTZ1ck1EZlJGNV9Wak5zNlNUWFdUbjBMWlZ4dkh0VTc3YnVDV2ZrbWMyWGdmSEptTTlfMDZlY3REaE8wQ3NhWUtlZE1Fd3BVZGM0aXBvbVg0VXR0cGZjQXc1aXp4ZElSS2w2N2szZkhIcDM2TTVnMWJDbXl4N2I2QW0td0plc0JrYnBnZGJGakc2QzVsOW4yLTBvRFE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-26T22:43:41",
+      "collected_at": "2026-06-27T08:55:59.277008",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유럽의 극심한 폭염은 기후 변화 없이는 불가능했을 것이라고 과학자들은 말한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "기후 변화",
+          "영향",
+          "과학자"
+        ]
+      }
+    },
+    {
+      "id": "5ba3e76cd5439f88",
+      "title": "Why Europe’s worst-ever heatwave would have been impossible without climate change - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZkVNaUpBaXlJTzRIRmVxMV8zRTNUdVNZVU4yWHFwMXZNQUx4eUI0YV8zVUxoY3M1VmtOLTZzUnRwQVZLZmRmRjBHdnA0T21MN0pjdl9HQ2dmeU1ielJTY1VrT3M5QmFEQk1Ibk5hMUxhdWNlN0Nsa05nc2pBUnJ6SnJ2RlhiYkIxenNOY1BCY2tVNFM5Wk5qTEg2UWphQUNZdUw4dF9Pa3RzWC1SNEZzclB30gG4AUFVX3lxTFBIRi1ldzd0VVdLUlFMNWdNN0NORW5iV3BpLWxvaHQ1YUVUTWFUS1ltNm5hMWJwM1I0SkoxajVOcHl1SUZQLTBJTWszNjk2M1p5X1h3eS1sOXNXSnpteXEyWDhSN2lSQXFEWGgwQnVua21oOWNkTEpiQTgyZkFOQ2I2Qll4ZkRjUVNIWUhrUVRQY2ZYaE9abEd3Sk5WYTZuOGs2N09zYWk3d1BseHhqTXV6YlhQOTFRd1U?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-27T06:19:30",
+      "collected_at": "2026-06-27T08:55:59.277264",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유럽의 사상 최악 폭염이 기후 변화 없이는 불가능했을 이유"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "폭염",
+          "기후 변화",
+          "사상 최악",
+          "원인"
+        ]
+      }
+    },
+    {
+      "id": "d880fbb3f8f279ab",
+      "title": "After 5 Years – Germany’s Supreme Court and Global Warming - Countercurrents",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM0hXUUMyc21aci1rOUJ3X1dvZTRTV21ReDVuTEVWdGxFb1MzcXlFaTcxbUdGaWx0NkxYUXRncDAwQUJPcGJIYTMwS2tQVWVxUWVmSzBoSE5CVEdrNEp2QnMtWkszRTRXUWJuc1NCS203Y21jYWRvLU8zTFpYWmg4dFZlSFM1a1pzWEhBR19raHF4N2tMeGl3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-06-27T07:10:23",
+      "collected_at": "2026-06-27T08:55:59.277361",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1f398d62b0c30fc5",
+      "title": "Germany braced for temperatures ‘well over 40C’ as Europe heatwave pushes east – live",
+      "link": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-06-27T08:43:07",
+      "collected_at": "2026-06-27T08:55:58.994770",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "독일, 40C 훨씬 넘는 기온 대비... 유럽 폭염 동쪽으로 확산 – 라이브"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "독일",
+          "유럽 폭염",
+          "기록적인 기온",
+          "세계 기상 특성 그룹",
+          "습구 흑구 온도"
+        ]
+      }
+    },
+    {
+      "id": "b889e9e55ad2c732",
+      "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
+      "link": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-06-27T02:50:42",
+      "collected_at": "2026-06-27T08:55:58.994838",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
