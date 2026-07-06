@@ -1,6 +1,7 @@
 {
-  "last_updated": "2026-07-05T10:11:41.417433",
+  "last_updated": "2026-07-06T00:17:14.910533",
   "available_dates": [
+    "2026-07-06",
     "2026-07-05",
     "2026-07-04",
     "2026-07-03",
@@ -204,6 +205,13 @@
     "2025-12-17"
   ],
   "dates_detail": {
+    "2026-07-06": [
+      {
+        "period": "morning",
+        "file": "2026-07-06-morning.json",
+        "period_label": "오전"
+      }
+    ],
     "2026-07-05": [
       {
         "period": "morning",
@@ -2602,6 +2610,6 @@
       }
     ]
   },
-  "latest": "2026-07-05-afternoon",
-  "total_briefings": 399
+  "latest": "2026-07-06-morning",
+  "total_briefings": 400
 }
