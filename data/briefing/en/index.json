@@ -1,7 +1,8 @@
 {
   "language": "en",
-  "last_updated": "2026-07-07T11:08:47.751049",
+  "last_updated": "2026-07-08T00:10:05.224463",
   "available_dates": [
+    "2026-07-08",
     "2026-07-07",
     "2026-07-06",
     "2026-07-05",
@@ -2627,8 +2628,15 @@
         "file": "2026-02-28-morning.json",
         "period_label": "Morning"
       }
+    ],
+    "2026-07-08": [
+      {
+        "period": "morning",
+        "file": "2026-07-08-morning.json",
+        "period_label": "Morning"
+      }
     ]
   },
-  "latest": "2026-07-07-afternoon",
-  "total_briefings": 403
+  "latest": "2026-07-08-morning",
+  "total_briefings": 404
 }
