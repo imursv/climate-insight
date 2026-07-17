@@ -1,15 +1,15 @@
 {
   "date": "2026-07-17",
   "metadata": {
-    "collected_at": "2026-07-17T00:07:55.168092",
-    "total_articles": 57,
+    "collected_at": "2026-07-17T09:55:56.506600",
+    "total_articles": 85,
     "sources": {
-      "korean": 27,
-      "international": 30
+      "korean": 44,
+      "international": 41
     },
     "sentiment_distribution": {
-      "positive": 23,
-      "negative": 14,
+      "positive": 35,
+      "negative": 24,
       "neutral": 4
     }
   },
@@ -1366,6 +1366,691 @@
       "language": "en",
       "published_at": "2026-07-16T13:00:39",
       "collected_at": "2026-07-17T00:02:00.152357",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4d9a2f70d00ac801",
+      "title": "\"기후변화는 사기\"...트럼프가 없앤 美 기후 사이트, 전 직원들이 되살려 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SNG9OQU9xWk9fREotRURVbU40Wk1sVDFtM29LMG9oQjJMandEaExVMzE2QmF5MFNQTVdaV3BiZWJnT1JlYWxuS1JPWGQtaUEyU2JFbmh3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T00:11:23",
+      "collected_at": "2026-07-17T09:51:55.308311",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "트럼프",
+          "기후 사이트",
+          "전 직원",
+          "복원"
+        ]
+      }
+    },
+    {
+      "id": "e43f7d6f3efdb202",
+      "title": "남태평양 기후 난민의 삶을 다룬 VR 다큐 베네치아 영화제서 초연 - ESG비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WRlBlWmhlaVp5SnlZTXJLMTNRcHllc1F3WHhaeTNVMnFPV01pYW02aW5jWHNKU1JDNFRhZGxBdnBJOGNDc1hwOHJuN3hlWnhhTXptaXNrOFFXV1hjZmlBR3hBVDEzYjlOVl9JMFlvVWo3MnM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T08:21:55",
+      "collected_at": "2026-07-17T09:51:55.308381",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ff4c7f3bdfec71f4",
+      "title": "장마철인데도 일부 지역은 가뭄 본격화...운문댐 ‘심각’ 진입 - 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEdha2JrYnJLa2k1d1hYaWIzVmlwVFBsY3lOMFZ4dXl1TlpaOUJpYW1rakUyYnVObWlWSktSSl9lSW5wUzRzNzlzTWhTZzl5bkUyRXItTGFkNUZqdHdTdWN6OUExM2RnT19Ibnk3SEl6dGowclo2NE1uaFVxaWZMUVltVGdIdmZoekZsY2lIcVZQUDZSZV9v?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T00:05:00",
+      "collected_at": "2026-07-17T09:51:55.308694",
+      "keywords_matched": [
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "장마철",
+          "가뭄",
+          "운문댐",
+          "심각",
+          "일부 지역"
+        ]
+      }
+    },
+    {
+      "id": "0290035ef4255782",
+      "title": "기후변화가 만든 제주 바다의 위기…양식 어업 '비상사태' - 스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WclkyQ203ellYVWxXeVY1eEp2UUp6T1haMHd4elR3MG1nLUZQcU94SFFURzhSd3ZPUmp2cFFiYUlzeEczOUV6Y2VPbDhjZ0RCZktpZUJNQzZTZWc5RktkTnl2czl5LUVVX0dWQ2toTHhYV0k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T00:45:32",
+      "collected_at": "2026-07-17T09:51:55.308761",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "제주",
+          "바다",
+          "양식 어업",
+          "비상사태"
+        ]
+      }
+    },
+    {
+      "id": "2f02ab76f077ced8",
+      "title": "종합 폭염, '기후살인’ 규정...대응 개편 예고 - 뉴스케이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rSjdOQVJ2cWdFVHBlWVBQY2YzWi14dTU0ZTF3blVRejkxaXpQZnJYcEdVemp0Vnk3VFZrbzNaRXpQeDBEX2xuaUNQeWZOaURxc2IxdHg4TWJ2QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T01:37:45",
+      "collected_at": "2026-07-17T09:51:55.309396",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "종합 폭염",
+          "기후살인",
+          "규정",
+          "대응 개편",
+          "예고"
+        ]
+      }
+    },
+    {
+      "id": "cc2faba3b25e9c0b",
+      "title": "[사설] \"발전소·송전탑 무한 건설은 한계\"...탄소중립 시대, '공급'에서 '효율'과 '분산 계통'으로 에너지 패러다임 대전환해야 - 산경e뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDOTBuYjZfVDBoMXRYUWwtOEkyV24zQW40SHdzS3l0XzlJN2dhZmJNdWxSX2YxWC1pMlB5RzNLU2lxZlJ4TEpUVlB5blB5LV9HcTFrd2tUSkxac2ZkT3pXRkRyOXVQSDA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T04:49:10",
+      "collected_at": "2026-07-17T09:51:55.402069",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "eff1272d7159d282",
+      "title": "시흥시 기후시민네트워크 22일 출범해 시민과 함께 탄소중립 소통 체계 마련 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MaFhXbVNyTXl3a2Frc3dZckEzejFLa2RiQ3pQdHRDV0hPa2xJTFZqcTI0cVpDVm5nelc1MUMyc3pNdk0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T09:26:00",
+      "collected_at": "2026-07-17T09:51:55.402105",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "기후시민네트워크",
+          "출범",
+          "탄소중립",
+          "소통 체계"
+        ]
+      }
+    },
+    {
+      "id": "1cf0c4083ae062a6",
+      "title": "기후위기와 국가NDC 완수, 탄소중립을 위해 종교계가 앞장선다. - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9MX3NEZVhSdG9DTlhmVUhKaURaTXFYU2ZmNDNxYndtdm42azlmYldpdFBqbXZBaS1BSlIxQjZDcGtPUXp3OThZLWZnckk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T07:08:12",
+      "collected_at": "2026-07-17T09:51:55.402182",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "국가NDC",
+          "탄소중립",
+          "종교계",
+          "선도"
+        ]
+      }
+    },
+    {
+      "id": "71fe68f362bd2db6",
+      "title": "농촌지도자함양군연합회, 탄소중립 실천 위해 농약 빈병 수거활동 전개 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KOHBDUE9LVlZJTU93LXNNTW45ekVoZFVTRnBsdFRqcFRnRHhJUWtaZlZrcGRUdGJKRGdEaWhFUWNRYW95endVTWg4cGpYanM5dU9TUGZMM2hPMmZ1Tm4ySEJMM2FidkNrUWVsM3p4LVA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T01:48:00",
+      "collected_at": "2026-07-17T09:51:55.402358",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "농약 빈병",
+          "수거활동",
+          "농촌지도자함양군연합회",
+          "환경보호"
+        ]
+      }
+    },
+    {
+      "id": "1efe56b8b3c66a65",
+      "title": "국립목포대 기계공학과 대학원생, 한국신․재생에너지학회 우수논문상 수상 - 데일리스포츠한국",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Wamp3RnpESm9Oc0VsZThVa1VXbDZOMzBzNkRRbWFLR056YTJCV29YN0xUZzd2YmZtRVZ0cHRIMlo1MWduZ1h6ZXBNVDFBa0RVMUJDRnNJenNTeDlXYzRWOTRtUjg5cURsX1NqLU5oRFdnM0tLNWttcFBLY9IBf0FVX3lxTE04T0JQaXRoMXdqdjNodHJ6bjlGRm9DUjlxSDYxSGVMRUx3cXpKV2ZZQXk2Z1AwRUFBMWZveTRneS1GSnN1U2J5dG00R2NNVFhuNko4UnV1TUNNUDI4Vjk5THo4WTNOR2N6Q1p1bVg4OUV4aENUaFE5ZWtmbE14WFU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T01:05:31",
+      "collected_at": "2026-07-17T09:51:55.250975",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립목포대",
+          "기계공학과",
+          "대학원생",
+          "신재생에너지학회",
+          "우수논문상"
+        ]
+      }
+    },
+    {
+      "id": "6423e7a24087199a",
+      "title": "재생에너지 넘쳐도 못 쓰던 전력망… 한전KDN이 푼다 - 천지일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3ZnhkbWkwaEJGSWxqUTB5d25kRjBZNkdrOTRTV1ctYXI0ZjBTVTg1WjcwdDQ0RVNONUhxRDdKQ2ktc2wtRXdoOEw1ZlFQRmR5bm5xdWY1ZEVOTTVjZGVlWWpCMlBtcEpoOWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T03:07:25",
+      "collected_at": "2026-07-17T09:51:55.251023",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "전력망",
+          "한전KDN",
+          "잉여전력",
+          "문제해결"
+        ]
+      }
+    },
+    {
+      "id": "a08e3b27415f1d05",
+      "title": "[한전KDN 소식] ‘배전망 ESS 구축사업’으로 재생에너지 접속 난제 해소 外 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNN2VVcWJZc0p6WmtJRjd1RVQyeDd2Q18wZXc5MnhLZTN6UkxLTVRoTFhxUl9UeEZfd3g3ZTlxQW5tTVB5M29mUG5xcXdoUmFRdVU5dnpzNTJhOGNXM1VhOWNvbktibENEMHhYVVN3Y2EyX1Nu?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T07:09:36",
+      "collected_at": "2026-07-17T09:51:55.251176",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KDN",
+          "배전망",
+          "ESS",
+          "재생에너지",
+          "난제 해소"
+        ]
+      }
+    },
+    {
+      "id": "3bef4feb4b827816",
+      "title": "AI·디지털전환 입는 재생에너지…고창리뉴어블-3JCNS, 전 생애주기 DX 나선다 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HcXh4dVJDOFdkZ1BwblNDRzdPbW5LR013bXlFUUc1UEpvWGNfMldtVUlKQlBrUWg0TzFQbG55cDJ2QzZScXN6dzZMM1I0YVNBYk9CR1Q3WFdRNmhiVnQ2YnlQbXBXeWFpc2Roc2FRbXTSAXBBVV95cUxOR3F4eHVSQzhXZGdQcG5TQ0c3T21uS0dNd215RVFHNVBKb1hjXzJXbVVJSkJQa1FoNE8xUGxueXAydkM2UnFzenc2TDNSNGFTQWJPQkdUN1hXUTZoYlZ0NmJ5UG1wV3lhaXNkaHNhUW10?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T00:54:04",
+      "collected_at": "2026-07-17T09:51:55.251242",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "디지털전환",
+          "재생에너지",
+          "고창리뉴어블",
+          "3JCNS"
+        ]
+      }
+    },
+    {
+      "id": "2da7748f6aa9a491",
+      "title": "국립목포대 대학원생 라구란, 신재생에너지학회 우수논문상 수상 - 교수신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBY0JXcTZPZ3A2WlFiSnhzbEVTNXk4RjhjQkQ4a29wZE1ENDJ5ZWgxLUlpQWV0b1RfZU9jMkYzSW94bXlUQ01LX1NKZTJXdkpOajh0RV9sYk1tSTMzeGt3dG01S2Y4RjQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T07:32:24",
+      "collected_at": "2026-07-17T09:51:55.251273",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립목포대",
+          "대학원생",
+          "라구란",
+          "신재생에너지학회",
+          "우수논문상"
+        ]
+      }
+    },
+    {
+      "id": "67d74066d5e56e03",
+      "title": "[한전KDN 소식] ‘배전망 ESS 구축사업’으로 재생에너지 접속 난제 해소 外 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DMERvUGdfRWNtd2ltdkxwTHFlTlBxWDdXOTZ6RVlfTTA1RTBuQXJIaGF6UWUxZHhDXzczZkVFd0ZfWFYyajhpQlNvTnhRMmVrRTJpcmZTb2EzQnFGTUpyaTktUjVmU0RPUWZuM18wbGN5Z3BGOGZrbE5jLV8?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T07:09:36",
+      "collected_at": "2026-07-17T09:51:55.251329",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전KDN",
+          "배전망",
+          "ESS",
+          "재생에너지",
+          "난제 해소"
+        ]
+      }
+    },
+    {
+      "id": "0560a726772515a3",
+      "title": "국립목포대 기계공학과 대학원생, 한국신․재생에너지학회 우수논문상 수상 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NXzFqX1RFRy1mUnotakEya3I2OHFjQXJxNElvSFdzWnpsV2RLRUhPZXJBQ240QnlLbUhnbXdwTVdIeThtYTBvcGpFR215Y2NNb0JsNkplWEpfRm1H?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-17T05:44:06",
+      "collected_at": "2026-07-17T09:51:55.252375",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립목포대",
+          "기계공학과",
+          "대학원생",
+          "신재생에너지",
+          "우수논문상"
+        ]
+      }
+    },
+    {
+      "id": "a3aa75c33f1012f9",
+      "title": "“더위·장마 피하자”시청역-동대문역사문화공원역까지 이어진 지하보도 ‘시티스타몰’ [정동길 옆 사진관]",
+      "link": "https://www.khan.co.kr/article/202607171745001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-07-17T08:45:00",
+      "collected_at": "2026-07-17T09:51:57.024595",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6505e89394aef84c",
+      "title": "Wildfire smoke blankets Wisconsin, advocates stress need to confront climate change - Wisconsin Examiner",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2hVczlMWDF6d3V3eWdkSzB0ZVRMWGhRcWJRbUY3WVdlazNkQ1VfWndZd0duWU9DdmZkVWJOc3A3MXlteVV3V3dCZjQ5Sm00ald5ZDItUjJpWmJHRkp2SHNEV2ZxMndCR3NuNllTOGtYS0I5VmdYcGYycVRPUTYxWmxvVjZUNmpNN1g0UjU1dHdJY1NwRXppdm1TTUJ1ZWR3TkRLWk9oYk5xcC1icjNFRDlBeGNNRW1jVzBQOXZvM3RuQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T08:33:33",
+      "collected_at": "2026-07-17T09:51:57.457563",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "위스콘신을 뒤덮은 산불 연기, 옹호자들은 기후 변화 대응 강조"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불 연기",
+          "위스콘신",
+          "기후 변화",
+          "옹호자",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "96ddb8731d5d5707",
+      "title": "Scientists Affirm Climate Change Fuels Extreme Weather - Claims Journal",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SNHBfV1QwQi1pelRKTjNyMTJES3kwQ0l0NGo5VHdNcUd3YzBaZnpmejRwZHZwSHVtc0RsZVJIaEZRbk5tSVMweHlhbHhaYzVIQVpiU1Q3YWpPT0lPRDJCVEtUaFV0NWI4cng1UzVfSzFkcXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T05:00:43",
+      "collected_at": "2026-07-17T09:51:57.457665",
+      "keywords_matched": [
+        "climate change",
+        "extreme weather"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "06413dad946933ae",
+      "title": "Deborah Levine: Don’t let climate change kill us - Chattanooga Times Free Press",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX0dYWDZXc0MyOWZzSFQ1VTdpaHRGR0h1clJWdnlFZW12QmI3ckdiWHFRblVLSWhGa0tFMEUwaDBMWWhCYlBtUXp4cEgxMzlKYUtDS0tybVZQV1pvQWtZQmRQMWpIR0Z3TlBrRVo1bUFNUXRxNTJUdVJmS253M1lMcWIwbEpVaVM4MDhnMWZjd0pRUE9ZRUxoaXR5dw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-16T23:12:54",
+      "collected_at": "2026-07-17T09:51:57.457834",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "데보라 레빈: 기후 변화가 우리를 죽이지 못하게 하라 - 채터누가 타임스 프리 프레스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "위협",
+          "경고",
+          "데보라 레빈",
+          "채터누가"
+        ]
+      }
+    },
+    {
+      "id": "4ee228d96dab4eb7",
+      "title": "Climate change could reshape California’s wine-growing regions - Sustainability Online",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFZWRXFQVi1vb3NwZkRBbzhIbTFLc0JVTlBkSlhfakVLal84UDBtSU80Z2Q3MThJWnhnSDI4cE51Z1B3cndSeGVxUVRXZk16UVprbllhQVRrajRzVU9GencwaWE1NTNXTTdNWlkxSkdVbkpRSmZEdFF3TElZX2ltdWpmNThXaXZrRnBsZ1Z2Z0pTN0djWmV6WWg2dGJWQjRESVE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T08:00:00",
+      "collected_at": "2026-07-17T09:51:57.457893",
+      "keywords_matched": [
+        "climate change",
+        "sustainability"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 캘리포니아 와인 재배 지역을 재편할 수도 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캘리포니아",
+          "와인",
+          "재배 지역",
+          "지속 가능성"
+        ]
+      }
+    },
+    {
+      "id": "2deb0acf9d0ec2a5",
+      "title": "Scientists unravel composition of old birds' nests to fight climate change - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamx5UDh6MzllNEtCeDVzdmVKZnZIRWRpSVNUUGRZN1lVWFh3UzRCWTVHZUI3Qmd3VTJRM2Y2TWUwUmcxVXNrSk1GWWNZUUJVYVJJMHl2bUs0ZkVFam5VQThzXzB5amZGSHpoMEd6RFc3R1F1VWFCZG9ub0taWTlpSklPdjgzQmt1OFlMSUFvYXJxN2p0M2UxLTRicm5MX2k5X3hweklZbEk0WkRJOEZidkZVb2dpREk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T04:06:30",
+      "collected_at": "2026-07-17T09:51:57.458092",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "과학자들, 기후 변화에 맞서기 위해 오래된 새 둥지 성분 밝혀내"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "과학자",
+          "새 둥지",
+          "성분 규명",
+          "기후 변화",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "e93dde5427581176",
+      "title": "Climate change fueling Canadian wildfire smoke blanketing Chicago, experts say - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVZPX2ZOWWxPYVBXdlkybzAxZ19WWW5fTVFfVXJqNHEwOGU1ZTBVeUhIOElXVWlvdXo5RHQ3NTJjd2RnMlhGMDJEUDFWRHZzQjY3NnVrajZTX0lTMU9vRHNTN1JUOXRhSkVwTV94MEw3UWM0cDR0RkFzMlg2N1VlakdsUjRXbW5DZzZqdV9JY0pJMWJHX1BtbFVLbUs0cEZ6eXNNcDdueDFEMVc4dnIyQ2VYc0FuUjQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-16T21:09:00",
+      "collected_at": "2026-07-17T09:51:57.458433",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 시카고 뒤덮은 캐나다 산불 연기 부추겨... 전문가들"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연기",
+          "시카고",
+          "전문가"
+        ]
+      }
+    },
+    {
+      "id": "180661611cacef83",
+      "title": "Bernie Sanders Slams 'Trump's Lies' About Climate Change, Renews 'Big Oil' Criticism Amid US Heatwaves - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY21wRm1FUmtNZ185ME9DaHlXbDdpNk0tTVdjeXFmYjA5RldXQno5Z1FZbjItUTdCTG4tNmRnUHVNSVVlbm9BWno0ek5lakdCNzNod1VaLWJtb0p5OFNmbW9CVVpSbjlBeEJ2Nnk1eUFFOEpvUjNuRC1SQk45R3RxdEFSN2ZSSDdBZzkteXJvVE5oVnFjLWN1MWhWYzdlM0FqYWduYWlWYk9uX0FhOXBYNTREcU53YjAxVHMydw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T05:48:16",
+      "collected_at": "2026-07-17T09:51:57.458698",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "버니 샌더스, 미국 폭염 속 '트럼프의 기후 변화 거짓말' 맹비난, '빅 오일' 비판 재개 - 벤징가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "버니 샌더스",
+          "기후 변화",
+          "트럼프",
+          "빅 오일",
+          "폭염"
+        ]
+      }
+    },
+    {
+      "id": "1cd1b828c923bdbc",
+      "title": "Viewpoint: Trump appoints climate change hoax promoter to head influential government policy project - Genetic Literacy Project",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMlVncVF6RFZYSF9iSDByQ0RrRFJ1X3p3Rzl6NzBZU0tRczg5dU14dHBNVUJ3QXVtTkR0SHRLOU92bXRmV0ZncnlyU2x4V2JkVXhSSlNsTWFtRWFKeEVjYzJLRUtLV3FHUWxSYUl5d3lXUnBOUkhRdzNjYkhFaXlETnlJZGtzZUZHMjVIczlWWHBya3FOekFxMnc4UVo5Y2NZaG1WOU5aUkJMeG81T2dSYnJLaUZiRlZBLXEta09NMFdKM2NOWG1BbEhqUEpDUnVxc01NU2g5dUo2dFRGb0hn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T04:06:10",
+      "collected_at": "2026-07-17T09:51:57.458760",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "논평: 트럼프, 영향력 있는 정부 정책 프로젝트 책임자로 기후 변화 회의론자 임명 - 유전학 문해력 프로젝트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후 변화",
+          "회의론자",
+          "정부 정책",
+          "임명"
+        ]
+      }
+    },
+    {
+      "id": "bf8206d777745078",
+      "title": "The Hidden Link Between Climate Change & Human Health - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0FyeEpZZFBoekluWWFPNkh2UGlMS19uSm04bTQ1VDM2RmhYQkdwYV9oM0VubHlTR3JLOVVKOURXYUVaUnVqd1ptNVRycW44ODV2dmRseHR3NUczSGMtbm8taGJNaTV1UnlyTGZDd0NEU3pTdmJhTmxVMnRZZTZ0TTFUX0NNMmFJYWtXNE5VLWo?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T08:32:39",
+      "collected_at": "2026-07-17T09:51:57.459934",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0237edda96b35727",
+      "title": "Climate change could undermine progress in reducing waterborne diseases, study finds - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZmF2cU9rQ1JqVnYtUFVWZlh3S1ExUG1rNDB4QU1IejNlejNTSHhlUzJSd2RDNEViM2QyT0x2eWdzN3BMN0lIdUg1TTdoa25tR3FhZVdad1MyRVI5OGU4Mk04VWVKbm5YUjA1WGtFSnd2S1ZrUURsVlFoV1l5RTJxQ1R6REI0VUY1ZTFVX1BQcE91OXhHSFU1OVpZY2hxTzhZSTJQVWNqSGZnTjdmT1EzVDBwdnEyVGJJaWtxRHNvbTZCc01fLUU5WTFmeUhIM1VmWVZaUU0tY2I1bVZYZmRvREsxcTNoc2Zy0gHvAUFVX3lxTE1Falk2UGdjRjVndko4WUFzakFicmZXaWVBTGpJT0g2WV90bWVMdjJfcTdtU3p1ZjF6VURxbVAxdkpXMmJVM3FaT3FOVG1fVUJJZzJaakh1azdXTlJSV0RuTFJ4OUIzQjlfOGNzTnlGYlRFeE9VMDVDU3RfNHRqUmVqVzkyNXltR1lTUlo0Y094TWVwU1NCSzZaOGlRTTNOTnVWSk9wZG9OUHpjZHdEWVZkY29NY0lYWVVvLVNJTEV4ZTZJZlU1R0pnQ1U4UDNFVENtSGhNbUtHeEhiN1hhd3lYT2pUOVhpaVg3bk1VMVNN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-17T09:39:41",
+      "collected_at": "2026-07-17T09:51:57.460086",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 수인성 질병 감소 진전을 저해할 수 있다고 연구 결과 밝혀 - 비즈니스라인"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "수인성 질병",
+          "진전 저해",
+          "연구 결과",
+          "공중 보건"
+        ]
+      }
+    },
+    {
+      "id": "b92423c83e43ea15",
+      "title": "As the UK and Europe battle deadly wildfires, what lessons can Australia offer?",
+      "link": "https://www.theguardian.com/world/2026/jul/17/as-the-uk-and-europe-battle-deadly-wildfires-what-lessons-can-australia-offer",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-07-17T04:00:58",
+      "collected_at": "2026-07-17T09:51:57.110626",
       "keywords_matched": [],
       "translation": null,
       "sentiment": null,
