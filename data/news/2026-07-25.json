@@ -1,16 +1,16 @@
 {
   "date": "2026-07-25",
   "metadata": {
-    "collected_at": "2026-07-25T00:13:39.759428",
-    "total_articles": 50,
+    "collected_at": "2026-07-25T09:43:49.957354",
+    "total_articles": 66,
     "sources": {
-      "korean": 18,
-      "international": 32
+      "korean": 25,
+      "international": 41
     },
     "sentiment_distribution": {
-      "positive": 11,
-      "negative": 21,
-      "neutral": 3
+      "positive": 14,
+      "negative": 30,
+      "neutral": 5
     }
   },
   "articles": [
@@ -1189,6 +1189,410 @@
           "2026년",
           "기후",
           "급격한 발달"
+        ]
+      }
+    },
+    {
+      "id": "9e9e224aae67bd5c",
+      "title": "40도 육박 극한더위 덮쳤다…폭염중대경보 속속 확대(종합) - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04SDlvaUVhSTYtMnpKZGg1YXNpQjUzZUQ2M3dDYjBSYXFGMnd3SHZDWTNySmVpTlI0NHE0QzBOa2lRRk5ZWmFuMkpDUnJ5RkU?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-07-25T06:12:00",
+      "collected_at": "2026-07-25T09:41:09.850419",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "극한더위",
+          "폭염",
+          "중대경보",
+          "40도",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "9760bc86bb61a4f7",
+      "title": "이끼의 재발견 — 탄소중립 시대, 조경의 새 주인공 - 어반톡",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DcC1ublRsTHo3YVBadVR2RjdWZXkxYTlRRmZhMVoxa1B3aXM3dkRpeEhuVzJLbHAzNHU5N25UaVBnWGFVQ2FNc3J3cVJjeHVvRWhZTUNB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-25T03:01:15",
+      "collected_at": "2026-07-25T09:41:09.640056",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이끼",
+          "탄소중립",
+          "조경",
+          "재발견",
+          "새 주인공"
+        ]
+      }
+    },
+    {
+      "id": "2f26c9f780a8da8d",
+      "title": "사천시, 농촌여성리더 탄소중립 실천 시범 사업 어린이 교육생 모집 - KNS뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55LWowOElfWTFNVGUtMzBtQXk0ZkVvQnVFYU43MjBtV19CeVA3U2ZlSjR6VXNDUGVoUGdRMk5va1lHUWIzZEVaOGtEYkNQY3BkTUs0bzYyTi1CQXkzWXdZOHg3OW0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-07-25T01:49:00",
+      "collected_at": "2026-07-25T09:41:09.640154",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "사천시",
+          "탄소중립",
+          "농촌여성리더",
+          "어린이 교육",
+          "시범 사업"
+        ]
+      }
+    },
+    {
+      "id": "eedbcf29cd8c2219",
+      "title": "[주말 인사이트] 호르무즈가 바꾼 한국 에너지 투자… 태양광보다 전력망이 먼저다 - 뉴스로드",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CRUZJMXFwd1BETGZDdWFNa2E5LUdoMUp2ZkRuczJPUTY4bFBLdmtBWGNkcWh6cG5zZTB3Y2lVUXhoNjlGVjJiUkZNSlM1WmZYVzNEYlhlMXF5XzBDV085LWtQTlM0dHlQcmo40gFvQVVfeXFMTTV6MVJUcUF4cmYwZ2F5VzRDb3BQN0pQTDJlWUZVYUFtbFFyel9vS29KNEVOX2RzMDBNako0RFNfb3VaajZ4M1NadXBaZ1NTZENUWm1EellCMkRKR2RxUXVoODJhQWRoeWNaWWFJZC1N?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-24T23:05:20",
+      "collected_at": "2026-07-25T09:41:09.587293",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "호르무즈",
+          "한국 에너지 투자",
+          "태양광",
+          "전력망",
+          "투자 우선순위"
+        ]
+      }
+    },
+    {
+      "id": "aaddc2163356aba0",
+      "title": "‘영광군’ 공익형 태양광사업 본격 착수 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBydm0yS2Q3Z2NXLXZuNXpwZnBCeXBhbjlVZVp3TzRMMUJWcHI3cWNOMHAzcTQyS09WOEExenIyUmRoOUxVeE9TMzlyTlpOb09WLVZoaktnZGdsUDRGWDF6cEpCelBZZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-25T00:56:07",
+      "collected_at": "2026-07-25T09:41:09.587463",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영광군",
+          "태양광사업",
+          "공익형",
+          "착수",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "3c0c9ff39466024f",
+      "title": "AI데이터센터 '님비'에 막힌 미국, 재생에너지+ESS가 해법 되나[기후로운 경제생활] - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yeFJ6NTc3YnplZUltQUlYeGV4ZmhCRGVhRjVTQ1AxLW1WU1FUWXlIS0xwN1AxSDdnWEY3Z3B6eWtOd3REQTg2LXhWVXViU0xCOW93?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-07-24T20:02:00",
+      "collected_at": "2026-07-25T09:41:09.587895",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "AI데이터센터",
+          "님비",
+          "미국",
+          "재생에너지",
+          "ESS"
+        ]
+      }
+    },
+    {
+      "id": "c200510c12f962c7",
+      "title": "대구·경북 낮 최고 38도…경주·달성·광양에 ‘폭염중대경보’, 열사병 주의",
+      "link": "https://www.khan.co.kr/article/202607251005001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-07-25T01:05:00",
+      "collected_at": "2026-07-25T09:41:10.557446",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "대구경북",
+          "38도",
+          "열사병",
+          "열대야"
+        ]
+      }
+    },
+    {
+      "id": "1052dbf116a4ecc4",
+      "title": "Climate change 'exacerbating' drought across Europe, scientists say - RFI",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNempMZGh5RlZQMTNQT2xZYko2XzB4NFFCZXFHSDVwUkRKTG1nYklmaVJINm1JNGVQZFNab29rN3dJeDI5eXBWbFg5UDBjR01vLXUwcUJtVm5oX0l0cVZqay1kdkxxTUhuVnB6Y1dOaGZxMVpjSTlUaHgxQ0Y5eFJTdHNENDNZQTdaSXBZWVhSb0djZEI5VzljYVNiOVRRU2piejJ5YnBjdzVIUHc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-25T08:58:15",
+      "collected_at": "2026-07-25T09:41:11.035932",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "과학자들, '기후 변화가 유럽 가뭄 악화시킨다' - RFI"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "유럽",
+          "가뭄",
+          "악화",
+          "과학자"
+        ]
+      }
+    },
+    {
+      "id": "4e2d808fef187812",
+      "title": "See how climate change is altering the rhythms of Georgia wildlife - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzMwUFVFM3Y5d0xrcmdqQ3NMakJQeHlWSk9WTi1iYnE3ZWk3b0dGNmRPZm9MQmdMeFNja2pQNGxmVWNpQTEwenBWU0FGYjROVXMwSDFqLTVFdV96NmlMY0s0UlgydHFjaDk1YXBzcmo5dlU2RW9SVk1jZXFBbk5BZkpQaWN2ZUs2ZUE1UjJIN2V1LWZZdVRwNjdB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-25T08:01:09",
+      "collected_at": "2026-07-25T09:41:11.036057",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 조지아 야생동물의 리듬을 어떻게 변화시키고 있는지 확인하세요"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "조지아",
+          "야생동물",
+          "리듬",
+          "변화"
+        ]
+      }
+    },
+    {
+      "id": "2083737a2fafc0ea",
+      "title": "Little Great Island and the Value of Community in the Face of Climate Change - Bar Harbor Story | Carrie Jones | Substack",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95bWR6eDF2bW9NU2VaWkVYdEtERUo5V0VjOXU2VzIxOHpDQUF4N1Ytb1NVbUVfbDR4cGVxLV96U1RldHo1UmRUZGVqdkdON1FhcjcwR0FXNE03WndjUXIwUDFQalBQRDNHQjNZLWxTWmU4SW1oTEJCQjRXRQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-24T19:53:35",
+      "collected_at": "2026-07-25T09:41:11.036579",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "96bd0146f1a42e8e",
+      "title": "LETTER: Don't vote for candidates who won't fight climate change - Waterloo-Cedar Falls Courier",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeC1uR2ZScmJ0WlI2cUc2bTE4bnU3Q2NYcW5yNHZtYWVkZ21mVnJ2bkNRanIya1VXZHROWUlRNFZpY1VXbDJTLWhqS0R2WE1XdE5UZm8tdTdhSXdOQkRfMXhCSnZ0SU9fMndzU181b0cwaTVydklkNW95SHhKd0dpR0FwaTE5S25ZcWFXbFBxVWJidw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-25T09:00:00",
+      "collected_at": "2026-07-25T09:41:11.037148",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "서한: 기후 변화에 맞서 싸우지 않는 후보자에게 투표하지 마십시오 - 워털루-시더 폴스 쿠리어"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "투표",
+          "후보자",
+          "대응",
+          "서한"
+        ]
+      }
+    },
+    {
+      "id": "375d6febcbed747b",
+      "title": "Wildfires in Spain, France, Italy: Health Risks and Climate Change Impact - News and Statistics - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHRDM3lSQ3ZiWk4wREc0OE9GTmJxdlR4QTN5TGU4c1ZrTi1MdEh0WUVKRjRJdGNFT0FDbGg3VklxRk9STEREV1FxcHMxMDRwOXVTWGlTaFR1c3F2cDhycHJSWG9XVlBzbEY3VWh2UTQ2WE9kak5oSGNCWmlBRDdGRlg2akh6by1NYXZtd1BZQWdGZm5kTGNod0Nnaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-25T07:01:00",
+      "collected_at": "2026-07-25T09:41:11.037665",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "스페인, 프랑스, 이탈리아 산불: 건강 위험 및 기후 변화 영향 - 뉴스 및 통계 - IndexBox"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불",
+          "스페인",
+          "기후 변화",
+          "건강 위험",
+          "통계"
+        ]
+      }
+    },
+    {
+      "id": "52d2bfa39a3082fb",
+      "title": "Climate change empties Kashmir’s beehives, threatening beekeepers’ livelihoods - The Climate Watch",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNG80enpEU2RRR0h3U0JzazNyUEZsVG5BSmZCX2hEWko5VVFfaFVvT09jMGRONGFmbXFaNFlZVnF4cTZ0R3BNS1c2WGNMOWwzb0ZUVk5QSTMyVWJZZWJTODZwZnZIaHpOTE1PNkpILXRHVXd2bnJNV2RiaDJsSUtLR3l6RFVPeElQcUtRYk53WVJkc21aZjJkMXB3WllMTmhSczNBTlRBOA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-07-25T08:14:47",
+      "collected_at": "2026-07-25T09:41:11.037829",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 카슈미르의 벌통을 비우고, 양봉업자들의 생계를 위협한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "카슈미르",
+          "벌통",
+          "양봉업자",
+          "생계"
+        ]
+      }
+    },
+    {
+      "id": "e195642f0d063f59",
+      "title": "Entire Cairngorms village evacuated as raging wildfire nears",
+      "link": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-07-25T09:21:51",
+      "collected_at": "2026-07-25T09:41:10.643173",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "맹렬한 산불이 다가오자 케언곰스 마을 전체 대피"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불",
+          "케언곰스",
+          "대피",
+          "비상사태",
+          "강풍"
+        ]
+      }
+    },
+    {
+      "id": "a169c1a6064757a1",
+      "title": "France and Spain race to control wildfires as suburbs of Bordeaux begin evacuation – live",
+      "link": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-07-25T09:20:01",
+      "collected_at": "2026-07-25T09:41:10.643284",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e2c1634982167a2b",
+      "title": "‘Without us, they are doomed’: volunteers save fish from French rivers drying up in heatwaves",
+      "link": "https://www.theguardian.com/world/2026/jul/25/france-rivers-heatwaves-water-levels-drop",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-07-25T06:00:35",
+      "collected_at": "2026-07-25T09:41:10.643797",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "'우리가 없으면 물고기들은 죽을 것': 폭염으로 메마르는 프랑스 강에서 자원봉사자들이 물고기를 구하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "물고기 구조",
+          "강물 고갈",
+          "폭염",
+          "자원봉사자",
+          "프랑스"
         ]
       }
     }
