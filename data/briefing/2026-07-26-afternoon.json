@@ -1,0 +1,1268 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:59:18.872292",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 7월 26일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 전 세계를 덮친 이상기후와 그 영향",
+        "content": "오늘 한반도는 폭염특보가 발효되며 극한의 더위가 이어졌고, 경남 지역에는 최고 단계의 폭염중대경보까지 발령되었습니다 [35, 37]. 이러한 이상기후는 경북 청도의 가뭄과 안동의 물난리처럼 극단적인 기후 양극화 현상을 심화시키고 있으며, 폭염으로 인한 무력감을 호소하는 '기후 불안'은 물론, 물놀이 사고와 에어컨 화재 급증 등 직접적인 인명 및 재산 피해로 이어지고 있습니다 [8, 11, 40]. 국제적으로는 프랑스와 스페인에서 최악의 대형 산불이 발생하여 30만 명 이상이 대피하는 등 심각한 위기를 겪고 있으며 [36, 50], 기후 변화는 이제 어린 시절의 여름 방학을 위협하고 국가 안보 문제로까지 인식되는 등 전방위적인 영향을 미치고 있습니다 [41, 42]. 직장인들이 폭우와 폭염 속에서도 정시 출근을 강요받는 현실은 우리 사회가 기후 위기에 얼마나 취약한지를 보여주며, 기후 변화가 인류의 수면 패턴을 교란하고 캘리포니아 와인 산업의 지형까지 바꿀 수 있다는 분석은 그 영향의 광범위함을 시사합니다 [39, 43, 44].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 기후위기 대응을 위한 혁신 기술과 적응 노력",
+        "content": "기후위기 시대에 대응하기 위한 혁신적인 기술 개발과 적응 노력이 국내외에서 활발하게 진행되고 있습니다. 특히 KIST를 비롯한 국내 연구기관들은 인공지능(AI)을 활용하여 수초 만에 지구 해양을 예측하고 200일 뒤의 바다 환경 변화까지 내다보는 모델을 개발하며 기후변화 예측에 새로운 전기를 마련하고 있습니다 [2, 4, 5, 6, 7]. 농업 분야에서는 장수군이 다목적 햇빛차단망 현장평가회를 개최하고, 함평군이 화훼류 폭염 피해를 막기 위한 온도 저감 기술을 추진하는 등 이상기후로 인한 농작물 피해를 최소화하려는 노력이 이어지고 있습니다 [3, 9, 13, 14]. 국제적으로는 남아프리카공화국에서 공원과 공동체 정원이 도시의 기후 변화 적응을 돕는 방법을 제시하고, 미국 볼더의 한 부부는 기후 변화에 대응하여 많은 나무를 심고 나누어주는 등 자연 기반 해결책이 주목받고 있습니다 [45, 46, 48]. 또한 기후 변화 시대에 맞는 고속도로 건설 방법 등 인프라 분야에서도 적응 방안이 모색되고 있습니다 [47].",
+        "tone": "positive"
+      },
+      {
+        "title": "🇰🇷 탄소중립 사회로의 전환 가속화",
+        "content": "대한민국은 탄소중립 사회로의 전환을 위해 다각적인 노력을 기울이고 있습니다. 태안해안국립공원사무소와 블루카본사업단은 탄소중립을 위한 업무협약을 체결하며 해양 생태계를 활용한 탄소 흡수원 확보에 나섰으며 [21], 경주시는 하반기에 전기자동차 457대를 보급하며 탄소중립 교통도시 조성을 목표로 하고 있습니다 [23]. 대전시는 주한 EU 대사를 접견하고 과학기술 및 탄소중립 분야 협력을 확대하기로 논의하는 등 국제적 연대도 강화하고 있습니다 [16, 22]. 한편, 학교 현장에서는 옥천 동이초등학교의 녹색커튼 조성과 같은 활동을 통해 탄소중립 교육이 활발히 이루어지고 있으며 [19], 산림보호협회 전남협회는 탄소중립 실천 캠페인을 전개하며 시민 참여를 독려하고 있습니다 [17]. 그러나 히트펌프와 같은 탄소중립 시대의 핵심 인프라 보급률이 낮은 점이나, 원전 활용을 둘러싼 논쟁은 여전히 해결해야 할 과제로 남아있습니다 [15, 20].",
+        "tone": "neutral"
+      },
+      {
+        "title": "📰 에너지 시장의 변화와 재생에너지의 부상",
+        "content": "중동 지역의 긴장 재고조와 가스값 폭등으로 국제유가가 고공행진을 기록하며 원유 및 신재생에너지 시장이 크게 들썩이고 있습니다 [24, 27, 30, 32]. 이러한 상황은 신재생에너지 분야로의 투자 심리를 자극하여 관련 상장지수펀드(ETF)가 강세를 보였으며, AI 전력 수요에 대한 기대감 또한 신재생에너지 ETF의 질주에 긍정적인 영향을 미쳤습니다 [27, 29]. 국내에서는 SK이터닉스의 활약으로 태양광 및 전력기기 시장에 훈풍이 불고 있으며 [28], 영광군과 한전KDN은 공익형 태양광 사업 실행에 착수하는 등 재생에너지 보급 확대에 박차를 가하고 있습니다 [33]. 또한 이수현 인제군의원은 '인제형 재생에너지 연금'을 제시하며 지역 주민의 참여와 이익 공유를 독려하고, 스코틀랜드는 50개 지역 재생에너지 사업에 550만 파운드를 지원하는 등 전 세계적으로 재생에너지 전환을 위한 노력이 이어지고 있습니다 [25, 26]. 롯데케미칼과 같은 기업들은 친환경 전력 소비자를 넘어 공급자로 나서는 등 에너지 전환의 주체로 변화하고 있습니다 [34].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 국제 협력 및 교육을 통한 기후 행동",
+        "content": "기후 변화에 대한 인식 제고와 실질적인 행동을 이끌어내기 위한 국제적 협력과 교육 활동이 활발히 전개되고 있습니다. 국내에서는 김포 개곡초등학교 5학년 학생들이 인도네시아 엔레캉초등학교와 기후변화 대응을 주제로 화상 교류를 진행하며 미래 세대의 글로벌 기후 행동 역량을 키우고 있습니다 [1]. 대전시는 EU와의 과학기술 및 탄소중립 협력을 확대하며 유럽 도시들과의 실질적인 교류를 모색하는 등 지방 정부 차원의 국제 협력도 강화되고 있습니다 [16, 22]. 한편, 스코틀랜드 케언곰스 국립공원에서는 10일간 지속된 대형 산불 위협이 해제되어 대피했던 주민들이 귀가하는 긍정적인 소식이 전해졌으며 [51], 미국 볼더의 한 부부는 기후 변화에 대응하여 많은 나무를 심고 나누어주는 등 공동체 수준에서 기후 행동을 실천하는 사례도 이어지고 있습니다 [46]. 이러한 교육과 국제적, 지역적 협력은 기후 위기에 맞서 모두가 함께 행동해야 한다는 메시지를 분명히 보여주고 있습니다.",
+        "tone": "positive"
+      }
+    ],
+    "closing": "오늘 브리핑에서 살펴본 바와 같이, 기후 위기는 전 지구적인 당면 과제이며, 이에 대한 혁신적인 기술 개발과 국제적 협력, 그리고 시민 사회의 적극적인 참여가 그 어느 때보다 중요합니다. 이상으로 2026년 7월 26일 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "김포 개곡초 5학년, 인도네시아 엔레캉초와 ‘기후변화 대응’ 화상 교류 - 경기일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IaWpRNUJVQnQwZmlCZUFOQXI4dEMxWGhBYTAxWXFhSlNXaUJxZ2FESGR4NHlNY1BxMm1EZkwwWDJlVnpiejBYMmM3MEE2WFBUSGpHMXZPOGVEaFU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:50:44",
+      "description": "김포 개곡초 5학년, 인도네시아 엔레캉초와 ‘기후변화 대응’ 화상 교류 경기일보",
+      "summary": {
+        "phenomenon": "김포 개곡초등학교 5학년 학생들이 인도네시아 엔레캉초등학교와 기후변화 대응을 주제로 화상 교류를 진행했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "김포 개곡초",
+        "인도네시아 엔레캉초",
+        "기후변화 대응",
+        "화상 교류",
+        "초등학생"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "AI가 바다 기후변화 예측한다 [지금은 기후위기] - 아이뉴스24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HYW1YRDdub3dUUW44b0dhcFNVQmxSX29nSkh5dUVSVVk5b3IxR1JsY3hVOGljMEYxRk9SVk1FY3ktS3Z3a0l1NlFzdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:03:05",
+      "description": "AI가 바다 기후변화 예측한다 [지금은 기후위기] 아이뉴스24",
+      "summary": {
+        "phenomenon": "인공지능(AI)을 활용하여 바다의 기후변화를 예측하는 기술이 개발되거나 활용되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "바다",
+        "기후변화",
+        "예측",
+        "기후위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "장수군, 기후변화 대응 다목적 햇빛차단망 현장평가회 개최 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CdkFiaVBWclowdGx0bVB0cXcxRzR6NTJ5aUktMVJEUTdEcW9QVXFMOFlGMXVMZ1RMWExLNFBkb1ZzX2NqWWtHZ0Z1eTc1Mnl1U09tSGN1RHlkWjFjb3VYYTBUZVpkY1ZuZDZiZWln?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T02:50:04",
+      "description": "장수군, 기후변화 대응 다목적 햇빛차단망 현장평가회 개최 gukjenews.com",
+      "summary": {
+        "phenomenon": "장수군에서 기후변화에 대응하기 위한 다목적 햇빛차단망의 현장평가회가 개최되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "장수군",
+        "기후변화 대응",
+        "햇빛차단망",
+        "현장평가회",
+        "다목적"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "GPU한대로 수초만에 지구 해양 예측···기후위기 예측 모델 개발 - 헬로디디",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tSXVVTHF2aGVVODhlT0tZcHRDUWxfdnBOUGQxRUdrNkFLSzB0ODV5eUhmODRzTERfZk1IaTJEWS0tTnBoaTdZcUQ5MlBTVEJQM2xkaU5heW0tNWxDMk91Nmc4bzI2R0FSNWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:00:00",
+      "description": "GPU한대로 수초만에 지구 해양 예측···기후위기 예측 모델 개발 헬로디디",
+      "summary": {
+        "phenomenon": "GPU 한 대를 사용하여 수초 만에 지구 해양을 예측할 수 있는 기후위기 예측 모델이 개발되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "GPU",
+        "해양 예측",
+        "기후위기",
+        "예측 모델",
+        "초고속"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "기후위기 시대, AI로 바다 예측한다 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sUzlwcVc5bnRsU1NUbEZNa3ZNcVpfczVsUWhOclMzdFp1V251ZlRfV2ZfSTZhTU1BcDFfSjc5TzVDdDBPMTVuWXIzazU3M2ZydEQyLXkyRzdIUQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T03:00:00",
+      "description": "기후위기 시대, AI로 바다 예측한다 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "기후위기 시대에 인공지능(AI)을 활용하여 바다를 예측하는 기술이 사용되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "AI",
+        "바다",
+        "예측",
+        "기술"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 - 인공지능신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wdXJ6VlprRWhSRWJQZHZEVHVsenJ4Wml2QzEtemIxSjFDS1dqUHUyNGhVRlMwbWJubk1QRmZnTFQ0UTdHTXByMEFDQzlIdUFmYVQyRUNrZFZHZ2otOGFtVlF3Q1QtN0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T08:27:55",
+      "description": "기후위기 시대, AI로 바다를 예측하다...KIST, 인공지능 해양예측 모델 개발 인공지능신문",
+      "summary": {
+        "phenomenon": "KIST에서 기후위기 시대에 인공지능(AI)을 활용하여 바다를 예측하는 인공지능 해양예측 모델을 개발했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "인공지능",
+        "해양예측",
+        "KIST",
+        "모델 개발"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "KIST, AI로 200일 뒤 바다 예측…기후변화 대응 새 전기 - M이코노미뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIMm94YVpKNDZDRUFHejB3MzJ2QzhyQlJubzlBdnM2OC1ESFpGTGw4NV85Wm1pTnpFbmdtNDUyMHFiUXVrMDg1b1RCaXlZMXg0QjBpbmNqaHJPSDVEUlpGa21VSjFQOEk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:43:44",
+      "description": "KIST, AI로 200일 뒤 바다 예측…기후변화 대응 새 전기 M이코노미뉴스",
+      "summary": {
+        "phenomenon": "KIST가 인공지능(AI)을 활용하여 200일 뒤의 바다를 예측하는 기술을 개발했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이 기술은 기후변화 대응에 새로운 전기를 마련할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KIST",
+        "AI",
+        "바다 예측",
+        "기후변화 대응",
+        "새 전기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "'폭염에 극심한 무력감 느껴'…'기후 불안' 어떻게 극복할까 - BBC",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04UnY0aS1GSU41eXVONng0WU1GLWFPQnNsMlBmX2k2azBidUFlMnY4SUNqWVk0RUZxQTRxcElaUERoS3d5TW9CN0NSTUtrN0oyVFN1WEtRX3J0b0R10gFiQVVfeXFMT1FSNV9YazhvNWFVRjhmV1hCR2tCc0NJQnI4YV9JNU0xYzdyaWFnXzJpZkxuS2tOOWxhakZ1b09xY1ZvVkM1Vk9KM3RwcWxCNEpkOFBaUFFzVi14VUNpbVNhMWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T02:42:26",
+      "description": "'폭염에 극심한 무력감 느껴'…'기후 불안' 어떻게 극복할까 BBC",
+      "summary": {
+        "phenomenon": "폭염으로 인해 극심한 무력감을 느끼는 '기후 불안' 현상이 나타나고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 불안을 어떻게 극복할지에 대한 논의가 필요하다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "기후 불안",
+        "무력감",
+        "정신 건강",
+        "극복"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "함평군, “기후변화 맞춤형 온도 저감 기술로 화훼류 폭염 피해 막는다” - 일등방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WQ2lQWlRXOGhzMG9pdU9Pc1lmb2kyajJIZjBPVGlqSWtsSGZTYWNNQ3h6VkJMcE11NVFxTXpWZkpYbEMwbUE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T07:35:00",
+      "description": "함평군, “기후변화 맞춤형 온도 저감 기술로 화훼류 폭염 피해 막는다” 일등방송",
+      "summary": {
+        "phenomenon": "함평군, “기후변화 맞춤형 온도 저감 기술로 화훼류 폭염 피해 막는다” 일등방송",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "함평군",
+        "기후변화",
+        "온도 저감 기술",
+        "화훼류",
+        "폭염 피해"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "‘기후위기 대응’ 해남·완도·진도, 국비 확보 총력... - 전남타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kNzJHMER1Q3QzQ0w2QUNIdl9BdnFtMDF3NkpyZzhYNjl4cnJ5X1RnWWR2ekNJb2ZObUtnQUdmcXN1Z3haTFZOQUNqQjR0a2NZZE10Nm9ZUjcwaU5oNW8xUG16YnVzUQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T08:16:11",
+      "description": "‘기후위기 대응’ 해남·완도·진도, 국비 확보 총력... 전남타임스",
+      "summary": {
+        "phenomenon": "‘기후위기 대응’ 해남·완도·진도, 국비 확보 총력... 전남타임스",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기 대응",
+        "국비 확보",
+        "해남",
+        "완도",
+        "진도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "[심층] 같은 경북인데 청도는 '가뭄' 안동은 '물난리'···일상 된 기후 양극화 - 대구MBC",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTcGswOGFnWlNONWhoRDM2X2NGem5rcHZFLWdCSFdCcmMyTm04dXpxV180RWx2YWJLZFdUWlpZUk95NHNDcEd1QUhWTjM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:00:00",
+      "description": "[심층] 같은 경북인데 청도는 '가뭄' 안동은 '물난리'···일상 된 기후 양극화 대구MBC",
+      "summary": {
+        "phenomenon": "경상북도 내 청도 지역은 가뭄을 겪고, 같은 경상북도 안동 지역은 물난리를 겪는 기후 양극화 현상이 발생했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기후 양극화가 일상화되었다고 언급되어, 이러한 현상이 지속될 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 양극화",
+        "가뭄",
+        "물난리",
+        "경북",
+        "지역 대비"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "AI가 바다 기후변화 예측한다 [지금은 기후위기] - 아이뉴스24",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvWUoyZWxpenVMRzJtZTVsTnUzWF9qUDFXM3R3aEZVWGxsY1MwXzRaa2xZR2I3UmdUTEt5WHVsVEdfNmtGelVYQThnaHZ1djQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T05:03:05",
+      "description": "AI가 바다 기후변화 예측한다 [지금은 기후위기] 아이뉴스24",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "인공지능(AI) 기술을 활용하여 바다의 기후변화를 예측할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "바다",
+        "기후변화",
+        "예측",
+        "기후위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "과수원 꽃눈에 '천연 패딩' 입힌다…이상기후 냉해 막는 '이 기술' - 비즈워치",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhbEpyOGNmZG9ZM3BjWGRQUF9vVjV4RExMbjFfS0FWUFBwYUZiTkEzemo3el9UUHBjV09aQ0swaF9YNUUxVEQ1T2NXQTFDVnVCSHRTcnJ4VW8tUUxGampsOFNQTWhNd1ZIRS1PbA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T06:00:02",
+      "description": "과수원 꽃눈에 '천연 패딩' 입힌다…이상기후 냉해 막는 '이 기술' 비즈워치",
+      "summary": {
+        "phenomenon": "이상기후로 인해 과수원 꽃눈에 냉해 피해가 발생하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "'천연 패딩' 기술을 활용하여 과수원 꽃눈의 이상기후 냉해를 막을 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과수원",
+        "꽃눈",
+        "천연 패딩",
+        "이상기후",
+        "냉해"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "‘과수 농가 맞춤형’ 폭염·가뭄 대응책 추진 - 전남타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16bW0ySVBIRDUyWmJpbVdRWU1sRmZCQUZPNE41a0JoR0xRVFBiY0NnamJVMU9zLUFJM2JVSTNmWTZIeG1FUFdvTUNoLWxlYXFmZmxRTzVTUHJWWG9HUUVfSmh2aEwwZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-26T08:12:57",
+      "description": "‘과수 농가 맞춤형’ 폭염·가뭄 대응책 추진 전남타임스",
+      "summary": {
+        "phenomenon": "과수 농가들이 폭염과 가뭄으로 인한 피해를 겪고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "과수 농가를 위한 맞춤형 폭염 및 가뭄 대응책이 추진될 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "과수 농가",
+        "맞춤형",
+        "폭염",
+        "가뭄",
+        "대응책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "민주당 ‘인재 1호’ 박지혜 의원 “원전, 메가프로젝트 속도 못 따라가…탄소중립 흔들어선 안돼” - 경향신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0d0dEYkwyUGtXRHV5M2pfcFRpV3lRNmkxdDg0cXRtWlFqNXRUdFlWcGl4b0VsQTZ1MFlWMlJ5ZmFHYUVWVDV0dDNxVUFiLUdvbEpzVmhjaG9oZ9IBX0FVX3lxTE9PU0pCZkxIWGNzTENJVTV0WndNU0ZETklEWTJNalJmVUt4VE16ZTYtZUxFNmVaa256eUpsdDg4aWczT2tROGZkSWtLbkRTSnlyVkpxTVpPYmNkNG56V1Fr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T06:09:00",
+      "description": "민주당 ‘인재 1호’ 박지혜 의원 “원전, 메가프로젝트 속도 못 따라가…탄소중립 흔들어선 안돼” 경향신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "박지혜 의원은 원자력 발전이 메가프로젝트의 속도를 따라가지 못하며, 탄소중립 목표를 흔들어서는 안 된다고 주장했다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "민주당",
+        "박지혜 의원",
+        "원전",
+        "메가프로젝트",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "대전시, EU와 과학기술·탄소중립 협력 확대…유럽 도시와 실질 교류 모색 - 아시아투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lMmlZaVNNaUNYS2J0Q1VjTDB4ZmdTODdVZDR1M0tsMi1Xc0F3U3RwOFdPNmI1dXo0MnhQcU5GZFdQN2NSSUg2QkhCUm40VWg4UExPXzNReGVvS1Q0Nk9YYjQyXzdSa1A4N3UxOG9R?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T01:02:54",
+      "description": "대전시, EU와 과학기술·탄소중립 협력 확대…유럽 도시와 실질 교류 모색 아시아투데이",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "대전시는 유럽연합(EU)과 과학기술 및 탄소중립 분야 협력을 확대하고 유럽 도시들과의 실질적인 교류를 모색할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전시",
+        "EU",
+        "과학기술",
+        "탄소중립",
+        "협력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "산림보호협회 전남협·정담회, 탄소중립 실천 캠페인 - 광주타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fZUd4TmpYZlc4OGZOYnRWak9oMGdFYlZUenlFWWxyUVJjVUF5TXhNZWt1NnNrLUdBNU90dUJBR0wtY0x4TENMRGhoUGMtQkdoX2gybzhuNzVqYloxMDVnWG9WUlJwbkdNNFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T08:02:57",
+      "description": "산림보호협회 전남협·정담회, 탄소중립 실천 캠페인 광주타임즈",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "산림보호협회 전남협과 정담회는 탄소중립 실천 캠페인을 진행할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "산림보호협회",
+        "탄소중립",
+        "캠페인",
+        "실천",
+        "전남"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "한전, 탄소중립 실행체계 강화 방점 - 에너지타임즈",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2bUM1dWYyLVhqbGdEbXFIRk1Tb2tpMFNWT1FRcDRJdnVJMFJaVmlwTmgybXQzRVZMU0d2ZXJ0bC1RaFluMU56enlpX3VRcmp6c3p2RUZVWm1ObTFDZmF1c3VHZEZRUFpIUlFsMA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T00:00:00",
+      "description": "한전, 탄소중립 실행체계 강화 방점 에너지타임즈",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "한국전력공사(한전)는 탄소중립 실행체계를 강화하는 데 중점을 둘 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한전",
+        "탄소중립",
+        "실행체계",
+        "강화",
+        "방점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "\"학교가 숲이 됐다\"…옥천 동이초 녹색커튼, 탄소중립 교육도 '쑥' - 충북일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWeTBYWUhSVFZQNWtGUm5RVUdyYW1nNWl6djJjZ2NPVWRfejQ3M3QwcWo5Q3RTT19xWEpVaEZUZFlpMEpHc2xjZE1ta1RZdXp4RjV3RERqc0YzU2xRODJkV19n?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T05:31:10",
+      "description": "\"학교가 숲이 됐다\"…옥천 동이초 녹색커튼, 탄소중립 교육도 '쑥' 충북일보",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "옥천 동이초등학교는 녹색커튼 조성을 통해 학교를 숲처럼 만들고, 이를 통해 탄소중립 교육을 활성화할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "옥천 동이초",
+        "녹색커튼",
+        "탄소중립 교육",
+        "학교 숲",
+        "환경 개선"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "[심층 분석] 히트펌프, 탄소중립 시대의 ‘숨은 인프라’…한국은 왜 보급률이 낮은가 - 뉴스밸류",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KODdZRFFZSVRWS3JSWlVYTUJTb1J6QkdOMEduOFFPSWlOTUtWdW5MRjIwT1BGODNwalphdUtUSmRTWkNtd2hLOEd4cEpBNkhubFliNTh6bENCSzlSSnVZRUhCRGl1ZTJ4Mmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-25T19:07:29",
+      "description": "[심층 분석] 히트펌프, 탄소중립 시대의 ‘숨은 인프라’…한국은 왜 보급률이 낮은가 뉴스밸류",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "탄소중립 시대에 히트펌프가 중요한 인프라로 부각되고 있으나, 한국의 낮은 보급률에 대한 분석과 개선이 필요할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "히트펌프",
+        "탄소중립",
+        "숨은 인프라",
+        "보급률",
+        "한국"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "태안해안국립공원사무소-식생매트공업협동조합 블루카본사업단, 탄소중립 위한 업무협약 체결 - 충남일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwUFBYOHhSRUhaZWQwbXQ0cGdHcmZYTG5fU09WQzN6eHVhUF9rMF9hWEc2ejBKdHVEVUMxSUtSbFhLd1paLXp1SVlySXoxU2k0aWxGWkdpS2hEUXlJRTdKNHhHMU9sOEFWZkN0YzJOUUpDa1E?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T00:06:03",
+      "description": "태안해안국립공원사무소-식생매트공업협동조합 블루카본사업단, 탄소중립 위한 업무협약 체결 충남일보",
+      "summary": {
+        "phenomenon": "태안해안국립공원사무소와 식생매트공업협동조합 블루카본사업단이 탄소중립을 위한 업무협약을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "태안해안국립공원사무소",
+        "식생매트공업협동조합",
+        "블루카본",
+        "탄소중립",
+        "업무협약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "허태정 대전시장, 주한 EU 대사 접견…과학기술·탄소중립 협력 확대 논의 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0UGVtejIwdnRzeWhWeDEtR2haZFJweHNjOFhFcWVUXzFHRXJMQUF2R0JxUS05bU9LNDR4aTRoS2tiYnhkRGF1X0JhTm0wVFR3ZGJF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T03:54:00",
+      "description": "허태정 대전시장, 주한 EU 대사 접견…과학기술·탄소중립 협력 확대 논의 네이트",
+      "summary": {
+        "phenomenon": "허태정 대전시장이 주한 EU 대사를 접견하여 과학기술 및 탄소중립 분야의 협력 확대를 논의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "허태정 대전시장",
+        "주한 EU 대사",
+        "과학기술",
+        "탄소중립",
+        "협력 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "경주시 탄소중립 교통도시 조성 위해 하반기 전기자동차 457대 보급 - 얼리어답터뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IbGZReW1CX1ZXOWpsa1RlOEdnMlE4MDRsWFY2amxWNV9CLU5DcVJ3ekdiNUdROHRUOVZranhWSVdtQnUwRDhXOQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-26T01:26:34",
+      "description": "경주시 탄소중립 교통도시 조성 위해 하반기 전기자동차 457대 보급 얼리어답터뉴스",
+      "summary": {
+        "phenomenon": "경주시가 탄소중립 교통도시 조성을 목표로 하반기에 전기자동차 457대를 보급할 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경주시",
+        "탄소중립",
+        "전기자동차",
+        "보급",
+        "교통도시"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "국제유가 고공행진에…원유·신재생에너지 '들썩' - 한국경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0Z21KQzdZaWNqVlZsTTVlV3ViWEpvSFBFdlljYUo4dU1qcUM5Z19ZOU4wMHMtLTF0MTlIVkFlLUtHUXBYbm1QRVY4ZkhjTEhhODZIQjF3cFVUZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T08:31:21",
+      "description": "국제유가 고공행진에…원유·신재생에너지 '들썩' 한국경제",
+      "summary": {
+        "phenomenon": "국제유가가 고공행진을 보이면서 원유 및 신재생에너지 관련 시장이 들썩이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국제유가",
+        "고공행진",
+        "원유",
+        "신재생에너지",
+        "에너지시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "이수현 인제군의원 ‘인제형 재생에너지 연금’ 제시 - 강원일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwcDRBamNvVk5wSlRHNHEyaVNHZW5Qc2NaaHpMN3FSOTlNNHBEbHY5Uk53Q1A2X1NlaUZaVUEtVHBrOHZycnlUUUtFNVdTdHlYX0ZhWmM0a2c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T01:44:16",
+      "description": "이수현 인제군의원 ‘인제형 재생에너지 연금’ 제시 강원일보",
+      "summary": {
+        "phenomenon": "이수현 인제군의원이 '인제형 재생에너지 연금'을 제시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이수현",
+        "인제군의원",
+        "인제형",
+        "재생에너지",
+        "연금"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "스코틀랜드, 50개 지역 재생에너지 사업에 550만 파운드 지원 - 울산저널i",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tazdxdnBfZlFnd3BsbnZNZHZoYkxBWG1adloyREFrR2k5b01qa0x4dVhiMjJCY25FSWphVk8tdUthbHhRTW4tM0pRelZPT18xb2w4RUMtWFZRSHhMVG9MSnNWa29lQUZLeXptdHJ0VWlLUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T00:24:07",
+      "description": "스코틀랜드, 50개 지역 재생에너지 사업에 550만 파운드 지원 울산저널i",
+      "summary": {
+        "phenomenon": "스코틀랜드가 50개 지역 재생에너지 사업에 총 550만 파운드를 지원했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "스코틀랜드",
+        "재생에너지",
+        "지원",
+        "사업",
+        "550만 파운드"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "유가 100달러 돌파에 신재생에너지 ETF '훨훨' - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qQmZLQVBpT1ZUb2JMclNyajhwMndCZzJtTzVoSjQtdjcxTUJzTjNFb0pzdC1pVWFpNEg0UmViV2llUEU2RnlaeFdIZmtzRnM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-25T21:02:00",
+      "description": "유가 100달러 돌파에 신재생에너지 ETF '훨훨' v.daum.net",
+      "summary": {
+        "phenomenon": "유가가 100달러를 돌파하면서 신재생에너지 ETF(상장지수펀드)가 강세를 보였다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "유가",
+        "신재생에너지",
+        "ETF",
+        "100달러",
+        "상승"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "SK이터닉스 질주에 태양광·전력기기 훈풍 - 매일경제 마켓",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSUo5SzlRNExUbVl1MHBTc3V3X0I3bHdaUnRyTlVSSThiOUROX29iaXM1RXA3am8zd083aEZUaE90a09CQU9ybUNhdDdteU0xcHc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T07:55:25",
+      "description": "SK이터닉스 질주에 태양광·전력기기 훈풍 매일경제 마켓",
+      "summary": {
+        "phenomenon": "SK이터닉스의 질주로 인해 태양광 및 전력기기 관련 시장에 훈풍이 불고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "SK이터닉스",
+        "태양광",
+        "전력기기",
+        "훈풍",
+        "질주"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "AI 전력수요 기대에 '신재생에너지 ETF' 강세 - meconomynews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yUWZNWGxzZUZxVlMzenlvQlh2MGJVZ0VVTnUwUk5GVWRDd1g1cHNScjBGdTBPVUgya2tGV3RlUENmSkQ0cmE3VjRDaFY5MzlqNk0xSk5tdTM3N3BHSC1yTUVycmRQSVdaWkdxQ054Ums?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T00:00:00",
+      "description": "AI 전력수요 기대에 '신재생에너지 ETF' 강세 meconomynews.com",
+      "summary": {
+        "phenomenon": "인공지능(AI) 전력수요에 대한 기대로 인해 신재생에너지 ETF가 강세를 보이고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "전력수요",
+        "신재생에너지",
+        "ETF",
+        "강세"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "중동 충격·가스값 폭등에도 전 세계 전력 수요 가속 - ESG비즈니스리뷰",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kWmptUm1ZekJZck5pTE9VRFVWLXllQVA4eW5EVm1BTGhTSDltN3ZQYl9oZ0xCVXJxdUpkdExYQTZlWkVJa1JVMDVSZzZLd1dxdC1tZDBQaFpNX1dLVzZKQWF3R3FRZjVEaGx3RGQ3QTBNQ1E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T04:12:13",
+      "description": "중동 충격·가스값 폭등에도 전 세계 전력 수요 가속 ESG비즈니스리뷰",
+      "summary": {
+        "phenomenon": "중동 충격과 가스값 폭등에도 불구하고 전 세계 전력 수요가 가속화되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "중동 충격",
+        "가스값 폭등",
+        "전 세계",
+        "전력 수요",
+        "가속"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "재생에너지 대변인을 찾습니다 [윤지로의 인류세 관찰기] - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iRzlOYU9GcVRnTk1ZTHhPbFk0czhjNVRnaHU4bWkxSTREU0V1Z3hfQjVSSUVRQ1U1MXRBQUZ4cnBnZm1oRERIbGtGTlBoaWdiWXVF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T09:05:00",
+      "description": "재생에너지 대변인을 찾습니다 [윤지로의 인류세 관찰기] 네이트",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "재생에너지",
+        "대변인",
+        "인류세",
+        "기후변화",
+        "환경보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "중동 긴장 재고조에 유가 급등…신재생에너지 ETF ‘불기둥’[펀드와치] - edaily.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGZ1QkRIQlRPaG5ubGZ2U3hQb2g0YW9TODh4MjVDaThMM1I5NDJrOXZMSFhNNXJGX3B3Z3VqU01JOVU4ME9iZFhFcnlqcXBEN1puUVFmeThLdXlSdUJtdXFOMGpEb3BGelc5TGFsNVR2ckphLURUT1Atck8xYWRFbQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T00:25:38",
+      "description": "중동 긴장 재고조에 유가 급등…신재생에너지 ETF ‘불기둥’[펀드와치] edaily.co.kr",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "중동 긴장",
+        "유가 급등",
+        "신재생에너지",
+        "ETF",
+        "시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "영광군·한전KDN ‘공익형 태양광’ 실행 단계 착수 - 남도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QTWt0Mk9TNWVFWjZVdVFieGpmb01idkNwVFBsRWo2QnBjV1lJY0tnaXRGSFNNVVJVdHBTSkd1MWJsOHdINHF0dVc5OE1yQlVmdU1tQ0dVbXRUT1k4TnV5MFpvd1JKZTFOLTZBTdIBcEFVX3lxTE9ObWtVUmhHZ3g4ZEljZ2p5bi1aUzVyOHdwY3JDaXVmM1EtVlMtSW5LTmhhVmFwX1dBNW55VTdpTWplTl9XOGwySkdQWWRSUmNNT1VJaDQ5eGw5VVNGOVg0N29lVnQ5VU13SjYwb0hQS24?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T06:27:25",
+      "description": "영광군·한전KDN ‘공익형 태양광’ 실행 단계 착수 남도일보",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "영광군",
+        "한전KDN",
+        "공익형 태양광",
+        "실행 단계",
+        "착수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "[에너지전환2050] 롯데케미칼, 친환경 전력 소비자 넘어 공급자로 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDaF9QNHlVZ0tjMmRBQUVEcUZ4TElPaWNWd19GbVp0d255U1ItX2hWTDRxc19Gc21ral9PN1l4RmVaWGItdC1HUTVmenVFaDJUU3VYSjBmeGZEdUtIYWNUWmNiaTFZXzVYUlZ1U2ZyckrSAXRBVV95cUxOV3dzbDBKWnVZU0tlRlljbzdhRmtVbXI4MjJsUk1SZDRrbHFIdm9mbllHQUhPT0h6aDNTRURTZ2JseXZTRTIxU3lsOHg0bmJFd1F3TFF2TmFPblZPd2FKSDdCMUdOTGdiOEg4cjB2eDNxb3JqVA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-26T01:30:34",
+      "description": "[에너지전환2050] 롯데케미칼, 친환경 전력 소비자 넘어 공급자로 이뉴스투데이",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "롯데케미칼",
+        "에너지전환2050",
+        "친환경 전력",
+        "전력 공급자",
+        "에너지 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "장마 끝 ‘폭염’ 비상…펄펄 끓는 한반도",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261717021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T08:17:02",
+      "description": "서울 낮 최고기온이 33도까지 오르는 등 전국적으로 폭염이 기승을 부린 지난 13일 서울 남산전망대에서 열화상 카메라로 촬영한 시내의 전경이다. 온도가 높은 부분은 붉게, 낮은 부분은 푸른색을 띤다. 강윤중 선임기자전국 대부분 지역에 폭염특보가 발효된 상황에서 낮 최고기온이 39도 안팎까지 오르는 극심한 무더위가 이어질 것으로 전망된다.26일 기상청에 따···",
+      "summary": {
+        "phenomenon": "지난 13일 서울 낮 최고기온이 33도까지 오르는 등 전국적으로 폭염이 기승을 부렸으며, 26일에는 전국 대부분 지역에 폭염특보가 발효되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "낮 최고기온이 39도 안팎까지 오르는 극심한 무더위가 이어질 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "한반도",
+        "기온",
+        "폭염특보",
+        "무더위"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "“이건 단순 자연재해 아니다”···프랑스 투르드프랑스 단축·스페인 국가비상사태 선포 ‘최악 산불’로 30만명 망연자실",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261533001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T06:33:00",
+      "description": "전문가들 “극한 폭염·가뭄 탓 유럽 전역 다 말랐다”대형 산불이 통제 불능 된 원인으로 꼽아프랑스, 군 병력 투입 ‘소화제 20t 살포’ 수송기 배치25일(현지시간) 산불이 발생한 프랑스 지롱드 지역 한 도로에 화재 진압을 위해 투입된 긴급 차량들이 줄지어 서 있다. 로이터연합뉴스프랑스와 스페인을 덮친 대형 산불로 25일(현지시간) 기준 약 30만명이 대피···",
+      "summary": {
+        "phenomenon": "25일(현지시간) 프랑스 지롱드 지역과 스페인을 덮친 대형 산불로 약 30만명이 대피했으며, 프랑스 투르드프랑스 대회가 단축되고 스페인에서는 국가비상사태가 선포되었다.",
+        "cause": "전문가들은 극한 폭염과 가뭄으로 유럽 전역이 건조해진 것을 대형 산불이 통제 불능이 된 원인으로 꼽았다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "경남 지역 극한 더위···최고 단계 대응 ‘폭염중대경보’ 잇따라 발효",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261511001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T06:11:00",
+      "description": "폭염 속 서울 시내를 지나는 시민들이 부채로 햇볕을 가리고 있다. 정효진 기자경남지역 일부 지역에 최고 단계의 폭염 대응 조치인 ‘폭염중대경보’가 발효됐다.기상청은 26일 오전 11시를 기해 김해·밀양·함안·창녕·합천중부에 폭염중대경보를 발효했다.폭염중대경보는 최고 체감온도가 35도 이상인 상태가 이틀 이상 지속되는 지역에서 최고 체감온도가 38도 이상이거···",
+      "summary": {
+        "phenomenon": "폭염 속 서울 시내를 지나는 시민들이 부채로 햇볕을 가리고 있다. 정효진 기자경남지역 일부 지역에 최고 단계의 폭염 대응 조치인 ‘폭염중대경보’가 발효됐다.기상청은 26일 오전 11시를 기해 김해·밀양·함안·창녕·합천중부에 폭염중대경보를 발효했다.폭염중대경보는 최고 체",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "경남",
+        "폭염중대경보",
+        "극한 더위",
+        "기상청"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "민주당 ‘인재 1호’ 박지혜 의원 “원전, 메가프로젝트 속도 못 따라가…탄소중립 흔들어선 안돼”",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261509001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T06:09:00",
+      "description": "박지혜 더불어민주당 의원이 지난 22일 국회 의원회관에서 경향신문과 인터뷰하고 있다. 박민규 선임기자박지혜 의원은 2024년 22대 총선에서 더불어민주당이 가장 먼저 영입한 ‘인재 1호’다. 기후·환경 전문 변호사 출신인 그는 국회 기후위기특별위원회와 기후에너지환경노동위원회에서 활동하며 기후·에너지 정책 전반을 다루고 있다. 박 의원은 국회 입성 당시 민주···",
+      "summary": {
+        "phenomenon": "박지혜 더불어민주당 의원이 지난 22일 국회 의원회관에서 경향신문과 인터뷰하고 있다. 박민규 선임기자박지혜 의원은 2024년 22대 총선에서 더불어민주당이 가장 먼저 영입한 ‘인재 1호’다. 기후·환경 전문 변호사 출신인 그는 국회 기후위기특별위원회와 기후에너지환경노동",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "박지혜 의원",
+        "탄소중립",
+        "원전",
+        "메가프로젝트",
+        "기후·에너지 정책"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "직장인 10명 중 4명 “폭우·폭염에도 정시출근”…정부 ‘재택 권고’ 유명무실",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261331001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T04:31:00",
+      "description": "폭염 시 야외작업 중단 권고, 강제성 없어“기후위기에도 노동자 안전은 사업주 재량”집중호우가 내린 지난 18일 서울 동부간선도로 전 구간이 전면 통제되고 있다. 연합뉴스직장인 10명 중 4명은 집중호우와 폭염 같은 자연재해 상황에서도 재택근무나 출퇴근 시간 조정이 보장되지 않는 것으로 나타났다. 정부의 작업중지 권고도 실효성이 떨어져 현행 제도가 기후재난에···",
+      "summary": {
+        "phenomenon": "폭염 시 야외작업 중단 권고, 강제성 없어“기후위기에도 노동자 안전은 사업주 재량”집중호우가 내린 지난 18일 서울 동부간선도로 전 구간이 전면 통제되고 있다. 연합뉴스직장인 10명 중 4명은 집중호우와 폭염 같은 자연재해 상황에서도 재택근무나 출퇴근 시간 조정이 보장",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "직장인",
+        "폭우·폭염",
+        "재택근무",
+        "정시출근",
+        "기후재난"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "‘폭염 피하려다’ 물놀이 사고·에어컨 화재 급증",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202607261327001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T04:27:00",
+      "description": "여름철 물놀이 사망 사고 절반은 폭염이 기승을 부리는 7월말에서 8월초 사이에 발생하는 것으로 나타났다.26일 행정안전부와 소방청에 따르면 최근 5년(2021~2025)간 물놀이 사고 사망자는 104명으로 집계됐다. 이 중 54%(56명)가 여름방학과 휴가가 집중되는 7월 말(34명)에서 8월 초(22명)에 발생했다.사망 사고가 발생한 장소는 하천(강)이 ···",
+      "summary": {
+        "phenomenon": "여름철 물놀이 사망 사고 절반은 폭염이 기승을 부리는 7월말에서 8월초 사이에 발생하는 것으로 나타났다.26일 행정안전부와 소방청에 따르면 최근 5년(2021~2025)간 물놀이 사고 사망자는 104명으로 집계됐다. 이 중 54%(56명)가 여름방학과 휴가가 집중되는 ",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "물놀이 사고",
+        "사망자",
+        "여름철",
+        "안전사고"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "Climate change is now threatening a pillar of childhood: summer break - NPR",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLWltM1R4TVN1OFpqOWcwSEVvTGRsTmoxRXZyUk5fclY4Tm5SVl9tY3lxSmZRZ2ZkTko2clNyOHhEVk5uY0ZNQlRkcjUtWldGbk5oRlhpUGhEd254amdtcE5hUTFxdG5JSk13c09PM1VHMmZZWTBmV21TdFBudktZX0o5S3ZDajg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T09:00:00",
+      "description": "Climate change is now threatening a pillar of childhood: summer break NPR",
+      "summary": {
+        "phenomenon": "기후 변화가 어린 시절의 중요한 부분인 여름 방학을 위협하고 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "42",
+      "title": "기후 변화는 이제 국가 안보 위협이다 – 장관들은 행동해야 한다",
+      "original_title": "Climate change is now a national security threat – ministers must act - The Independent",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWTA1bExQX2p5ZkZ5dlk5VnRPVnNvbXhXeW5Ua0k0Ylo3VVBMR00xU0RaZlRwcEhVam12SE1rMEMycF9CZVMtUXVrMDh2aVp1cUIyWDBab2lHV2F5NUc0LXlpVlpIX0RscEpscXIxY3Vfd1llZHdSM1pKQ21IS2xJb2Z2RzVaN0o4RUIyQTFlcncyTHM0b1N3LUVjQWVYQ21J?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T05:06:00",
+      "description": "Climate change is now a national security threat – ministers must act The Independent",
+      "summary": {
+        "phenomenon": "기후 변화가 이제 국가 안보 위협으로 간주되고 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "장관들이 이에 대해 행동해야 한다고 언급되었으나, 구체적인 미래 영향이나 전망은 기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "국가 안보",
+        "위협",
+        "장관",
+        "행동 촉구"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "43",
+      "title": "기후 변화가 사람들의 수면을 앗아가고 있다",
+      "original_title": "Climate Change is Costing People Sleep - Climate Central",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MTHdyT0JuN1JWVXJfLXB5SE5WTzEteEtHaVZCVXh0bFN3aF82bzUxb1hQSE91d21JU3Z1RjlQYUc4NUZ0eTBtRDladHlQM3gweVZ2S2VhRGw5a1JmTFZheTBKVHpMX19TNFI5ZHZIc3ZWWmRBZHl5RXhVcm0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T21:41:26",
+      "description": "Climate Change is Costing People Sleep Climate Central",
+      "summary": {
+        "phenomenon": "기후 변화가 사람들의 수면을 방해하고 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "수면",
+        "영향",
+        "건강",
+        "불면증"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "44",
+      "title": "기후 변화가 캘리포니아 와인 지도를 어떻게 재편할 수 있을까",
+      "original_title": "How climate change could redraw California’s wine map - Jefferson City News Tribune",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSllpM0wyNElvYzUyc29icm5tYUlRVURmX0tmeTRobkd5Ymh0dHlBT295MnltNzhOOXFBbFlfdkJQU0JlYmlWVDQ4WE1fMTFpRWlOMzg1UXV6cHh4RTB5LW16RjhWWGVnc2pzbEVFc2h2ZDlLc0swbDk4ZzBOajhGRlo4NWpUMl9qcFpmdW1qLVo1RzgyTng1Umxn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T09:00:00",
+      "description": "How climate change could redraw California’s wine map Jefferson City News Tribune",
+      "summary": {
+        "phenomenon": "기후 변화가 캘리포니아의 와인 지도를 재편할 가능성이 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "캘리포니아 와인 지도가 재편될 수 있다는 전망이 제시되었다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "캘리포니아",
+        "와인 지도",
+        "재편성",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "45",
+      "title": "남아프리카공화국에서 배우는 교훈: 공원과 공동체 정원이 도시의 기후 변화 적응을 돕는 방법 - 더 컨버세이션",
+      "original_title": "Lessons from South Africa on how parks and community gardens can help cities adapt to climate change - The Conversation",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZHJGZFZuaVU3cVVLZGpiY1hqOWwyZ2JmaEFLMTJvTUVWbWVLY0tMeUxYTU5LSjdHY2NKT1JUdk9DUlV0aGhQS2tPYkxBaXcxMzRUWVlFY3E3Q3BaZjRBdzg2OWRzMmtNaTRwR2Z0R1l4c2Q0ZkFhSXNQQUVtMnpkTlZmaV9URFdyZ0YySmlWMzFPQXBEUm1vNi1yRmRxMndDeWdFOVBHOXJCVGtRTEI0WHY4TUdDcDNvVXZkMGZHaHROcUhKN19OV09MblJvVTZf?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T04:14:50",
+      "description": "Lessons from South Africa on how parks and community gardens can help cities adapt to climate change The Conversation",
+      "summary": {
+        "phenomenon": "남아프리카공화국에서 공원과 공동체 정원이 도시의 기후 변화 적응을 돕는 방법에 대한 교훈이 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "공원과 공동체 정원이 도시의 기후 변화 적응에 기여할 수 있다는 긍정적인 전망이 제시되었다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "공원",
+        "공동체 정원",
+        "도시",
+        "기후 변화 적응",
+        "남아프리카공화국"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "46",
+      "title": "One Boulder couple's response to climate change: Grow trees, lots of trees, and give them away - The Colorado Sun",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPckhPdWlUWUE0THE3MVlPYTkwbmJmTXJfYTNOY3ROb3Q5TE56OXdTRm5lRXU3TTRlQ1c0UUNuT05jd2JxRmdzeFBtUFNWbWVBTDljS2hWd0VWSU1FSVhSQWUyXzFxWFoxR0VKRndhXzhHQm9mcEdfMmJDeTNPLWFCMnl6V2FuOC1zOHQ5aUF6UVBvSTdFekg2Yk9rUUhPU3V4a3Ffc1ZYN2FhOUFlWmFpUHJrN1lTdWxEN1lmeg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T09:26:00",
+      "description": "One Boulder couple's response to climate change: Grow trees, lots of trees, and give them away The Colorado Sun",
+      "summary": {
+        "phenomenon": "볼더의 한 부부가 기후 변화에 대응하여 많은 나무를 심고 나누어주고 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "47",
+      "title": "기후 변화 시대에 고속도로를 건설하는 방법",
+      "original_title": "How to Build a Highway in the Age of Climate Change - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHV6M3NpRF9ib2VZYjdGUlUxaXlsMzFqV2E4NU1DWEQtU3NNbzRJcU5Cby1NeHNxc0FfLWd0eGt4RVdmdjNhMjM0bWI5enZKWF85akFaRjBmbzB4eUhlZXBib1VLVU1TcXd4ZEFoNm9Pb3dKQlhsR2MzdE1pVjhaMkxiN2hyaWxJSFpXbmptWFhWZEdzdVZMNnBoVkY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T23:32:36",
+      "description": "How to Build a Highway in the Age of Climate Change The Good Men Project",
+      "summary": {
+        "phenomenon": "기후 변화 시대에 고속도로를 건설하는 방법에 대한 논의가 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화를 고려한 고속도로 건설 방법이 필요하다는 점이 시사된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "고속도로",
+        "기후 변화",
+        "건설",
+        "인프라",
+        "적응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "48",
+      "title": "David Hastings, PhD, Sheds Light on Nature-Based Solutions to Climate Change - The Ritz Herald",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0hZMU1iSXFULVhZUlg2QWhDQjRBYUs5WmhUdGw2QVlKdmU3cEtKVWlvZlpCNmZKeHh0NExqNzhDUGgwd2drTklocG4yZXctLVF5SnBacDVJcDNrMzA5M1RUSUx1QkdfSGNaMkI2VEZndGp6SFphMVA3c3VlVVFVbHUtTVlZdFczVnJ5QVRpRUNBWVlnOG56MVgzQ2ljREU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T21:36:52",
+      "description": "David Hastings, PhD, Sheds Light on Nature-Based Solutions to Climate Change The Ritz Herald",
+      "summary": {
+        "phenomenon": "David Hastings 박사가 기후 변화에 대한 자연 기반 해결책에 대해 조명하고 있다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "자연 기반 해결책이 기후 변화에 대응하는 방안으로 제시될 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화 - 걸프 투데이",
+      "original_title": "Climate change - Gulf Today",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVHFTSE44TzdQZUpEVmloeWhGUUkyRm9GM2dXZHNkdGJseUs5VUhTYURWMUU1SFg4VUR5OVZJVjdKWWozck5tczllWElyWWdHSG56dzJhbUZXVFkteXhqVXdoX0hrSG5QRWc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-26T05:25:39",
+      "description": "Climate change Gulf Today",
+      "summary": {
+        "phenomenon": "기후 변화에 대한 기사이다. (구체적인 수치, 지역, 시점은 기사에서 언급되지 않음)",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "걸프 투데이",
+        "뉴스",
+        "환경",
+        "보도"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "50",
+      "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "original_title": null,
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "source": "guardian_climate",
+      "published_at": "2026-07-26T09:37:52",
+      "description": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainAs my colleagues note in this story, scientists say climate breakdown is triggering more frequent and more extreme weather events, evaporating soils and waterways, fuelling wildfires and leading to thousands of excess deaths. Europe is heating at about twice the global average rate.Spain’s environment m",
+      "summary": {
+        "phenomenon": "프랑스와 스페인에서 대규모 산불이 발생하여 25만 명 이상, 총 30만 명 이상이 주택과 휴가 숙소에서 대피했다. 이는 프랑스에서 평시 민간인 대피 작전 중 가장 큰 규모 중 하나이다.",
+        "cause": "과학자들은 기후 붕괴가 더 빈번하고 극심한 기상 현상을 유발하고, 토양과 수로를 증발시키며, 산불을 부채질하고, 수천 명의 초과 사망을 초래한다고 말한다. 유럽은 전 세계 평균보다 약 두 배 빠른 속도로 가열되고 있다.",
+        "outlook": "기후 붕괴로 인해 더 빈번하고 극심한 기상 현상, 토양 및 수로 증발, 산불 증가, 그리고 수천 명의 초과 사망이 발생할 것으로 전망된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "51",
+      "title": "케언곰스 지역의 대피했던 주민들, 산불 위협 해제 후 귀가 허용",
+      "original_title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
+      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T22:08:37",
+      "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their homes after a large fire broke out in the Cairngorms national park.Supt Judy Hill of Police Scotland said: “Thanks to the efforts of fire crews, gamekeepers, contractors, partners and many others over the past 24 hours, there is no longer the immediate threat which prompted the evacuation of properties",
+      "summary": {
+        "phenomenon": "스코틀랜드 케언곰스 국립공원에서 10일간 지속된 대형 산불이 발생하여 네티 브릿지 주민들이 대피했다가 위협이 해제된 후 귀가 허용되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "산불로 인한 즉각적인 위협은 해제되었으며, 대피했던 주민들은 귀가할 수 있게 되었다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "산불",
+        "케언곰스",
+        "주민 대피",
+        "위협 해제",
+        "스코틀랜드"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "52",
+      "title": "How to keep cool in a heatwave: 25 tips from the people who know best, from a Rio lifeguard to an Egyptian archaeologist",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/jul/26/how-to-keep-cool-in-a-heatwave-from-people-who-know-best",
+      "source": "guardian_climate",
+      "published_at": "2026-07-26T05:00:02",
+      "description": "For some, scorching days and humid nights are just the norm. So how do they stay chilled and comfortable?Luis Pacherrez Antón is president of Agroperu Cooperative, a democratic collective of 102 small-scale farmers in the Chira River valley, Peru. He is based in Piura, known as “the city of eternal heat” because it stays hot and dry all year round. “The sun rays start to shine very early – from 9am,” he says. “So as people who work in cultivation, under a burning sun, we stay comfortable by star",
+      "summary": {
+        "phenomenon": "페루 치라 강 계곡의 피우라 지역은 '영원한 더위의 도시'로 알려져 있으며, 일 년 내내 덥고 건조한 날씨가 지속되어 오전 9시부터 강한 햇살이 내리쬔다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 52,
+    "domestic_count": 40,
+    "international_count": 12,
+    "top_keywords": [
+      "탄소중립",
+      "AI",
+      "기후위기",
+      "폭염",
+      "기후 변화"
+    ],
+    "sentiment_breakdown": {
+      "positive": 28,
+      "negative": 14,
+      "neutral": 4
+    }
+  },
+  "period": "afternoon",
+  "period_label": "오후"
+}
