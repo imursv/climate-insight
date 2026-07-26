@@ -1,0 +1,529 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T00:06:02.980624",
+  "briefing": {
+    "opening": "Good morning/afternoon. We will now begin the climate briefing for July 26, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Intensification of Extreme Climate Events Worldwide",
+        "content": "Today, extreme weather events continue to cause damage and raise concerns across the globe. In the Western United States, climate change has made snow droughts approximately four times more likely, and Canadian wildfire smoke is also being attributed to the impacts of climate change [7, 8]. Across Europe, climate change is 'supercharging' droughts and exacerbating the situation, with emergency situations arising in France and Spain where over 250,000 people have been evacuated due to large-scale wildfires [9, 15, 18, 19]. Furthermore, health threats related to heatwaves are escalating, with a third 'heat dome' in a month expected to hit 70 million people in the U.S., and 'covert heatstroke,' where mental clarity is affected even without outdoor activity, being warned as particularly dangerous for the elderly in Japan [5, 17]. Monsoon diseases are also frequently misdiagnosed due to similar symptoms and diagnostic gaps, illustrating the complexity of health issues caused by climate change [13].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Persistent Domestic Heatwaves and Carbon Neutral Infrastructure Challenges",
+        "content": "Domestically, heatwave advisories are expected to continue across most regions tomorrow (the 26th), with sweltering heat persisting. Showers are forecast mainly for the central region, but 'steaming heat' and tropical nights are expected to continue for the time being [6]. Amidst these extreme climate conditions, South Korea's adoption rate of heat pumps, considered a key infrastructure for the carbon-neutral era, remains low, raising concerns [2]. This remains a critical challenge for enhancing energy efficiency and achieving greenhouse gas reduction targets [2].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Exploring Climate Change Adaptation and Eco-Friendly Solutions",
+        "content": "Even amidst this climate crisis, positive developments and innovative attempts to adapt to and address climate change are being observed. The Robert Mondavi Winery, reopening after three years, presented a vision for the future of agriculture in the face of climate change, armed with organic practices, advanced winemaking, and precision harvesting technologies [1]. As international oil prices surpassed $100, renewable energy ETFs showed strength, reflecting market anticipation for a shift towards eco-friendly energy [3]. Furthermore, the French company Momentum Technologies unveiled a mobile survival capsule designed for disaster situations such as terrorism and floods. Discussions on how to construct highways in the era of climate change, along with the spotlight on nature-based solutions, demonstrate ongoing efforts across various sectors to seek adaptation and solutions [4, 10, 11]. The lifting of the major wildfire threat in Scotland's Cairngorms National Park, allowing evacuated residents to return home, is also positive news [16].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Widespread Impacts Caused by Climate Change",
+        "content": "Climate change extends beyond mere weather patterns, exerting widespread impacts across the Earth's fundamental systems and ecosystems. Scientists have revealed that climate change is gradually lengthening the Earth's day, and ecosystem disruptions are intensifying, such as the imbalance in the wetland habitats of Painted Storks [12, 14]. Meanwhile, fossil fuel-related projects are also experiencing setbacks, with a new North Sea oil drilling project facing delays due to an offshore equipment drop accident [20]. These reports once again serve as a reminder that climate change is affecting human life, the natural environment, and industries in unexpected ways [12, 14, 20].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlights the global intensification of extreme weather events, alongside innovative efforts to address them. Understanding the extensive impacts of climate change and committing to continuous adaptation and mitigation efforts is of paramount importance. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Robert Mondavi Winery Reopens After Three Years, Armed with Organic Farming, Advanced Winemaking, and Precision Harvesting to Combat Climate Change [Choi Hyun-tae's Wineholic] - Segye Ilbo",
+      "original_title": "“기후변화 덤벼!” 유기농·첨단양조·정밀수확 무장 로버트 몬다비 3년만에 문 ‘활짝’ [최현태 기자의 와인홀릭] - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxa1NaRkRnODZOU1ItTTFlR21vQ1VDNFNIQkJDbUplc3Y0VUx5RlBDS3FrR2k1aTU2bnZQczBWNjRwLS1RWHFSTWt2a3dUQTMxYnZOQkJneHfSAVRBVV95cUxQd3ZMdkJQUU90TERsbHJ0X3Y0M1g1WGNINC1PNENMMWgwTDVjT1E0Tm1rTlFGd2NGYk0zVHdLWFpKRmU4N3g3eWZoTFhRQ2MwVkVzcjg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-25T09:54:34",
+      "description": "Robert Mondavi Winery Reopens After Three Years, Armed with Organic Farming, Advanced Winemaking, and Precision Harvesting to Combat Climate Change [Choi Hyun-tae's Wineholic] Segye Ilbo",
+      "summary": {
+        "phenomenon": "Robert Mondavi Winery has reopened its doors after three years.",
+        "cause": "It has armed itself with organic farming, advanced winemaking, and precision harvesting technologies to respond to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Robert Mondavi",
+        "Organic farming",
+        "Advanced winemaking",
+        "Precision harvesting"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“기후변화 덤벼!” 유기농·첨단양조·정밀수확 무장 로버트 몬다비 3년만에 문 ‘활짝’ [최현태 기자의 와인홀릭] 세계일보"
+    },
+    {
+      "id": "2",
+      "title": "[In-depth Analysis] Heat Pumps, the 'Hidden Infrastructure' of the Carbon-Neutral Era... Why is South Korea's Adoption Rate Low? - NewsValue",
+      "original_title": "[심층 분석] 히트펌프, 탄소중립 시대의 ‘숨은 인프라’…한국은 왜 보급률이 낮은가 - 뉴스밸류",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KODdZRFFZSVRWS3JSWlVYTUJTb1J6QkdOMEduOFFPSWlOTUtWdW5MRjIwT1BGODNwalphdUtUSmRTWkNtd2hLOEd4cEpBNkhubFliNTh6bENCSzlSSnVZRUhCRGl1ZTJ4Mmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-25T19:07:29",
+      "description": "[In-depth Analysis] Heat Pumps, the 'Hidden Infrastructure' of the Carbon-Neutral Era... Why is South Korea's Adoption Rate Low? NewsValue",
+      "summary": {
+        "phenomenon": "The adoption rate of heat pumps, considered a key infrastructure in the era of carbon neutrality, is low in South Korea.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heat pump",
+        "Carbon neutrality",
+        "Hidden infrastructure",
+        "Adoption rate",
+        "South Korea"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[심층 분석] 히트펌프, 탄소중립 시대의 ‘숨은 인프라’…한국은 왜 보급률이 낮은가 뉴스밸류"
+    },
+    {
+      "id": "3",
+      "title": "Renewable Energy ETFs Soar as Oil Prices Break $100 - v.daum.net",
+      "original_title": "유가 100달러 돌파에 신재생에너지 ETF '훨훨' - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qQmZLQVBpT1ZUb2JMclNyajhwMndCZzJtTzVoSjQtdjcxTUJzTjNFb0pzdC1pVWFpNEg0UmViV2llUEU2RnlaeFdIZmtzRnM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-25T21:02:00",
+      "description": "Renewable Energy ETFs Soar as Oil Prices Break $100 v.daum.net",
+      "summary": {
+        "phenomenon": "Oil prices have surpassed $100, leading to an increase in the value of renewable energy ETFs (Exchange Traded Funds).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Oil price",
+        "Renewable energy",
+        "ETF",
+        "100 dollars",
+        "Increase"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "유가 100달러 돌파에 신재생에너지 ETF '훨훨' v.daum.net"
+    },
+    {
+      "id": "4",
+      "title": "Survive Terror and Floods by Entering Here... 'Mobile Survival Capsules' Emerge",
+      "original_title": "테러에도, 홍수에도 여기 들어가면 산다…‘이동식 생존 캡슐’ 등장",
+      "url": "https://www.khan.co.kr/article/202607260900011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-26T00:00:01",
+      "description": "French company Momentum Technologies unveils two models of mobile survival capsules designed to protect against bullet attacks and support survival in floods. These capsules, developed by a French company, include a land-based model that withstands bullet attacks and a water-based model capable of floating during floods. Momentum Technologies states these compact survival capsules, accommodating 2-4 people each, are designed to protect individuals from terror, war, and water damage, and can be transported to safe zones.",
+      "summary": {
+        "phenomenon": "French company Momentum Technologies has developed and unveiled two types of mobile survival capsules designed to protect people from terror, war, and floods. These capsules consist of a land-based model that withstands bullet attacks and a water-based model that floats on the surface during floods.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "프랑스 기업 모멘텀 테크놀로지스 공개모델 2종…총탄 공격·수해서 생존 지원프랑스 기업이 개발한 생존 캡슐. 총탄 공격을 막는 육상용 모델(왼쪽 사진)과 물난리에도 수면에 뜰 수 있는 수상용 모델이 있다. 모멘텀 테크놀로지스 제공테러나 전쟁, 수해에서 사람을 보호하는 소형 생존 캡슐이 등장했다. 한 대당 2~4명이 들어갈 수 있는 이 장비는 안전 지역으로 대···"
+    },
+    {
+      "id": "5",
+      "title": "Often Mistaken for a Cold... 'Stealth Heatstroke' Signals One Doesn't Even Realize",
+      "original_title": "“대부분 감기로 착각”···본인도 모르는 ‘은밀한 열사병’ 신호",
+      "url": "https://www.khan.co.kr/article/202607260700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-25T22:00:00",
+      "description": "An illustration related to heatstroke. Kyunghyang Shinmun archive photo. Individuals may not experience severe thirst or prolonged outdoor activity, yet suddenly find their minds clouded and speech slurred. The critical issue is the lack of self-awareness regarding heatstroke. The medical community warns that this 'unnoticed heatstroke,' particularly prevalent among the elderly, represents a significant summer health risk. In Japan, currently experiencing severe heatwaves, this phenomenon is a growing concern.",
+      "summary": {
+        "phenomenon": "In Japan, where extreme heatwaves have recently continued, 'stealth heatstroke,' which progresses without the individual's awareness, is being warned as a particularly dangerous type among the elderly. This form of heatstroke manifests with symptoms such as mental confusion and slurred speech, even without severe thirst or prolonged outdoor activity.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The medical community is warning that 'unnoticed heatstroke' among the elderly is one of the dangerous types during the summer season."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatstroke",
+        "Elderly population",
+        "Heatwave",
+        "Unnoticed",
+        "Warning"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "열사병 관련 일러스트. 경향신문 자료사진갈증을 심하게 느끼지도, 밖에서 오래 걷지도 않았다. 그런데도 어느 순간 정신이 흐려지고 말이 어눌해진다. 문제는 본인이 열사병이라는 사실조차 모른다는 점이다. 의료계에서는 특히 고령층에서 이런 ‘자각하지 못한 채 진행되는 열사병’이 여름철 위험한 유형 중 하나라고 경고하고 있다.최근 극심한 폭염이 이어지는 일본에서는···"
+    },
+    {
+      "id": "6",
+      "title": "Heatwave Advisories Continue Across Most of the Country Tomorrow... 'Sweltering Heat' Persists with Showers",
+      "original_title": "내일도 전국 대부분 지역 폭염특보 이어져···소나기 내리며 ‘찜통더위’ 기승",
+      "url": "https://www.khan.co.kr/article/202607252054001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-25T11:54:00",
+      "description": "On the 14th, citizens at Gwanghwamun Intersection in Jongno-gu, Seoul, were seen hurrying their steps as a sudden shower began. Senior Reporter Jung Ji-yoon. The Korea Meteorological Administration (KMA) reported on the 25th that on Sunday, the 26th, sweltering heat is expected to persist across most of the country, with heatwave advisories remaining in effect. Showers are anticipated primarily in the central region. The KMA further stated that 'it will remain very hot for the time being, and many areas will experience tropical nights.'",
+      "summary": {
+        "phenomenon": "According to the Korea Meteorological Administration's (KMA) forecast on the 25th, heatwave advisories will remain in effect across most of the country on Sunday, the 26th, with sweltering heat persisting and showers expected mainly in the central region. Furthermore, it is forecasted to remain very hot for the time being, with many areas experiencing tropical nights.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is forecasted that most areas nationwide will experience very hot conditions and many areas will have tropical nights for the foreseeable future."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave advisory",
+        "Sweltering heat",
+        "Showers",
+        "Tropical night",
+        "Korea Meteorological Administration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "지난 14일 서울 종로구 광화문사거리에서 시민들이 소나기가 내리자 급하게 발걸을 옮기고 있다. 정지윤 선임기자일요일인 26일에도 전국 대부분 지역에서 무더위가 이어지겠고, 중부지방을 중심으로 소나기가 내리는 곳이 있겠다.기상청은 25일 “전국 대부분 지역에 폭염특보가 발효된 가운데, 당분간 매우 무덥겠고 열대야가 나타나는 지역도 많겠다”고 예보했다.소나기에···"
+    },
+    {
+      "id": "7",
+      "title": "산불 연기, 캐나다 아닌 기후 변화 탓 | 서신 - 디트로이트 프리 프레스",
+      "original_title": "Blame climate change, not Canada, for wildfire smoke | Letters - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT09JanF5RnN2WWFQQ2tNSWUtUjZFT0lzNU9xOVNNZ0p4MkphOS1CNTlTd3ZFd3RYSlZnQW5ZanduekVWOXlTLUZiN2ljMGQwSkhkTGFhdVd6NG42UllkS1NDakZ3NmdLalFFSTVVU21RQjc5a2IwcVdMeWtLUkVQUHFlcE1zdmd6bF9faDhxTVhLV2hoenEtaFlTZGdqM0Ytd1VlMg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T11:01:00",
+      "description": "Blame climate change, not Canada, for wildfire smoke | Letters Detroit Free Press",
+      "summary": {
+        "phenomenon": "Wildfire smoke has occurred.",
+        "cause": "The cause of the wildfire smoke is climate change, not Canada.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Wildfire",
+        "Smoke",
+        "Canada",
+        "Responsibility"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Blame climate change, not Canada, for wildfire smoke | Letters Detroit Free Press"
+    },
+    {
+      "id": "8",
+      "title": "Brief Report: The 2026 western US snow drought was about four times more likely due to climate change — Adrienne M. Marshall, Marianne Cowherd, Stefan Rahimi, and Yuhong Ye (PNAS.org) #snowpack #runoff #ColoradoRiver #COriver #aridification - coyotegulch.blog",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNdFBhT3BCNU5rWUhNOGZuYVNtY19HNXBPczJtQjdTWVdZT241blFoeGlmbTIyNjl3Znp3U3dBNldsdE9uaU9seWZHTnZCbHBGbFdqTVh5d1Z1cUxVMnY4aGp2cklPUE5ySnZMZk05V1VsbGppaDcyQmZZdVNZYTBsQTBpM0JvaE5kVzY2SV9uX0NJRTBzLW9JSl83WEhVTFhwMVBGSEhTVVB5T2RydXVJcGVPclpXbklzUUdZcEpnNlA2aW9jUWVkelA5c201RE1mZjlhdkt6aXluS2h3OHZleW90MEN5S2ZTRlk2M3BOZi16b1lsOWUyeFNZV190c2l4YmVoSjcxdGkwaGFtby1rTUR4czRTYUpKY2pBbGxod0pndE95UC1iVmVCaENPUFpP?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T16:02:46",
+      "description": "Brief Report: The 2026 western US snow drought was about four times more likely due to climate change — Adrienne M. Marshall, Marianne Cowherd, Stefan Rahimi, and Yuhong Ye (PNAS.org) #snowpack #runoff #ColoradoRiver #COriver #aridification coyotegulch.blog",
+      "summary": {
+        "phenomenon": "A snow drought occurred in the western US region in 2026.",
+        "cause": "This snow drought was approximately four times more likely to occur due to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Brief Report: The 2026 western US snow drought was about four times more likely due to climate change — Adrienne M. Marshall, Marianne Cowherd, Stefan Rahimi, and Yuhong Ye (PNAS.org) #snowpack #runoff #ColoradoRiver #COriver #aridification coyotegulch.blog"
+    },
+    {
+      "id": "9",
+      "title": "How climate change is ‘supercharging’ Europe’s droughts - AP News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTlRQTGhRdjhCYnJyOFRBWllaYVJQODNkcWhMUk9PV1ZNZXVYSllub2ZseHBUN1ZFSXhHYlJiMVY0WDBnaTRsSXRkZ2dyaTFKYk9YUG5ydnZQWWJ3WUFjRDR6YjdPcm9hUnhWN0l3bW1HMFhDMVdOTFFfd2JhUExNQk1GQVVoZEpEWjRYOVV2cENqZDV1WmxTQ3l4OEZFS212akV5NmZ6WFF5bEJwaUNB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T10:36:00",
+      "description": "How climate change is ‘supercharging’ Europe’s droughts AP News",
+      "summary": {
+        "phenomenon": "Droughts are occurring in Europe.",
+        "cause": "Climate change is 'supercharging' Europe's droughts.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change is ‘supercharging’ Europe’s droughts AP News"
+    },
+    {
+      "id": "10",
+      "title": "기후 변화 시대에 고속도로를 건설하는 방법 - 더 굿 멘 프로젝트",
+      "original_title": "How to Build a Highway in the Age of Climate Change - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZHV6M3NpRF9ib2VZYjdGUlUxaXlsMzFqV2E4NU1DWEQtU3NNbzRJcU5Cby1NeHNxc0FfLWd0eGt4RVdmdjNhMjM0bWI5enZKWF85akFaRjBmbzB4eUhlZXBib1VLVU1TcXd4ZEFoNm9Pb3dKQlhsR2MzdE1pVjhaMkxiN2hyaWxJSFpXbmptWFhWZEdzdVZMNnBoVkY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T23:32:36",
+      "description": "How to Build a Highway in the Age of Climate Change The Good Men Project",
+      "summary": {
+        "phenomenon": "There is a discussion on how to build highways in the age of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Highway",
+        "Climate change",
+        "Construction",
+        "Era",
+        "Method"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How to Build a Highway in the Age of Climate Change The Good Men Project"
+    },
+    {
+      "id": "11",
+      "title": "데이비드 헤이스팅스 박사, 기후 변화에 대한 자연 기반 해법을 조명하다 - 더 리츠 헤럴드",
+      "original_title": "David Hastings, PhD, Sheds Light on Nature-Based Solutions to Climate Change - The Ritz Herald",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0hZMU1iSXFULVhZUlg2QWhDQjRBYUs5WmhUdGw2QVlKdmU3cEtKVWlvZlpCNmZKeHh0NExqNzhDUGgwd2drTklocG4yZXctLVF5SnBacDVJcDNrMzA5M1RUSUx1QkdfSGNaMkI2VEZndGp6SFphMVA3c3VlVVFVbHUtTVlZdFczVnJ5QVRpRUNBWVlnOG56MVgzQ2ljREU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T21:36:52",
+      "description": "David Hastings, PhD, Sheds Light on Nature-Based Solutions to Climate Change The Ritz Herald",
+      "summary": {
+        "phenomenon": "Dr. David Hastings highlighted nature-based solutions to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Nature-based solutions",
+        "David Hastings",
+        "Solutions",
+        "Expert"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "David Hastings, PhD, Sheds Light on Nature-Based Solutions to Climate Change The Ritz Herald"
+    },
+    {
+      "id": "12",
+      "title": "기후 변화가 서서히 우리의 하루를 길게 만들고 있다고 과학자들이 말한다",
+      "original_title": "Climate change is slowly making our days longer, say scientists | story | Kids News - CBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1FJNG9adXFEbk9IeVl0aHpmMGtqWUR5OFl5anN0YjFXdV8tVHI1Nm0yU0VMWldNNEM3U0txRjUwNWxRQ1ROTTc2VHEwNTc4bWM5LWxQelNZd2VlMXRfSDZmc1Q0ZEYxMmo3bFBGeHFZc3R5WXJOcWdueGxtdkF1NURMR0o2Q1JlNUFENU5oZktGZnluV0dTTWwwMA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T12:06:05",
+      "description": "Climate change is slowly making our days longer, say scientists | story | Kids News CBC",
+      "summary": {
+        "phenomenon": "Scientists have stated that climate change is gradually lengthening Earth's days.",
+        "cause": "Climate change has been identified as the cause of the lengthening day.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "Day length",
+        "Scientists",
+        "Earth's rotation",
+        "Time change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is slowly making our days longer, say scientists | story | Kids News CBC"
+    },
+    {
+      "id": "13",
+      "title": "유사 증상, 기후 변화 및 진단 격차: 몬순 질병이 너무 자주 오진되는 이유",
+      "original_title": "Similar symptoms, climate change & testing gaps: Why monsoon illnesses are so often misdiagnosed - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV1RWOXNYQnowcnZ4YUZVampJNHBGWFNqcDJzT3JRSW8wSmFBWkNaSk5fSmJ6QTAxU2Y1NU9jcVI1bnAxLUUyR2pWNW1Ea3A1Uk0xdDAzS3ZkUGRZb2hqQU12ZHJ2SmZOeTlWNmEwUi1TMFN0U0ZoUm5SVVVtTVZIbHV1NHlTWGE1cUExenpQc2pOVHJycGtsOHIyVHpMZW85T2dON2ZOTklkYWFWUi05TklybWVZTWRKZkpuTnN5Q3NsbDZWR19iR0lmeE1reldaa25VYXpRWFFYaU5sY2RRLWxoMzI3VDB0WWdLV1NzR3Rld9IB9wFBVV95cUxPVy1VTXBibWlyMVZ3cm1LcmtoVXlpMGtadWV0VFRwRGtBdWZJUk52UWJBZzFzTzh6amRES19nT0p2V1BNVGgzeW1iVnRfMC1tOFRHMnM4bVI2cVkzQW05RFBLaktvWnFubGJXSG1RRVIzSEU0SHNBVnpWVFpDdWJJX3ZlR2NZVWRrYkRuX3ZoWXN5RFV3WDJoZkRMWGRQQjJxbGl0NDBnUllqMy13d0pGUnZvSEozczJ2TnJKTnphNVRVdm5ZLWVEY19lV2dtRU5HTHhVa1FubHBuYk5HWnJMUHU1VXY5OHphR3JjN19nak1yTGZNLWZj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T11:50:00",
+      "description": "Similar symptoms, climate change & testing gaps: Why monsoon illnesses are so often misdiagnosed The Times of India",
+      "summary": {
+        "phenomenon": "Monsoon illnesses are frequently misdiagnosed due to similar symptoms and diagnostic gaps.",
+        "cause": "Climate change, similar symptoms, and diagnostic gaps have been identified as causes for the misdiagnosis of monsoon illnesses.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Monsoon illnesses",
+        "Misdiagnosis",
+        "Climate change",
+        "Diagnostic gaps",
+        "Similar symptoms"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Similar symptoms, climate change & testing gaps: Why monsoon illnesses are so often misdiagnosed The Times of India"
+    },
+    {
+      "id": "14",
+      "title": "Climate change throws Painted Storks’ wetland world out of rhythm - The Climate Watch",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDZnQVZiTHM4T0tMeWlEYWEyd1d1cmZjekl5VW5HbmxfYU9sTm5ScjdoN2xKUFZvSGpYQ3plZ1VmRjlfX3JpSUgzNGMzVndwZzNiVGgxVmxSdzNnZDIwalBmVVN3eDlRQ3AxQmloRE1OdlhGc2hoT1hFaV9Hc0ZUSHg2M1o0NG1JRFctN2VVbGZtVWRlMXd5NQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T13:17:17",
+      "description": "Climate change throws Painted Storks’ wetland world out of rhythm The Climate Watch",
+      "summary": {
+        "phenomenon": "Climate change is causing an imbalance in the wetland habitat ecosystem of Painted Storks.",
+        "cause": "Climate change has been cited as the cause disrupting the ecological rhythm of the Painted Stork habitat.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change throws Painted Storks’ wetland world out of rhythm The Climate Watch"
+    },
+    {
+      "id": "15",
+      "title": "Climate change 'exacerbating' drought across Europe, scientists say - Modern Ghana",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2h2OUZZR2xUdVhKdWpzdFZsWF9FZTZLWEVPblJrSW9CcThBNnQ3bmNBeWZXRVUyYngxOGJhRGJFcEJzd1N6TnZuSG00YlR1cU0yZllITFBWWFE3Tzh4enJmQU85WWZlb29ST3JrMUlSR2o1dXBaaGVXN19hQ3pQemVyUHlCcFNnUE8xZktiTGk3SGg5S0FHYVdn0gGYAUFVX3lxTFBadzlyekF2M3EtNV82MXpkQlVtTkNqM1EyTDEta2J6WkRJSkgyRmZTWFRQVUIxanYwc2EycGk5UTVWTTFRVV9FUll2QVJuNDB4cFVuVS1lLS0wLUZ2Z0lXQ3d0N01lYkVPY0NaQklJYWx4VnhFOXo1dm94Z2s0RGVCOW9iV1VyYXR1cTJINlR0UWp4ZHptWVlU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-25T10:47:55",
+      "description": "Climate change 'exacerbating' drought across Europe, scientists say Modern Ghana",
+      "summary": {
+        "phenomenon": "Scientists have reported that drought is worsening across Europe.",
+        "cause": "Climate change has been identified as the cause exacerbating drought across Europe.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change 'exacerbating' drought across Europe, scientists say Modern Ghana"
+    },
+    {
+      "id": "16",
+      "title": "케언곰스 산불 위협 해제 후 대피 주민 귀가 허용",
+      "original_title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
+      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T22:08:37",
+      "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their homes after a large fire broke out in the Cairngorms national park.Supt Judy Hill of Police Scotland said: “Thanks to the efforts of fire crews, gamekeepers, contractors, partners and many others over the past 24 hours, there is no longer the immediate threat which prompted the evacuation of properties",
+      "summary": {
+        "phenomenon": "Residents of Nethy Bridge were evacuated due to a large wildfire in Scotland's Cairngorms National Park and have since been allowed to return home after the 10-day fire threat was lifted.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The wildfire threat has been lifted, allowing residents to return to their homes."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Wildfire",
+        "Cairngorms",
+        "Resident evacuation",
+        "Return home",
+        "Scotland"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their homes after a large fire broke out in the Cairngorms national park.Supt Judy Hill of Police Scotland said: “Thanks to the efforts of fire crews, gamekeepers, contractors, partners and many others over the past 24 hours, there is no longer the immediate threat which prompted the evacuation of properties"
+    },
+    {
+      "id": "17",
+      "title": "미국 불볕더위, 한 달 새 세 번째 '열돔'으로 7천만 명 강타 예상",
+      "original_title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
+      "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T18:34:53",
+      "description": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as dangerously hot temperatures scorch much of the country’s southern and central states.The third major “heat dome” event to hit the US in the past month is gathering strength over the weekend, spanning a vast swathe of the country, from the Gulf of Mexico coast to the Great Plains and the midwest. Continue re",
+      "summary": {
+        "phenomenon": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are ",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Heat dome",
+        "United States",
+        "70 million people",
+        "Temperature"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as dangerously hot temperatures scorch much of the country’s southern and central states.The third major “heat dome” event to hit the US in the past month is gathering strength over the weekend, spanning a vast swathe of the country, from the Gulf of Mexico coast to the Great Plains and the midwest. Continue re"
+    },
+    {
+      "id": "18",
+      "title": "프랑스와 스페인, 25만 명 이상 대피시킨 산불 진압에 총력 – 실시간 상황",
+      "original_title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T17:07:36",
+      "description": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has requested the armed forces to deploy an Airbus A400M military transport aircraft earlier than originally planned to help tackle the major wildfires in Gironde, according to Le Monde.The French newspaper reported the aircraft’s use was not originally expected until the",
+      "summary": {
+        "phenomenon": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been ",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Wildfire",
+        "Evacuation",
+        "France",
+        "Spain",
+        "Military aircraft"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has requested the armed forces to deploy an Airbus A400M military transport aircraft earlier than originally planned to help tackle the major wildfires in Gironde, according to Le Monde.The French newspaper reported the aircraft’s use was not originally expected until the"
+    },
+    {
+      "id": "19",
+      "title": "프랑스와 스페인에서 25만 명 이상이 산불을 피해 대피",
+      "original_title": "More than 250,000 people flee wildfires in France and Spain",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T16:23:17",
+      "description": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading...",
+      "summary": {
+        "phenomenon": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Wildfire",
+        "Evacuation",
+        "France",
+        "Spain",
+        "Strong winds"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bordeaux. Continue reading..."
+    },
+    {
+      "id": "20",
+      "title": "북해 신규 석유 시추, 장비 해상 낙하 사고로 지연 직면",
+      "original_title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+      "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+      "source": "guardian_climate",
+      "published_at": "2026-07-25T16:00:46",
+      "description": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in the North Sea, the Guardian can reveal.Andy Burnham’s new government is under pressure from the fossil fuel industry to allow oil to be retrieved from the Rosebank site despite opposition from climate campaigners and some Labour MPs. Continue ",
+      "summary": {
+        "phenomenon": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britain’s biggest undev",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "North Sea",
+        "Oil drilling",
+        "Rosebank",
+        "Delay",
+        "Equipment drop"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in the North Sea, the Guardian can reveal.Andy Burnham’s new government is under pressure from the fossil fuel industry to allow oil to be retrieved from the Rosebank site despite opposition from climate campaigners and some Labour MPs. Continue "
+    }
+  ],
+  "summary": {
+    "total_count": 20,
+    "domestic_count": 6,
+    "international_count": 14,
+    "top_keywords": [
+      "Climate change",
+      "Wildfire",
+      "Heatwave",
+      "Evacuation",
+      "France"
+    ],
+    "sentiment_breakdown": {
+      "positive": 4,
+      "negative": 9,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "산불",
+      "폭염",
+      "대피",
+      "프랑스"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
