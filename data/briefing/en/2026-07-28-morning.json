@@ -1,0 +1,1838 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T00:12:35.124710",
+  "briefing": {
+    "opening": "Good morning, everyone. I will now begin the climate briefing for July 28, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Extreme Climate Phenomena and Threats Sweeping Across the Globe",
+        "content": "Recently, extreme climate phenomena due to climate change have been intensifying worldwide. Domestically, a heatwave with daytime highs approaching 38 degrees Celsius has persisted, resulting in 302 heat-related illnesses over five days. As even Daegwallyeong was affected by the heatwave, the government raised the disaster alert level to its highest [5, 26, 27]. Across Europe and North America, large-scale wildfires, dubbed 'megafires' due to climate change, are sweeping through. Notably, European wildfires have surged by 57% in four years, with France and Spain, among others, dedicating all efforts to suppression [2, 31, 51, 69, 70]. As heatwaves and wildfires are increasingly perceived as 'unprecedented but not surprising' phenomena [59], an awareness is spreading that climate change is an emergency with radical impacts, exemplified by Prince William warning of its dangers [36, 55, 65].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Domestic Efforts for Climate Change Adaptation and Carbon Neutrality",
+        "content": "Domestically, diverse efforts to address climate change are actively underway. Anseong City and Daegu Urban Development Corporation have initiated the development of climate change-resilient crop varieties and trial planting of southern tree species [1, 3]. Hamyang County is strengthening its climate change adaptation efforts, such as preventing heatwave damage to floricultural crops with temperature reduction technology and cooling scorching heat and tropical nights through urban forest creation [6, 29]. DGIST has secured core photocatalyst technology to convert greenhouse gases into future fuels [8], and Kyungpook National University has proposed directions for eco-friendly next-generation MOF technology, expected to utilize carbon-neutral materials [12]. Furthermore, carbon neutrality activities by various entities continue, including NongHyup Bank's carbon credit purchases [14], Yesan County's education to promote carbon neutrality practices [11], Namseoul University's training of carbon neutrality experts [13], and Jinju elementary students' milk carton recycling campaign [15]. The CEO of aT is also promoting the establishment of a dedicated climate change department alongside agricultural structural reform [7], demonstrating Korea's proactive commitment to addressing the climate crisis.",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Challenges and Policy Tasks in Renewable Energy Transition",
+        "content": "The transition to renewable energy for achieving carbon neutrality goals still faces numerous challenges. Eight out of ten domestic companies do not measure their greenhouse gas emissions [9, 16], and even local governments' evaluations of carbon neutrality implementation have been found to be inadequate, raising questions about the transparency of policy execution [10]. Amidst the shortage of power grids being identified as the biggest obstacle to renewable energy deployment [19], analysis shows that achieving the 2030 target of 100GW renewable energy is impossible under current trends, requiring a 3.6-fold acceleration of solar power generation [22, 23]. Renewable energy subsidies have increased 77-fold over the past 12 years, escalating financial burdens [17, 28], and market uncertainties are growing, with renewable energy stock prices falling due to stabilizing oil prices [25].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Climate Action and Scientific Discourse",
+        "content": "The international community continues various discussions and actions to address climate change. TotalEnergies plans to appeal a French court's order for climate change business adaptation [32, 58], and in some regions, a rollback of climate policies is observed, such as the Ontario provincial government dismantling its climate change department [62]. Conversely, climate change funding has been announced for the Kentville and Annapolis Valley communities [56, 67], and international cooperation and investment continue, exemplified by the Global Carbon Council and Bhutan's Ministry of Environment and Climate Change signing an MoU [60]. In the scientific community, complex research findings are being presented, including simulation results indicating that low-level cloud loss amplifies global warming [43, 66], tropical species approaching their thermal limits [48], and discussions on the expansion of Antarctic ice area and the exaggeration of climate change [54]. Additionally, criticisms have been raised regarding the use of taxpayer funds for climate change research [41, 44, 46, 47, 50, 52, 53].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlighted the globally spreading extreme weather phenomena, domestic and international efforts to address them, and the complex challenges in the transition to renewable energy. This is a time when continuous attention and action to overcome the climate crisis are becoming even more crucial. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Anseong City Intensifies Development of Superior Waxy Corn Varieties for Climate Change Adaptation - Jeonju Ilbo",
+      "original_title": "안성시, 기후변화 대응 찰옥수수 우수 품종 개발 본격화 - 전주일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QSzZCMmppd0xEVl8xU3RyQlo1SGN3SHpoLU81N2ZMT1NSLVJoX2h4R2FOUDFGQkoyTEZ5dnE1dVhVUlZxRHpmT0k0VFg1TEJka1Z3RXFyLVFBaFNNZjZ2VHU2dTRFVlNUSXUyNQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T21:27:00",
+      "description": "Anseong City Intensifies Development of Superior Waxy Corn Varieties for Climate Change Adaptation",
+      "summary": {
+        "phenomenon": "Anseong City has initiated the full-scale development of superior waxy corn varieties to adapt to climate change.",
+        "cause": "The initiative aims to adapt to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Anseong City",
+        "Climate change adaptation",
+        "Waxy corn",
+        "Superior variety development",
+        "Intensification"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안성시, 기후변화 대응 찰옥수수 우수 품종 개발 본격화 전주일보"
+    },
+    {
+      "id": "2",
+      "title": "WHO: 'European Wildfires Surge 57% in Four Years,' Becoming More Frequent and Intense Due to Climate Change - ESG Business Review",
+      "original_title": "WHO \"유럽 산불 4년 만에 57% 급증\"…기후변화로 더 잦고 강력해진다 - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pc2c2Wlk1aFB2ZjgydmU0MDBzNmxpRGVYWkcwSVpqWlVYaktwdWRzVXNCbEhYM3I1blIwRXEwNXpPVUtWMXVzOUZSOThPeGpweHpaNnRscU54SHhQcnozbGF6dXVUaUVMdFVPTW5VTGVqUlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T14:57:00",
+      "description": "WHO Reports 57% Surge in European Wildfires Over Four Years, Attributing Increased Frequency and Intensity to Climate Change",
+      "summary": {
+        "phenomenon": "Wildfires in Europe have surged by 57% over the past four years.",
+        "cause": "Climate change is identified as the underlying cause, leading to more frequent and intense wildfires.",
+        "outlook": "It is projected that wildfires will become more frequent and powerful in the future due to climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "WHO",
+        "European wildfires",
+        "Surge",
+        "Climate change",
+        "Disaster intensification"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "WHO \"유럽 산불 4년 만에 57% 급증\"…기후변화로 더 잦고 강력해진다 ESG비즈니스리뷰"
+    },
+    {
+      "id": "3",
+      "title": "Daegu Urban Development Corporation Begins Trial Planting of Southern Tree Species for Climate Change Adaptation at Daegu Grand Park Zoo - Environment and Landscape",
+      "original_title": "대구도시개발공사, 대구대공원 동물원에 기후변화 대응 남부 수종 시험 식재 착수 - 환경과조경",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wS1V6clZvX0xyTmRXY3ZuajlMRG81SnJQRDBMQzVLU3Rqem5mdERMODVRbzlQc3EzN19Hb0tCZzBkNjBaRXhrbEc2aVJVSTAtb3pTNzZNcDVvMndERnc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T22:14:00",
+      "description": "Daegu Urban Development Corporation Commences Trial Planting of Southern Tree Species for Climate Change Adaptation at Daegu Grand Park Zoo",
+      "summary": {
+        "phenomenon": "The Daegu Urban Development Corporation has commenced trial planting of southern tree species at Daegu Grand Park Zoo as a measure to adapt to climate change.",
+        "cause": "This initiative aims to adapt to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu Urban Development Corporation",
+        "Daegu Grand Park",
+        "Climate change",
+        "Southern tree species",
+        "Trial planting"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구도시개발공사, 대구대공원 동물원에 기후변화 대응 남부 수종 시험 식재 착수 환경과조경"
+    },
+    {
+      "id": "4",
+      "title": "'Sleepless Nights Due to Heat': 'Heatwave Prevention Support Act' Proposed Amidst Normalized Climate Crisis - Climate Energy Data Bank",
+      "original_title": "“더위에 잠 못 드는 밤”…일상화된 기후위기 속 ‘폭염예방지원법’ 발의 - 기후에너지데이터뱅크",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Kekx4TU9YRFdnY1l0cnQzaVJTWlRqSjdNVXpKc0RJbnZ5eDJCcDZOTFotbWNlN1VqaTVOdWdlSkpfYm5sSjR1SzZldHYtNmpDZ2pnWkRSY3ZQbVJzaGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T09:10:03",
+      "description": "'Sleepless Nights Due to Heat': 'Heatwave Prevention Support Act' Proposed Amidst Normalized Climate Crisis",
+      "summary": {
+        "phenomenon": "Heatwaves have become a normalized aspect of the climate crisis, leading to phenomena such as people experiencing sleepless nights due to the intense heat.",
+        "cause": "The normalization of heatwaves is a direct consequence of the ongoing climate crisis.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Climate crisis",
+        "Heatwave Prevention Support Act",
+        "Proposal",
+        "Heat"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“더위에 잠 못 드는 밤”…일상화된 기후위기 속 ‘폭염예방지원법’ 발의 기후에너지데이터뱅크"
+    },
+    {
+      "id": "5",
+      "title": "[Climate Crisis] Heatwave Breaches Daegwallyeong; 'Climate Adaptation' Legislation from Opposition Gains Attention - Sankyung e-News",
+      "original_title": "[기후위기] 대관령마저 뚫린 폭염에...野서 나온 ‘기후 적응’ 입법' 관심 - 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xVDFzcWVKcGd0ckIxbS03RHFKMDZXQVdsTGdoTi1LX0hhXzRzeEJfOTdBeUxNaUNNZTVQeFUwOWFuWEttaGRaUTBtQWVzT2J0ZFB2SWpLRG1qSUVocER5Tkh5Q3RqYnM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T20:24:20",
+      "description": "[Climate Crisis] Heatwave Affects Daegwallyeong; 'Climate Adaptation' Legislation Proposed by Opposition Draws Interest",
+      "summary": {
+        "phenomenon": "The Daegwallyeong region, traditionally cooler, has now been affected by heatwaves.",
+        "cause": "The intensification of heatwaves is attributed to the climate crisis.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate crisis",
+        "Heatwave",
+        "Daegwallyeong",
+        "Climate adaptation",
+        "Legislation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기후위기] 대관령마저 뚫린 폭염에...野서 나온 ‘기후 적응’ 입법' 관심 산경e뉴스"
+    },
+    {
+      "id": "6",
+      "title": "Hampyeong County Mitigates Heatwave Damage to Floriculture with Climate Change-Adapted Temperature Reduction Technology - Seoul News Agency",
+      "original_title": "함평군, 기후변화 맞춤형 온도 저감 기술로 화훼류 폭염 피해 막는다 - 서울뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Sd29IaFFncl9DeW9LRUNaZXZ0UERqOHlxSXgtVXk5OTlpSXBZUWtmMTAwbjBZazFURHpTbEJZazJ5Rkl6dDJBYkQ1RU8xQVFGZ2RwbDgzYjVzSTNPMG5QRU5kQUxCTUxxWHV3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T10:04:09",
+      "description": "Hampyeong County Aims to Prevent Heatwave Damage to Floriculture Using Climate Change-Adapted Temperature Reduction Technology",
+      "summary": {
+        "phenomenon": "Hampyeong County is experiencing heatwave damage to its floriculture sector, attributed to climate change.",
+        "cause": "Floriculture is suffering heatwave damage as a consequence of climate change.",
+        "outlook": "Hampyeong County is actively working to prevent heatwave damage to floriculture by implementing climate change-adapted temperature reduction technologies."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hampyeong County",
+        "Climate change",
+        "Temperature reduction technology",
+        "Floriculture",
+        "Heatwave damage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "함평군, 기후변화 맞춤형 온도 저감 기술로 화훼류 폭염 피해 막는다 서울뉴스통신"
+    },
+    {
+      "id": "7",
+      "title": "[Aju Interview] Hong Moon-pyo, aT CEO and Four-Term Veteran, Pursues Agricultural Structural Reform and Establishes Dedicated Climate Change Department - Aju Economic Daily",
+      "original_title": "[아주초대석] 4선 중진 출신 홍문표 aT사장 농업 구조 개혁…기후변화 전담 부서도 구축 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45cVpDV3hScG5iWEp0RE9pWUFNRXlmbVpETVRnS3JLNWhkbThFbHVjTGxBeEJ2SUJ2NkRNcVQzUUdMQThWbG5aZC12bC0xQjhacnFuWkQ4U2xpZ9IBWEFVX3lxTFBBXzZIUUxXdWU3YTgwbF9OR0tUV2VwQktPMzhlbTNBZGxqMjZDRWlrWGZiTTB2UWNNMk55UG11QjA1WW85SExmSE82RmxwZVdia0VDQU5nZjI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T20:00:00",
+      "description": "[Aju Interview] aT CEO Hong Moon-pyo, a Four-Term Veteran, Initiates Agricultural Structural Reform and Establishes a Dedicated Climate Change Department",
+      "summary": {
+        "phenomenon": "The aT CEO is driving agricultural structural reform, demonstrating a commitment to addressing climate change.",
+        "cause": "This initiative is aimed at adapting to climate change.",
+        "outlook": "aT plans to establish a dedicated department for climate change to advance agricultural structural reforms."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hong Moon-pyo",
+        "aT CEO",
+        "Agricultural structural reform",
+        "Climate change",
+        "Dedicated department"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[아주초대석] 4선 중진 출신 홍문표 aT사장 농업 구조 개혁…기후변화 전담 부서도 구축 아주경제"
+    },
+    {
+      "id": "8",
+      "title": "DGIST Secures Core Photocatalyst Technology to Convert Greenhouse Gases into Future Fuels - Electronic Times",
+      "original_title": "DGIST, 온실가스를 미래 연료로 바꾸는 핵심 광촉매 기술 확보 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE53a1pCNHRIMmtZUWhIbUw1ejZ1VXk5TEFGb3p5dkgtY2lqQ3hmYkZGdmZ6TXp6a2lrazZJWnRHdzFQaFE4RDItN0toSU9RZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-07-27T22:37:35",
+      "description": "DGIST Acquires Core Photocatalyst Technology for Converting Greenhouse Gases into Future Fuels",
+      "summary": {
+        "phenomenon": "DGIST has successfully secured a core photocatalyst technology capable of converting greenhouse gases into future fuels.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This acquired technology is expected to enable the conversion of greenhouse gases into future fuels."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "DGIST",
+        "Greenhouse gas",
+        "Future fuel",
+        "Photocatalyst technology",
+        "Acquisition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "DGIST, 온실가스를 미래 연료로 바꾸는 핵심 광촉매 기술 확보 전자신문"
+    },
+    {
+      "id": "9",
+      "title": "Eight Out of Ten Entities Report Not Measuring Greenhouse Gas Emissions - v.daum.net",
+      "original_title": "열 중 여덟 \"온실가스 배출량 측정 안 해\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPTWxVbHBEZXFESkVSTUlacnlFOHB3UmthMnMwRVpLLXJabHpfaGM1YkphbjhsNzZjNVk4VEpwaENGWmgxb0txNXFzaXdMak0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T21:03:03",
+      "description": "Eight Out of Ten Entities Report No Measurement of Greenhouse Gas Emissions",
+      "summary": {
+        "phenomenon": "A recent finding indicates that eight out of ten entities are not measuring their greenhouse gas emissions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Greenhouse gas",
+        "Emissions",
+        "Measurement",
+        "Non-measurement",
+        "Entities"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "열 중 여덟 \"온실가스 배출량 측정 안 해\" v.daum.net"
+    },
+    {
+      "id": "10",
+      "title": "[Exclusive] Local Governments' 'Carbon Neutrality Implementation Assessments' Found Deficient; 90% of 'Normal Progress' Claims Lack Basis - Hankyoreh",
+      "original_title": "[단독] 기초단체들 ‘탄소중립 이행 평가’ 부실… ‘정상추진’ 90%가 근거 없어 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YTlAxcVFVa0t3dFpzeWktLThpYksyRmF5ZEM1S0lmSE1FY3puU0U2RTZHbnhkS3FjQUhZNEw3ZjRsZnhDem9NY3EyTXdWT3pBcmlxWTlOU09tWUdhUVl3TGs5VmZ3ZlNYWVo3Yg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T22:33:00",
+      "description": "[Exclusive] Local Governments' 'Carbon Neutrality Implementation Assessments' Found Deficient; 90% of 'Normal Progress' Claims Lack Basis",
+      "summary": {
+        "phenomenon": "An exclusive report reveals deficiencies in local governments' 'carbon neutrality implementation assessments,' with 90% of 'normal progress' claims lacking substantive evidence.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Local governments",
+        "Carbon neutrality",
+        "Implementation assessment",
+        "Deficiency",
+        "Lack of basis"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[단독] 기초단체들 ‘탄소중립 이행 평가’ 부실… ‘정상추진’ 90%가 근거 없어 한겨레"
+    },
+    {
+      "id": "11",
+      "title": "Yesan County, Visiting Senior Centers to Spread Carbon Neutrality Practices…Jointly Promoting Environmental Education and Volunteer Activities - Joongdo Ilbo",
+      "original_title": "예산군, 경로당 찾아 탄소중립 실천 확산…환경교육·봉사활동 함께 추진 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84R3hRYlpfVTUtOHdfSjZtZ3VwOC02a09za0ZraW93QzJ2MzA1TEgtLVlMZUNPVmxfZnk5SGFLVy1jc2NodVpNamF5OTM1dlhhazNaZi1tajQ4X25hc3J3UnptdXQtZkJZYjYtYg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T21:42:07",
+      "description": "Yesan County, Visiting Senior Centers to Spread Carbon Neutrality Practices…Jointly Promoting Environmental Education and Volunteer Activities Joongdo Ilbo",
+      "summary": {
+        "phenomenon": "Yesan County is visiting senior centers to promote environmental education and volunteer activities aimed at spreading carbon neutrality practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yesan County",
+        "Carbon Neutrality",
+        "Senior Center",
+        "Environmental Education",
+        "Volunteer Activities"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "예산군, 경로당 찾아 탄소중립 실천 확산…환경교육·봉사활동 함께 추진 중도일보"
+    },
+    {
+      "id": "12",
+      "title": "Kyungpook National University Presents Direction for Eco-Friendly Next-Generation MOF Technology…Anticipates Use as Carbon-Neutral Material - kyongbuk.co.kr",
+      "original_title": "경북대, 친환경 차세대 MOF 기술 방향 제시…탄소중립 소재 활용 기대 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10Vm5lek1xQ1NnbU9PTnpZUW9abDNKSDFxeGNaSHNhaTBMYllMUWhESHJDbEZVZ25PcU84SnF6dnpZVE1HdmsycFpHclU1Xy1iV3pid1M3OUFyOXpyYmNWaGdkSnIzd1A4VzJnM0VxTQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T09:51:29",
+      "description": "Kyungpook National University Presents Direction for Eco-Friendly Next-Generation MOF Technology…Anticipates Use as Carbon-Neutral Material kyongbuk.co.kr",
+      "summary": {
+        "phenomenon": "Kyungpook National University has presented the direction for eco-friendly next-generation MOF (Metal-Organic Framework) technology.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This technology is expected to be utilized as a carbon-neutral material."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Kyungpook National University",
+        "MOF Technology",
+        "Eco-friendly",
+        "Carbon Neutrality",
+        "Next-generation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경북대, 친환경 차세대 MOF 기술 방향 제시…탄소중립 소재 활용 기대 kyongbuk.co.kr"
+    },
+    {
+      "id": "13",
+      "title": "Namseoul University Successfully Concludes '2026 Cheonan City Carbon Neutrality Expert Instructor Training Program' - Newsband",
+      "original_title": "남서울대, ‘2026년 천안시 탄소중립 전문강사 양성과정’ 성료 - 뉴스밴드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85aVJteE9zYWRIYjFhWmhWQjIxNkFtMG8wRGZXOHM5blRDT3E5cDlLZTcwX1dzQXYwMlhGcEpkbEJYSl9LbWtlYzN2Y1k5aGRPLXVqcExnd0VpZjRXYVBTMWdBankxNnlN?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T11:34:59",
+      "description": "Namseoul University Successfully Concludes '2026 Cheonan City Carbon Neutrality Expert Instructor Training Program' Newsband",
+      "summary": {
+        "phenomenon": "Namseoul University has successfully completed the '2026 Cheonan City Carbon Neutrality Expert Instructor Training Program'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Namseoul University",
+        "Cheonan City",
+        "Carbon Neutrality",
+        "Expert Instructor",
+        "Training Program"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남서울대, ‘2026년 천안시 탄소중립 전문강사 양성과정’ 성료 뉴스밴드"
+    },
+    {
+      "id": "14",
+      "title": "NongHyup Bank Purchases 5,254 tons of Carbon Credits from Farmers - Nongmin Newspaper",
+      "original_title": "농협은행, 농업인 탄소배출권 5254ｔ 구매 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84bWlpRkQ1TVFXRjdjMlRJMFhCRmdobEhDUVVNQlN1Um9sa0FaelRVVndsM1JMUFRKR2JLb1NPb1hySjhfUkowd2JyMHVIaV9SMmYxdjZvejU3dw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T09:14:00",
+      "description": "NongHyup Bank Purchases 5,254 tons of Carbon Credits from Farmers Nongmin Newspaper",
+      "summary": {
+        "phenomenon": "NongHyup Bank has purchased 5,254 tons of carbon credits from farmers.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "NongHyup Bank",
+        "Farmers",
+        "Carbon Credits",
+        "Purchase",
+        "5254t"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "농협은행, 농업인 탄소배출권 5254ｔ 구매 농민신문"
+    },
+    {
+      "id": "15",
+      "title": "Giving New Life to Discarded Milk Cartons…Carbon Neutrality Message from Jinju Elementary Students - Dandy News",
+      "original_title": "버려지는 우유팩에 새 생명을…진주 초등학생들이 전하는 탄소중립 메시지 - 단디뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0dW1Pb1g0QVktdlRVZ1p0OFYtZEY3cC1kM3pkUWg5SjRKOTk5c1I4ZnBVc1dYWWRTWnNGb0kxNGp6aWxZTk5aRkxxcFZyemJQM0Etb3c4NWdLUURDUkcxRDVjRWphWGFidjZV?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T09:28:51",
+      "description": "Giving New Life to Discarded Milk Cartons…Carbon Neutrality Message from Jinju Elementary Students Dandy News",
+      "summary": {
+        "phenomenon": "Elementary school students in Jinju have conducted activities to convey a carbon neutrality message by utilizing discarded milk cartons.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Milk Cartons",
+        "Recycling",
+        "Elementary Students",
+        "Carbon Neutrality",
+        "Message"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "버려지는 우유팩에 새 생명을…진주 초등학생들이 전하는 탄소중립 메시지 단디뉴스"
+    },
+    {
+      "id": "16",
+      "title": "Eight Out of Ten 'Do Not Measure Greenhouse Gas Emissions' - Nate",
+      "original_title": "열 중 여덟 \"온실가스 배출량 측정 안 해\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VZTVMcTVObU1LVFpBazA4bU54ekFuREY5ZzJDRGVyb0VKSUxjUFZRUnh6Zng1d1dHdGFNbHFnN0dKWThkMmYxdElpWG1xbXg2YWVr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-07-27T21:02:00",
+      "description": "Eight Out of Ten 'Do Not Measure Greenhouse Gas Emissions' Nate",
+      "summary": {
+        "phenomenon": "It has been reported that eight out of ten individuals do not measure their greenhouse gas emissions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "열 중 여덟 \"온실가스 배출량 측정 안 해\" 네이트"
+    },
+    {
+      "id": "17",
+      "title": "Renewable Energy Subsidies Increase 77-fold in 12 Years - Kyunghyang Shinmun",
+      "original_title": "신재생에너지 보조금 지급액, 12년 새 ‘77배’ - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZbmgxZWRjMTFuWmZReGxWNXBzOURmcWJ5X3hhWWhLcUhMQUwwajNGR0hOa2NnMDJRWWgyWjNtYlVnMk9EcnVZaEoxOHR1N3RraVdaQVo2NE5tQdIBX0FVX3lxTFA5S09xbkdmMlliRjc1VzF5bDhCYXBjSE1GUEp2V0J1Tnc2T3E5SlFiZGdwR2o5eWJfM21nZnk2NHE0dHRZRjR3WVRWMm1RLWxJSVJfZWlCbnJHeW9aOElN?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T12:48:00",
+      "description": "Renewable Energy Subsidies Increase 77-fold in 12 Years Kyunghyang Shinmun",
+      "summary": {
+        "phenomenon": "The amount of renewable energy subsidies has increased 77-fold over the past 12 years.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Renewable Energy",
+        "Subsidy",
+        "Amount Paid",
+        "77-fold",
+        "12 Years"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "신재생에너지 보조금 지급액, 12년 새 ‘77배’ 경향신문"
+    },
+    {
+      "id": "18",
+      "title": "KDI: 'PPA Restrictions Should Be Eased to Expand Renewable Energy' - Maeil Labor News",
+      "original_title": "KDI “재생에너지 확충 위해 PPA 제한 완화해야” - 매일노동뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wYkZXZDcyQkJfYkZBQ2hvN2VCTm1wSkExbHJDbk5JcHJHRDNKS1lXMkIxSWxqUGRWM2t4UFAwbFZXeFFVZkF6alBwS0FGR0I0RTlMd09ObWtzaGZfRDVxMGtHSUNHdWZDRDUySk10M2I?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T21:30:04",
+      "description": "KDI: 'PPA Restrictions Should Be Eased to Expand Renewable Energy' Maeil Labor News",
+      "summary": {
+        "phenomenon": "The Korea Development Institute (KDI) has proposed that restrictions on Power Purchase Agreements (PPAs) should be eased to expand renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "KDI",
+        "Renewable Energy",
+        "PPA",
+        "Restriction Relaxation",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "KDI “재생에너지 확충 위해 PPA 제한 완화해야” 매일노동뉴스"
+    },
+    {
+      "id": "19",
+      "title": "'Power Grid Shortage, Biggest Obstacle to Renewable Energy Deployment' - Dong-A Ilbo",
+      "original_title": "“전력망 부족, 재생에너지 보급 가장 큰 걸림돌” - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnWnQ5N2xvRFh6Qm9GSERjOXh3R05RckRqdlluYzdxNGV4VjVZM01BcDNWdFFpZ2xjMFk5SlpOR0lvTWcwNUwxdXUyU0dQNUtJYTZXLWJXSUlTN0RzU0lVc0lpZ0lOcGE5ZkhBbjY4TkcxT1dJT3fSAWZBVV95cUxNTVh5U09MdE83YjFSNkhseGgzXzF4b3lhazFQVjVZbFdkd2xUZ0k1ai1CSTJLTTlaU2FYN2xfY3dEelJxTEVsa0lkNTZVdG1PT2I0c0xXSGF5Vkw5bExxeFNYOExoQ1E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T15:30:00",
+      "description": "'Power Grid Shortage, Biggest Obstacle to Renewable Energy Deployment' Dong-A Ilbo",
+      "summary": {
+        "phenomenon": "A shortage in the power grid has been identified as the biggest obstacle to the deployment of renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Power Grid",
+        "Shortage",
+        "Renewable Energy",
+        "Deployment",
+        "Obstacle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“전력망 부족, 재생에너지 보급 가장 큰 걸림돌” 동아일보"
+    },
+    {
+      "id": "20",
+      "title": "ABO Energy Acquires Onshore Wind Power Project Rights in Germany - 2news.co.kr",
+      "original_title": "ABO 에너지, 독일 육상 풍력 발전 사업권 획득 - 2news.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQanBzcUJOZ25WZEd4bGRqcVBIZHl3c01GTjFvM2E0eHVfcGhzY1dSREQ2T0FUZG12bXpZZzU3LXFQUktpX0lJR2thek9rUHJXaGRTVHNKY00zeE1nOGNiSnM5dmdRUTdX?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T20:32:49",
+      "description": "ABO Energy Acquires Onshore Wind Power Project Rights in Germany 2news.co.kr",
+      "summary": {
+        "phenomenon": "ABO Energy has acquired onshore wind power project rights in Germany.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ABO Energy",
+        "Germany",
+        "Onshore Wind Power",
+        "Project Rights",
+        "Acquisition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "ABO 에너지, 독일 육상 풍력 발전 사업권 획득 2news.co.kr"
+    },
+    {
+      "id": "21",
+      "title": "Linde Signs Renewable Energy Power Purchase Agreements in Three Regions - Investing.com Korea",
+      "original_title": "린데, 3개 지역에 재생에너지 전력 구매 계약 체결 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84LXhCMFFQWFNyS2otZ3A1U2YyUkZRVVJ0ZzZQUm5KXzAzN0xONVp5akVmR1JNZUhvNE9uYlptdmJYLURhZy05R3lYQUdaRGdaMTVhWVh6V0FQYlRNUFk1Vl9DeHd3MnVsd0lWeEh0Q28?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T10:13:00",
+      "description": "Linde Signs Renewable Energy Power Purchase Agreements in Three Regions Investing.com Korea",
+      "summary": {
+        "phenomenon": "Linde has signed renewable energy power purchase agreements (PPAs) in three regions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Linde",
+        "Renewable energy",
+        "Power purchase agreement",
+        "Signed",
+        "Three regions"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "린데, 3개 지역에 재생에너지 전력 구매 계약 체결 Investing.com 한국어"
+    },
+    {
+      "id": "22",
+      "title": "“Achieving 2030 Renewable Energy 100GW Target Impossible at Current Pace” - Busan Ilbo",
+      "original_title": "“지금대로는 2030년 재생에너지 100GW 목표 달성 불가” - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXNFFJUXVOOFZJaEFHSnVMd2IybDZMaGN1NGl2RW4zNlRuRm5meHhuNV9IYkhVZmdBc0dBTmRWN2tjaDdqN19uMWZ0emhQSHZuajQ2cjF2X0NlOTV2ZFdqOGwyQ3pWLTVNRUVBSTFzRkhfdDNW?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T09:09:13",
+      "description": "“Achieving 2030 Renewable Energy 100GW Target Impossible at Current Pace” Busan Ilbo",
+      "summary": {
+        "phenomenon": "At the current pace, achieving the 100 GW renewable energy target by 2030 is projected to be impossible.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "2030",
+        "Renewable energy",
+        "100 GW",
+        "Target unachievable",
+        "At current pace"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“지금대로는 2030년 재생에너지 100GW 목표 달성 불가” 부산일보"
+    },
+    {
+      "id": "23",
+      "title": "Achieving 2030 Renewable Energy Target Impossible Without 3.6x Solar Acceleration - NewsN Yeonhap",
+      "original_title": "태양광 3.6배 가속 없이는 2030 재생에너지 목표 달성 불가능 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5SUy05cHpIV1c4ZlAzd1duVXZqMVhBWF9xY2l3UU9ROW1zRlpyU3JHMDFNOEE5VmtiNEZpZ0VSOVI4T0hfaV8xVHRn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T21:15:39",
+      "description": "Achieving 2030 Renewable Energy Target Impossible Without 3.6x Solar Acceleration NewsN Yeonhap",
+      "summary": {
+        "phenomenon": "To achieve the 2030 renewable energy target, solar power generation needs to accelerate by 3.6 times its current rate.",
+        "cause": "Not mentioned in the article",
+        "outlook": "At the current pace, achieving the 2030 renewable energy target is expected to be impossible."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Solar power",
+        "Renewable energy",
+        "2030 target",
+        "Acceleration",
+        "Impossible"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "태양광 3.6배 가속 없이는 2030 재생에너지 목표 달성 불가능 뉴스N연합"
+    },
+    {
+      "id": "24",
+      "title": "AI Data Center Power Shortages: Government Seeks Breakthrough with Renewable Energy and SMRs - NewsN Yeonhap",
+      "original_title": "AI 데이터센터 전력난, 정부 재생에너지·SMR로 돌파구 찾는다 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5Wa3gtcUVmUzVUb1Rwak9iV2p4NnJpM3BaOS1waWdoTE1LS2h0TktGdmNGQ05QLXpCS2NlLVE5dDhCa1FESnM2UnZn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-28T00:01:09",
+      "description": "AI Data Center Power Shortages: Government Seeks Breakthrough with Renewable Energy and SMRs NewsN Yeonhap",
+      "summary": {
+        "phenomenon": "AI data centers are experiencing power shortages.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The government is exploring solutions to the AI data center power shortages by utilizing renewable energy and SMRs (Small Modular Reactors)."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "AI data center",
+        "Power shortage",
+        "Government",
+        "Renewable energy",
+        "SMR (Small Modular Reactor)"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI 데이터센터 전력난, 정부 재생에너지·SMR로 돌파구 찾는다 뉴스N연합"
+    },
+    {
+      "id": "25",
+      "title": "Renewable Energy Stocks Drop 20% Amid 'Oil Price Stabilization'... Experts Offer 'A 20-Year-Old Story' Perspective: Economy - JaeKyung Ilbo",
+      "original_title": "'유가 진정'에 재생에너지 주가 20% '뚝'… 전문가 「20년 전 이야기」 일침 : 경제 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBwcERkS3JRUVUyV05MYXQtWTR6M3poUWhKTWIyODJFVlZEeWNPQlhPWUxtdnZ4S0NEM1pnelJzd3hQSzAzOXRweTl3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-07-27T23:21:00",
+      "description": "Renewable Energy Stocks Drop 20% Amid 'Oil Price Stabilization'... Experts Offer 'A 20-Year-Old Story' Perspective: Economy JaeKyung Ilbo",
+      "summary": {
+        "phenomenon": "As oil prices stabilized, renewable energy-related stock prices fell by 20%.",
+        "cause": "The stabilization of oil prices caused the decline in renewable energy stock prices.",
+        "outlook": "Experts are likening the current situation to 'a story from 20 years ago,' offering a different perspective on the long-term outlook for the renewable energy market."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Oil prices",
+        "Renewable energy",
+        "Stock prices",
+        "Experts",
+        "Pointed remark"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'유가 진정'에 재생에너지 주가 20% '뚝'… 전문가 「20년 전 이야기」 일침 : 경제 재경일보"
+    },
+    {
+      "id": "26",
+      "title": "Daytime Highs of 38°C Heatwave Continues... Showers Centered in Central Region",
+      "original_title": "낮 최고 38도 폭염 지속…중부 중심 소나기",
+      "url": "https://www.khan.co.kr/article/202607280727001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-27T22:27:00",
+      "description": "On July 27, a heatwave affected the entire nation, with Seoul's daytime high reaching 33°C. Thermal camera footage of Gwanghwamun Intersection showed hot surfaces in red and cooler areas like forests and the sky in blue. Heatwave warnings were issued for most regions, and the sweltering heat is forecast to persist on July 28, according to the Korea Meteorological Administration.",
+      "summary": {
+        "phenomenon": "On July 27, 2026, a heatwave gripped the nation, with Seoul's daytime high reaching 33°C, and heatwave warnings were issued for most parts of the country.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Korea Meteorological Administration (KMA) has forecast that the sweltering heat will continue across most regions of the country on July 28."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Highest temperature",
+        "Thermal camera",
+        "Gwanghwamun",
+        "Korea Meteorological Administration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서울 낮 최고기온이 33도까지 오르는 등 전국적으로 폭염이 기승을 부린 27일 열화상 카메라로 서울 광화문 사거리를 촬영했다. 온도가 높은 광장 바닥은 붉게, 상대적으로 온도가 낮은 숲과 하늘은 푸른색을 띠고 있다. 2026.7.27. 정지윤 선임기자전국 대부분 지역에 폭염특보가 내려진 가운데 화요일인 28일도 무더위가 이어지겠다.28일 기상청에 따르면 당···"
+    },
+    {
+      "id": "27",
+      "title": "Suffocating Heatwave Nearing 40°C... 302 Heat-Related Illnesses in Five Days",
+      "original_title": "‘40도 육박’ 숨 막히는 폭염…온열질환자 닷새간 302명",
+      "url": "https://www.khan.co.kr/article/202607272148015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-27T12:48:01",
+      "description": "The government has elevated the disaster alert to its highest level and activated the Central Disaster and Safety Countermeasures Headquarters. On July 27, amidst continuous scorching heat, thermal camera images contrasted the red-hot asphalt and vehicles at Gwanghwamun Intersection with the cooler, blue-toned dense forests of Baeksasil Valley.",
+      "summary": {
+        "phenomenon": "On the 27th, a continuous scorching heatwave pushed temperatures close to 40°C, resulting in 302 heat-related illnesses over five days. In response, the government raised the disaster alert level to its highest and activated the Central Disaster and Safety Countermeasures Headquarters.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "정부, 재난 위기 경보 ‘최고 수준’ 상향…중대본 가동붉은 아스팔트 vs 푸른 숲길 연일 불볕더위가 이어진 27일, 같은 시간대에 열화상 카메라로 촬영한 서울 광화문 사거리(왼쪽)와 종로구 백사실계곡 사진이다. 온도가 높은 곳은 붉게, 상대적으로 낮은 곳은 파랗게 표시되는 열화상 화면에서 뜨겁게 달궈진 자동차와 아스팔트는 붉게 이글거리지만, 울창한 숲이 열···"
+    },
+    {
+      "id": "28",
+      "title": "Renewable Energy Subsidies Increase 77-fold in 12 Years",
+      "original_title": "신재생에너지 보조금 지급액, 12년 새 ‘77배’",
+      "url": "https://www.khan.co.kr/article/202607272148005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-27T12:48:00",
+      "description": "The Korea Development Institute (KDI) states that the financial burden from Renewable Energy Certificate (REC) subsidies has increased 77-fold over the past 12 years. KDI recommends moving beyond subsidy-focused policies to enhance renewable energy deployment efficiency through grid expansion, storage facility upgrades, differentiated regional electricity rates, and competitive bidding.",
+      "summary": {
+        "phenomenon": "Over the past 12 years, the amount of Renewable Energy Certificate (REC) subsidies has increased 77-fold, leading to a significant increase in financial burden.",
+        "cause": "This is due to the continued implementation of subsidy-centric policies aimed at expanding renewable energy deployment.",
+        "outlook": "The Korea Development Institute (KDI) has suggested moving away from subsidy-centric policies and enhancing the efficiency of renewable energy deployment through measures such as expanding transmission grids and storage facilities, implementing differentiated electricity rates by region, and introducing competitive bidding."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable energy",
+        "Subsidies",
+        "Financial burden",
+        "KDI (Korea Development Institute)",
+        "Efficiency"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "KDI “송전망 확충 등 효율 높여야”신재생에너지 공급인증서(REC) 보조금에 따른 재정 부담이 지난 12년간 77배 증가한 것으로 나타났다.보조금 중심 정책에서 벗어나 송전망·저장설비 확충과 지역별 전기요금 차등제, 경쟁입찰 도입 등을 통해 신재생에너지 보급 효율성을 높여야 한다는 국책연구원의 제언이 나왔다.한국개발연구원(KDI)의 정성훈 선임연구위원·임···"
+    },
+    {
+      "id": "29",
+      "title": "Urban Forests Cool Scorching Heat and Tropical Nights... Lowering Daytime by 1.8°C, Nighttime by 1.6°C",
+      "original_title": "불볕·열대야 식히는 도시숲…낮 1.8도, 밤 1.6도 낮춰",
+      "url": "https://www.khan.co.kr/article/202607272141005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-07-27T12:41:00",
+      "description": "The National Institute of Forest Science (NIFoS) compared temperatures in Seoul's urban areas and various urban forest types, finding that urban forests maintain temperatures more than 1°C lower than the city center during summer. This demonstrates the significant heatwave mitigation effect of urban forests, with temperatures up to 1.8°C lower in urban forests.",
+      "summary": {
+        "phenomenon": "The National Institute of Forest Science (NIFoS) compared temperatures in Seoul's urban areas and various urban forest types. Observations revealed that urban forests, including deciduous and mixed forests, maintain temperatures more than 1°C lower than the city center during summer, demonstrating a significant heatwave mitigation effect.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Urban forest",
+        "Heatwave",
+        "Tropical night",
+        "Temperature",
+        "National Institute of Forest Science"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "산림과학원, 서울 도심 기온 비교활엽수·혼효림 폭염 완화 큰 효과여름철에는 도시숲이 도심보다 1도 이상 낮은 기온을 유지하는 것으로 나타났다. 도시숲의 폭염 완화 효과를 보여주는 결과다.산림청 국립산림과학원은 서울 도심과 유형별 도시숲의 여름철 기온을 관측한 결과 도시숲 기온이 도심보다 최대 1.8도 낮은 것으로 나타났다고 27일 밝혔다.산림과학원은 도시숲···"
+    },
+    {
+      "id": "30",
+      "title": "Will climate change make plague-filled NYC summers like this one the new norm? - Gothamist",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3dPSDBGQjhFU2RZdEI4XzVEVExKNGZVSUVmUS1tNW42ZXJLcjV3MlpwMXdsVnR6bExxVlFDcElqdGNYVjctbjFaSnVadS1lTHNWZ1ljZDBrSFNucE5aV2ZsZ0JuemRxMzdKV2U3WWlULWplS0hKSnozX3Y4THhpYWRWd0E1dU1EamdxZUlOWENTQXk0YU50X1BnZXNQRjRXSTB4Si10OA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T19:52:00",
+      "description": "Will climate change make plague-filled NYC summers like this one the new norm? Gothamist",
+      "summary": {
+        "phenomenon": "Will climate change make plague-filled NYC summers like this one the new norm? Gothamist",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Will climate change make plague-filled NYC summers like this one the new norm? Gothamist"
+    },
+    {
+      "id": "31",
+      "title": "“Frontlines of a Burning World”: Climate Change-Fueled “Megafires” Sweep Europe & North America - Democracy Now!",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RU1FcUM0UGVnS0xHdTZJcV8xMFVIT184UER1LWZmaEVCLWVyQXJkb0RDVGZOeC1zcVlOa1lVWlpsTnpvQzFjYkNXb0laZ0dJWXFfUE1pUTh5Yk9TY2Vfcy11SGtFb00?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T12:00:00",
+      "description": "“Frontlines of a Burning World”: Climate Change-Fueled “Megafires” Sweep Europe & North America Democracy Now!",
+      "summary": {
+        "phenomenon": "Due to climate change, large wildfires, referred to as 'megafires,' are sweeping across Europe and North America.",
+        "cause": "Climate change has been identified as a contributing factor to these large-scale wildfires.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "“Frontlines of a Burning World”: Climate Change-Fueled “Megafires” Sweep Europe & North America Democracy Now!"
+    },
+    {
+      "id": "32",
+      "title": "토탈에너지스, 프랑스 법원의 기후 변화 사업 적응 명령에 항소 예정 - 로이터",
+      "original_title": "TotalEnergies to appeal French court decision ordering it to adapt its business to climate change - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUgwcFB5U1RhSXlrYTBLMldmcV9WUjEtTEZiRXJ2V1ROekxOd2l3RzVJYWZXQWxuMjZhcUhyT0s0SDdHVkxsVEc3YU9RMmVmSGdMV2tqNWtGbVlVb0otRHNfZ05mTWVqVTB2ZFVHTUdhdjhxekpyYXBoaFhEck95N2xjV3pmd1lLQWNuWFlsd0Vtamt3QTFqSjRoVlFrbDYtSzNJbHBna0l5TEdjV2o5eE0ycmk4R1NreHRta3hSSXlaLXVlbXdn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T14:49:02",
+      "description": "TotalEnergies to appeal French court decision ordering it to adapt its business to climate change Reuters",
+      "summary": {
+        "phenomenon": "A French court has issued a decision ordering TotalEnergies to adapt its business operations to climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "TotalEnergies plans to appeal the French court's decision."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "TotalEnergies",
+        "appeal",
+        "French court",
+        "business adaptation",
+        "climate change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "TotalEnergies to appeal French court decision ordering it to adapt its business to climate change Reuters"
+    },
+    {
+      "id": "33",
+      "title": "독자 투고: 기후 변화, 상원 선거, 서평, '워크 이데올로기', 트럼프의 계획 - 스타 트리뷴",
+      "original_title": "Readers Write: Climate change, Senate race, book reviews, ‘woke ideology,’ Trump’s plans - Star Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmI2eER4T08yOHBEcWRyQzlHVm84ZEJwdDEya1RFNmQyT19wSm1NaERkd3NnS3VIclJvOWNuc1hFcVY2VTBwcDVtVlNYYzZaT2R6enhpTlZ2RU5GZVBhUjBjMUNmeXhMX3daazFXbTUzazVZcEJOZGo2QnpjN0FFRWRLR1FzTm42RzhqbDloejhTckFaS2RZblo3YzdYcXl1MGR3eE8ybWlCd3AyZmRyZkdTNjZjVTIwY1E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T23:00:00",
+      "description": "Readers Write: Climate change, Senate race, book reviews, ‘woke ideology,’ Trump’s plans Star Tribune",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "climate change",
+        "Senate election",
+        "woke ideology",
+        "Trump's plans",
+        "reader submissions"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Readers Write: Climate change, Senate race, book reviews, ‘woke ideology,’ Trump’s plans Star Tribune"
+    },
+    {
+      "id": "34",
+      "title": "유럽 물고기, 예상치 못한 방식으로 기후 변화에 적응 중",
+      "original_title": "European Fish Are Adapting to Climate Change in Unexpected Ways - Inside Climate News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YZmM0dDc5blhtdzd2Y19HY2FlR0NramRyc1RBcEhEbzZycl9pVEtMMW1WanRhMGxaam5oNDY0ZjAxMDE3YVE4RTIwWXlNYkRlZ3lNYnhUUVRWdFcyZjNvTUZpWnZmTFl1TG0zdE9mZHB3d1p0VGdKNms4VG1fRkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T17:03:42",
+      "description": "European Fish Are Adapting to Climate Change in Unexpected Ways Inside Climate News",
+      "summary": {
+        "phenomenon": "European fish species are adapting to climate change in unexpected ways.",
+        "cause": "Climate change is driving these adaptations in fish populations.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "European fish",
+        "climate change",
+        "adaptation",
+        "unexpected",
+        "ways"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "European Fish Are Adapting to Climate Change in Unexpected Ways Inside Climate News"
+    },
+    {
+      "id": "35",
+      "title": "미국, 기후 변화에 대한 공통점을 찾을 수 있을까? 이 전 공화당 의원은 그렇다고 생각한다.",
+      "original_title": "Can America Find Common Ground on Climate Change? This Former GOP Lawmaker Thinks So - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMEEwT0pJcm9zZGJ2NFpYSTJPakgwa281a2thQkhqSi1VNGFyZk1lb0l3QUFBb25qQktzOWYtYV9meTBfZERJT0JIV3kwMlUwTHFnMk9HTzlsMTVEZ01HSVFtWVphWUR3SXhwNENGZ3pBSW9SSmxrRDBLN0t0S09vdk42T2YxWUdzbjBDYmVxLWZuU2lBVmJLZjh0Xzk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T22:43:23",
+      "description": "Can America Find Common Ground on Climate Change? This Former GOP Lawmaker Thinks So Yahoo",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "A former Republican lawmaker believes that the United States can find common ground on climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "United States",
+        "climate change",
+        "common ground",
+        "Republican Party",
+        "lawmaker"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Can America Find Common Ground on Climate Change? This Former GOP Lawmaker Thinks So Yahoo"
+    },
+    {
+      "id": "36",
+      "title": "윌리엄 왕자, 이례적인 개인 메시지로 기후 변화의 위험 경고 - 타운 앤 컨트리 매거진",
+      "original_title": "Prince William Warns of Dangers of Climate Change in Rare Personal Message - Town & Country Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXJ3WU81UmktamZVQzBHOVQ2TVgyVC1CRWxuVUFueTZnYl9uenFHVzlCR0lEbzNWVm9JckhQS29XdURXMDRySllqLVlNYXMxYUkzT0pSRDRZaElmNWZaOUdrQVlaN0Qyc3FybDZQXy1Ib3Y1bFBybzlka0JNYjNwZ09rdDVvdzBLYlU1VTE1Vm5HWjhnMzNxZ1R5UmF6ZF9PV3NuR1pUS2tnWXk4MDRVRWdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T18:04:00",
+      "description": "Prince William Warns of Dangers of Climate Change in Rare Personal Message Town & Country Magazine",
+      "summary": {
+        "phenomenon": "Prince William has issued a rare personal message warning of the dangers of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Prince William",
+        "climate change",
+        "warning",
+        "dangers",
+        "personal message"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Prince William Warns of Dangers of Climate Change in Rare Personal Message Town & Country Magazine"
+    },
+    {
+      "id": "37",
+      "title": "How climate change shaped the 2026 World Cup - Climate Central",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGFJQ1lHNGt5M2FGdGFNLUZsQU1NbHZ4QVZZczBHdzd4aktPbEVyT01RUERteENzZ2JFeDdXdTByWVJ6S09va0YxQnJMWHJCYVJ0U2wwd0dNMVZfOUhweUd2Z1BnQkpSVE9XYUxSaEpwdUdjcWp0d3dXYzdfcl9wY1ZOckFYbG1NaW9wckVn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:42:43",
+      "description": "How climate change shaped the 2026 World Cup Climate Central",
+      "summary": {
+        "phenomenon": "Climate change has impacted the 2026 World Cup.",
+        "cause": "Climate change played a role in shaping the conditions for the 2026 World Cup.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change shaped the 2026 World Cup Climate Central"
+    },
+    {
+      "id": "38",
+      "title": "아이다호 당국, 기후 변화로 수도 요금 인상 경고",
+      "original_title": "Idaho officials warn climate change could raise water bills - Idaho Business Review",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDI4a0JzU2tfU0pCYzc5aldoX2JlNjRqVG9NazJjMC0tcEVKYmQ2ZExBaTlFalZkTUR4U3FCNnQ2RXJ2MjlEUEluNG5VTjM5T0I2T2lJSmp0Wk9INVhfanZXczN1cm5PYkxWcUVTSnJSS1hWM1NqZkFxRTFBODFhak02OFFORWtHaHVhS3FzOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:32:35",
+      "description": "Idaho officials warn climate change could raise water bills Idaho Business Review",
+      "summary": {
+        "phenomenon": "Idaho officials have warned that water bills could increase due to climate change.",
+        "cause": "Climate change has been identified as a potential cause for rising water bills.",
+        "outlook": "Climate change could lead to an increase in water bills in Idaho."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Idaho",
+        "climate change",
+        "water bills",
+        "warning",
+        "officials"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Idaho officials warn climate change could raise water bills Idaho Business Review"
+    },
+    {
+      "id": "39",
+      "title": "기후 변화가 쌀 생산에 미칠 수 있는 영향 - KPTV",
+      "original_title": "How climate change could be affecting rice production - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjJ0YWNXc2pXdUNaQ2ZFbU95Tmo1MzlKVVhPUEJCMDU0d2xyY0RGRUlhajNWYXVKT3VxcDc2aXVxS0FnNHBKNkktV2FaenRVNjFPUlhmTVdiZzUycElXblJwOHQ5b0dhMDYzSkNyaXJhYWowZDJWcHNsS2tld0xQa3c5UmZaTWl6VkJpZ1llb0gydEJRU3RZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T16:47:00",
+      "description": "How climate change could be affecting rice production KPTV",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Climate change has been presented as a potential factor affecting rice production.",
+        "outlook": "Climate change could impact rice production."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "climate change",
+        "rice production",
+        "impact",
+        "food security",
+        "agriculture"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change could be affecting rice production KPTV"
+    },
+    {
+      "id": "40",
+      "title": "기후 변화가 폭염, 극한 폭풍 또는 산불을 악화시켰는지 과학자들은 어떻게 알까?",
+      "original_title": "How do scientists know if climate change made a heat wave, extreme storm or wildfire worse? - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTEJ4TjZCODBaTldLWWJGaGMwZnhJdlJ5RFd5Y1BRSnlDSm9IRHZBZU4yOFNuUE03cFJHem9IaFZxWktBUW1xdWVCMmE4dkJOdnJ2VElXcUdkVWRBbzd6SmtIR19fZFVSV0VWckVqNzRLZ2htNHhuUmh3dlpGR0NnVlNB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T15:00:10",
+      "description": "How do scientists know if climate change made a heat wave, extreme storm or wildfire worse? Phys.org",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "climate change",
+        "extreme weather",
+        "scientific analysis",
+        "heatwave",
+        "worsening"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How do scientists know if climate change made a heat wave, extreme storm or wildfire worse? Phys.org"
+    },
+    {
+      "id": "41",
+      "title": "Taxpayer funds used in climate change research that detractors have criticized - themercury.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdHJPdnpzMDdGeExueU1EQ21vS09nbjRmY29jM2xmUS03b2xoUFEteHdaeXdjUFJKT01ISFRkVXE3aW9HWDYwLUpqb3ZwQUtwcFBMakxSRk92MDhkbXJYam95MVlHNDFHMnZGT3dORHJEVy1ZNm05aURQUi1LUE9uNDA0TWluOXVkQ2xtckpOMXU3NFlMUmNSNVFVNkNESll5WFhVUjYtSGFtZWFjWHVsT1BRenBwRmlMOG5oVXZzRTcxMEtpajMwT0dWNDNVYlBWR1UycnpzZld3STNOVk1nTV9ybU9yYUdDaG5IZWQ4aWo4NFBEYmxJWg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized themercury.com",
+      "summary": {
+        "phenomenon": "Taxpayer funds were used in climate change research criticized by detractors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized themercury.com"
+    },
+    {
+      "id": "42",
+      "title": "기후 변화가 전염병 확산을 가속화하고 있다",
+      "original_title": "Climate change is making infectious diseases spread faster - ThinkLandscape",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2VKQVNMdFY0c3ZqTHhLY1JueE5YVlhZczUyRXN2QVB6R1ZENXVrN1E1SWEwSDRPTFdjWUJWaXhjcVQzNHNGT3pUTjM4X3FGc05pcEJyRGRyUy01Tkpxcy15Uk5ocFpUQTRfZG9GS0VZSGdOaUJ6QnpudXFVdEZBd2x4VHZnUEhUUnVXNHJiUzd3WmtX?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T13:38:41",
+      "description": "Climate change is making infectious diseases spread faster ThinkLandscape",
+      "summary": {
+        "phenomenon": "Climate change is causing infectious diseases to spread faster.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Infectious disease",
+        "Spread",
+        "Infectious disease",
+        "Health"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is making infectious diseases spread faster ThinkLandscape"
+    },
+    {
+      "id": "43",
+      "title": "저고도 구름 손실이 지구 온난화를 증폭시킨다고 시뮬레이션이 시사한다",
+      "original_title": "Low-level cloud loss amplifies global warming, simulations suggest - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55bXBnYXV2dXRyU0tBaW5DYk9ZdnhDVHZxQ1dRQjItbjB0aXRQb0lKUDI3dWo1LW9oenpQTzJtQVBqczhXYVY3T2l1MFJDLVJIQkNyLXJoRmdCY1RsTHFOX3BHMXZ1VVZPNmExWk15eXRkcWxWWnh4SW9hWWg5Rnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T17:00:01",
+      "description": "Low-level cloud loss amplifies global warming, simulations suggest Phys.org",
+      "summary": {
+        "phenomenon": "Simulations suggest that the loss of low-level clouds amplifies global warming.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Low-level clouds",
+        "Cloud loss",
+        "Global warming",
+        "Amplification",
+        "Simulation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Low-level cloud loss amplifies global warming, simulations suggest Phys.org"
+    },
+    {
+      "id": "44",
+      "title": "납세자 자금, 비판받는 기후변화 연구에 사용 - 지역 신문 그룹",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - Community Newspaper Group",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNGE3dkgwSFJGbEc5b1hRUzhIaVhwV2xIR1VGVGh3WTU1TGpQbW1PUEkxaTZnZ3VZbDhOQ0xMdzRiNEpJVEN5dG5BckYtQjhqWE54OGFmV004bDhIdG9TMUM2UXFieEdDdUh1YkVPbFo0UFZBUF9MbjhFTk14UzBwbUp2b3F6dGxjQnJPbzFGdVh3Zkg5SDIzUjRWVV9OdmhvZ2NuRTNiTDlqRF9fRldERFdlODgzYUtCRHZPU1kxZVdDQ2lTdHRZc1FuY1N6UEtsSmFxQTlXVms1OWpVOUEtNmlDZTltUS1GZU1KMWNXTXpLaU5jZWdLVG5BR1ZBbzlJVFgzWTRLVmdoOGtR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized Community Newspaper Group",
+      "summary": {
+        "phenomenon": "Taxpayer funds were used in climate change research criticized by detractors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer",
+        "Funds",
+        "Climate change",
+        "Research",
+        "Criticism"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized Community Newspaper Group"
+    },
+    {
+      "id": "45",
+      "title": "How storytelling can help articulate emotions that evolve as the climate changes - The Conversation",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFdrX21ZNUdsbmFlS1JkUVMybGc5SkYyVXQ0UFd1Si16WW5EWXYtYWcyTkNJMDgwODhkVTE0czFUeWIyX0lLTEprcklZbk5OT2YzT3ZKTHhQcV80N010bG1fS0Q5aElSaVBLcGF4NnNINmdod00tMEtRcDhycVUxbGU4Y0NTN1ZhTy1jQ1dzc2k4QTBIZVhGclJiUmYyNjRKSl8wUjJBWXNrdFZtN3BLWVRvaDU0Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T12:16:49",
+      "description": "How storytelling can help articulate emotions that evolve as the climate changes The Conversation",
+      "summary": {
+        "phenomenon": "Storytelling can help articulate emotions that evolve as the climate changes.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How storytelling can help articulate emotions that evolve as the climate changes The Conversation"
+    },
+    {
+      "id": "46",
+      "title": "비판받는 기후 변화 연구에 납세자 자금 사용 - 지역 신문 그룹",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - Community Newspaper Group",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPQjFJemVjWXpkbXNwR2ZNa1pTUDNWS0p5ai1OZGVya1I3eHNCZnlKSWg0SzJ5TjFmWmREUjhGTG9nU3h0Y3VjTFlNQkI2bENabWgya1ZHeTRNOUExR2tmN0IxaGNFWDNsMUdYREpYenlnUHBHa3FYN1VNQlc0Uk9EV2h0cUFfWHZub0s0a0pMSnVfVHg0WUNDUmRZeVBhQ3dLVlVMSk9jWXAzSFQwRVROVUYyZldicWJMZmVnRXNyNnBDRElweDl1ZGV4X094YmNIRHNBdlBOVVJZZ19jOHZwdm9vQ0tPcFhPUl9TTElLUnVXMWpMVHJFbFlmaTk5bG50VXRyd3d5MkprOHB0WDY4YThaaG85aVBhTVczTVZKQ2pZS3RiNS04OGNKX1VGbjg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized Community Newspaper Group",
+      "summary": {
+        "phenomenon": "Taxpayer funds were used in climate change research criticized by detractors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer",
+        "Climate change research",
+        "Criticism",
+        "Funds",
+        "Community newspaper"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized Community Newspaper Group"
+    },
+    {
+      "id": "47",
+      "title": "납세자 자금, 비판자들이 비난한 기후 변화 연구에 사용 - 더 블랙 크로니클",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - The Black Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUldMS3ZHeDN2bXB5NjEwdk41SzZIbHJlVm9aQjZNb3puY1AxZ1lSQzlTSWE1S1NJMTZiOXJDcHdhcjlVSUI5SVBFcF9lVk4tMVlIUVZGcnNxSVhCTkNnS2dFQlFGaWhwM2h5RWpSMkR6UHFFbEh5eUdpcHUzWVQ3VHVUR0lEY29jQ3JVcFRnSWR1RkZldEYxYTJfVXdVM0J3VXR3aUJOTUF1VS1GTExPRU5BQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T23:43:29",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized The Black Chronicle",
+      "summary": {
+        "phenomenon": "Taxpayer funds were used in climate change research criticized by detractors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer",
+        "Climate change",
+        "Research",
+        "Criticism",
+        "Funds"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized The Black Chronicle"
+    },
+    {
+      "id": "48",
+      "title": "지구 온난화로 열대종, 열적 한계에 다다르며 안전 마진 축소",
+      "original_title": "Tropical species near thermal limits as global warming compresses safety margins - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2M2xxTE5veTNMdEtPVUFmLWQwN0cyZE5sU1RsMThoT0ljdmRtdVdoRE5iY3ZyWnNIMllVVmZmQV90ZWZIcUgtYnlNMUNfaGlXdzlIYjZ5dVhkdVVIUFVFdGpSZnZOaU84eDZ2VFpGWGhoX1ZKNVJ3UmtFMDNsZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T23:20:04",
+      "description": "Tropical species near thermal limits as global warming compresses safety margins Phys.org",
+      "summary": {
+        "phenomenon": "Global warming is causing tropical species to near their thermal limits, compressing their safety margins.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Tropical species",
+        "Thermal limits",
+        "Global warming",
+        "Safety margin",
+        "Survival threat"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Tropical species near thermal limits as global warming compresses safety margins Phys.org"
+    },
+    {
+      "id": "49",
+      "title": "'Little Great Island' teaches the value of community in the face of climate change - Mount Desert Islander",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU0xTbkhoZWVYVk9SQW02bkVGS0dwdG5LeFZXYlZvZkFCN1duMFYtbkxUMEZtUHpLUmJNNDd2emdacTB2bDNiOWdfUkQ2Zlc3Q1BFWHpOTmFvY09GQnByYjRmaHQtT1VxOF92WTAtN3RocEFtV1ZBXzBOUWp0OWV3R1pIVU94MkFxa2ZObmFLbklLNnRtaVNFZWhWNTdfcXBXSS1yWGpUVEZweFJ0MVdHc0NBR1NIQVJ6WlQ5SFg3Y0VkbjhHUGhnTmhHTkdhM3J5Mm15MjVyRk1YNGF4WGlETC1xdEtDQ3pDNS1UNzdzczlUdDRkRDRUdkFkdXUtb2JuVHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T14:44:00",
+      "description": "'Little Great Island' teaches the value of community in the face of climate change Mount Desert Islander",
+      "summary": {
+        "phenomenon": "'Little Great Island' is teaching the value of community in the face of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "'Little Great Island' teaches the value of community in the face of climate change Mount Desert Islander"
+    },
+    {
+      "id": "50",
+      "title": "납세자 자금, 비판론자들이 비판한 기후 변화 연구에 사용 - mydailyrecord.com",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - mydailyrecord.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNTXgtOVV6MnRQQ2RVSUo3WTFfaHVKalBEZkRxRllYc3VQdVN5b29Edl9jb0ZEYVZCWldXV3dMRk9KNEFfb1ZRTTQ0enRFczF5ekJvZ241R0trOF81VDZxM1RMME1qbURfcXdZOC1EeVVBbzRBZ0ktSDI5UlpjbUlmaENSellUWXFLRXcwVENOTVJGSGFXejlKMmk0elNfR0JYMnh1UFNhWHh0SHFQb3NjSlFuOVIwN0NyS3Jjd2hubDNOUlRqYWtBRDlmQ09HMnVDUUgtTVFHQk1Nc3h2ZVc2LS1SZDV0bldvTHY4ZGEyZkZObHg2TDVZc29uVkNBZ2I1Mmc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized mydailyrecord.com",
+      "summary": {
+        "phenomenon": "Taxpayer funds were used in climate change research criticized by detractors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer funds",
+        "Climate change research",
+        "Detractor",
+        "Criticism",
+        "Research funds"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized mydailyrecord.com"
+    },
+    {
+      "id": "51",
+      "title": "프랑스, 스페인 산불: 기후 변화가 극한 기상 현상의 빈도와 강도를 증가시키고 있다 - 프랑스 24",
+      "original_title": "France, Spain wildfires: Climate change increasing frequency, intensity of extreme weather events - France 24",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbXNiS0s0bnItLTkwOFMxZDZFWDhXeEhaV255YzBNeTVfQVNJNXJ4VVAwMmtTOEpmS0t3RlBnMVIxVFlyWnBSRXNLOU5zSElWNjJ5WDYtbTBDQW1KNkFFbTlYdFRYR3hUeXJJMUhZWUdmV3ZqNUI1MjVnTncwNjRKUFhtLUdpenp3c212RWhuX2dwb0RobzkwSExXdFJrQTFCZktERUZ6TUVBNWNCejl1dVNMMWFLVFB0UV84UzAwUTVEaWdwN3lVQjJ2ODJBdjdPS1hN?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T09:36:25",
+      "description": "France, Spain wildfires: Climate change increasing frequency, intensity of extreme weather events France 24",
+      "summary": {
+        "phenomenon": "Wildfires have occurred in France and Spain.",
+        "cause": "Climate change is increasing the frequency and intensity of extreme weather events.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "France Spain wildfires",
+        "Climate change",
+        "Increased frequency",
+        "Intensity",
+        "Extreme weather events"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "France, Spain wildfires: Climate change increasing frequency, intensity of extreme weather events France 24"
+    },
+    {
+      "id": "52",
+      "title": "납세자 자금, 비판받는 기후 변화 연구에 사용 - 엘크하트 트루스",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - The Elkhart Truth",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNSTZIdjZnR1JWdGhLNUNpWVJGUk1adWEyMTktQ1JYZ3Z1R2pvZ2VXTlZjZjZ3QmlhcW5jZ3c1QXMyYWpPb3JZdlBzZWRvTUZwNG5CeUhLT0RlT0w1RUZ5RjhvR1loem80eTZobENYWWpaOHJHQzNFSjRraDJhUTg0dTZEa3o1dVhMcXFvSklRVGp1QTREWnJ6TXRuRVVZYy1oWGM2UERLelVRTmUxcFlHVkhWVnMwSlk3bS1VZUx6UWJuX25jMlVQMFdRZnpoZ3N2SWpLbUlsXzJBYmtaakNQWXVRd1FKQW1LQmJwVkozWmJzZGlHRklCNXduUHFqdlN4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized The Elkhart Truth",
+      "summary": {
+        "phenomenon": "Taxpayer funds have been used for climate change research that has drawn criticism.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer funds",
+        "Climate change research",
+        "Criticism",
+        "Controversy",
+        "Government budget"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized The Elkhart Truth"
+    },
+    {
+      "id": "53",
+      "title": "비판자들이 비판한 기후 변화 연구에 사용된 납세자 자금",
+      "original_title": "Taxpayer funds used in climate change research that detractors have criticized - The Daily Gazette",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQdGVsN1NrQjczN191M1dPLXRyQWk3RDZ3RE90UjZUZ1VzOV9NWFhhTlRYZjRJYjZkWmZXMVlCakljQlNiWUlKc1Z5bjdnRXVKdFotQ0lHOWVnTHhKZngwclhvRmtVdDVQR2NaMUVOLWUtNExVOHNHdFhQUGdQRjVwQkd3MUlGOERkLWlRY2xUZFlFMTRZVWpqSGRyMmEyMnZfQU85ZmhVcjFtcVo2aXp5YzhYVU5DMngzSWFDUUIweXQ4aUNnTjBOLUZQWVp0cU42RGZPY3F2ZWJuejAtYjNoR2xka3plNU5vUFRDRzJzUDZQVDQzby1pUnlkY0ZucS00eEJyazd4dTlHY2M5MTVPTkhpaw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:11:00",
+      "description": "Taxpayer funds used in climate change research that detractors have criticized The Daily Gazette",
+      "summary": {
+        "phenomenon": "Taxpayer funds have been used for climate change research that has drawn criticism.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Taxpayer",
+        "Climate change research",
+        "Government funding",
+        "Criticism",
+        "Controversy"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Taxpayer funds used in climate change research that detractors have criticized The Daily Gazette"
+    },
+    {
+      "id": "54",
+      "title": "Antarctica’s Ice Area Expands, Is Climate Change Overstated? - Yahoo",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmxoeDNqRGc1Rzg3WnpNSlFIWl8zNmx3UGVkZGFrZDF1YmhtaWVnZ3V0XzhXS2NQamFWWi1kbXNoSEhXRmVkb3JYU25oZVVWV3JPSzNBNjdvZUdGOFJLQjc3SUFpRmRvZW9DNVVVUHdiQXhsVkM0c3AteTZKSjNfQzU4anhBZm04b1J2LXNZeTQzRzg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T12:53:22",
+      "description": "Antarctica’s Ice Area Expands, Is Climate Change Overstated? Yahoo",
+      "summary": {
+        "phenomenon": "Antarctica's ice area is expanding.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Antarctica’s Ice Area Expands, Is Climate Change Overstated? Yahoo"
+    },
+    {
+      "id": "55",
+      "title": "윌리엄 왕자, 이례적 개인 메시지로 기후 변화 위험 경고 - 야후 뉴스 UK",
+      "original_title": "Prince William Warns of Dangers of Climate Change in Rare Personal Message - Yahoo News UK",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOG1qNUs0N3hFSnhyTGhWSUhMclBNRFFpNHdzQUprZUVzS1pjNW9DdktoZi1GMlY1cEhRemxXbVVzTlh5c1Awbnc4eG9WeV9DRkFUcUtiSXZQdEFkUWQ1SEJ4aVFqWkhsZGNPd29UYnU1ems2N3RjSHlNdTVzX2Fhcnd4Yw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T18:04:40",
+      "description": "Prince William Warns of Dangers of Climate Change in Rare Personal Message Yahoo News UK",
+      "summary": {
+        "phenomenon": "Prince William warned of the dangers of climate change in a rare personal message.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Prince William",
+        "Climate change",
+        "Warning",
+        "Danger",
+        "Personal message"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Prince William Warns of Dangers of Climate Change in Rare Personal Message Yahoo News UK"
+    },
+    {
+      "id": "56",
+      "title": "켄트빌 기후 변화 자금 지원 발표 - 노바스코샤 주정부",
+      "original_title": "Climate Change Funding Announcement in Kentville - Government of Nova Scotia",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFNEaFpDR1lpa3ZJZWotTWdwNDBkNzZZS2pnY2piMEtYTXc2ZHp4MUVLVnlGWTQ2Q0lnSU5fTWpuVk9zTDFBQ0FLVUlOWEZ3SjY0SUtKQnFzbk1xbDdpSl8tSmdvRE81NVpRQkdFUkZ6ekJ3MURWLUt3U242T1ZxYkNTY3JkSUxfazMyMDU1UQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T16:37:09",
+      "description": "Climate Change Funding Announcement in Kentville Government of Nova Scotia",
+      "summary": {
+        "phenomenon": "A climate change funding announcement was made in Kentville.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Funding support",
+        "Announcement",
+        "Kentville",
+        "Government of Nova Scotia"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Funding Announcement in Kentville Government of Nova Scotia"
+    },
+    {
+      "id": "57",
+      "title": "In 2010, a study suggested the coolest solution to global warming might also be the simplest; a fresh coat - The Economic Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMimwNBVV95cUxQRnVVb09WQXBWOHVYcDFiRkpHbFlJQnM4YWtsS0xGOEktUEVvNlNaWXJtWFNFb1VvMUhFRExUVHVBYVpTRHMwZFlaWHBnWTlsUDl3V1hfZnJTODRqTVJDUW51SF9ZSm1vT0xRYmJoTng2c3FpVXZCa0dNbm5nQ3hxeWRLVkkwQUF5amo0YmViRGdxeWZwcVFhWXhXWHFMNmpkWUM4VUp2d0JUMGxSYjNyaHlGOWR6WXpjdWRzTVZkZTRxMGJ1aHNQSjlQLXh3R0xaUzJmelQtXzBtT1IyV25rY1dnZUpMWVk0MTcwNF9QcVhZalYwbUliYWp5S3VVZmd1NGZFSHp0QjBURVlKT0FvT0xuUjZ0Sk5EUUJoX3RPeUc0TWdEUmdOaHU1eUtwekp3MTUyZFZ1andzZ3puTVVubm1HbkVvYUZGaG15aDllU2VZNzc0TWlBaGFEak5QZmljTEdSZ0ktTUJoOHpQX3owWlJOM2pwX2ZheTgwRUJqZTE4S2xyTzA0VFR3YU54MzU5dTZwZERIVFBoelHSAaADQVVfeXFMTnFxWXBYMUhrRl9VSVZYWmw0TWx1NEM2dE5PX19WS0dHUS1QeVBhZlIzYkNadlZRa0lxVE5zamFhVGtKUG03Z3VWU21BamQ1UXE5Tl80OTBmclpUYmhkRHdLaHQ4OU1nTTRFUi05ckdKUGhxdnd1ODNLeFBjYzFVWEk3X2lDV1ZiOXhuQVBOc1VWcGwySUZiYlpHajNabkdwMF85Q045Q0JjVUxNTnBVbkhtVUR4RFRwQ0NJNXlWS3ZwY256V0JkdDNoWHZaQWhZcHpSN3JEdjZEaExfalZULUYwVU5rZkhlbEtFcW1uNjlvM0ZaU0ROdEp1QnRwRWpqM2laYmZ6VEloeTVWMFRKVnF4b0luSEhMdnIxRnVLenRXTnczVTBueDVkZWxieXo4M2NuZ2lFTGVYMUNEbjVKVFBsb011T2VwbW0yWG03OTdzN0lSZnBGaUdTZ250NVgtVU54TldWWURnbWVJdktTWEFIcXdvMThkcS1JdDdfR3d5WjUyU21WT2dlTndHdjVrZlJQVE5vN25nVlpZZndQV0Q?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T20:15:58",
+      "description": "In 2010, a study suggested the coolest solution to global warming might also be the simplest; a fresh coat The Economic Times",
+      "summary": {
+        "phenomenon": "In 2010, a study proposed 'a fresh coat' as the coolest and simplest solution to global warming.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "In 2010, a study suggested the coolest solution to global warming might also be the simplest; a fresh coat The Economic Times"
+    },
+    {
+      "id": "58",
+      "title": "토탈에너지스, 기후 변화 의무 관련 프랑스 법원 판결에 항소",
+      "original_title": "TotalEnergies Appeals French Court Ruling on Climate Change Obligations - energynews.pro",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZDFNLTZEdVVSV0VyM1hIdGZpaFhwdmRjUXNCSEVZU010LXNJQmswd2lPWUVfOWoyNTdZRDM5d1FfVlN6R1J5cjVfQ2QxUi1nejJxYmQ0Rm1qSDFXUGZDQmFMampFWWdoNktaNlpUZVRKb1RlemVVSHpPb29JUXB0Vl9WdnBrOUxKMHU2OFZMZnFkMXQxVk82MnFxdVRiZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T15:44:01",
+      "description": "TotalEnergies Appeals French Court Ruling on Climate Change Obligations energynews.pro",
+      "summary": {
+        "phenomenon": "TotalEnergies has appealed a French court ruling related to climate change obligations.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "TotalEnergies",
+        "Appeal",
+        "French court",
+        "Climate change",
+        "Obligations"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "TotalEnergies Appeals French Court Ruling on Climate Change Obligations energynews.pro"
+    },
+    {
+      "id": "59",
+      "title": "'전례 없지만 놀랍지 않은': 산불·폭염의 원인은 기후 변화와 예방 부족 - 모던 가나",
+      "original_title": "'Unprecedented but unsurprising': Climate change & lack of prevention behind wildfires, extreme heat - Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhZzAwS05yUlRMWmdvT2p2NGoxZ256Tl8wUE81VjlKU0Z3TVpnZWx5SzVrZ3VPSFlXX3YtYkV5SUszd0RYUElpaDkwR0EwWFJVbkIwZDNkVmZyT21VRkE1VW1ZUFpfZ9IBXEFVX3lxTE90RWc2dUZUeURTbzNPQzJqZE8zNUVIbjMxSXhULTY2ZEFod053a0tfU1M1bGZ3emhpeEROT3NjTkRoOFZMbW41bU4zS1h2WUd5TFVTQjUzQ245djMz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T19:26:10",
+      "description": "'Unprecedented but unsurprising': Climate change & lack of prevention behind wildfires, extreme heat Modern Ghana",
+      "summary": {
+        "phenomenon": "Wildfires and extreme heat are occurring.",
+        "cause": "Climate change and a lack of prevention have been identified as the causes of wildfires and extreme heat.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Wildfires",
+        "Extreme heat",
+        "Lack of prevention",
+        "Unprecedented"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "'Unprecedented but unsurprising': Climate change & lack of prevention behind wildfires, extreme heat Modern Ghana"
+    },
+    {
+      "id": "60",
+      "title": "글로벌 탄소 위원회, 부탄 환경 기후 변화부와 MoU 체결 - Fana News -",
+      "original_title": "Global Carbon Council, Bhutan’s Department of Environment and Climate Change Sign MoU - Fana News -",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXlESkU1X1VSZ0hYMFRXLW45RDA2T3IyM2RpVlJieFRqMkg0VEJVU2NiOGVRdU5iU1NoNF80b3pwczNIWElLYTNJN2NkejFEejM4VTM1WlA2ckZNS2oxTWk2VVVaZGY5VnI1NTZIelBLY3g4dUxfQzE2c2hFbHI1S1FHNDA1SVdJZG5fVHd2Q3AySmJWVVFNYjFodWhtWFVJRzRGRFdfTG9mcG1HcGNWdVJNNTF5c1p1RXlCaVZB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T11:53:55",
+      "description": "Global Carbon Council, Bhutan’s Department of Environment and Climate Change Sign MoU Fana News -",
+      "summary": {
+        "phenomenon": "The Global Carbon Council and Bhutan's Department of Environment and Climate Change have signed a Memorandum of Understanding (MoU).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Global Carbon Council",
+        "Bhutan",
+        "MoU signing",
+        "Climate change",
+        "Environment"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Global Carbon Council, Bhutan’s Department of Environment and Climate Change Sign MoU Fana News -"
+    },
+    {
+      "id": "61",
+      "title": "기후 변화를 염두에 둔 북부 온타리오 숲 재건",
+      "original_title": "Rebuilding a northern Ontario forest with climate change in mind - The Narwhal",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MMC13YUlaa1dBdlJsb3g1R20xQy1FUE9oekUxVmdhUkY2UGFHXy14MFFNRlZpQ1pyVEhaaG1YaVhTNlBpbUR2Tk85YkM3bDAzb0ZGUFcxa2JGek1wLTNGbDhCcW0tcC1SQUF5dA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T12:00:00",
+      "description": "Rebuilding a northern Ontario forest with climate change in mind The Narwhal",
+      "summary": {
+        "phenomenon": "Forest rebuilding efforts are underway in Northern Ontario, with climate change considerations in mind.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Forest restoration",
+        "Northern Ontario",
+        "Forest",
+        "Rebuilding"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Rebuilding a northern Ontario forest with climate change in mind The Narwhal"
+    },
+    {
+      "id": "62",
+      "title": "‘In his heart, Doug Ford doesn't believe that climate change is a thing’: PCs quietly dismantle climate change division - The Pointer",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeF9FUFBUaV9ZdERhUlBDN0lfRkpSd2JVdVFQYVN4R3U5eWVleXpUb0JERENnd0d2R2Z6MUpuUUx2Y0l2d3BPRzVjM09Gc1MtUEVGeVJBS1hDbGswV1V0WXBzOWVwdGpzUS1BUzI2LUtFMHRUOHJsV0h4alM4YWR4OW5jbUhSUW9yZE1remc4Q2cwN0dKZVNrRUVqRVN6RllxdmNqb0RrUnBJZG5UWllnNXRTV1NuRHI4XzhXOVUydnBoYXJLcURlS0U3Q2RqT1dpNG9IY0pxVjltWDBXcUdtVHdHa2ZiakFrbFVwNjVR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T21:29:49",
+      "description": "‘In his heart, Doug Ford doesn't believe that climate change is a thing’: PCs quietly dismantle climate change division The Pointer",
+      "summary": {
+        "phenomenon": "The Ontario provincial government (PCs) is quietly dismantling its climate change division.",
+        "cause": "The perception that Ontario Premier Doug Ford does not believe in climate change is a contributing factor.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "‘In his heart, Doug Ford doesn't believe that climate change is a thing’: PCs quietly dismantle climate change division The Pointer"
+    },
+    {
+      "id": "63",
+      "title": "The Tour de France’s Montmartre experiment is the best thing to happen to cycling for years – but please, ASO, make it count for the GC next time; “It’s too hard to answer!” Pogačar and Evenepoel baffled by climate change question + more on the live blog - Road.cc",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4teXhGNkxBVjU0WG1VMHRNN2lOSmRHd0JLUVNYVzJoRDN6LTNyVndFVllnNWpKcVBSMzdNY2wyWTlFXzk3QkJqVF9Nbng1ZkNSMEhhcDdadXhFZnM5RF9SVUVFMA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T17:23:09",
+      "description": "The Tour de France’s Montmartre experiment is the best thing to happen to cycling for years – but please, ASO, make it count for the GC next time; “It’s too hard to answer!” Pogačar and Evenepoel baffled by climate change question + more on the live blog Road.cc",
+      "summary": {
+        "phenomenon": "Tour de France riders (Pogačar, Evenepoel) expressed bewilderment and difficulty in answering questions related to climate change.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Tour de France’s Montmartre experiment is the best thing to happen to cycling for years – but please, ASO, make it count for the GC next time; “It’s too hard to answer!” Pogačar and Evenepoel baffled by climate change question + more on the live blog Road.cc"
+    },
+    {
+      "id": "64",
+      "title": "자유민주당, 기후 변화로 인한 더위 대응 위해 영국 신축 주택 에어컨 설치 주장",
+      "original_title": "Lib Dems Insist New Homes in U.K. Be Built With Air Conditioning To Combat Heat Caused by Climate Change - The New York Sun",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYW83MVVkSXVONzJSVGR1cXNuMUNwb0dNd19sUXRvT0F6VkQ5ZUVwSzlyY2VybUs1MzY2QmdOQXhrYm9pVHE5cDJQbjlMUW1oNkl2TzRuOHpDenBMV2pzbHFfSjh3RFp5eExOTTYzbm1UdlV5WG9jSDNwM1BDbHcxVng2MHF1d25uQWhMMnRWZ0pMMVllR2hsbTVyRHVrcEMtQks2bzFSMTlsNmZMQk8tWWxxRHVpZGhNQ0JpVVdDU0prQWFQeDhyYXluVlNfQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T17:06:03",
+      "description": "Lib Dems Insist New Homes in U.K. Be Built With Air Conditioning To Combat Heat Caused by Climate Change The New York Sun",
+      "summary": {
+        "phenomenon": "The UK Liberal Democrats are advocating for the installation of air conditioning in new homes across the UK to combat heat caused by climate change.",
+        "cause": "Heatwaves are occurring in the UK due to climate change.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Liberal Democrats",
+        "UK",
+        "New homes",
+        "Air conditioning",
+        "Climate change"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Lib Dems Insist New Homes in U.K. Be Built With Air Conditioning To Combat Heat Caused by Climate Change The New York Sun"
+    },
+    {
+      "id": "65",
+      "title": "기후 변화는 비상사태이며, 그 영향은 급진적이다",
+      "original_title": "Climate change is an emergency – and the implications are radical - Morning Star | The People’s Daily",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3h1RkJWZTZ2aDBBelBCTlJaaVR3RDFqTjlia09UcERhMkczLS1MeU9OaXhDbTJGSEVqbk56Z2Y0Qm5fNldoa0c3VzdDNkEwZUZTdGRWSFE2RW5XcWxGZGtJU1dMZlVCQWJUSmtDME1jckRHdUdfOERlZTV3TnlHN2xkWk9UZUdZLTZpbUJWRzN1eGY3cnBlMA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T15:16:23",
+      "description": "Climate change is an emergency – and the implications are radical Morning Star | The People’s Daily",
+      "summary": {
+        "phenomenon": "Climate change is being recognized as an emergency, with radical implications.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Emergency",
+        "Radical",
+        "Implications",
+        "Crisis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is an emergency – and the implications are radical Morning Star | The People’s Daily"
+    },
+    {
+      "id": "66",
+      "title": "Why Low Clouds Cover Could Soon Stop Shielding Earth From Global Warming - ETV Bharat",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOekVveVAzT01oTDRhSDA4bjV6MFQ1c1VuNk1ocFRmSkY0REVIVVZQZ1Zmd1dIdVJDenA0VTA1TjdNTkJuSlBYbDdrTmpIQ0d0T1hqVXZnamR2S0xvLXRSWllwLTNLdmF2Ujc4SV9ZeUp4eHNfeV94ZjY5Qk5Lc3ZfQmtZVE5Da3NzMzF6LU5GeGd6eUotV3VpU2dEVC1UNWdZWGtkeEhYWm9FaFZpUVJ0ZnlzY9IBuAFBVV95cUxNYlk3WEhOc3dJN3Z4MlJxdHRNdUFUWHNlbWN3LW82UHJ1WEtpZjhJek1zUllJZU5KY0d5VndBTmpOdEFGQ2lVUVRyQldwcXRaRHhMTm9ZaG00Z3BzcXg0Ulp0OGRpemtsc2N2WG1kbVBLNXRxQmZhb3dLQkRjcy13UGtUSnowM0REa2ZLUzJxeWVVVkpFVmpPTFgzS29tMjRReDQ5STVMVkRoTF9CU05kRFJIcUxfNjFS?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T15:23:36",
+      "description": "Why Low Clouds Cover Could Soon Stop Shielding Earth From Global Warming ETV Bharat",
+      "summary": {
+        "phenomenon": "Low cloud cover, which has been shielding Earth from global warming, may soon cease to perform this function.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "If low cloud cover stops shielding Earth from global warming, the acceleration of global warming could occur."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why Low Clouds Cover Could Soon Stop Shielding Earth From Global Warming ETV Bharat"
+    },
+    {
+      "id": "67",
+      "title": "지방정부, 애나폴리스 밸리 지역사회 주도 기후 행동에 투자 - 노바스코샤 주정부",
+      "original_title": "Province Invests in Community-led Climate Action in Annapolis Valley - Government of Nova Scotia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWkQ4VDFmVEJ4elZ1Q2FmbUVYajNaN0pNdDJGNVJNeEt6STdKLXQyYW53d0VIVlk5SWhwbEkycV9HLU5vREplRXFvMTFCdl9pSGhPNnNnOFlobnpWLUxNTHp2Y3VHQ3doWFVIcTJzdXdSNWlwcWhyV2VSNmxyNzg0a0U1SnpPc0R2Z09JcTBJSzRqZWswM2Y3T05TRld6MTlkQXpvd0Nn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-07-27T13:28:47",
+      "description": "Province Invests in Community-led Climate Action in Annapolis Valley Government of Nova Scotia",
+      "summary": {
+        "phenomenon": "The Government of Nova Scotia is investing in community-led climate action in the Annapolis Valley.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Provincial government",
+        "Investment",
+        "Community",
+        "Climate action",
+        "Annapolis Valley"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Province Invests in Community-led Climate Action in Annapolis Valley Government of Nova Scotia"
+    },
+    {
+      "id": "68",
+      "title": "영국 상징 조드렐 뱅크 망원경, 과학 예산 삭감으로 폐쇄 위기",
+      "original_title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc_science",
+      "published_at": "2026-07-27T11:50:13",
+      "description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+      "summary": {
+        "phenomenon": "The Jodrell Bank Telescope in the UK is facing closure due to science budget cuts.",
+        "cause": "Science budget cuts are the cause.",
+        "outlook": "Astronomers have warned that if the telescope closes, it would severely damage the core of UK science and leave a generation of scientists untrained."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Jodrell Bank",
+        "Telescope",
+        "Science budget cuts",
+        "Astronomers",
+        "UK science"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained."
+    },
+    {
+      "id": "69",
+      "title": "프랑스와 스페인, 새로운 폭염 시작 전 대형 산불 진압에 총력",
+      "original_title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T22:25:39",
+      "description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control before another heatwave this week that will complicate efforts to tame the flames.Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday. Continue reading...",
+      "summary": {
+        "phenomenon": "Large wildfires have broken out in France and Spain, with firefighters working tirelessly to suppress them. Monday and Tuesday are considered 'absolutely crucial days' for containment efforts before temperatures rise again later this week.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Another heatwave is expected to begin later this week, which is anticipated to further complicate wildfire suppression efforts."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Wildfires",
+        "Heatwave",
+        "France",
+        "Spain",
+        "Suppression"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control before another heatwave this week that will complicate efforts to tame the flames.Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday. Continue reading..."
+    },
+    {
+      "id": "70",
+      "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
+      "original_title": null,
+      "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T16:42:23",
+      "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux wildfiresProvisional data on wildfires in Spain shows that more than 170,000 hectares of forest land have been affected since the beginning of the year – a nearly sixfold increase on the almost 29,000 recorded in the same period in 2025.35 major fires have been recorded so far, up from just 11 last yea",
+      "summary": {
+        "phenomenon": "Wildfires continue in France and Spain. In Spain, over 170,000 hectares of forest land have been affected by wildfires since the beginning of the year, representing nearly a sixfold increase compared to approximately 29,000 hectares recorded during the same period in 2025. So far, 35 major fires have been recorded, an increase from 11 last year.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Officials are warning that wildfires could continue until November, and another heatwave is expected this week."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux wildfiresProvisional data on wildfires in Spain shows that more than 170,000 hectares of forest land have been affected since the beginning of the year – a nearly sixfold increase on the almost 29,000 recorded in the same period in 2025.35 major fires have been recorded so far, up from just 11 last yea"
+    },
+    {
+      "id": "71",
+      "title": "영국, 소방당국 대국민 호소 속 올해 네 번째 폭염 대비",
+      "original_title": "Britain braces for fourth heatwave of year as fire chiefs issue public appeal",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/27/uk-weather-fourth-heatwave-of-year",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T15:47:22",
+      "description": "Temperatures up to 35C forecast, triggering heat health alerts and pleas to take care in parched parks and rural areasParamedics and firefighters are braced for emergencies across the country this week after UK forecasters predicted a fourth heatwave of the year.Temperatures are forecast to reach as high as 35C by Wednesday, triggering heat health alerts and an appeal from fire chiefs to take care in parched parks and rural areas. Continue reading...",
+      "summary": {
+        "phenomenon": "The UK Met Office has forecast the fourth heatwave of the year, with temperatures expected to reach up to 35C by Wednesday. Consequently, heat health alerts have been issued, and fire authorities have urged caution.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Paramedics and firefighters are preparing for emergencies nationwide this week, and fire authorities have appealed for caution in parched parks and rural areas."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "UK",
+        "Heatwave",
+        "High Temperatures",
+        "Fire Warning",
+        "Emergency"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Temperatures up to 35C forecast, triggering heat health alerts and pleas to take care in parched parks and rural areasParamedics and firefighters are braced for emergencies across the country this week after UK forecasters predicted a fourth heatwave of the year.Temperatures are forecast to reach as high as 35C by Wednesday, triggering heat health alerts and an appeal from fire chiefs to take care in parched parks and rural areas. Continue reading..."
+    },
+    {
+      "id": "72",
+      "title": "PM urged to uphold climate pledges made as mayor and ban new North Sea oil drilling",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T11:01:22",
+      "description": "Experts who helped Burnham draw up Manchester carbon neutral pledge say backtracking would send wrong message amid wildfires and heatwavesLeading climate scientists who created Greater Manchester’s carbon neutral by 2038 commitment are urging Andy Burnham to unequivocally reject new drilling in the North Sea.In a letter to the prime minister they said he, as mayor of Greater Manchester, had unveiled one of the UK’s most ambitious local climate programmes that tackled housing, green growth and pu",
+      "summary": {
+        "phenomenon": "Climate scientists who established Greater Manchester's 2038 carbon-neutral target are urging Prime Minister Andy Burnham to unequivocally reject new oil drilling in the North Sea. This call comes amidst wildfires and heatwaves.",
+        "cause": "The article does not explicitly state the direct scientific causes of wildfires and heatwaves but implies that new North Sea oil drilling could exacerbate climate change by increasing carbon emissions.",
+        "outlook": "Experts warn that backtracking on climate pledges would send the wrong message, suggesting that upholding commitments and prohibiting new drilling would help mitigate climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Experts who helped Burnham draw up Manchester carbon neutral pledge say backtracking would send wrong message amid wildfires and heatwavesLeading climate scientists who created Greater Manchester’s carbon neutral by 2038 commitment are urging Andy Burnham to unequivocally reject new drilling in the North Sea.In a letter to the prime minister they said he, as mayor of Greater Manchester, had unveiled one of the UK’s most ambitious local climate programmes that tackled housing, green growth and pu"
+    },
+    {
+      "id": "73",
+      "title": "벤 제닝스의 남유럽 산불 만평",
+      "original_title": "Ben Jennings on southern Europe’s wildfires – cartoon",
+      "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/27/ben-jennings-on-southern-europes-wildfires-cartoon",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T17:06:23",
+      "description": "Continue reading...",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Southern Europe",
+        "Wildfires",
+        "Climate Crisis",
+        "Cartoon",
+        "Ben Jennings"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Continue reading..."
+    },
+    {
+      "id": "74",
+      "title": "미래를 예측하는 데 있어서, 왜 TV 작가들이 정치인들보다 나은가? | 조이 윌리엄스",
+      "original_title": "When it comes to predicting the future, why are TV writers better than politicians? | Zoe Williams",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/27/predicting-the-future-why-tv-writers-better-than-politicians",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T15:32:37",
+      "description": "From BBC drama The Rapture on the climate crisis to Apple’s Criminal Record on the rise of the far right, culture often sees what politics fails toIn the BBC’s new apocalypse drama, The Rapture, the UK is engulfed in a terrifying heatwave. I watched a preview of the programme in May, while preparing to interview the lead actor Ruth Madeley. I thought at the time: “This will be much more frightening when it chimes with the real life weather, bad luck for them that it’s not coming out for a couple",
+      "summary": {
+        "phenomenon": "The BBC's new apocalypse drama 'The Rapture' depicts the UK engulfed in a terrifying heatwave. The author watched a preview of the program in May and noted that it would be much more frightening when it aligns with real-life weather.",
+        "cause": "The article mentions 'climate crisis' as the backdrop for the drama but does not specify the concrete scientific causes of the depicted or real-life heatwaves.",
+        "outlook": "The author implies that the terrifying heatwave in the drama could soon reflect real-life weather, suggesting the possibility of severe heatwaves in the future."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Future Prediction",
+        "TV Drama",
+        "Political Failure",
+        "Heatwave"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "From BBC drama The Rapture on the climate crisis to Apple’s Criminal Record on the rise of the far right, culture often sees what politics fails toIn the BBC’s new apocalypse drama, The Rapture, the UK is engulfed in a terrifying heatwave. I watched a preview of the programme in May, while preparing to interview the lead actor Ruth Madeley. I thought at the time: “This will be much more frightening when it chimes with the real life weather, bad luck for them that it’s not coming out for a couple"
+    },
+    {
+      "id": "75",
+      "title": "‘It came out of real frustration’: the 90s activist network that set fires to save a burning planet",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/jul/27/fires-in-the-night-earth-liberation-front-environment",
+      "source": "guardian_climate",
+      "published_at": "2026-07-27T12:00:09",
+      "description": "Matthew Wolfe’s Fires in the Night examines Earth Liberation Front, a US eco-anarchist movement, and its legacy of radical environmentalismAre echoes of 1990s radical environmentalism returning louder or fading away? It’s a question posed by Fires in the Night, a new book on the history of the Earth Liberation Front (ELF), a loosely grouped band of US Pacific north-west activists that used economic sabotage and arson to protest against environmental destruction.The members called themselves “the",
+      "summary": {
+        "phenomenon": "Matthew Wolfe's book 'Fires in the Night' covers the history of the Earth Liberation Front (ELF), an eco-anarchist movement in the US that used economic sabotage and arson to protest environmental destruction in the 1990s.",
+        "cause": "The article explicitly states that ELF's actions were 'to protest environmental destruction' and implies that human-induced environmental destruction is the cause through the phrase 'burning planet'.",
+        "outlook": "The article poses the question, 'Are echoes of 1990s radical environmentalism returning louder or fading away?', suggesting the potential resurgence or continued relevance of such radical environmental movements."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Matthew Wolfe’s Fires in the Night examines Earth Liberation Front, a US eco-anarchist movement, and its legacy of radical environmentalismAre echoes of 1990s radical environmentalism returning louder or fading away? It’s a question posed by Fires in the Night, a new book on the history of the Earth Liberation Front (ELF), a loosely grouped band of US Pacific north-west activists that used economic sabotage and arson to protest against environmental destruction.The members called themselves “the"
+    }
+  ],
+  "summary": {
+    "total_count": 75,
+    "domestic_count": 29,
+    "international_count": 46,
+    "top_keywords": [
+      "Climate change",
+      "Heatwave",
+      "Renewable energy",
+      "Climate change",
+      "Criticism"
+    ],
+    "sentiment_breakdown": {
+      "positive": 19,
+      "negative": 33,
+      "neutral": 7
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "폭염",
+      "재생에너지",
+      "기후변화",
+      "비판"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
