@@ -2,7 +2,7 @@
   "type": "enso_oni",
   "source": "NOAA_ENSO",
   "source_url": "https://www.cpc.ncep.noaa.gov/data/indices/oni.ascii.txt",
-  "collected_at": "2026-08-04T00:11:58.484178",
+  "collected_at": "2026-08-04T10:32:05.644023",
   "unit": "degrees_celsius",
   "description": "Oceanic Niño Index (3-month running mean SST anomaly in Niño 3.4 region)",
   "thresholds": {
@@ -11,58 +11,58 @@
   },
   "latest": {
     "year": 2026,
-    "avg_oni": 0.38,
+    "avg_oni": 0.22,
     "status": "neutral"
   },
   "annual_data": [
     {
       "year": 1997,
-      "avg_oni": 1.14,
+      "avg_oni": 1.17,
       "status": "moderate_el_nino"
     },
     {
       "year": 1998,
-      "avg_oni": 0.04,
+      "avg_oni": -0.06,
       "status": "neutral"
     },
     {
       "year": 1999,
-      "avg_oni": -1.08,
+      "avg_oni": -1.23,
       "status": "moderate_la_nina"
     },
     {
       "year": 2000,
-      "avg_oni": -0.77,
+      "avg_oni": -0.84,
       "status": "weak_la_nina"
     },
     {
       "year": 2001,
-      "avg_oni": -0.29,
+      "avg_oni": -0.31,
       "status": "neutral"
     },
     {
       "year": 2002,
-      "avg_oni": 0.51,
+      "avg_oni": 0.63,
       "status": "weak_el_nino"
     },
     {
       "year": 2003,
-      "avg_oni": 0.24,
+      "avg_oni": 0.25,
       "status": "neutral"
     },
     {
       "year": 2004,
-      "avg_oni": 0.39,
+      "avg_oni": 0.45,
       "status": "neutral"
     },
     {
       "year": 2005,
-      "avg_oni": 0.03,
+      "avg_oni": 0.04,
       "status": "neutral"
     },
     {
       "year": 2006,
-      "avg_oni": 0.04,
+      "avg_oni": 0.07,
       "status": "neutral"
     },
     {
@@ -72,97 +72,97 @@
     },
     {
       "year": 2008,
-      "avg_oni": -0.81,
-      "status": "weak_la_nina"
-    },
-    {
-      "year": 2009,
-      "avg_oni": 0.26,
-      "status": "neutral"
-    },
-    {
-      "year": 2010,
-      "avg_oni": -0.43,
-      "status": "neutral"
-    },
-    {
-      "year": 2011,
-      "avg_oni": -0.77,
-      "status": "weak_la_nina"
-    },
-    {
-      "year": 2012,
-      "avg_oni": -0.07,
-      "status": "neutral"
-    },
-    {
-      "year": 2013,
-      "avg_oni": -0.26,
-      "status": "neutral"
-    },
-    {
-      "year": 2014,
-      "avg_oni": 0.23,
-      "status": "neutral"
-    },
-    {
-      "year": 2015,
-      "avg_oni": 1.47,
-      "status": "moderate_el_nino"
-    },
-    {
-      "year": 2016,
-      "avg_oni": 0.49,
-      "status": "neutral"
-    },
-    {
-      "year": 2017,
-      "avg_oni": -0.06,
-      "status": "neutral"
-    },
-    {
-      "year": 2018,
-      "avg_oni": 0.14,
-      "status": "neutral"
-    },
-    {
-      "year": 2019,
-      "avg_oni": 0.65,
-      "status": "weak_el_nino"
-    },
-    {
-      "year": 2020,
-      "avg_oni": -0.21,
-      "status": "neutral"
-    },
-    {
-      "year": 2021,
-      "avg_oni": -0.65,
-      "status": "weak_la_nina"
-    },
-    {
-      "year": 2022,
       "avg_oni": -0.78,
       "status": "weak_la_nina"
     },
     {
+      "year": 2009,
+      "avg_oni": 0.28,
+      "status": "neutral"
+    },
+    {
+      "year": 2010,
+      "avg_oni": -0.48,
+      "status": "neutral"
+    },
+    {
+      "year": 2011,
+      "avg_oni": -0.78,
+      "status": "weak_la_nina"
+    },
+    {
+      "year": 2012,
+      "avg_oni": -0.06,
+      "status": "neutral"
+    },
+    {
+      "year": 2013,
+      "avg_oni": -0.23,
+      "status": "neutral"
+    },
+    {
+      "year": 2014,
+      "avg_oni": 0.2,
+      "status": "neutral"
+    },
+    {
+      "year": 2015,
+      "avg_oni": 1.55,
+      "status": "strong_el_nino"
+    },
+    {
+      "year": 2016,
+      "avg_oni": 0.42,
+      "status": "neutral"
+    },
+    {
+      "year": 2017,
+      "avg_oni": -0.12,
+      "status": "neutral"
+    },
+    {
+      "year": 2018,
+      "avg_oni": 0.09,
+      "status": "neutral"
+    },
+    {
+      "year": 2019,
+      "avg_oni": 0.58,
+      "status": "weak_el_nino"
+    },
+    {
+      "year": 2020,
+      "avg_oni": -0.27,
+      "status": "neutral"
+    },
+    {
+      "year": 2021,
+      "avg_oni": -0.64,
+      "status": "weak_la_nina"
+    },
+    {
+      "year": 2022,
+      "avg_oni": -0.85,
+      "status": "weak_la_nina"
+    },
+    {
       "year": 2023,
-      "avg_oni": 0.81,
+      "avg_oni": 0.9,
       "status": "weak_el_nino"
     },
     {
       "year": 2024,
-      "avg_oni": 0.41,
+      "avg_oni": 0.44,
       "status": "neutral"
     },
     {
       "year": 2025,
-      "avg_oni": -0.28,
+      "avg_oni": -0.27,
       "status": "neutral"
     },
     {
       "year": 2026,
-      "avg_oni": 0.38,
+      "avg_oni": 0.22,
       "status": "neutral"
     }
   ]
