@@ -1,16 +1,16 @@
 {
   "date": "2026-08-06",
   "metadata": {
-    "collected_at": "2026-08-06T00:10:58.895148",
-    "total_articles": 84,
+    "collected_at": "2026-08-06T10:51:58.527582",
+    "total_articles": 298,
     "sources": {
-      "korean": 43,
-      "international": 41
+      "korean": 211,
+      "international": 87
     },
     "sentiment_distribution": {
-      "positive": 29,
-      "negative": 32,
-      "neutral": 10
+      "positive": 150,
+      "negative": 94,
+      "neutral": 22
     }
   },
   "articles": [
@@ -2128,6 +2128,5476 @@
           "경고 신호"
         ]
       }
+    },
+    {
+      "id": "69a701afb29a899b",
+      "title": "\"기후위기 대응, 멀티탭 끄기부터 시작돼죠\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VN2xfcnhNalE0QmlUUVJnWXNYcHFldGE2TzQwUVdIdDJwU2NvdDh5NzRqWlNVVC1UQnFlbjEzbTM5MTl0c0J5SEtJMXdSM2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:09:26",
+      "collected_at": "2026-08-06T10:33:27.174006",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응",
+          "멀티탭",
+          "에너지",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "3c92b2fa4f6a27cd",
+      "title": "명현관 해남군수 \"기후위기 대응, 국립농식품기후변화대응센터 가동 시급\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsRkRFTXlDemdGTzhvMzdMdWdMTU1xNm13SGVaX1hOams5TFM3czhPX0tZeE5JUDZLMEl2aUlqcVU2TGYyQWV2enFwVDVlWmVuR1B3amZ4RUszZHc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:22:34",
+      "collected_at": "2026-08-06T10:33:27.174043",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "해남군수",
+          "농식품",
+          "대응센터",
+          "가동 시급"
+        ]
+      }
+    },
+    {
+      "id": "c46a56074de68bdd",
+      "title": "에쓰오일, 2025 ESG 보고서 발간…기후변화 대응·안전경영 성과 공개 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KTk5XdVBHODVaSzhDb3QydVpON20tdzlwUUhwRWNOdUdwemMyalBBZFUzYVBJYXJnbzhMOUhJYzBicW9scl8xTFY5Q2FmS0dBcl9qVkstUldqZVlILUFteA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:03:45",
+      "collected_at": "2026-08-06T10:33:27.174074",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "에쓰오일",
+          "2025 ESG 보고서",
+          "기후변화 대응",
+          "안전경영",
+          "성과 공개"
+        ]
+      }
+    },
+    {
+      "id": "5cac65c05d4887f5",
+      "title": "기후변화 방치하면…'가만있어도 온열질환' 연간 1.8일→51일로 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lLUxFOEtnRWdjSDRJc0t0eFQ4cWZvZlVRODJkdGZwV0lQZ3RVTTZuQklPeTRIVnh5UWdzS0hLdnloczFfNE52UzdOZjlmYzkyWGRtbXExUDlfN2xQaDdSLQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:25:00",
+      "collected_at": "2026-08-06T10:33:27.174154",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "온열질환",
+          "방치",
+          "위협",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "05a72175ad790b31",
+      "title": "명현관 해남군수 \"국립농식품기후변화대응센터 건립 시급\" - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xZWdTTnlYWnpiMXBHcm42MmpqeGJacHV2dWg0Z1JsaDNub2NNSm5KUktuY254cjByd3Y5d3NhWG1SYzRZUHZuR0ZLNDdfY2dPWHYwdnpWam5XTDJM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:35:00",
+      "collected_at": "2026-08-06T10:33:27.174234",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "국립농식품기후변화대응센터",
+          "기후변화대응",
+          "농식품",
+          "해남군수",
+          "건립 시급"
+        ]
+      }
+    },
+    {
+      "id": "302ba0450448003b",
+      "title": "폭염에 가뭄·녹조 덮친 남부…\"산불·수질 악화로 이어지는 역대급 복합재해\" - 동아사이언스",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4takZ0M21hdVhMbnNMQjE4a01kTy1zNnU4ODlDYU9KbzFqNnFPWFlVYWxHcHJKc0JnSmNSOHFSaEpiOWhKZl9wLXB1UlZhXzlKcFlIRw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:42:00",
+      "collected_at": "2026-08-06T10:33:27.174264",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "녹조",
+          "복합재해",
+          "산불"
+        ]
+      }
+    },
+    {
+      "id": "02a6916ad4092ed0",
+      "title": "국립목포대 최세웅 교수 국제공동연구 “기후변화로 전 세계 나비 서식지 빠르게 재편” - 한국대학신문",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZN2FLT3F6a3E0a3NNcERDSXZUeDhZazk4RlVlRWR1ODlJWWh3d0Q5SXRfOG1JNTVYQU8wUEh4cjRNRjFkWTJQNFlBOHFQczRTRUhfd1BhbHJFQUhnbGxGZnFOZVVNUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:48:30",
+      "collected_at": "2026-08-06T10:33:27.174314",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "나비",
+          "서식지",
+          "재편",
+          "국제공동연구"
+        ]
+      }
+    },
+    {
+      "id": "b1524cbe40152e8e",
+      "title": "명현관 해남군수 '기후위기 대응, 국립농식품기후변화대응센터 건립 시급' - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XZDgwazRtcWRmT25oZl9RYkdfUm1IdmZrbmhfQXpIZVBaVEplMENXRkRORXVtTVZ0QURNVGN1dy1aRGxzcVdBWGRFb1R5ZUxqMFE1NWlEZ0VGaTJ3MkFDZ1IwWVdLZG8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:41:05",
+      "collected_at": "2026-08-06T10:33:27.174341",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8be038ba1005be76",
+      "title": "명현관 해남군수 기후위기 대응 국립농식품기후변화대응센터 건립 시급 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uZ3lOMGZsTlpDQ09zdWtBdDFSbkFJWXI1eWpFbUVtQUh3cjVxRHJWOW0xMi1HX1A4OXJRaTc4OTk2SUlfOW1jaDdwWmZ5dmk2Q0h2U253LW9HUG5wTmhsMTliTVlMVnpkaEh1N2xzWDY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:28:00",
+      "collected_at": "2026-08-06T10:33:27.174368",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "명현관 해남군수",
+          "기후위기 대응",
+          "국립농식품기후변화대응센터",
+          "건립",
+          "시급"
+        ]
+      }
+    },
+    {
+      "id": "e6184f60b77da0cd",
+      "title": "악사손해보험, 아동 대상 기후변화 교육 진행 - 보험신보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wRURUa3pCUjc4SU1DVXROVHNHU19MRXU3SlNFWnJXWE5GWE54QkdXd3RvaU9UeUFCcTB6YmNjanl1allUUFE2bnlpaF9HeWg5OXBoZTRwZFhUc0Z0LVFoSVRyS3NXbV8zU0RZ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:23:04",
+      "collected_at": "2026-08-06T10:33:27.174394",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "악사손해보험",
+          "아동",
+          "기후변화",
+          "교육",
+          "진행"
+        ]
+      }
+    },
+    {
+      "id": "ca4d43d38776e0a9",
+      "title": "명현관 해남군수 \"잦아지는 이상기후…농식품기후변화대응센터 조기 가동해야\" - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wb2dETXVja2xvYlM4MndVTGg2QjB3MmZYOFFpTUZycTdaa3F2ZEdtcFFkOVVXcmI1QjVrWGVHczdfTjFJLVIyX3dvM1BUY3UxbUpzbUFHaGRia2E2NHhDbHhhdzJFdzlRejZV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:34:47",
+      "collected_at": "2026-08-06T10:33:27.174419",
+      "keywords_matched": [
+        "기후변화",
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "명현관",
+          "해남군수",
+          "이상기후",
+          "농식품기후변화대응센터",
+          "조기 가동"
+        ]
+      }
+    },
+    {
+      "id": "e0e6eb8b6179d6c5",
+      "title": "S-OIL, 기후변화 대응·산업안전·준법경영 등 5대 핵심 이슈 공개 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsSlVzMTJ0N2pVbHpLVjVhMUFmYmI0eGJNLUp4UWQ4Vkllak5qS2JmRzBmUmkyWThTOC1mWnZ6MzZfVWZPb2h2a3dQR0FOVWJtM3VGSmJVS1RFaV9CdElRZFlpUzhGWnhnV3hMRVJZRlNjQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:39:17",
+      "collected_at": "2026-08-06T10:33:27.174493",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "S-OIL",
+          "기후변화 대응",
+          "산업안전",
+          "준법경영",
+          "핵심 이슈"
+        ]
+      }
+    },
+    {
+      "id": "8f7f71da774b0fc6",
+      "title": "명현관 해남군수, 중앙정부 찾아 ‘기후위기·교통망’ 해법 요구 - 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zYm1Vb2Y5U1FpdEViVXJiZWJTLTN5enRYdjNaMUdPY2JHRVRaYWJ5R3E1Zm1JcEZCR0MtbjlXTjRndWR4Vkp2RWN0MEVPTjNSRFl5ZFgyTkViRDdZaGQtRzJwVkM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:52:22",
+      "collected_at": "2026-08-06T10:33:27.174518",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "명현관",
+          "해남군수",
+          "중앙정부",
+          "기후위기",
+          "교통망"
+        ]
+      }
+    },
+    {
+      "id": "315898a06c51171b",
+      "title": "IBS, 세계 기후 석학들과 몬순 예측·기후변화 대응 논의 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yWEdoZzhQQUhBTWJUbVBkcXB0UmZDQWI5LTBLZk1iZ0hZZ0RRZkVjZnFKcExJUGNPbTJldjVhaGh1QXh2UUxyTnN2X0xwR3NSWTh1d0Q1Qm9fSkVCTlY4RElXb3lrV2lVUnQ1QlpuQ0F0S3c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:48:52",
+      "collected_at": "2026-08-06T10:33:27.174544",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "IBS",
+          "기후 석학",
+          "몬순 예측",
+          "기후변화",
+          "대응 논의"
+        ]
+      }
+    },
+    {
+      "id": "139e8d3de6b37eb5",
+      "title": "원주기후변화홍보관, 「도미르의 비밀임무: 기후위기의 단서를 찾아라!」 운영 시작 - 원주신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwN3BkTC1sV2FJXzMyLVByYUxaMG52Wi1faERoYm1oUGp2SkxXa3NBUGIxWXpoNmNRNzRVYkd2ZFk3dVNHZmo2QnJmeEhZdmVrbnZEcGFZQVhxN3JfZ1VEZk9iZ1lLR0U?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-05T22:28:00",
+      "collected_at": "2026-08-06T10:33:27.174572",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "5040ade9f226b8f2",
+      "title": "예천군, 스마트 관수 시스템 도입…기후위기 대응 농업 전환 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZbzVKUm9LTXFhSmp3TUlNTklDNmhQdHkwNl9VdW41d3BIaTNoOEVnUG9TdE5abGRTTnM1dVdRRV9OSlUteTFFZmZmZlVtNWcwUUd0V21WVW4xLTNzMDFFRnZ0Vmk5QXB6aTN5a1JQcw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:36:49",
+      "collected_at": "2026-08-06T10:33:27.174598",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "예천군",
+          "스마트 관수 시스템",
+          "기후위기",
+          "농업 전환",
+          "도입"
+        ]
+      }
+    },
+    {
+      "id": "b6540352d187b0dc",
+      "title": "[테크] 中 AI 기상 솔루션 '마쭈'...아프리카 기후변화 대응의 '구원투수' - 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GOEYyTFB0aFdjSmZXNUd3alZwZU9aM3pYbGdwbzctZ3VCR1BnNHpyVTlELVhkZ2FMQWNNQUVUTkczTTlXVzZIRGZFRHpHcU1nVE5OZC03amZsMUktbXNsbW0zTVZWYllEYldv?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:39:49",
+      "collected_at": "2026-08-06T10:33:27.174626",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI 기상 솔루션",
+          "마쭈",
+          "아프리카",
+          "기후변화 대응",
+          "구원투수"
+        ]
+      }
+    },
+    {
+      "id": "eb80719c178ddbae",
+      "title": "원주기후변화홍보관, 어린이 참여형 ‘기후위기 탐정 미션’ 운영 - 뉴스21 통신",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNSlJpajcyazJtSnRMTW5pUm44WGRHVHNUUzh2WERVNy1XbTJnTzZlMDluMzFXVVJ4NWJoTnNMa0FUWEJHUDB1VzZGN0kwRHVrR2RUZkFB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:25:12",
+      "collected_at": "2026-08-06T10:33:27.174651",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2bb5d82b2ba4ae24",
+      "title": "제주도, 기후변화 맞춤 노지 만감류 품종 보급 나선다 - 제주환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xZFFTVnY1NW9GVHNneXJQVEJ2WUNtUlhjTWxNU1JLbUh3anlDSnFrZEMwSTVJWWxKbWh4MW1FR2E0SmdhWmgwSWE1US1GVk52eDRlbHEwU1pocU01OVI0N0JTSjdXSnB2?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:24:56",
+      "collected_at": "2026-08-06T10:33:27.174677",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주도",
+          "기후변화",
+          "노지",
+          "만감류",
+          "품종 보급"
+        ]
+      }
+    },
+    {
+      "id": "82886b0596c89cfb",
+      "title": "청주기상지청, 시각장애 아동 위한 기후변화 교육영상 배포 - 충청일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GR2YwY1NjN21NWWMzYkdGb0NISEJVeFdtaWpOV1N6Mjd1d1BMZnNBUjl4MXRXMVRBdTFsdHFrVlpXeXhzSjJJazFfZjdoUGpLNEdZdVg1RW1paU02S0JSdVJtOHpsYkczX2w4bnlUeEM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:05:36",
+      "collected_at": "2026-08-06T10:33:27.174703",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청주기상지청",
+          "시각장애 아동",
+          "기후변화 교육",
+          "교육영상",
+          "배포"
+        ]
+      }
+    },
+    {
+      "id": "cd336a645571a4d5",
+      "title": "악사손보, 임직원이 직접 어린이 기후변화 교육…친환경 실천까지 잇는다 - 뉴스탭",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oVTl4R2VfVENUZkt2MDgwSTJhNlpYVnBUenVCRFkydWQxN3F6QjJFZE1RLU1LdnZqNWlzYzZ3MUMyNlhJVmhzbzFkX1dUU2pGLUwxVHM3N2MtbndHc3hwSFlSYmZlSFpLZ1lzVQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:36:06",
+      "collected_at": "2026-08-06T10:33:27.174736",
+      "keywords_matched": [
+        "기후변화",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "악사손보",
+          "임직원",
+          "어린이",
+          "기후변화 교육",
+          "친환경 실천"
+        ]
+      }
+    },
+    {
+      "id": "aacdc98209463842",
+      "title": "원주기후변화홍보관 참여형 이벤트 운영 - 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNnZteFozSFFxeTdWQW5Qd3AtWUZ6cHZmR21FM0t4NUpJQU1HOGpGM280SXBXeUNfRFpSTE85c091Sm93MWpDNjBHVFMzQVJDMnRPNWo3eEZOYUtjbVY1ZER3dHNxOG8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:24:44",
+      "collected_at": "2026-08-06T10:33:27.174790",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "원주",
+          "기후변화",
+          "홍보관",
+          "참여형",
+          "이벤트"
+        ]
+      }
+    },
+    {
+      "id": "75a3e31b3c53719c",
+      "title": "창녕군, 기후위기(폭염) 적응 취약계층 지원사업 추진 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41bFVJc0wxdFNaVDB1bUExUXV6Z2NtSjZ3MThIZnBqZmtfY3dvVTRzTnRiT0kwLTYyMnlfV1Z1ejFnbk8ybWtnY0VkbUl6bkFUZVlIYlJxWXVKWGM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:23:28",
+      "collected_at": "2026-08-06T10:33:27.174816",
+      "keywords_matched": [
+        "기후위기",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창녕군",
+          "기후위기",
+          "폭염",
+          "취약계층",
+          "지원사업"
+        ]
+      }
+    },
+    {
+      "id": "aeb87aaeb3ebdf1d",
+      "title": "헨켈코리아, \"참여형 프로그램 '기후 프레스크'로 임직원 '기후변화' 이해 증진\" - 비즈월드",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZVGRZcUdNcUg0d1F6cndNTVFWS2ZKeGpVTlJsWHQ1SnRhZFlSV1Y2UWpkVVdNUksxRi1vSS0zVWt2MnpWekhUU1RoQ3Mwdl80RnkxNU9wUE1HTndZWFZSWjVjYnNiYXVseVE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:33:00",
+      "collected_at": "2026-08-06T10:33:27.174844",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "헨켈코리아",
+          "기후 프레스크",
+          "기후변화",
+          "임직원",
+          "이해 증진"
+        ]
+      }
+    },
+    {
+      "id": "a58d5a36dc14bca5",
+      "title": "해남군, 국립농식품기후변화대응센터 등 현안사업 국비 지원 요청 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FTHUzcFM3SUQtYXdQUFhiWWZtOUZMc3BTRDQtQkpsbC1Gb05oM0xRQnFoOS12eHZxc3pRemxqaHVzM3Zya1kyLUVPLTA4bU14NnhVUUpBRHhJc0dsREJ1aE9hR0I0NWlFbHgwRDhOS0Q4Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:06:08",
+      "collected_at": "2026-08-06T10:33:27.174870",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "국립농식품기후변화대응센터",
+          "국비 지원",
+          "기후변화대응",
+          "농식품"
+        ]
+      }
+    },
+    {
+      "id": "1183929a5c7692a7",
+      "title": "원주기후변화홍보관, 여름방학 맞아 '기후 탐정' 체험 이벤트 운영 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wdEZic3N2SndNOVp2Nk94R1RlTG5yclh5a0dMYnBJNHJGbnNtdk5fUDVUV0tXRGtxUzBocXMxSkZyaERGQldDdjVfMkxuRzBBLWh1eGUzeDhQRVhZUEk2bnBSRHdFbkh0VFFUUXpkd0g?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:22:17",
+      "collected_at": "2026-08-06T10:33:27.174896",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "원주기후변화홍보관",
+          "기후변화",
+          "체험 이벤트",
+          "여름방학",
+          "기후 탐정"
+        ]
+      }
+    },
+    {
+      "id": "e8052b2b11c761a3",
+      "title": "해남군, 국비 확보 위해 중앙부처 방문…기후변화 대응 센터·교통망 확충 요청 - theleader.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BaGpjWm43TlloNEdXcDFJMlF0T3A4TmtOMm13cWlPMVV5OVBiQ0xZZlpEaHZ5UWc1THVEUVhkYlVMcHItVW10VW01RHhUTS1TU19IUVRnUnhjUG5pMF9GaXFQcDFPdDhZa0tQTA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:01:16",
+      "collected_at": "2026-08-06T10:33:27.174924",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "국비 확보",
+          "중앙부처 방문",
+          "기후변화 대응 센터",
+          "교통망 확충"
+        ]
+      }
+    },
+    {
+      "id": "32f7ff1fde1f65cd",
+      "title": "예천군, 기후변화 대응 ‘노지 밭작물 스마트 관수 시스템’ 도입 - 예천 e희망뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iQ3p3RVdCQk01RC15aGFYX1k1YWUxR0M4QmstR1lqZHNNbWZLaWJYVWg4MmFINTZmOGpFc3RLZkhDV0dBbFFJbDdDb3Z3VE9LTGdvT002bkVhdU84ZkRaenJIYkI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:38:34",
+      "collected_at": "2026-08-06T10:33:27.174950",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "예천군",
+          "기후변화",
+          "스마트 관수",
+          "노지 밭작물",
+          "시스템 도입"
+        ]
+      }
+    },
+    {
+      "id": "7635742f512f3e96",
+      "title": "예천군, ‘예천그린대학’ 개강…기후위기 대응 환경리더 양성 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wdWJheWJ1Z1JmNU5QOEFkaGhFV2VJVEU3TEZ4d0ZSTkZPTXY3WFhtT0duRXptUFZqeVoycFhYMHpKYVppSDZKSm81cXJYRnZHYUtBTUNnQzNfNlNnT3VMbjBVUURNbnZkbFhvOV9RQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:35:35",
+      "collected_at": "2026-08-06T10:33:27.174980",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "예천군",
+          "예천그린대학",
+          "개강",
+          "기후위기 대응",
+          "환경리더 양성"
+        ]
+      }
+    },
+    {
+      "id": "0531908942d23569",
+      "title": "폭염에 강한 ‘노지 만감류’ 나온다···제주, 신품종 개발·품종 출원 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVxcTNHd2otQkdqN2U5T0JkS1dVVklOYmdGQllHRzNEYndfX1BVZHpWTVZ3TDdXZTBiQ21vQnJmRXNJbDZtRjlES2VJRTdBdkprcWJvX1dqWWNDMnV1Vnp5U1I0MWI2Z0NtSmI0NFoxX0xTUkZTNnZvRHFtbFdjLXAtc2VrTEV0NlFfR0VzUUtUcmQyd3hMM3JRUjRSX2lWa2t2R3FqOUxiUdIBX0FVX3lxTE9ucW44OHlyVHk5UGVRWXh0YlhmbERGVTZ3dVdPY3lPX0RxLUkzMktfWnlFakRoQ1d5WEtjazhEN0huYnJjcGZobHFNVWY1Rm0xYng3YTEtc1ctVHp0REtV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:14:00",
+      "collected_at": "2026-08-06T10:33:27.175007",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "노지 만감류",
+          "제주",
+          "신품종 개발",
+          "품종 출원"
+        ]
+      }
+    },
+    {
+      "id": "38c67a797ee574ed",
+      "title": "제주도, 만감류 신품종 보급 추진…기후변화 맞춤 육성 - 제주팟닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYzVWMFQzUWxLdkpNM2lpenFuR25LeW1qWU9wb2dxX3I3YXpUR3c3cDgyTDBSMG5xT2ZkYmpzS2s1R0lpM1dZUHd0NWhSYTM4dXhfald3RFdncTZKRHlZ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:31:33",
+      "collected_at": "2026-08-06T10:33:27.175034",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주도",
+          "만감류",
+          "신품종",
+          "기후변화",
+          "육성"
+        ]
+      }
+    },
+    {
+      "id": "ea710bad9300248b",
+      "title": "\"유엔 총회 세션이 그대로\"… 고려대, '2026 모의 유엔 기후변화협약 당사국총회' 성황 - 스마트경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yTnFmcUhtekZKNG15c2Q5S0lmckF5b1oyWTdZWlg4Q0h3M2x5eVpDTTlKVVZuUk15dGd2NGgtclFOS3ItWS1qOUlKZFFvcG0taC1DWi1fbDgzbl84NHl1bUtPMkJqc3ZYVmJmNzNnb0g?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:28:08",
+      "collected_at": "2026-08-06T10:33:27.175061",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려대",
+          "모의 유엔",
+          "기후변화협약",
+          "당사국총회",
+          "성황"
+        ]
+      }
+    },
+    {
+      "id": "b20d41d8d545cb49",
+      "title": "영양군, 고추 종합평가회 개최…기후위기 대응 재배기술 공유 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tcEY1NC1hVWpsTFk1UWVJcnpyaEExS3lWRkhjRnhGaW5jcTNYdVhTSWtxYTM1NUNXNHhzUXd1dU9RNTF3VTgtVTNZMVdWX0JuTllJcWZlM2RRd2dWQk1BLVFqX0xZajFVcG82UUg5SQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:36:50",
+      "collected_at": "2026-08-06T10:33:27.175128",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영양군",
+          "고추",
+          "종합평가회",
+          "기후위기 대응",
+          "재배기술 공유"
+        ]
+      }
+    },
+    {
+      "id": "71a594257b20887b",
+      "title": "제주농업기술원, 기후변화 대응 '노지 만감류 시대' 연다 - 채널제주",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWOUctN1gwRy0yVGhmRDRUdGpiWVU1ZlRKdmZjdVhmU0J6X05jZUVxWjZEbjNVZ1JzdEpGOG5QelE4aElvX3E0TExhckhOcmdQdnVMaWdud0FtVk9qQ0h3aXBWRVJmVm1WemlJSElGbw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:45:19",
+      "collected_at": "2026-08-06T10:33:27.175152",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주농업기술원",
+          "기후변화 대응",
+          "노지 만감류",
+          "농업기술",
+          "새로운 시대"
+        ]
+      }
+    },
+    {
+      "id": "870f98c3a1b9ef65",
+      "title": "탄소배출 안 줄이면…여름 '앉아만 있어도 열받는 날' 50여일로 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82WGR3YzhLUlpKemhNVEZFZXNNWVdnOTNFUzM2RzhMbTZOVUtGdzFabUk2TlhyaE9wMGhqZWJldjFWaENtWUY2YmpkamJ4UDNZS3Yxc1ZqcFprRm_SAWBBVV95cUxNdzFheERBV2pYSURxYmNuc0oxaUVJM0lvQkM2OG5xaW5WR3FNLVhRUkxjckdyOFE4Z1VfUVdHc3lBWEJ0MFRUbDVhdTFfaEwxVG51T3NNOTlDSG9EMjRiWms?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:00:11",
+      "collected_at": "2026-08-06T10:33:27.175198",
+      "keywords_matched": [
+        "탄소배출"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소배출",
+          "여름",
+          "폭염",
+          "기후변화",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "4d7329e8f5cf0124",
+      "title": "해남군, 기후대응센터 조기 가동·국비 확보 총력 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xandpZWo1OGt5LW8yelFHNjRMd2ZRbVRWSlBWcERrT1ZOTG1uQmdmYnBaX0hBY3VObG9idmhsWXpUbVR2cFlacTg5blJIbW40ZHdnMVVZLWc1bkN1RjVrRDhkVXA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:54:03",
+      "collected_at": "2026-08-06T10:33:27.175224",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "기후대응센터",
+          "조기 가동",
+          "국비 확보",
+          "총력"
+        ]
+      }
+    },
+    {
+      "id": "791342842556b2d3",
+      "title": "“중·고·대학생 100여 명, 유엔 대표단 되다” 고려대, 2026 모의 유엔 기후변화협약 당사국총회 개최 - 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HbXNJMDkxM0hUbEE4ZmRLNVI2SVhjRGhoRmQ4ZEpheWpmS1RqalZabGNwQjc0NEVIWE40dW5xdHhRUHgwWm84OGY0WTRFdGdVTmtYaFUxeHhEMkZPUXRDc2ptWDJCdzg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:15:00",
+      "collected_at": "2026-08-06T10:33:27.175254",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0c3cc822cbb52722",
+      "title": "명현관 해남군수 “기후위기 대응, 국립농식품기후변화대응센터 건립 시급” - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04cGVlLVVxVnpXeXZ4VERQNFhiSjhZendtYVp1VU5aV2pfNEF5d3ozbThmMzFrcjV1SzBuLTVoamhoNnFmNXAyWUIxeUVvU1VFNDJTMXZ5QmlabzBBcFV0Nm9RZ0I1azFiM05fMmhhNktfUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:43:54",
+      "collected_at": "2026-08-06T10:33:27.175376",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a77ddcc5babb844e",
+      "title": "명현관 해남군수 \"국립농식품기후변화대응센터 건립 시급\" - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nckJwaU1MUlROZGNWbkR5NjN0LTNwMHVoRWRscmtfdzdaVy1VMFhnWUtIWjBiWmhkNUU0aUk0UE13OVBORm5ZZ19NNXB3WXlUb0tDLXE4enRZd3BnUVJXdA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:37:00",
+      "collected_at": "2026-08-06T10:33:27.175512",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "명현관 해남군수",
+          "국립농식품기후변화대응센터",
+          "건립",
+          "시급",
+          "기후변화대응"
+        ]
+      }
+    },
+    {
+      "id": "3cf987ab8b8f5348",
+      "title": "극한 날씨 심해지나 '기후변화' 사실로 인정하는 미국인은 ↓…66% - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmQ0tzZFVCYVRwMDZCb3NobGxoeUV3Yl9pdmhPSkJqQ2g3Z19OSmlGa2VMQUpoTGNUWTF5TF9HZHRQWEZkRFNyQzQtSUQ2angxUjNmWE80WDMweUlZY29BMg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T10:12:00",
+      "collected_at": "2026-08-06T10:33:27.175541",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "극한 날씨",
+          "기후변화",
+          "미국인",
+          "인정",
+          "감소"
+        ]
+      }
+    },
+    {
+      "id": "8c9dec29cb4f2804",
+      "title": "[기후금융⑭] 2050 탄소중립과 금융 헤게모니 - 위클리서울",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pa1RuaEZVQ0xCQnBDdTYwRENERW9CeVF3YmcwdEdvRlVrYWgxcU9MaWRzaHhLUURORGZfWHYzZ3pSdUtsdHVzbDZDYjdhV3M5bTZuWGUwUTVRcm1nUTQwZzZPbnhkbVEtOHluUA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T04:49:27",
+      "collected_at": "2026-08-06T10:33:27.175565",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후금융",
+          "2050 탄소중립",
+          "금융 헤게모니",
+          "탄소중립",
+          "헤게모니"
+        ]
+      }
+    },
+    {
+      "id": "b7db11b5dcccef06",
+      "title": "태풍 ‘돌핀’ 지나가도 찜통더위 지속…8월 하순까지 폭염 이어진다 - hidomin.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90S2FQWm95cFlFNGk1VUg0TEFtLUNwUDZILUNTbS1Sb1RfdnZzRWgzQ1pyM0xzODNYMlM5VjQ1R1hPWTFiaU1CTmVwT0JvWnlFWUdJYzV6cFdqOEdNbVVvSWp6QUJ4aVcyVkE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:30:00",
+      "collected_at": "2026-08-06T10:33:27.175638",
+      "keywords_matched": [
+        "폭염",
+        "태풍"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "찜통더위",
+          "태풍 돌핀",
+          "지속",
+          "8월 하순"
+        ]
+      }
+    },
+    {
+      "id": "5803431e3544ec98",
+      "title": "부산연탄은행, 기록적 폭염 대응 에너지 취약계층 에어컨 75대 긴급 지원 - busan.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12RFZHVlhDc1k1WHdOZkJ6Y19LNS1YeXFPaFRYMFlhWl94YW41emRLb0dpejM2eHNKZGRZLXdMbXNpNW1xcS1qV0lkQ0s2NnJGekNZTWFzWHBzOVpUSmF4UDFYN2NyVXJ3Ylo1RGRqaldFWnd4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:50:24",
+      "collected_at": "2026-08-06T10:33:27.175665",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "부산연탄은행",
+          "기록적 폭염",
+          "에너지 취약계층",
+          "에어컨",
+          "긴급 지원"
+        ]
+      }
+    },
+    {
+      "id": "f775f4cebbacfbd1",
+      "title": "S-OIL, 19번째 ESG 보고서 발간…기후 대응·샤힌 프로젝트 성과 담아 - thetracker.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6WnA1WG0tU2gxc1k3N01oMkNKSlRjUXA2WVlDdGMwVlEtdktteVVIdVM2WGl3NzRORVN5OGFCWmc2V25hUnVJdkg0SWxYUHVKWlZPSkxRdUc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:42:42",
+      "collected_at": "2026-08-06T10:33:27.175742",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "S-OIL",
+          "ESG 보고서",
+          "기후 대응",
+          "샤힌 프로젝트",
+          "성과"
+        ]
+      }
+    },
+    {
+      "id": "a0507e1fa03cc835",
+      "title": "창녕군, 기후위기(폭염) 적응 취약계층 지원사업 추진 - 경남도민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rZVN3YmN1VWNHbENaREx2aWluak5yN2pBbC1URmJHdUhLLWk1VUFINWFlMHNQRmlFNjhXMU5DVTZMSl9OcUNicjFpeWdVZ2FwLWxkeUxneVY4bXRnQ2ZtbC1CWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:10:46",
+      "collected_at": "2026-08-06T10:33:27.175809",
+      "keywords_matched": [
+        "기후위기",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창녕군",
+          "기후위기",
+          "폭염",
+          "취약계층",
+          "지원사업"
+        ]
+      }
+    },
+    {
+      "id": "3d61d2a35da9dfcb",
+      "title": "폭염에 가뭄·녹조 덮친 남부…\"산불·수질 악화로 이어지는 역대급 복합재해\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pbEpIMjVxNDlDLVY3cmZMdDJfWG4tUmhldk54SDdIdS12Rk00RDhiZnNMdFY5WmR6MHI0aUNSSHdLQTNmWVI0aktNNXFOVGs?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:45:00",
+      "collected_at": "2026-08-06T10:33:27.175853",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "녹조",
+          "복합재해",
+          "산불"
+        ]
+      }
+    },
+    {
+      "id": "1887dbe38ea09a32",
+      "title": "남부 덮친 가뭄·폭염 복합재해… \"긴 가뭄·짧은 폭우에 물 관리 비상\" - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ3d6Rm5hcmZGcFRZdHZueVZ5QTVYa3RTaHc5aXhINHFhd1RjcGlCOEhjNTNBdmVVUVJwS2FuVFJhY3NGTDJzUm94QXFEMnR2UE5FYzlGVGtPRGI2aVNYVDhPNF9oWFhaUmZHcTBHeDNMMklqQlNpdFVJVFZiSlZ6Tm5oYXNQM0xGSU5BcQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:33:00",
+      "collected_at": "2026-08-06T10:33:27.175879",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "가뭄",
+          "폭염",
+          "복합재해",
+          "물 관리",
+          "비상"
+        ]
+      }
+    },
+    {
+      "id": "eff1c0011b29ac17",
+      "title": "지금도 '헉헉'…미래 '열스트레스' 어디까지 [지금은 기후위기] - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rN0J3dzRkel8xVWpXV3FsRWxIZ3N5X0JvcHpkd2s3VjhQS1lvTmpuZnNLa0dhQTI0NlpKZXRUS2xFMHlXbHFEV2pwUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:00:01",
+      "collected_at": "2026-08-06T10:33:27.175903",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "열스트레스",
+          "기후위기",
+          "미래",
+          "현재",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "1e61d633ef86d074",
+      "title": "고려대, '모의 유엔 기후변화협약 당사국총회' 개최…차세대 기후 리더 양성 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SeFhmb2xoWFdoX2VkUjlvdTFYbk1zd01DQ2hWcVdVMlZmSFNoNExxOGdIWE1xTjNFVFJtVlQxRnpGazRNSUF4SnQyZ1BLYnE3X05uLVAyWWpXcmFfMHJIbVVzLU5zYmY0RlE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:47:53",
+      "collected_at": "2026-08-06T10:33:27.175928",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고려대",
+          "모의 유엔 기후변화협약 당사국총회",
+          "기후변화",
+          "차세대",
+          "기후 리더"
+        ]
+      }
+    },
+    {
+      "id": "58dcaa88f71a2747",
+      "title": "AXA손보, 아동 대상 체험형 기후변화 교육 진행 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5saWJ5VEFtdHg1WmNXYTk0SW9veTdVVTVWenpIczdqSUVLS3FYOHZwVVVVc1VaN0JZd1ZoVVFNQkFVNTBxbHNieFIyQ19JRlhkWXNON3lxNEpfQmNlVU56YQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T04:42:00",
+      "collected_at": "2026-08-06T10:33:27.175951",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AXA손보",
+          "아동",
+          "체험형",
+          "기후변화",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "3fc889e8533a9102",
+      "title": "태풍·해수면 온도가 바꾸는 몬순…세계 기후학자 부산서 해법 논의 - dailian.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxONENHUF9HM0EySnZZdENzUzQtMnZPb3pnRWFMS1lISFpMalF2QXlrakE3RmZTZXNydTZ5VXRsR1lsVlFlRFU1UjhVYmNfRFlWTC1abERDSG02dC1KT1BnMk0tWC1MQUV0Nzl4VkN1dnZoT3kwcDhMdVN2SVFyQmRYaXZwNFAwOGRoMlZ0TjBlb2M4WHo2UVRuUVNxd0dIRjVBOUprbWVCMFRsY2ZmeWNzRGpwN2E2d2NLeFBDckExY1JCTkM4Z3FXSF9NQ210TDNxNGJhV1dCYUM2Z2FqMU5wSkh4T2ZVUms5TmFsTXY2OWQycmItVHd1S0diX1hlMkFheGZzZXFQSUsxc0k3bUEza2RoeWxLZ3RCTHAyVXRSMmZpU1k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:35:00",
+      "collected_at": "2026-08-06T10:33:27.175998",
+      "keywords_matched": [
+        "태풍"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "태풍",
+          "해수면 온도",
+          "몬순",
+          "기후학자",
+          "해법 논의"
+        ]
+      }
+    },
+    {
+      "id": "d1b245910392870b",
+      "title": "폭염의 일상화…갈길 먼 기후보험 - 대한경제",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUTUNSQ3NtT0tUMmE0dlZCT0tjMWRJSE1SdWtqSVBjSDZVYlhPZmpEZ2RJc0ZKdGRydGx6MGt5al9fWnI1QWtKaU5OYkQxVlNzOU93WlRGV0lOSmZrbXZnRHcxcTc0OW9JVEFSTWs5YUZYYjNW?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-05T21:01:02",
+      "collected_at": "2026-08-06T10:33:27.176107",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "일상화",
+          "기후보험",
+          "기후",
+          "갈길 먼"
+        ]
+      }
+    },
+    {
+      "id": "d5fcb8fce9a63ba9",
+      "title": "AXA손해보험, 일상 속 환경보호 실천 중요성 일깨워..지역아동센터서 체험형 기후변화 교육 - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9icGllbDJoaGw2OF9mVHJ2LW15NWF5SXR2c2QwZUNHNUhseWNQZ2pMWkxmVzZKX2FHeUlLbjhvc1RpOHdMQXFFNTJ3WW1PajcxaFE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:34:04",
+      "collected_at": "2026-08-06T10:33:27.176134",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AXA손해보험",
+          "기후변화 교육",
+          "환경보호",
+          "지역아동센터",
+          "체험형"
+        ]
+      }
+    },
+    {
+      "id": "afbd4ce2ceb5a4bd",
+      "title": "에쓰오일, 기후대응·안전경영 담은 '2025 ESG 보고서' 공개 - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MaUZNUWh0Uk1uek5xbG42UUtiLW9xdHR4cktLU2liTzFEQ2NJSHZwSWxEU1FPejdKMkR0SUIxcHpUZnVkcFhHR1A0SUxLaTQtYkZRbkdkV0U1Vk9XQXhFY9IBeEFVX3lxTFBWS1NoZWc5c0RKd1lNM19iVUpLN2oxNTBCN1FOVzlPQzdYeDlLc2xRYmZpVWRxSE4wbHljbVFJcndnTkNjUEhSVjVydmNhTXl0S3lGdExZeUhIeEE1aHI2NUgwanI0NWRzTG5KRGgwbmd2eWY3NU11eg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:22:42",
+      "collected_at": "2026-08-06T10:33:27.176159",
+      "keywords_matched": [
+        "기후대응",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "에쓰오일",
+          "ESG 보고서",
+          "기후대응",
+          "안전경영",
+          "2025"
+        ]
+      }
+    },
+    {
+      "id": "b68a86405ecc8993",
+      "title": "폭염·집중호우 시대…세계 기후 석학들 부산에 모인다 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qUWdyUS1NUWZILUxJWTNrcTBDRDBRdHhsZnNNMkJuTUdfN2kxUzcwaWRjNHRqSzNPX3lMdkV3OVZYUy0tTlloM2xJRDZBRTJtVUpYWW5raWVMOGdDNnVoVQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:07:00",
+      "collected_at": "2026-08-06T10:33:27.176351",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "집중호우",
+          "기후",
+          "석학",
+          "부산"
+        ]
+      }
+    },
+    {
+      "id": "8c18643b7a2d68ed",
+      "title": "“8월 중순까지도 무더위 지속”…남부지방 ‘폭염-가뭄 악순환’ - ekn.kr",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tMXdZR2hoNXNIY0NxY0ZYb0ZMdUk2Z3AteG50QWdQT3hCeExfTmYtby1QMEZDbmhNd1FOZmZxdGtodGdmTHhIVGpaZDktNjRrd216M1ZTcU91a0liZ1VXMTNWQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T04:55:19",
+      "collected_at": "2026-08-06T10:33:27.176410",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "남부지방",
+          "무더위",
+          "악순환"
+        ]
+      }
+    },
+    {
+      "id": "cc50c3fc0a60f5c1",
+      "title": "명현관 해남군수 \"기후대응센터 조기 가동\" 등 건의 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vUWtyVVdNQlNOV1lMR01LYllnUUdWenUtN0xGeDUtME94TkFYdVVwM0o2RDhnUUdLOTRYLWwxLWdna3dhaWNDckJxS0x2c2tJdTVMUHlEMnpKTzhldnd5OQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:36:00",
+      "collected_at": "2026-08-06T10:33:27.176436",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "명현관",
+          "해남군수",
+          "기후대응센터",
+          "조기 가동",
+          "건의"
+        ]
+      }
+    },
+    {
+      "id": "6b3a20c64f283be5",
+      "title": "온실가스 못 줄이면…세기말 여름 52일은 '가만히 있어도' 열스트레스 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zMHBVazQxUVR5dFc1WFZlbXRySWVSVXF5NXVTcjVRS0tiNE8yek9XM2tqdi1ZdDVNSDhFSG5ocW14cDEyenVSczRvT2hoc3M?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:01:00",
+      "collected_at": "2026-08-06T10:33:27.176510",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "온실가스",
+          "열스트레스",
+          "세기말",
+          "여름",
+          "기후위기"
+        ]
+      }
+    },
+    {
+      "id": "947859af1c974873",
+      "title": "AXA손보, 폭염 속 초등생 기후변화 교육 진행 - supple.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aSmppdEFzWjlheWtmUGtJcG9GRm5QYXFZaUkxckozRG4zUXJGV2ZjR3dIN3QxNGdfM3RHNWtVaGdhbnNMSTg0ajZxZktxdUc4XzVENGMxcGlOTVFf?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:49:27",
+      "collected_at": "2026-08-06T10:33:27.176596",
+      "keywords_matched": [
+        "기후변화",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AXA손보",
+          "기후변화",
+          "교육",
+          "초등생",
+          "폭염"
+        ]
+      }
+    },
+    {
+      "id": "8a6cc45166c25e6f",
+      "title": "부산에 전 세계 기후물리학자 모인다…기후변화 최신 연구성과 발표 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZUHIzSURTbFctZllEeXNjWWFRcG9YX0dpSWJ6WGVqb3FERWVKVThQNG1QbmJsZXZZMFgtekQyM0pSSjFnV1haQ0hfeEl6a2NrZFFvNUt6dDlac3A2aHJvQw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:24:00",
+      "collected_at": "2026-08-06T10:33:27.176621",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "부산",
+          "기후물리학자",
+          "기후변화",
+          "연구성과",
+          "학술대회"
+        ]
+      }
+    },
+    {
+      "id": "555502ae66bbf981",
+      "title": "원주기후변화홍보관, '도미르의 비밀임무: 기후위기의 단서를 찾아라!' 운영 시작 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yaVNNcXFuYU1DdU0yRTFyQlJ1cjVBTWRfSlZtMmtHckhJX1JKc3owY2M3TU1aY3V5dDY0dXQ0Wm1pS0YwYXRXaG03Y3ZBYzJlSV8weE9jbzRXQzBzeDRfZjBfM1Q3LWtjSnR2d3FSRVdGQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-05T23:53:17",
+      "collected_at": "2026-08-06T10:33:27.176646",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4b33efd761eea5bf",
+      "title": "\"기후변화 대응\" 제주 노지재배 만감류 신품종 보급 추진 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpZ256SEdCV1BWcTkybDVSZEdiQTllNDdhYUpuNkRBS2NqV1U3QWZUSkZTbGcyM2w3YjZ5MXBTbHM5RVZjYkJocWcxQ2FYOG1raHRVQ2FVak0wOGJpT2MxUg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:14:00",
+      "collected_at": "2026-08-06T10:33:27.176670",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화 대응",
+          "제주",
+          "만감류",
+          "신품종",
+          "노지재배"
+        ]
+      }
+    },
+    {
+      "id": "c59f8bc05576481c",
+      "title": "오산시, 기업 현장 찾아가는 탄소중립 교육 추진 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xLUZmRzNYdzdjWEhucFRJdC10V0FhbnVCZVdPWExmdkFUQzFFZkxtMDlVTVhoZTQ0X0Ywb01YV0F6ejFiUDZUM0dNMndkU3VYcEVSWHE5QUpDTlpNVmt2VXE0T1phMkowU3BqcERn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:58:03",
+      "collected_at": "2026-08-06T10:33:27.116799",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "기업",
+          "탄소중립",
+          "교육",
+          "현장"
+        ]
+      }
+    },
+    {
+      "id": "61d9d6fc4170a4bf",
+      "title": "인천 미추홀구, ‘찾아가는 탄소중립포인트 가입 창구’ 운영 - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NSVB1RlUwQTM3MFNSVDExTU5lOHc0ZU91NWc0REt5Z09DTWdqa1V6R2h0UGdBQlBLS0tlQ0VCbE9mVjU1NWhmc3I0WkV5Q2FwOVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T10:01:40",
+      "collected_at": "2026-08-06T10:33:27.116840",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천 미추홀구",
+          "탄소중립포인트",
+          "가입 창구",
+          "찾아가는",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "872664bd288d81cc",
+      "title": "\"달리며 탄소중립 실천\"…'제12회 I LOVE 방송대 마라톤 축제' 9월 5일 개최 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Cb08xQ3laenI5VklHdFdwMDYwX2pZdmE3alFLUVJlSTZyZ0N4dGJQbzNZUnp0ZEhnbVUwUTNLa2NhWlRWdUs3Z0FzVXlxQlJaWGp4V3ZnTHhBTFpuTk9lNA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:45:00",
+      "collected_at": "2026-08-06T10:33:27.116875",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "마라톤 축제",
+          "방송대",
+          "실천",
+          "달리기"
+        ]
+      }
+    },
+    {
+      "id": "94f48cc20dd74738",
+      "title": "공연장도 탄소중립 시대… 사운드얼라이언스·이온어스 맞손 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVUllVmFXS3ZJYUhpNFV0OGdLWVhxbGNuRkJnTG56eXlyOVBOUm5zeXRIZWltVk1KN2tHYTJxTW80Z09nQVBacUx0V1ZSVVEzVTB6N2doSzhHbEttTHJiTm1sRnFEVmQwWEVwa2k0UVRkOFc1c1ZjR2J2X3V1WFE1WA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:32:40",
+      "collected_at": "2026-08-06T10:33:27.116906",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "공연장",
+          "탄소중립",
+          "사운드얼라이언스",
+          "이온어스",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "b105d0da00b9b1fd",
+      "title": "방음판이 태양광 패널로, 군포시 '일거삼득' 탄소중립 - OhmyNews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JS3FjclVWVkdkQWozS2YxTFc5cWMwbmpIRGpxZGYtSzVsVzhBOWh6eXRLRnFFVnVXaGJXYzQyTmxwa1NVbGU0cXJqcXAtNkY2ZENGbS1yd0pCd0pMYWVtSlA1cTg1WE9WWnBlODZ3Tjd4TTF4cHpZ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:23:00",
+      "collected_at": "2026-08-06T10:33:27.116941",
+      "keywords_matched": [
+        "탄소중립",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "방음판",
+          "태양광 패널",
+          "군포시",
+          "일거삼득",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "6e846fb73e7a9a15",
+      "title": "탄소중립과 ROI, 두 마리 토끼 잡는 AI 제조혁신 - 공학저널",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZX1hnZ2YwTGtKaGQ3UDRBc1MtU1g2cDE3eldySXZabWZsdi1scjllMEQ5NXB1ZGItb1hzRzNpcGpoSzlLcHhQNlVGcW42MHpNeVJQd09TYUpqWHNrOUlNMjNfak1rajUtcm5CVA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:38:47",
+      "collected_at": "2026-08-06T10:33:27.116999",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "ROI",
+          "AI",
+          "제조혁신",
+          "두 마리 토끼"
+        ]
+      }
+    },
+    {
+      "id": "0b7e8c94bd1bef64",
+      "title": "오산시, 폐기물 수집·운반업체 대상 찾아가는 탄소중립 교육 실시 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fcU5ETlg2ZnRNYWd1amVoR0IySUNvRVJLZXZ2REtSVVBLNFdLN1pfaERLUU9nbUljclJuYlFzSVRULVJEZ1YxTnFTeXUyTG9uYnR6QVl6dkRSMmNXNTFTU2FNMS01TWlPX2xr?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:22:09",
+      "collected_at": "2026-08-06T10:33:27.117029",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "폐기물",
+          "탄소중립",
+          "교육",
+          "수집운반업체"
+        ]
+      }
+    },
+    {
+      "id": "edc4a34646bd1fb0",
+      "title": "인천 미추홀구, 찾아가는 탄소중립 실천 캠페인 전개 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FM0syM0g4NTk3bEp0cVpObTdCU25QLTVUU1U2Vnh6VXVxNl9uMEVhNy1GTHJuUmxxVl92bDVsSlNqMW9PbEhiSTMwU3cxeWVCM3lXeF9KdnJ1cHVDUHZjQl9yblg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:05:13",
+      "collected_at": "2026-08-06T10:33:27.117057",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천 미추홀구",
+          "탄소중립",
+          "캠페인",
+          "실천",
+          "찾아가는"
+        ]
+      }
+    },
+    {
+      "id": "8aeec1eecae19134",
+      "title": "인천시, ‘2026 그린에너텍’ 탄소중립 기업혁신 협의체 공동 부스 운영 - 이코노믹포스트",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jV3J5c3U1aF9zWWJwSU9wa3VIcTRaMVhXUTZlLXdYWDdIZjh6eFAzRm1KYzd0VWs4bmkyUHAyYzNpWHA2TTNEbmtSakI?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:41:53",
+      "collected_at": "2026-08-06T10:33:27.117086",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "그린에너텍",
+          "탄소중립",
+          "기업혁신",
+          "협의체"
+        ]
+      }
+    },
+    {
+      "id": "c2b4c5b05efa8e8f",
+      "title": "의성군, 로컬푸드 도시락 만들며 탄소중립 실천 배웠다 - kbmaeil.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QRkc5Wldab3lFTm5Xc1UySXlpTHNwODZDaldJUW0tOVdSUlRocFNQYXNxVFVwVUJKcnBsR2d0WXRvaUdqTm5faFpUY2llNHpyVnlvMVRBMXNBZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:16:00",
+      "collected_at": "2026-08-06T10:33:27.117114",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "의성군",
+          "로컬푸드",
+          "탄소중립",
+          "실천",
+          "도시락"
+        ]
+      }
+    },
+    {
+      "id": "7ae7cc2c9ed80a9f",
+      "title": "광명시, ‘탄소중립 정원’ 조성 - newspeak.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xZVpUdDl0aVhNR2xVdi1fUjd0cWY1QktQLXNfWUhLOVA4dFE0SWFRM21DRjI1RV95ald0RXZXQ0F5bGd2ZGJJTU5kQTJFS1owemx2blNWek1oQnNPYTJvc2xuS0k4dFg0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:53:26",
+      "collected_at": "2026-08-06T10:33:27.117187",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "정원",
+          "조성",
+          "기후변화"
+        ]
+      }
+    },
+    {
+      "id": "ce445d0172f39c89",
+      "title": "의성군 탄소중립지원센터, 제3차 에코투어 ‘로컬푸드’ 주제로 환경교육 및 체험 진행 - 대경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2VkhrM3NWS3lKZlltelJnN2xJUHFTRzlGa2pRblBvU1hyMktiVHJweEJOZkFldVgzTDdLUzdIRW1NZnlmS1VhbURBR1FPazFIVFFmcFFyNlE5RDBicUYtMzdHRnkzLWk3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:17:17",
+      "collected_at": "2026-08-06T10:33:27.117222",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "의성군",
+          "탄소중립지원센터",
+          "에코투어",
+          "로컬푸드",
+          "환경교육"
+        ]
+      }
+    },
+    {
+      "id": "a3b60d34b11e216e",
+      "title": "‘탄소중립 마을 학교 3탄’ 현장 견학 나선 광명7동 주민자치회 - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyWFZJTHVGVjFjcjA4c2pNVXYxdC01UElmMHlncUpqMlY5MTVpdTVqTEttME5Gc0JvS3FUVFJnWU5BZGlXN1FzdG04YW5qNy1iX1R5T1pTdHNWNElzUk1LN2JB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:46:29",
+      "collected_at": "2026-08-06T10:33:27.117250",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "마을 학교",
+          "현장 견학",
+          "광명7동",
+          "주민자치회"
+        ]
+      }
+    },
+    {
+      "id": "a06ed2b85ebb404b",
+      "title": "미추홀구, 공동주택 찾아 탄소중립포인트 가입 지원 - livesnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4alZ2dXczeFc4UzZBem9tVnJpU3dQcFEtY21YVmtEa1R2cGQzWXJFbms3Y1A5VkpMcWdLNmFfWW9QcW1NRW9aWTNhXzl5enhkM2NuRWVmN0tZeUFy?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:04:04",
+      "collected_at": "2026-08-06T10:33:27.117276",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "미추홀구",
+          "탄소중립포인트",
+          "공동주택",
+          "가입 지원",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "4c17e3afeea18d34",
+      "title": "철거 대신 재생…'순환경제' 건설업계 탄소중립의 새 해법? - ESG비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1X2pJcEN6M2xRM29DVnhqYnlXVGZNZjFTZjRKSEZMUk1VbzJRSlJxMUZUdkdMSnVQdElmcm5tZ2dtVE1LbHZCWWJXd082OHFFMmdTbnZNM1lLdTlSTnhGbVlJLThRc0d3XzAyX3IySi0waGc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:51:13",
+      "collected_at": "2026-08-06T10:33:27.117303",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "순환경제",
+          "건설업계",
+          "탄소중립",
+          "재생",
+          "철거"
+        ]
+      }
+    },
+    {
+      "id": "9bc594413eb93901",
+      "title": "인천 미추홀구, ‘찾아가는 탄소중립포인트 가입 창구’ 운영…탄소중립 실천 확산 - 여성종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GNGJQN2lXenBvZWxjTlo5cHhvbVo2TGVrUmUxSVpVTlpmUllFVENPTFl6YzZFOUZjQ29fbEFGNFpnbU9KRDhMWU5UUlBralo3SEZ1UDFQRmdRR3pobkV4V1pBa1MxS2dfLThyRmVodw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:37:23",
+      "collected_at": "2026-08-06T10:33:27.117330",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "탄소중립포인트",
+          "미추홀구",
+          "실천 확산",
+          "가입 창구"
+        ]
+      }
+    },
+    {
+      "id": "b6d2cbc0998e2b17",
+      "title": "오산시, 관내 기업 대상 ‘찾아가는 탄소중립 실천 교육’ 실시 - 브레이크뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBnazJNWVZaZkpqSUZzWFRvcjU5S1FWNzB6MGhicUVBSGZUSnVkR2hucHdlbTBIZ0FSSkxkck1hQ3JHUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:26:00",
+      "collected_at": "2026-08-06T10:33:27.117356",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "탄소중립",
+          "교육",
+          "기업",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "31db8a27ba74b4ed",
+      "title": "오산시, 기업 찾아가는 탄소중립 교육 첫 추진…폐기물 업계 실천 방안 공유 - 공감신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PMFpnT3BaeE1CYVAwTi1fSmtJSlFZaGxwNmE3RjR4TTVaSXQyWGJ3bkxyWHNUZHMxc2RmMXlsbzFNM21PUE9KSkpoZDdFYW9ZTkdkUXV0QncwUFRLWUV4Z2cxU2pCMmM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:15:37",
+      "collected_at": "2026-08-06T10:33:27.117387",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "탄소중립 교육",
+          "기업",
+          "폐기물 업계",
+          "실천 방안"
+        ]
+      }
+    },
+    {
+      "id": "636862e09ae11a8e",
+      "title": "\"안심 관광·튼튼한 경제·탄소중립 교육\"… 원주시, 시민 체감 정책 잇따라 추진 - 강원신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zNkVCRUhXdFRzNkhrZTlYNXF4dVB4ampQd01yUF9hMG5DbEw2UnZCT2tYTm5BQmNmeWd0WDA3Tk9oRE90LXJSOUtlSU15VmN1VkNHZnNRZzVUb0RfaExqcERhZE13enVa?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:04:01",
+      "collected_at": "2026-08-06T10:33:27.117413",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "원주시",
+          "탄소중립 교육",
+          "시민 체감 정책",
+          "정책 추진",
+          "안심 관광"
+        ]
+      }
+    },
+    {
+      "id": "7a66f39f730a8669",
+      "title": "광명시민이 만드는 평생학습원 '탄소중립 정원'…정원마실 프로젝트 추진 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OV29EZ3lIOWhtQV9ubGdBSUIxZ2JhUzVqMDI4M3dUc2ZrSG40RE9SaWR6Z1NfM1hiN3RvYzZXbHJHR3pfc0I4cEFJZVFzNzFmd0dZTDktSExZSzlXdHJJaGFUOUh6bnhkYjhv?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:28:59",
+      "collected_at": "2026-08-06T10:33:27.117439",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "정원",
+          "광명시",
+          "시민",
+          "프로젝트"
+        ]
+      }
+    },
+    {
+      "id": "c045dbe12ff4a5f3",
+      "title": "인천연구원, 인천 탄소중립 청년 서포터즈 중심 ‘자전거도로 이용 활성화를 위한 리빙랩 프로젝트’ 운영 - 이코노믹포스트",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pMlVSSEJacTRiTU9PTnllQzVYSHBxekVPQ1hDTmZZVTUzelBwTEFyekgzV1dKQ1pqbTZHVG01QWRGcl9OelFvbDl2dUg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:10:11",
+      "collected_at": "2026-08-06T10:33:27.117468",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천연구원",
+          "탄소중립",
+          "청년 서포터즈",
+          "자전거도로",
+          "리빙랩 프로젝트"
+        ]
+      }
+    },
+    {
+      "id": "5f499e574f354c92",
+      "title": "안양시, 범계역서 에너지 절약 캠페인 전개…탄소중립 실천 문화 확산 - 여성종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLUFp6b2JObnNrTmNfTUJJTkx2cjNHdUVQRk1HRGpJRlZZOE9oQlczaWktWl9pTWFWR25yamVHdWVzenBDNGpBM3dHRFFQaUx5SGluY1ZRODRXdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:24:35",
+      "collected_at": "2026-08-06T10:33:27.117550",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안양시",
+          "에너지 절약",
+          "캠페인",
+          "탄소중립",
+          "문화 확산"
+        ]
+      }
+    },
+    {
+      "id": "7acfba932a6de3d4",
+      "title": "김대진 도의원, 한국생활개선서귀포시연합회 농촌여성 교육·문화·탄소중립 한마음 실천대회 참석 - newsnjeju.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5eFhBS3JOV0pvMmdkRlFBV0ZuZ192c3pBQ1U5U0h4bXBKMkVLbzJjc2N1cFVCTTgyUElLdkx4N043RDNPbktMbmsweUpFczM1SGgyZ2RtcUx2aURham15MHNrdGYyMTZ5YUJZTw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:52:27",
+      "collected_at": "2026-08-06T10:33:27.117627",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "농촌여성",
+          "생활개선",
+          "실천대회",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "da6d11db199f100c",
+      "title": "청소년 ' 탄소중립법 하한선 반대'···국회 개정안 비판 · 달라지는 점은? - supple.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqYWk4YmNvNWNLMXRqbWpLWGx3TVZJdzVSRWZIM1dNU3R2YzcxbUh2a0wzWDIxdU9iTGFOV1A4dXR2djB1Qi13S3V1QUQwNWVod2l3T0FWalhxc1gw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:47:20",
+      "collected_at": "2026-08-06T10:33:27.117674",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "청소년",
+          "탄소중립법",
+          "하한선",
+          "국회 개정안",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "87fc4dd85c465b3a",
+      "title": "명현관 해남군수“기후위기 대응, 국립농식품기후변화대응센터 가동 시급” - 일등방송",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8yQmwxaE84VTNKdlRHeUJQaTlpeDhCWXZtMU1kOF9qRXlXZFNtRkxqVUl3SzB4aUhiWTNZb3lwOG5WSjhE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:55:00",
+      "collected_at": "2026-08-06T10:33:27.117700",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "농식품",
+          "대응센터",
+          "가동 시급",
+          "해남군수"
+        ]
+      }
+    },
+    {
+      "id": "13997724ce70f42f",
+      "title": "태안해안국립공원사무소-식생매트공업협동조합 블루카본사업단 탄소중립을 위한 업무협약 체결 - 태안미래",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VWlJzXzBLUkRObld2NTRnRGVNMkNMeU5na3dFRmxFdGVlSmZiLWJVbVltVXlBZk1Rcm9ZNGtNRmxWTFlKR0hmVlNQQXY2Y3JrMExGUWZuSE5SNXdyT2diQUtLencyQ0hWYVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:39:00",
+      "collected_at": "2026-08-06T10:33:27.117725",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태안해안국립공원",
+          "블루카본",
+          "탄소중립",
+          "업무협약",
+          "식생매트"
+        ]
+      }
+    },
+    {
+      "id": "74f2e37e681fc2c3",
+      "title": "오산시, 기업 현장 맞춤형 탄소중립 교육 실시 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zR1BUTno4UW5pNm1Menh0M2UwSk5QTkY1TF9sVkdBOUJCcWU5UDRCVTZuODN2Q1lKVGI2YWtLYnNHMVdjS1VwTlctWThPeUpuLTlMd1hoTnJWby1GV0owdmNNQUNIaDdHWUlMTkVLNnVOdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:58:08",
+      "collected_at": "2026-08-06T10:33:27.117769",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "기업",
+          "탄소중립",
+          "교육",
+          "현장 맞춤형"
+        ]
+      }
+    },
+    {
+      "id": "7c81d7170858ac96",
+      "title": "미추홀구, ‘찾아가는 탄소중립포인트 가입 창구’ 운영 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FM2NMWTU0ZTJ2VDhrcFlob3ZYODdoYXlKQ1Q5NWVjRXI3QmctYVFDX3FWLVFNdWJnZkQxQ2pQV3YxMGJLS2daam5qenF2T01IUVdubURHUGdjVmg2?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T10:15:32",
+      "collected_at": "2026-08-06T10:33:27.117856",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cc989dc084163f6a",
+      "title": "미추홀구, 찾아가는 탄소중립포인트 가입 창구 운영 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NWJfaGo2bzhjMmFUTVhvZ3VrQkM5V25PdDVNRmNXbjBxYTl5dnhWZXBrS0lQVlJMTlUzb3d5MUZnbmhKUTRCTm54UGRlWGg2SkFZQ0dmM1dmd1RKN29hbnFQVWIzOUgwRTBycWE4ck1GQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:50:58",
+      "collected_at": "2026-08-06T10:33:27.118041",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "미추홀구",
+          "탄소중립포인트",
+          "가입 창구",
+          "찾아가는",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "4a2bc5fd8ceae64f",
+      "title": "광명시, 시민 참여로 평생학습원에 탄소중립 정원 조성 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Lem5oS2xXMmtxSzZLVGpuSXdSdjFfOUduMjZkbXVBX0NMdEdnODNhVThwdmZ4R3prdTNidHp3X3NaNXhxdy1IU0t0NnIwaC1YWk0zWjduMnRIWlQ3ZzhMS0t1M04tZExraFlQSHRoQ1BRQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:53:20",
+      "collected_at": "2026-08-06T10:33:27.118190",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "탄소중립",
+          "정원",
+          "시민 참여",
+          "평생학습원"
+        ]
+      }
+    },
+    {
+      "id": "b2c0d45fa6b50cb8",
+      "title": "인천미추홀구, 공동주택 찾아 탄소중립포인트 가입 홍보 - 세계뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93TzZ3NHVMWWszY19faThLMU5idmNwTS1ReFBiSDVSYWRqeG9rUDJvb0tXMnhpMXVNQ0NYd2JKLWF5cVBjRjhsZTl4WWZIRWxTWEtUU1ZMSlZtemZYdTZuTUZzVW91N0p3TnBPaGdCVFN2RmFq?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:46:23",
+      "collected_at": "2026-08-06T10:33:27.118572",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천미추홀구",
+          "탄소중립포인트",
+          "공동주택",
+          "가입",
+          "홍보"
+        ]
+      }
+    },
+    {
+      "id": "f390c0d6fd4d8609",
+      "title": "HD건설기계, 재생에너지 사용 확대…2040 RE100 달성 박차 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnZVJyYlk4V3N1UzZjaExoNkV2Qk9NaE9JaUhVN3ZCRno4NmhGenRib3JaWUQ0NVAzU0FNSWY0SXdLRWpNNm4yOG45bVM4UWFqRlVZUm0zbDUzX0pZdDktQg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:53:25",
+      "collected_at": "2026-08-06T10:33:27.228852",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "2040",
+          "사용 확대"
+        ]
+      }
+    },
+    {
+      "id": "145576b641e548c4",
+      "title": "HD건설기계, 인천공장에 재생에너지 조달 확대 - 이투데이",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0ZWZaVGxtQ2dMWGxCQ1JyLUhCajFQcG9yOUVtM1o0SFZITldvNUhydDB6RmJub2owcGt5dU5LQlQ5dGJJaWxIRlJ3akdaWG4wX3Y2dQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:55:00",
+      "collected_at": "2026-08-06T10:33:27.228905",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "재생에너지",
+          "조달 확대",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "a21569466e38b7e7",
+      "title": "HD건설기계, 재생에너지 전환 속도…국내 사용 비중 40%로 확대 - dailian.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOUHBOalZDR1A1amYwRWR1VlhOdVRVY3BocGQ4QnVVdnYyRVRfUThvOFNERktlb2FZa2YtT3BZVWljVzcwQnFqcUVUSm5hYkRSNlVJcVE2aHpFN18ySjY1M3hhdjh1aHYyeHdBQnVHdVNna1pPSG5QM1ItX01oamFmb2hUVVZMQVhSOG14a3RnSGZoOC1DQndiS01nT0FBLWFEZnBxZk1Rczc1SlZlNGRFSXBiSGpORnFFWVRyYXBYZnM1cFZtaWlzejdZSjRWOGFfcGVTaVc2bDV1bXBZLVpKSWhSSHRYN0lJTlJSMXM4NGQ3ZzdCOXZhOGlfdDE2TVU4R2lVSjdSd0xqVkl5VGJybmN5Ui1SZVVp?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:58:00",
+      "collected_at": "2026-08-06T10:33:27.228957",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "전환",
+          "속도",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "262bfbac129f43db",
+      "title": "[K-GX에 보이는 미래 ②] 재생에너지 관련 투자해도 실적 문제없다, 투자건수 상위 50개 기업 현황 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mckRMYUJyUGxYNktVdHRaZy05TEFHc2RQeUxvV3FhUUV5T0RWVzFpOWpzaE9xTHYyOFUzMXgxelhDQk83OXlMaXlvd1lsOUU4UGtyNWJDbFRlMGhqQ05KWUNJWENiWktlM2dRcWh4ak1ET0U?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:27:44",
+      "collected_at": "2026-08-06T10:33:27.228988",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "투자",
+          "실적",
+          "기업",
+          "K-GX"
+        ]
+      }
+    },
+    {
+      "id": "ceb957271d4f88b5",
+      "title": "“재생에너지 생산·산업 유치·지역 상생을 하나로 연결한다” - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CU0Jxc3hLUWJNek1zZmdGVjlYMkZaUTI4eWVsT1NOU1Y0VC1tLUhjSkFtanM4eFo4QWdWSWxQOThFWFlIZTJpVFVPSkVtTTl0U1NpY2Z0MU5LTi1rNVZhSk13YW1RS3JBQjlFNDQyRWJyUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:04:56",
+      "collected_at": "2026-08-06T10:33:27.229036",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "산업 유치",
+          "지역 상생",
+          "생산",
+          "연결"
+        ]
+      }
+    },
+    {
+      "id": "f14c55fcfcb7d3cc",
+      "title": "HD건설기계, 재생에너지 사용 비중 40%로 확대…\"2040년 RE100 추진\" - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Kbjk4TUlxdmxmQ1M0Q1hIOERWekdQLTNiRGFIb1R2ZXlwc2hWM0hCTWFCcXprTkFabkgwV2otblF1UUZCcDBWWjc5V01OTlZMdl9vOW9WRjVMa2hJU2xNRdIBeEFVX3lxTFBzeHZqV2JzVk01TlV4QTlKaDJBWkk4dHBEbThnSzdyYkxzY3dfNUY1bUprR0pOLWJacVQ0S3dGUDZPcHkwcEZWd1pFZ0hVMTZobDY0dHAzRUZjb01mNk96R1B0cS1ucUpOeU1oMEtQVTAwQUtxdXFSNA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:10:31",
+      "collected_at": "2026-08-06T10:33:27.229066",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7bda8f22083e1182",
+      "title": "HD건설기계, PPA 체결로 국내 재생에너지 비중 40% 확대 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aLXYtQVZhX21OTVBnWXRnaDRMd2ZQRTVZTnZSY1dIdEFiclRwSXdVbk96NVctMlgtcE9wUk9WV0dQQXNrMHlWVVkyS0dCLTVYLWpUY0FkVmNjXzlqYXQ1ckxTdkFHZ1Z6SFRmRnZOUnrSAXBBVV95cUxNWi12LUFWYV9tTk1QZ1l0Z2g0THdmUEU1WU52UmNXSHRBYnJUcEl3VW5PejVXLTJYLXBPcFJPVldHUEFzazB5VlVZMktHQi01WC1qVGNBZFZjY185amF0NXJMU3ZBR2dWekhUZkZ2TlJ6?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:00:48",
+      "collected_at": "2026-08-06T10:33:27.229095",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "PPA",
+          "재생에너지",
+          "40% 확대",
+          "국내"
+        ]
+      }
+    },
+    {
+      "id": "b0ec3b8d75a6c91c",
+      "title": "AI가 쓸 전기, 재생에너지로··· “내년 태양광 10GW 보급” - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBBWk5sMHBvdnJ5UHVoRVYyd3VkVGh6bWpldjFLLXFMQks5Q1NqT1VXMTRzWTR6RzJVLURxVF9DY1ZCOVpva29MYVo3UFN0eE41R3ZvTTM2dGZ6Q0k4RkJLWDgtWkdDU1VM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:29:21",
+      "collected_at": "2026-08-06T10:33:27.229127",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "재생에너지",
+          "태양광",
+          "전력",
+          "보급"
+        ]
+      }
+    },
+    {
+      "id": "da0ec30c6c78a24a",
+      "title": "HD건설기계, 인천공장 12.4MWp 전력구매 계약…재생에너지 44%로 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1Q0xDU2lpV2xVZTJiNDNuQlphZTlQVjh6S1JKdUhVVUdUbDBnZTZTUUV2d196b2pqNmlUck9vMWxqLWdqdjFiZnZkR1RBdVFqOGRKZGt0RWYtUThsM1NUddIBYEFVX3lxTFB1Q0xDU2lpV2xVZTJiNDNuQlphZTlQVjh6S1JKdUhVVUdUbDBnZTZTUUV2d196b2pqNmlUck9vMWxqLWdqdjFiZnZkR1RBdVFqOGRKZGt0RWYtUThsM1NUdQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:30:00",
+      "collected_at": "2026-08-06T10:33:27.229154",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "전력구매계약",
+          "재생에너지",
+          "12.4MWp"
+        ]
+      }
+    },
+    {
+      "id": "fb93f12fba4e8155",
+      "title": "HD건설기계, 인천공장 전력 구매…재생에너지 조달 확대 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4WHNLUDl5NG93Wi1ucFBkYWNObHgzazNFMF9nWkx1OUo3TW9OdXR5Zm9yUTBYVlZabDA4ZEJTd1VYSmRNSjBnNHJBMWJvOFl4V2I1bUdfbnJGLU4wRkVpbjFwbnZUZzZoQ1BSaE8wYUk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:34:19",
+      "collected_at": "2026-08-06T10:33:27.229202",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "전력구매",
+          "재생에너지",
+          "조달확대"
+        ]
+      }
+    },
+    {
+      "id": "fe32b91acf2620ae",
+      "title": "해남에 국내 최대 400㎿ 규모 '태양광 발전단지' 첫 삽 - 대한민국 정책브리핑",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQnJsSVhlZmFrMW8zZkVlRV9kSm5fTXdBdWd3c0R3dzZFbkphbHA5dG41T2xQOFZTSTRRRXItSDJTbUV6RWtaVTlrYmZXZzRPMzdrcTRWVnNWM2lqT3JaOXNVamdYWEdxTlBIcGFIZDJaeVBVeWktZV8zdER6RjVVeFZWalE0Y014Vmc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:01:06",
+      "collected_at": "2026-08-06T10:33:27.229232",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광 발전단지",
+          "국내 최대",
+          "400㎿",
+          "첫 삽"
+        ]
+      }
+    },
+    {
+      "id": "3f84a60cc6578c8f",
+      "title": "HD건설기계, 재생에너지 사용비중 연내 40%로 확대 - 국토일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PazZyNHdfZkdqZE15dzZPcG5MTjJ2b1JLNjIxZm8xN0lNMnM2MXY2Z2Y0b1BWTUs2c0ZaeFNOVzBWeUNxSWxmR2dBX0cxb3N4cGJsX2tTbUdPVzRxV1plNjBuVQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:24:18",
+      "collected_at": "2026-08-06T10:33:27.229257",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "사용비중",
+          "확대",
+          "연내"
+        ]
+      }
+    },
+    {
+      "id": "c83a73ea6b0827d2",
+      "title": "민주당 박희승 의원, ‘재생에너지자립도시 조성 및 재생에너지 공급협력지구 지원에 관한 특별법안’ 대표발의 - 전북도민일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDBxbFFLMG0ycWUxTDB4d0VKcUllc0lRcEZSZGk0SUxYWnFOalEwNFFQd2duYnYxbkM0OEF6ajR4ZG51X2RDZjlrME9RdkRCM0dwNU1qVmU0aWhuVlVLTnd1cjJLcU1UWjFMakQxVElRUXhna3NJeUhWQi1tX1lEaWlhNjhhQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:05:19",
+      "collected_at": "2026-08-06T10:33:27.229286",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "특별법안",
+          "박희승 의원",
+          "자립도시",
+          "공급협력지구"
+        ]
+      }
+    },
+    {
+      "id": "bb4c86277b717678",
+      "title": "재생에너지 100GW 조기 달성 본격화… 태양광, AI 시대 국가 전력 인프라로 부상 - 솔라투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aR1BNbjl1Rk1lVjF1ZU5iTGdZWUdCRzlGMEVpMW54ZExzTUJzUlNlcjVHZ1dqSkx5OWVZeDI3WVVWUy13eVR4YVdNTWROMjRBSGI5Ymw2bHI2WjhtSGFBaWtORm1QN0pZT1FWTzk2b2I?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:45:58",
+      "collected_at": "2026-08-06T10:33:27.229314",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "100GW",
+          "조기 달성",
+          "태양광",
+          "AI 시대"
+        ]
+      }
+    },
+    {
+      "id": "ea3bba1d66669f27",
+      "title": "HD건설기계, 재생에너지 조달·공장 효율화 ‘투트랙’…RE100 속도 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZXBTcnhzdjlFbW1fTmplVVBmd0VVbUJUSms4Uy1hczB3X1pJb1JyUWk4YmVzR1ZVbngtMU5jODY2U3JidzNDSWpCX2VlYzFsNVFWY290VjlLY1ZETnJMSnN4Z0Q?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:53:38",
+      "collected_at": "2026-08-06T10:33:27.229339",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "공장 효율화",
+          "RE100",
+          "투트랙"
+        ]
+      }
+    },
+    {
+      "id": "6272acf2ca351eee",
+      "title": "HD건설기계, 재생에너지 사용 40%대로 확대…2040년 RE100 이행 속도 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96VmttZkI2ZHhvR0N5alY5RWZPOVh2QnFTY21xOFVIN0RJNFgtMk1fYkhQSVZJWFlkOG9QN1paVllxUElaSWlmZ01KNWVNdWxwa2tVZEdWYm95RUVSU0VmOXFremM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:07:20",
+      "collected_at": "2026-08-06T10:33:27.229365",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "사용 확대",
+          "2040년"
+        ]
+      }
+    },
+    {
+      "id": "8dcd4cea972e33cb",
+      "title": "국내 평균 3배 훌쩍… HD건설기계, 재생에너지 비중 40% 뚫는다 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nNkRFN3JjNlcyTTQ4eFlMZW16N3BhVkpleFZFeTJsLXRaTnpYUm5JX21WbzZRa0pUcnkzdzFHTExhcDJzUkxTa1RIX2xzVk14Q1ZZenFhcTdIY19OSFM2a2l4VTBpNU01?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:03:00",
+      "collected_at": "2026-08-06T10:33:27.229392",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "비중 40%",
+          "국내 평균",
+          "친환경"
+        ]
+      }
+    },
+    {
+      "id": "876c179746eddb81",
+      "title": "HD건설기계, 국내 사업장 재생에너지 비중 40%대로…2040 RE100 이행 속도 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ3o0Y2E4eXpsblowV3ZQM0FMZlA0aUlweTh4QmJYbFZLblQ1dF9qbXRVLW4tOWN4RkZQcDVBOVdCN3NWMEwxd05BRGVzZFl2UUFwZ1JMSElNQVNLVkM4TjZmNzkyTWZBeTBUX2x6NVhLUkVfam4xSnNBZExHTkFWdHV3NFk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:27:45",
+      "collected_at": "2026-08-06T10:33:27.229423",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "사업장",
+          "40%대"
+        ]
+      }
+    },
+    {
+      "id": "82ca6e48b46ac660",
+      "title": "HD건설기계, 인천공장 재생에너지 비중 44%로 확대 - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhbkxkeDVZWlFsUF9mbkZrQlpheEU0OGdQTlVzcUt6LVBhd0VtejVJMWlZbE5OdEJ0WnhTUGRiQ0lmclpqa2tEdEpNdEppZUx4aVBsWS1OOGJfQmVfVTY5U0xCLVUtbk04dHFycg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:28:37",
+      "collected_at": "2026-08-06T10:33:27.229448",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "재생에너지",
+          "확대",
+          "44%"
+        ]
+      }
+    },
+    {
+      "id": "7c136be3f63a1409",
+      "title": "HD건설기계, 인천공장 재생에너지 비중 40%대로 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UcERSMUVnSHVTMi1IUi1DM1MwMXVVa0tKSlJvcGtDUHZLMzBTQXJqdFpSSWJ3bVdSSjRldXVCU21DQ3FRcWQ5OVBPNUVzM1ZpTFQyNmNn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:27:03",
+      "collected_at": "2026-08-06T10:33:27.229471",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "재생에너지",
+          "비중",
+          "40%대"
+        ]
+      }
+    },
+    {
+      "id": "32bfd328774b5b7c",
+      "title": "HD건설기계, 인천공장 재생에너지 사용 확대…2040 RE100 추진 - 브릿지경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNb29Md0UyUXNkbDJxMWZwVW1jQ2QxX05zZ042a29Pcm5ja1NEY2tKOVZpZjdLV3gtaUtOQTNXRkFBczNGaHJQTS1zWURqTDFUV2VSdFZGZ1RiZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:03:00",
+      "collected_at": "2026-08-06T10:33:27.229498",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "인천공장",
+          "RE100",
+          "2040"
+        ]
+      }
+    },
+    {
+      "id": "1ea0ec0c89278f16",
+      "title": "HD건설기계 인천공장 대규모 전력구매계약...재생에너지 비중 43.9% 확대 - 중부일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlaHZIWldHbFV3UlQxQm41S3MtZ0xsT1FBZi1YejdsVGx5NDRoTm1ER2ZPaWxYYjBwZlpBQXF4dlBOWG1BeXl0dDlFejNiSjVJZXF0Wl90d2VDNEpkVVBFY3ZUWGpKNDhjNThkQ3B3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:37:03",
+      "collected_at": "2026-08-06T10:33:27.229523",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "전력구매계약",
+          "재생에너지",
+          "비중확대"
+        ]
+      }
+    },
+    {
+      "id": "be0c5199ae186019",
+      "title": "HD건설기계, 재생에너지 조달 확대해 '2040 RE100' 달성 박차 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40Vm56STJGa0FaVTd6aFhWU0d4UVN2WGJRYm82NlplS0ZieGVCZkU3UUdzREZlX0tPYmRaRll4NFRQbURwZllLNmlnQkNOQnV4YlhLSVdrTTNGcGJFMjFvU0FQaEl2UHRCOFRSX29iUFFFeUU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:29:38",
+      "collected_at": "2026-08-06T10:33:27.229549",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "조달 확대",
+          "2040 RE100",
+          "달성 박차"
+        ]
+      }
+    },
+    {
+      "id": "330041d3f912dcaa",
+      "title": "박희승 의원, 재생에너지자립도시 특별법 발의…RE100·지역상생 지원 - kmecnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRkRTalFzcXJnd3ZsTG5obUpLZm9RTURZQzBIUjBVZjhxTnFKR19wWmFadDdvbWV3aGw4UUN1d0t1cEEwalZabnBFRG04ZW9hTUdKdUN2X1JzUmp0X1JyVnlEN1NsLXFwWnllVw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:29:37",
+      "collected_at": "2026-08-06T10:33:27.229575",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지자립도시",
+          "특별법",
+          "RE100",
+          "지역상생",
+          "박희승 의원"
+        ]
+      }
+    },
+    {
+      "id": "13effd5f81e73900",
+      "title": "HD건설기계, 재생에너지 조달 확대…2040 RE100 달성 박차 - 우리일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tYmdleV9uang2WkVnRk80dFpxbjFGVUF3NjUxdVplOW9YNkNVRWJHY043U29KUHlNNmxDdlc3X2JwQ2RmaERSWGlleDBET0lFMjZhSHNLbFZ0cVIxN2QtRGNlZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:18:55",
+      "collected_at": "2026-08-06T10:33:27.229599",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "조달 확대",
+          "2040 RE100",
+          "달성 박차"
+        ]
+      }
+    },
+    {
+      "id": "9898cb78adb8e12f",
+      "title": "[이슈] 재생에너지ㆍAI시대, ‘검사 대전환’으로 안전의 패러다임 바꾼다 - 산업인뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yY0dyRXVVa3hsV2ppMDB6UlZiWGY0X1lIblV3blM4V3pmX04wTXAtNXpacmJCUVFRYmVpMzBwYURkamdnbE1pbm8zRzBjT2pzZ19GXzJnN3R2ZktxS0ZKYVl2U3ZyS2tKSERyOUZn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:47:50",
+      "collected_at": "2026-08-06T10:33:27.229624",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "AI",
+          "검사 대전환",
+          "안전",
+          "패러다임"
+        ]
+      }
+    },
+    {
+      "id": "77c292f1efcf61ee",
+      "title": "국내 최대 400MW 해남 태양광단지 착공…2028년 준공 목표 - ekn.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KMW5IbHRtbjVtVnNOd3pXMnVJSzU2WG9qZFZ5aG9ETjlKSTJHeVp3cnZicTB5TmljeTRabHBvb1B0VXpUTDI3SmFzWWUzYnEtSHA0eUpBbnJMLXM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:39:23",
+      "collected_at": "2026-08-06T10:33:27.229699",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남 태양광단지",
+          "400MW",
+          "착공",
+          "2028년 준공",
+          "국내 최대"
+        ]
+      }
+    },
+    {
+      "id": "8764ae34be11356a",
+      "title": "국내 최대 400MW 규모 해남 태양광 발전단지 첫삽 - 에너지프로슈머",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBsRmpKbXc2X09rMTV4dFdST0FEaUNpY3diV0FZM3RVVU8zZy01NXkzVXdGTTAxZUZ1Vnl2UlNXRlZ0cXBldTNxOXlwcHc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:02:00",
+      "collected_at": "2026-08-06T10:33:27.229727",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광 발전단지",
+          "400MW",
+          "국내 최대",
+          "첫삽"
+        ]
+      }
+    },
+    {
+      "id": "02cfa7bd3bee9fcb",
+      "title": "아산시, 햇빛소득마을 충남 최다 선정…주민참여 재생에너지 속도 - 농수축산신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QNUh4dUhrRWhfcWVLdDhNaTlaeTRCdDBkVnJOYnZaWjZaQ19BRWdjbGRXd0E5MHJHRFZaUDY1djYxY2RBZ2l0VW0wcTg5NEpkenpXM3lVczRSRVRQTzIzSjdPODlkc0k4aFNkbw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:43:21",
+      "collected_at": "2026-08-06T10:33:27.229753",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아산시",
+          "햇빛소득마을",
+          "재생에너지",
+          "주민참여",
+          "충남"
+        ]
+      }
+    },
+    {
+      "id": "5606dd4b020c2023",
+      "title": "HD건설기계, 재생에너지 조달 확대…2040 RE100 속도 - 비즈니스플러스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81Yk9FczVOTDJlN3c5SV9aOE5ybEVYeG1LREgwd2hBTkRKbzFiUmZFN1V2dktoTzBYSlh0WnZiUXlFYVlIY0oxV3NfX3lNaTZ5SXJFZVJoalBVZUZlSFNRZW1rT0RxNGpWT2ZnUlI2bw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:20:15",
+      "collected_at": "2026-08-06T10:33:27.229778",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "조달 확대",
+          "2040"
+        ]
+      }
+    },
+    {
+      "id": "58931cbe2b5a13bd",
+      "title": "'국내 최대' 태양광 발전시설 7일 착공 - 의학신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BaU9BVFZETFRkNlhCeWxBMmRLYTYyeWxJQUtXa3VBb1pmRFVEMWRXQnhwclFSTjJXY1JkQmFoTFZnSi12WDVEWkg4Vk45MHJDS01jYkpXV29BWk9PcDJrY3ZDZ2hUWlhyR2c?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:32:59",
+      "collected_at": "2026-08-06T10:33:27.229801",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "발전시설",
+          "국내 최대",
+          "착공",
+          "신재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "e9df5d78e3f69001",
+      "title": "중국 신재생에너지 기업 위안징, 네이멍구에 ‘중국 최대 AI 데이터센터’ 가동 - sisaworld.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OUmo4ZEFHRnFTbm1UeVZmd3BLYjlqaU9Lak1xa0t4eXd1bVNfUG12dDJuNktFQWdYTmVRSHhybWk3UmEzSTNwejV2SzdOTW9FU0tmZWZRTV9RMkhLNmxCZVBfU2NwZW5JOHc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:29:14",
+      "collected_at": "2026-08-06T10:33:27.229853",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "위안징",
+          "AI 데이터센터",
+          "신재생에너지",
+          "중국",
+          "네이멍구"
+        ]
+      }
+    },
+    {
+      "id": "9e09eea6e2d2735c",
+      "title": "BASF, 재생에너지 활용한 그린 에너지 제조로 플라스틱 산업 탄소 감축 주도 - 2news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GUFVRbXN2SWFjdExpdFctWjM0aGd5SUsxSUpVNko4WmptWmV3cHFvOFAxb003X1Q1UWpnUzZiaUo3dnUyVnQ1UUNLMDAzWW5tT2lPM2VEaXB3c3hTUWRnazJMeFZMRmJ2?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T04:23:30",
+      "collected_at": "2026-08-06T10:33:27.229880",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "BASF",
+          "재생에너지",
+          "그린 에너지",
+          "플라스틱 산업",
+          "탄소 감축"
+        ]
+      }
+    },
+    {
+      "id": "20bbfc9b72702ea8",
+      "title": "환경·신재생에너지 산업의 비전을 담은『2026 그린에너텍』개막 - 매일뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LQnJiNEpSMjhhQ1B1dGVzbDZQV205SVV4X1ZyRG00LUlzQlU3eHVfV0NvMUt1dE9xYS10Qy1mV211cFJGYzBnV2RaWXZQM3RuVGFFOGJyUGRVQTRHZVRRMQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:00:10",
+      "collected_at": "2026-08-06T10:33:27.229904",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "그린에너텍",
+          "신재생에너지",
+          "환경",
+          "산업",
+          "비전"
+        ]
+      }
+    },
+    {
+      "id": "90b8f87a53dcd052",
+      "title": "HD건설기계, 재생에너지 전력구매계약 체결…RE100 이행 확대 - 로이슈",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CR29hV1daVEhzY0JqTkpYVV8yaEFSM0Jka2xjQm5UQTQ5dzJVNzQ2U01UalZCQVItWWU1MnphczVZR2s4VG1WUXpmOTY3cVRneURuWEdnQ1cyQW5MRF9BcXNSQWlnYVNJd1B5RFNybVhwWXpqSEhPelNB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:02:22",
+      "collected_at": "2026-08-06T10:33:27.229928",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "전력구매계약",
+          "RE100",
+          "이행 확대"
+        ]
+      }
+    },
+    {
+      "id": "7209ae298762a11a",
+      "title": "RE100 관련 특별법 발의…자립도시·협력지구 함께 지원 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5VMmlvajV6YkhHaDYtUmFteTl4bkx5bU9RN05UbjhiTGFULVNNT25xNTBKRG95ZXlvSlNlQkpWU1VVaC1BaFRhcUk0WkYza0VFOWJ0N1lqby0wSlRxNmNHX1dCVVZEUDhPSDBheA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:56:24",
+      "collected_at": "2026-08-06T10:33:27.229952",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "RE100",
+          "특별법",
+          "발의",
+          "자립도시",
+          "협력지구"
+        ]
+      }
+    },
+    {
+      "id": "69fa9fb88c9ef0ad",
+      "title": "에스에너지, 인천 남동산단에 6MW 태양광 모듈 공급… '산단 RE100' 주도 - 머니투데이 - mt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pc0xHdFpfOHZRUWdKckw0elRXWE1mZ0lfZm9nWkg5d3Q1b09OOG5CTy00SHpzQ09iSng3dVZHLVpmc2FzOGR6bUM1M2U3eVhKMksyWlFUWUFUU1B1eU13VjU2aVllYUtr0gFuQVVfeXFMTWpfdUp0QUpHR2NpQ19YajVpQVhXMEZ5X0RjNkxfMlFzQTIzYkt6ak9NamVDa21RSDRadm8xQW1MQnZjSHZqU1VXakxhbDVZMUFjMHRmR0RmYTdnSmsxUzlINThOOEIxTGdrY21hYmc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:14:48",
+      "collected_at": "2026-08-06T10:33:27.229981",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에스에너지",
+          "남동산단",
+          "태양광",
+          "RE100",
+          "모듈 공급"
+        ]
+      }
+    },
+    {
+      "id": "b15db93fbe78bc0d",
+      "title": "국내 최대 400MW 규모 해남 태양광발전 '첫삽'…남동발전, 재생에너지 '앞장' - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yM0dELUNzcW1UOUpqTUpidHZNVFdNUThNNkhNQVpsZjhhcFRJRjdxcnJBOHpJNVFldDVueWRuRktGdXhoaFZMQTJTZUdIWHd6R0ltSzJwcGZoam1S?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:18:00",
+      "collected_at": "2026-08-06T10:33:27.230007",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남 태양광",
+          "400MW",
+          "재생에너지",
+          "남동발전",
+          "첫삽"
+        ]
+      }
+    },
+    {
+      "id": "9c7a16a5cdf866e5",
+      "title": "HD건설기계, PPA 활용 재생에너지 확보…전국 사업장 40% 달성으로 업계 선도 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56OXhLQTF0UzFXcDRxMWZpZ2xwMzZBS3JfVTF1MENPN0FrNmdYb0dMZU9VRVJGM0xyZVppVVc5MG9mVlFra1EydDVFWEhFeWhUX2gxbTdsVl9Idw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:30:00",
+      "collected_at": "2026-08-06T10:33:27.230094",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "PPA",
+          "재생에너지",
+          "사업장 40%",
+          "업계 선도"
+        ]
+      }
+    },
+    {
+      "id": "d249c1d760fcbf57",
+      "title": "보령 오포리에 주민수익형 태양광...'햇빛연금 시범모델' 주목 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1RZ0RWU1NqakkydW02dWVzWklQNmN4QmR4U0JPT2I2bXYybnVWSGEwcEltSXdHV1JmbENDcjhtRGdlNUJlWmMwRFgtQWNOVFpSQW53bGk5VEdUZFhxNlQ1VzJHaFk4Z1drVnBTX3huYkZRdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:10:05",
+      "collected_at": "2026-08-06T10:33:27.230179",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주민수익형 태양광",
+          "햇빛연금",
+          "시범모델",
+          "보령",
+          "오포리"
+        ]
+      }
+    },
+    {
+      "id": "4631bcba2c8d421b",
+      "title": "삼성화재 ESG 투자 약정 9.5조원…채권·신재생 투자 확대 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUNC0xNFJGZGMyU0xXS2JsVmZSWm4wam1UVFlLeUt5ZmV2dGFiX2hWUzJmbkhwNlFKNGpJRTFweTBHTFVpOFpXbTM5aXRPV051X3FlTHRmMWk2WENMMzVLdlpZckxWeGV6cHlkQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:47:02",
+      "collected_at": "2026-08-06T10:33:27.230239",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "삼성화재",
+          "ESG 투자",
+          "9.5조원",
+          "신재생 투자",
+          "채권"
+        ]
+      }
+    },
+    {
+      "id": "f2de7212d1956eff",
+      "title": "보령 오포리, 주민수익형 마을태양광발전소 준공…'햇빛연금' 모델 본격화 - 환경포커스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzbUFKYlpreE9sMW1MRks4WHl6YnhzSGs4cGxTS19QZXdQbDg3aTMyMUNCUlJZaWZLenkxcVZmT1lhMUNVV0xETS1KeVhyaGNBTENnS0QycTJUSXFmeGVJRnBxcw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:24:42",
+      "collected_at": "2026-08-06T10:33:27.230264",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "보령 오포리",
+          "마을태양광발전소",
+          "주민수익형",
+          "햇빛연금",
+          "준공"
+        ]
+      }
+    },
+    {
+      "id": "977be1dab5d7ae17",
+      "title": "해남에 400㎿ 태양광단지 첫 삽...주민참여형 2028년 완공 목표 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WcmNBWUdXelpXM0taV2tiUHJqeUJPVUZXVGcwamhoSXZZV040TjNRRVZaZHZUSHFPVXZpcHBFaFV0NVhrZGdVSFE5a3p3NEJkbmtZRTFRMV80SGxk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T03:19:33",
+      "collected_at": "2026-08-06T10:33:27.230290",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광단지",
+          "400㎿",
+          "주민참여형",
+          "2028년 완공"
+        ]
+      }
+    },
+    {
+      "id": "8cc9e34b044f727b",
+      "title": "국내 최대 400㎿ 해남 태양광단지 착공…RE100 전력공급·지역상생 '시동' - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93RnNmLTc0XzNQTkRzakFheE5zejl5ZkVHb291UEJwNGNmeVpyYjRNTk9MMVVPcXhEUnRaMUR2cFc2Z3UtZDloTVJnRHJXZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:26:44",
+      "collected_at": "2026-08-06T10:33:27.230339",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남 태양광단지",
+          "400㎿",
+          "착공",
+          "RE100",
+          "지역상생"
+        ]
+      }
+    },
+    {
+      "id": "818b50d50d922c67",
+      "title": "해남에 국내 최대 400MW 규모 태양광 발전단지 구축 - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mVnhPWHhoVDRhcXVmYVVsXzJsUGpRYkxxZjFXbVZzWEp6RWdUY0ZCUi1zR2g5ZzNtT1JqcXoxRkt3TnI3WmcweC1zQllHdk4yODdTWXRB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:03:25",
+      "collected_at": "2026-08-06T10:33:27.230363",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광 발전단지",
+          "400MW",
+          "국내 최대",
+          "구축"
+        ]
+      }
+    },
+    {
+      "id": "c7aea8d82e8cf32e",
+      "title": "인천, 친환경·신재생에너지 산업 허브 도약 시동…'2026 그린에너텍' 송도서 개막 - 문화저널21",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwc2k4ZmxPbmRqVWg3UWRhQVUzUXh5VjdOZzZqQmh6MzhBbFUwQ0RySk56dW45SE9hNEpFbW9qLTJub0hUemVNM1A1cG52T0g2cFhsRmZGZVl6eFY1aF9nYlFBcTBDVHc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:40:09",
+      "collected_at": "2026-08-06T10:33:27.230436",
+      "keywords_matched": [
+        "재생에너지",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "친환경",
+          "신재생에너지",
+          "산업 허브",
+          "그린에너텍"
+        ]
+      }
+    },
+    {
+      "id": "0784962f95fdb965",
+      "title": "HD건설기계, 재생에너지 사용 확대…2040 RE100 속도 - 마이데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKdGZMZDhOSi1COXdkQVZUZVBMUllmNWNzcC0xcl9MZm5RMDdkWmpOOEJwNjRyeWpxeHhFdHJlNXlMMVIzRE5OODR4SVpvemlYOU9IRW5RNjY5RXhVckZ3aQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:36:24",
+      "collected_at": "2026-08-06T10:33:27.230478",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "사용 확대",
+          "2040 RE100",
+          "속도"
+        ]
+      }
+    },
+    {
+      "id": "27bcef9b333c41c4",
+      "title": "공장 지붕 태양광 의무화 추진…산업단지 '에너지 생산기지'로 전환 - 에너지프로슈머",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kSGtxR0pmRE5zYlZoUXpIejdOVnJLZnZ6VFRRb2x6bjRjUWlYYlQxTUJ6bEVkUkhhVGpyTVhRN0c1OUowUlRYZ1RaTk0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-05T23:01:00",
+      "collected_at": "2026-08-06T10:33:27.230506",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "공장 지붕",
+          "태양광",
+          "의무화",
+          "산업단지",
+          "에너지 생산기지"
+        ]
+      }
+    },
+    {
+      "id": "04aa9b5d63d3a965",
+      "title": "아산시, '햇빛소득마을' 현장지원단 운영…재생에너지 확산 속도 - 보도자료 | 기사 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5rMFpMWTFRYWxzYklRaFBBNmhMdmFXclptcnRWTFlXU0NwcDRNZHdkcXpzQ2lBdkdnYS1McnVQU003N3ByTy1XdFBDVU95VWJmZDJJYmxBOEVBZGFzVTRv?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T07:10:46",
+      "collected_at": "2026-08-06T10:33:27.230531",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아산시",
+          "햇빛소득마을",
+          "재생에너지",
+          "현장지원단",
+          "확산"
+        ]
+      }
+    },
+    {
+      "id": "2ba50d8c8766d6eb",
+      "title": "HD건설기계, 인천공장 재생에너지 사용 비중 43.9%로 확대 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XV0dTVmt6VGdtSUZsNW9PV2k2azVfbk5tWk1KZE9kLTl4VDBHU19ZVUZ3aTNfRkNKeUExN1lIbHVJUWJCeXVhOW1iM3daaWF4OGlNREpLSURDU3pJVWh4cXYza2JKb0NBbWtQVHVCZjc0dw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:51:00",
+      "collected_at": "2026-08-06T10:33:27.230555",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "인천공장",
+          "재생에너지",
+          "사용 비중",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "717266ecbb5b42b9",
+      "title": "HD건설기계, 재생에너지 확대…'2040 RE100' 이행 가속 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44bllOVFdfdUx3eTA3aFVnS1B1Q3NBcUh6X3lQUkwzQ3lnX2dKblJ3M2ROT25TQUlKVlk5a0tGYU1nX0lxeURxWWZUenM5LWRfdTdTN0RmWHNzMEF2MnFlRA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:12:00",
+      "collected_at": "2026-08-06T10:33:27.230635",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "2040",
+          "이행 가속"
+        ]
+      }
+    },
+    {
+      "id": "091d49ecbf2c85be",
+      "title": "국내 최대 규모 400MW 해남 태양광단지 '첫 삽'…2028년 준공 목표 - 페로타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBT0h5dThzX0lCNzZLZk5uc0k1VWpzWTVDVW5xYlNlUTlZT0l6MWxmWHRmOXdEUG5PWGNIME4wVlUtUGVWbXE0bE9udmdVdUdhWE1jXzJsTGpRS3plcmFMLS1VZGxFcVEzeFdpeA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:28:16",
+      "collected_at": "2026-08-06T10:33:27.230679",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남 태양광단지",
+          "400MW",
+          "국내 최대 규모",
+          "첫 삽",
+          "2028년 준공"
+        ]
+      }
+    },
+    {
+      "id": "5256d1d5197b8e12",
+      "title": "HD건설기계, 재생에너지 사용률 40%로 높인다…2040 RE100 속도 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55Q1ZhWGE4VTFuR2NsRjd0MldTYkFwRzhSVWxEMkZYeXg2dVMtY3QzUU1jZ1NjSmdRc25rSVpTa0d6SEtlcnpaSTRfcXZhazNITGdVVjJ2UlVWVG10bVRVeA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:10:00",
+      "collected_at": "2026-08-06T10:33:27.230704",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "사용률 40%",
+          "2040 RE100",
+          "속도"
+        ]
+      }
+    },
+    {
+      "id": "49ab141ee936a648",
+      "title": "박희승 의원, 재생에너지 생산지역 성장거점 육성 특별법 대표발의 - 시사의창",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vNGVnWk81SVNpTTljV096VjFXYlRlYU4yR3V0V1NKdGhOdEJGSDY1NE9CQUdCQ1E0eEhOZ3RGdGo0eXFYamhJSmVRUzNkUGJPXzJPWA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T00:10:39",
+      "collected_at": "2026-08-06T10:33:27.230758",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "박희승 의원",
+          "재생에너지",
+          "생산지역",
+          "성장거점 육성",
+          "특별법"
+        ]
+      }
+    },
+    {
+      "id": "f2eb0b07911d1b3f",
+      "title": "해남에 전국 최대 태양광 들어선다…1500억 수익 지역주민과 공유 - 머니투데이 - mt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yUWRLQWsxVVQtNlRVLUp1TUV0X01kQWptZFAxNmxyM2Juang5QTZtTmFIN1NkdG93WXA3Qlh3a1M2NzFDdWJwZW43emtlMlFESnJJY2NaNXloN1YtR0R3ajd1Q0dkX1dxRVBB0gFwQVVfeXFMTVo2TG5ETW9laDc0d2lnc0tXNlF2ZnE5N1VmRGZha2xSZFhIcEkzb3o0ZHpxSEhWZGU4NjZILWdqY0pwSGRTdHoySlV4Qm5zQ0xIc0VCWlVEMGFxdjZOSnVJWThpTmFPNXJxRU5pdkJRYQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:14:28",
+      "collected_at": "2026-08-06T10:33:27.230784",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광",
+          "전국 최대",
+          "수익 공유",
+          "지역주민"
+        ]
+      }
+    },
+    {
+      "id": "1126babe4f349abd",
+      "title": "국내 최대 400MW 규모 전남 해남군 태양광 발전단지 7일 첫삽 - k-lifetv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlSzV2WU1lX2NCaHZZMjY2RFZKWjc5VlN4SHByNXh2UUV2aV9rN0RsMGJmTm9odDE5LTNIVVFscTc4YU5GSk0tSW9wTEVqZTNaSkRqdTBYREUxSW9qRkpvb0xLWlFMTXYxV3ZkTQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:36:12",
+      "collected_at": "2026-08-06T10:33:27.230833",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광 발전단지",
+          "해남군",
+          "400MW",
+          "국내 최대",
+          "첫삽"
+        ]
+      }
+    },
+    {
+      "id": "d4cc5011ae0452a3",
+      "title": "HD건설기계, 재생에너지 조달 확대…RE100 2040년 달성 목표 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93SnhYM3hCX2piQmJxSXRrMDV0Q3cxdTBoWnFaVi1ZX0xReEN2RUJKTlJMQWZJUm15T3J3dDM5dl84TDFHZlp6U3NKUTJVRHJHOTNmaXN0SDgxUzk2WjYtRQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:46:00",
+      "collected_at": "2026-08-06T10:33:27.230876",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "RE100",
+          "조달 확대",
+          "2040년 달성 목표"
+        ]
+      }
+    },
+    {
+      "id": "015f6cf31c686693",
+      "title": "전남광주특별시, 영농형태양광 ‘제도보다 현장 먼저’…12월 시행 채비 - 지이코노미",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95SC1hb1cybVlWOGVGSmJhYmxEM29DNXVIbDM2cVd4RnZVbUpxWnJBWHE5TkxpRkphVUdVck5GRTZKMFdwWlBZV3pMMDhLRXJqd0U1QURNeEotOEw5OFd4dGxDSEVPYzQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T09:55:49",
+      "collected_at": "2026-08-06T10:33:27.230900",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남광주특별시",
+          "영농형태양광",
+          "제도보다 현장",
+          "12월 시행",
+          "채비"
+        ]
+      }
+    },
+    {
+      "id": "94c0943d3823db7d",
+      "title": "아산시, 햇빛소득마을 충남 최다 4개소 선정…주민 참여형 재생에너지 확대 - 뉴스파고",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBoN2JfeGlJT1UyMmVPdWl5NGdKLUFreFhoVEFqWXd5Vm9ZbjF2dk9BY2xtQ2s5VTZ3cVJ5b25HZ1QzVS1q?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:17:00",
+      "collected_at": "2026-08-06T10:33:27.230941",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아산시",
+          "햇빛소득마을",
+          "재생에너지",
+          "주민 참여형",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "f926dad2ed970a33",
+      "title": "HD건설기계, 인천사업장서 12.4MWp 재생에너지 전력구매계약 체결 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sdjlsd3FNQU9EQldnRDByOG9YbVFqZ0tnclU5bFdOdXdfbXVXVlI5cHppUzN1Rl8yUXBRY1RyUGp1MlBWSkpCSi1JbVJZemhneGNvcGsxVWViLXpRQmtrLQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:10:00",
+      "collected_at": "2026-08-06T10:33:27.230965",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "전력구매계약",
+          "인천사업장",
+          "12.4MWp"
+        ]
+      }
+    },
+    {
+      "id": "e7a667f4f32fc3cc",
+      "title": "HD건설기계, 재생에너지 PPA 체결…사용 비중 두배 확대 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFaFJQMGt4aHVkWGFwNHhhdHpJcVRkcUozNmlSVUVTNWtwc2FPOU90emVXZ3JqSG43R3d3ZEJIUnNOVGdSS1gwcmxyMnU4UHN5ZnU2UDlTUmVKd2VTZkpaNA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:57:00",
+      "collected_at": "2026-08-06T10:33:27.231015",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "PPA",
+          "체결",
+          "사용 비중 확대"
+        ]
+      }
+    },
+    {
+      "id": "61b554b264e2fcd2",
+      "title": "인천시, 7일까지 환경·신재생에너지 전시회 개최 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ydVlteWs0RVhtLXZYRzVFemx1UzRWS1diY0x3azRNdmpoSkZUNkhNSVp1SHF3eVdNY3plV3ZJaU4yeDI4Q2U5U2Z2enpEbnB2NnlHekYzNWMzT2g5aTFrYQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:09:00",
+      "collected_at": "2026-08-06T10:33:27.231055",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "환경",
+          "신재생에너지",
+          "전시회",
+          "개최"
+        ]
+      }
+    },
+    {
+      "id": "e176c3508a3b1e12",
+      "title": "국내 최대 400MW 해남 태양광 발전단지 첫삽 - 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wX1NaVTkzaXpaaGNiS0ROTjlKYUNtdjdfT2ExWUt3dk5uLVprdUV3Mm1rSVE2Ui1mMExnN0wtdU81YWd3YUxTWWVYcXhqeG1MQkI3NklYajh3dw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T06:39:54",
+      "collected_at": "2026-08-06T10:33:27.231078",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광",
+          "발전단지",
+          "400MW",
+          "첫삽"
+        ]
+      }
+    },
+    {
+      "id": "41d2779791814c5b",
+      "title": "국내 최대 400MW 규모 해남 태양광 발전단지 첫삽 - M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UNThvQnIxcUVuV0FWVTJBVHJ5TmpqSXh5Rms5Ums0dFhaQUZxSmotd1lnaGxvYTlzVEMwcVhoeENzd2lrZ1JrRkpGYUFFUXFYMEl0WXpBMHhGWnpIQUt5ay1URXdjaFE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T02:44:12",
+      "collected_at": "2026-08-06T10:33:27.231102",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광",
+          "발전단지",
+          "400MW",
+          "첫삽"
+        ]
+      }
+    },
+    {
+      "id": "76b7cafc96bc12cd",
+      "title": "해남에 국내 최대 태양광단지 조성…2028년 준공 - addnewsin.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCdmVJMl9iaG1hWXQtOXdLZklYbzNjNFkxX2pUM09POUo1WWR4ZVNpaUtUZU5HLWU2ZlVtRVlkbjRESVdtbm5BUWFMWnBTTG9maFQ3QjExMnRINHcyTUhYd2NVSmdDdmItY2lR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T08:28:00",
+      "collected_at": "2026-08-06T10:33:27.231126",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "태양광단지",
+          "국내 최대",
+          "재생에너지",
+          "2028년"
+        ]
+      }
+    },
+    {
+      "id": "54a8fc361d842e21",
+      "title": "HD건설기계, 재생에너지 사용 확대…2040 RE100 달성 속도 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xTVFPa1piU3FSODhiWnFPbDJ6Q0MxaGlueDdXbngxeklCTjRrVW5TXzdTd08tTjJSTDdjTGlwTXpMZjBpbGdGcDEtRXp1RjM0LTBpNUpGRXkydGgxZUVOdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T04:53:00",
+      "collected_at": "2026-08-06T10:33:27.231149",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD건설기계",
+          "재생에너지",
+          "사용 확대",
+          "2040 RE100",
+          "달성 속도"
+        ]
+      }
+    },
+    {
+      "id": "fcf74e43f1437fef",
+      "title": "인천시, 7일까지 환경·신재생에너지 전시회 개최 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkJ6Uy1jb3hNZlJhMjBERWtrMXRlTWZHRkdkejFxQ3J3ZElBdERjZm5FaGtZU1F4cHBrZU40ekdFZUJIX0h0VXRzVTk2ZmFBOTd6Mk0tWVd1ZzNwV1Z3UTdvb2ViV3E2YVV0WkR5RTlfWXloeTFmd21fMUlfSmo2Yw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T05:07:28",
+      "collected_at": "2026-08-06T10:33:27.231253",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "환경",
+          "신재생에너지",
+          "전시회",
+          "개최"
+        ]
+      }
+    },
+    {
+      "id": "4e820975f3f6e899",
+      "title": "해남 재생복합단지 태양광 착공…국내 최대 400㎿ 규모 - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jMm9Kd3drV0FadmZuRDBKaUxOSHJCc1R0MFQtZncySURzNy1aaS1BOE5tT0ktX3BUUzh2SEE1YlRsZVh0VEV0QnFBVUdPemg2ZXgwV0NCaC04WGRGOEdqbtIBeEFVX3lxTE4xRzZyMEJXcXdvLTI5Q2FOZHJmQjE5WF91OHdva2VCUkM0Q1gzRHhuOHZHMG12dHhqNzlJWWxGWEpvelB1ZGJZMEFwSHVabTliS3JOZEF4YjF4U0NUQTlVWVZVYmJBeVdVMEsxaVlWN3dkQ2tqenM5aw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T01:14:35",
+      "collected_at": "2026-08-06T10:33:27.231337",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "재생복합단지",
+          "태양광",
+          "착공",
+          "400㎿"
+        ]
+      }
+    },
+    {
+      "id": "542813b6468c89c1",
+      "title": "[사설]폭염 시대의 생존 인프라 도심 속 나무그늘 더 늘려야",
+      "link": "https://www.khan.co.kr/article/202608061822001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T09:22:00",
+      "collected_at": "2026-08-06T10:33:28.295140",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "나무그늘",
+          "도심",
+          "생존 인프라",
+          "기온"
+        ]
+      }
+    },
+    {
+      "id": "de9c2edd099b5682",
+      "title": "집밖은 ‘체감 38도’인데, 집안은 41도···송파구 ‘화훼마을’ 덮친 폭염",
+      "link": "https://www.khan.co.kr/article/202608061802001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T09:02:00",
+      "collected_at": "2026-08-06T10:33:28.295419",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "송파구",
+          "화훼마을",
+          "비닐하우스",
+          "폭염중대경보"
+        ]
+      }
+    },
+    {
+      "id": "a951219380001996",
+      "title": "전남광주 온열질환자 5명 중 1명 ‘집에서 증상’···10명 중 7명은 65세 이상",
+      "link": "https://www.khan.co.kr/article/202608061649011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T07:49:01",
+      "collected_at": "2026-08-06T10:33:28.296157",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "온열질환자",
+          "전남광주",
+          "주거지",
+          "폭염",
+          "고령층"
+        ]
+      }
+    },
+    {
+      "id": "e342fc2a23117462",
+      "title": "주말부터 기온 1~3도 떨어지지만 ‘36도’ 무더위···강원도 ‘호우특보’",
+      "link": "https://www.khan.co.kr/article/202608061649001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T07:49:00",
+      "collected_at": "2026-08-06T10:33:28.296213",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d592db0e3c8a99da",
+      "title": "“과할 정도로 대응해야”···대전시, 폭염 대응 긴급 점검회의",
+      "link": "https://www.khan.co.kr/article/202608061643001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T07:43:00",
+      "collected_at": "2026-08-06T10:33:28.296407",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "대전시",
+          "폭염",
+          "긴급 점검회의",
+          "취약계층",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "ffb66e27a65bb470",
+      "title": "가뭄 폭염에 낙동강만 곳곳에 녹조 ‘관심’ 경보···“일상적 보 개방없으면 답없다”",
+      "link": "https://www.khan.co.kr/article/202608061636001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T07:36:00",
+      "collected_at": "2026-08-06T10:33:28.296608",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "낙동강",
+          "녹조",
+          "조류경보",
+          "가뭄",
+          "폭염"
+        ]
+      }
+    },
+    {
+      "id": "ad650d1fe39c6fc6",
+      "title": "“미국, 이번에는 중국산 폴리실리콘에 관세 부과 계획”",
+      "link": "https://www.khan.co.kr/article/202608061629001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-06T07:29:00",
+      "collected_at": "2026-08-06T10:33:28.296680",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "중국",
+          "폴리실리콘",
+          "관세",
+          "태양광"
+        ]
+      }
+    },
+    {
+      "id": "2f35b0f9de830c28",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNm5aVWtTeFRRMDBWM0VxWFdDZVFvUzhvS3djcDVVMHdBbzJpMk9ZNDlsVnJxaFFjWTJRWndjelAtR0ZuWGtwM0NIRnNyQkR4TjhXWjJqcmJkcWx6azM0OTFFTkFkd0JmMzExQmwyeDI0ZVNzdGZTN2xvWXFsd3gtalh0N2FqZDdRM180VlVIU3RmWWNneUFqaVFsVGFtX3YzVHpWeVRRLXpnVXRDdjBlMEJDU2ZjNDR5azNTb3hHdFFycFlpS0VISThVZEt1UGNvQURGcQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:05:07",
+      "collected_at": "2026-08-06T10:33:28.849677",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "26e255c15f666b63",
+      "title": "Climate change is fueling wildfire risk — and anxiety - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX043SE04RWFzQ2tia0ZCcGJMQ2pfZVoyZExmNF9tYTlGbENma25mM2lSSF9hbU9qd1VXNzlaZTVQZHh0TnJYdWVDWWRFcXl2aEVjWWJWT0VrZ0NhV2RmRmUwdzdkS3dGRGMxdmJoa2QxRGJvUXgzWW9STkxRbmlfX21XWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:14:42",
+      "collected_at": "2026-08-06T10:33:28.849716",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 산불 위험과 불안감을 부추기고 있다 - Axios"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "산불",
+          "위험",
+          "불안",
+          "악화"
+        ]
+      }
+    },
+    {
+      "id": "7aa8ebcfac63f8ae",
+      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZnphQmxfbkRhb3NsYmFzdVdtMGlQbVNwUFAyWi1GNGJVZ3dhakpYZzlYWEFDNHNHUnA3dElldjkwSlJQVUcwSk1hVl92enFDT25yNTBzQ2NfbmFsT1ZKdk8tRDJ3NXJYb0VjamhrSklCRHRvd0hySk5pUjFKMVQtRFhDNA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:00:00",
+      "collected_at": "2026-08-06T10:33:28.849752",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": {
+        "title_ko": "인간 유발 기후 위기가 캐나다의 치명적인 산불을 부채질한다, 연구 결과 밝혀져 - 가디언"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 위기",
+          "산불",
+          "캐나다",
+          "인간 유발",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "5d8c97430f3d7796",
+      "title": "Letter: Don’t ignore blaring siren of climate change - Honolulu Star-Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVWhMcFJFa05fUWJWQUp2WTc4eE1iTWFvVTFILTcydktoSFhqQzRLUFR0Ukt3RkhmdUZJOVF5a0ZtM1dNWGdIYlYtZ1FTdEpYTEhyTG05VklEb1U2M0hRX253eVhxZUs2QkpSRkhtdU82T0FSUkpYS29yYTNIY0h0Rm5Rell3SUtRYXpNLWtrcTRSc0F4Zjh4TE5KVWZDT2VkUEg5VHBEeGtwRzlJbTNTNg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T10:15:49",
+      "collected_at": "2026-08-06T10:33:28.849785",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "서한: 기후 변화의 울려 퍼지는 사이렌을 무시하지 마라 - 호놀룰루 스타-애드버타이저"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "경고",
+          "긴급성",
+          "무시",
+          "독자 투고"
+        ]
+      }
+    },
+    {
+      "id": "3c21991c31a9a8f6",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China’s booming market - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGpDR3V1X2dMaEt6LTRRVWdIODB0TDhIZ1lRSVl1cEh1V3pnVkxNa2NkRVhBTU8xSHkyZW1SN3RidEw2UTdvS0RxSHRsdklid0taWHNRdmdVMGlKcjZDZWY1ckQtTXJqNEdISGtUdC1RdUQ1ZW5iSmxhcmRYSlZGSHMydGF1d0tJODdKRU5XSjFkRnp0Q3l0MWFBWlRLVUk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T01:41:00",
+      "collected_at": "2026-08-06T10:33:28.849846",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b897368329a7d54f",
+      "title": "Butterflies take flight in face of climate change and extreme weather - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmQweFBfQWo5Ymo5bmt1c2NucXVqMklzR3FVNGV4Vm1xbmZBRjFfcVVMRnZROXVqSTZLb0RYdWUyS2hsalJPTTJXaXc1SjgtWGZEM2JoQXJLSTU2dDBvMnRma1JWYjlULXBMN0RJeXZoTDNtcXFKTXR2UVAxT3dxeXE4Q1VoM3h4RUtiR2FLcTI0VGIxdElkTWY4a3NWRzdGcnVBZmhqU2diZ1B1YnpBZVZ3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T02:04:02",
+      "collected_at": "2026-08-06T10:33:28.849876",
+      "keywords_matched": [
+        "climate change",
+        "extreme weather"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "33a50604d8c00dca",
+      "title": "Climate change doesn’t care if you believe in it. But CT is paying the price - CT Mirror",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGdXWjNKYnVKRVBHNG95TmNxajdBNm42WGNiVEdLbGM4Q05qSzhzOFIxMGZ3S084VEFWNlQ1dFRBVWhuenVMWlJZeHlmNHVwa3ZneGc2Q0VKcHljSmJQV2xOZmozTmVSNWU2Z1BiUTlpNm1ubE4xMUptem1pZksxaFdIY2o2RDNqMVNZbEZ0UHVJR1hBVlp0eExEVFY0TDZnV3BkNUUySWhYTENWeXlaUm1uaVFFVkk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:01:00",
+      "collected_at": "2026-08-06T10:33:28.849956",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화는 당신이 믿든 안 믿든 상관없다. 하지만 코네티컷은 대가를 치르고 있다."
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "코네티컷",
+          "대가",
+          "현실",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "bcbdad356bdbd3d1",
+      "title": "Wildfires that choked Detroit in July are twice as likely due to climate change: Report - Planet Detroit",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPajl1SE1NN053N2RNZXh4NGRFeFVFY04zVm5rNzNFcXdjNXVqR2J5bmF2anJBYU1DN1FOeUhSbHBzSERySUFYdDJOdFhiLUlmQTJQZ0xfVU1PTVJqNmE0a1R2VV81V3FxLWVKMVV4czcxNXlZNEg2V2diVGdTamhRUVdrX3RGdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:01:00",
+      "collected_at": "2026-08-06T10:33:28.850013",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "7월 디트로이트를 뒤덮은 산불, 기후 변화로 발생 가능성 2배 높아: 보고서 - 플래닛 디트로이트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불",
+          "디트로이트",
+          "기후 변화",
+          "보고서",
+          "가능성 증가"
+        ]
+      }
+    },
+    {
+      "id": "197508150d4ab68a",
+      "title": "Climate change means extreme fire seasons in Canada are here to stay - World Weather Attribution",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFZKbmpRNUUxdHdPT1o0U2ZaNEpXX3BFVzZ5SUxXMEtVUEY5Z1A5TTlUVHRPR1RyRmkyQkpkVWwyRUh3WVZFa2pSTGJ0ZUoybVlueWd3clB1RGRmOHdHbDQ4d1BXTVBwRXdVOUk2cDNDVmRXS0J0b3dJVURndHg5bW05OA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:01:53",
+      "collected_at": "2026-08-06T10:33:28.850042",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 캐나다의 극심한 산불 시즌은 고착화될 것 - 세계 기상 귀인"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다",
+          "산불",
+          "지속",
+          "세계 기상 귀인"
+        ]
+      }
+    },
+    {
+      "id": "8a3eb0b0932cb07c",
+      "title": "Climate Change Is Rewriting Europe’s Nuclear Cooling Assumptions - CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTWZnRG1EYWVWTDk4X0NqYW01eGRYZTB6eTNITXZQY2FsUTcxdWdTRVFOTFZrb0k3dVViZmxHRlVuVEtJdzF1X3Jxd1NpR0o2Z2w5RWp5MFlER0F0Rl9PRU1lWVRFdFphWDlwaDVoTzBrNzhud2l5UHB5WkNiWnNIY2Z5VUlaY2JQakxxbUxMdUs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:50:39",
+      "collected_at": "2026-08-06T10:33:28.850092",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 유럽의 원자력 냉각 전제를 다시 쓰고 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "유럽",
+          "원자력",
+          "냉각",
+          "재검토"
+        ]
+      }
+    },
+    {
+      "id": "86b33ca428fefe57",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China's booming market - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdnZIV2IwRC1DVnpHRFZNcEN6NDI3RkJGVWxtLWNlSjlFVEN5c05sa2hhZzFsVldnN1RCcXFoVGNWMEE0dk1LX2hfcjJ0c1BvRDdEd0hOTkh2RjgxM1pDN3hhWWEwRnpRMFlhS1BmUE9FWndOWGhmdGxHbXREZjFOQk5IcjJTUXduOERlcHppaUlHemRVWFR2OHRMajVYNUF4M0gzR0VDWmxRaVpwVkFr0gG0AUFVX3lxTE04UWFxd1d4UDV1eXNGbUJTM0J0LW1jXzBUU3VBSXluZTVzaWxXTnpoSGYwSVZBeENqS1B4VXpPUngzb3VsSXU5MGRFeDM2RTR6ZmJ0TGs1c0NsNEQ4WWJXZWM0VlV6RUVCaE1KY1lTTVF3Rk9mVDhPNXc5OW1KOFFCTXdFaVhFa2hPc2tER09VbjBYZUtrVnNyS204cXphcVFCc0ttQm1CS1NBUG5IU2xVajZmVw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T02:58:37",
+      "collected_at": "2026-08-06T10:33:28.850126",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "aa2e7db935eaf3ee",
+      "title": "Alarmists scare us about climate change - Minot Daily News -",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQXFEX0dfTWpabVhqNzNWbmMzM2hKUTF1RlM0S08zdExwUUp0aHN6Vkg4UURObnFHZzFfQ1BudzBGcEdVeUZCcXU1R0tObGdJXzgyWFJqblRnLUNwak1CSTl1d21IWjJzNk4xbU02SDk2NzNEYl9HZkNJX2R2MFRzOWllOHhzS1IxRXZYZkU0MlYycUV2ckhsNFpKNVc3cUhPenprTG81RHF3MUE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:32:25",
+      "collected_at": "2026-08-06T10:33:28.850223",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "382d790429693967",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjBkMTNlWU5oaVl6X2xNV2JrYjV3eDJhaVY1WVhodUR2Z3BaV0tlSFAwQjdGOXdRRklONFVHeElSb3BvbFVQWUg1SXFwM3VNUjFIRE9tbS11LTVwN0tKN2dPUEFOV2V2cTNaU3dCdXltMTk5QkR6Ml9fWDU0dTNqazNsTW5hdThWbVhJSjF5SDRJREVDcGoxLUpreTNOWXZxTk50QVVHcGphdFRnR2gwbQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:00",
+      "collected_at": "2026-08-06T10:33:28.850276",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구에 따르면 기후 변화가 캐나다 대형 산불에 기여, 트럼프는 관리 부실 탓으로 돌려 - AP 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "2ee978b62610bbc7",
+      "title": "Climate Change Made Canada’s Ferocious Fire Weather Twice as Likely, Attribution Study Finds - The Energy Mix",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRVVoamMwVVJIcEU4OTJVNVd2TTNtUVJZTzRqdUcwOXo5S0pVZXR1Y1YtbHgzMWhSX1hTaFRhRWVLa00zbzVqY1ctdWFNTXowM1Z3czl3QXBUMUxHM1pDcEtIcXJZN251RC00Mm80WElvUWx1R3VkenFxc1Fta21YbFE1UDNGNTVCanl3UE9EcThGLURDSHZXVXVBQlUzU3AzVnEtYnY3QWR1OUlBRkd3VHhpcGxscUxCQnhWRw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:13:52",
+      "collected_at": "2026-08-06T10:33:28.850359",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 캐나다의 맹렬한 산불 날씨 발생 가능성이 두 배 높아졌다고 귀인 연구가 밝혀냈다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다",
+          "산불 날씨",
+          "귀인 연구",
+          "가능성 두 배"
+        ]
+      }
+    },
+    {
+      "id": "c7ed49bcd0ac3040",
+      "title": "Study says climate change fueled Canada fires as Trump blames mismanagement - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMTdnNm00OTE0VHpoUjdUSGpPd2M3VFYtMXB1d0NMX0Z2MU5XRC0yTFlmWHdVamhRTmVTY2lZME5KcHVNN19maWpQbzczY1FienNOS21YMFQ2dEZ5dVROUG5mR09SNE0yMWo2TnFPblZxdEplNGhUTTVHVFpmSXlaandmSFg1RjZoLW56UlBNMUxWbWZLUXRNQWQ5V1VxODNRMDFRMUV5OGt5TGktYWhCa3pmRkpkQ2FzcVhZbnFMSll6am1mU0tWUUdVbWxRRjNkcUExY2xNRWFmV1VTSVBEc1hPTW9sLVVkWllIZFNLaXg4QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:00:06",
+      "collected_at": "2026-08-06T10:33:28.850509",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구: 기후 변화가 캐나다 산불 원인... 트럼프는 관리 부실 탓 - 러프킨 데일리 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "책임 공방"
+        ]
+      }
+    },
+    {
+      "id": "5cec7096ab109e94",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxObDdodFlabjJGSzViUXBVNmdMdDZvSEdWQkw1bUZaR1dvdXE1R0tNQlB5a2FqWDRKSjFOTVJ6VHU2Sm51ZGpvcng4ZjB0cUpna2RtWFBrb3U4dW50ZW05R29taFNTeFRDWU9iM1FMV2kxbmhRVWE4dXVHR2NNUTNCXzBpb0lzM0xXaTc2WDdlS04yb3hWbWFPcWJkUEJHSUZudWpLeERvQ3B5Yzg3R0hvbmFjMDBtYUtiZF9pWHJjNTMyblhJNlFBU3RJdGp3VldTTHJTQ2Rrc2trWU4yNkZER3VfMW4tckMyR1ZBYjZYMTBrSmg4Tjcxc2NyRlM2bWNvLXJKbURha2VjTGtOa0lzOVhZQzAzUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:21",
+      "collected_at": "2026-08-06T10:33:28.850610",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구, 기후 변화가 캐나다 대형 산불에 기여... 트럼프는 관리 부실 탓 - 오텀와 쿠리어"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "f06871bb15fb5149",
+      "title": "Durian growers in Malaysia struggle as climate change impacts their fruit crops - The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcEkwcV90TWFYNWFmN1MwT2JERTJVbE5XTldMT24xUy0ySjZtYjlkMEZBSjhMdnhKNEVJNHZoejFJS3QtdGZBYmNQSjZORFBORjR0RG1KM3lvTmswOU83R0hDT29idjBMUkh1NEFzYWlKWVlrMEpmSXNlaFRtX2xUMHVHcmNieWtINHVGWF9lbEpxdGMzdkxUNmFORWhFVHJqdWpmc0xQdDVGWWc0TjRKLWZwN0l6Zzg1aWpTT1lENVhYYUh5aTY5SGY5dmVpZ0lwMWZySFE0NE5pRjZZWTdKY1RlTWpoMTRuR0xhcWh3eTBpT1FnOXd3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:56:28",
+      "collected_at": "2026-08-06T10:33:28.850640",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "말레이시아 두리안 재배 농가, 기후 변화 영향으로 작물 피해 고군분투"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "두리안",
+          "말레이시아",
+          "기후 변화",
+          "작물 피해",
+          "농가"
+        ]
+      }
+    },
+    {
+      "id": "a73469d8ee547501",
+      "title": "What does climate change mean for drought? - National Centre for Atmospheric Science",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vUkpRN2lPZFZrRE5QTWpEbTllOWJWWFB4Z0twdXpvdk9qRzZfdXJRSVFzMG1VcTlmelFRVnk4VW9PVDN3TUc3bllCTXpGcXc1YmNubXhBSmxIZlZLU2UxejBkMV81eXIzVnlRUmRB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:17:40",
+      "collected_at": "2026-08-06T10:33:28.850815",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b12e5c0f6cf24a42",
+      "title": "Russia warns climate change is weighing on aquaculture growth - Undercurrent News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2FTM1lNd05vdVdBaWoyLXRyTUw2TmFJZ212TW54MzBaOG9wN1RIeVZET09NdURaWm1XQ1dkdDl4UFhrbHBNekl1S0JzeWYzbEtvXzllZko4Uk1JbGl2d1ZYSWNfOGtBUUtnbXhDYlRPdDVfdHRDQnFpaEZQLWxzM052NWdQMTFjX1ZmRmp3SjI5OG9USzJRdmYwc1pobWxUQ21keEtqZWZqdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T07:58:00",
+      "collected_at": "2026-08-06T10:33:28.850860",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "러시아, 기후 변화가 양식업 성장에 부담을 준다고 경고 - 언더커런트 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "러시아",
+          "기후 변화",
+          "양식업",
+          "성장 둔화",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "346fad32bd43d750",
+      "title": "Study says climate change doubled odds of big Canada fires, not mismanagement as Trump claims - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSjNOUGlYa1JReERwS2U4dWVVNlN1a0JyS1I4VjlIV1REc2ZGVy04aE04eU5IT0NVV1FKLVpsa0psSGR5ejJ3TV8wOF9TSWhYWEx0ZXBtQVhQUkR6bGllVXU5ZHhWNVZoYTkzNVY5ZWl3T3drNGJxZHJDQllEc2NnOTN6OGpvcjV6MG9DV0tINGl3UDZtUWJFdDFMVWJzUTM0NEQ4V2xteDlOSUJQQTA1V3RuSkdJTlYxNDI3SkpwT2xDelZXb3NjSVc5RE1rUFlJaEhvemh4bkVUZTFJenBiRVAxLUM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:12:00",
+      "collected_at": "2026-08-06T10:33:28.850908",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구: 기후 변화가 캐나다 대형 산불 확률 두 배로 높여, 트럼프의 '부실 관리' 주장 반박 - AP 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "확률 증가",
+          "연구 결과",
+          "트럼프 주장"
+        ]
+      }
+    },
+    {
+      "id": "99e1767c00d6b5b3",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China's booming market - Ottumwa Courier",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZllFV3FjcW52YkJITXRHY1BjNGNRbXRUdmM5ODA3UjNqVXpCcU9FX0xQcm8yaEtuQTV3R0xJTG5wUFdBWFR5QUJ1dnZzOGJ0bWdUajNpQzFSNHhCelJpUVNsaWc1NUF6TDBoZ1RSTHpLUmI0R2hPNFhxY0k4NHhmLXRVMTlndkpDeW1SWl85STVaQ2w3c0w4alM2OUNPNGxNMjNPT1lmTUF3ckJoYVJaX3N6bEVXaGFEemRhZ1A0bmFnNVRzSzhQeGR4OEZydklfbUtqSUlLOEtJU2NESFlsbWpCcHRDQTZvU3FxZjBwUXRDSDI4aXFub1ZxUlJYVm5LODlZa2Jab0sxOTFQejBSRnRB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:38:19",
+      "collected_at": "2026-08-06T10:33:28.850935",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 중국의 급성장하는 시장을 쫓는 말레이시아 두리안 재배자들을 압박 - 오텀와 쿠리어"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "두리안",
+          "말레이시아",
+          "중국 시장",
+          "농부 압박"
+        ]
+      }
+    },
+    {
+      "id": "6c249780926df568",
+      "title": "Autumn in the Arctic: security, climate change and Arctic news highlights - High North News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTRnS1lHdmlLS2drOE1rR1dsMnJyc3NDR2U2SjRnR1UtdElqSy12QVZTS2xuNnptbjZQVjBaVnUxUTBWM0NpNkMtSzJ5bDBFUWdXcThIOVh4eVlscE9kYng0cnR2ZzZQWnY3V0dEeXpReGJqVXB1T1NUY3FpLTBUU29wcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:18:15",
+      "collected_at": "2026-08-06T10:33:28.851143",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "북극의 가을: 안보, 기후 변화 및 북극 뉴스 하이라이트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "북극",
+          "기후 변화",
+          "안보",
+          "가을",
+          "뉴스 하이라이트"
+        ]
+      }
+    },
+    {
+      "id": "e2823e21b3439a49",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVDUycWEyeDdwWlozQWlHVXdQRzZodHdaaXZvbEN0ZnFMYldJRUNlTTAzR1FGU3h3YUxnMkl2b0ZDZ19MUl9aVUFJREEydHZzUUdWd01tLVhIN0FDNWdKa3J5SC00b0FuZlhzRmt3VDFCVXJaamxBTzZVeGpZQzRDc0cxQjNjMzUzY1FEajVPODhWbTRNZlJ2V05SaTEzb2ZjajFVSjZlcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:00",
+      "collected_at": "2026-08-06T10:33:28.851213",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구: 캐나다 대형 산불은 기후 변화 탓…트럼프는 관리 부실 비난 - 인디펜던트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "dfa1b0d024696744",
+      "title": "Climate change contributed to big Canada fires, says study as Trump blames mismanagement - Canada's National Observer",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRE5Lb1ZOXzVZb3lfeVBmZDU3YS1JOG1TWVlISFlXb1puVWRrMTJkTjdXMzFHR3Yzd3BQMXc5eTI0Mnc3MmQyaC14dy14U2VsWTlndkdBWU5VUW5ZMDNQVTBENW9JaTNKRExXSXhIS09JRm85cFdxV3FKa0xIdDNiOS0zTl9peDlKWGg5UnRvVzExR2ZjTTJGMVVYM2RoVXNmdGR6WlE4WXM2Si03dEdkTHFZWVBZR0FlSWdkU3cyUXVrM3JXT1UxTGln?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T10:18:26",
+      "collected_at": "2026-08-06T10:33:28.851242",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구, 캐나다 대형 산불에 기후 변화 기여 지목... 트럼프는 관리 부실 비난"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "035bf129f5047f6b",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China's booming market - Oskaloosa Herald",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQeU1VNUp4QzNWWks0SmU1SENBcFNEX3d3UXlTdjRfdFRwajNtcUdsWW1KZmU1VU1fUjJ1WDRwYUZDVXEtT1pXY1dvd2UzNzlYYnpFUEtkRVY1T3JOTFNYYldKOHFIanh2U2lwdGQ5bXdta3F2UVhncklHVGhHdjd2TW91R19xVExXNjl0SWtCbDlUQ3VXd0N0T2h0RWpYYjBNY1dLNjdoZzBSODlVTmY1N2JzRmZ5WXF4WTdydkpWOFI3NUZaQUhFS1FvUF9BZVdvZkprYXVoVHMzU1IxNnRBUzIxV0JfLVMzcVFNejU0V1NJWXptSDNSRDRwLXA2WUxORkVvX3VsWF9lVzQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T01:30:13",
+      "collected_at": "2026-08-06T10:33:28.851291",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 중국 시장 쫓는 말레이시아 두리안 농부들 압박"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "두리안",
+          "말레이시아",
+          "중국 시장",
+          "농부"
+        ]
+      }
+    },
+    {
+      "id": "15a3816714734c41",
+      "title": "Commentary: US ignores climate change at its own peril - The Sun Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOV3E1X0xxdHB1UVZBQXVULThyeHVmRnZrRlNFbjFaWUo1M0NwUTEwc0VVSWtZYmhGRm9Ob1JNTS1LYUh2UmZIdE54ZHNvSG8yUGNqZ1pRMmlCdS1zZFZqMVpWY0hhSXcwVnFfc3E3QUt4aWtWU09VR1d0VDYxcXM2VFUtX2xkbWRTbnNZM3pKYUZRUm9NclhBeWhTVWd3Z2c3eVZJQnIxb1JfeUtHXzdHZ1RVRmh4V3hQTGVRa3ZRQjZmNldzYm1wdGZfQmZSYkhxMkhLM1VXdGNlb3EydkIwRS1hcjh1QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:30:00",
+      "collected_at": "2026-08-06T10:33:28.851335",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "논평: 미국은 기후 변화를 무시하여 스스로 위험에 처한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "기후 변화",
+          "무시",
+          "위험",
+          "자멸"
+        ]
+      }
+    },
+    {
+      "id": "16098c0b5a752a43",
+      "title": "Accelerating Global Warming Could Reshape the Future of Global Potato Production - PotatoPro",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXFiSDNGcU1pbkg4Sm1KMWJzMUFuWHpoVHl1VXJJbkhkbGd5eXVWV3ozN3NoVjVvV1d6dG1YVmZNalVaVGRQNTZWRHFSMVVZdEhBTXFEQWZ4X0JMdkpFR3hTUVNRQXp0em1GTWZMalVGSlBtN1JoTWcwX1hvbzh2eXp0UlVndXZvUFdobnJxQ1Z3Y29yUU85OEVUOWt5dW9tLXFvaFNjVld2QnFTTHc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:13:10",
+      "collected_at": "2026-08-06T10:33:28.851361",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "가속화되는 지구 온난화가 전 세계 감자 생산의 미래를 재편할 수 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "감자 생산",
+          "미래",
+          "가속화",
+          "재편성"
+        ]
+      }
+    },
+    {
+      "id": "ec6f32f2d5a8121e",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - couriernews.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQVjk2eUNqOGRRcVl1TThhYTlsVWd0SGZsTDNJTVo1QkZ5N1ZxNGUxcWU0cVZvbHNvTFpJM3JlMGtNZm03b1Q3d0tFejBvaUdLamRPSXFyd3hBUEFDc0l0cFl3MHRORXM1Y0x1NmR0QlJVWDN2MW9wZnFXbWxiRF9CU1hSUTQ4OEF4TVd3bkNaOWg5b3F5YXBhM0FtTURaNTlFUHZqZ0ZzM0s1aWhxY2xGZURZbkxFRUg1QlRQOXZwNkI5Y3hDbklNbGpMX3FKSDBWdWQ4bjZaT0dzQ3NUVk9QMlZLelo2U1ZrMHFyNFRpMW5CRTF4UlBzZ1JydVhnd1lGOURseGJtbVU3VmM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:21",
+      "collected_at": "2026-08-06T10:33:28.851387",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 캐나다 대형 산불에 기여했다고 연구는 말하며, 트럼프는 부실 관리를 비난한다 - couriernews.com"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구",
+          "트럼프",
+          "부실 관리"
+        ]
+      }
+    },
+    {
+      "id": "14b1859d504f1656",
+      "title": "Babylon, citing climate change, regulates indoor agriculture businesses - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREI1Q05mNUViX2stSmhNU21WQmdpbGUtOXhaNTlxNjhGdndNX0gzemVjQXRTbWhMUXdsT1diQ3A4d1pJNDlxYzlhR085NGpvbWVkTW5HX0JOdVVaeEpua3l6RDJzelJ1Z052YU0tRXpNYzdIMmh1ejc4R05hUlIyc2tGX090dGZpNWc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T00:40:06",
+      "collected_at": "2026-08-06T10:33:28.851412",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "바빌론, 기후 변화를 이유로 실내 농업 사업체 규제 - 뉴스데이"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "바빌론",
+          "기후 변화",
+          "규제",
+          "실내 농업",
+          "사업체"
+        ]
+      }
+    },
+    {
+      "id": "07e8cbc8c4b548e9",
+      "title": "Durian growers in Malaysia struggle as climate change impacts their fruit crops - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRktvUmxUWTFwRWJPZVNLblNXOHVjVnhnZHlkVHA3dlBYNFBTYXVIclZTOTFVMDRINUtQS3NZaHdqcDlSWGdieE03T3AyRlhtZHhuYlNMTzFNelpxTjBSeHlLNnA1a3NBWkF3YVdqS21WczJfS2tsZ2tYTzBqS3JXQ0JQN1RheW9VTkZXUjgtT2lkdU0?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:58:40",
+      "collected_at": "2026-08-06T10:33:28.851439",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "말레이시아 두리안 재배 농가, 기후 변화로 작물 피해에 고군분투"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "두리안",
+          "말레이시아",
+          "기후 변화",
+          "농부",
+          "작물"
+        ]
+      }
+    },
+    {
+      "id": "dca5e0b6c788f544",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUXZPRTlCdERESV9paUlJTVpzYVU1dExEZll5dkVJVDBfNUkxaDI1SHBXWXVMSUozS01fLU1oa1lEMm9rRWFmNlBSZWtMQ2gtWHNWOW5FeGg5N3NzYTNBZkdHT2xtS2pPOE1CR3liUUdmTERlTFlweHBoakpzRkQzdVI4aFhwLTVvbWdIUXpwV1pHUlJCN0o3anQwOElnTFhjcXhCbGxaODgxcjltYVE0aXVtVXVmc2tkMFBmeGFUYXI3UTF5M3RBTmlLdzFjRnEtUjdWRXpjS1ZIOFphdTFjVWlQTFhHTWN5dzlwb3NOUGl3Q0RMZE1yTEhFYmpGakRiTmNnS2gwVURMeEp1cGFaVml3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:21",
+      "collected_at": "2026-08-06T10:33:28.851467",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구, 기후 변화가 캐나다 대형 산불에 기여... 트럼프는 관리 부실 탓해 - 더 데일리 가제트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "fd5878716430e3d4",
+      "title": "Climate change contributed to Canada fires, study says as Trump blames mismanagement - livingstonenterprise.net",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTUNpRTZnU0dSRGw2bEpMa1FtOUMzM2YzZHg3dlRvR0dQVXo0cFZReVZPXy1LOWxOaGx1bkpoXzM0RTNYZVl4ZmZNbk52QVpHcDNaUDVKSDEtSDRJdzVEa0RoSlEtRnhRTmRPU0ZSV0pYakdaSXJMSGRub3FfcGZsTkRjTllTbDVUVW8xeWZ6SDk3WTZlblFiY1VxTS0ybTdvc1JPNTZsNWhQTjJfTlRLa0Y3Q1dsQW1qSnJKaWhBMXo4aFJBZ3dWYzhETDhhOEk?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T08:49:11",
+      "collected_at": "2026-08-06T10:33:28.851562",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구, 캐나다 산불에 기후 변화 기여 지적... 트럼프는 관리 부실 탓"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "6f923c47cd6f60a1",
+      "title": "Migration around the globe: How butterflies are reacting to climate change : Newsroom - Universität Hamburg",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxeVBOaWxHNXZ0cmVHNnVVWWp1MGZDNmJ4NC1ITjdpUnd3T2ZDcWRVUHB6dk9haWVPRXNYX3o4dkFOdi1vNDNBbmNtQUM1RnY5TjB2eUtDRXFfM3ItdEstVzQwbjUzQlYtWEN5VQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T09:07:52",
+      "collected_at": "2026-08-06T10:33:28.851612",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "전 세계적인 이동: 나비들이 기후 변화에 어떻게 반응하는가"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "나비",
+          "기후 변화",
+          "이동",
+          "반응",
+          "전 세계"
+        ]
+      }
+    },
+    {
+      "id": "b8a3cf15c665b924",
+      "title": "Climate change contributed to big Canada fires, study says as Trump blames mismanagement - Goshen News",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWWVacHIyOHRQRnpVVjR0NGF1S3FKN2VnY1c2ZjdLY3hnWVRadGFqX28zNHRlRkFwcVJpbUp2eWkyUGh1eFBnaDl1VGtnZTVQdTl4NTFLVGNEenVXcUpwS0FQZ2FlZ2ctbWRGc3RZV1Y4SW80RjRWOFg1QTJMNi1jSlk0R3Z0LVF2eklFNFlJaGY0dE9qeDBlMEVEV2FlTkdrcm13WXJJRlNRdW9rR1ZJSzBKRktuQTVoZ3o0TUlWOHJQYktuLS1qUUVHX2cyTGluNHVfb3lFV182TGVhTDJOaVlUWFRJOFEtVmRZdmRkck5qTzNvSWhWUUR4aVE2WG1hY3VSZnQ0SE5QR0JaZTJiRw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:03:21",
+      "collected_at": "2026-08-06T10:33:28.851657",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 캐나다 대형 산불에 기여했다고 연구 결과가 밝히는 가운데 트럼프는 관리 부실을 비난 - 고센 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "관리 부실"
+        ]
+      }
+    },
+    {
+      "id": "968ccab70a6ade1e",
+      "title": "Climate change made Canadian wildfires in N.W.T. and Ontario roughly twice as likely, analysis finds - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMXRBeWhWaFFOSTVrY19fNVhIT0MtTU9IY1RGS0JJVGRMUG9LTUg2dmFIQ2dwRklCSnVNVVFrZ3hqazgzRjdDNE9Oc3UwX0tJWEUzQ1lVcFF3N2pxMVVia2F2NG5vQ0FZMFJPbkhwZm1MMkN6T1c1WFBiMDhHbjR1VXhB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T08:00:00",
+      "collected_at": "2026-08-06T10:33:28.851685",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 캐나다 NWT 및 온타리오 산불 발생 가능성 약 두 배 증가, 분석 결과 - CBC"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "발생 확률",
+          "두 배 증가",
+          "분석 결과"
+        ]
+      }
+    },
+    {
+      "id": "c369c1ea8cc6f83d",
+      "title": "Hanes: While global warming accelerates, governments fall behind on mitigation - Montreal Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWVBSmhvNXNDZl9oV0NWNDNuUmdBRzFKYW1TX2RGNVJ5ZnhDakFJUC1IdjlfUDIzVWU1NlRCYXhDbjhPNzlta3BFbWFlUU1neHBGdG80dmp5ODRBLVAxQTBHZy1PbjF2TjM4MTFKSmRPRF9wYWZEeFlnSzZJSm9rai1jNExCWDB3SnoySmN2UHRSX2xkR2E4eWdld2lmdHIzR3RpOGd5MG5ZTXdLV0QtazZhdUNYdnhYZ0VUZnR3UzJMdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T10:00:00",
+      "collected_at": "2026-08-06T10:33:28.851752",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "헤인즈: 지구 온난화 가속화에도 정부는 완화 노력에 뒤처져 - 몬트리올 가제트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "가속화",
+          "정부",
+          "완화 노력",
+          "대응 지연"
+        ]
+      }
+    },
+    {
+      "id": "b67a9722a8a96e30",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China's booming market - livingstonenterprise.net",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMUJQOTZDMzlreHU4WTBCNTdDZ0ZmakRqSnZQWDdpZU9GNEZxalhwbFFTd3I2OWllNjVjaFVkRmxqVkh2ekRQUmFCTjdpTjZqSUJiNFNvYmJuWDMwbm0xbG1JRGxDM1ViR09fcGw2eW96UDlYZDVsLTFEdjFaaUU1MUgzanhIRHNGb1ctVjYxV3lSaTRTaWVjWmJ3R1FUUkMzTUFNcDhLeFh6bk5rNlh1NGd2b2NKTlU4QXhSWUpvcWhiNm9VenRXNFhwZjlUb2Vs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T02:32:00",
+      "collected_at": "2026-08-06T10:33:28.851798",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 중국의 급성장하는 시장을 쫓는 말레이시아 두리안 재배자들을 압박한다 - livingstonenterprise.net"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "두리안",
+          "말레이시아",
+          "중국 시장",
+          "농부 압박"
+        ]
+      }
+    },
+    {
+      "id": "b6fda702b87533ef",
+      "title": "Video: Study says climate change fueled Canada fires as Trump blames mismanagement - livetube.tv",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGMtZFV3dThHeHY1WGh2eVQ1cGljM2YxdVdkclltMVJLcm9WSDU0cGJsZlRTR2s1bHR4OVpCcVU3Q1AzN0NuT3ZjaXMwSV92ckZyTjBFT1loSzU2cW9fc193ZE5YQkc5MERWRlZDY3VndDZqSzJrLTJ6T0hvbklYSlllcDRiUXN1TVh6dHM5Q3RRdEU4bE94ZVVxQ04wYUg0S01SWG9kR0RUZXlGNGI0?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T06:43:54",
+      "collected_at": "2026-08-06T10:33:28.851878",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "영상: 연구, 기후 변화가 캐나다 산불 부채질... 트럼프는 부실 관리 탓해 - livetube.tv"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "트럼프",
+          "부실 관리"
+        ]
+      }
+    },
+    {
+      "id": "b8d1af2bfc57fdec",
+      "title": "Study says climate change doubled odds of big Canada fires, not mismanagement as Trump claims - Yahoo News Canada",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03LXcyVGxMOGVjbTdHQ1pMcVRja2o4a1Mwc0RVY0ItYXBGcnZ1ZnFPM1VidGFmX2Q3aUpsQ2JKc3ZRSEZSdXpHX2t2S05SMmRRaWpvbFZ6eVhOZVA5YktOT29TNVhjXzVUNTVtY3YybDh4NENubTdyZ200aGFYQzA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:02:00",
+      "collected_at": "2026-08-06T10:33:28.851906",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "연구: 기후 변화가 캐나다 대형 산불 발생 확률 두 배 높여, 트럼프의 부실 관리 주장 반박 - 야후 뉴스 캐나다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "연구 결과",
+          "확률 증가",
+          "부실 관리"
+        ]
+      }
+    },
+    {
+      "id": "50178ffc11a5225f",
+      "title": "Climate change made Ontario, N.W.T. fire conditions roughly twice as likely: report - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS09VN0JuMWpJMEJ5WEZodVpwdHFHVEptQV9tMXg3aWNzRE1vNklnVUtGelhsUlBjZFdJdlVRVmZ6VGgzS0RmV19ITm82bHM2SFlwbmJPaGhqbmd5TDl2aVpqMHJKekJvMk9pbGxxSGYtTF9vSVlnY216WkpPakhxY2FtR3k4OVJ4SkFhaFJIR1NjMXBXTjBoQ1hRWjF5OG44eHpldklGaDhsd0ktckl0d0VHYWRtdll1YW1VY3ZLa0k5MkJzZzBBcTIxaWVodVp4Z2F6TmpqN1dlZzd4emJHNHoycDlzYjFSNk92YURmSHZjV1k?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:06:19",
+      "collected_at": "2026-08-06T10:33:28.851933",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "90193239b9df68d2",
+      "title": "Climate change a root cause for worsening wildfire seasons, researchers and politicians say - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43YU9vNnpUUDBUeWFWcEpEcTBiRFotY3ZBOWhlNGNnc3l4SE1NVWk4RUZuMjI0MzFUbzJ1emdiSUl4enF6Z0lyV1dydE9WTTItcU5kZDNKT1AyZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T05:37:46",
+      "collected_at": "2026-08-06T10:33:28.851997",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 산불 시즌 악화의 근본 원인이라고 연구자들과 정치인들이 말한다 - CBC"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "산불",
+          "악화",
+          "근본 원인",
+          "연구자"
+        ]
+      }
+    },
+    {
+      "id": "10a48a62c7fe7e72",
+      "title": "Climate change made Canadian wildfires twice as likely: Study - The Straits Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUpYTXVhR3ppZDVoOUhEd0hsOGVhTjZVWm1FNm5XTkdhc3B0VFNaUEZZWE43TEJtcG9KNHBabzJQdXNodHVNSW1fSkVJQWRUeGE3YU5hRkE0NkNMN1FQOUU1V2l5ZENOVkdpYlNneXZwd3JvaEFVUVktOEo2NEVSanNpd2tJdkptV1hEWlROR004SmhzMXNCWEhrNA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T04:24:00",
+      "collected_at": "2026-08-06T10:33:28.852023",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 캐나다 산불 발생 가능성 두 배 높아져: 연구 - 더 스트레이츠 타임스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "발생 가능성",
+          "두 배 증가",
+          "연구 결과"
+        ]
+      }
+    },
+    {
+      "id": "0ce51fd6429577d3",
+      "title": "Climate change squeezes Malaysian durian growers as they chase China's booming market - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWVKOUtpQkxKaXRnOWdWeWdtSUt5TjNDSnB6RUJoREk0amY2Z2NOd2hzQ3JZemNaT0pBaXJ0VDNxN2hFOUNwTmE5RUJsZXk0RC1HX0h0Y0t1bWdIUTNpckw1TFU3UTdwMXRsLW9sTEJ2RFpyR1hkV2RvbGNDemIweVlJMDl2RllaOGJIMVl6NnVsWXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T01:10:00",
+      "collected_at": "2026-08-06T10:33:28.852049",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 중국의 급성장하는 시장을 쫓는 말레이시아 두리안 재배자들을 옥죄다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "두리안",
+          "말레이시아",
+          "중국 시장",
+          "재배자 압박"
+        ]
+      }
+    },
+    {
+      "id": "0226ef64430e54be",
+      "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
+      "link": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-06T09:00:45",
+      "collected_at": "2026-08-06T10:33:28.373443",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d4529a84bc47946b",
+      "title": "We need a wartime mindset to fight the threat of wildfires | Seth Klein",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/06/wildfires-europe-world-war-two",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-06T10:00:44",
+      "collected_at": "2026-08-06T10:33:28.373720",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d08ae1fbbd48dc76",
+      "title": "Weatherwatch: Paving over front gardens is leading to hotter nights",
+      "link": "https://www.theguardian.com/news/2026/aug/06/weatherwatch-paving-over-front-gardens-hotter-nights",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-06T05:00:39",
+      "collected_at": "2026-08-06T10:33:28.373928",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
