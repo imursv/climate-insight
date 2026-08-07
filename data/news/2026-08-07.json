@@ -1,16 +1,16 @@
 {
   "date": "2026-08-07",
   "metadata": {
-    "collected_at": "2026-08-07T01:50:54.988087",
-    "total_articles": 97,
+    "collected_at": "2026-08-07T09:02:28.312566",
+    "total_articles": 182,
     "sources": {
-      "korean": 54,
-      "international": 43
+      "korean": 119,
+      "international": 63
     },
     "sentiment_distribution": {
-      "positive": 33,
-      "negative": 39,
-      "neutral": 11
+      "positive": 81,
+      "negative": 65,
+      "neutral": 14
     }
   },
   "articles": [
@@ -2474,6 +2474,2171 @@
           "17억 달러",
           "매각 목표",
           "조기 달성"
+        ]
+      }
+    },
+    {
+      "id": "f599537016c83d6f",
+      "title": "세계기상특성 \"캐나다 초대형 산불 원인은 기후변화\", 트럼프 \"산림 관리 미흡\" 주장에 반론 - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13QU5WUkxGdGszNlNmeWUxY3dFb0xBaVdwNUNRSVFBbnd3MzdsVUJMODRHSThIY0F0UmZ5MlpUMWVTaV95X3hkM2xQaElhU1kzWlRGODlIdUhkV0Y0eWVVbnBmLVNhLTdtWEFfRjFsSHdjNUU?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T01:39:12",
+      "collected_at": "2026-08-07T08:52:22.643844",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "캐나다 산불",
+          "기후변화",
+          "세계기상특성",
+          "트럼프",
+          "산림 관리"
+        ]
+      }
+    },
+    {
+      "id": "2c9eb5935155d81d",
+      "title": "[AI 카드뉴스] 기후변화가 바꾼 대한민국 여름 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yb2ZCXzJzZDNSTmNkTmFuZTlWUzZTSkUtRXd1eGstNnkwVVR5U3k2Y2FBb2RKSENseUFIam51R25pbWxhOEowZWVwREI5dXlyV1RlT0pCbTNjUXAz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:53:00",
+      "collected_at": "2026-08-07T08:52:22.643862",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "대한민국",
+          "여름",
+          "변화",
+          "AI 카드뉴스"
+        ]
+      }
+    },
+    {
+      "id": "923e827dc84cf901",
+      "title": "국민대 HUSS 기후변화대응사업단 일본 기후 대응 현장학습 운영 - veritas-a.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50d1k1NDdrbXZTUnpQUkxOZXB4UWtCSlUtM3dOT2RyN0xtYWE0cjM4S0UzTGQ4emY1ODFZTHhuNkh2OVZwc3VTSC1sQ2hLelhqWDlKSGUwNzh4SjJCUUtyT1N6SFFWekpoOXBLWA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:07:02",
+      "collected_at": "2026-08-07T08:52:22.643879",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cd492181413534f4",
+      "title": "기후변화와 폭염 - The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYOHhmcWlrY1Q5ZDdFYldIQUpJUDhnQzJRR1dzNGd6Y21KZ1F4cHNjVGNoNVJFMFJqU2lZME5WTUNqWEJ5aHJkVWxUMmNNSF84eXlZTDRPZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T01:00:00",
+      "collected_at": "2026-08-07T08:52:22.643893",
+      "keywords_matched": [
+        "기후변화",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d0de5a2ec4d6cd74",
+      "title": "국회부산도서관·부산기상청, AI로 만드는 '기후변화 그림책' 프로그램 운영 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FM1FNaFowdGVSR0Z3QmR0NW5uOC1FRnowWVFINEVVaFFLamtrYzUtNVhjdkR5NlNUQ0NDcUktaHZ4MUxURE1NUkEyYU9ubUhVVVZpY1Z2b2NUZGd4UTZ5UVlkZGR5MDZ5MzNqX2xR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:56:34",
+      "collected_at": "2026-08-07T08:52:22.643908",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국회부산도서관",
+          "부산기상청",
+          "AI",
+          "기후변화",
+          "그림책"
+        ]
+      }
+    },
+    {
+      "id": "1e15bccc9e0023eb",
+      "title": "여수광양항만공사, 2026 UN기후변화협약 기후주간·K-GX 국제주간 개최 유공 기관표창 수상 - 여수넷통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJdm8wTUxrSDdLTjA4Y3VKNTUzUkhycWo2dFh1SkhXa2xoN1lBU2s3U2E4Z0pxYVp5QTRxWXNNMklNMkk0aGRVdnJJem1RclUzaXNGQm8wRFJhVlFNWEgyd2pmTkZ1Z1FTaWc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:16:45",
+      "collected_at": "2026-08-07T08:52:22.643964",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "여수광양항만공사",
+          "UN기후변화협약",
+          "기후주간",
+          "K-GX 국제주간",
+          "기관표창"
+        ]
+      }
+    },
+    {
+      "id": "39caa67a12324329",
+      "title": "국회부산도서관·부산지방기상청 공동, AI 활용 기후변화 그림책 만들기 프로그램 운영 - indifocus.kr",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBZam16bWRRS2pqMS1vay1HbU5jbXJHZTlyU3pJUWx4a2FjWGVPcldaVjI3b0h6UEg5azV4emE4T3pJTDQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:20:00",
+      "collected_at": "2026-08-07T08:52:22.643980",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "AI 활용",
+          "그림책",
+          "국회부산도서관",
+          "부산지방기상청"
+        ]
+      }
+    },
+    {
+      "id": "716ceb90ad72d1ca",
+      "title": "국회부산도서관, 생성형 AI 활용 기후변화 그림책 만들기 운영 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mQWowN0FFaHdySll5Znc2M1I3Q1UwcjFzOGFYSnBzUldDbVRBa0djLVpKbHZaejhrcmk2dlhHMm10dWtUWTRITy1zQWh3RUozWVpjd0lxYlZRRXQ4Uk42emxPSTZVOUNoYTlHZ1I4STU?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:21:55",
+      "collected_at": "2026-08-07T08:52:22.644006",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국회부산도서관",
+          "생성형 AI",
+          "기후변화",
+          "그림책",
+          "운영"
+        ]
+      }
+    },
+    {
+      "id": "10f7512e90475c57",
+      "title": "청도읍, 환경지도사와 함께 경로당 기후변화 환경교육 실시 - 다경뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9EY180c1dYQnRsWVkxVzdxY2xvVFViamZHUThxaUJyckM5S094dzd5Z3M2VFZHZE4wMFJVTjBNRXFqT24t?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T01:22:00",
+      "collected_at": "2026-08-07T08:52:22.644021",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청도읍",
+          "환경지도사",
+          "경로당",
+          "기후변화",
+          "환경교육"
+        ]
+      }
+    },
+    {
+      "id": "f4c5e78183b8890d",
+      "title": "‘중앙아 마지막 유목제국’ 준가르 칸국, 전쟁 아닌 기후변화에 무너졌나 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5maGViLUxGbl8tSmU5VGhwanNwZnI0OGN2UTBtZmFvM2pxM19xMG1OQXI3Smx4SEFVbUZzaVVJZ2FHdVozU3Q0LXdGaFN5MnRDZVdta1FOc0Y3bnFWTFF6WXUzTUxRYWxFa2Z5T0dB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:38:54",
+      "collected_at": "2026-08-07T08:52:22.644048",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "준가르 칸국",
+          "기후변화",
+          "유목제국",
+          "중앙아시아",
+          "붕괴"
+        ]
+      }
+    },
+    {
+      "id": "07e08a5afa98c13c",
+      "title": "中 AI 기상 솔루션 '마쭈'...아프리카 기후변화 대응의 '구원투수'-Xinhua - 新华网",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SYVNkdFZyMU9MZDc4al9IT3Z4OU43SlJSaVcxb0hCWDN1YVhockxObzUyVGFsNFkwU2Y3dDJmaHVPbHd3V0hWNGgtMzVpYkhUMk02SEtQMVpUNlhGYzZvb0xLa3BPZjZBcFFSdzROaTdzT09qQmVhMGFJVnk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T23:22:52",
+      "collected_at": "2026-08-07T08:52:22.644075",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "AI 기상 솔루션",
+          "마쭈",
+          "아프리카",
+          "기후변화 대응"
+        ]
+      }
+    },
+    {
+      "id": "d63b855c883c5d83",
+      "title": "지구온난화가 끼치는 영향을 돌아보다 - 영등포투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54TDNENFZoc2hpWVpmdmFweWRDVXRBaWZVdTVXbFM5cndOb056dFlNZzFQOVVaX1FLVy1nTjJINUJqQ01LYjZpN2tQQWNiVVlwSFlCNHJSY05fcXBPQllWbDQycGRTUVpCNHc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:36:46",
+      "collected_at": "2026-08-07T08:52:22.644087",
+      "keywords_matched": [
+        "지구온난화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "지구온난화",
+          "영향",
+          "기후",
+          "환경",
+          "돌아보다"
+        ]
+      }
+    },
+    {
+      "id": "c72c5ec70a5a94e9",
+      "title": "산불연기에 美북서부 대기질 '최악'...기후위기로 산불위험 2배 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBvTEtiUzFrUTgxWVNPOVFBRWZjellIOVBMb1pPZFNNNTBQWmxhRDRyWVNGQkFaSGpScHhHaU1GbklVeEtmUjlhZVFWWDRmT0RpeFl4ZmpIR2VGM0gt?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T08:23:02",
+      "collected_at": "2026-08-07T08:52:22.644101",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "산불",
+          "美북서부",
+          "대기질",
+          "기후위기",
+          "산불위험"
+        ]
+      }
+    },
+    {
+      "id": "5461b1b149f2f5fc",
+      "title": "“기후위기 현장에서 답을 찾다”… 국민대, 일본서 저탄소·에너지 전환 해법 모색 - dailysmart.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aQndmeGptTVgzSUM4WkZFcV9qbXJEOUV5bnN4aDN0SmY1LVNfTXRDLXhzVUNYMWJXeFVjQjFyR0prcTM0eFVQWnRDeWdWT2ZRcGtPa1dDbTh1NVNndEVoaUhRZFhEQXlxczN2T20taTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:15:24",
+      "collected_at": "2026-08-07T08:52:22.644130",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "국민대",
+          "일본",
+          "저탄소",
+          "에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "b1d7b04d133e0483",
+      "title": "\"에너지·물류·농업 줄줄이 비상\" 폭염·가뭄에 신음하는 유럽, 기후 적응 투자 필요성 부각 - The Economy Korea",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWEFUUmpvNk00VmsyVkZZYzN5TFltcERUZzZrOFhYaUxJdEZCajVfNjMyNjE0NEVvWjJBU1c2NktoYkFFNVRKZklmVXA5VEU3VFRXS1pMUGFyMDA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T08:26:40",
+      "collected_at": "2026-08-07T08:52:22.644173",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "유럽",
+          "기후 적응",
+          "투자"
+        ]
+      }
+    },
+    {
+      "id": "42981ac75fa49e4c",
+      "title": "“38도 넘으면 보험금 톡”…폭염중대경보 속 뜬 ‘기후 안전망’ - 파이낸셜투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQy1pZ1FVZGxIc1NTS3NVOVdCMS1uYndFMTcwUUN2QkItaFRwNVUzdUNoVmFoZ01mVHpZNDlydlRtMEhVUjdTdERYejY3eEd0LTRCTExwc2diRDYyeHh4UW52Ull4NTVKMXfSAW5BVV95cUxORnh2bGJwNlkyNDB0YmtpTGM3UEVaMmREam54S3JxY2xXZW9rc0sxMkVuYnZKLUNGY0tjQU5iOW9QZUdVbEtXaDVTRVFRN19tRHY4WDVtT012UHBnYzlRSE9KMjhGeTQ3VkIxNnYyQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:01:51",
+      "collected_at": "2026-08-07T08:52:22.644218",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 안전망",
+          "폭염",
+          "보험금",
+          "38도",
+          "경보"
+        ]
+      }
+    },
+    {
+      "id": "14fb4084f54ecb04",
+      "title": "기후위기와 인류 종말…우리는 무엇을 해야 하는가 - 덴탈투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGYUkxbWFnSlQwNHF4SllUell2N0NiWXZSMThpUWNfV2hzelFEWThnT2haTDBNbVZhMTlMdmoyLTZDSE0xWkc5eWNJejZ4YlpOV01rY3dIMWVnTFpYNTVmX0M5NDdTeGJC?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-06T22:24:00",
+      "collected_at": "2026-08-07T08:52:22.644326",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "인류 종말",
+          "대응",
+          "위기",
+          "미래"
+        ]
+      }
+    },
+    {
+      "id": "396a788931789a43",
+      "title": "국민대, 일본서 기후변화 대응 현장학습…한·일 학생 글로벌 솔루션 모색 - 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KWUcwdEVMZXk3NnZSa1RsR3lNSHZUVTlqMXl2TTVIN1lwUG51em9kMktFX1VwYUxJNEtrdUVVMzA1WjJ5SmZJZW1pVTVEZHE0X0MxWk1yZEVtOE16QU41T3U1Zmx4bHBwSVE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:48:59",
+      "collected_at": "2026-08-07T08:52:22.644423",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국민대",
+          "기후변화 대응",
+          "현장학습",
+          "글로벌 솔루션",
+          "한일 학생"
+        ]
+      }
+    },
+    {
+      "id": "b00ae8fb310fcf96",
+      "title": "폭염에 지친 젖소…산유량 감소·번식 장애 심화 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BczNoSlg2QlRVdE9rY3hHRlBHYnkxRE5xVnktYXFaZXRDMkFMdi1yYTVxLVBpMlNUS0NST2Z3a2RUU3JpSmdrZFM3LUtNODBBV29rN3IzVzVjVlN2ZVRvUUpIdVdrMnBIU1BJ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T01:51:59",
+      "collected_at": "2026-08-07T08:52:22.644457",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "젖소",
+          "산유량 감소",
+          "번식 장애",
+          "축산 피해"
+        ]
+      }
+    },
+    {
+      "id": "2a823fdd5be4b7e5",
+      "title": "[폭염 이슈] 폭염 못지않은 무서운 재난, ‘가뭄’이 왔다 - 한국재난안전뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12YmJtYmtyWWtPVDFZWXpjZm5hdTZ1WnN4RlRmSG5mRmNSZXhIcTgzRXJ6OXhsSlkwRGdsQTZyODhmZ2tkWURlZzI5UTJuX2Q3NlNfckhhODJiY0lPZnc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:58:34",
+      "collected_at": "2026-08-07T08:52:22.644502",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "재난",
+          "무서운",
+          "이슈"
+        ]
+      }
+    },
+    {
+      "id": "82262eff19b4e22c",
+      "title": "폭염으로 생긴 경제손실·질환…'기후보험'이 메운다 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oUWd6S1RiRFRuSjRrcnZaUFU4RUlzQ3IwMzhqVWRkYnlXekRWdS1tRVFkd1lhaDd0Ymtsd0VZV1Nxc3laV3NXNS1kSHBaVG4xM2pJ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T08:25:00",
+      "collected_at": "2026-08-07T08:52:22.644536",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "경제손실",
+          "질환",
+          "기후보험",
+          "피해보상"
+        ]
+      }
+    },
+    {
+      "id": "5e20a1f1f887d21b",
+      "title": "[이슈] ‘극한 폭염’도 보험 보장...이상기후 잦아지자 '기후보험' 찾는다 - 오늘경제",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sMm5QTkVyc3RXZlhuWUdVRVlMM044LUk0N3NJRzJWdmdkOTZtVWcxcklBX0VIVnJpbUpaT2JwNXlabnRGd2R1Z3kyd21SazJVOHpzVlNUYWN5eUR5RVFJVHo2ZmgtQUpoQWE5M0RPRWVGUTg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:09:56",
+      "collected_at": "2026-08-07T08:52:22.644814",
+      "keywords_matched": [
+        "폭염",
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "극한 폭염",
+          "이상기후",
+          "기후보험",
+          "보험 보장",
+          "잦아지다"
+        ]
+      }
+    },
+    {
+      "id": "afff66e30d1c253c",
+      "title": "'1인당 15만 원' 폭염 지원금 나도 대상? 진단비 확인하세요 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYY2dhVVRyUFlEaEVzdHJMVEFsdHdMUkNPa0RhZnFSTUYtb1VIYXNNU21UdkJaWHNIc2ZvQ3pPeHJtUmFuNVhwRFlVeDVneFo1eGVtby05MDZadmt5eDJsbm1tYWE3T3NSVXpoU0xR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:32:13",
+      "collected_at": "2026-08-07T08:52:22.644986",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "지원금",
+          "15만 원",
+          "대상",
+          "진단비"
+        ]
+      }
+    },
+    {
+      "id": "51544f6f0191c1ed",
+      "title": "해남군, 만대산 일대 100㏊에 탄소중립 특화림 조성 - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zcXZDZEFkUkZSeXdPemhFQWRLdGJ4QVQ4cm1PdFpqendoR0Etc2dzZVNhZVJNRXhOeUxUSzdJcU9EbWZ5d3pxdWd4MmlaOEZLY0s0enFlWGNmb3ZrYTk5WNIBeEFVX3lxTE15R2Q1NHdyYzI1UVhVZjAybHF3eDA2aTlDRXVaak42WGVuZXRqWXkzYWxxOXhEd3p4My1zaUI2c1pHeng3SFhJWDNmMGhMZDFUekhpZ0pRdGUzaXVMS0pPZzZuWVNuOVU1Mmp6eXotdTJQQ0FMMjdaVQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:22:41",
+      "collected_at": "2026-08-07T08:52:22.616864",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "만대산",
+          "탄소중립",
+          "특화림",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "aaeef90fcb9951e0",
+      "title": "해남군, 만대산 탄소중립 특화림 조성…5년간 20억 투입 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rN2s4aG1GcjhVaUNoWGpnQ2hZMEEtanROZnYwbE1QMDE1OThIbGZjMTM5bHphRXVJUHFpOG0zbEhfNTBKaThfNVFoN3BEWkNBN1dORERwYnNLYVpq?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:53:00",
+      "collected_at": "2026-08-07T08:52:22.616884",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "만대산",
+          "탄소중립",
+          "특화림 조성",
+          "20억 투입"
+        ]
+      }
+    },
+    {
+      "id": "007a314e3b9bed8d",
+      "title": "(사)부산진구자원봉사센터 초록씨앗 청소년 봉사단,탄소중립 실천을 위한 선진지 견학 실시 - kookje.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdkJyZGpEZ3RlQWc0c0NQWmNXZjN2R3p6OWRlMVZzN3dtcmJZMXRxUUhtWUlTS1N4ZkQwei1GWGhreTVMTF8zRXJJb3BvNS1xNjFZVWhKVzMzZjJRRGxKT1hUX2h5NGhYWWktbGg3WDgyWUFmMmk2Ql9naG9ndlM3dFhBNEctTjJmT2NlSC1R?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:12:00",
+      "collected_at": "2026-08-07T08:52:22.616904",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "부산진구자원봉사센터",
+          "초록씨앗 청소년 봉사단",
+          "탄소중립",
+          "선진지 견학",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "4ce09919af4225d7",
+      "title": "대전시 대덕구 법2동 탄소중립실천연대, 친환경 비누 만들기 추진 - 보도자료 | 기사 - 더팩트",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrdkxNUzZJelN2SmlSWjFIMnNtQUJCVDZnQ2xBb1VpZndqaUg1SUgwdUc4T1NEWThqZ2dtdGUzUkZ4YjdoRnotdjJzZms2RHlXRFdpb1BKWVhRQmNGUzZv?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:06:40",
+      "collected_at": "2026-08-07T08:52:22.616946",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "친환경 비누",
+          "대전 대덕구",
+          "실천연대",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "75dd4f9f5b5f4fb8",
+      "title": "탄소중립 ‘선언’ 넘어 ‘전력 조달’로…제조업 재생에너지 구매 계약 확산 - hani.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TZjc4Q0pOU2RDeUhLSVRoLTRQMkhoSHJSX1JDY0hYa1k0TmRfNmhnem03bXlSbHlrcV9XaHNtTXVpSnhKT21CM2xLSW1yUVpDaGdEdVZfalJMa0U5U0hFT2dvNlJ1SmFpTXRtbVVHZkxzUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:30:00",
+      "collected_at": "2026-08-07T08:52:22.617009",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "재생에너지",
+          "제조업",
+          "전력 조달",
+          "구매 계약 확산"
+        ]
+      }
+    },
+    {
+      "id": "b2d7575b8a741ba9",
+      "title": "해남 만대산, 탄소중립 산림 모델로 특화림 조성 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hZkd6MUxvNno1X09QNzk4SFNGTWlQdXZFOXVzRFNsN3g3MWJzV1pkbGpNbGtKaW1YTzhVRU5vMld2RXpKdjBGS0pkUlY3M3J2clk0U3JaS01QVnp5RlJoSi02bHI1a2xLRTlKWUZVMEw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:59:00",
+      "collected_at": "2026-08-07T08:52:22.617024",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남",
+          "만대산",
+          "탄소중립",
+          "산림 모델",
+          "특화림 조성"
+        ]
+      }
+    },
+    {
+      "id": "4650d03ffaa50a66",
+      "title": "오산시, 현장 맞춤형 탄소중립 교육 첫발… '경기 기후보험' 등 실질적 혜택 안내 - 파이낸스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zTDRIbDNFTGtTbWdQaVFKV2hncXYzdlFrN2JqN1d0R3VWMUswOXpETmg2RnlXRE9Ed0xEV2JGYThVVjFiLU1ObXA4TVZ2VXhvV1FYcUZZYlVkU3NHTmhocUhMUDNtN3dTZ0JmRw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:31:16",
+      "collected_at": "2026-08-07T08:52:22.617045",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "탄소중립 교육",
+          "경기 기후보험",
+          "실질적 혜택",
+          "첫발"
+        ]
+      }
+    },
+    {
+      "id": "e4bcb0faba114a91",
+      "title": "직접 만든 친환경 비누…법2동 탄소중립 생활실천 - ccdailynews.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ES0I3WFI5amVjY2FrM1hORHVTOE9uMkgtUWFNNzUtdXRNUUhsRjN3clJrTVpLNloxLVlPS2wtQWY0OVQ0Z0N4WHd6T2lLa1pLYURWVXJMUEw4WHJIbHBkQTBudnh5aXE4bWxHa1BuanA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:44:49",
+      "collected_at": "2026-08-07T08:52:22.617061",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "친환경 비누",
+          "법2동",
+          "탄소중립",
+          "생활실천",
+          "직접 만든"
+        ]
+      }
+    },
+    {
+      "id": "ac69816f5f26d5c7",
+      "title": "해남 만대산, 탄소중립 산림 모델로 특화림 조성 - 시사일보",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5lTXBvZlRSWVFDSkxZNDhqR25hc1BNX1hxRFVsV0d0STVDZVNCMEpfRXlNN1pvcjN3RW56cWdoMUxPTHA0TE1lQ3NELWk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:19:00",
+      "collected_at": "2026-08-07T08:52:22.617076",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남 만대산",
+          "탄소중립",
+          "산림 모델",
+          "특화림",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "4de4baaf71d78b66",
+      "title": "대전 대덕구 법2동 탄소중립실천연대, 친환경 비누 만들기 사업 추진 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YSWtJNVVSaTEyUy1PVVIzd1Y3Y2h5eXNucHljeWtkaVlsNlU1ZUFKOG11bkVVeEtsOE9FYVlvWWdvbGtLR3V4S1VYY3NpWUNxdXdnYU9reXBJMko3Mnc1azdKWjBUWERFYll3VlFZVWZDYzQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:26:54",
+      "collected_at": "2026-08-07T08:52:22.617091",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립실천연대",
+          "친환경 비누",
+          "탄소중립",
+          "지역사회",
+          "환경보호"
+        ]
+      }
+    },
+    {
+      "id": "e2e987454dbd3bad",
+      "title": "한국지역난방공사, 청년 인재 주도 ‘비전크루’ 발대…탄소중립·에너지 대전환 도모 - 파이낸셜리뷰",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wRzIySFNXWTdzUmlXcnZEeXJzdmxpclNSSDVNZXkySFBMaUd5T3d1WHpOa1k0UWFud2ZaMUR2ci1RcGtrN2FfZW01em5fcUxkdnpOdmE3Y2lIeERwQ2RPRWtTOFptQ2pOcU4wQm4wYXNRYzFf?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:11:21",
+      "collected_at": "2026-08-07T08:52:22.617107",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국지역난방공사",
+          "청년 인재",
+          "비전크루",
+          "탄소중립",
+          "에너지 대전환"
+        ]
+      }
+    },
+    {
+      "id": "6f5c2ad7c73bb918",
+      "title": "울산중구가족센터, 결혼이민자 대상 탄소중립 및 소비자 권리 교육 운영 - 경기뉴스원",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvZWpjQkt2LV90ZjRUaXY3LUoybm9PRkNXR3BxSE1GcVlaSXgwUk15LWxocEJWYUtNLUZqSW1yVTktUnpCdjJvdG5IWjN0QWd4ZW9FQzVwb1lWWDVuaWNpT0FTTQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T08:30:30",
+      "collected_at": "2026-08-07T08:52:22.617122",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "울산중구가족센터",
+          "결혼이민자",
+          "탄소중립",
+          "소비자 권리",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "3c47b8a93c1805cb",
+      "title": "안양시, 여름철 에너지 절약 캠페인으로 탄소중립 실천문화 확산 - Queen 이코노미퀸",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZbFB3UkczZW9mTGpjRGNkZVp1UFpwRzloY0RoLVBFLXI3Qy1NYzNzOXY0cWJqQjZ5eG93bTJrNmhKeWlsS09SOUJSbnlaT0RGUXZZSDZtV0wxS3RqU2J6S3dkalNRclhK?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:10:00",
+      "collected_at": "2026-08-07T08:52:22.617137",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안양시",
+          "에너지 절약",
+          "여름철",
+          "탄소중립",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "4d7990183a6a3c04",
+      "title": "해남군, 만대산 일대 100㏊에 탄소중립 특화림 조성 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1QmRaN0J3QUVxT2pQd2pFZ0k3X2p3Vjh1N1BKamJ1bVoyYzM5Z0FzNl9yNVVEQmxtakFWQXh4Q0ttWjBkVXU5VU11VU5mSUVhR2Uw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:23:00",
+      "collected_at": "2026-08-07T08:52:22.617234",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "만대산",
+          "탄소중립",
+          "특화림",
+          "조성"
+        ]
+      }
+    },
+    {
+      "id": "d453823175f5c10b",
+      "title": "대전시 대덕구 법2동 탄소중립실천연대, 친환경 비누 만들기 추진 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4V0xPRkJPYlVJSk01SGR2akZqbVYwVWpUT3h1T2oxZGdCeVJvbnMyS1ZjVEZ5QktIZnhfTWkxYnlnanhfdDZvZmVNQlVZTW1GaTRPdmxaVGxEbkVQYURwVQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T03:08:00",
+      "collected_at": "2026-08-07T08:52:22.617305",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립실천연대",
+          "친환경 비누",
+          "대전 대덕구",
+          "탄소중립",
+          "환경보호"
+        ]
+      }
+    },
+    {
+      "id": "ebaac6049882f0cc",
+      "title": "제주, 재생에너지 활용 40㎿ ‘그린 AI 데이터센터’ 구상 - 제민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LTWhFUUN3OEFnQUp5dE9fZnpDSERMV0VlY1RndVlHeVNETVhfaGN4cDZMUzNjb0FlYUV1NFQzY0UxZmpGZWthZ0JFbE5LWHVod2JONnJfbWRzY2NFY2dsbEE5dFZqMFk?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:51:15",
+      "collected_at": "2026-08-07T08:52:22.589292",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "그린 AI 데이터센터",
+          "AI",
+          "구상"
+        ]
+      }
+    },
+    {
+      "id": "3ff4aba8b8fd33b0",
+      "title": "제주, 재생에너지 잉여전력으로 ‘그린 AI 데이터센터’···구상 본격화 - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGtMQmhNOHEwYlBpYnBWSFQ0R0NLVW9OYnl4WWF3OTZ3YTBmLUN2aVJFQnBUTUxweGwyQVdMUG9FQU9RVDRZMmRrQmwzLXBJMDNXQzhtNTRYY1dSQmpmYmw5UEg1b0xJRUFYRjVIWjJzVjlEMGVtNG9hVUVQanRpblJoMWFYRUlFd2tHd01CeGdoNE9tUHJSelQxRk53bTdhd0hkczlXNUN2UdIBX0FVX3lxTE5FRDNrUW0xMzgxX0M1bTYtbWtPTUYwUmlLZm5fMThnVGt3U0dTS1pQa1dvY2FpLUMyRm9XdHlUQ2g1R183cDZqVE5oVzVkUUVIbUNjbzlnSDNkZFRGMko4?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:05:00",
+      "collected_at": "2026-08-07T08:52:22.589420",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "잉여전력",
+          "그린 AI 데이터센터",
+          "본격화"
+        ]
+      }
+    },
+    {
+      "id": "fa18787cb6eee440",
+      "title": "제주도, 재생에너지 활용 AI 데이터센터 구축 추진 - 2news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zbXRTcXE1Sm0tMlNTbENYU1JXZ201TkJwb0ZYY1RsOEhTQm5LempNQUpKcFgyOTVCQUhsNXNFRjRNU2l4UFZHMFFCT1pzZEEyUkNTajRBalhacGtJUlhMSW5MLWpmdUZa?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:12:00",
+      "collected_at": "2026-08-07T08:52:22.589437",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주도",
+          "재생에너지",
+          "AI 데이터센터",
+          "구축",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "28f6afeec01e2943",
+      "title": "[공감경제] 재생에너지 중심 전기국가 기반 마련...기후부 하반기 업무보고 - news.bbsi.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNd0pqVlBNRVAzLUdkQTRIWTg1SF93Zm1qSFJ5aWtXY2VDLTEwOTdWUkJOc3JickxENkVGVVhoLVNsSUs1SnpmaV9zWm1qVC1vYlR4b1VHbHJIcERWX1djY2ViRld0VTZmblhr?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:26:00",
+      "collected_at": "2026-08-07T08:52:22.589454",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "전기국가",
+          "기반 마련",
+          "기후부",
+          "업무보고"
+        ]
+      }
+    },
+    {
+      "id": "47c2885f6e6ecbdc",
+      "title": "AI·재생에너지 연구 한눈에…국립목포대, 전기공학도들 OPEN LAB 체험 - 교수신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0UEVIYlBoWHBneEo5WHRnYThBU0xrRjVRd2RsQ2YyVFhOdHhOSmgxZEdKWVRMeFczd2x6TGxhZ3BwemJXb1ZDVWJGZGhEZDlzdURNQU9xV0NkWHZDZGpTS2xIUWdwYzQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:35:00",
+      "collected_at": "2026-08-07T08:52:22.589469",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "재생에너지",
+          "국립목포대",
+          "전기공학도",
+          "OPEN LAB 체험"
+        ]
+      }
+    },
+    {
+      "id": "dbbc61b1deb23102",
+      "title": "제주 잉여 재생에너지로 AI 돌린다…40㎿ '그린 데이터센터' 첫 발 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LN3FuNXdXQXdxVXd1LWp0U1F3MkFndTlsY3FYNUhIdjNJRWUyemlUWkJHRHBmWEstemxUT2hYT1gzWkI2TzJ1cmh2Mko5QWd6?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:06:39",
+      "collected_at": "2026-08-07T08:52:22.589498",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "AI",
+          "그린 데이터센터",
+          "잉여 전력"
+        ]
+      }
+    },
+    {
+      "id": "584d33232a81298c",
+      "title": "소각 대신 멸균·분쇄로… GNI, 몽골서 폐기물 재생에너지화 나선다 - 녹색경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CUURUaXNnUmpINzk1R0NES1RfZm5pSkN0Z21JeEFGQTdIWmdGUTZuQVdwUnZQcXZORFNxVGR3RmxuT3pfRjhyV3ExQ09MWktuNS04LUFtUGdqLXNPcXVyWXVNRXpLV2tR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:58:17",
+      "collected_at": "2026-08-07T08:52:22.589528",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "GNI",
+          "몽골",
+          "폐기물",
+          "재생에너지",
+          "멸균·분쇄"
+        ]
+      }
+    },
+    {
+      "id": "15a2a0df0a796d20",
+      "title": "남부발전, 자전거도로 및 하천변 활용한 태양광 사업모델 구축한다 - energydaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UUVZuYzlub0x2WllncjNIdFZNY2Yxam9WMFJtQ2ZvU25WT1BQdWw0ekRQTkRVaHJkM1ZWdWRzOFZJdFNyUmVPVVJTUXMzUGpmakV0a0w0RnZ4T2dhdjlwQmRsQ1k5eV9LUFJfV0s5d0FhUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:40:13",
+      "collected_at": "2026-08-07T08:52:22.589571",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남부발전",
+          "태양광",
+          "사업모델",
+          "자전거도로",
+          "하천변"
+        ]
+      }
+    },
+    {
+      "id": "25a12c0492e5e59f",
+      "title": "제주, 잉여 재생에너지 활용 40MW AI 데이터센터 구축 시동 - 제주팟닷컴",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2bU5MNUktVTVBYzVZdlRvc2JJTGZURGRWSTRhTUNyTDBVSEZYOWNRSmlManQtMl93TWRPX1AzZ3ZqMFd4UVp2RVNXengxdEdMbE9DTElSalVEZTNaTmV5TzA3a2E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:32:21",
+      "collected_at": "2026-08-07T08:52:22.589625",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "잉여 재생에너지",
+          "AI 데이터센터",
+          "구축",
+          "40MW"
+        ]
+      }
+    },
+    {
+      "id": "abf993ead7933d8c",
+      "title": "[서울데이터랩]코스닥 거래상위 종목 혼조세…한국첨단소재 상한가, AI·신재생에너지주 강세 - twig24.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uU1ZqNUlnZzNOR2FqTWJzdF8tczBYWTQxdkZVVDV4OC1sUVBHOGVubVoxZm5ySUN4OFlHVThaNHVES19DM1FKTWtOampxb2sybi1XaEJJdzJ4Uld1MThBT0VsWQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:15:00",
+      "collected_at": "2026-08-07T08:52:22.589640",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "코스닥",
+          "신재생에너지주",
+          "AI",
+          "주식",
+          "강세"
+        ]
+      }
+    },
+    {
+      "id": "08453433a4681d8f",
+      "title": "제주서 쓰고 남은 재생에너지로 AI데이터센터 가동 - 한라일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OR1BXNTZFWHppYVVCRGxzVzAzN1pmeVhfdTJKR0tXc3Q0dTlVZlEtT1hhM0lNSzh1WDRSLTd2dzBIZDBlWTZhWXg1X2NvQ090bm01MmJHLVJqcTFhT3ZlX3NQN2g3ZGstcHc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:18:48",
+      "collected_at": "2026-08-07T08:52:22.589718",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "AI데이터센터",
+          "잉여에너지",
+          "가동"
+        ]
+      }
+    },
+    {
+      "id": "e26b5974868f198a",
+      "title": "[K-GX에 보이는 미래③] 유진투자증권 이사 한병화 \"3대 메가프로젝트 재생에너지만으로 충분, 원전 확충 근거 부족\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SUTVIWTVEcHg5YUJHa1FBYkI4OEFuVXVPYzZWOHM2NFg1bnRQVmxYSDY3TUFzUm81cm04U2RydDFyUXFrbVIwc1ViNTdQV2NtZW1MSU9sLVVaMWdTd052Z0tYQ1NYckpEempiTG9udmJ3bE0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T02:07:19",
+      "collected_at": "2026-08-07T08:52:22.589735",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "원전 확충",
+          "한병화",
+          "K-GX",
+          "메가프로젝트"
+        ]
+      }
+    },
+    {
+      "id": "065eadf600f8d18a",
+      "title": "우리은행·신협중앙회, 고창 해상풍력 금융지원…재생에너지로 AI 산업 전력 기반 만든다 - 이코노미사이언스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Tc3hKYUpCZTYwdE1YUWMzN2lKUzc4c3pPY2RyQk9BTUIzQmdycmtNQ0ZTTE5GeVZLNFl1enJCQlNfN0ZmS2gtdzVNZ1F1aVM2czZsaS10bnNqN3RncHNzSHNxelBNVUlVMmRJV25Fdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T01:58:05",
+      "collected_at": "2026-08-07T08:52:22.589795",
+      "keywords_matched": [
+        "재생에너지",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "우리은행",
+          "신협중앙회",
+          "고창 해상풍력",
+          "금융지원",
+          "재생에너지"
+        ]
+      }
+    },
+    {
+      "id": "0d15da6f4d8136ac",
+      "title": "풍력 수익금으로 에너지 복지…취약가구, 전기요금 지원 - DWBNEWS",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JTm1uaEJpOVdTenM2WUZUM1hvUG9BcG5LUkJjU2FaWnpaYnFTTU1MQ2dZY1ptUkFxRHhldzZBd21DbWpaaklSUHNNV3BkaldrQ0UwSTlEZVhMeWxnUkVfR2hfSWpJdElh?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T06:00:29",
+      "collected_at": "2026-08-07T08:52:22.589829",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "풍력",
+          "수익금",
+          "에너지 복지",
+          "취약가구",
+          "전기요금 지원"
+        ]
+      }
+    },
+    {
+      "id": "3d8dfa852e79f03c",
+      "title": "세계는 태양광 대전환, 한국은? - kcemedia.com",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xcGlxQXRXQlhuM2JpaWVJVmEwMWp5S0JDQTloT2hyTmk0REZYR0JSN05RSFlkQ1pidDViblExZldwdWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:11:50",
+      "collected_at": "2026-08-07T08:52:22.589889",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "세계",
+          "태양광",
+          "대전환",
+          "한국",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "d142331435fb6d2f",
+      "title": "남는 재생에너지로 AI 돌린다…제주 'AX 대전환' 밑그림 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NSS1IR2N3eDlHMzVHaklXZmdidzdqM3ZPSy1BRDgyVDBlZ2E2RTA4SnRoTmhYSlotanRyUmcyTG96dG9rMF9yWU16S1ByeF9oMTloekJGelY4SjQ5NW1QZkJyRWlwLTlPUHhDbnlB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T07:20:58",
+      "collected_at": "2026-08-07T08:52:22.589915",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "AI",
+          "제주",
+          "AX 대전환",
+          "잉여 에너지"
+        ]
+      }
+    },
+    {
+      "id": "d939d439fc073103",
+      "title": "풍력 개발이익, 폭염 속 취약가구 냉방비로 - 지금제주",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VODFtTkM0UlhHTkc2MDhCRngyOWVFN19VU2JFbkIxc1piX1ZxSG1rUkxqV3pNMFYweFdQaGRxR1FWY293V3dvVVF5bUxqVDBSMTVTdjN5WWFYQkx2OVFONnZYSlpuOWxKZTVvV05B?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T04:18:24",
+      "collected_at": "2026-08-07T08:52:22.590069",
+      "keywords_matched": [
+        "폭염",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "풍력 개발이익",
+          "폭염",
+          "취약가구",
+          "냉방비",
+          "제주"
+        ]
+      }
+    },
+    {
+      "id": "040a12b8df2ea30c",
+      "title": "태양광 대전환과 한국의 격차: 세계는 33.8%인데 한국은 10.5% - kcemedia.com",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBuRTFaclRzd3Bwb1ZIVnJ0X243OGhiNWpTMVBaZk9uWHowcHgtMTh3bUNNRFhQRC1pOWJCaklQQlowVWs?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T05:05:43",
+      "collected_at": "2026-08-07T08:52:22.590147",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "대전환",
+          "한국",
+          "격차",
+          "세계"
+        ]
+      }
+    },
+    {
+      "id": "cf31a244474f5eab",
+      "title": "[속보] 신재생에너지주 동반 강세…에스에너지·SDN 급등, 한화솔루션 19%대 상승 - cbci.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zbjlpc2tNR29FeXl5UC1rZ1pLNHZXMjNGSTd4YkVxZmRfRUhDUzlTYkdqODg3ZEswbVpzeEdiYzdUQjZvOUV0NU1od1VDbTgyVmtVc2NXbHFvNXpVSFNKV2UwQzBEb2dG?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-07T00:26:15",
+      "collected_at": "2026-08-07T08:52:22.590400",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지주",
+          "강세",
+          "급등",
+          "한화솔루션",
+          "상승"
+        ]
+      }
+    },
+    {
+      "id": "1c638c6b25200767",
+      "title": "‘입추’ 무색한 폭염…서울 8년 만에 40도 넘어",
+      "link": "https://www.khan.co.kr/article/202608071622001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T07:22:00",
+      "collected_at": "2026-08-07T08:52:23.329877",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "서울",
+          "40도",
+          "입추",
+          "열섬 현상"
+        ]
+      }
+    },
+    {
+      "id": "d9b89df0be4c649e",
+      "title": "제주, 재생에너지 잉여전력으로 ‘그린 AI 데이터센터’···구상 본격화",
+      "link": "https://www.khan.co.kr/article/202608071605001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T07:05:00",
+      "collected_at": "2026-08-07T08:52:23.329906",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주",
+          "재생에너지",
+          "그린 AI 데이터센터",
+          "잉여전력",
+          "국책사업"
+        ]
+      }
+    },
+    {
+      "id": "2001c5a405a44059",
+      "title": "매일 아침 사무실 대신 현장으로···전문학 대전 서구청장 ‘100일 현장행정’ 눈길",
+      "link": "https://www.khan.co.kr/article/202608071558021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T06:58:02",
+      "collected_at": "2026-08-07T08:52:23.329927",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전문학",
+          "서구청장",
+          "현장행정",
+          "안전관리",
+          "폭염 대책"
+        ]
+      }
+    },
+    {
+      "id": "97610935a93376c7",
+      "title": "폭염·가뭄에 여름철 산불 위험도↑···산림청, 산불방지 대책 시행",
+      "link": "https://www.khan.co.kr/article/202608071554001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T06:54:00",
+      "collected_at": "2026-08-07T08:52:23.329987",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "가뭄",
+          "산불",
+          "산림청",
+          "산불방지 대책"
+        ]
+      }
+    },
+    {
+      "id": "bd6bea69adb8bd7c",
+      "title": "향어·우족·수박···“더위야 가라” 동물도 보양식 챙기며 여름나기",
+      "link": "https://www.khan.co.kr/article/202608071542011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T06:42:01",
+      "collected_at": "2026-08-07T08:52:23.330062",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울대공원",
+          "동물",
+          "보양식",
+          "폭염",
+          "여름나기"
+        ]
+      }
+    },
+    {
+      "id": "c2cb3ff37cc01052",
+      "title": "반도체·태양광발전…국내 생산 시 2036년까지 세액공제",
+      "link": "https://www.khan.co.kr/article/202608071512011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T06:12:01",
+      "collected_at": "2026-08-07T08:52:23.330201",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국내생산세액공제",
+          "반도체",
+          "태양광발전",
+          "전략산업",
+          "공급망"
+        ]
+      }
+    },
+    {
+      "id": "38be2156f12343da",
+      "title": "‘세계 친환경 병원’ 최고 등급 받은 한국 병원 4곳, 어디일까",
+      "link": "https://www.khan.co.kr/article/202608071511001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T06:11:00",
+      "collected_at": "2026-08-07T08:52:23.330245",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "세계 친환경 병원",
+          "한국 병원",
+          "최고 등급",
+          "뉴스위크",
+          "친환경 평가"
+        ]
+      }
+    },
+    {
+      "id": "13d3f141b6487d86",
+      "title": "‘역대급 폭염’에 치솟는 전력 수요…정부, 수급 현장 긴급 점검",
+      "link": "https://www.khan.co.kr/article/202608071436001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-07T05:36:00",
+      "collected_at": "2026-08-07T08:52:23.330419",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "전력 수요",
+          "전력 수급",
+          "정부",
+          "긴급 점검"
+        ]
+      }
+    },
+    {
+      "id": "d58c043729904a61",
+      "title": "It Takes Willful Ignorance to Ignore Climate Change - nativenewsonline.net",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUlJyZHpvczhKTTdQRDhrUjdTQ1p4NUJlbF9tXzZCYVZmTkFhZTZtZVRWbnpRal9vZmtsNUJwU0laSWwxcXByOHZGeXdYV3BHbGMzRGs2a21LMGJhNTdBcDFtTDNmaFkwNHJ3WFk0MENhWVJ0SlBjd2J6QlpMWnJZRWVpQnA3QWVNeWZXZnVtbVp3ZHdzTHk2Uw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T04:15:09",
+      "collected_at": "2026-08-07T08:52:23.732142",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화를 외면하는 것은 고의적인 무지이다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "무지",
+          "고의적",
+          "외면",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "6772092bd8a823f4",
+      "title": "Study of Canada fires highlights climate change - The Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOazVmLTc5SlhldGYwSUR2QjFwdS1obXdHNmN4elBRcDBrdXlheG03aGJzejFZS1BORzYxb1ZZaGtBempKYUZscjg3LW1EZndHSDBPRll4OWVZUll6VGY2MjhmVWN4T2JyZ3luQmw3TFdqRzVhcTZKZ3VBT2lFVHJHRktDSlVkd1dWdy1HbVl1Q3E0STRFVkhxT2pQc0c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T07:52:00",
+      "collected_at": "2026-08-07T08:52:23.732163",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "캐나다 산불 연구, 기후 변화 강조"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "캐나다",
+          "산불",
+          "기후 변화",
+          "연구",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "4880e3b362ddcbad",
+      "title": "Climate change created conditions for Canada fires, scientists say - JHNewsAndGuide.com",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNai1TSnRzS3NncHNBY0xlSjN1cVRpNlNpNWFPamVBR05nWWFaQm5landXWjg4VEhVRERqV3lnV1diaEtIQVBaakQxQk1hdFIxSE5lY1ZWaFdtbG5nMVJvS1FSVm10Z1VEbkZTeGtMUjRTU3VyMFVoY3FPUTE5bDBxbHNMZGNCNFhUMjFFdEtrS0pkUkdiNGVnODVPdVA4cDg0ZVlPajB6REVKZFNDR3JfcWlKM3RvemlGV2J5XzJhUXc4MGl5UTdXSWlSY0wxdHRQcDBaNXdXMG1PdjhHX3ZIckNib2FtNmpBMjlJV0FfQ3ZQUkJIUW93RHQ1eVFybmg1b04zdVB0eU90SUpPNHhZVGhn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T06:00:00",
+      "collected_at": "2026-08-07T08:52:23.732201",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 캐나다 산불의 조건을 만들었다고 과학자들은 말한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "캐나다 산불",
+          "과학자",
+          "조건",
+          "야기"
+        ]
+      }
+    },
+    {
+      "id": "28401c8aecb75207",
+      "title": "State awards Stockton $650,000 grant to support climate change education - Trentonian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1dReUhGWE0tdzQ0SXRmbEYybC1nc2dXZ0gtbS1Wc216UnR2OTE0Q25ZMHBhdWF5NjBodmtrdmIwR1pJWlVQSHlWSzVCOWozTVROdXE1RmtUcmdCbURoMlBQNlAwbDNkZTFNTjhta1RXZEstWHY4c1poSFFxWlh4MVBlYlUtVGRzRW9tYkVTYlVGRlE3cEE1ZFdka1EyYmZiejM2dnVzd1JCQ2Zlb2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T03:48:32",
+      "collected_at": "2026-08-07T08:52:23.732243",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "주정부, 스톡턴에 기후변화 교육 지원 65만 달러 보조금 지급 - 트렌토니안"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주정부",
+          "스톡턴",
+          "보조금",
+          "기후변화 교육",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "53834eb3a76d7edd",
+      "title": "'Virtue signaling': KIRO hosts debate former Gov. Jay Inslee linking Spokane fires to climate change - MyNorthwest.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40RTJxeThrdjNqNUhBdllYSU9iT2tkOTlKMlhFVDBiT0YwbHlXcnc1NXppamVUa1g4ZkVweUxBc3dEdnZOM3BrQTByZm9PamZ3bEgyRjZ1dktHZWY5QkZVNFIyaURUSkZoQzUxbHNKLU91am5rY0d4RA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T02:05:34",
+      "collected_at": "2026-08-07T08:52:23.732306",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "14ef555f700c8def",
+      "title": "Los Angeles’ rare humidity tied to Pacific heat, climate change - nny360.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZE9xNGJTbUdSQkNDY2I0R2FtNFE1QzZyRnV2cVNNQmx4RWRzaXg5MkJaQkVBdkVCYXl0TWFoTjQ0MzI1NGhOeWxQNGd0emc4SG43QXFrQ0RvSHg1b045QWtiRUF2eUNaSFUzdV9XcVoxUi1NcU53RXI0UnZQRUNqdldvMjhsbFY0UHg4OFE1M3FUczVjSXJoYU5vVVBVUlJLaklhRjFXOFFpUmJIMTdaZTBtZmp5dG9qZFkzMlBNdy1mR0xUTUNIb19NdnViX3pxOWd2MUlfeThQVVJE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T04:21:20",
+      "collected_at": "2026-08-07T08:52:23.732455",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "로스앤젤레스의 이례적인 습도, 태평양 열과 기후 변화에 연관"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "로스앤젤레스",
+          "습도",
+          "태평양",
+          "기후 변화",
+          "이상 기후"
+        ]
+      }
+    },
+    {
+      "id": "f8734d864137232e",
+      "title": "Climate change fueled Canada's wildfires, study says, as Trump blames mismanagement - San Mateo Daily Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSWRReUx6a0tVNU0tZW41ZTZsQjZ3aG9QRVp6LWxPRHFIRzNxT3NLeDRSRlFUVlVZeF9uaU02VkpuT0pPc0t3V2pQVG13SF91WmN3RDhILVg0Y1N1UHp1Z20tb1dqMnhmZXZtb2p0UmZKWlFIT3F2SnZCbC15czJfdHVWZU5VZDBtZVUwdGN1VTR2bzBraDdBczVnd2I3UjJncnROZWRQQ3otY2pETGNBS3RUbGxVeURrWEFLb0h1cGk5MUxwVzZZYlBndks3ZHB1NFRoXzBmSFk3a0tXNGZ6d2p5eFBsQVhjeHBCR04zQ0VDUzFELUFnY0VTeDhyY28?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T06:00:00",
+      "collected_at": "2026-08-07T08:52:23.732590",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cdb30a587d258d6b",
+      "title": "Climate change is pushing butterflies into new territory across the globe - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamdHa3FJZkdjVEY0UmNvUlJVRW82a25id2kyTlhHOTZreERJRmdhSGFOdHIwUlVDdlc4YTZHMFpxa3hwZGR3NzRxZTlZUE16N1U4djBJN214YzM3Y0VHck1XUldIc1lMR2ZMeXBsNUpHRlppMzNTOWp4SUxKRnlPcTBWczNZQVBsaHdEOTUySWRsRWJfQmVZY2FBU3RERExBSjR0azBpRHQ1LXEya3ljaUVDbVhKcGdwal9HdWhVN3TSAcYBQVVfeXFMUE1aTFZJWGNrYks3QnNnX05PRHp3VEJVUlVwREFFZlQ0T3dLYkxlRkVqRE9SenBBdEd4ZGpfSWJaZHJwdm9wZFBZWFY5QTk1bkxSaHlBUmZaS0lKeXdNdFAtMUNpTW9MdF9ubHVkOEZhNnVyY2h6SVBiNm1RakNSNFRvaEMyQi0yejFlX0t5c3RGTUFLd3h4T3Rma1JscDJHampPX0VoUEtndkNhQmRYN1JCcjFleDlGSl9NWmo0WDI4VHNYLVdB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T05:47:50",
+      "collected_at": "2026-08-07T08:52:23.732994",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 전 세계 나비들을 새로운 서식지로 밀어내고 있다 - 퍼스트포스트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "나비",
+          "서식지 이동",
+          "전 세계",
+          "생태계 변화"
+        ]
+      }
+    },
+    {
+      "id": "5bff9011af1e81f8",
+      "title": "Climate change made Ontario, N.W.T. fire conditions roughly twice as likely: report - APTN News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMUVjSDl6bkkzRmpUb00tc29CLXhLMC1uNDNwRFEtQW1Db09aQTJxQl9mSXpNbG1qNVZMTjZRYk5qTWpKVVJoS2FtTTk1MnM5U1pBbUFmQU5uNDJMX0dBcjFVTUlrVHVhTFA4bzc1QkJucDEtY1UxMDQwYWJaR3FMLVdiR1p0VGNEb3NVWDlvOGNINUplOURqWXhzanotWkY2WF9QTDBGd1phWDRxbnJhRThheW5yaGFDdXhr?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-06T19:02:06",
+      "collected_at": "2026-08-07T08:52:23.733086",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 온타리오·N.W.T. 산불 발생 가능성 대략 두 배 높여: 보고서"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "산불",
+          "온타리오",
+          "N.W.T.",
+          "가능성 증가"
+        ]
+      }
+    },
+    {
+      "id": "6ec739f899c245c3",
+      "title": "Butterflies On Move Worldwide Due To Climate Change - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFRmNnJ1dFVGT0JiMy1YYXpFNjV4emNFZDJUdDRuUXFqMVh3cXR1cjdFT0ZHd0RUVmpsZGFxZ3BYem1vWnRmTXR4VGhCRS1LZzBoUXI3XzhKTVBmNlh6bXVaTXdubnIzRFJOOENxbEFDWFU0cnhwN3hZQUFUYy1zV2ZScGkwVWs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T03:07:00",
+      "collected_at": "2026-08-07T08:52:23.733130",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 전 세계 나비 이동"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "나비",
+          "이동",
+          "기후변화",
+          "전 세계",
+          "생태계"
+        ]
+      }
+    },
+    {
+      "id": "99342d7366d794bc",
+      "title": "Climate change made Ontario, N.W.T. fire conditions roughly twice as likely: report - sudbury.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkp2eVJTNGxzR0dxVGJuZE84bWVJRUlkLUZQWWpERWJDRFlSdk44Z3o5bkhDLUdicjV2eUhNbGF1Wkx0V0RZWWZHVEh1WV85ZUtieVJOaHNwcVRLRjh1UFl0VktnNU1qc0V1OXpDbGFNQ0VsbzhoWVRHN1pkVF8xUGd4cngtNm5yWTBKVHVvRDVSQUtRcTl5b0Nva0hIQnU5OWpjYjFMTFlZZmNtanItWlVpdDhIbkZrcTRuY010Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T02:01:33",
+      "collected_at": "2026-08-07T08:52:23.733164",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 온타리오, N.W.T. 산불 발생 가능성 약 두 배 증가: 보고서 - sudbury.com"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "온타리오",
+          "N.W.T.",
+          "산불",
+          "두 배"
+        ]
+      }
+    },
+    {
+      "id": "a3ce684fae677d80",
+      "title": "Air India turbulence scare: How climate change is making flights bumpier than ever - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdVpTZWt3N0IzZnBwbDl2bEFqaW5NYm5FTkVGZGE1VU1fQkw0RFJZeEpEMmtHbmhvdFNoY3ZTb212NllMRmJvN252Ny1wVWlDMTlzS1F1OVlhM1BxdDhPT0k1al9YWkh4T0dkdy14UHlRbjBfMTFWSVZMbFh1bl9sd0RRdW9HZFVSMmtkS2JyZkU5REppVWg4N3Atb184SDBFSlMxVWN0RlMwaExTUjB4TndCVi0tNWRSMHZhUUJjWFZudDdnTXV1aEYwbEZMUnNPTC1taUNiN1JRbHZQ0gHcAUFVX3lxTFB1WlNla3c3QjNmcHBsOXZsQWppbk1ibkVORUZkYTVVTV9CTDREUll4SkQya0duaG90U2hjdlNvbXY2WUxGYm83bnY3LXBVaUMxOXNLUXU5WWEzUHF0OE9PSTVqX1haSHhPR2R3LXhQeVFuMF8xMVZJVkxsWHVuX2x3RFF1b0dkVVIya2RLYnJmRTlESmlVaDg3cC1vXzhIMEVKUzFVY3RGUzBoTFNSMHhOd0JWLS01ZFIwdmFRQmNYVm50N2dNdXVoRjBsRkxSc09MLW1pQ2I3UlFsdlA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T06:12:37",
+      "collected_at": "2026-08-07T08:52:23.733260",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "에어인디아 난기류 공포: 기후 변화가 비행을 더욱 흔들리게 만드는 이유 - 인디아 투데이"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "에어인디아",
+          "난기류",
+          "기후변화",
+          "항공",
+          "안전"
+        ]
+      }
+    },
+    {
+      "id": "cd32f3d1c0b153bb",
+      "title": "Bad news for rice lovers: Climate change is cutting rice harvests - AZƏRTAC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT1lPdkVjVUNTdXp4bEREb0NyQVpxUmh0TmhNSzFKQjFvSUZuQl9lMVhTakoyNUYzS3hoajg0bW56djA5SHV6aWRpTmhWUDBWYXhlbXhkdzhkVE1pcFJuWFh3SmNlN2RmTHctb2VVTFhqVmVpdGdSWk9nQkJMS04zdFRjUVdmUlluUzVHVXppYmdfUm5UdGZwQmUxbml2LVgxdmc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T08:14:00",
+      "collected_at": "2026-08-07T08:52:23.733404",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7afda168dfd8daa6",
+      "title": "US: Climate Change Lawsuit to Kick Off Supreme Court’s Next Term - energia.gr",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGlfaVZEZEFBbVp2S0REU00tQTlrZFlaVmxUSV84bzR4S05adEJCeWtXVWtGQUV5N1JKbmZLaXg0RjI2RWFtdHFPVlFPdUlVRWgxY2JSdVFZdzAtWGRiV3Etb0hRX2ZRWGlBb1FqcWxMWmUwSjMxa2o0M3g4eU9ES0NMOHM3dnNIYzFBSk55b1dTakVsSkRJQWZtZ2h6YUV0aEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-07T06:37:21",
+      "collected_at": "2026-08-07T08:52:23.733423",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "미국: 기후 변화 소송, 대법원 다음 회기 개시"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "기후 변화",
+          "소송",
+          "대법원",
+          "법률"
+        ]
+      }
+    },
+    {
+      "id": "840b7b308941b161",
+      "title": "Climate Active is dead. The funeral will not be certified carbon neutral - Renew Economy",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWp6NTlYYUdPOFN0VkVJb2Y3N3pnMGdLel93WkRyV184TXdrNnBrVG43b2dWaDNrS0N2TXJFemdQQnRCYTJ6NHJyaDBZZllyQkJ4WmVtUm95WkpiaW1oQjU3N2RoUHFXUXlqaGY5R3NtSUtmcXFTX19vd0VoeW1zbk1rZ0NnZUpiVWxpRjJkWUE5VFNTMHk5LURQcTlMQnZURlQyUGN1SdIBpwFBVV95cUxQaWp6NTlYYUdPOFN0VkVJb2Y3N3pnMGdLel93WkRyV184TXdrNnBrVG43b2dWaDNrS0N2TXJFemdQQnRCYTJ6NHJyaDBZZllyQkJ4WmVtUm95WkpiaW1oQjU3N2RoUHFXUXlqaGY5R3NtSUtmcXFTX19vd0VoeW1zbk1rZ0NnZUpiVWxpRjJkWUE5VFNTMHk5LURQcTlMQnZURlQyUGN1SQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_en",
+      "language": "en",
+      "published_at": "2026-08-07T05:12:07",
+      "collected_at": "2026-08-07T08:52:23.807656",
+      "keywords_matched": [
+        "carbon neutral"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d48fba677294dfb0",
+      "title": "Europe’s dry riverbeds and scorched earth – in pictures",
+      "link": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-07T07:31:19",
+      "collected_at": "2026-08-07T08:52:23.487527",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "297e7a40dc7003e2",
+      "title": "Extreme heat breaks temperature records in central and eastern Europe",
+      "link": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-07T05:00:08",
+      "collected_at": "2026-08-07T08:52:23.487572",
+      "keywords_matched": [
+        "extreme weather"
+      ],
+      "translation": {
+        "title_ko": "중동부 유럽, 폭염으로 기온 기록 경신"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "기온 기록",
+          "중동부 유럽",
+          "발전소 가동 중단",
+          "가뭄"
+        ]
+      }
+    },
+    {
+      "id": "684a0fc2dda5ea04",
+      "title": "July’s heatwaves kept UK shoppers away from high street",
+      "link": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-07T05:00:07",
+      "collected_at": "2026-08-07T08:52:23.487609",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "7월 폭염이 영국 쇼핑객들을 하이 스트리트에서 멀어지게 했다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "영국",
+          "하이 스트리트",
+          "온라인 쇼핑",
+          "소매 판매"
+        ]
+      }
+    },
+    {
+      "id": "6adbb36c65181a25",
+      "title": "Le Corbusier’s social housing was meant to be the dream. In a summer of extreme heat, it is a nightmare | Anna Richards",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/07/le-corbusier-social-housing-france-dream-summer-extreme-heat-nightmare",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-07T04:00:07",
+      "collected_at": "2026-08-07T08:52:23.487713",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f3550a5e5258aff5",
+      "title": "Why Britain is breathing the world’s wildfire smoke",
+      "link": "https://www.theguardian.com/environment/2026/aug/07/wildfire-smoke-britain-uk-air-pollution-climate-crisis",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-07T05:00:08",
+      "collected_at": "2026-08-07T08:52:23.487824",
+      "keywords_matched": [
+        "climate crisis",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "영국이 전 세계 산불 연기를 마시는 이유"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "영국",
+          "산불",
+          "연기",
+          "미세먼지",
+          "기후 위기"
         ]
       }
     }
