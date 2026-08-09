@@ -1,0 +1,1329 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:40:06.049550",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate change expert spokesperson briefing on August 9, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Deepening Climate Crisis and Global Impacts",
+        "content": "Today, we encountered voices defining the era of climate crisis as a 'great war for survival' [3, 14]. Europe's power grid is facing a complex climate change backlash, including heatwaves, droughts, and solar eclipses [7], while Japanese farmers are suffering economic blows such as decreased income and increased production costs due to heatwaves [11]. Domestically, 'meteorological droughts' have occurred in 48 locations, including Daegu and Busan, and with low rainfall expected in September, the southern Gyeongbuk and Gyeongnam regions are experiencing a 'caution' level drought [13, 15, 33, 41]. Heatwaves pose an even greater disaster for vulnerable populations [32, 35], and the rising water temperature of the Han River has raised the need to strengthen the response system for taste and odor-causing substances [39]. Internationally, the likelihood of wildfires in Canada has doubled due to climate change [48], and a warning has been issued that the El Niño phenomenon, expected to persist until early next spring, could lead to a wet winter and increased flood risk in the western and southeastern United States [51].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Domestic Climate Change Adaptation Efforts and Food Security",
+        "content": "Despite the threats of climate change, various adaptation efforts are underway domestically. Sangju City is promoting a pilot project to diversify apple varieties, such as 'Golden Ball,' in response to climate change, thereby enhancing cultivation stability [4, 5, 6, 9, 10]. Various local governments, including Haenam County, are making all-out efforts to secure national funding for maintaining pleasant urban environments and responding to climate change [1, 2]. Nonghyup is providing 300 billion won in emergency funds to disaster-stricken farms affected by heatwaves and droughts [38]. Furthermore, field-oriented support, such as the introduction of 'mobile shelters' for farmers working in the heat, is also being implemented [40].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Carbon Neutrality Goals and Accelerated Renewable Energy Transition",
+        "content": "The Republic of Korea recognizes carbon neutrality as an essential task for the future and is accelerating its transition to renewable energy [20]. Haenam County is establishing a carbon-neutral forest model by creating a specialized forest on Mandaesan Mountain [16, 17], and 680.7 billion won has been invested in saline reclaimed land to begin the construction of a 400 MW renewable energy complex [27]. Jeju Island is exploring innovative solutions, such as building a 40 MW 'Green Data Center' using surplus renewable energy and supporting vulnerable households with electricity bills for cooling costs from wind power development profits [26, 29]. Pohang City is enhancing environmental awareness among future generations by hosting a 'Carbon-Neutral Electric Vehicle' summer camp utilizing AI and coding [21, 22, 24], and Yanggu County has also begun accepting applications for electric vehicle dissemination [23]. Concurrently, Policy Committee Chairperson Han Jeoung-ae is discussing climate change response policies, including reviewing the easing of the progressive electricity tariff system during heatwave periods [31].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Challenges in Carbon Neutrality Implementation and Environmental Issues",
+        "content": "The journey towards carbon neutrality still presents challenges that need to be addressed. Amazon, which declared carbon neutrality, sparked controversy by investing in a large gas-fired power plant [18], and the rising price of greenhouse gas emission allowances, which has tripled, is increasing Jeonju City's financial burden [25]. This indicates the economic and policy difficulties that companies and local governments may face during the carbon neutrality implementation process. Furthermore, the argument that 'to prevent war, we must invest in climate solutions, not military spending' raises important questions about the priorities of climate crisis response [8]. Moreover, research indicating that microplastic contamination is continuously found during food waste treatment and can leach into agricultural land demonstrates the need for a thorough review of the environmental sustainability of circular economy models [50].",
+        "tone": "warning"
+      }
+    ],
+    "closing": "Today's briefing highlighted the challenges faced both domestically and internationally amidst the deepening global climate crisis, while also shedding light on the multifaceted efforts to overcome these challenges and the tasks that lie ahead. It is imperative to understand the complexities of the era of climate crisis and to continue wise responses for a sustainable future. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "All-out Effort for a Seamlessly Pleasant Urban Environment Amidst Climate Change - Jemin Ilbo",
+      "original_title": "기후변화에도 빈틈없는 쾌적한 도시환경 총력 - 제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wajI4V0ltc04wTEREb0RGU2V6OEJCbmw0amxGZHhPcUc2YVNIRF84RVlfWmlyVzNtMEhaeTU3N2s5ekpvME1BRkVQZTl4Nk1PT2plaEpQSW5KNzFsSVVEUURqUkNNdVE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T06:55:01",
+      "description": "All-out effort for a seamlessly pleasant urban environment amidst climate change, Jemin Ilbo",
+      "summary": {
+        "phenomenon": "Efforts are underway to maintain a pleasant urban environment in response to climate change. Specific regions, timelines, or figures were not mentioned in the article.",
+        "cause": "These efforts are in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Despite climate change, an all-out effort to maintain a pleasant urban environment is expected to continue. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Urban Environment",
+        "Pleasant",
+        "All-out Effort",
+        "Seamless"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화에도 빈틈없는 쾌적한 도시환경 총력 제민일보"
+    },
+    {
+      "id": "2",
+      "title": "Haenam County's All-out Effort to Secure National Funding for Key Issues Including Climate Change Response and Transportation Network Expansion - Namdo Ilbo",
+      "original_title": "해남군, 기후변화 대응·교통망 확충 등 주요 현안 국비 확보 총력 - 남도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NamZPQUpiNjk1S1ljemV3YzdVZHEybkViNm5ubFBnTi1Eazg1RDFSVEhReW5WMGRSSFZtZ1dJczdlRnVuZWU0OEhaMEJHUkVobjlqSUpwX1lIaWFLTkxFMUU4MkRGZ2FVcFgzM9IBcEFVX3lxTE1SYzdSUXNoSGk3WjdJLS00ZU5iUnVNQkZMMmhabnlQVWZ2ZFNac1pkZTI2V1lyaFFBX2NWclBuWl9BRFp6V2lKamdweGhWZmoxdEp0dFZzYVZuZGVFQXlyU1BwQlViU0l2NUpXaVd2b1M?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T07:05:52",
+      "description": "Haenam County's all-out effort to secure national funding for key issues including climate change response and transportation network expansion, Namdo Ilbo",
+      "summary": {
+        "phenomenon": "Haenam County is making an all-out effort to secure national funding to address key issues such as climate change response and transportation network expansion. Specific timelines or figures were not mentioned in the article.",
+        "cause": "These efforts are in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "It is anticipated that securing national funding will resolve Haenam County's key issues, including climate change response and transportation network expansion. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Haenam County",
+        "Climate Change Response",
+        "Transportation Network Expansion",
+        "Securing National Funding",
+        "Key Issues"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해남군, 기후변화 대응·교통망 확충 등 주요 현안 국비 확보 총력 남도일보"
+    },
+    {
+      "id": "3",
+      "title": "The Great War for Survival in the Era of Climate Crisis - Nate",
+      "original_title": "기후위기 시대의 거대한 생존 전쟁 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QOF9nbGlISkRsRDJkX0h5Yk9KVllJQTItaGlQSmpDTGVHb2ZGQmRBaG1tclVDY0otRVRORDlBbnY3Q2YyR0lvbGJiajNXS3JXbDNvOEpQM1FUS3g0TzczVQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T00:05:00",
+      "description": "The great war for survival in the era of climate crisis, Nate",
+      "summary": {
+        "phenomenon": "The current era is described as the 'climate crisis era,' leading to a 'great war for survival.' Specific regions, timelines, or figures were not mentioned in the article.",
+        "cause": "This situation is caused by the 'climate crisis.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "The war for survival due to the climate crisis is expected to continue. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Survival",
+        "War",
+        "Crisis",
+        "Era"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 시대의 거대한 생존 전쟁 네이트"
+    },
+    {
+      "id": "4",
+      "title": "Sangju City Actively Promotes Pilot Project for Apple Variety Diversification in Response to Climate Change - hidomin.com",
+      "original_title": "상주시, 기후변화 대응 사과 품종 다변화 시범사업 본격 추진 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEbTFLLXV4R2dQVnlvODczYms5UjVUVWl3MzN5VzZjUGljdC1tUzduaGhWV2ljT0RIakpUWkVWd3IwOGI1d2w3SmJmVUdNYzNfbVZWN2U1cmRKalJjSHZjbkY4LXJWYjVGaUE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T05:42:54",
+      "description": "Sangju City actively promotes pilot project for apple variety diversification in response to climate change, hidomin.com",
+      "summary": {
+        "phenomenon": "Sangju City is actively promoting a pilot project for apple variety diversification in response to climate change. Specific timelines or figures were not mentioned in the article.",
+        "cause": "This pilot project is in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Through the apple variety diversification pilot project, an agricultural response to climate change is expected. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sangju City",
+        "Climate Change",
+        "Apple Variety",
+        "Diversification",
+        "Pilot Project"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "상주시, 기후변화 대응 사과 품종 다변화 시범사업 본격 추진 hidomin.com"
+    },
+    {
+      "id": "5",
+      "title": "Apples Transition to Customized Varieties in Response to Climate Change - Gyeongbuk Maeil",
+      "original_title": "사과, 기후변화 대응해 맞춤형 품종으로 전환한다 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lVkZOS0IwTlNOSVV5YjdFN3BmeXM1X3hCOV9rVFlPYVljdG1PVzBlU2VlOFVxbHdheWoycV96UXdSVEFLeU90UW1RM1NtdUhqa3VEOFYyWGdJQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T01:00:00",
+      "description": "Apples transition to customized varieties in response to climate change, Gyeongbuk Maeil",
+      "summary": {
+        "phenomenon": "In apple cultivation, a transition to customized varieties is underway in response to climate change. Specific regions, timelines, or figures were not mentioned in the article.",
+        "cause": "This variety transition is in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Through the transition to customized varieties, apple cultivation is expected to adapt to climate change. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Apple",
+        "Climate Change",
+        "Response",
+        "Customized Varieties",
+        "Transition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "사과, 기후변화 대응해 맞춤형 품종으로 전환한다 경북매일"
+    },
+    {
+      "id": "6",
+      "title": "Sangju City Diversifies Apple Varieties in Response to Climate Change, Introducing 'Golden Ball' and Others - shinailbo.co.kr",
+      "original_title": "상주시, 기후변화 대응 사과 품종 다변화…'골든볼' 등 도입 - shinailbo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IeVJ5RTFGSUhnSmVlWGhxcVAtdC1FQ3hCYk9CWG9LSlFnT3MxUTFZUExXNFZEcXZNV1pZQjlRRThNaUJiLXJ5Zjktd3FHWHFiWnFtU2NtYUV4dEJnaEtSRUszQThiYVcyS0pNaHdJQ0w?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T00:24:01",
+      "description": "Sangju City diversifies apple varieties in response to climate change, introducing 'Golden Ball' and others, shinailbo.co.kr",
+      "summary": {
+        "phenomenon": "Sangju City is diversifying apple varieties in response to climate change, introducing cultivars such as 'Golden Ball.' Specific timelines or figures were not mentioned in the article.",
+        "cause": "This variety diversification is in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Through apple variety diversification, an agricultural response to climate change is expected. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sangju City",
+        "Climate Change Response",
+        "Apple Variety",
+        "Diversification",
+        "Golden Ball"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "상주시, 기후변화 대응 사과 품종 다변화…'골든볼' 등 도입 shinailbo.co.kr"
+    },
+    {
+      "id": "7",
+      "title": "[Climate's Counterattack (225)] Heatwaves, Drought, and Now an Eclipse... 'Climate Change' Overwhelms European Power Grids - Focus on Economy",
+      "original_title": "[기후의 역습(225)] 폭염에 가뭄, 이번엔 일식까지⋯유럽 전력망 덮친 '기후 변화' - 포커스온경제",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MbjBpMVhGZzBrbHZWcThJaFFOb09ucFkzV3RKWjVTTnVkTDVFdjRGZDRCbVlQNnQ2RS12R2RHUVFGNDRCVVcyejVNV3VydUpKVVRTOWx1RVRDbjd0Q2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T03:08:32",
+      "description": "[Climate's Counterattack (225)] Heatwaves, drought, and now an eclipse... 'Climate Change' overwhelms European power grids, Focus on Economy",
+      "summary": {
+        "phenomenon": "The European power grid is being affected by phenomena such as heatwaves, drought, and a solar eclipse. Specific timelines or figures were not mentioned in the article.",
+        "cause": "These phenomena are impacting the European power grid due to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Phenomena such as heatwaves, drought, and solar eclipses caused by climate change are expected to continue impacting the European power grid. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Europe",
+        "Power Grid",
+        "Heatwave",
+        "Drought"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기후의 역습(225)] 폭염에 가뭄, 이번엔 일식까지⋯유럽 전력망 덮친 '기후 변화' 포커스온경제"
+    },
+    {
+      "id": "8",
+      "title": "\"To Prevent War, Invest in Climate Solutions, Not Armaments\" - ESG Business Review",
+      "original_title": "\"전쟁 막으려면 군비 아닌 기후 솔루션에 투자해야\" - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZ3RLWlFkd012UGYxSkpMVDNUSUJrOWJUME9aTkYycXFCS2t6MG9aeGhSQmd6aWJGb0dDU1dKV0xSVlRFb1JVeUZyeXhQZnF3bmZNbUJnMUpqZVNnWWE1THg0VFp6MVppaEFfWjhRSEd4Wlk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T07:23:37",
+      "description": "\"To prevent war, invest in climate solutions, not armaments,\" ESG Business Review",
+      "summary": {
+        "phenomenon": "A claim has been made that investment should be directed towards climate solutions rather than armaments to prevent war. Specific regions, timelines, or figures were not mentioned in the article.",
+        "cause": "This claim is based on the premise that climate issues can be linked to the outbreak of war. Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Investment in climate solutions is expected to contribute to preventing future wars. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "War",
+        "Armaments",
+        "Climate Solutions",
+        "Investment",
+        "Prevention"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"전쟁 막으려면 군비 아닌 기후 솔루션에 투자해야\" ESG비즈니스리뷰"
+    },
+    {
+      "id": "9",
+      "title": "Sangju City Enhances Cultivation Stability by Diversifying Apple Varieties in Response to Climate Change - Daegyeong Ilbo",
+      "original_title": "상주시, 기후변화 대응 사과 품종 다변화로 재배 안정성 높인다 - 대경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NbWJKa1VRaVJlNXJUU0xrZmQwdjdhbmdoSUFDQkx2ZVNiaUJkOXIwbGNlUmg1SkRhdDI0QXVQaVBfWko5VE5FVVg2ZHFoRjFNem81VHVKRVQ5NV9NWFhRbmhZaEZfbFpI?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T05:01:59",
+      "description": "Sangju City enhances cultivation stability by diversifying apple varieties in response to climate change, Daegyeong Ilbo",
+      "summary": {
+        "phenomenon": "Sangju City is enhancing cultivation stability by diversifying apple varieties in response to climate change. Specific timelines or figures were not mentioned in the article.",
+        "cause": "This variety diversification is in response to 'climate change.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Through apple variety diversification, cultivation stability is expected to improve even amidst climate change. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sangju City",
+        "Climate Change",
+        "Apple Variety",
+        "Diversification",
+        "Cultivation Stability"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "상주시, 기후변화 대응 사과 품종 다변화로 재배 안정성 높인다 대경일보"
+    },
+    {
+      "id": "10",
+      "title": "Sangju City Promotes Apple Variety Diversification in Response to Abnormal Climate - Gyeongbuk Shinmun",
+      "original_title": "상주시, 이상기후 대응 사과 품종 다양화 추진 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yVFJuWnVnZ1RVS041bGJzU1BMbDdDVEFsbEZlQXZDNVMzWnZSZGtENjhaQ2dEOXUwQkhXUmZfcGVZSUR1aU9yMDdEZkFISFVlamFueTl4Ty0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T03:52:22",
+      "description": "Sangju City promotes apple variety diversification in response to abnormal climate, Gyeongbuk Shinmun",
+      "summary": {
+        "phenomenon": "Sangju City is promoting apple variety diversification in response to abnormal climate conditions. Specific timelines or figures were not mentioned in the article.",
+        "cause": "This variety diversification is in response to 'abnormal climate conditions.' Specific scientific causes or backgrounds were not mentioned in the article.",
+        "outlook": "Through apple variety diversification, adaptability is expected to increase, allowing apple cultivation to continue even under abnormal climate conditions. Specific impacts or outlooks were not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sangju City",
+        "Abnormal Climate",
+        "Apple Variety",
+        "Diversification",
+        "Promotion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "상주시, 이상기후 대응 사과 품종 다양화 추진 경북신문"
+    },
+    {
+      "id": "11",
+      "title": "Due to Heatwave... Japanese Farmers' Income Decreases, Production Costs Rise - Nongmin Shinmun",
+      "original_title": "폭염 때문에…일본농가 수입 줄고 생산비는 늘고 - 농민신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZUkQtckZ0YXQydE9ET0FvaTRiZGRvdERuZ3hYTVB0dmpNbGNuOHNUU09jOFhfZkhVOUM5YUpJMWZQak1MS1I0NklyRTluU3ZRckU3Ti1TbGFPQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T08:00:00",
+      "description": "Due to Heatwave... Japanese Farmers' Income Decreases, Production Costs Rise Nongmin Shinmun",
+      "summary": {
+        "phenomenon": "Japanese farming households experienced a decrease in income and an increase in production costs due to the heatwave.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Japanese farmers",
+        "Income decrease",
+        "Production cost increase",
+        "Agricultural damage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염 때문에…일본농가 수입 줄고 생산비는 늘고 농민신문"
+    },
+    {
+      "id": "12",
+      "title": "Buk-gu Council Member Cho Mun-kyung Takes Action to Prevent Drought Damage in Gangdong-dong - Ulsan Jeil Ilbo",
+      "original_title": "조문경 북구의원, 강동동 가뭄 피해예방 나서 - 울산제일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Md0hXUEZod3JrWDR6R1Y4R3VnOS1zRXM1MVZLMktRUXFOalg5NEQ5SkZDYXFna1ZiTmx0Y3pGMVJSZnN1TnZHaFBldEhuMm42Q3gyS3ZjbE9HQnRJU2ppWG5EWXBCZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T08:29:00",
+      "description": "Buk-gu Council Member Cho Mun-kyung Takes Action to Prevent Drought Damage in Gangdong-dong Ulsan Jeil Ilbo",
+      "summary": {
+        "phenomenon": "In Gangdong-dong, Buk-gu, Ulsan, Buk-gu Council Member Cho Mun-kyung has taken action to prevent damage, as drought damage has occurred or is feared to occur.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Cho Mun-kyung",
+        "Buk-gu Council Member",
+        "Gangdong-dong",
+        "Drought",
+        "Damage prevention"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "조문경 북구의원, 강동동 가뭄 피해예방 나서 울산제일일보"
+    },
+    {
+      "id": "13",
+      "title": "48 Locations Including Daegu and Busan Experience 'Meteorological Drought'... 'Little Rain Expected in September Too' - Nate",
+      "original_title": "대구·부산 등 48곳 '기상 가뭄'…\"9월도 비 적어\" - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13bl95OGdFSVhJYmJpY3ZDWlVacVRxek00MkozR0lSYzQ5cUhxcVFweXBYeFhYd180ZG1sY0tHSUIwLXZHQ3JsMzNQV040Vy1XSXJB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T05:28:00",
+      "description": "48 Locations Including Daegu and Busan Experience 'Meteorological Drought'... 'Little Rain Expected in September Too' Nate",
+      "summary": {
+        "phenomenon": "'Meteorological drought' has occurred in 48 locations nationwide, including Daegu and Busan.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Little rain is expected even in September."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Meteorological drought",
+        "Drought",
+        "Daegu",
+        "Busan",
+        "Insufficient rainfall"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구·부산 등 48곳 '기상 가뭄'…\"9월도 비 적어\" 네이트"
+    },
+    {
+      "id": "14",
+      "title": "The Great Survival War in the Era of Climate Crisis - Nate",
+      "original_title": "기후위기 시대의 거대한 생존 전쟁 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SaE1oN1NfVEFVZndqeUg2WlVQdkgxN0NOR3FZMDlfLXYya21UQUt3Q1JmQXIzV3A5Yl90bERCVzRaRDJZeFRES3BIMW1aVTU0eDl3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T00:05:00",
+      "description": "The Great Survival War in the Era of Climate Crisis Nate",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate crisis",
+        "Survival",
+        "War",
+        "Era",
+        "Great"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 시대의 거대한 생존 전쟁 네이트"
+    },
+    {
+      "id": "15",
+      "title": "Extreme Heatwave and Prolonged Drought: - Vietnam.vn",
+      "original_title": "극심한 폭염과 장기간의 가뭄: - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZYlliei05V3RnRHpLamNpTmpuaHZYR0N4eGdudFBhSmdXRkFoVnpfX2FBT2RXV1NraFNYS1R2WTZ0ckpRXzVGUjJvYzQwTzhHWUl0eV9PaFdWN3A5RUhoSDBpUHpDVkgzZUx1UVp3YkY?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T00:43:16",
+      "description": "Extreme Heatwave and Prolonged Drought: Vietnam.vn",
+      "summary": {
+        "phenomenon": "An extreme heatwave and prolonged drought have occurred.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Drought",
+        "Vietnam",
+        "Extreme",
+        "Prolonged"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "극심한 폭염과 장기간의 가뭄: Vietnam.vn"
+    },
+    {
+      "id": "16",
+      "title": "Haenam County Creates Specialized Forest in Mandaesan... A Carbon-Neutral Forest Model - Yonhap News",
+      "original_title": "해남군, 만대산에 특화림 조성…탄소중립 산림 모델 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yMlNGSVB3VUNLMUVHUzd6LUNjVTFWUkZBREtoOUpJbF9WNjdHb2VzSl9Dd0RGMy1EaTk2bmhLSXR5cTQybkVpdDNtam9zRWp0SGJFeHZJWHVIeDR3dUJvS9IBYEFVX3lxTE8yMlNGSVB3VUNLMUVHUzd6LUNjVTFWUkZBREtoOUpJbF9WNjdHb2VzSl9Dd0RGMy1EaTk2bmhLSXR5cTQybkVpdDNtam9zRWp0SGJFeHZJWHVIeDR3dUJvSw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T00:00:05",
+      "description": "Haenam County Creates Specialized Forest in Mandaesan... A Carbon-Neutral Forest Model Yonhap News",
+      "summary": {
+        "phenomenon": "Haenam County has created a specialized forest in Mandaesan.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The created specialized forest is expected to function as a carbon-neutral forest model."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "Forest",
+        "Specialized forest",
+        "Haenam County",
+        "Creation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해남군, 만대산에 특화림 조성…탄소중립 산림 모델 연합뉴스"
+    },
+    {
+      "id": "17",
+      "title": "Haenam County Creates Specialized Forest in Mandaesan... A Carbon-Neutral Forest Model - v.daum.net",
+      "original_title": "해남군, 만대산에 특화림 조성…탄소중립 산림 모델 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pUXppYWFoWktGc1M1aVFIeTBkeTFnZTNlcDdNRHJjbGZzMm81ekU3TEFrWUppeHlBbTdJVjVDN2FWa0lFSTh0OUxmUlJrMXc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T00:05:09",
+      "description": "Haenam County Creates Specialized Forest in Mandaesan... A Carbon-Neutral Forest Model v.daum.net",
+      "summary": {
+        "phenomenon": "Haenam County has created a specialized forest in Mandaesan.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The created specialized forest is expected to function as a carbon-neutral forest model."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Haenam County",
+        "Mandaesan",
+        "Specialized forest",
+        "Carbon neutrality",
+        "Forest model"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해남군, 만대산에 특화림 조성…탄소중립 산림 모델 v.daum.net"
+    },
+    {
+      "id": "18",
+      "title": "Amazon, Declaring Carbon Neutrality, Faces Controversy Over Investment in Large Gas Power Plant - Digital Daily",
+      "original_title": "탄소중립 외친 아마존, 대형 가스발전소 투자 논란 - 디지털데일리",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xZTd4U3ltWHR4TzBRUFNKeWt4aWJ3WTVKYjk2SzQyVnhXTDNHSnFfT1Jyek5pRldTU1Nua2RjUTZOTldZMkF3bWg2X2hGZ2NXakxEYzBBbjlNeTlvd2VjTno4bk0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T04:40:36",
+      "description": "Amazon, Declaring Carbon Neutrality, Faces Controversy Over Investment in Large Gas Power Plant Digital Daily",
+      "summary": {
+        "phenomenon": "Amazon, which declared carbon neutrality, invested in a large gas power plant, causing controversy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Amazon",
+        "Carbon neutrality",
+        "Gas power plant",
+        "Investment",
+        "Controversy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립 외친 아마존, 대형 가스발전소 투자 논란 디지털데일리"
+    },
+    {
+      "id": "19",
+      "title": "From Carbon Neutrality to Cultural Experiences... National Association of Bhikkhunis Holds Environment and Life Festival - BBS Buddhist Broadcasting",
+      "original_title": "탄소중립부터 문화 체험까지…전국비구니회, 환경·생명 한마당 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53VUdkRE1rVVNJV2wxd0k1Rmpxc2ZCUmxVZ3JlcXhSa3M1QlZfSHAyeXY2VWFMOVdSTWJFX3FlRWtuUXlyZnQtTXpuS2lXU3FLd2hvOTA4UklMWUs3VDlJV3Q0QmwyNUoyYjhr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-08T22:00:00",
+      "description": "From Carbon Neutrality to Cultural Experiences... National Association of Bhikkhunis Holds Environment and Life Festival BBS Buddhist Broadcasting",
+      "summary": {
+        "phenomenon": "The National Association of Bhikkhunis held an Environment and Life Festival, including carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "National Association of Bhikkhunis",
+        "Environment",
+        "Life",
+        "Festival"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립부터 문화 체험까지…전국비구니회, 환경·생명 한마당 BBS불교방송"
+    },
+    {
+      "id": "20",
+      "title": "Carbon Neutrality: Not a Choice, But an Essential Task for the Future - kairnews.com",
+      "original_title": "탄소중립, 선택 아닌 미래를 위한 필수 과제 - kairnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04TzRLWHBMSS1kOXRIdW9HOTdJZW9yc2R0VTdnT1dqYXdSNXI0ZFdySTlSeWp3a2dHMFJqeGU4X2VkOVI2VzVxZ2xnXzI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T08:02:12",
+      "description": "Carbon Neutrality: Not a Choice, But an Essential Task for the Future kairnews.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Carbon neutrality is being presented as an essential task for the future."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립, 선택 아닌 미래를 위한 필수 과제 kairnews.com"
+    },
+    {
+      "id": "21",
+      "title": "Pohang City: 'Carbon-Neutral Electric Vehicle' Vacation Camp Implemented with AI and Coding Concludes Successfully - Naewoeilbo",
+      "original_title": "포항시, AI ‧ 코딩으로 구현하는 ‘탄소중립 전기차’ 방학캠프 성료 - 내외일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LX1dnNm1QNUhEUF8zS3RyYUdOdVNMZ2NQTHJYZUgzMlFjRjFycF9qS2doNjEyS18xYWRHODhQU0NKdmtZeDBwVklUcEpZcWF6dXcxdVlxMW5JaVNRa09EX2NmTVh2RnFKMWN1ZXAwYw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T03:55:54",
+      "description": "Pohang City: 'Carbon-Neutral Electric Vehicle' Vacation Camp Implemented with AI and Coding Concludes Successfully Naewoeilbo",
+      "summary": {
+        "phenomenon": "A 'Carbon-Neutral Electric Vehicle' vacation camp, utilizing AI and coding, has successfully concluded in Pohang City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "Carbon Neutrality",
+        "Electric Vehicle",
+        "AI",
+        "Coding"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, AI ‧ 코딩으로 구현하는 ‘탄소중립 전기차’ 방학캠프 성료 내외일보"
+    },
+    {
+      "id": "22",
+      "title": "Pohang City Concludes 'Carbon-Neutral Electric Vehicle' Vacation Camp Utilizing AI and Coding - Web Economy",
+      "original_title": "포항시, AI·코딩 활용 ‘탄소중립 전기차’ 방학캠프 마무리 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFdWJRTGhlM3dTcGg3RXh3bUctdlFEdGxPMkpZUmwxYy1IeHFuX2tMTDMtUUtYdjZaZ0xNQnlkYmxQNVhub2FqcHNZSjVqRVVJRnh4bUVRR3NsSEk4YTdDWVBFdDBDVTk3Q2lzdHoxOTE1Zw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T06:23:44",
+      "description": "Pohang City Concludes 'Carbon-Neutral Electric Vehicle' Vacation Camp Utilizing AI and Coding Web Economy",
+      "summary": {
+        "phenomenon": "A 'Carbon-Neutral Electric Vehicle' vacation camp, utilizing AI and coding, has concluded in Pohang City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "AI",
+        "Coding",
+        "Carbon Neutrality",
+        "Electric Vehicle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, AI·코딩 활용 ‘탄소중립 전기차’ 방학캠프 마무리 웹이코노미"
+    },
+    {
+      "id": "23",
+      "title": "Yanggu County Initiates Third Round of Electric Vehicle Distribution Applications - reporternside.com",
+      "original_title": "양구군, 전기차 보급 3차 접수 시작 - reporternside.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XYXVwVGRUTHZpaFZJR1M1d1hjV3E0cU5kR3Z2ckVoZnZCVXFiOFNWdFJTVjFTemU2RVVWQWlkT1QwZnlEQ0tadVJRVER5bWp0ZVNJWTZaWWVyRVBEODFWNHdpTXA0WjVhQS11V2xIYlZuQQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T00:17:31",
+      "description": "Yanggu County Initiates Third Round of Electric Vehicle Distribution Applications reporternside.com",
+      "summary": {
+        "phenomenon": "The third round of applications for electric vehicle distribution has commenced in Yanggu County.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yanggu County",
+        "Electric Vehicle",
+        "Distribution",
+        "Third Round",
+        "Application"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "양구군, 전기차 보급 3차 접수 시작 reporternside.com"
+    },
+    {
+      "id": "24",
+      "title": "Pohang City Hosts 'AI Carbon-Neutral Electric Vehicle' Coding Camp for Elementary Students and Parents - gukjenews.com",
+      "original_title": "포항시, 초등생·학부모와 'AI 탄소중립 전기차' 코딩캠프 개최 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EcHRybW9Wd3ZOVTJkb3NJWHRDazh3eEpEc2Z1ak9yX3FUTXVOZGhUTXZFTTlwalRpTUkyY1FZWkhfLTlUbm91RHRIeVd0OFM2WkZma1cyd0lERE80MGlFR05XQ0ZGQl8wLW1yUHdR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T04:44:30",
+      "description": "Pohang City Hosts 'AI Carbon-Neutral Electric Vehicle' Coding Camp for Elementary Students and Parents gukjenews.com",
+      "summary": {
+        "phenomenon": "Pohang City has hosted an 'AI Carbon-Neutral Electric Vehicle' coding camp for elementary students and their parents.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pohang City",
+        "AI",
+        "Carbon Neutrality",
+        "Electric Vehicle",
+        "Coding Camp"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포항시, 초등생·학부모와 'AI 탄소중립 전기차' 코딩캠프 개최 gukjenews.com"
+    },
+    {
+      "id": "25",
+      "title": "Greenhouse Gas Emission Allowance Prices Triple, Increasing Jeonju City's Financial Burden - domin.co.kr",
+      "original_title": "온실가스 배출권 가격 3배 ‘껑충’…전주시 재정부담 가중 - domin.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNREcxR2Z6Z3I3RFlBWnVhZ09PWEgtXzg2d3lyTk5Kbk9NSWJIcV96ejZzOVJOS0RVNTF2MHR0Y0hRZi1McDl2akJNbFJwOEdUS2dKMWVfSjNZZGFmaFFiVXpSZWNvcDNxMm5tUGtvRTdzVU5lUm1tX1NwOFVGaF9QSDlnVFVuU2c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T08:00:00",
+      "description": "Greenhouse Gas Emission Allowance Prices Triple, Increasing Jeonju City's Financial Burden domin.co.kr",
+      "summary": {
+        "phenomenon": "The price of greenhouse gas emission allowances has tripled, leading to an increased financial burden for Jeonju City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Greenhouse Gas",
+        "Emission Allowance",
+        "Price",
+        "Jeonju City",
+        "Financial Burden"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "온실가스 배출권 가격 3배 ‘껑충’…전주시 재정부담 가중 domin.co.kr"
+    },
+    {
+      "id": "26",
+      "title": "Jeju to Power AI with Surplus Renewable Energy... 40MW 'Green Data Center' Strategic Move - Financial News",
+      "original_title": "제주, 남는 재생에너지로 AI 돌린다… 40㎿ '그린 데이터센터' 승부수 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zdFd1NFkxd2FEeE9sNXp4ZE9WRUpVNndrNTFDWmJhWmtGakpfLXJidDFPaDZmSUNYdUNZdHFJNFJZWUo5U3VJOThZQm5jaUp5UDhLMWg3OVVjUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T02:18:55",
+      "description": "Jeju to Power AI with Surplus Renewable Energy... 40MW 'Green Data Center' Strategic Move Financial News",
+      "summary": {
+        "phenomenon": "A plan to establish a 40MW 'Green Data Center' utilizing surplus renewable energy is being pursued in Jeju Island.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeju",
+        "Renewable Energy",
+        "AI",
+        "Green Data Center",
+        "40MW"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "제주, 남는 재생에너지로 AI 돌린다… 40㎿ '그린 데이터센터' 승부수 파이낸셜뉴스"
+    },
+    {
+      "id": "27",
+      "title": "680.7 Billion Won Invested in Haenam Saline Reclaimed Land... First Shovel for 400MW Renewable Energy Complex - kairnews.com",
+      "original_title": "해남 염해간척지에 6807억원 투입…400㎿ 재생에너지 단지 첫삽 - kairnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5vWUJoSkFLODVSdVFoTEVoRjFLTlFZdWR0cDFiMktfWWxHdXphWlNCdnU1Mm9RRlJCYmxpRkVuY0pRM0pFNjBBVkFWY00?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T07:38:20",
+      "description": "680.7 Billion Won Invested in Haenam Saline Reclaimed Land... First Shovel for 400MW Renewable Energy Complex kairnews.com",
+      "summary": {
+        "phenomenon": "The construction of a 400MW renewable energy complex has commenced on Haenam's saline reclaimed land, with an investment of 680.7 billion won.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Haenam",
+        "Renewable Energy",
+        "Saline Reclaimed Land",
+        "400MW",
+        "Investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해남 염해간척지에 6807억원 투입…400㎿ 재생에너지 단지 첫삽 kairnews.com"
+    },
+    {
+      "id": "28",
+      "title": "[Energy Transition 2050] LS Electric Targets 2040 with PPA and Solar Power - eNews Today",
+      "original_title": "[에너지전환2050] LS일렉, PPA·태양광으로 2040년 정조준 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aS3N6ak1HWlNOaFYtcVBTaDY0TVNRbWtBVEowby1RSnRsaFp0MkZsblRUenVLdUNBT1pwaHdCclcxR3BRS01mYnUwRjdockZpQ0pHRWxvS2E1UXAydmlOTThTTzFIeW9tdENyZW4xZHE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T00:54:26",
+      "description": "[Energy Transition 2050] LS Electric Targets 2040 with PPA and Solar Power eNews Today",
+      "summary": {
+        "phenomenon": "LS Electric is setting energy transition targets for 2040 through Power Purchase Agreements (PPA) and solar power generation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "LS Electric",
+        "PPA",
+        "Solar Power",
+        "Energy Transition",
+        "Year 2040"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[에너지전환2050] LS일렉, PPA·태양광으로 2040년 정조준 이뉴스투데이"
+    },
+    {
+      "id": "29",
+      "title": "Wind Power Development Profits Used for Cooling Costs... Jeju Supports Vulnerable Households with Electricity Bills for Three Months - Nate",
+      "original_title": "풍력 개발이익이 냉방비로…제주 취약가구에 석 달간 전기료 지원 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ERTlzSDFHdjgyS0NJQVpXQWp5U280WlBxbW4yUm5BN0lSQ3ByYWRXejZ6cVhlZGNOby0tUG9vdldVRE81dF9PQmRaRFhkbVBOSUVn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T02:26:00",
+      "description": "Wind Power Development Profits Used for Cooling Costs... Jeju Supports Vulnerable Households with Electricity Bills for Three Months Nate",
+      "summary": {
+        "phenomenon": "In Jeju Island, electricity bills for cooling, funded by wind power development profits, were provided to vulnerable households for three months.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Wind Power",
+        "Development Profit",
+        "Jeju",
+        "Vulnerable Households",
+        "Electricity Bill Support"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "풍력 개발이익이 냉방비로…제주 취약가구에 석 달간 전기료 지원 네이트"
+    },
+    {
+      "id": "30",
+      "title": "'2026 Green Enertech' Opens at Songdo Convensia... Illuminating the Future of Environment and Renewable Energy - Segye News Agency",
+      "original_title": "'2026 그린에너텍' 송도컨벤시아서 개막…환경·신재생에너지 미래 조명 - 세계뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kT2EtMDhpRTFfeGhPQnhKa1ZBbnJPZHBqS2lnY2g2Z3R2aWk1YkhUSFVRekROdkljV3VPZEg4bHRKbU1sVUV3M3J1M3lJeVQ3M1hNZHBjRHpoWHNsazVTOXdnZGhQQWlyMnlNNllnajhXc3JE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-08T23:12:36",
+      "description": "'2026 Green Enertech' Opens at Songdo Convensia... Illuminating the Future of Environment and Renewable Energy Segye News Agency",
+      "summary": {
+        "phenomenon": "The '2026 Green Enertech' event has opened at Songdo Convensia, highlighting the future of environmental and renewable energy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Green Enertech",
+        "Songdo Convensia",
+        "Opening",
+        "Environment",
+        "Renewable Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'2026 그린에너텍' 송도컨벤시아서 개막…환경·신재생에너지 미래 조명 세계뉴스통신"
+    },
+    {
+      "id": "31",
+      "title": "Han Jeong-ae on Mega Special Zone's 52-hour work week exception: 'We must consider what will attract businesses'; hints at restoring existing ISA",
+      "original_title": "한정애, 메가특구 주52시간 예외 “무엇으로 기업 내려갈 수 있게 하겠냐는 고민해야”…기존 ISA 원복 시사",
+      "url": "https://www.khan.co.kr/article/202608091717001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T08:17:00",
+      "description": "Han Jeong-ae, Policy Committee Chairman of the Democratic Party of Korea, announced on the 9th that the party is reviewing additional measures to alleviate the progressive electricity rate system during heatwave periods. This statement was made at a press conference at the National Assembly. She also addressed the debate surrounding exceptions to the 52-hour work week for R&D personnel in Mega Special Zones, questioning, 'What incentives will attract businesses to these areas?'",
+      "summary": {
+        "phenomenon": "On August 9, Han Jeong-ae, Policy Committee Chairman of the Democratic Party of Korea, announced at a National Assembly press conference that they are considering additional measures to ease the progressive electricity rate system during heatwave periods.",
+        "cause": "This is because the prolonged heatwave period has raised the necessity of alleviating the burden of electricity bills.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Heatwave",
+        "Electricity bill",
+        "Progressive system",
+        "Alleviation",
+        "Han Jeong-ae"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한정애 더불어민주당 정책위의장이 9일 국회에서 열린 기자간담회에서 현안 관련 발언을 하고 있다. 연합뉴스한정애 더불어민주당 정책위의장이 9일 폭염 시기 전기요금 누진 체계를 추가로 완화하는 방안을 검토하고 있다고 밝혔다. 메가특구 연구·개발(R&D) 인력에 대한 ‘주 52시간제 적용 예외’ 논란을 두고는 “무엇으로 기업이 내려갈 수 있게 하겠느냐는 ···"
+    },
+    {
+      "id": "32",
+      "title": "Heatwaves: The Disaster to Which Vulnerable Populations Are Most Susceptible, Twice as Vulnerable",
+      "original_title": "취약계층이 가장 약한 재난은 ‘폭염’···2배 더 취약",
+      "url": "https://www.khan.co.kr/article/202608091629011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T07:29:01",
+      "description": "Seoul's peripheral areas are more susceptible to extreme heat than its central districts. On the 3rd, citizens were observed queuing for free meals at Tapgol Park in Jongno-gu, Seoul. A recent study revealed that vulnerable populations are twice as likely as non-vulnerable groups to perceive themselves as susceptible to heatwave impacts. Furthermore, disaster disparities across regions were identified, with research indicating that even within Seoul, urban centers are less vulnerable to intense heat compared to outer areas. This information was reported by the National Data Agency on the 9th.",
+      "summary": {
+        "phenomenon": "Peripheral areas of Seoul are more susceptible to extreme heat than the city center. On the 3rd, citizens were observed queuing for free meals at Tapgol Park in Jongno-gu, Seoul. A study revealed that the proportion of vulnerable populations who perceive themselves as susceptible to heatwaves is twice that of non-vulnerable populations. Disaster disparities between regions were also confirmed, even within the same [city/region].",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Vulnerable population",
+        "Disaster disparity",
+        "Seoul",
+        "Sultry heat"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서울도 중심보다 외곽이 더 무더위에 취약지난 3일 서울 종로구 탑골공원 무료 급식소를 찾은 시민들이 줄 서서 기다리고 있다. 한수빈 기자폭염에 스스로 취약하다고 인식하는 취약계층 비율이 비취약계층의 두 배에 달하는 것으로 드러났다. 지역 간 재난 격차도 확인됐다. 같은 서울이라도 도심일수록 불볕더위에 덜 취약하다는 연구 결과가 나왔다.9일 국가데이터처 국가···"
+    },
+    {
+      "id": "33",
+      "title": "Miryang Farmers Lament Persistent Drought Even After Heatwave Subsides, 'Just a Trickle of Rain'",
+      "original_title": "“비가 찔끔오다 그쳤네” 폭염 지나가도 ‘가뭄’에 밀양 농민들 한숨",
+      "url": "https://www.khan.co.kr/article/202608091619001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T07:19:00",
+      "description": "Farmers in Miryang are expressing deep concern over a prolonged drought, even as the intense heatwave begins to recede. The agricultural water reservoir level stands at a critical 25.9%, less than half of the annual average, exacerbating existing conflicts over water resources. With no significant rainfall forecast in the near future, the situation remains dire. On August 8th, water trucks were deployed to rice paddies in Muan-myeon, Miryang, Gyeongnam, to supply essential agricultural water. Farmer A (70) was observed on August 9th, sighing deeply while inspecting the parched fields of Baegan Village in Muan-myeon, Miryang, Gyeongnam, particularly focusing on the crucial water channels.",
+      "summary": {
+        "phenomenon": "Miryang farmers are expressing concern over a prolonged drought, even as the heatwave subsides. Agricultural water reservoir levels are at a critical 25.9%, less than half the annual average, leading to conflicts over water resources. No significant rainfall is expected in the near future. On August 8th, water trucks were deployed to rice paddies in Muan-myeon, Miryang, Gyeongnam, to supply agricultural water. On August 9th, farmer A (7...) was observed in the fields of Baegan Village, Muan-myeon, Miryang, Gyeongnam.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Miryang",
+        "Drought",
+        "Farmer",
+        "Agricultural water",
+        "Reservoir level"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염 지나가도 긴 가뭄에 밀양 농민들 한숨농업용수 저수율 25.9%···평년 절반도 안 돼농수 둘러싼 갈등까지···당분간 비소식 없어8일 경남 밀양 무안면 논에 살수차가 투입돼 농업용수를 공급하고 있다. 밀양시 제공경남 밀양시 무안면 백안마을 들판을 9일 농민 A씨(70)가 물끄러미 바라보다 깊은 한숨을 쉬었다. 그는 물꼬(논에 물이 드나드는 길)를 살피러···"
+    },
+    {
+      "id": "34",
+      "title": "The Paradox of Heatwaves: Why Spicy Foods Are Sought After",
+      "original_title": "“더운데 왜 불닭이 당길까?” 폭염에 ‘매운 맛’ 찾는 이유 있었다",
+      "url": "https://www.khan.co.kr/article/202608091600001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T07:00:00",
+      "description": "As heatwaves continue, certain unexpected foods, particularly spicy dishes such as Buldak-bokkeum-myeon, Mala Tang, spicy chicken feet, and Tteokbokki, experience a surge in popularity. This phenomenon prompts the question of why individuals seek such intense, tongue-numbing flavors in temperatures exceeding 35 degrees Celsius. Research indicates that while spicy foods do not directly lower core body temperature, they stimulate the body's thermoregulation system and the brain, thereby inducing a perceived 'cooling sensation'.",
+      "summary": {
+        "phenomenon": "As heatwaves persist, unexpected foods, particularly spicy dishes such as Buldak-bokkeum-myeon, Mala Tang, spicy chicken feet, and Tteokbokki, experience a surge in popularity. This raises the question of why individuals seek such intense, tongue-numbing flavors in temperatures exceeding 35 degrees Celsius. It is understood that spicy tastes do not directly lower body temperature...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Heatwave",
+        "Spicy taste",
+        "Food",
+        "Body temperature regulation",
+        "Cooling sensation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "삼양식품 제공폭염이 이어질수록 뜻밖의 음식들이 인기를 끈다. 보기만 해도 땀이 나는 불닭볶음면, 마라탕, 매운 닭발, 떡볶이 같은 ‘매운맛 음식’이다.섭씨 35도를 넘나드는 날씨에 굳이 혀가 얼얼할 정도의 자극을 찾는 이유는 무엇일까. 사실 매운맛은 실제로 체온을 낮추는 것이 아니라, 우리 몸의 열 조절 시스템과 뇌를 자극해 ‘시원한 느낌’을 만들어내는 것···"
+    },
+    {
+      "id": "35",
+      "title": "Seoul's Outskirts More Vulnerable to Heatwave Disasters Due to Infrastructure Disparities",
+      "original_title": "서울 외곽으로 갈수록 ‘폭염 재난’에 취약했다···“인프라 차이”",
+      "url": "https://www.khan.co.kr/article/202608091447001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T05:47:00",
+      "description": "Peripheral districts such as Gangbuk, Dobong, and Jungnang exhibit heightened vulnerability to heatwave impacts, primarily attributed to disparities in social and economic infrastructure across local government areas. A report emphasizes that 'climate disparities are measurable, necessitating prioritized resource allocation.' The image shows a thermal camera view from Namsan Observatory on July 13th, when Seoul's daytime high reached 33 degrees Celsius amidst a nationwide heatwave. Red indicates higher temperatures, while blue signifies lower temperatures.",
+      "summary": {
+        "phenomenon": "Peripheral districts such as Gangbuk, Dobong, and Jungnang exhibit heightened vulnerability, attributed to disparities in social and economic infrastructure across local government areas. A report states, 'Climate disparities are measurable, necessitating prioritized resource allocation.' On July 13th, as heatwaves intensified nationwide and Seoul's daytime high reached 33 degrees Celsius, a thermal camera captured...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave disaster",
+        "Seoul outskirts",
+        "Infrastructure difference",
+        "Climate disparity",
+        "Vulnerability"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "강북·도봉·중랑 등 외곽 지역 취약성 높아···각 지자체별 사회·경제적 인프라가 원인보고서 “기후격차는 측정할 수 있으므로 우선순위 가려 자원 분배해야”서울 낮 최고기온이 33도까지 오르는 등 전국적으로 폭염이 기승을 부린 지난달 13일 서울 남산전망대에서 열화상 카메라로 촬영한 시내의 전경이다. 온도가 높은 부분은 붉게, 낮은 부분은 푸른색을 띤다. 강윤···"
+    },
+    {
+      "id": "36",
+      "title": "Extreme Heatwave of 40°C May Recede, But 35°C Sultry Heat Persists; East Coast Expects Rain Until Tomorrow",
+      "original_title": "‘40도 극한폭염’ 물러가도 ‘35도 무더위’ 계속···동해안 내일까지 비",
+      "url": "https://www.khan.co.kr/article/202608091413001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T05:13:00",
+      "description": "On August 4th, amidst a severe heatwave warning across Seoul, tourists in Myeongdong Street, Jung-gu, were observed using portable fans and parasols to mitigate the heat. While the 'double heat dome' responsible for extreme temperatures exceeding 40 degrees Celsius nationwide has shown some weakening, sultry conditions with maximum temperatures of 34-35 degrees Celsius and tropical nights are projected to persist. The Korea Meteorological Administration forecasts daytime high temperatures of 27-34 degrees Celsius for August 10th.",
+      "summary": {
+        "phenomenon": "On August 4th, amidst a severe heatwave warning across Seoul, tourists in Myeongdong Street, Jung-gu, were observed using portable fans and parasols to mitigate the heat. While the 'double heat dome' responsible for extreme temperatures exceeding 40 degrees Celsius nationwide has shown some weakening, sultry conditions with maximum temperatures of 34-35 degrees Celsius are expected to persist.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Sultry heat",
+        "Tropical night",
+        "Korea Meteorological Administration",
+        "Extreme heatwave"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서울 전역에 폭염중대경보가 내려진 지난 4일 서울 중구 명동거리에서 관광객들이 휴대용 선풍기와 양산 등을 사용해 더위를 식히고 있다. 문재원 기자전국 곳곳에 40도를 웃도는 극한 폭염을 몰고 왔던 ‘이중 열돔’의 위력은 다소 약해졌지만 최고기온 34~35도 수준의 무더위와 열대야는 당분간 계속될 것으로 예상된다.기상청은 오는 10일 낮 최고기온이 27~34···"
+    },
+    {
+      "id": "37",
+      "title": "The Han River's Dual Reality Amidst Heatwave: Deserted Campsites vs. Popular Swimming Pools",
+      "original_title": "“더워서 집 간다” 한산한 캠핑장·“가성비 워터밤” 핫플된 수영장···폭염 속 ‘한강 두 얼굴’[현장에서]",
+      "url": "https://www.khan.co.kr/article/202608091411001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T05:11:00",
+      "description": "The prolonged heatwave has led to a significant reduction in tent campers, with numbers falling to less than half of typical levels. Conversely, swimming pools are experiencing considerable overcrowding, though issues such as smoking and littering remain contentious. The image depicts the Han River Yeouido Park campsite in downtown Seoul on August 8th, surrounded by high-rise buildings. Despite the Seoul Metropolitan Government's efforts to boost the night economy by operating 'Han River Bamping' (campsites) and outdoor swimming pools, citizen participation has been low due to the persistent heatwave. On August 7th, as the weekend commenced, Yeouido...",
+      "summary": {
+        "phenomenon": "The heatwave has caused a significant decrease in tent campers, with numbers less than half of typical levels. In contrast, swimming pools are experiencing considerable overcrowding, though issues such as smoking and littering remain contentious. The image shows the Han River Yeouido Park campsite in downtown Seoul on August 8th, surrounded by high-rise buildings. The Seoul Metropolitan Government operates 'Han River Bamping' (campsites) and outdoor swimming pools to revitalize the night economy, but...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Han River",
+        "Campsite",
+        "Swimming pool",
+        "Night economy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염에 텐트족 크게 줄어···평소 절반에도 못 미쳐수영장엔 구름 인파···흡연·쓰레기 등 여전히 논란8일 고층빌딩이 즐비한 도심 속 서울 한강여의도공원 야영장의 모습. 이우사 기자서울시가 야간경제 활성화를 목표로 ‘한강 밤핑(야영장)’과 야외 수영장을 운영하고 있지만 장기간 이어지는 폭염으로 참여 시민은 많지 않았다.주말이 시작되는 7일 오후 7시쯤 여의도···"
+    },
+    {
+      "id": "38",
+      "title": "Nonghyup Provides 300 Billion Won in Emergency Disaster Relief Funds for Heatwave and Drought",
+      "original_title": "농협, 폭염·가뭄 재해자금 3000억원 긴급 지원",
+      "url": "https://www.khan.co.kr/article/202608091353011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T04:53:01",
+      "description": "On August 7th, Kang Ho-dong, Chairman of Nonghyup Central Federation (pictured right), visited Gimhae, Gyeongnam, to assess crop damage at a persimmon farm, an area severely impacted by heatwaves and drought. In response to the escalating damage to agricultural and livestock products caused by the prolonged heatwave and drought, Nonghyup has implemented comprehensive disaster support measures, including the emergency allocation of 300 billion won in disaster relief funds. These funds will be utilized to provide essential farming and livestock materials to prevent further damage from heatwaves and drought.",
+      "summary": {
+        "phenomenon": "On August 7th, Kang Ho-dong, Chairman of Nonghyup Central Federation (pictured right), visited Gimhae, Gyeongnam, to assess crop damage at a persimmon farm, an area severely impacted by heatwaves and drought. In response to the escalating damage to agricultural and livestock products caused by the prolonged heatwave and drought, Nonghyup has implemented comprehensive disaster support measures, including the emergency allocation of 300 billion won in disaster relief funds.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nonghyup",
+        "Heatwave",
+        "Drought",
+        "Disaster funds",
+        "Crop damage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "7일 폭염과 가뭄으로 농작물 피해가 심한 경남 김해지역을 방문한 강호동 농협중앙회장(사진 오른쪽)이 단감 농가에서 피해 현황을 살펴보고 있다. 농협 제공폭염·가뭄 장기화로 농축산물의 피해가 커지면서 농협이 재해자금 3000억원을 긴급 지원하는 등 재난 종합 지원대책을 마련했다.농협은 재해자금 3000억원으로 폭염·가뭄 피해 예방에 필요한 영농·축산자재 지원···"
+    },
+    {
+      "id": "39",
+      "title": "Rising Han River Water Temperatures Prompt Seoul to Enhance Response System for Taste and Odor Substances",
+      "original_title": "한강 수온 상승에···서울시 맛·냄새 물질 대응 체계 강화",
+      "url": "https://www.khan.co.kr/article/202608091337001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T04:37:00",
+      "description": "Consecutive heatwaves have led to a rise in Han River water temperatures, reaching up to 29℃. The Seoul Water Research Institute is actively collecting and analyzing raw Han River water to monitor its quality, including the potential for algal blooms. With a 'severe heatwave warning' in effect across Seoul and persistent sultry conditions, the Seoul Metropolitan Government has intensified its Han River water quality management efforts. The city stated that the elevated raw water temperatures in the Han River increase the likelihood of taste and odor-producing substances and the proliferation of small organisms, necessitating enhanced raw water quality monitoring and purification processes.",
+      "summary": {
+        "phenomenon": "Consecutive heatwaves have caused Han River water temperatures to rise to 29℃. The Seoul Water Research Institute is collecting raw water from the Han River to investigate its quality, including the potential for algal blooms. With a 'severe heatwave warning' issued across Seoul and persistent sultry conditions, the Seoul Metropolitan Government has intensified its Han River water quality management efforts. The city noted that the rising temperature of the Han River's raw water...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Han River water temperature rise",
+        "Heatwave",
+        "Water quality management",
+        "Taste and odor substances",
+        "Response system"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "연이은 폭염에 한강 수온 29℃까지 상승서울물연구원이 한강 원수를 채수해 조류 발생 여부 등 원수 수질을 조사하고 있다. 서울시 제공.서울 전역에 ‘폭염중대경보’가 발령되는 등 무더위가 이어지면서 서울시가 한강 수질 관리를 강화하고 나섰다.서울시는 한강 원수의 수온 상승으로 맛·냄새 물질과 소형생물 발생 가능성이 커짐에 따라 원수 수질 감시와 정수처리를 강···"
+    },
+    {
+      "id": "40",
+      "title": "Despite Heatwave Warnings, Farmers Must Work: 'Mobile Shelters' Provide Relief",
+      "original_title": "폭염에 외출 말라지만 일 안할 수는 없는데···농민들 위해 ‘움직이는 쉼터’가 왔다",
+      "url": "https://www.khan.co.kr/article/202608091207001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T03:07:00",
+      "description": "The Jeonnam Seed Management Office has deployed 'mobile traditional huts' mounted on 1-ton trucks. These innovative shelters are designed to navigate narrow farm roads, offering a convenient alternative to distant rest areas. Equipped with chairs under a shade canopy and beverages in an icebox, they provide essential respite. Workers from the Jeonnam Gwangju Seed Management Office were observed resting in one such 'mobile traditional hut' near their worksite. These 'mobile traditional huts' are gaining significant attention for providing crucial support to farmers who must continue working in their fields despite the record-breaking heatwave.",
+      "summary": {
+        "phenomenon": "The Jeonnam Seed Management Office has installed 'mobile traditional huts' on 1-ton trucks. These shelters are designed to navigate narrow farm roads, providing an accessible alternative to distant rest areas. They offer respite with chairs under a shade canopy and beverages in an icebox. Workers from the Jeonnam Gwangju Seed Management Office were observed resting in a 'mobile traditional hut' near their worksite. Record-breaking...",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Heatwave",
+        "Farmer",
+        "Mobile traditional hut",
+        "Shelter",
+        "Jeonnam Seed Management Office"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전남종자관리소 1t 트럭에 ‘이동식 원두막’ 설치원거리 쉼터 대신 좁은 농로 오갈 수 있게 만들어그늘막에 의자, 아이스박스엔 음료로 휴식 제공전남광주종자관소 소속 노동자들이 작업 현장 인근에 설치된 ‘이동식 원두막’에서 휴식을 취하고 있다. 전남광주종자관리소 제공.기록적인 폭염에도 논밭으로 나가 일해야 하는 농민들을 위해 만든 ‘이동 원두막’이 눈길을 끈다···"
+    },
+    {
+      "id": "41",
+      "title": "Southern Regions Parched by Heatwave; August-September Rainfall Forecast Below Average",
+      "original_title": "폭염에 바싹 말라 ‘목타는 남부’···“8~9월 강수량 평년보다 적다”",
+      "url": "https://www.khan.co.kr/article/202608091200021/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-09T03:00:02",
+      "description": "Drought 'caution' issued for southern Gyeongbuk and Gyeongnam, with 'alert' status for Busan and Gimhae. Cumulative precipitation in the Busan, Ulsan, and Gyeongnam regions remains at 62.5% of the annual average. The government is initiating measures such as reservoir replenishment and deployment of water trucks. As of July 29, Baek-an Reservoir in Muan-myeon, Miryang-si, Gyeongnam, was observed to be dry. Concerns are rising about the deepening drought in the southern regions as August-September precipitation is projected to be below average.",
+      "summary": {
+        "phenomenon": "Drought conditions have emerged in the southern Gyeongbuk and Gyeongnam regions, with areas like Busan and Gimhae reaching an 'alert' stage. Cumulative precipitation in the Busan, Ulsan, and Gyeongnam regions is only 62.5% of the annual average. On July 29, Baek-an Reservoir in Muan-myeon, Miryang-si, Gyeongnam, was observed to be critically low.",
+        "cause": "Not mentioned in the article",
+        "outlook": "With August-September precipitation projected to be below average, concerns are rising about the deepening drought in the southern regions. The government is actively pursuing measures such as reservoir replenishment and the deployment of water trucks."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Drought",
+        "Southern regions",
+        "Precipitation",
+        "Heatwave",
+        "Reservoir"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경북 남부·경남 가뭄 ‘주의’···부산·김해 등 ‘경계’부·울·경 누적 강수량 평년 62.5% 수준 그쳐정부, 저수지 채우기·급수차 동원 등 추진 나서지난달 29일 경남 밀양시 무안면 백안저수지가 가물어 있다. 밀양|권도현 기자8~9월 강수량이 평년보다 적을 것으로 전망되면서 남부지방의 가뭄이 심화될 것으로 우려된다.9일 행정안전부가 발표한 8월 가뭄 예····"
+    },
+    {
+      "id": "42",
+      "title": "말레이시아의 기후 변화, 청년층에 압박 가중 - 사우스 차이나 모닝 포스트",
+      "original_title": "Climate change in Malaysia turns up heat on youth - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVndNbFVpeFdUV296anJRT0daMUstQ0k4dkxpT2N2dXc1elZDcjNQSEZlcGZFdmdfaU42REpfeXV6dy03dl83V3ZiZjVTM1h4VGFKZERWbmt3aktmVktIVTk2RzFrX202MWtneWtTMmU0WjlNLXZiWUdZRXN1bXR0SW1oYWk4M0RSRUs2ZmpmWG1ITkhMQk03WWtMY3FiUmZPanU4b2VNRnJpeXhWYkJEaWFMTdIBswFBVV95cUxNU3l0eUEtTGtZVTFPWEM3WjU1NHBCVEpHSVF4N2FzWS1LRFMyUVpnZGRJbVZCRWNqNEhwR2k2RVpaOE9vb0wyWF9ibk1FWW9SeVdLR0VrOGpHbHpZUHpJVG9fNFhzdjA1SGJXc1BsTGVndEJUaXB0WlBaOHRIcnB5OUhYREpqSHplamRmYldIc3VKRFFrTVd3c3phUjJHTjJlS3ZUU2F4cFkxcThuSDVBNGQ0aw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T02:00:09",
+      "description": "Climate change in Malaysia turns up heat on youth South China Morning Post",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change is projected to intensify pressure on the youth in Malaysia."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Malaysia",
+        "Youth",
+        "Impact",
+        "Pressure"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change in Malaysia turns up heat on youth South China Morning Post"
+    },
+    {
+      "id": "43",
+      "title": "기후 변화가 농부들을 어떻게 '정신적으로 파괴하는가'",
+      "original_title": "How climate change is ‘mentally destroying’ farmers - Channel 4 News | Substack",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTzBEUm1lcmRtUUZEdkpjaVg3bGZ1bkdMMkhwNkNEVUVyaDNJaks2X3R5aC1IUDRtTUtjMm4tV0h6Rk5oUlZwbGlqNC1sdHlQaGUwcTZHNkViOUZ5ZGsyX2t1NF9tQnI3YXNiUHV5SXVEX1pyTmFnWXV5N1Z4bjlZMG01Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T08:02:17",
+      "description": "How climate change is ‘mentally destroying’ farmers Channel 4 News | Substack",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change is anticipated to inflict mental distress upon farmers."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Farmers",
+        "Mental health",
+        "Destruction",
+        "Suffering"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change is ‘mentally destroying’ farmers Channel 4 News | Substack"
+    },
+    {
+      "id": "44",
+      "title": "유엔, 기후 변화 및 에너지 가격 인상으로 인한 식량 가격 상승 경고",
+      "original_title": "UN warns of rising food prices due to climate change and energy price hikes - Jurist.org",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlpqY1ZRZTgta2l4M3BGQks0MFVHME9Pb0dacHFJS0drYW9SSTA4LThTdWY5UEhEZnRSd1l2TnltNkZzWEUxMlpxaW90OVBzc0U3ODVHSk9IRzZiVDB4d3UzNFhWS3dwT190aGxIYmFuUGZETTljWUZmelNFUG9zWG85V0tCWVpYWE9jN2FhVXc4ZFdBSEs2SWw3X21nX0Z5WVRvSnlWZTl2VzNuMy1JOHhR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-08T21:13:06",
+      "description": "UN warns of rising food prices due to climate change and energy price hikes Jurist.org",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "The UN has warned that food prices are expected to rise due to climate change and energy price increases."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "UN",
+        "Food prices",
+        "Climate change",
+        "Energy prices",
+        "Warning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "UN warns of rising food prices due to climate change and energy price hikes Jurist.org"
+    },
+    {
+      "id": "45",
+      "title": "Why Write About Climate Change? - CounterPunch",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxZTd4M0t5Zy0zMWV6bVFlNzFLOXlPUmxfMUxrcExxbDhWcjlFb0RxWGxHTThUQm1Yb0Q1OERWOHlRTV9FT2hGU3lCYmhHSnE0c3hLS3FxanZxVU56VjlzdTU0bDNyaVEtaFNOYUlxYVQ0cmRLVHpzLXQtYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T06:01:02",
+      "description": "Why Write About Climate Change? CounterPunch",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why Write About Climate Change? CounterPunch"
+    },
+    {
+      "id": "46",
+      "title": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG5GaWRBUWgtT3pOUHVoeHMxM1RMTmtzeEhqRHF5bzFhbUNyWkt2VHJHN0dMeFNpX0NEVVZHZk1paWZDMDhOZTBfVkp3LXdrVDd4OUdMVUxMaW9VOUh0eHozSzJTX0hjb1NMUDB4WUpUV0loWFRoaUdxdnZNQmM2OA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-08T17:40:04",
+      "description": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach Phys.org",
+      "summary": {
+        "phenomenon": "Globally, butterfly habitats are shifting, with most species observed to be expanding their range.",
+        "cause": "Climate change has been identified as the underlying cause of these shifts in butterfly habitats.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Butterfly ranges shift worldwide amid climate change, with most species expanding their reach Phys.org"
+    },
+    {
+      "id": "47",
+      "title": "사이클로스포라와 기후 변화에 대해 알아야 할 4가지 - 더 굿 멘 프로젝트",
+      "original_title": "4 Things to Know About Cyclospora and Climate Change - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX1gyN2Z3dUJtNV9NQkFoY3lLV0RRbkVNYmE4eDBzMG5qQXdLdDl6S0F0cWdWNVhfV1pka0p5ajY4RGlRckNzTHFXbnMtRE5RRGhzenJCT2Z3WVdqdnJ3RDVOSEpLX0hvd00zVzg2UTMtRWxXdUd2b1g1S2cwbkkyMjVPcWRfN29PdVRQU2N5bm9MX3d0Vm1OU29DUXVGZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-08T21:08:50",
+      "description": "4 Things to Know About Cyclospora and Climate Change The Good Men Project",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Cyclospora",
+        "Climate change",
+        "Disease",
+        "Health",
+        "Environment"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "4 Things to Know About Cyclospora and Climate Change The Good Men Project"
+    },
+    {
+      "id": "48",
+      "title": "기후 변화, 캐나다 산불 조건 발생 가능성 두 배로 늘려... 연구",
+      "original_title": "Climate change doubled likelihood of Canada fire conditions, study says - The Climate Watch",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1RNSm5KcmNseUtVeF9FREJGeXhmV3phVm54Ykw3UGV4eTNUNS12bHhRa3hJcVE1QWdKdkFBQkRxemhOcUxVNWdhRS1RQWpxdEVNQ1FvNjh2a0VIOHE0bWdhUWY2aDdsY3UtU1N4cXJ4ejlUaUQ0NVd0UEFUUmJ4RUtNTXJjSndnc2FjYko5R3BFY00wWERLRkVVaVN0UUpP?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T04:00:00",
+      "description": "Climate change doubled likelihood of Canada fire conditions, study says The Climate Watch",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "A study indicates that climate change has doubled the likelihood of conditions conducive to wildfires in Canada.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Canada",
+        "Wildfire",
+        "Likelihood",
+        "Study"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change doubled likelihood of Canada fire conditions, study says The Climate Watch"
+    },
+    {
+      "id": "49",
+      "title": "기후 변화의 대가를 치르는 사람들",
+      "original_title": "Those who pay for climate change - The News Pakistan",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BekxsSHNOaE1OUGVXTTdLM293ZGZobU9iMEwzSnBNQjcxZW5sdVlyYzZYWXZUTnVfQU1hNld5MGk0ZlpjNURhTzRTOFMxX3p6Z3B0ckNQYzRsU2EydjNVSXdaNUhnZFNFc21CYlpzNGctYkczZFRkTVVuLTFqRFk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T04:41:32",
+      "description": "Those who pay for climate change The News Pakistan",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Cost",
+        "Burden",
+        "Pakistan",
+        "Payment"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Those who pay for climate change The News Pakistan"
+    },
+    {
+      "id": "50",
+      "title": "Plastics contamination an ‘overlooked’ concern in food waste schemes, experts say",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research",
+      "source": "guardian_climate",
+      "published_at": "2026-08-09T05:00:06",
+      "description": "Researchers find microplastics can persist in compost, leaching into agricultural soilsPlastic contamination should be a central concern in efforts to deal with food waste, which campaigners call one of the most overlooked problems of the climate crisis, researchers have said.This is despite the fact that, as the chef, author and activist Max La Manna puts it, food waste management is “one of the few climate problems where everyone wins”. Continue reading...",
+      "summary": {
+        "phenomenon": "Researchers have confirmed the persistent presence of microplastics in compost, noting their potential to leach into agricultural soils.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Experts argue that plastic contamination should be a central concern in food waste management efforts, which they identify as one of the most overlooked issues of the climate crisis."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Researchers find microplastics can persist in compost, leaching into agricultural soilsPlastic contamination should be a central concern in efforts to deal with food waste, which campaigners call one of the most overlooked problems of the climate crisis, researchers have said.This is despite the fact that, as the chef, author and activist Max La Manna puts it, food waste management is “one of the few climate problems where everyone wins”. Continue reading..."
+    },
+    {
+      "id": "51",
+      "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
+      "source": "guardian_climate",
+      "published_at": "2026-08-08T19:21:14",
+      "description": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027El Niño, a recurring climate phenomenon marked by above-average sea surface temperatures, when changes in wind patterns allow warmer water to spread across the central and eastern equatorial Pacific, could spell a wet winter for portions of the western and south-eastern US, climate models show. Coastal areas may be at elevated risk of flooding, experts warn.Climate scientists pr",
+      "summary": {
+        "phenomenon": "Climate models predict that the El Niño phenomenon, expected to persist until early spring 2027, could lead to a wet winter in parts of the western and southeastern United States this fall and winter, increasing the risk of flooding in coastal areas.",
+        "cause": "This phenomenon is associated with above-average sea surface temperatures, as warmer water spreads across the central and eastern equatorial Pacific due to changes in wind patterns.",
+        "outlook": "A wet winter is anticipated in parts of the western and southeastern United States, with coastal areas facing an elevated risk of flooding."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027El Niño, a recurring climate phenomenon marked by above-average sea surface temperatures, when changes in wind patterns allow warmer water to spread across the central and eastern equatorial Pacific, could spell a wet winter for portions of the western and south-eastern US, climate models show. Coastal areas may be at elevated risk of flooding, experts warn.Climate scientists pr"
+    },
+    {
+      "id": "52",
+      "title": "'이것은 산불이 아니라 인재다': 던위치, 황폐화에 대해 고찰하다",
+      "original_title": "‘These are human fires, not wildfires’: Dunwich reflects on the devastation",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/09/these-are-human-fires-not-wildfires-dunwich-reflects-on-the-devastation",
+      "source": "guardian_climate",
+      "published_at": "2026-08-09T06:00:07",
+      "description": "As residents, nature wardens and experts consider the damage to the heathland and how to restore it, the climate crisis is foremost in their mindsA local community pulling together, emergency services saving homes and caravan parks from catastrophe, and farmers and nature reserve wardens working to rapidly create fire breaks to halt a marauding fireball 40 metres high – there was plenty to praise the week after a swathe of east Suffolk burned.But local people were also in tears at the blackened,",
+      "summary": {
+        "phenomenon": "Recently, a massive 40-meter-high fireball swept through the East Suffolk region, severely damaging the heathland.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Local residents, nature wardens, and experts are assessing the damage to the heathland and exploring restoration methods."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Fire",
+        "Devastation",
+        "Climate crisis",
+        "Man-made disaster",
+        "Heathland"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "As residents, nature wardens and experts consider the damage to the heathland and how to restore it, the climate crisis is foremost in their mindsA local community pulling together, emergency services saving homes and caravan parks from catastrophe, and farmers and nature reserve wardens working to rapidly create fire breaks to halt a marauding fireball 40 metres high – there was plenty to praise the week after a swathe of east Suffolk burned.But local people were also in tears at the blackened,"
+    }
+  ],
+  "summary": {
+    "total_count": 52,
+    "domestic_count": 41,
+    "international_count": 11,
+    "top_keywords": [
+      "Heatwave",
+      "Climate change",
+      "Drought",
+      "Carbon neutrality",
+      "Climate change"
+    ],
+    "sentiment_breakdown": {
+      "positive": 21,
+      "negative": 25,
+      "neutral": 1
+    },
+    "original_top_keywords": [
+      "폭염",
+      "기후 변화",
+      "가뭄",
+      "탄소중립",
+      "기후변화"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
