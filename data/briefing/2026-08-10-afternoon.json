@@ -1,0 +1,4395 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:27:57.795245",
+  "briefing": {
+    "opening": "안녕하십니까. 2026-08-10 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 전례 없는 기후 위기, 복합 재난의 시대",
+        "content": "지난달 세계 바닷물 온도가 역대 최고치를 기록하며 지구의 온난화가 가속화되고 있음을 경고했습니다 [2, 8, 20, 29, 35, 38, 46, 49, 161]. 국내에서는 극심한 폭우 뒤 극한 폭염이 이어지는 '복합재난'이 과거 30년 대비 3배 이상 증가하며 시민들의 삶을 위협하고 있습니다 [3, 15, 26, 28, 34, 45]. 유럽은 기록적인 폭염으로 인해 경제적 피해가 눈덩이처럼 불어나고 있으며, 원전 가동 중단, 운송 차질 등 심각한 영향을 겪고 있습니다 [5, 6, 29, 53, 163, 168, 171, 172, 177, 181]. 폭염은 생물학적 노화를 가속화하고 [16, 40], 캐나다에서는 통제 불능 산불로 수천 명이 대피하는 등 전 세계적으로 기후변화의 가혹한 현실이 우리의 눈앞에 펼쳐지고 있습니다 [183]. 국내 농작물인 '일천궁'이 기후변화로 피해를 입는 등 식량 문제와 에너지 위기가 더욱 심화될 수 있다는 우려도 제기됩니다 [4, 22].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 기후 변화 대응을 위한 국내외 노력과 진전",
+        "content": "기후변화의 심각성에 대한 인식을 높이기 위해 기상청 주관의 '기후변화과학 퀴즈대회'가 성황리에 마무리되었고 [1, 9, 12, 30], 국회부산도서관에서는 '기후의 장면들' 전시가 개막되는 등 교육과 문화 활동이 활발합니다 [7]. 폭염과 집중호우에 대비하여 인천시의 하천 정비, 고성능 창호 부상, 그리고 국회 기후특위에서 '기후보험' 도입법과 '기후위기 적응법'이 통과되는 등 실질적인 적응 노력이 이어지고 있습니다 [13, 14, 23, 24, 25, 31, 37, 39, 44, 48]. 서산시의 스마트과수원 조성, 안성시의 지역특화 양파 재배기술 교육, 제주 만감류 노지 재배 가능성 검증 등 농업 분야에서도 기후변화 대응을 위한 혁신적인 시도가 이루어지고 있습니다 [11, 18, 19]. 한국기후변화연구원의 '컴퓨터·전등 OFF' 챌린지 [10, 76]와 키움증권의 '걸음 기부' 캠페인 [56, 75, 97]처럼 일상생활 속 탄소중립 실천을 독려하는 움직임도 확산되고 있습니다.",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ 재생에너지 전환의 가속화와 당면 과제",
+        "content": "국내 기업 이렘은 원픽이앤씨를 인수하며 신재생에너지 발전 및 ESS 사업을 확대하고 [98, 99, 100, 105, 109, 113, 117, 147, 153], 경기도는 팔당 상류 지역의 재생에너지 사업에 219억 원을 공모하는 등 재생에너지 확대 노력이 이어지고 있습니다 [101, 112, 119, 120, 125, 126, 129, 133, 137, 141, 145, 149]. 그러나 동남아시아에서는 재생에너지 사업의 절반이 전력망 병목 현상으로 좌초되는 사례가 발생하며 [121], 국내에서도 가로림만 해양생태공원 주변 재생에너지 시설의 난립을 막기 위한 이격거리 규제 법안이 발의되는 등 [108, 110, 115, 116, 118, 124, 131, 135, 136, 143, 146, 150, 154] 무분별한 개발에 대한 우려가 커지고 있습니다. 네덜란드 로테르담 항구의 무르데이크 마을이 풍력발전 확장으로 존폐 위기에 놓이는 등 [162], 친환경 에너지 시설 도입 시 지역 사회와의 상생 방안 모색이 중요함을 시사합니다. 또한, 아마존 AI 데이터센터가 연간 3300만 톤의 탄소를 배출한다는 논란 [78]은 디지털 전환 시대에 에너지 효율성과 탄소 배출량 관리가 필수적임을 보여줍니다.",
+        "tone": "warning"
+      },
+      {
+        "title": "🇰🇷 탄소중립 사회로의 전환: 정책과 시민 참여",
+        "content": "국내외적으로 탄소중립 실현을 위한 다양한 정책적 노력이 진행되고 있으며, 국회 기후특위에서는 탄소중립기본법심사소위원회가 열려 관련 법안을 심도 있게 논의하고 있습니다 [84, 85, 94]. 광명시와 소상공인이 '기후의병 가맹점'을 확대하고 전자영수증 발급을 통해 생활 속 탄소중립을 실천하며 [59, 60, 61, 65, 68, 71, 79, 80, 87], 진천군이 탄소중립 녹색성장 거점으로 도약하는 등 [58, 72, 73, 82, 86, 91] 지역 사회의 참여가 활발합니다. 청소년들은 현재의 탄소중립법을 '60점짜리'라고 평가하며 국회에 재개정을 촉구하는 등 [55, 64], 미래 세대의 목소리가 정책 결정에 중요하게 반영되어야 할 필요성을 강조합니다. 한편, 기초지자체들의 탄소중립계획에 대한 첫 성적표에서 과학적 근거 부족이 지적되는 [66] 등, 탄소중립 목표 달성을 위한 보다 구체적이고 실효적인 계획 수립의 중요성이 부각되고 있습니다.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘의 브리핑은 전례 없는 기후 위기 속에서도 지속되는 국내외의 다양한 대응 노력과 함께, 재생에너지 전환의 과제, 그리고 탄소중립 사회로의 전환을 위한 정책적, 시민적 참여의 중요성을 다시 한번 상기시킵니다. 이상으로 2026-08-10 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "[환경소식]“미래 세대의 기후 지식 겨루기” 기상청, ‘제3회 기후변화과학 퀴즈대회’ 마쳐 - 에너지경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yTUNJMXo3LTVPMWJvRzJPWG5nU2ZIYnU3SUxjMFBORE5VZVJDTUxzaml6RHhYa1ctSzM5aDZMcUxRMHhyUHZYWHJZallyVHVQUWd1bi14T0JpdW1xcU9RZ1ZhTQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T09:01:55",
+      "description": "[환경소식]“미래 세대의 기후 지식 겨루기” 기상청, ‘제3회 기후변화과학 퀴즈대회’ 마쳐 에너지경제신문",
+      "summary": {
+        "phenomenon": "기상청이 '제3회 기후변화과학 퀴즈대회'를 마쳤습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기상청",
+        "기후변화과학",
+        "퀴즈대회",
+        "미래 세대",
+        "기후 지식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 - 연합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14SXRSNjdLSDdEaEtuQTN6X1k2alYxWk1KTjgwYUVjOEhLbW1tOW9kSGw0UlRsQTNxeGdKcW5ya1NQaUQtOVdQeFpteUxPdlo0RDJUTlhFMlM0aFHSAWBBVV95cUxOQUh5a1FFaTFfNmhkMjJ2RDhwajJBT0Q4TGNQbDlWZzBFbVJiUWZMTEI5Y2tfRWZTNzIwVXRnb0wwS1NpU00xOWFueU5TR1RWSVVsV3Z5WVNnc0UzTzB2cjM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:51:22",
+      "description": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 연합뉴스지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 연합뉴스TV뜨거워진 바다·메마른 유럽… 7월 기후 기록 잇따라 경신 - 조선비즈 Chosunbiz",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물 온도가 역대 최고치를 기록했습니다.",
+        "cause": "이 현상은 엘니뇨와 기후변화의 영향으로 발생했습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "바닷물 온도",
+        "역대 최고",
+        "엘니뇨",
+        "기후변화",
+        "기후 기록 경신"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "괴물 폭우 뒤 극한 폭염…기후변화에 ’복합재난’ 3배 증가 - 연합뉴스TV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uNENwUWZNaWJ1c0FvNXV4ZTg2R2hJSFNkVXA5YTlmQnZOWVJJa3ZweXVsTXU1eEh0eXZxMW1lMU1IczdLcFA4Q0EwNkxEcVp0ZzFSZEFaY2FBYUNSM190a2JuUTFRYUk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:52:00",
+      "description": "괴물 폭우 뒤 극한 폭염…기후변화에 ’복합재난’ 3배 증가 연합뉴스TV",
+      "summary": {
+        "phenomenon": "극심한 폭우 이후 극한 폭염이 이어지는 등 복합재난이 3배 증가했습니다.",
+        "cause": "이러한 복합재난 증가는 기후변화에 기인합니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "복합재난",
+        "폭우",
+        "폭염",
+        "재난 증가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "기후변화 피해 본 '일천궁'…농진청, 주산지 복원 나선다 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tMmZmcndIeUFucFo5SUk4aUJDMnp4WlU5azJBcDFHVEJNZ3ZTS1NUQmZKbk5rekY3XzkzRVMwNS1ISEo5RW1jWTdRZGNaUTNBRFZhY3YzSWlTd0FTQVEtT9IBeEFVX3lxTE1CYnE2SmZsbnduZmU3eEEzeHNFZXVwWU1TWTR5VUg3Rkl5LVlUUm54ajVqbDN5UmJDMnhZTnB3RTBMZ01qb2lKeWNwZ2otbnJlQ2VJTkVsblJOdXJiMENLNlNQcEUydy0zNm9VMzlQWTBtbFBiamk2bA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T02:00:00",
+      "description": "기후변화 피해 본 '일천궁'…농진청, 주산지 복원 나선다 뉴시스",
+      "summary": {
+        "phenomenon": "'일천궁'이 기후변화로 인해 피해를 입었습니다.",
+        "cause": "피해의 원인은 기후변화입니다.",
+        "outlook": "농촌진흥청은 '일천궁'의 주산지 복원에 나설 예정입니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "유럽 경제에 기후변화 피해 비용 '눈덩이', 원전 가동 중단과 운송 차질 등 영향 - 비즈니스포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKVDFXNkNKbVZycXhSRXE1QUZ5dnFPTHB4STB4b09CTHRaVFFaeUJ2QjJ5ejlhczNSNlZ1VjlJcTU0Q2FxRFdrY0RuQnBHcDlxbmdjR3dnRGFGcGl0cFNlcXpDbURORUFjY0c1QTVWbzduTFk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:56:17",
+      "description": "유럽 경제에 기후변화 피해 비용 '눈덩이', 원전 가동 중단과 운송 차질 등 영향 비즈니스포스트",
+      "summary": {
+        "phenomenon": "유럽 경제에서 기후변화로 인한 피해 비용이 눈덩이처럼 불어나고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이는 원전 가동 중단과 운송 차질 등의 형태로 유럽 경제에 영향을 미치고 있습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽 경제",
+        "기후변화",
+        "피해 비용",
+        "원전 가동 중단",
+        "운송 차질"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "원전 멈추고 배도 못 뜬다…기후변화가 초래한 R의 공포 - 아시아경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HMUxLcERFYy00U0RoR1hvTVdlVm1VR1U0c3otZlpZQl9tUmhSd2xwdmVhVWlQS3pfMHdsTldWT25XR2d2ajd2RnZocTgxT1BQOU1GQURGUmk1bUdjTWFaeg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T23:38:49",
+      "description": "원전 멈추고 배도 못 뜬다…기후변화가 초래한 R의 공포 아시아경제",
+      "summary": {
+        "phenomenon": "기후변화로 인해 원전이 멈추고 배가 운항하지 못하는 상황이 발생했습니다.",
+        "cause": "이러한 현상은 기후변화가 초래한 것입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "원전",
+        "운송 마비",
+        "경제 위기",
+        "공포"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "국회부산도서관, 기후변화 담은 '기후의 장면들' 전시 개막 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80SHJybWtDVGJFWk9Cc0NyZVZycnJWOFlDSWFScldzM1BucThWUWhucko0QTh1Y3ZVbkZTY1VrWWdLNDdJOFktaG13S1RqaFBFVzhPaGkzcHpxNUJOVXhjTEZuemFhQ1p5QUlrVHl3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:34:02",
+      "description": "국회부산도서관, 기후변화 담은 '기후의 장면들' 전시 개막 gukjenews.com",
+      "summary": {
+        "phenomenon": "국회부산도서관에서 기후변화를 주제로 한 '기후의 장면들' 전시가 개막되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국회부산도서관",
+        "기후변화",
+        "전시",
+        "기후의 장면들",
+        "개막"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tOHp3UXRuNWJfWktSRE82MkhpeTRoaXpsX01nYkhpYTVqT0xwSnRqXzRydjYyZVlRYWxBOUFFcV95VVhUUjJPakRwTElyVk0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:12:00",
+      "description": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 v.daum.net",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물 온도가 역대 최고치를 기록했습니다.",
+        "cause": "이 현상은 엘니뇨와 기후변화의 영향으로 발생했습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "“기후변화, 퀴즈로 배워요”··· 중학생 418명 골든벨 도전 - 환경일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wME5ZUUlCY2pNRVF0REM1eTVjRXhlQmtuUjRRMGg5aEM3N2Y3NzFWbWQ4MU1fUTFWUldUOEZ0SGgxczVBNUpJSTU1TlM3RWI1d0tQLXZPTVg3czgwWEJVR1Z6Y000eUt6?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:50:16",
+      "description": "“기후변화, 퀴즈로 배워요”··· 중학생 418명 골든벨 도전 환경일보",
+      "summary": {
+        "phenomenon": "중학생 418명이 기후변화를 퀴즈로 배우는 '골든벨' 도전에 참여했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "퀴즈",
+        "중학생",
+        "골든벨",
+        "학습"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "한국기후변화연구원, ‘컴퓨터·전등 OFF’ 챌린지 - 강원도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qWl9wSUpUaHExeFFWUmNJSW4xZUJ4TDkweDJtZ09MM2FLMzdIYTNEdEVHWEttSUE4cHFEWW1PeUNobzdsaVRGZEVNdzZqZFBpOVJPTmEyelh3Qnc0Y1pBR2NWX2VrM3c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:26:11",
+      "description": "한국기후변화연구원, ‘컴퓨터·전등 OFF’ 챌린지 강원도민일보",
+      "summary": {
+        "phenomenon": "한국기후변화연구원이 '컴퓨터·전등 OFF' 챌린지를 시작했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국기후변화연구원",
+        "OFF 챌린지",
+        "에너지 절약",
+        "기후 행동",
+        "환경 캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "[제주] 기후변화 대응 국내 육성 만감류 노지 재배 가능성 검증 - 월간친환경",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWXdnYUFnQ2lRcXlHVzJvekVoUjFCWkplTXU5bmdSTTlERm9tY1hBRURsWGIxTHpLVnBGN2Rjb2lNOFk4UkVIWjl6dmtLOVpkdFFOSmZFYlNzV0hnbDlDMURNbXRjMlVjekxRUDFFZzRPZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:44:34",
+      "description": "[제주] 기후변화 대응 국내 육성 만감류 노지 재배 가능성 검증 월간친환경",
+      "summary": {
+        "phenomenon": "제주에서 국내에서 육성된 만감류의 노지 재배 가능성이 검증되고 있다.",
+        "cause": "기후변화에 대응하기 위한 목적으로 진행되고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "제주",
+        "기후변화 대응",
+        "만감류",
+        "노지 재배",
+        "가능성 검증"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "기상청, 제3회 기후변화과학 퀴즈대회 개최⋯1500명 참여 - 이투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HbU9xZHNTUHNRbzVfRkpBODcwTlRDMnVxS0VPSktzMmpXZ25DaDl1WFZ4eHV2Nnc4S1RQaG9kS3AtUVlGYjFVbVI3NHJEWTlrMVpvSw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:19:00",
+      "description": "기상청, 제3회 기후변화과학 퀴즈대회 개최⋯1500명 참여 이투데이",
+      "summary": {
+        "phenomenon": "기상청이 제3회 기후변화과학 퀴즈대회를 개최했으며, 1500명이 참여했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기상청",
+        "기후변화과학",
+        "퀴즈대회",
+        "개최",
+        "참여"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "인천시, 기후변화에 따른 집중호우 대응능력 강화된 하천으로 재탄생 - 환경포커스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xWW15WjN3b2dmN2lPQkRDeHVXRktJNVJycDJVbzZ0QmVjS1RFWXIwUXFjb0ppSjE3aUxEWUNCdGJnelUyOE1aSGFGVFBibEJQcjVubllZaE1xNFh5NWlxdjhoMWk0QQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:26:34",
+      "description": "인천시, 기후변화에 따른 집중호우 대응능력 강화된 하천으로 재탄생 환경포커스",
+      "summary": {
+        "phenomenon": "인천시의 하천들이 기후변화에 따른 집중호우 대응 능력이 강화된 형태로 재탄생하고 있다.",
+        "cause": "기후변화로 인한 집중호우에 대응하기 위함이다.",
+        "outlook": "강화된 대응 능력을 통해 집중호우로 인한 피해를 줄일 수 있을 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천시",
+        "기후변화",
+        "집중호우",
+        "하천",
+        "대응능력 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "장마 이후 찾아온 역대급 폭염… 여름철 기후 변화 대응하는 고성능 창호 부상 - dhns.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZnBWQTloZXpKVTVXX0VObEEtWWFuMGtENDA0aE9mSGh1blI0S0RlMXM0cHN1MFJKamZ5Y1dSVm9WTEVPNmZXaEo3c3NxWHhuZ3lOdldPSWdaR2dWWUZITFFPb0Q1aGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:16:05",
+      "description": "장마 이후 찾아온 역대급 폭염… 여름철 기후 변화 대응하는 고성능 창호 부상 dhns.co.kr",
+      "summary": {
+        "phenomenon": "장마 이후 역대급 폭염이 찾아왔다.",
+        "cause": "여름철 기후 변화에 따른 현상으로 언급된다.",
+        "outlook": "여름철 기후 변화에 대응하기 위해 고성능 창호의 중요성이 부상하고 있다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "기후 변화",
+        "고성능 창호",
+        "여름철",
+        "대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "괴물 폭우 뒤 극한 폭염…기후변화에 '복합재난' 3배 증가 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TMXlPMUF6b3pRcTc1dFItcm9ibkhBUHJDbThid0xxVW9tMTRQQTE2dlAtVUVINHhLTmVNZWhUb0hhUjZiSkt2OTB1dUYyRkd5MWRfQWs5cmgzc2I5UWc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:53:00",
+      "description": "괴물 폭우 뒤 극한 폭염…기후변화에 '복합재난' 3배 증가 네이트",
+      "summary": {
+        "phenomenon": "괴물 폭우 뒤 극한 폭염이 이어지는 현상이 발생하고 있으며, '복합재난'이 3배 증가했다.",
+        "cause": "기후변화가 이러한 복합재난 증가의 원인으로 지목된다.",
+        "outlook": "기후변화로 인해 극한 폭우와 폭염이 연이어 발생하는 복합재난이 더욱 증가할 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "복합재난",
+        "폭우",
+        "폭염",
+        "재난증가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "폭염 한 번 ‘맞으면’ 6개월 늙는다…과체중에 도시 살면 더 위험 - 한겨레",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zdHlmUnpxZG1KbnZla3U5eWZlaE9JSHdtTEdzZDdRN2tycWhKdE50eHkyWDNJZlN4djAxNThjcUpjM3NTTFJWbFduWk5NQ2pRUmZvWkpNNDN6SUZOQW1Hb3p5MHJkZURqNTc1NEtIUFlsQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:17:00",
+      "description": "폭염 한 번 ‘맞으면’ 6개월 늙는다…과체중에 도시 살면 더 위험 한겨레",
+      "summary": {
+        "phenomenon": "폭염을 한 번 겪으면 생물학적으로 6개월 더 늙는 효과가 나타나며, 과체중이거나 도시에 거주하는 경우 위험이 더 크다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "과체중이거나 도시에 사는 사람들은 폭염으로 인한 건강 위험에 더 취약할 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "노화",
+        "과체중",
+        "도시",
+        "위험"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "17",
+      "title": "[키움증권 ESG-E] 탄소 효율 높이고 기후 리스크 관리…환경경영 체계화 - PRESS9",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uNmtOZ2NiOXVlR0tEaEVjYl9qNE9XcENDRFE4TlFGVkxlSlJCMnFyUzJoSXVhS01SQ2ZhWkp3N2Z2R0w5V0V1eWlZeUlKVjhYTUpNNFd5bXllWU5SRThKd3pBaFk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T04:19:53",
+      "description": "[키움증권 ESG-E] 탄소 효율 높이고 기후 리스크 관리…환경경영 체계화 PRESS9",
+      "summary": {
+        "phenomenon": "키움증권이 탄소 효율을 높이고 기후 리스크를 관리하며 환경경영을 체계화하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "환경경영 체계화를 통해 탄소 배출을 줄이고 기후변화 관련 리스크에 선제적으로 대응할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "키움증권",
+        "ESG-E",
+        "탄소 효율",
+        "기후 리스크",
+        "환경경영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "18",
+      "title": "서산시, ICT 접목 ‘스마트과수원’ 조성…기후변화 대응 사과산업 전환 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02RkhlMDRoOTJoVzJrSGpMcTBHcTVXMW5FS2puam1iQXNteTV6T1MtVUpvb3dGZlQ1ZGkteTRRWUduQzRhTVNIamtQcDJtd0V2TDh4ZWR5MFg5bjBTZzREQ01Ec2w?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T01:37:15",
+      "description": "서산시, ICT 접목 ‘스마트과수원’ 조성…기후변화 대응 사과산업 전환 매일일보",
+      "summary": {
+        "phenomenon": "서산시가 ICT를 접목한 '스마트과수원'을 조성하며 사과산업을 전환하고 있다.",
+        "cause": "기후변화에 대응하기 위한 목적으로 진행되고 있다.",
+        "outlook": "스마트과수원 조성을 통해 기후변화 속에서도 사과산업의 지속 가능성을 확보할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "서산시",
+        "ICT",
+        "스마트과수원",
+        "기후변화 대응",
+        "사과산업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "19",
+      "title": "안성시, 기후변화 대응 위한 지역특화 양파 재배기술 교육 성료 - 경기종합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsaDRsWTFDNGdRb3M0OEZoMFcxLU51Yk9jalZaTGFobzVoYmktNExza2owYTdpMWRsdHBya0xpaDYtZTh0QUlRU1RXSnZNV3hfbF8zeEE1VTJKM1Y1eFpKZXBHTjZ0Qm5ablJSRnJ6STU4clE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T02:48:11",
+      "description": "안성시, 기후변화 대응 위한 지역특화 양파 재배기술 교육 성료 경기종합뉴스",
+      "summary": {
+        "phenomenon": "안성시가 기후변화에 대응하기 위한 지역특화 양파 재배기술 교육을 성공적으로 마쳤다.",
+        "cause": "기후변화로 인해 양파 재배에 어려움이 발생하거나 새로운 기술이 필요해졌기 때문이다.",
+        "outlook": "교육을 통해 지역 농민들이 기후변화에 적합한 양파 재배 기술을 습득하여 생산성을 유지하거나 향상시킬 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "안성시",
+        "기후변화 대응",
+        "양파 재배기술",
+        "지역특화",
+        "교육 성료"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "20",
+      "title": "지난달 세계 바닷물 역대 가장 따뜻했다…“엘니뇨·기후변화 영향” - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aSWwydTJxZ19VaEVaREU2Y1pkazNpTmJNNGJGNFhrMHR4VmJyZG1ndVlDU1lmWXJyTnBVazNIRW5MNWw3eVlXTXVzbWFvNGM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:06:50",
+      "description": "지난달 세계 바닷물 역대 가장 따뜻했다…“엘니뇨·기후변화 영향” v.daum.net",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물의 온도가 역대 가장 따뜻했던 것으로 기록되었다.",
+        "cause": "엘니뇨와 기후변화의 영향으로 분석된다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세계 바닷물",
+        "역대 최고",
+        "수온",
+        "엘니뇨",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "21",
+      "title": "기후대응위, ICCN 거버넌스 작업반 공동의장국 수임 - 기후에너지데이터뱅크",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uTDNZQkkzb3I5SVByMzk4TWFyYlFoUHo0cVFtWmxfaXZjYkRLczFpY0hOdFhwUHRFRnNzb1l1WmEtNHNrb3dBN2RIeTdiWnZEWVdDZmV1TXlkSDh6RkE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:10:02",
+      "description": "기후대응위, ICCN 거버넌스 작업반 공동의장국 수임 기후에너지데이터뱅크",
+      "summary": {
+        "phenomenon": "기후대응위가 ICCN 거버넌스 작업반의 공동의장국을 수임했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후대응위",
+        "ICCN",
+        "거버넌스 작업반",
+        "공동의장국",
+        "수임"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "[월드 이슈] 에너지 위기에 식량 문제까지?…혹독해진 기후위기 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84NjVKWWlkOHRzQVBQZVdKWTJGbEZaYWxyYVZWcTA3QkI0cDdBN2tweUNJdU5QcHRMM19USXRjR2M0b3hwTURQaDNra1JqM0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:33:54",
+      "description": "[월드 이슈] 에너지 위기에 식량 문제까지?…혹독해진 기후위기 v.daum.net",
+      "summary": {
+        "phenomenon": "전 세계적으로 에너지 위기와 식량 문제가 발생하며 기후위기가 더욱 혹독해지고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "에너지 위기",
+        "식량 문제",
+        "월드 이슈",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "“기후변화 기습 폭우 막는다”… 강화 교산천, 7년 만에 정비 완료 - 복지투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LVjhzOUJVZk1ldVViZ3VVUEVnNkMyZWJwa0VOVm9zMUV1dlVHMDFEdzlSWGJuUmdFY0pPbXlXNXlXdnM0YmRieWF0aGg1MWN6dURiOGRtc2drNDZORzYxN2tVd1Vtd1VDV1FDag?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T02:06:31",
+      "description": "“기후변화 기습 폭우 막는다”… 강화 교산천, 7년 만에 정비 완료 복지투데이",
+      "summary": {
+        "phenomenon": "인천 강화 교산천의 정비 사업이 7년 만에 완료되었습니다.",
+        "cause": "기후변화로 인한 기습 폭우에 대비하기 위함입니다.",
+        "outlook": "기후변화로 인한 기습 폭우를 막는 데 기여할 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화",
+        "기습 폭우",
+        "강화 교산천",
+        "정비 완료",
+        "폭우 방지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "인천시, 교산천 315억원 투입 정비 완료...기후변화 대응 기반 강화 - 경인매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wdzUxeVRrY2VtazRtNEs5eDI3QkxpRnFWM3F5QnA2WnNRMHVuYTZiZ09FQ1BBSUd5YWE5aDdSbWNPNzhrMk5yWHMxek4zejJqVElLSmctdEl5Tk4tSUcySGhQbm9lUzBH?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T03:22:12",
+      "description": "인천시, 교산천 315억원 투입 정비 완료...기후변화 대응 기반 강화 경인매일",
+      "summary": {
+        "phenomenon": "인천시가 교산천에 315억원을 투입하여 정비를 완료했습니다.",
+        "cause": "기후변화에 대응하기 위한 기반을 강화하기 위함입니다.",
+        "outlook": "기후변화 대응 기반이 강화될 것으로 예상됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천시",
+        "교산천",
+        "정비 완료",
+        "기후변화 대응",
+        "315억원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "인천 강화 교산천 수해상습지 개선 완료…“기후변화 대응력 높였다” - 아시아투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oc2hUYjdlVmVpOXEzc21aNTgzTmYzMG1SVDJlZ1ZXbnprSy1aa1RWdVhsSU90RmpVRDA3UlJUczBtb0ttd0laaUpDeTg3SVZaRXNLSERac3h0a09vQmtWY3V0RnhiSWJwWExsSUZB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T00:51:14",
+      "description": "인천 강화 교산천 수해상습지 개선 완료…“기후변화 대응력 높였다” 아시아투데이",
+      "summary": {
+        "phenomenon": "인천 강화 교산천의 수해상습지 개선 사업이 완료되었습니다.",
+        "cause": "기후변화에 대한 대응력을 높이기 위함입니다.",
+        "outlook": "기후변화 대응력이 높아질 것으로 예상됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천 강화",
+        "교산천",
+        "수해상습지",
+        "개선 완료",
+        "기후변화 대응력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "괴물폭우 직후 극한폭염…한국 '복합재난' 과거 30년보다 3배 증가 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1VaGcwb3ltSk9qYVdGclo3SXFrSUhLS2JRcXJYMUNaZThHZldONm5pTTMyMEdSV2YtZWNHdm5ua3JiYzVIcnh4TlRMaE9iVlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T02:26:00",
+      "description": "괴물폭우 직후 극한폭염…한국 '복합재난' 과거 30년보다 3배 증가 v.daum.net",
+      "summary": {
+        "phenomenon": "한국에서 괴물폭우 직후 극한폭염이 발생하는 '복합재난'이 과거 30년보다 3배 증가했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "복합재난",
+        "괴물폭우",
+        "극한폭염",
+        "한국",
+        "3배 증가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "27",
+      "title": "비 없는 ‘극한더위’에 바싹 마른 한반도…“강수 패턴 변화에 가뭄도 일상화” - 아시아투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tZVdCRWFZVzlEaVJ0X0VOcU1tN1F0cVdqX0ZTNmNoU0YtZ0NhMmstZUhOclVscGJzbEdkRXA4LThqaXFQQzZ1dktYTjZiZHpmdGlJRlZuY1laNUdEaU5GWlE1bzNBeEFseE9xdlh3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:04:44",
+      "description": "비 없는 ‘극한더위’에 바싹 마른 한반도…“강수 패턴 변화에 가뭄도 일상화” 아시아투데이",
+      "summary": {
+        "phenomenon": "한반도에 비 없는 극한더위가 지속되어 바싹 마른 상태입니다.",
+        "cause": "강수 패턴의 변화로 인해 가뭄이 일상화되고 있습니다.",
+        "outlook": "강수 패턴 변화로 인해 가뭄이 일상화될 것으로 전망됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "극한더위",
+        "가뭄",
+        "한반도",
+        "강수 패턴 변화",
+        "일상화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "28",
+      "title": "괴물폭우 직후 극한폭염…국내 `복합재난` 과거 30년보다 3배 증가 - 부산일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmWExYR1BKWXFMZGZPTEVnbFllV1BnaTMzS01XUmJneUtzWjE3bnQ4bTB5Qk9tajVlZXFEZzBRajlxTzVyWUs4UWhaV2VFOXZNUi03WTZSLW9kbzFsRVJWOWl3YTFxZzVULS05REpKS290dUlkdTZsQmFDRQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:00:39",
+      "description": "괴물폭우 직후 극한폭염…국내 `복합재난` 과거 30년보다 3배 증가 부산일보",
+      "summary": {
+        "phenomenon": "국내에서 괴물폭우 직후 극한폭염이 발생하는 '복합재난'이 과거 30년보다 3배 증가했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "괴물폭우",
+        "극한폭염",
+        "복합재난",
+        "3배 증가",
+        "국내"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "29",
+      "title": "지난달 바닷물 온도 역대 최고…서유럽 두달 연속 '기록적 폭염' - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ySUN3bGlFYjNNUmpjTTRMZ09WNjZhOEFKek9pQTlKWkY5aWh1aTBSQ3lQSWJMLWRjRFUwLVVuQXNscWt5VXB1WVVxekhhb0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:54:01",
+      "description": "지난달 바닷물 온도 역대 최고…서유럽 두달 연속 '기록적 폭염' v.daum.net",
+      "summary": {
+        "phenomenon": "지난달 바닷물 온도가 역대 최고치를 기록했으며, 서유럽에서는 두 달 연속 기록적인 폭염이 발생했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "바닷물 온도",
+        "역대 최고",
+        "서유럽",
+        "폭염",
+        "기록적"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "30",
+      "title": "생활 속 기후변화과학 이해의 첫걸음, '제3회 기후변화과학 퀴즈대회' 성황리에 마무리 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QVlNnMEVFOHRHUmJ2VWR2dGpkZWQxTzEtUlN3cFNnYTg2bE10REJkQmZJTjhUTnM2Z0I5OEtRSndEZ0UtTmR0RWtnOWcxaVQ1RmRz?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:31:00",
+      "description": "생활 속 기후변화과학 이해의 첫걸음, '제3회 기후변화과학 퀴즈대회' 성황리에 마무리 네이트",
+      "summary": {
+        "phenomenon": "'제3회 기후변화과학 퀴즈대회'가 성황리에 마무리되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "생활 속 기후변화과학 이해의 첫걸음이 될 것으로 기대됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후변화과학",
+        "퀴즈대회",
+        "이해",
+        "생활",
+        "성황리"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "31",
+      "title": "폭염 대비 '기후보험' 도입법, 국회 기후특위 소위 통과 - 매일일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB0TXV6cmx0MTRWc01xSGpfdm56UFUxbXpwODJFSU90ZFVpbkgxS0pqRlhuaFpyckJQNC1jZTg2cGlWN2RpNWNHSUpNdnhqZVNqZ2xpUnhFYmpBTVRfMUVFVVR0dVU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:35:10",
+      "description": "폭염 대비 '기후보험' 도입법, 국회 기후특위 소위 통과 매일일보",
+      "summary": {
+        "phenomenon": "폭염에 대비하기 위한 '기후보험' 도입법이 국회 기후특위 소위를 통과했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "기후보험",
+        "도입법",
+        "국회",
+        "통과"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "32",
+      "title": "[기후환경 리포트] 폭염의 차원이 달라진 이유‥극한폭염 기름 부은 두 가지 되먹임 - MBC 뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VX2xfZ1g2WUJSYkd1UFZUV09RLTl6OUJTV2RVNXRaVVJ3WWwzcTVqUkR3Um9OeldXUUpfY2Rua2h0TGVWbTBBOGVmUTJjeEYtdVhZUHVyV2ljT3ZIVHI2TWowWGt1d1R5OERiWEY1dG1RMXY3RkVNUmZn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T22:42:02",
+      "description": "[기후환경 리포트] 폭염의 차원이 달라진 이유‥극한폭염 기름 부은 두 가지 되먹임 MBC 뉴스",
+      "summary": {
+        "phenomenon": "폭염의 차원이 달라졌으며, 극한폭염이 발생하고 있습니다.",
+        "cause": "극한폭염을 심화시키는 두 가지 '되먹임(feedback)' 현상이 원인으로 지목되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후환경",
+        "폭염",
+        "극한폭염",
+        "되먹임",
+        "기후변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "33",
+      "title": "인천 고교생 117명, 극지연구소서 기후위기 탐구 나선다 - 인천게릴라뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mb1dZdWYxOFBuX09TbV9VQ0tURFhIWkxMTUtFMzBOa3Q0YmR5Y2RLeElrZ000QllRcGJ3RmViWmRzYnZrazZUajZUZnRqVDY1ajFYS2FnS2x4QkF1Q1E4MVBMektMZw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T02:34:27",
+      "description": "인천 고교생 117명, 극지연구소서 기후위기 탐구 나선다 인천게릴라뉴스",
+      "summary": {
+        "phenomenon": "인천 지역 고등학생 117명이 극지연구소에서 기후위기 탐구 활동을 시작했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "인천 고교생",
+        "극지연구소",
+        "기후위기",
+        "탐구",
+        "교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "34",
+      "title": "5배 늘어난 ‘폭우 뒤 폭염’ 복합 재난…더 강하고 더 자주 나타나 - 한겨레",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkX0ZBMDI3MXVscjB4Y0R4cThtVG5IYU5xaW55X0NIOHNWVHBiekpKUXFGd1l0VGJKMmtPQnVlRl9MTkFEcHhQa2steEdLSVBleEpZU080LVNGRlkyV3gzcTNZM0pyLWxpT1dfSQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:54:00",
+      "description": "5배 늘어난 ‘폭우 뒤 폭염’ 복합 재난…더 강하고 더 자주 나타나 한겨레",
+      "summary": {
+        "phenomenon": "'폭우 뒤 폭염'이라는 복합 재난이 과거에 비해 5배 늘어났습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 복합 재난이 앞으로 더 강하고 더 자주 나타날 것으로 전망됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭우",
+        "폭염",
+        "복합 재난",
+        "기후 위기",
+        "재난 심화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "35",
+      "title": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlc3pxdUhyeGRWeDZlYUszSjNnR244OWh6dkZ2ZHJCTWgtVUk3NXdpSDdmb1JzR3VGNHVQQlV2cm5ZR2xLNjBvX19SelJZWTBnaXBN?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T06:09:00",
+      "description": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 네이트",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물 온도가 역대 최고치를 기록했습니다.",
+        "cause": "이러한 현상은 엘니뇨와 기후변화의 영향으로 분석됩니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세계 바닷물 온도",
+        "역대 최고",
+        "엘니뇨",
+        "기후변화",
+        "지난달"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "36",
+      "title": "호주의 넷제로(Net Zero) 정책과 기후·에너지 전략 - dhns.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xbzI0MUdDSk9WX3h1Nk5SYUZ5WTRxQ2F6aXdET1VGbUVKdGFaR05pVFJXdTVGYU5scUFKbFdxc3E4WnZxTW5Zel85d1lMOEpRQTc2Vy1lT3NPMmRvV3BXNWR0Y2lBOWM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:48:37",
+      "description": "호주의 넷제로(Net Zero) 정책과 기후·에너지 전략 dhns.co.kr",
+      "summary": {
+        "phenomenon": "호주가 넷제로(Net Zero) 정책과 기후·에너지 전략을 수립하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "호주",
+        "넷제로",
+        "정책",
+        "기후",
+        "에너지 전략"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "37",
+      "title": "폭염 충격에 '기후보험' 속도..기후특위 13일 의결 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11ZVZmSjNNNFZkcUNRaHRjLW5hNVh2cG40V3Q1aTNVTmtpSnFXVnJ6TV9vYWlMeFdGT1lsZXB4NmVOd2F0dEhjUnJtckpfeEVqWUdFVnVxV2Ywdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:25:07",
+      "description": "폭염 충격에 '기후보험' 속도..기후특위 13일 의결 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "폭염으로 인한 충격에 대응하기 위해 '기후보험' 도입 논의가 속도를 내고 있으며, 기후특위에서 13일 의결될 예정입니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "기후보험",
+        "기후특위",
+        "의결",
+        "속도"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "38",
+      "title": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EMU0zTGhNQldyY1o2TG9JSGwtOU5XUHFzN3FYT28wZkpETzBQU2M1cGVITWZ0NW53cnl5VHRHMFFSUkg4c25IT2YtR24zSXpGZmhR?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:52:00",
+      "description": "지난달 세계 바닷물 온도 역대 최고…엘니뇨·기후변화 영향 네이트",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물 온도가 역대 최고치를 기록했습니다.",
+        "cause": "이러한 현상은 엘니뇨와 기후변화의 영향으로 분석됩니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세계 바닷물 온도",
+        "역대 최고",
+        "엘니뇨",
+        "기후변화",
+        "지난달"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "39",
+      "title": "역대급 폭염…기후변화 대응 고성능 창호 부상 - 한스경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4enpRTENNZUxxWkJjSnJ4cTVYQlVLNDlPMXpKM3dKVTVrZ01ZRmhZZGstSnRSZ2dUZThoUGJqWkh6bnFVcEJBVURCSnNZMi1SMWxhcnJ3eV9oSDk2elNudDdCaXdNOUw0MjBjbNIBb0FVX3lxTE9JU3Ixc1JPQlBUMGRSRnVwdUtaRklQUFNMWWZ3UDUwc0J0aFZTZFJxVjkwYUhPZi1RRDlDZ3VueGNJVXN3c3NCbEJnS2RmX21VbTVDeS0zYWk3R3VKeFZEVWtHdllvSi1QWEVYS0kyQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T23:39:59",
+      "description": "역대급 폭염…기후변화 대응 고성능 창호 부상 한스경제",
+      "summary": {
+        "phenomenon": "역대급 폭염이 발생하고 있으며, 이에 대응하기 위한 고성능 창호가 주목받고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "기후변화",
+        "고성능 창호",
+        "대응",
+        "부상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "40",
+      "title": "폭염 한 번에 6개월 늙는다…생체시계 당기는 기후변화 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92ZEZBMjItZHRUZ2xSaGVTMWx2Y0xLVjRUVXNvaFBNalFldUhUcEtGazBwRlVwcEkyX3RXWDA0TVhjQjByR3E2YWVfbm11MjR3T0tZ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T00:35:00",
+      "description": "폭염 한 번에 6개월 늙는다…생체시계 당기는 기후변화 네이트",
+      "summary": {
+        "phenomenon": "폭염이 발생할 경우 사람의 생체시계가 6개월 정도 앞당겨져 노화가 가속화될 수 있습니다.",
+        "cause": "이러한 현상은 기후변화로 인한 폭염의 영향으로 설명됩니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "노화",
+        "생체시계",
+        "기후변화",
+        "건강"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "41",
+      "title": "[기후환경 리포트] 폭염의 차원이 달라진 이유‥극한폭염 기름 부은 두 가지 되먹임 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YS3dvd1lCWEhtcWZNLTV0MUYzM2VCd1lrRS1fM3NaUU9kbk5ZbWNWT2w5bDNMNjlCNjRDdkFPaXV2N1VIcFZsQjhvMmNCVDA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T22:49:10",
+      "description": "[기후환경 리포트] 폭염의 차원이 달라진 이유‥극한폭염 기름 부은 두 가지 되먹임 v.daum.net",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음.",
+        "cause": "극한폭염을 부추기는 두 가지 되먹임 현상이 원인으로 언급되었으나, 구체적인 과학적 원인/배경은 기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "극한폭염",
+        "되먹임",
+        "기후환경",
+        "심화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "42",
+      "title": "원전 멈추고 배도 못 뜬다…기후변화가 초래한 R의 공포 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55YnBrQzBiWFFuX2FZSy1pM2U2U094RDhsWHp2OEVOS0txM0NZRVhOMHRRZW9LOHF0NUtUcjBpTnp6bE16cnhJYlkzbUhaV0N0SF9Z?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-09T23:39:00",
+      "description": "원전 멈추고 배도 못 뜬다…기후변화가 초래한 R의 공포 네이트",
+      "summary": {
+        "phenomenon": "원전 멈추고 배도 못 뜬다…기후변화가 초래한 R의 공포 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "원전",
+        "운송",
+        "공포",
+        "위기"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "43",
+      "title": "폭염 대비 '기후보험' 활성화…기후위기 취약계층 지원사업도 - 세계일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wWHpkbVdhdFhHOG51YXExOUYwc1p6dV9paGtVZWtDUWZmLUFNalZqUGxYVFJKOHVFTVRXQjUtSjJ1d1pVS0Q3ZjBINUJFLUxBaVpJdGJNb25KUllvRV9VVkhIbWhEd25uSzdv0gFUQVVfeXFMT3I0QWxfSThtUGQ0MHFVajRtZjdqNmVfejZFdGxuN0gtRkFEeWViM3ktcGkwd1FjdldnMXcxNE52TEMwcGdlLXJZWi1sTVFOSnVGMmZi?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:19:42",
+      "description": "폭염 대비 '기후보험' 활성화…기후위기 취약계층 지원사업도 세계일보",
+      "summary": {
+        "phenomenon": "폭염 대비 '기후보험' 활성화…기후위기 취약계층 지원사업도 세계일보",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "기후보험",
+        "활성화",
+        "기후위기",
+        "취약계층"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "44",
+      "title": "'기후위기적응법' 특위 법안소위 통과…野 \"폭염·이상기후 대응해야\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZaUhHNnFIWFNVWWZLeWtSRkFnYUZybXNyVlJYeXJIVkRNYU9tQVV5am9LZF81TmR3T2toV2hRN2UxbnJnUFBqTGdqNmVaejI4VkJETnhnQVFkTEExN1BNalYzVE1WTHRmY3c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:27:00",
+      "description": "'기후위기적응법' 특위 법안소위 통과…野 \"폭염·이상기후 대응해야\" 네이트",
+      "summary": {
+        "phenomenon": "'기후위기적응법' 특위 법안소위 통과…野 \"폭염·이상기후 대응해야\" 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기적응법",
+        "특위",
+        "법안소위",
+        "통과",
+        "이상기후"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "45",
+      "title": "복합재난 강도 30년 대비 3배 급증…폭우·폭염 '연동 재난' 시대 도래 - 어반톡",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OV1VnWk4zWGdLeDllbDlGLWIzRlVuX25QcWZMS0xJQzI1YWNOWGhZTTRRcHRzWl9IbG1nUHRkWThvY3J3ZHJ0SENPZlpkV2hIeE83VlN3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T04:34:51",
+      "description": "복합재난 강도 30년 대비 3배 급증…폭우·폭염 '연동 재난' 시대 도래 어반톡",
+      "summary": {
+        "phenomenon": "복합재난 강도 30년 대비 3배 급증…폭우·폭염 '연동 재난' 시대 도래 어반톡",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "복합재난",
+        "강도 급증",
+        "폭우",
+        "폭염",
+        "연동 재난"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "46",
+      "title": "지난달 세계 바닷물 온도 '역대 최고'…서유럽은 기록적 폭염 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LTl9mdGdMMEhVZVAxenNtdHBudDVzd1oyV0J2R3BDN0NUUVFNemYzVTQ1NnNiUXFuNEUxUXFJN3kzLTduNGhrdHdVNENvb0NRQkI4?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:22:00",
+      "description": "지난달 세계 바닷물 온도 '역대 최고'…서유럽은 기록적 폭염 네이트",
+      "summary": {
+        "phenomenon": "지난달 세계 바닷물 온도 '역대 최고'…서유럽은 기록적 폭염 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "세계 바닷물 온도",
+        "역대 최고",
+        "서유럽",
+        "기록적 폭염",
+        "기후 변화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "47",
+      "title": "비 없는 '극한더위'에 바싹 마른 한반도…\"강수 패턴 변화에 가뭄도 일상화\" - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91LVp2SXVqdHNLaHVJdUYxUXc4T0ZLdTZpY3JBZm5XUVkxV1liT3lranpfMmpwLVl0RURvTDl0YmczcWFKOFptZUJjZ2w3ekhNSExB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:05:00",
+      "description": "비 없는 '극한더위'에 바싹 마른 한반도…\"강수 패턴 변화에 가뭄도 일상화\" 네이트",
+      "summary": {
+        "phenomenon": "비 없는 '극한더위'에 바싹 마른 한반도…\"강수 패턴 변화에 가뭄도 일상화\" 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "극한더위",
+        "가뭄",
+        "한반도",
+        "강수 패턴 변화",
+        "일상화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "48",
+      "title": "국회 기후특위, 감축경로·기후위기 적응법 잇달아 의결…폭염 피해엔 '기후보험' - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xYVRwelhTS18yMWlnUXNzeThlNzh2aEFUSndNMjJzbXJTclR0c3RfOHNIblVuNmxTNmEtTnBPQUVsaHQ4VkM1dVFlVnlDVlBULXFn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T08:21:00",
+      "description": "국회 기후특위, 감축경로·기후위기 적응법 잇달아 의결…폭염 피해엔 '기후보험' 네이트",
+      "summary": {
+        "phenomenon": "국회 기후특위, 감축경로·기후위기 적응법 잇달아 의결…폭염 피해엔 '기후보험' 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국회",
+        "기후특위",
+        "감축경로",
+        "기후위기 적응법",
+        "기후보험"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "49",
+      "title": "지난달 바닷물 온도 '역대 최고'…서유럽 최악 폭염 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1mcURrdENLZTdkUUd1VVQtY3lLY0ZLYWVVNmlHVi1vZmQ1QUw4ZjhBZnRTTlhTRjNHdTFhOXNJX2ZLVXFiUElsLW1RUHlhWS1neEZZ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:09:00",
+      "description": "지난달 바닷물 온도 '역대 최고'…서유럽 최악 폭염 네이트",
+      "summary": {
+        "phenomenon": "지난달 바닷물 온도 '역대 최고'…서유럽 최악 폭염 네이트",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "바닷물 온도",
+        "역대 최고",
+        "서유럽",
+        "폭염",
+        "지난달"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "50",
+      "title": "폭염·태풍에도 쾌적하게…휴그린, AI 창호 시장 공략 - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qcl9LR2xrRkljbUUwd3o0Z1pzVFVqMTh1ZTVuREtNUzZMejduNUYzRGwxLW42dERxMl9VVjI4c3YwQ1ZtaGJzeHZ0bklJbjU1YTA3UmlIcW5hdw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T00:06:50",
+      "description": "폭염·태풍에도 쾌적하게…휴그린, AI 창호 시장 공략 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "폭염·태풍에도 쾌적하게…휴그린, AI 창호 시장 공략 파이낸셜뉴스",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "폭염",
+        "태풍",
+        "AI 창호",
+        "휴그린",
+        "쾌적"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "51",
+      "title": "폭염의 청구서…현대百, 5년간 전력비 최대 5000억 증가 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmd1JzcnFQQ1NyQjMzeDZzYUtxVWItRVhROGlwa2JCenVYS04zZnc0TkI3c1NaaDhQZGFNdlhicEN2M2pRb2l2U2ZZZndhdk1LWU5z?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T05:55:00",
+      "description": "폭염의 청구서…현대百, 5년간 전력비 최대 5000억 증가 네이트",
+      "summary": {
+        "phenomenon": "현대백화점은 지난 5년간 폭염으로 인해 전력비가 최대 5000억 원 증가했다.",
+        "cause": "폭염으로 인한 냉방 수요 증가로 전력 사용량이 늘어났기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "전력비",
+        "증가",
+        "현대백화점",
+        "청구서"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "52",
+      "title": "양산시, '스마트버스정류장' 확대 운영 ···기후위기 대응·시민 편의 강화 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRcWYwLWpqOU1MMWp0elJXU1duZHhOTW0ySEtjTXRrTzRweldkWWY5OGJ6NXdYeVFhT1RTbDYzeFJ4UmJ0aHVhdjMtODVESlZvY3NN?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T00:10:00",
+      "description": "양산시, '스마트버스정류장' 확대 운영 ···기후위기 대응·시민 편의 강화 네이트",
+      "summary": {
+        "phenomenon": "양산시가 스마트버스정류장을 확대 운영한다.",
+        "cause": "기후위기에 대응하고 시민 편의를 강화하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "양산시",
+        "스마트버스정류장",
+        "확대 운영",
+        "기후위기 대응",
+        "시민 편의 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "53",
+      "title": "유럽 폭염 피해 ‘역대 최대’ 전망…성장률·물가 동시 직격탄 - edaily.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUmdlZjVrLXVrOHJlMDhuSDdYdlg1WVl6azdUWnl5TGtUTFc3cXlCQ3lwOUtzTUYta3g0elRZR29PbFVCaXpRczgtRUhfeURpY19PZU5wYVNYYlQ4MFFMM0hKM0ZVMXEzVEY5c0JLM0M2Q0tHdjFvTGNrNkdsV29ONQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-10T07:15:40",
+      "description": "유럽 폭염 피해 ‘역대 최대’ 전망…성장률·물가 동시 직격탄 edaily.co.kr",
+      "summary": {
+        "phenomenon": "유럽에서 폭염 피해가 역대 최대로 전망되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "폭염으로 인해 유럽의 성장률과 물가가 동시에 직격탄을 맞을 것으로 예상된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유럽",
+        "폭염",
+        "피해",
+        "성장률",
+        "물가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "54",
+      "title": "임실군 \"환경 교육 강사 배치로 탄소중립 실천 확산\" - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFcTlDcWh6bHRuR3RBWFdkRVJQRDRsYjdtcWxnZkdhVW5nZmcwNktCb1R4aVVlelpYendiVnU3Zk8wYzZwSzI5UE92WnE4Q3Z1Q00yVQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:26:39",
+      "description": "임실군 \"환경 교육 강사 배치로 탄소중립 실천 확산\" 뉴스1",
+      "summary": {
+        "phenomenon": "임실군이 환경 교육 강사를 배치한다.",
+        "cause": "탄소중립 실천을 확산하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "임실군",
+        "환경 교육",
+        "강사 배치",
+        "탄소중립",
+        "실천 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "55",
+      "title": "“60점짜리 탄소중립법 안돼”…청소년들, 국회에 재개정 촉구 - 기후에너지데이터뱅크",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HLWpwd1JFODAtblFDUWNpcWtVTnkxYW5RRHRYazdMSGdMSjZROGNJZkgyaER6XzVnbWlleWphejk1R3oyYVd2Q2l5UXdLd2J3b0d2UFVIWE1NVGltSVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:10:03",
+      "description": "“60점짜리 탄소중립법 안돼”…청소년들, 국회에 재개정 촉구 기후에너지데이터뱅크",
+      "summary": {
+        "phenomenon": "청소년들이 국회에 현재의 탄소중립법을 '60점짜리'로 평가하며 재개정을 촉구하고 있다.",
+        "cause": "현재의 탄소중립법이 불충분하다고 판단하기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "탄소중립법",
+        "청소년",
+        "국회",
+        "재개정",
+        "촉구"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "56",
+      "title": "키움증권, 걷기로 탄소중립 실천…1만1728명 7.4억보 동참 - 브릿지경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LWmJVNm5rVnFfQm1TcURlWEhjNUpUOU40andVV09hVFRWOW40d0JJOUJrVC1ZQWt3eFNCeEY1Mml2YnpvRjQydzlpVjVWbDlUd01mdHkwSENpZw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:36:00",
+      "description": "키움증권, 걷기로 탄소중립 실천…1만1728명 7.4억보 동참 브릿지경제",
+      "summary": {
+        "phenomenon": "키움증권에서 1만1728명이 7.4억 보를 걸어 탄소중립 실천에 동참했다.",
+        "cause": "걷기를 통해 탄소 배출을 줄이고 탄소중립을 실천하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "키움증권",
+        "걷기",
+        "탄소중립",
+        "실천",
+        "동참"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "57",
+      "title": "오산시, 기업 대상 맞춤형 탄소중립 교육 첫 운영 - 전자신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15cmdoc3BwWmhqTGY3YVZ6cXZ0TkJMb1A0SkZXRnJINEMxQmgtcGVzMXI4bTItR2NkNUxONWY2OEg1aWo5UUw1UG9nQzY0dw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T19:15:07",
+      "description": "오산시, 기업 대상 맞춤형 탄소중립 교육 첫 운영 전자신문",
+      "summary": {
+        "phenomenon": "오산시가 기업을 대상으로 맞춤형 탄소중립 교육을 처음으로 운영한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "오산시",
+        "기업",
+        "탄소중립",
+        "교육",
+        "맞춤형"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "58",
+      "title": "진천군, 탄소중립 녹색성장 거점으로 도약… 에너지 복지 실현 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5SUHVOV1Vqc19kZlNSa2N4X2J6NTM1NlNxU3ZtWUZWVnQ0a0lialdCMng5Rm1YZ1hjMHR5SDRsX3V5NFMtcVFmLWlVMTZpOUk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T23:13:52",
+      "description": "진천군, 탄소중립 녹색성장 거점으로 도약… 에너지 복지 실현 v.daum.net",
+      "summary": {
+        "phenomenon": "진천군이 탄소중립 녹색성장 거점으로 도약하고 에너지 복지를 실현한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "탄소중립",
+        "녹색성장",
+        "에너지 복지",
+        "거점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "59",
+      "title": "박승원 시장 \"탄소중립은 일상의 작은 변화\"…전자영수증 가맹점 확대 - 아시아경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYQ2NPWjNfaGNtUVRJLWU1dDBEb2ktM1Q2b3M3emNNanRhM2xmRFFYei1oTmpTUTRIekEyRWRtM2x6NHNVczlGYmVkczJoRThOQmxqYllhaXpSdkVieFZjNw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:47:28",
+      "description": "박승원 시장 \"탄소중립은 일상의 작은 변화\"…전자영수증 가맹점 확대 아시아경제",
+      "summary": {
+        "phenomenon": "박승원 시장은 탄소중립이 일상의 작은 변화에서 시작된다고 강조하며 전자영수증 가맹점 확대를 추진한다.",
+        "cause": "전자영수증 사용을 통해 종이 사용을 줄여 탄소 배출을 저감하고 탄소중립을 실천하기 위함이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립",
+        "전자영수증",
+        "일상의 변화",
+        "가맹점 확대",
+        "박승원 시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "60",
+      "title": "광명시, 전자영수증 발급 탄소중립 실천 인증 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fQU9LeENKZDloelZCdXlfNVptLVBTaWpobzVzZEp6b0hrdVBYd1BkR2xJU2huLU5UVGY2Z0YtN3A3TkQwUEhyRGtPLXhraVZ3R2RCbEZBQXB4RDlXWU9qOdIBeEFVX3lxTE9fZzNyU1ZOUENPUVRFWmNZRXc3T05CTm8xeUpLeDVLYnRaczRfWGFTcW54QnlscEN2LXNsampFTXlmb1BZcEZtTTVNUU02cnJXa3Eyd3ozYm5WUUlMcHI4SmVsRnRCMHhIQ3d5TDgydGVPNnZydExPZg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:26:58",
+      "description": "광명시, 전자영수증 발급 탄소중립 실천 인증 뉴시스",
+      "summary": {
+        "phenomenon": "광명시가 전자영수증 발급을 통해 탄소중립 실천을 인증했다.",
+        "cause": "전자영수증 발급이 종이 사용을 줄여 탄소 배출 저감에 기여하기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "전자영수증",
+        "탄소중립",
+        "실천",
+        "인증"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "61",
+      "title": "광명시, 전자영수증 매장 2000곳 늘린다… 탄소중립 일상으로 - 천지일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZElIa0psZDVveGdGVEdLQ0luWHozWHBxRkdnREZ4Rkg1VXFBQ0lCT0NKUERGQmZ5YlhhN0VxU3o4WVY5N2FmVnJiNWljaGh3VzRKbVdXSTc1UmluUm9DTGRmbEZ5WEhEblE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:05:00",
+      "description": "광명시, 전자영수증 매장 2000곳 늘린다… 탄소중립 일상으로 천지일보",
+      "summary": {
+        "phenomenon": "광명시가 전자영수증 매장을 2,000곳으로 확대할 계획을 발표했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이러한 확대를 통해 탄소중립을 일상생활 속에서 실천하고 확산하는 것을 목표로 한다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "전자영수증",
+        "탄소중립",
+        "매장",
+        "일상"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "62",
+      "title": "해남 만대산 일원 100ha 규모 탄소중립 특화림 구축 - 남도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pNGxxaXRzc1Q4Q05hRk9HSHVHdU5FMHBxNGdLS0RpYndBTkV6cEZPbHpHMkhHYktGSHNsUE5fZkd5a2tJcjZvcmNzbFZtVDhCQ1JNbm9DQ0VKdUxxd0Y5X0JZcHktU1FBYVlhcdIBcEFVX3lxTE52dHYzZV9wMGdNbE8wVGtNd1ZtenUyVnNvZkpIRm5KOFgwdE93NWFIc2FSR09BRlRCZWx5OGZibWJYQWtzZzBiWWlDYkgtVUY5UWdjRGI1OC01Y0pOLVdDM1JFeEg5QlhOdnJBajBZaXk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:35:49",
+      "description": "해남 만대산 일원 100ha 규모 탄소중립 특화림 구축 남도일보",
+      "summary": {
+        "phenomenon": "해남 만대산 일원에 100ha 규모의 탄소중립 특화림이 조성될 예정이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해남",
+        "만대산",
+        "탄소중립",
+        "특화림",
+        "구축"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "63",
+      "title": "“급가속 안 하기만 해도 온실가스가 줄어요”…폐기물 차량 운전대 잡은 오산시의 탄소중립 - 인천일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxMXpURnNBTVN6M0hsZVg0UlNaNVdESkpjSU1ZWGdNN3QtVjFUVG96NFEzenhob0xOXzBaTGRWUXpQczhmZ1lfaXQwQlQ1dTBSMzd5b0c3bjdGYURPYnplUzdIWjdPWTVRdzBoREdDWGI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T23:54:00",
+      "description": "“급가속 안 하기만 해도 온실가스가 줄어요”…폐기물 차량 운전대 잡은 오산시의 탄소중립 인천일보",
+      "summary": {
+        "phenomenon": "오산시 폐기물 차량 운전자들이 급가속을 피하는 운전 습관을 통해 온실가스 감축 활동을 진행하고 있다.",
+        "cause": "급가속을 하지 않는 운전 방식이 온실가스 배출량을 줄이는 데 기여하기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "오산시",
+        "탄소중립",
+        "온실가스",
+        "폐기물 차량",
+        "운전 습관"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "64",
+      "title": "“60점짜리 탄소중립법 안돼”…청소년들, 국회에 재개정 촉구 - 에너지경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSaHo5dGlNSTNTT085VmRwcEdwOXdqektrb3JnZi1MTk5WYV9GQWhjUWJUMHpfZ24wbllUUGZRYTZPMzhROXZKc2JRSGttRXBZOGsxTTdBZ21TUlNXTVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:49:44",
+      "description": "“60점짜리 탄소중립법 안돼”…청소년들, 국회에 재개정 촉구 에너지경제신문",
+      "summary": {
+        "phenomenon": "청소년들이 국회에 현행 탄소중립법의 재개정을 강력히 촉구하고 있다.",
+        "cause": "청소년들은 현재의 탄소중립법이 \"60점짜리\"에 불과하다고 평가하며, 그 실효성에 대한 불만을 표명하고 있기 때문이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "탄소중립법",
+        "청소년",
+        "국회",
+        "재개정",
+        "촉구"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "65",
+      "title": "광명시·소상공인 '기후의병 가맹점' 확대...전자영수증으로 탄소중립 실천 - 뉴스핌",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQOVg2al82N3NKeENzd2hIYzIyb3U4X1doeWloS1pSbm9udUM2dWlUNE1vdEFYVG5Zd3ZfMTJVUFdpcnZ0TGE2NXhwaWtzdW5qVTBSWFRObHR0bndG?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:17:00",
+      "description": "광명시·소상공인 '기후의병 가맹점' 확대...전자영수증으로 탄소중립 실천 뉴스핌",
+      "summary": {
+        "phenomenon": "광명시와 소상공인들이 '기후의병 가맹점'을 늘리고 있으며, 전자영수증 사용을 통해 탄소중립을 실천하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "소상공인",
+        "기후의병 가맹점",
+        "전자영수증",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "66",
+      "title": "[녹색 전환] 판단은 있는데, 이유가 없다. 기초지자체 탄소중립계획, 첫 성적표를 들여다보며 - 부안독립신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43cThpZzBKZlF2bm1tZnpnbTdMbUpFM3I3LXo4YWJQSHpsNmdYTTVOdzlvWjV5R2h5ZnpLbWdOZUJOQ3pTZXJjcnZQcTFuWWdja2txNjJzTTExMjZQOGhqUGFqQXI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:16:54",
+      "description": "[녹색 전환] 판단은 있는데, 이유가 없다. 기초지자체 탄소중립계획, 첫 성적표를 들여다보며 부안독립신문",
+      "summary": {
+        "phenomenon": "기초지자체들의 탄소중립계획에 대한 첫 평가에서, 계획의 방향성은 제시되었으나 그 결정에 대한 과학적 또는 논리적 근거가 부족하다는 문제점이 지적되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "녹색 전환",
+        "탄소중립계획",
+        "기초지자체",
+        "계획 평가",
+        "계획 미흡"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "67",
+      "title": "[신한카드 ESG-E] 친환경 금융 3배 확대…탄소중립 '본업'으로 - PRESS9",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DSGlQR3JEblFPcVE1WnNtakxoTzVZakRoWDQ5QW1KMEgtaEF1VnpRN0Rta1Z6Q0ZIT0ZhWDF5YkNPd05TcW1KT2c2WHVibmY4Z0tjZERUeUdVemJkbkZkQ3NGcFk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:44:37",
+      "description": "[신한카드 ESG-E] 친환경 금융 3배 확대…탄소중립 '본업'으로 PRESS9",
+      "summary": {
+        "phenomenon": "신한카드가 친환경 금융 규모를 기존 대비 3배 확대하며, 탄소중립을 기업의 핵심 사업으로 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신한카드",
+        "ESG-E",
+        "친환경 금융",
+        "탄소중립",
+        "본업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "68",
+      "title": "광명시, 종이영수증 대신 전자영수증…일상 속 탄소중립 확산 나서 - 프레시안",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NaDF2VW5ocUFOQXdmVXhOOXlsdGtkS2lOTkpQelhwaUNfWmpBNUtNbEtmcklfeUdMUGNEbEFockZ4Q3o5TUdCN296U0hSQnJhdm5JMGtSaE5KdGZKUzZVNjVwT1JJc1Y0TU1Z?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:42:07",
+      "description": "광명시, 종이영수증 대신 전자영수증…일상 속 탄소중립 확산 나서 프레시안",
+      "summary": {
+        "phenomenon": "광명시가 종이영수증 대신 전자영수증 사용을 적극 권장하며, 이를 통해 일상생활 속 탄소중립 실천을 확산시키고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "전자영수증",
+        "탄소중립",
+        "종이영수증",
+        "일상생활"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "69",
+      "title": "해남군, 만대산에 특화림 조성...탄소중립 산림 모델 - KBC광주방송",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FckZQU1lOZkVrbnJCLThiSGdqWTE1d0IydXdtSWJTSkd1RTE3bzJtMVh3TzIwcWhqaDQ5dDVVWEptNWRUMWM4eEF1QkhaTHhWWG5Ha0JTLVhiQlRXWHVERw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T00:53:40",
+      "description": "해남군, 만대산에 특화림 조성...탄소중립 산림 모델 KBC광주방송",
+      "summary": {
+        "phenomenon": "해남군이 만대산에 특화림을 조성하여 탄소중립을 위한 산림 모델을 구축하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "해남군",
+        "만대산",
+        "특화림",
+        "탄소중립",
+        "산림 모델"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "70",
+      "title": "“청년과 함께 자원순환 실천”…광명시, ‘청춘곳간’서 탄소중립 교육 진행 - G밸리타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMeThtTURvZGsyeHl1NThpV0REeDE3U254Y1pWdURfMWVjRHR5eVBHZk1uSDFWLWxNQ2VKVk1GZF9EbjRVSzNaMFJ0MURoQngwcndlS2hIUnBxTU81SkFrcjgyWXVBTzRPXzh4X0R3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:10:00",
+      "description": "“청년과 함께 자원순환 실천”…광명시, ‘청춘곳간’서 탄소중립 교육 진행 G밸리타임스",
+      "summary": {
+        "phenomenon": "광명시가 '청춘곳간'에서 청년들을 대상으로 자원순환 실천을 위한 탄소중립 교육 프로그램을 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "청년",
+        "자원순환",
+        "탄소중립",
+        "교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "71",
+      "title": "광명시, 소상공인과 손잡고 전자영수증 발급 매장 늘린다… 생활 속 탄소중립 문화 확산 앞장 - 세계환경신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE81N1YxMld4eWRPWEFkTUdjelBvWFpFajZOcC1zVUR0NjV2OTJJQTNxY2NKTDVKcGp1NnBDS2hlZ3hZTWNhWDZDaXpfSEFKTV95TEJyQWVxclNaOGpYeUdR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:47:21",
+      "description": "광명시, 소상공인과 손잡고 전자영수증 발급 매장 늘린다… 생활 속 탄소중립 문화 확산 앞장 세계환경신문",
+      "summary": {
+        "phenomenon": "광명시가 소상공인과 협력하여 전자영수증 발급 매장을 늘리고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "생활 속 탄소중립 문화 확산에 앞장설 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "소상공인",
+        "전자영수증",
+        "탄소중립",
+        "문화 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "72",
+      "title": "진천군, 탄소중립 녹색성장 거점으로 도약 - 충청일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UEZ5TUZtTlNFY1YzMDhrQmZONXdzQ2NiUHVjNGcwcGExMDhfTGwyWGc2WjI1bW5JR1Y5OGF5UWtqTW1SLXViNlpHZFZDNFd6RU55VlZ4VEd5dHhoQUktNjB6aXVfR1JlTm1PRHBES3A?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T04:28:07",
+      "description": "진천군, 탄소중립 녹색성장 거점으로 도약 충청일보",
+      "summary": {
+        "phenomenon": "진천군이 탄소중립 녹색성장 거점으로 도약하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "탄소중립",
+        "녹색성장",
+        "거점",
+        "도약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "73",
+      "title": "진천군, 탄소중립 녹색성장 거점으로 도약 외 (8월10일 종합) - 충북데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DQXNfSDVIanphVkx0Q2FQUTJXbjc4S0xyT3dXamd1b2VTbENxbHZVaXRRY0lrR3BZU2ZCa1ZmZmx4NEhpSGVhQjhsaFBpU0JvbnpJTW1nZ0N5VEhJUHNDRW1n?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T00:59:47",
+      "description": "진천군, 탄소중립 녹색성장 거점으로 도약 외 (8월10일 종합) 충북데일리",
+      "summary": {
+        "phenomenon": "진천군이 8월 10일 기준으로 탄소중립 녹색성장 거점으로 도약하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "탄소중립",
+        "녹색성장",
+        "거점",
+        "도약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "74",
+      "title": "카이스트 ESG 최고경영자과정 'AI 교육' 첫 도입 - 뉴스;트리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VNV85QVg0eDMzOGZyOGhqRHQwMWtlQi11YlFyaUswaGpiNTdMSTFReUozTGRhZTBZdUNBUXNoNWxmY200eHhlSUQ2MEozYmZwcFBNUnZPYXZlYzFj?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:17:45",
+      "description": "카이스트 ESG 최고경영자과정 'AI 교육' 첫 도입 뉴스;트리",
+      "summary": {
+        "phenomenon": "카이스트 ESG 최고경영자과정에 'AI 교육'이 처음으로 도입되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "카이스트",
+        "ESG",
+        "최고경영자과정",
+        "AI 교육",
+        "첫 도입"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "75",
+      "title": "키움증권, 임직원·시민 7억4000만보 걸었다…탄소중립 실천 확산 - PRESS9",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9USWJPSlIzMnRlV1NTWE9mbUl0YktuNm0tTDIyc3JyZzFhdVozcGNGc0hzWktyc3BWbWVzbTUzbGNLNWU2U19HVElsWXJXQkZjZXBlOUMxLUhlSzR5N2kwM29TalI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T04:40:06",
+      "description": "키움증권, 임직원·시민 7억4000만보 걸었다…탄소중립 실천 확산 PRESS9",
+      "summary": {
+        "phenomenon": "키움증권 임직원과 시민들이 총 7억 4천만 보를 걸었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "탄소중립 실천이 확산될 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "키움증권",
+        "탄소중립",
+        "7억4000만보",
+        "임직원·시민",
+        "실천 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "76",
+      "title": "한국기후변화연구원, ‘컴퓨터·전등 OFF’ 챌린지 - 강원도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLckhZT3Jnd0hsSzlvazBnRWgySXRMM2FZRFJ6dVlyMmE1QkVic0hBcWJzQmlTUXpaeTVJQXM3UUk5Y1QyUWJfei1NdFhpQ3gyWDI3RjRvZDdmTWFWWU9UWkFXZVRGZUxz?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:26:11",
+      "description": "한국기후변화연구원, ‘컴퓨터·전등 OFF’ 챌린지 강원도민일보",
+      "summary": {
+        "phenomenon": "한국기후변화연구원에서 ‘컴퓨터·전등 OFF’ 챌린지를 진행하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국기후변화연구원",
+        "컴퓨터",
+        "전등",
+        "OFF",
+        "챌린지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "77",
+      "title": "녹조·탄소중립 맞대면, 기후위기 극복을 위한 민관의 지혜를 모으다 > 뉴스 - 더코리아",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lbjhaajl3c2Jkdy1ENU5DNXh2bVFaYl9yeHpNSDRJV2tiQTI3Vm9ONVRmeXJNX1R4ZHlwNDQ2QUZKcURQMEQxdlItZWJnSTcyZ3BNR1BNMTBkSUlXOXk0bFdTeG9WdmpmZ0xkZU53LTk?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T04:19:00",
+      "description": "녹조·탄소중립 맞대면, 기후위기 극복을 위한 민관의 지혜를 모으다 > 뉴스 더코리아",
+      "summary": {
+        "phenomenon": "녹조와 탄소중립 문제에 대해 민관이 지혜를 모으는 자리가 마련되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후위기 극복을 위한 노력이 이루어질 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "녹조",
+        "탄소중립",
+        "기후위기",
+        "민관",
+        "극복"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "78",
+      "title": "탄소중립 한다더니…아마존 AI 데이터센터, 연 3300만톤 배출 논란 - 디지털투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55N0RDVDhZeEdQYmd1Mm00MGRRdUd5eVF1QXptS1pVaGhYQWQ2cmFpdkM3NThHOUhFallEeU02ZTBtZmZodWxSeXpDRkJST3pqMGpFOEs3OUpKczM5SHpIRDE0dVJIekRfa3hqWTc1X1hDMlU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T04:56:39",
+      "description": "탄소중립 한다더니…아마존 AI 데이터센터, 연 3300만톤 배출 논란 디지털투데이",
+      "summary": {
+        "phenomenon": "아마존 AI 데이터센터가 연간 3300만 톤의 탄소를 배출하고 있다는 논란이 제기되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "탄소중립",
+        "아마존",
+        "AI 데이터센터",
+        "배출",
+        "논란"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "79",
+      "title": "광명시, 전자영수증 가맹점 확대..소상공인과 ‘생활 속 탄소중립’ 확산 - 일간경기",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLVo4bWZnWnZWODVUU1VxMjJlMk94Wm1qWnpWZlVzQy1mNmxpbVBfTzd2Mi1pMjF2Z09JMDdBRlJ3S1llTFBNZ2ZKQ21MelNIV3p0ODJ0N3NRaVBfRFk5MG1qMUxnaHBX?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T02:41:43",
+      "description": "광명시, 전자영수증 가맹점 확대..소상공인과 ‘생활 속 탄소중립’ 확산 일간경기",
+      "summary": {
+        "phenomenon": "광명시가 소상공인과 협력하여 전자영수증 가맹점을 확대하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "생활 속 탄소중립 문화가 확산될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "전자영수증",
+        "가맹점 확대",
+        "탄소중립",
+        "소상공인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "80",
+      "title": "광명시, ‘기후의병 가맹점 확대 업무협약’ 체결…생활 속 탄소중립 문화 확산 - 이뉴스투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZV2YySnVBVTJhTlFNc0ZKMWtINVFjZE5Xd1FyeXZkMzVMY1lzNldlcE9QLVdkSUxrT21XenN2QmZSa2lmQ0VoWnBOT3piaVNZcDFmYm10Z3BOZFZ0QTB0ZTloS2xKMGpiQkRyeDg0cVHSAXRBVV95cUxNcUJKYkI1SmduMWN5Y1YzWXN4MjNGajJ6MEdpV2gyeS1DeGM0cE9UampmM3UyM05RMkxlQ3BFZFJhSHpEa3NKZ3JzZVhQZnRlV3hQb3FkMklBZWxjQVdlZk1nOVhIMks4VVF6YjJyWHN3ejdfMQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:40:00",
+      "description": "광명시, ‘기후의병 가맹점 확대 업무협약’ 체결…생활 속 탄소중립 문화 확산 이뉴스투데이",
+      "summary": {
+        "phenomenon": "광명시가 ‘기후의병 가맹점 확대 업무협약’을 체결했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "생활 속 탄소중립 문화가 확산될 것으로 기대된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "기후의병 가맹점",
+        "업무협약",
+        "탄소중립",
+        "문화 확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "81",
+      "title": "부산진구, 곽재식 교수 초청 ‘2026년 탄소중립 실천 환경교육’ 개최 - 영남신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaaXNvMFlST25EZW8zODFlb1BOZ291dnhWRWZwcHM2bWZreHlFWmFfWFlldGFOUTRlVUt6aEJnaXhrVDRKcEUteGtuUXZkRkVlX1FvRzdEWW1yX3V3WUFjQWpoMlVuUGtWNkp6T3pn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T08:36:09",
+      "description": "부산진구, 곽재식 교수 초청 ‘2026년 탄소중립 실천 환경교육’ 개최 영남신문",
+      "summary": {
+        "phenomenon": "부산진구는 곽재식 교수를 초청하여 '2026년 탄소중립 실천 환경교육'을 개최했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "부산진구",
+        "곽재식 교수",
+        "탄소중립",
+        "환경교육",
+        "실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "82",
+      "title": "전기 생산 넘어 ‘저장·관리’까지…진천, 탄소중립 에너지 자립도시 속도 - K-Life TV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsa3R3UXJfcFl5ZUV2MjQyanpTMDkwdHNEdE0walo2ZmNUWUI3R2lHMThxNUhxYlhOb2twZ3I3d052b0MwaFJ5VnRrWFZYTDBUU1RGLTJKQXpqc2lWSnpIWDdlRnk4d0JDdzZtbg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T23:23:47",
+      "description": "전기 생산 넘어 ‘저장·관리’까지…진천, 탄소중립 에너지 자립도시 속도 K-Life TV",
+      "summary": {
+        "phenomenon": "진천군이 전기 생산을 넘어 에너지 저장 및 관리까지 포함하는 탄소중립 에너지 자립도시로의 전환에 속도를 내고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천",
+        "탄소중립",
+        "에너지 자립도시",
+        "전기 저장",
+        "에너지 관리"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "83",
+      "title": "미추홀구, ‘찾아가는 탄소중립포인트 가입 창구’ 운영 - 인천교육일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iVURDM2JNUzZDT3lkNkUxX1NGQkRETEhBTFFoUFZVUS1BNWRPNFZPQU9CTU9JcXpCRklLS2tRTDVrQy01TlJocnlxcHdsOEZLdnRqUE9qLTJ6N2psTnVfOXA4UEdmODhS?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-09T23:26:07",
+      "description": "미추홀구, ‘찾아가는 탄소중립포인트 가입 창구’ 운영 인천교육일보",
+      "summary": {
+        "phenomenon": "미추홀구는 '찾아가는 탄소중립포인트 가입 창구'를 운영하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "미추홀구",
+        "탄소중립포인트",
+        "가입 창구",
+        "찾아가는",
+        "운영"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "84",
+      "title": "국회 기후특위 탄소중립기본법심사소위원회 주재하는 박지혜 소위위원장 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aRVpHQlJET0htdVgyOEszV1NlSktreTE0V3dmSlItQ3JhcmhWZzJvcVlFUUs5QUJYVjdzbDFlbzE1bzNVaENmaXhZZ0ptT0tINkxUdmctcVV4ZWpuOWFlcg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:53:29",
+      "description": "국회 기후특위 탄소중립기본법심사소위원회 주재하는 박지혜 소위위원장 뉴시스",
+      "summary": {
+        "phenomenon": "박지혜 소위위원장이 국회 기후특위 탄소중립기본법심사소위원회를 주재하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국회",
+        "기후특위",
+        "탄소중립기본법",
+        "심사소위원회",
+        "박지혜"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "85",
+      "title": "국회 기후특위 탄소중립기본법심사소위원회 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VNTFkakRYUW5uNmRmQlEzdzlZUlZ5VVo5WHBCazlacDU1MjNKdi1fMDRXVFI1WHE4SHlCUkd4SEg1b2l0aW96VkZGV1JjNHFrQmZ6c3REenA4WVVXUkE0Zw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:53:29",
+      "description": "국회 기후특위 탄소중립기본법심사소위원회 뉴시스",
+      "summary": {
+        "phenomenon": "국회 기후특위 탄소중립기본법심사소위원회가 진행되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국회",
+        "기후특위",
+        "탄소중립기본법",
+        "심사소위원회",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "86",
+      "title": "진천군 탄소중립 녹색성장 거점 도약 - 충북일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01ZVhPMmp3RjJYQnQtbTJMZ19UMmdnclhZczFPYTVWakJMSkNleXdtMzlVc2tTc3VEdlg2d21oRnlDQ2stZV9SbjlaRlVDZkllX1hQS1BmeU1Fdk5XZ2FkcTlR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:31:34",
+      "description": "진천군 탄소중립 녹색성장 거점 도약 충북일보",
+      "summary": {
+        "phenomenon": "진천군이 탄소중립 녹색성장의 거점으로 도약하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "탄소중립",
+        "녹색성장",
+        "거점",
+        "도약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "87",
+      "title": "광명시·소상공인 '기후의병 가맹점' 확대…전자영수증으로 탄소중립 실천 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xRXBjaGxLYTVSdnZkRXlGTWV3SmhCajlJZW9URy1YTl91LTZrdlg0aUIwRHNCOWhWcGNXX2JuZThfVG9CT2VsRE9HSDluWUJ1Zmpn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:18:00",
+      "description": "광명시·소상공인 '기후의병 가맹점' 확대…전자영수증으로 탄소중립 실천 네이트",
+      "summary": {
+        "phenomenon": "광명시와 소상공인들이 '기후의병 가맹점'을 확대하고 있으며, 전자영수증 사용을 통해 탄소중립을 실천하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "소상공인",
+        "기후의병 가맹점",
+        "전자영수증",
+        "탄소중립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "88",
+      "title": "\"생활 속 탄소중립, 마을로 찾아갑니다\"…임실군, 맞춤형 환경교육 강사 파견 - 더펜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5KVXd6MnM1U0pQS1dLVV83S0hzRTdIbzJkRkJOYmZZS2MwLTNsd09venZNSkdKdk9xMUlfaWJuSVBpSlEzdmViZ3VJX3gzMkFvd1dyNHo4ZEZjM0ZsTWpUNnZmRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:40:39",
+      "description": "\"생활 속 탄소중립, 마을로 찾아갑니다\"…임실군, 맞춤형 환경교육 강사 파견 더펜뉴스",
+      "summary": {
+        "phenomenon": "임실군이 생활 속 탄소중립 실천을 위해 마을로 찾아가는 맞춤형 환경교육 강사를 파견하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "생활 속 탄소중립",
+        "임실군",
+        "환경교육",
+        "강사 파견",
+        "마을"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "89",
+      "title": "원주시 탄소중립지원센터, '2026 원주시민 탄소중립 아카데미' 개최… '쓰레기박사' 홍수열 소장 초청 - 스포트라이트유",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOR0lZdDhMLW1uWk9VZzk0YjdwSVZIWjZXbnNucmpvaUMzVzNCQ0dEbHRtUzdyRUJJRFFZUkR2UDUyblVrY1dIcHlaYktadGVWdHM0bUlycWxMNmx1S3d1TW9jVUlMQjJsOEhFNURBUE1fcXVGM1JVQUF6SDJUdUlwUEhXaHlzaVpMdThkX3ZaV3A1czAwa0cycjhRMFBLczlQRjlqSDFVcGVla1YwOEdOaE55bVJicmlOaFdQZHpJRWFxQWdFcTJXRllQQ2JMMWxiZkdsTmlYNEVJaThmb2tyX0l4NnhoZWJqR28yT09XZTZZTjd1bndpUXFPNG5SeUx1WU13X1ZFRmpyWkRURUVwWVlPNWxua0J5MnB3REU2azVwTFdXTk1WYm43Y3JYRkFRUDdWZXVhdXNjdktHaDdJQjhB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T05:30:30",
+      "description": "원주시 탄소중립지원센터, '2026 원주시민 탄소중립 아카데미' 개최… '쓰레기박사' 홍수열 소장 초청 스포트라이트유",
+      "summary": {
+        "phenomenon": "원주시 탄소중립지원센터가 '2026 원주시민 탄소중립 아카데미'를 개최하며, '쓰레기박사' 홍수열 소장을 초청했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "원주시",
+        "탄소중립",
+        "아카데미",
+        "홍수열",
+        "쓰레기박사"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "90",
+      "title": "한국자원기술원, 제1기 탄소배출평가사 탄생 - 한국AI부동산신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ObmhleFNNdndfbTV3X0JPRWZhMjdwcUdTa24yVXJjeFhoNi1pQXFLdVgxR3NaYmNpNlBkelFuYUhPX0lPamNkaS1yb3o?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:13:14",
+      "description": "한국자원기술원, 제1기 탄소배출평가사 탄생 한국AI부동산신문",
+      "summary": {
+        "phenomenon": "한국자원기술원에서 제1기 탄소배출평가사가 탄생했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국자원기술원",
+        "탄소배출평가사",
+        "탄생",
+        "제1기",
+        "기후대응"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "91",
+      "title": "진천군, 탄소중립 녹색성장 거점으로 도약 - 금강일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43a1V5RHUtM0hxTHpocjNDSVplXzNzTVBTeEFlMGloal9QS1VaWk5oS1JjSmxOenJ4ZFRBT09QMUJtdGFfNUJzb3RDaEozckxLZy1wQ0twX1NLUEtadVRSMUZTSlJEdmU1dmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:53:33",
+      "description": "진천군, 탄소중립 녹색성장 거점으로 도약 금강일보",
+      "summary": {
+        "phenomenon": "진천군이 탄소중립 녹색성장 거점으로 도약하려는 움직임을 보이고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "탄소중립",
+        "녹색성장",
+        "거점",
+        "도약"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "92",
+      "title": "광명시 철산1동, 어린이와 함께한 ‘에너지품앗이&넷제로클래스’ 마무리 - 경기탑뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcVBiZDdUY1VjSFoxQXBITGlSeW83M0lCSWtnTGpCc05NVEQ0WjQ2RlRQR1V0ZlkzRE82aUJNSE1xUTRXbDZSR1ZtLUpzNzEtZVRGV09fREpLQ0otZ3JtbWkyTQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T06:10:13",
+      "description": "광명시 철산1동, 어린이와 함께한 ‘에너지품앗이&넷제로클래스’ 마무리 경기탑뉴스",
+      "summary": {
+        "phenomenon": "광명시 철산1동에서 어린이들과 함께한 '에너지품앗이&넷제로클래스' 교육 프로그램이 마무리되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "철산1동",
+        "어린이",
+        "에너지품앗이",
+        "넷제로클래스"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "93",
+      "title": "AI로 배우는 탄소중립·이동약자 배려…강남구, 청소년 ESG 교육 ‘호응’ - 잡포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pR0FWV2hPbG9iOXA3eDRzb29pV2FsVjVyRmprcFFpN3VKdXFsYWF0bldOR0o5OElBY0NwTDlITXNxOXR0aElPdEFSUjdNZk53ZUxEQVQxTnhqYzZMUXVEUjV4MGNuaDN2YTF3YmhB0gFyQVVfeXFMUGQzUlhQcHZmdUdJX2plSnQ4ZktETVhVdFRSbWpQSDBGMzZ3ay1udkRtcTlqaDJsT0txTTNVYWdITHpoVUcySm9tZUZBWXhJVWJ1Z1Ywc1ZoUjhnUUZ1VGlQd3gwSU1lRmJ3clNwWkFmWjFn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T05:20:19",
+      "description": "AI로 배우는 탄소중립·이동약자 배려…강남구, 청소년 ESG 교육 ‘호응’ 잡포스트",
+      "summary": {
+        "phenomenon": "강남구에서 AI를 활용한 청소년 대상 탄소중립 및 이동약자 배려 ESG 교육이 진행되었으며, 좋은 호응을 얻었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "탄소중립",
+        "ESG 교육",
+        "강남구",
+        "청소년"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "94",
+      "title": "국회 기후특위 탄소중립기본법심사소위원회 주재하는 박지혜 소위위원장 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BNmxwUGJfSzZwQ3F3TUNrRnhpc1hXWmYtdWwxVThkVWgzVjhYMzM0OUhMa2lqMjVYYUI3ckgwdWdySHB4WkV0ejBSUzIzTlg0azZF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T01:54:00",
+      "description": "국회 기후특위 탄소중립기본법심사소위원회 주재하는 박지혜 소위위원장 네이트",
+      "summary": {
+        "phenomenon": "국회 기후특위 탄소중립기본법심사소위원회에서 박지혜 소위위원장이 회의를 주재했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "국회",
+        "기후특위",
+        "탄소중립기본법",
+        "소위원회",
+        "박지혜"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "95",
+      "title": "LH, 제17회 국토기술대전 개최…AI·안전·탄소중립 아이디어 모집 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB5SjJJZGxSZnVrdkJYaTJiM09BMUxUQmJILUZtYW8zN2JhajZKMC11dnFnM0VDTDZrQlZ6R0ZQOGZwSUFqNnUwTDN4T0xQQlhuRDI4?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T07:10:00",
+      "description": "LH, 제17회 국토기술대전 개최…AI·안전·탄소중립 아이디어 모집 네이트",
+      "summary": {
+        "phenomenon": "LH가 제17회 국토기술대전을 개최하고 있으며, AI, 안전, 탄소중립 분야의 아이디어를 모집하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "LH",
+        "국토기술대전",
+        "AI",
+        "탄소중립",
+        "아이디어 모집"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "96",
+      "title": "숲길 걷고 해안서 플로깅…서초구 환경교사들, 제주서 ‘탄소중립 교육’ 체험 - 잡포스트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pWUJ2T2NZLWtHa0xrWG5OTXV0NGp3UG1BYlFab2xSWmZsZkprNDZtTFhFdjFmMG1ubmJoOFcyRGZGcTBXMVNxdGFqRFF5QTg0RDYxcUxWLVZBUFV0X09FekJ1Nm9BczEyX2tsT0hn0gFyQVVfeXFMTnJsTWpaZG5sa0tsWU9DNjhyTFJ0M3gzMC1WY042a2NnRUk0OWtuaUZhOXBla3dqTHplVmczRHpWQzg1cExBOUYzSmRxYnFQeGl3SFB4STJXU0p4eUlSc0pydW1ERHRXLWhVel90RDhXdGtR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T02:42:09",
+      "description": "숲길 걷고 해안서 플로깅…서초구 환경교사들, 제주서 ‘탄소중립 교육’ 체험 잡포스트",
+      "summary": {
+        "phenomenon": "서초구 환경교사들이 제주에서 숲길 걷기와 해안 플로깅 활동을 통해 탄소중립 교육을 체험했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "탄소중립 교육",
+        "환경교사",
+        "서초구",
+        "제주",
+        "플로깅"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "97",
+      "title": "키움증권, 걸음 기부로 탄소 6만7000㎏ 감축…탄소중립 ESG 실천 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yWXhXUzBYWk1jczJWTUo1ZzZtdDR4VnVBNjdvWkE3dmUtWjQ3a1BFWExaOVdUOU1vdWcwOEpxWVBucVVGXzkzRmh4RUdZaFMzLW1r?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-10T00:10:00",
+      "description": "키움증권, 걸음 기부로 탄소 6만7000㎏ 감축…탄소중립 ESG 실천 네이트",
+      "summary": {
+        "phenomenon": "키움증권이 걸음 기부 활동을 통해 탄소 6만7000kg을 감축하며 탄소중립 ESG를 실천했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "키움증권",
+        "걸음 기부",
+        "탄소 감축",
+        "탄소중립",
+        "ESG 실천"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "98",
+      "title": "이렘, 원픽이앤씨 지분 100% 인수…신재생에너지 사업 본격화 - 매일경제 마켓",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IcF9oZnB2UkQyZjhRMkJqazJsczdIbkc1UktSN0FKRGNVek9Ec0laUG9EcFpsRUJKRVZTSVAyWnNReDlPUG93M2ZpY1pMOFJiZWc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T08:58:24",
+      "description": "이렘, 원픽이앤씨 지분 100% 인수…신재생에너지 사업 본격화 매일경제 마켓",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨의 지분 100%를 인수했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 인수를 통해 이렘은 신재생에너지 사업을 본격화할 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "지분 인수",
+        "신재생에너지",
+        "사업 본격화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "99",
+      "title": "이렘, 원픽이앤씨 인수…신재생에너지 사업 확대 속도 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBYmFReWZDNTk0eWl5RFk0eUtfdmhHcGFCSnZraExqZDllYW9JajBTakFsMjdKeVUyTWFDYnhhNDZ5R1RYTndKYk9nV0pZamN5blA4dUtJZldCVFlCOGRiSdIBeEFVX3lxTFBCNXZFbC1TMmtwNk9rVV9nQkNhQV9CbUlkU0NBaWVIbEdEYnRFZ2pSeHVwRjlNekxlZ2pQMnpsYlMxaW1WYkdPQlE3SzgwMTQycWpnZkJBR0I5OUlZVmRZQzZkMGcwRWs3RlRlX2ZhbzJwa2xCNk9xVA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:39:50",
+      "description": "이렘, 원픽이앤씨 인수…신재생에너지 사업 확대 속도 뉴시스",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨를 인수했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 인수로 이렘은 신재생에너지 사업 확대에 속도를 낼 것으로 예상됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "인수",
+        "신재생에너지",
+        "사업 확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "100",
+      "title": "이렘, 원픽이앤씨 인수…호남 반도체 신재생에너지 밸류체인 구축 [공시록] - 파이낸셜뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XLVZIc3dLcExVcklsTVhmV01Ta1N3RnVsWnJhRnFJa2ZKMTBPME1waDNUd2pGRW03MlFzUVhTeDg3YUtwdTJ6djRqU2VsTDhickQzbDVFM3lHZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:48:19",
+      "description": "이렘, 원픽이앤씨 인수…호남 반도체 신재생에너지 밸류체인 구축 [공시록] 파이낸셜뉴스",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨를 인수했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 인수를 통해 이렘은 호남 지역에 반도체 신재생에너지 밸류체인을 구축할 것으로 전망됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "신재생에너지",
+        "반도체",
+        "밸류체인 구축",
+        "인수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "101",
+      "title": "경기도, 상수원 규제 희생 에너지 소득으로 보상...팔당 상류 재생에너지 219억 공모 - 아주경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9abWx4UG50QWR1RzFERHZUMElOQlJKcUdmbktLemtMRmFKWWhKcVRNS1U3dFoxdW1JWHhfM2MwcDBweHVXcUN0VEU5Zlk1WWZjVHhzUlQ5S2Ewd9IBWEFVX3lxTE1NWHBMelJjakZxSVNfVjFBTmdXY3h6bUxsX3RUaHZxcVNSekdvOXBkM2xVakd4SHRpTC1xdUVZUnJJQnBick05QnNNQlRGaHBGZDM5allwVUY?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T01:41:58",
+      "description": "경기도, 상수원 규제 희생 에너지 소득으로 보상...팔당 상류 재생에너지 219억 공모 아주경제",
+      "summary": {
+        "phenomenon": "경기도는 팔당 상류 지역에서 상수원 규제로 인한 희생을 보상하기 위해 재생에너지 사업에 219억 원을 공모한다.",
+        "cause": "팔당 상류 지역은 상수원 보호를 위한 규제로 인해 지역 주민들이 경제적 희생을 감수해왔다.",
+        "outlook": "재생에너지 사업을 통해 지역 주민들에게 에너지 소득을 보상하고, 지역 경제 활성화에 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "상수원 규제",
+        "재생에너지",
+        "에너지 소득",
+        "219억 공모"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "102",
+      "title": "녹색에너지연구원 “체험형 교육으로 신재생에너지 원리 이해한다” - 에너지데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0ydGRYQS1TcHBSbjJaYnIyd19ydzFQVXBJMkJkanFFTlpvOFcxbHc3UGMtYk5SdmtkS3pjTHFrNHpIdDF5RmNTU2Zmbm8yTFRLXzBEY21MS28wN1o4Ukg0WGp3R2R4WXdnYmtab09fV28tUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T08:04:10",
+      "description": "녹색에너지연구원 “체험형 교육으로 신재생에너지 원리 이해한다” 에너지데일리",
+      "summary": {
+        "phenomenon": "녹색에너지연구원은 체험형 교육을 통해 신재생에너지의 원리를 이해시키는 프로그램을 진행한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "체험형 교육을 통해 신재생에너지에 대한 이해도를 높이고, 관련 분야에 대한 관심과 확산을 유도할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "녹색에너지연구원",
+        "체험형 교육",
+        "신재생에너지",
+        "원리 이해",
+        "교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "103",
+      "title": "재생에너지 확대 중인 中 “수소는 계통 유연성 필수 자원” - 월간수소경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JOWpicXBpYnFTYjhNNmItSEg3ZzVQV1ZqMGswd0dhcU1FOHJ2UzlmVEFSMTlUMHJvNHRLZDFEMTduNGJ2VTBQQUFqcnZQbXpCSDBFUzhIT0hFeDJnMHVFZlhsbjdWZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:55:00",
+      "description": "재생에너지 확대 중인 中 “수소는 계통 유연성 필수 자원” 월간수소경제",
+      "summary": {
+        "phenomenon": "중국은 재생에너지 확대를 추진하고 있으며, 이 과정에서 수소를 전력 계통의 유연성을 확보하는 필수 자원으로 인식하고 있다.",
+        "cause": "재생에너지의 간헐성으로 인해 전력 계통의 안정적인 운영을 위한 유연성 확보가 중요해졌기 때문이다.",
+        "outlook": "중국은 재생에너지 확대와 함께 수소 활용을 통해 전력 계통의 안정성을 높이고 에너지 전환을 가속화할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중국",
+        "재생에너지",
+        "수소",
+        "계통 유연성",
+        "확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "104",
+      "title": "군산시의회, '햇빛소득마을' 교육 실시…재생에너지 소득 모델·문제점 집중 점검 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRmxOSFZqMlNXejZUNEYwbV9YemZicGtoYnlSVk5tRDU2OXV6ZzFpQkdySDVDenJINWVUVThtekU1TGFoUER4R0ZUNlY5RTVCbHBYZGJoYlowUFlIMWJEUDB3ZWwtMjR0Y2thazFB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T02:32:20",
+      "description": "군산시의회, '햇빛소득마을' 교육 실시…재생에너지 소득 모델·문제점 집중 점검 gukjenews.com",
+      "summary": {
+        "phenomenon": "군산시의회는 '햇빛소득마을' 교육을 실시하여 재생에너지 소득 모델과 그 문제점을 집중적으로 점검했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "교육을 통해 재생에너지 소득 모델의 효과적인 적용 방안을 모색하고, 발생 가능한 문제점들을 개선하여 지속 가능한 재생에너지 보급을 추진할 것으로 예상된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "군산시의회",
+        "햇빛소득마을",
+        "재생에너지",
+        "소득 모델",
+        "문제점"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "105",
+      "title": "이렘, 원픽이앤씨 100% 인수…신재생에너지 EPC·ESS 사업 확대 - edaily.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFZaWmF4TDVEdjE0SGRKN0pVMUNvRllIOEc4bFRtZUZvRjRuMm93Vi1xNWZQckJUUTl1TXpIZVpJTzBhRmEzTGNEMENZVjZSZEFscVUwTzg4ZzRfdWsyYW5FeGU2NGYtdWlSSHVSQklYNkpPUnRhaVBSUHRGQW9jdQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:55:12",
+      "description": "이렘, 원픽이앤씨 100% 인수…신재생에너지 EPC·ESS 사업 확대 edaily.co.kr",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨를 100% 인수하여 신재생에너지 EPC(설계·조달·시공) 및 ESS(에너지저장장치) 사업을 확대한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 인수를 통해 이렘은 신재생에너지 분야에서의 사업 역량을 강화하고 시장 점유율을 확대할 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "인수",
+        "신재생에너지",
+        "ESS"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "106",
+      "title": "[정석희의 기후 에너지 인사이트] 14. 신재생에너지에서 ‘신’이 빠지는 의미 - 동아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJdFlNYW1tTUl5LXpiRTJGSV9oODViS2VZX0FGSEQ1MEFOSlhJRU5NMG5EcHk5UkJBMFBFS0dKN2dOcDZ5ZXY2YzVGaU93M29GbS1SYTM1WkFwNmVicXRhcXQ3eVJQQdIBZkFVX3lxTFBJdFlNYW1tTUl5LXpiRTJGSV9oODViS2VZX0FGSEQ1MEFOSlhJRU5NMG5EcHk5UkJBMFBFS0dKN2dOcDZ5ZXY2YzVGaU93M29GbS1SYTM1WkFwNmVicXRhcXQ3eVJQQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:59:03",
+      "description": "[정석희의 기후 에너지 인사이트] 14. 신재생에너지에서 ‘신’이 빠지는 의미 동아일보",
+      "summary": {
+        "phenomenon": "신재생에너지라는 용어에서 '신'이 빠지는 현상에 대한 의미를 다루는 기사가 게재되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "신재생에너지",
+        "재생에너지",
+        "에너지 전환",
+        "기후",
+        "신"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "107",
+      "title": "HD건설기계, 인천공장 재생에너지 '확 넓혔다' - 경기신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaLWx0eUVFUFNDMVFad0dmeDROOUNXYzZfcEFVZ1dYOUJNWVN1SzNJLXI1dkxpN0o3S0VQLUZ5blQ2eTNqcnBhUmR1OGxSSlVHWW9lVUlMWVNEV3VhTEJlVjRn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:50:24",
+      "description": "HD건설기계, 인천공장 재생에너지 '확 넓혔다' 경기신문",
+      "summary": {
+        "phenomenon": "HD건설기계가 인천공장에서 재생에너지 사용을 확대했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "재생에너지 사용 확대를 통해 기업의 탄소 배출량 감축 및 ESG 경영 강화에 기여할 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "HD건설기계",
+        "인천공장",
+        "재생에너지",
+        "확대",
+        "친환경"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "108",
+      "title": "가로림만 재생에너지 이격거리 예외 추진... '입법 공백 보완'인가 '규제 추가'인가 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92dEVISjc2MEVpalJ0bExLd3RaUklIZnp3X3FYZi1sUjhReTJtZEJVTHdMNm9LbWwwaThaQlFZTjVpNHVpX0tnZmY4UGZ2Snc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T08:07:55",
+      "description": "가로림만 재생에너지 이격거리 예외 추진... '입법 공백 보완'인가 '규제 추가'인가 v.daum.net",
+      "summary": {
+        "phenomenon": "가로림만 지역에서 재생에너지 시설의 이격거리 규제에 대한 예외 추진이 논의되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이격거리 예외 추진이 입법 공백을 보완하는 것인지, 혹은 새로운 규제를 추가하는 것인지에 대한 논란이 예상된다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "가로림만",
+        "재생에너지",
+        "이격거리",
+        "예외 추진",
+        "규제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "109",
+      "title": "이렘, 신재생에너지 기업 '원픽이앤씨' 인수 - 뉴스핌",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TbDBkNjBHWXNRcV9QaTR0b29NZE5ZMk5XQlJQQVZFVzExZWZxRkRQdEZfQU9MZHFmZkF3Nlc4OWZDUHBtQ0lsVEVDNUd0SEtveWF6Y3NUdTFFY3Ji?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T04:42:00",
+      "description": "이렘, 신재생에너지 기업 '원픽이앤씨' 인수 뉴스핌",
+      "summary": {
+        "phenomenon": "이렘이 신재생에너지 기업인 '원픽이앤씨'를 인수했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "이번 인수를 통해 이렘은 신재생에너지 사업 분야에서의 경쟁력을 강화하고 사업 확장을 추진할 것으로 보인다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "신재생에너지",
+        "인수",
+        "사업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "110",
+      "title": "‘가로림만에 발전시설 빗장’…성일종, 해양생태공원 재생에너지 규제 법제화 - 녹색경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nTE1raGFOMklQZ0pWanJZanVnaTJ5bjFQencxanNDT0I4R1VhbnZhM3dicFZhUTd5bXZpdzBXamY1LUNGOUg1TWhycGtGQlk2N0VfLTZnS2k5QmN2NkljamtxRThnR05V?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T04:37:44",
+      "description": "‘가로림만에 발전시설 빗장’…성일종, 해양생태공원 재생에너지 규제 법제화 녹색경제신문",
+      "summary": {
+        "phenomenon": "성일종 의원이 가로림만 해양생태공원 내 재생에너지 발전시설 설치를 규제하는 법제화를 추진하고 있다.",
+        "cause": "해양생태공원의 생태계 보호를 위해 발전시설 설치에 대한 규제가 필요하다는 인식이 배경에 있다.",
+        "outlook": "법제화가 추진될 경우 가로림만 해양생태공원 내 재생에너지 발전시설 설치가 제한될 것으로 예상된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가로림만",
+        "해양생태공원",
+        "재생에너지",
+        "규제 법제화",
+        "발전시설"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "111",
+      "title": "비봉고, 신재생에너지로 그린 스마트 미래를 열다 - 화성시민신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jalRUNFNORU53VW9hazNCMXVnUnZLYkdjaUs4SDJQbUVuQlg3VmRIM1UzcUppQ2g1V0IzZ3ZpQXg3dHRvekhjaGc3MU1uZVhEZzJzSUpDS3d3Zlo4R3FITUZFMU5wUFkwVG9tS25ON2U?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:17:03",
+      "description": "비봉고, 신재생에너지로 그린 스마트 미래를 열다 화성시민신문",
+      "summary": {
+        "phenomenon": "비봉고등학교가 신재생에너지를 활용하여 '그린 스마트 미래'를 열었다는 내용이 언급되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "비봉고",
+        "신재생에너지",
+        "스마트 미래",
+        "그린",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "112",
+      "title": "경기도, 팔당 상류 6개 시군 재생에너지 사업 219억 규모 유치 지원 - 파주에서신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Hd28xR1RhTzNTdFZLVVRBZE03M2xNd1ItZTBldTBNcEJRVDNqaGtEOUQ0Q3JITmFvcU1tcVNzaUVMTjdfTjlNUXZ3WVJVblpjZUxHT09nd3RzSUtCYjhrVkVJN3Fibm8?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:50:54",
+      "description": "경기도, 팔당 상류 6개 시군 재생에너지 사업 219억 규모 유치 지원 파주에서신문",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에서 219억 원 규모의 재생에너지 사업 유치를 지원했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "유치 지원",
+        "219억"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "113",
+      "title": "STS강관사 이렘, 원픽이앤씨 인수목적 ‘신재생에너지업’ 진출 천명 - 철강금속신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxdTBtT0c2OGExd3RPc2hVNy1OR3I3UXVEZlhCWlN5djdHeTVYUXU0aF9XN0VLVW80dUI3ZjBxcXlQUXB5TVVadnQtcTZCRlB6bXpCSkdCaG1IaDlnSVY3bHlydElBWWx3ZUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:21:08",
+      "description": "STS강관사 이렘, 원픽이앤씨 인수목적 ‘신재생에너지업’ 진출 천명 철강금속신문",
+      "summary": {
+        "phenomenon": "STS강관사 이렘이 원픽이앤씨 인수를 통해 신재생에너지업 진출을 천명했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "신재생에너지",
+        "이렘",
+        "사업진출",
+        "철강금속",
+        "인수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "114",
+      "title": "김성환 기후장관 \"재생에너지 조기 확대하돼 원전으로 보완\" - 메트로신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhdE1uQll1N2RSdGNXa3BWVVJiaGgxcDhJWmVTMTRycWFDRE4yVlRSMXBfT01hZFpZUHhfenFPTk9GY2p1TFNnWm1DcU9rY2pSX2NWVnNKUEw1Y05wYmFiRQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:04:25",
+      "description": "김성환 기후장관 \"재생에너지 조기 확대하돼 원전으로 보완\" 메트로신문",
+      "summary": {
+        "phenomenon": "김성환 기후장관이 재생에너지를 조기에 확대하되 원자력 발전으로 보완하겠다는 입장을 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "재생에너지",
+        "원전",
+        "기후장관",
+        "에너지 정책",
+        "확대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "115",
+      "title": "성일종 국회의원, 국가해양생태공원 주변 재생에너지 발전시설 난립 막는다 - 뉴스체인지",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9hNFR1Q1FGWFlhczNxcndhV2dKcUtDeHVZeFFEclR1SUh0SHBSUGpOTTJ2REJWam1HZ3AzS3lRT2J1akpiMnNxRmdUdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T03:33:00",
+      "description": "성일종 국회의원, 국가해양생태공원 주변 재생에너지 발전시설 난립 막는다 뉴스체인지",
+      "summary": {
+        "phenomenon": "성일종 국회의원이 국가해양생태공원 주변에 재생에너지 발전시설이 난립하는 것을 막겠다고 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성일종",
+        "국가해양생태공원",
+        "재생에너지",
+        "발전시설",
+        "난립"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "116",
+      "title": "성일종 의원, 국가해양생태공원 주변 재생에너지 시설 난립 막는다 - 충청일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rbXY1b3BjUDdPZEN6Q0RLRkF3UWlUaW9hUjM1N3hZWEJGOVUyN0Y1bFRNVjRLVllCbnBFbEVJeEswRUs1azB6RFN5VEFVNW1VUFdBMjNXN0lLcVpMR25FS1hwbkZFeWJnT0RIVXUyMlY?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:30:16",
+      "description": "성일종 의원, 국가해양생태공원 주변 재생에너지 시설 난립 막는다 충청일보",
+      "summary": {
+        "phenomenon": "성일종 의원이 국가해양생태공원 주변에 재생에너지 시설이 난립하는 것을 막겠다고 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성일종 의원",
+        "국가해양생태공원",
+        "재생에너지 시설",
+        "난립 방지",
+        "환경 보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "117",
+      "title": "이렘, 원픽이앤씨 인수…호남 반도체向 신재생에너지 밸류체인 구축 - 파이낸스스코프",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pZzJHbGN2R3JrVWtSalItRXVGRENtZkFLS0VHVHVaaXAyNGRraHJBMzZ4ZXVVbGxNb2ZkbU5fOHBsSEN5bGdnRTJGY1h0djNncFJZYWxGc0RSSlpsRUpETGZ6NFo1TW54QXc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:45:00",
+      "description": "이렘, 원픽이앤씨 인수…호남 반도체向 신재생에너지 밸류체인 구축 파이낸스스코프",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨를 인수하여 호남 지역의 반도체 산업을 위한 신재생에너지 밸류체인을 구축할 계획이다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "신재생에너지",
+        "밸류체인",
+        "호남 반도체"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "118",
+      "title": "국가해양생태공원까지 재생에너지 이격거리 적용…해양경관·관광자원 보호 추진 - 에너지데일리",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MWWEyc3JUWmw4V2xLdWpLMk5xaE5lUEpEWmxBZnVibXI4b1E3WHdUZzl3Rm16TFM3OE00bnp3c0tSSi1Qcm5PZUJBTXVQVmxfekxHNUNfMjFSUmNlYlF4RkE5dWZSd3o1VE93WWM1QjVoUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:12:16",
+      "description": "국가해양생태공원까지 재생에너지 이격거리 적용…해양경관·관광자원 보호 추진 에너지데일리",
+      "summary": {
+        "phenomenon": "국가해양생태공원까지 재생에너지 시설의 이격거리 적용을 추진하여 해양경관 및 관광자원을 보호하려는 움직임이 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "국가해양생태공원",
+        "재생에너지",
+        "이격거리",
+        "해양경관",
+        "관광자원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "119",
+      "title": "[경기 24시] 팔당 상류 주민에 ‘햇빛소득’…경기도, 재생에너지 사업 선정 지원 - v.daum.net",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkVzVsSFYxbjhpMUxkbFZkQzVwUzdsTDZLaGdFTjRrOC1GMXhRVWJCc1hHbkF1azdoVjQ3blEwMXc5MWRfd0s4MVQzX0x5Rk0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T04:51:10",
+      "description": "[경기 24시] 팔당 상류 주민에 ‘햇빛소득’…경기도, 재생에너지 사업 선정 지원 v.daum.net",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 주민들에게 '햇빛소득'을 제공하기 위해 재생에너지 사업 선정을 지원하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "재생에너지",
+        "햇빛소득",
+        "팔당 상류 주민",
+        "사업 지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "120",
+      "title": "경기도, 팔당 상류 6개 시군 재생에너지 사업 선정 지원 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PMEZ3Wk1nYUhnVHZSeE9xY040RF9lVWYxWlF5U3JDODFWd3NFV0VTNFFkTG1VQUJtTXZqOHJ3a2t2MmFKZlJocGctNTZONUxFYVBxOC1zVjVVQlFaWEdLemhpOGk1N3dkXzlJR3ZKZUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T03:28:49",
+      "description": "경기도, 팔당 상류 6개 시군 재생에너지 사업 선정 지원 신아일보",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에서 재생에너지 사업 선정을 지원하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "사업",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "121",
+      "title": "중동 의존 낮추려 재생에너지 밀어붙인 동남아, 전력망 병목에 사업 절반 좌초, 데이터센터 유치 비상등 - The Economy Korea",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsUzNybG5GMEZ1Y1NUeGFYMVUxVk5OQWJpNjBLTWoxby1DVjI3bkhmZkltTnRtUWhnZ0Zadm1vUmdORkJhb0l2d09mQmpCLXZEbzNweDFKME1fU2s?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T06:27:50",
+      "description": "중동 의존 낮추려 재생에너지 밀어붙인 동남아, 전력망 병목에 사업 절반 좌초, 데이터센터 유치 비상등 The Economy Korea",
+      "summary": {
+        "phenomenon": "동남아시아에서 중동 에너지 의존도를 낮추기 위해 추진된 재생에너지 사업의 절반이 전력망 병목 현상으로 인해 좌초되었다.",
+        "cause": "동남아시아가 중동 에너지 의존도를 낮추기 위해 재생에너지를 적극적으로 추진했으나, 전력망의 병목 현상이 발생하여 발전된 전력을 효율적으로 송배전하지 못했기 때문이다.",
+        "outlook": "재생에너지 사업 좌초로 인해 동남아시아의 데이터센터 유치에 비상등이 켜졌다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "동남아",
+        "재생에너지",
+        "전력망 병목",
+        "사업 좌초",
+        "데이터센터"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "122",
+      "title": "재생에너지 기반 데이터센터 운영 사업 추진 - 제주MBC",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NZGZvVjE2SHZ0RTNYc3RqaHFmT2xYT01kQWFEcVBJZnU3SUVBM2hDcHAxeGJuQTNSNjhtM3ZTX3N6TGdDRDNlMU4ybmpGcmM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T22:30:00",
+      "description": "재생에너지 기반 데이터센터 운영 사업 추진 제주MBC",
+      "summary": {
+        "phenomenon": "재생에너지를 기반으로 하는 데이터센터 운영 사업이 추진되고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "데이터센터",
+        "운영 사업",
+        "추진",
+        "제주"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "123",
+      "title": "Contact Energy, 재생에너지로 2026년 하반기 견조한 실적 달성 - Investing.com 한국어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1VVZ2bENscjFNY0xHRm1nVzVYM0ZtS09NQUJpVHU5b0NQSDZ1M3ZCSC0yMVdpX0p1OVA1bHFYVDdGOEZmZERTeDZNZ0djMWRaV3JWUnAxakdjaDZhWTMwdV9NVkh6N2d3Z1UwNmRKdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:32:00",
+      "description": "Contact Energy, 재생에너지로 2026년 하반기 견조한 실적 달성 Investing.com 한국어",
+      "summary": {
+        "phenomenon": "Contact Energy가 재생에너지를 통해 2026년 하반기에 견조한 실적을 달성할 것으로 예상된다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Contact Energy",
+        "재생에너지",
+        "실적",
+        "2026년",
+        "견조한"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "124",
+      "title": "성일종, 가로림만 재생에너지 난개발 ‘법으로 막는다’…국가해양생태공원 이격거리 추진 - 뉴스홈(newshome)",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wRmlwM0Q3TlkxUzdSTkJlVmhpdXRneFk3M0V3b0RjalkxSk1iUmhoRTJkeUlZLU1qZlY4UndLUXNNcHg1aFBwYXZnYUpmbDQyZUpzVERqdi1GS3FBOG5zc0lNVlA2eHRTSkMzb2NB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T08:00:37",
+      "description": "성일종, 가로림만 재생에너지 난개발 ‘법으로 막는다’…국가해양생태공원 이격거리 추진 뉴스홈(newshome)",
+      "summary": {
+        "phenomenon": "성일종 의원이 가로림만 지역의 재생에너지 난개발을 막기 위해 국가해양생태공원과의 이격거리 추진을 법으로 제정하려 한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "125",
+      "title": "경기도, 팔당 상류 6개 시군 '재생에너지 주민지원사업' 선정 지원 - 프레시안",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iTFFqemRjRHJ5UnVIajdNa1JJcUtRUkpTa1pkRHRXaEU4ZmNQNU1CYUZSUGhFVmN2a1RheXlXYno2LVkzdXdfNlQtQTI4SVVfV3ZxSGd4LTNUYS1DX0hNanNSSF9DVTR3U1Vr?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:42:42",
+      "description": "경기도, 팔당 상류 6개 시군 '재생에너지 주민지원사업' 선정 지원 프레시안",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에서 '재생에너지 주민지원사업' 선정을 지원한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "주민지원사업",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "126",
+      "title": "경기도, 팔당 상류 6개 시군 재생에너지 사업 지원 나선다 - 모닝투데이",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1qUTU1c1g2Mm16VG0tZE45TXZhc0xDUzFlQ21nU0tEcm5Fd1JjUklBMWVVeEhXQjNwOHV1ZkZGc1lVckNtNmRVOWFXbWY?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T02:28:00",
+      "description": "경기도, 팔당 상류 6개 시군 재생에너지 사업 지원 나선다 모닝투데이",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에서 재생에너지 사업 지원에 나선다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "사업",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "127",
+      "title": "한화솔루션 주성엔지니어링 상승 SDN 하락 신재생에너지 엇갈린 흐름…이란, 미국에 '제재 해제' 요구 - CBC뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kSElQaTJpRGN2Wl94SWJlSlUyVDRpRXN6VkJGb2EwRmtNS2tKR3RFRy1iOTBqT1dvM1pFdTBQTVRObkVVTWx1aDdJdkJmdWhPUHRZaEk3bVBLZWpfeDBCZHJSRl9VN25f?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:02:20",
+      "description": "한화솔루션 주성엔지니어링 상승 SDN 하락 신재생에너지 엇갈린 흐름…이란, 미국에 '제재 해제' 요구 CBC뉴스",
+      "summary": {
+        "phenomenon": "신재생에너지 관련 기업인 한화솔루션과 주성엔지니어링의 주가는 상승한 반면, SDN의 주가는 하락하는 등 엇갈린 흐름을 보였다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "신재생에너지",
+        "한화솔루션",
+        "주성엔지니어링",
+        "SDN",
+        "이란 제재"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "128",
+      "title": "전북자치도, 가정형 베란다 태양광 보급 추진 - 전북도민일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00M2VLX3kyTWZjQjB3SDZMQzAwVnpVeHJDNnNDaVRod2lHbG5neXIzWW1xYzk5QkYwVm5rWVlqT29yMXg1ODBuX0J4VGF5QmZNdkNwODVLMzNFRGdnXzB0UVF3VXJFSVhHNEE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:59:48",
+      "description": "전북자치도, 가정형 베란다 태양광 보급 추진 전북도민일보",
+      "summary": {
+        "phenomenon": "전북자치도에서 가정형 베란다 태양광 보급 사업을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전북자치도",
+        "베란다 태양광",
+        "보급",
+        "추진",
+        "가정형"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "129",
+      "title": "경기도, 팔당 상류 6개 시군 '재생에너지 주민지원사업' 선정 지원 - 동양뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15djJZQXdoYXl3ZDB1Zlk0c0diZDdUd2dNNVFYR3NWeWtUNkhNbkJndEVndURZcXpEQW5FTWY3NGQ0MXA2aExpb2dOTENpZDZJdDhKZXppTVRRR2ZmYk1wZnI1QThWbVRDMmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T01:18:00",
+      "description": "경기도, 팔당 상류 6개 시군 '재생에너지 주민지원사업' 선정 지원 동양뉴스",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에서 '재생에너지 주민지원사업' 선정을 지원한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "주민지원사업",
+        "선정 지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "130",
+      "title": "진천군, 신재생에너지 보급 확대·전통시장 ESS구축 적극 추진 - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JUkhQYm9fOTVrcURVc3AtWHBpb3BCRU9JdkFPcHpsS2lXTUZzSURaZnItR1Z6VmlxdjNZSi1iVnVNcTVleDRfejh5SDdaX2s4cGswZlhMc2tWeGw3LWlz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:30:28",
+      "description": "진천군, 신재생에너지 보급 확대·전통시장 ESS구축 적극 추진 뉴스1",
+      "summary": {
+        "phenomenon": "진천군이 신재생에너지 보급 확대를 추진하고 있으며, 전통시장에는 에너지저장장치(ESS) 구축을 적극 추진한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "신재생에너지",
+        "보급 확대",
+        "ESS 구축",
+        "전통시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "131",
+      "title": "성일종 의원, '신에너지 및 재생에너지 개발·이용·보급 촉진법' 개정안 발의 - 데일리경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2R1hxQmowS2tVYUZsUEc2MmJULVhPRWtBN3NZUEtBZGM5Q3ctT1ptU0ZOOVIxendTUVE0M09yVkM3SkVNVzdkQ25tSzYydFF0WWtpRXFBZ2I2U3RmN1ZRMW9iMTM1OENPcnNTZA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T09:02:21",
+      "description": "성일종 의원, '신에너지 및 재생에너지 개발·이용·보급 촉진법' 개정안 발의 데일리경제",
+      "summary": {
+        "phenomenon": "성일종 의원이 '신에너지 및 재생에너지 개발·이용·보급 촉진법' 개정안을 발의했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "성일종 의원",
+        "신재생에너지",
+        "촉진법",
+        "개정안",
+        "발의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "132",
+      "title": "친환경 산업 국내생산세액공제, 기후위기 대응의 필요조건 [이원희의 기후兵法] - 에너지경제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uTHVVS2NzbDJoMko0cG93WUZ4ekpZSmxtSzI0QndfZV90OGNnbUVPTm1KSVBROHE3aG1MMHoyZWdSbXFCc0c0eEpfUS0xM18tODlPX1ZnZ29aMTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T02:21:11",
+      "description": "친환경 산업 국내생산세액공제, 기후위기 대응의 필요조건 [이원희의 기후兵法] 에너지경제신문",
+      "summary": {
+        "phenomenon": "친환경 산업 국내생산세액공제가 기후위기 대응의 필요조건으로 제시되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "친환경 산업",
+        "국내생산세액공제",
+        "기후위기 대응",
+        "필요조건",
+        "기후병법"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "133",
+      "title": "'규제 감수' 팔당 상류 시군, 재생에너지 공모…경기도, 총력 지원 - 뉴시스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LbWl3YTEyN2ZyNnFod2MwanQ3SlBCVEk4akZIZ2JxNTlFMkhnWHpjUHpJY3Vja0xSN2ZKUWw1V2NUdnhGNEtjeGVHZjRkY0g1WlZ3YlpGMzc4aWs1QUEyWdIBeEFVX3lxTFBoY2NSbkdzYjhNQ204ZHJmTWxBTmNXYnpCUXdlZ2dXZF9aRzR1ZGt5VHplWnVGaWlWcldJS200X1MwX3JRbHgyeUFLd0VlTjAzdGhqYXVZclR0RHZhVE9qdUdMSi15anNOT3UwaXhXalkyOV9wTHVnLQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T01:34:13",
+      "description": "'규제 감수' 팔당 상류 시군, 재생에너지 공모…경기도, 총력 지원 뉴시스",
+      "summary": {
+        "phenomenon": "팔당 상류 시군들이 규제를 감수하며 재생에너지 공모 사업에 참여했으며, 경기도가 이를 총력 지원하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "팔당 상류 시군",
+        "재생에너지",
+        "경기도",
+        "총력 지원",
+        "규제 감수"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "134",
+      "title": "진천군, 신재생에너지 보급 확대·전통시장 ESS구축 추진 - 충청리뷰",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00dHhVcVRWcWRSSGU2SEhxa0F3VDhmeC1ydDBYM0pkaU5NVzRiUm9kZGZmUUJEbnpCbjNzejhKWEdrQ1hVVkVqNWh3c1hVTEZvNWZEZE5XSkJwdmh4Yk5rMDVHMTZHLXBydThZS2Rn0gFyQVVfeXFMUHVScjFtYzBpU0dTaXpwODVzemM5MFF2bGNDNXBtakZEVUtiM3V2V19NNUJFUktsdXFmamdldHpVNUlNZEpvSjNrT2VTX3F2amFMWHZIZHpEZUFDWkhNSHpLUVFINE80ald5Z3dSdHZ3Qnh3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:01:31",
+      "description": "진천군, 신재생에너지 보급 확대·전통시장 ESS구축 추진 충청리뷰",
+      "summary": {
+        "phenomenon": "진천군이 신재생에너지 보급을 확대하고 전통시장에 ESS(에너지 저장 장치) 구축을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "신재생에너지",
+        "ESS",
+        "보급확대",
+        "전통시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "135",
+      "title": "성일종 의원 \"가로림만에 태양광 무분별 설치 막아야\"…재생에너지법 개정안 발의 - hdnews.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFByRDlrUm1jN20wX0xpRmFPU1Vmbmo3V1lPWHo4allfVXRRN19OeUxaMWM0SFBDVFdZODc0WUNBeUprUUxPUWJMRUtQZ2tWMlI4a2pDNlc3Wi1QLUlTelBDMkxyY1VEckZzc1hR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T03:40:52",
+      "description": "성일종 의원 \"가로림만에 태양광 무분별 설치 막아야\"…재생에너지법 개정안 발의 hdnews.co.kr",
+      "summary": {
+        "phenomenon": "성일종 의원이 가로림만에 태양광 시설의 무분별한 설치를 막기 위해 재생에너지법 개정안을 발의했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "성일종 의원",
+        "가로림만",
+        "태양광",
+        "무분별 설치",
+        "재생에너지법 개정안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "136",
+      "title": "성일종 국회의원, \"가로림만 주변 재생에너지 난립 막아야\", 법 개정안 대표발의 - 중도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wSWRVWkNZU292VXFET1hOR1FUSU1xWDdSbGFYMjJpX0FqNXpGMEowU1VmN1lGYVlaRVhUZmNmZHYzdXZKTlBWeEYtZ0JST28xQUFYRl95MDFxUnpwNkJTSzU0QmQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T02:39:04",
+      "description": "성일종 국회의원, \"가로림만 주변 재생에너지 난립 막아야\", 법 개정안 대표발의 중도일보",
+      "summary": {
+        "phenomenon": "성일종 국회의원이 가로림만 주변에 재생에너지 시설의 난립을 막기 위한 법 개정안을 대표 발의했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "성일종",
+        "가로림만",
+        "재생에너지",
+        "난립",
+        "법 개정안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "137",
+      "title": "경기도, 팔당 상류 6개 시군 ‘219억 재생에너지 사업’ 한강수계위 공모 선정 지원 - 브릿지경제",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpS25GTmVIekwwVVgyeC1DYkVWVzBBbTh5SW1QY21RWEVINlFsNFU0eGx5dG9FSXlVUmFxTjdpa2ZkTWdDV2YtQ25JZ2E0VkZhcXdOdjhhWGVjUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:45:00",
+      "description": "경기도, 팔당 상류 6개 시군 ‘219억 재생에너지 사업’ 한강수계위 공모 선정 지원 브릿지경제",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군의 총 219억 원 규모 재생에너지 사업이 한강수계위원회 공모에 선정되도록 지원했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지 사업",
+        "한강수계위",
+        "219억"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "138",
+      "title": "광명시 철산1동, 어린이와 함께한 ‘에너지품앗이&넷제로클래스’ 마무리 - timess.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xeDlna3VQY1hJQ0xQcnAyemduSFJ2TXBPd1huREtuU0ZQSzQ0ZDRYOTRvRWdDcGhSQ0lXR3JlbDJXaXp1em1ta01jR0hCSGJoN2VJZk5GeHNoTk8wcU1pNU1R?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:28:32",
+      "description": "광명시 철산1동, 어린이와 함께한 ‘에너지품앗이&넷제로클래스’ 마무리 timess.co.kr",
+      "summary": {
+        "phenomenon": "광명시 철산1동에서 어린이들과 함께하는 '에너지품앗이&넷제로클래스' 교육 프로그램이 마무리되었다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "철산1동",
+        "어린이",
+        "에너지품앗이",
+        "넷제로클래스"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "139",
+      "title": "전북자치도, 가정형 베란다 태양광 3,050세대 보급 추진 - 전북금강일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB2RXprSkdxNjRwZFEtRlJIejVJQ3VHZFM3LS1iLWltcWRQVTAydmhDandhWE11RTduNWptNnJZSGs?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:33:00",
+      "description": "전북자치도, 가정형 베란다 태양광 3,050세대 보급 추진 전북금강일보",
+      "summary": {
+        "phenomenon": "전북자치도가 가정형 베란다 태양광을 3,050세대에 보급하는 사업을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전북자치도",
+        "베란다 태양광",
+        "보급 추진",
+        "가정형",
+        "3,050세대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "140",
+      "title": "강기윤 창원시장, 기후단체와 첫 정책 간담회…‘낙동강 녹조·재생에너지’ 논의 - 코리아이글뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13MWpsdUpZaUNnU1JLOUQ4VlRRT3RmV241eEl4elN3azZUd2I3OFc0SE12MFdQZk9CcHlnUU5weHQxRG1lc295OVk3TVJCbG5WNDdRS21ONGpfWEdaRVY4MlBXYlZ0bjJrNjgtNnl5b0lPakU?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:05:00",
+      "description": "강기윤 창원시장, 기후단체와 첫 정책 간담회…‘낙동강 녹조·재생에너지’ 논의 코리아이글뉴스",
+      "summary": {
+        "phenomenon": "강기윤 창원시장이 기후단체와 첫 정책 간담회를 열어 낙동강 녹조 문제와 재생에너지에 대해 논의했다.",
+        "cause": "기사에서 언급되지 않음.",
+        "outlook": "기사에서 언급되지 않음."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "창원시장",
+        "기후단체",
+        "정책 간담회",
+        "낙동강 녹조",
+        "재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "141",
+      "title": "경기도, 팔당 상류 6개 시군 재생에너지 지원…총 219억 투입 - 팔당유역신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85STNMb2pWWnZ6UkQxT2tzNUdDaXhzVS1nUmp6R3BBQjdQRG9iakZfbkQ3dEJBaUtnZXcxZ0dDNHpLNU05VDNNM0F1clNzdzNjV2RDSEsxWEV6YmFzMVFoNkhldkdzdVZoNzRZ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:42:00",
+      "description": "경기도, 팔당 상류 6개 시군 재생에너지 지원…총 219억 투입 팔당유역신문",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에 총 219억 원을 투입하여 재생에너지 사업을 지원한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "지원",
+        "219억 투입"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "142",
+      "title": "건설업 둔화에 새 먹거리 찾는 GS건설…친환경 에너지 키운다 - 뉴스저널리즘",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SdEcwRVFwYUxndXpqN211bzEtS3kyRGFNZDZqV1pZUWR4UTIxN2J4Z2NmbHU1NVVUejA2dkRnczNINkoxampDdGNaeXhFTkNERWFkTy1WbHZ3MXVTZkF0LUcxdVpTNHdjUzNF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:16:51",
+      "description": "건설업 둔화에 새 먹거리 찾는 GS건설…친환경 에너지 키운다 뉴스저널리즘",
+      "summary": {
+        "phenomenon": "GS건설이 건설업 둔화에 대응하여 친환경 에너지 사업을 새로운 성장 동력으로 육성하고 있다.",
+        "cause": "건설업 시장의 둔화가 GS건설이 새로운 사업 분야를 모색하게 된 배경이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "GS건설",
+        "건설업 둔화",
+        "새 먹거리",
+        "친환경 에너지",
+        "사업 확장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "143",
+      "title": "성일종 의원, 국가해양생태공원 보호를 위한 재생에너지 법안 개정안 발의 - 여성종합뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1LXNQaFdta3BkRDhMc2FhOG1ZM1diNVN6UTV0M2pMZmZnWEZPTjVMV2s0dUpuXzU3NzhUYnJVSDdvQV9EZDZ3Wl8zM2t2bExXS1JrUktyamJTQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:21:42",
+      "description": "성일종 의원, 국가해양생태공원 보호를 위한 재생에너지 법안 개정안 발의 여성종합뉴스",
+      "summary": {
+        "phenomenon": "성일종 의원이 국가해양생태공원을 보호하기 위한 재생에너지 관련 법안 개정안을 발의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성일종 의원",
+        "국가해양생태공원",
+        "재생에너지",
+        "법안 개정",
+        "해양 보호"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "144",
+      "title": "최대 80만원 지원...가정형태양광 3,050세대 보급 추진 - 무진장인터넷뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wM2lxbzllS1pHZVAybWQ0VThvWElHSTc0cWIxOTgxMk1jdS1DRGZpNXY3OWh3RjduTGdWYXA3NFJzbnJhM21hYjFmVHEtZ1ZyMHpnZHBTbjVCQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T06:00:33",
+      "description": "최대 80만원 지원...가정형태양광 3,050세대 보급 추진 무진장인터넷뉴스",
+      "summary": {
+        "phenomenon": "가정형 태양광 보급을 위해 최대 80만원을 지원하며, 총 3,050세대에 보급을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "가정형태양광",
+        "보급 추진",
+        "80만원 지원",
+        "3,050세대",
+        "태양광"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "145",
+      "title": "경기도, 팔당 상류 6개 시군 219억 재생에너지 사업 확보 지원 - 이코노뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CLXNUWmtUWHR2bGxfZU1ObWt0UlctUlVuNjQ5blBBcGpJNTNJUi00YXlfY1JMU01FMGhGbVRUa1pZT3V6YWQyS20tRUNkdWZzangyWHk0YW96ZFlUSjBJbUhMOUpJT2drbWRfUE1B?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:30:00",
+      "description": "경기도, 팔당 상류 6개 시군 219억 재생에너지 사업 확보 지원 이코노뉴스",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군에 219억 원 규모의 재생에너지 사업 확보를 지원한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당 상류",
+        "재생에너지",
+        "사업",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "146",
+      "title": "\"가로림만 경관 지켜야\"… 태양광 시설에 '거리 두기' 추진 - 한국철도일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lTFZYQ0U0cGZmTFp1ZUFLR1FmSFZEMl9BR2d1LWdBdDFILUZvLTFrWFRXeG9mc0ZKVUs2RTZabXAzaWx1Q3Zaa1V0N2t1T1hUQ1pmMV9wYWJMbVBJZXl3bmtwNTdQdkF1ancxTEdQbWc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T05:35:24",
+      "description": "\"가로림만 경관 지켜야\"… 태양광 시설에 '거리 두기' 추진 한국철도일보",
+      "summary": {
+        "phenomenon": "가로림만 지역의 경관 보호를 위해 태양광 시설 설치 시 '거리 두기' 정책이 추진되고 있다.",
+        "cause": "태양광 시설이 가로림만의 자연 경관에 미칠 수 있는 영향을 우려하여 이러한 정책이 추진되고 있다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "가로림만",
+        "경관",
+        "태양광 시설",
+        "거리 두기",
+        "추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "147",
+      "title": "이렘, 원픽이앤씨 지분 100% 인수…신재생에너지 사업 본격화 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51REtVdDBYU3JPU2xQNFdibDZzNUF1ZzlUb3dFR29wc2R3c1FPNE5Ob2VWWGhPVWZWMkl1WnQ5anA1S2N5ZXlRankxeXB3aWdVYURz?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T08:59:00",
+      "description": "이렘, 원픽이앤씨 지분 100% 인수…신재생에너지 사업 본격화 네이트",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨의 지분 100%를 인수하며 신재생에너지 사업을 본격화한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "지분 인수",
+        "신재생에너지",
+        "사업 본격화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "148",
+      "title": "전북자치도, 가정형 베란다 태양광 3,050세대 보급 추진 - jbjnews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91NG5qVzRxTkh5MWd5N1JmTDFodWE4WVlVLUN5dXZ6bDlkR0pLUkdNWEZyeUhhZmxUeU9Oa1ZNc0hDZWhjdTVoa1ZzckpMNHhwSWdqUl82QldWNkM2SUcwRXZPb0cteV82Vmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T01:51:42",
+      "description": "전북자치도, 가정형 베란다 태양광 3,050세대 보급 추진 jbjnews.com",
+      "summary": {
+        "phenomenon": "전북자치도가 가정형 베란다 태양광을 3,050세대에 보급하는 사업을 추진하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전북자치도",
+        "가정형",
+        "베란다 태양광",
+        "3,050세대",
+        "보급 추진"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "149",
+      "title": "경기도, 팔당 상류 6개 시군 재생에너지 사업 공모 지원 - 보도자료 | 기사 - news.tf.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12dThNWk9ld0NBT2ZFVGd4azR5ZlBMV003dWNwVVlHUHFoVDdTYjlhbE0zR0p5cmxVUVdEM3laWktDRG5qOTVtdUlla203VHBOczZraXE1aXZnZ0FvdlRr?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T00:34:52",
+      "description": "경기도, 팔당 상류 6개 시군 재생에너지 사업 공모 지원 - 보도자료 | 기사 news.tf.co.kr",
+      "summary": {
+        "phenomenon": "경기도가 팔당 상류 6개 시군을 대상으로 재생에너지 사업 공모를 지원한다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "경기도",
+        "팔당상류",
+        "재생에너지",
+        "사업 공모",
+        "지원"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "150",
+      "title": "성일종 의원, 국가해양생태공원 인근 재생에너지 발전시설 이격거리 적용 법안 발의 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NZDNJN2N3dmptNWYzMjlvalF5NklFNWdyZXhhSXR3ZzBTbVpxZ3NDUXFQRlBDLVFScUMzUDRlZE52aE1ycjBDenVoY3dBczg3U0UzRWFmdTlzT2NEd3lYWGxwX0hPVTdFTUVJWnZ3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T06:28:30",
+      "description": "성일종 의원, 국가해양생태공원 인근 재생에너지 발전시설 이격거리 적용 법안 발의 gukjenews.com",
+      "summary": {
+        "phenomenon": "성일종 의원이 국가해양생태공원 인근에 재생에너지 발전시설 설치 시 이격거리를 적용하는 법안을 발의했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "성일종 의원",
+        "국가해양생태공원",
+        "재생에너지 발전시설",
+        "이격거리",
+        "법안 발의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "151",
+      "title": "진천군, 신재생에너지 보급 2263여곳 확대…전통시장 ESS 구축 완료 - gukjenews.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12M0RWTkN5UHMtY1ZsLWRsbkpfS3dkdFlkem42bm1rWXBNc2tWZlBJX1gzVWZPdmJtVGNNOURtYzNDa2dvbjMyQWJYanpyLVVfOHpuNF80TWw1RW9rajUxdlU0X1hjV1NxUGIteTNB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:40:04",
+      "description": "진천군, 신재생에너지 보급 2263여곳 확대…전통시장 ESS 구축 완료 gukjenews.com",
+      "summary": {
+        "phenomenon": "진천군에서 2263여 곳에 신재생에너지 보급이 확대되었으며, 전통시장에는 ESS(에너지저장장치) 구축이 완료되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "신재생에너지",
+        "ESS",
+        "보급 확대",
+        "전통시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "152",
+      "title": "JMAHS 임준의, J-S 신재생에너지컵 전국청소년골프대회 우승 - 공감신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwempoWlk4b29HaGNobmdGaENyVEpMYWJnMWVGc1RHVVR2a3cxbU45bU5hdWxPclJNTTNwZWNLQjN3WlRwLXpJNGFlVTRDOFhWdGJ1Qi13ZHEwUmF2N1VjRC05Nk44MG5Q?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T04:44:23",
+      "description": "JMAHS 임준의, J-S 신재생에너지컵 전국청소년골프대회 우승 공감신문",
+      "summary": {
+        "phenomenon": "JMAHS 소속 임준의 선수가 J-S 신재생에너지컵 전국청소년골프대회에서 우승했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "JMAHS 임준의",
+        "J-S 신재생에너지컵",
+        "전국청소년골프대회",
+        "우승",
+        "신재생에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "153",
+      "title": "이렘, 원픽이앤씨 인수…호남 반도체향 신재생에너지 밸류체인 구축 - 네이트",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1acDZidERHSDN6NHQxUmRkd3RENGhTV0JnR3BqaGpBX1JVVWhzcXJyd21GalZFbHZjQS1za0Y2RDBWM0lmRXc4bmplbERaTW1OZEFF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-09T23:44:00",
+      "description": "이렘, 원픽이앤씨 인수…호남 반도체향 신재생에너지 밸류체인 구축 네이트",
+      "summary": {
+        "phenomenon": "이렘이 원픽이앤씨를 인수하여 호남 지역에 반도체 산업을 위한 신재생에너지 밸류체인을 구축했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "이렘",
+        "원픽이앤씨",
+        "신재생에너지",
+        "인수",
+        "밸류체인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "154",
+      "title": "성일종, 가로림만 등 국가해양생태공원 재생에너지 난개발 막는다 - 스포츠서울",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrakhvZFdfWHBaTWEzWnNoZWpmZFdqVEZZWmVqaW1RSVl1ZUdIZXRWOVRBZXY5SjMtYnd3dzR2Zkp5b3lVaXAxeVJKbjIxcmROYXBIMXlweVo?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T02:58:37",
+      "description": "성일종, 가로림만 등 국가해양생태공원 재생에너지 난개발 막는다 스포츠서울",
+      "summary": {
+        "phenomenon": "성일종 의원이 가로림만 등 국가해양생태공원에서 재생에너지의 난개발을 막는다는 내용이 보도되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "성일종",
+        "국가해양생태공원",
+        "재생에너지",
+        "난개발",
+        "방지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "155",
+      "title": "광명시 철산1동, 어린이와 함께한 에너지품앗이·넷제로클래스 성료 - 웹이코노미",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mM0lYNmlLa3l5aVcwYXY5M0VWRjdIV25OSldoTUFCaVgyc1BCMjVXMFRQcHJlQW0xV2ZzbWFHbHIwbnlDRlRzd3RWaHRfS0Q4YnFnSGhxbndOajdRUFAyWWFOOFA1Qng4TmRWQlFXS1pBZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T07:49:16",
+      "description": "광명시 철산1동, 어린이와 함께한 에너지품앗이·넷제로클래스 성료 웹이코노미",
+      "summary": {
+        "phenomenon": "광명시 철산1동에서 어린이들과 함께하는 에너지품앗이 및 넷제로클래스 행사가 성공적으로 마무리되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "철산1동",
+        "어린이",
+        "에너지품앗이",
+        "넷제로클래스"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "156",
+      "title": "진천군, 전통시장 ESS 구축 및 태양광 보급 확대…에너지 복지 실현 - 뉴스티앤티",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jcmkxQnRZNTNxUlo1elNmclNRMk8zOHI5eTBlbWNzd1kycXFFbkRWbTE5cDJRY0JBWGswVmE5T19ENnFBSnRpSWdPelZMQk1FRWwtSG12UGRJTEJRazJxOVhic1lhXzRhQnc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-10T01:53:14",
+      "description": "진천군, 전통시장 ESS 구축 및 태양광 보급 확대…에너지 복지 실현 뉴스티앤티",
+      "summary": {
+        "phenomenon": "진천군에서 전통시장에 ESS(에너지저장장치) 구축 및 태양광 보급이 확대되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "진천군",
+        "ESS",
+        "태양광",
+        "에너지 복지",
+        "전통시장"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "157",
+      "title": "[단독] 기존 정책·업계 계획만 반영해도 산업·냉매 4170만t 추가 감축 가능",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101734001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T08:34:00",
+      "description": "김성환 기후에너지환경부 장관이 지난해 11월6일 서울 영등포구 국회 의원회관에서 열린 2035 국가 온실가스 감축목표(NDC) 공청회에서 발언하는 동안 객석에서 한 시민이 피켓을 들고 있다. 문재원 기자정부가 ‘2035 국가 온실가스 감축목표(NDC)’에 이미 정부와 업계가 제시한 감축수단을 충실히 반영하고 산업별 배출전망치(BAU)를 현실화할 경우, 산업···",
+      "summary": {
+        "phenomenon": "정부가 2035 국가 온실가스 감축목표(NDC)에 기존 정부 및 업계의 감축수단을 반영하고 산업별 배출전망치(BAU)를 현실화하면 산업 및 냉매 부문에서 4170만 톤의 온실가스를 추가 감축할 수 있다는 분석이 나왔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "2035년 국가 온실가스 감축목표 달성에 기여할 수 있을 것으로 전망된다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "2035 NDC",
+        "온실가스 감축",
+        "산업·냉매",
+        "배출전망치",
+        "기존 정책·업계 계획"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "158",
+      "title": "“한은이 담보로 받은 회사 채권 중 화석·고탄소가 53%, 녹색은 2%”",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101726011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T08:26:01",
+      "description": "녹색전환연구소Ｘ영국 퍼지티브머니 보고서“한은이 화석 연료 금융 지배력 강화”한은 “녹색 채권 시장 규모가 작아서”한국은행이 대출·결제 담보로 받은 회사 채권 중 화석연료 기반 사업을 하거나 온실가스를 많이 배출하는 업종의 채권이 53%에 이르는 반면 녹색 채권과 지속가능 채권은 2%에도 미치지 못했다는 분석이 10일 나왔다. 한은이 녹색채권을 일반국채와 동···",
+      "summary": {
+        "phenomenon": "녹색전환연구소Ｘ영국 퍼지티브머니 보고서“한은이 화석 연료 금융 지배력 강화”한은 “녹색 채권 시장 규모가 작아서”한국은행이 대출·결제 담보로 받은 회사 채권 중 화석연료 기반 사업을 하거나 온실가스를 많이 배출하는 업종의 채권이 53%에 이르는 반면 녹색 채권과 지속가",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "한국은행",
+        "회사채",
+        "화석연료",
+        "녹색채권",
+        "고탄소"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "159",
+      "title": "[단독] ‘철강·석화 감축량’ 53%안도 61%안도 똑같다····‘추가감축’만 980만t 늘린 산업 NDC",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T08:00:00",
+      "description": "온실가스 관련 일러스트. 김상민 선임기자정부가 설정한 2035년 산업 부문 업종별 온실가스 감축량이 ‘국가 온실가스 감축목표’(NDC)의 53% 감축안과 61% 감축안에서 동일하게 책정된 것으로 확인됐다. 업종별 감축량은 그대로 두고, 감축 주체와 수단이 정해지지 않은 ‘추가감축’ 항목의 감축량을 늘리는 방식으로 국가 감축률 61%를 맞춰놓은 것이다. 정부···",
+      "summary": {
+        "phenomenon": "온실가스 관련 일러스트. 김상민 선임기자정부가 설정한 2035년 산업 부문 업종별 온실가스 감축량이 ‘국가 온실가스 감축목표’(NDC)의 53% 감축안과 61% 감축안에서 동일하게 책정된 것으로 확인됐다. 업종별 감축량은 그대로 두고, 감축 주체와 수단이 정해지지 않은",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "산업 NDC",
+        "온실가스 감축량",
+        "추가감축",
+        "철강·석화",
+        "감축목표"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "160",
+      "title": "세계 자동차시장, 유럽・아시아는 전기차, 미국 하이브리드 선호 뚜렷…지역별 경쟁은 더 치열",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101608001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T07:08:00",
+      "description": "서울 한 대형 쇼핑몰 내의 전기차 충전소 모습. 연합뉴스내연기관차를 대체할 자리를 두고 전기차와 하이브리드에 대한 선호가 올 상반기 전세계 권역별로 뚜렷하게 갈렸다. 유럽·아시아를 중심으로 전기차 판매가 크게 늘어난 반면, 미국은 하이브리드차가 두 자릿수 성장하며 전기차 인기를 앞질렀다. 완성차업체들의 지역별 전략도 세분화될 것으로 전망된다.시장조사업체 S···",
+      "summary": {
+        "phenomenon": "서울 한 대형 쇼핑몰 내의 전기차 충전소 모습. 연합뉴스내연기관차를 대체할 자리를 두고 전기차와 하이브리드에 대한 선호가 올 상반기 전세계 권역별로 뚜렷하게 갈렸다. 유럽·아시아를 중심으로 전기차 판매가 크게 늘어난 반면, 미국은 하이브리드차가 두 자릿수 성장하며 전기",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "전기차",
+        "하이브리드",
+        "자동차시장",
+        "지역별 선호",
+        "경쟁"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "161",
+      "title": "펄펄 끓은 지구···지난달 세계 바닷물 온도 역대 최고",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101530001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T06:30:00",
+      "description": "폭염이 이어져 온 지난 3일 서울 종로구 탑골공원 인근에서 한 시민이 물로 더위를 식히고 있다. 한수빈 기자지구의 바닷물 온도가 관측사상 최고치에 이르렀다는 분석 결과가 나왔다.유럽연합(EU)의 기후변화감시기구 ‘코페르니쿠스 기후변화서비스(C3S)’는 10일(현지시간) 극지방을 제외한 남위 60도와 북위 60도 사이 비극지 대양의 표면 평균온도가 지난달 2···",
+      "summary": {
+        "phenomenon": "유럽연합(EU)의 기후변화감시기구 ‘코페르니쿠스 기후변화서비스(C3S)’에 따르면, 지난달 극지방을 제외한 남위 60도와 북위 60도 사이 비극지 대양의 표면 평균온도가 관측사상 최고치에 이르렀습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "지구",
+        "바닷물 온도",
+        "역대 최고",
+        "폭염",
+        "코페르니쿠스"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "162",
+      "title": "“지칠대로 지쳤다” 풍력발전 건설로 철거 위기 내몰린 네덜란드 항구도시",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202608101516001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-10T06:16:00",
+      "description": "지난 6월22일(현지시간) 네덜란드 로테르담 항구에서 남쪽으로 약 20km 떨어진 무르데이크 마을 뒤로 산업단지가 펼쳐져있다.네덜란드의 한 마을이 친환경 에너지 시설의 확장으로 존폐 위기에 놓인 것으로 나타났다. 지난달 출범한 신임 정부가 정책 기조를 바꾸면서 마을이 살아남을 수 있다는 희망의 불씨가 켜졌지만, 주민들은 여전히 불안함에 시달리고 있다.AFP···",
+      "summary": {
+        "phenomenon": "지난 6월 22일(현지시간) 네덜란드 로테르담 항구에서 남쪽으로 약 20km 떨어진 무르데이크 마을이 친환경 에너지 시설인 풍력발전의 확장으로 인해 존폐 위기에 놓였습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "지난달 출범한 신임 정부가 정책 기조를 바꾸면서 마을이 살아남을 수 있다는 희망이 생겼지만, 주민들은 여전히 불안해하고 있습니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "풍력발전",
+        "네덜란드",
+        "마을 철거",
+        "친환경 에너지",
+        "주민 불안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "163",
+      "title": "올 여름 기후 변화의 가혹한 현실이 유럽 경제를 강타한 방식 - 로이터",
+      "original_title": "How the hard reality of climate change hit Europe's economy this summer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNFFOeHJsTmtMNUdzeWw0WnhwY2xRQlJvOURPczNwdjNtVXk4Z2x6dDFYVS0xdFJDQ3JMOEpla19XMmdRVU52V2xMalotMmdvRGtodFJSdEN2RHlxdjVsbDlQYkk2ZmlVajV1blVlTDYtQko3UGZtbXlrM3hndm1aX2dYcnl1LXpHZjdlSDhWcF9qMUVQZlVzOE9NOEU2RlBzcGRqbjllbWdEM1NpV3FrRmVSczduMy1EN0h6ag?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:02:00",
+      "description": "How the hard reality of climate change hit Europe's economy this summer Reuters",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽 경제",
+        "타격",
+        "올 여름",
+        "가혹한 현실"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "164",
+      "title": "기후 변화가 우리를 더 외롭게 만들 수도: 폭염과 극단적인 날씨가 사회적 연결을 방해하는 방식 - PBS",
+      "original_title": "Climate change may be making us lonelier. How heat waves and extreme weather disrupt social connections - PBS",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOTl2V3pRS1Vnb1FRaUh3U21CWW5JQ2dQMHdJZ1pRd0JYaWxNQzdjTWFOMjAzOTJhU2JwT3JCc1lSNkstV1JEZ0pISkR4SklWYjc0ZUItaHJtSTZmRllUOGdEd2hhZ2s4Y0U3MHdHZ3g3S0ZPeFVOSkd1Y0JLVldFZ1h0TThzUjAxNnVGU1JLcDZJSTJ0amlvazVWMDBUZ2JTZDUtVHBEQzJnVU5iRmEwel9KTjFDcjJEMExLRlpkNmFjWk1pVGRKVTc4WkQ4OHR4RWNRZA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T18:23:55",
+      "description": "Climate change may be making us lonelier. How heat waves and extreme weather disrupt social connections PBS",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "외로움",
+        "폭염",
+        "극단적인 날씨",
+        "사회적 연결"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "165",
+      "title": "Severe marine heatwaves as climate change plays out ‘in front of our eyes’ - Financial Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTVJIV0tyM1RaREgweFV1OHZualdFTzRGUjQ4UkY0b0lFRFRNLUR3eUJidkI5TldYNllmXy10MlBBaTZUYjItLXRqSVl3NWhaZC1QNnJpb0VfWmw1TFFzN2JFSFAwTHdHdUk2alF2Nk5TVG5NSFQ1Mldmd0MwclpWZ3hyYlQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T08:46:53",
+      "description": "Severe marine heatwaves as climate change plays out ‘in front of our eyes’ Financial Times",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "166",
+      "title": "프랑스 농부들, 기후 변화 속 이국적인 작물로 전환",
+      "original_title": "French farmers turn to exotic crops amid climate change - connexionfrance.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2d0TEoyV1V6dmxPOFl3QmN6bVB3RTQ4VHJUNFZrTjNnZEVIb1Q5RkJFdy1UbDFpbUwwS2dILVJjeGhsa2RObW0yZFNTbGRzVEJ6X0J0ZzdqcmJFWmhNLXpMdENMazhDYlJNT1BPWVh2VG94OTR1WEVxUHJ5ZkJMQTNZSzNJM0tGbmhjSXZ4VmtWN2tIbDlDV0VkSndpdDB4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T04:00:00",
+      "description": "French farmers turn to exotic crops amid climate change connexionfrance.com",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "프랑스",
+        "농부",
+        "기후 변화",
+        "이국적인 작물",
+        "적응"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "167",
+      "title": "기후 변화, 남동부 복숭아 작물 위협 | 단독 - 오거스타 크로니클",
+      "original_title": "Climate change threatens peach crops in the Southeast | Exclusive - The Augusta Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQREVQcmRyZS1BZzgtWGdjQUtTd05hcVNjU3I3N1VpbUdienByT2ZlVTJpMVhwVW5YSTV3dFlPaFdTd1BvSnB0TkdHZ2FkcGd0V24xWVc3TC0zcFB3N0ljcC1vcThUTGw2ODVFaFJqTmNFSDNXcGpSSnZ4d2xPd0RkYnRBWnJmQzdmYXkxaE11Z0NtcmR1b09pdnVjd2NFOVdZck5KTGxnRlhqaDhFLXhMYWtfeXhUVWJvaHdJQTdfLWVaa3RvVThtYzhhbm9PalZyRkRpbk1CQVVCX1E5b29QNzZ1YUdIZnhRaDZZaHd0VQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T08:04:00",
+      "description": "Climate change threatens peach crops in the Southeast | Exclusive The Augusta Chronicle",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "복숭아",
+        "농작물",
+        "남동부",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "168",
+      "title": "기후 변화의 가혹한 현실이 올여름 유럽 경제를 강타한 방식",
+      "original_title": "How the hard reality of climate change hit Europe’s economy this summer - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUzZnTmNRdkVZa1ZiNUNkTU92R1BIY3BCYm9TUEFTcHpldWczcW14VVkyZTJJWTl3cktWcHQ1dU1fdUlWckdvT3Vod2JiZGRkN2dNbFN5MjBKZWV0djBwLVV2OElPNVhPWlliZXVnU05CY25zMGptbldCWlpPRm1CQnB0WHJmSWhHXzhkdFNYSGFkblRFa1RGSHdB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T08:07:00",
+      "description": "How the hard reality of climate change hit Europe’s economy this summer The Japan Times",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽 경제",
+        "경제적 피해",
+        "여름",
+        "가혹한 현실"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "169",
+      "title": "기후 변화가 유럽 경제에 어떻게 타격을 주고 있는가?",
+      "original_title": "How Is Climate Change Hitting Europe’s Economy? - Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkQ0FwcDIyaVptODJ0d0ZCVVJ5ODJvQWxrNW9teWdtcl8ybWZ5RUtIanhidUk0ZTFCZ180SjY3RW1YWEFzNGRsa2Rxcjc1eEh3Wm5jTWFmY2EyaTJpM2U3dnlySkNWS1hCUkxyNERheEt0dXVsdmdzWUZXWmVreUE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:18:42",
+      "description": "How Is Climate Change Hitting Europe’s Economy? Modern Diplomacy",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽",
+        "경제",
+        "영향",
+        "피해"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "170",
+      "title": "Malaysia risks missing crucial reforms as delay to climate change bill creates uncertainty - Eco-Business",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUN2Y083X0RCZTNiSUhoTmkwQmoyRklwTEF0a1BQVXRmMmpHc1IwbXNqZ2xHeFp5VmNSZEpOUEVGa3ZVWmNqSU41LW41NWdCLWExNW9DWVlrYXVUOWIyVkNIM2VnQ01PenJiTGw4dkxMcFQxZW1ONjgybzh2bFBtMzdhbTgxb192NXZYeUR2M1VEUHQzUjBNSEszTjB5NHBiYVJ1czZITnhxV3RIeHZrQmRVQmFJMnIzMjB6UFQwWGFfYVE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T06:54:00",
+      "description": "Malaysia risks missing crucial reforms as delay to climate change bill creates uncertainty Eco-Business",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "171",
+      "title": "분석-기후 변화의 냉혹한 현실이 이번 여름 유럽 경제를 강타한 방법",
+      "original_title": "Analysis-How the hard reality of climate change hit Europe's economy this summer - The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWVIMmJlVTVsamJvLU5EeXpWcnZuNnNEakhJdXNkZUFSX3NvcGdLeTM3dmJfejFDZk51U1p0djExZkdMUUNZOC1vWGxGXzJzVjB0QnJpSThNM21obDQtblZwLTNIbTJaZW1PaHkybEJfWkVyQmdObFN2d3h1N2p1OTFjRFBtVkRqeFg5ZC02VFVZZWt2XzJ4anBrNXlhZ2swSlRMeEpaaDMzU1JhcldqSkZIN25laG9rX0FCMy1rbERMZC1tVXVST2ZERkJpUDhFWDN3cUlsMk5sSF94Mm1MbWpnaHlTNF8zYjJ6Sm9jM0pCclQxLXM4SjVlNWpCbE0wWk5WcEk2ZWYzelU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:09:14",
+      "description": "Analysis-How the hard reality of climate change hit Europe's economy this summer The Lufkin Daily News",
+      "summary": {
+        "phenomenon": "이번 여름 유럽 경제가 기후 변화의 냉혹한 현실로 인해 타격을 입었다.",
+        "cause": "기후 변화가 원인이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽 경제",
+        "경제적 타격",
+        "냉혹한 현실",
+        "여름"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "172",
+      "title": "올 여름 기후 변화의 가혹한 현실이 유럽 경제를 강타한 방법 - 트레이딩뷰",
+      "original_title": "How the hard reality of climate change hit Europe's economy this summer - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeXRoYU9FTC0zRXNLLXBfUDNFWjZWQS1oVmpGOE9JN2xmWlQ4QW1wTm9HeXpCVV9sU1FSbWZha0xnREVXcFVKaGNaSkpBTWJ3SkEtYU9rNXBoNE1WSS05TTJ3WElIazhLRW5vQ1RmbnBNaWhKN045ekJwLTYwUXQ3bE5HcGpIQzZqMWNreHVnZGNDMmY1ZEpQV2lWdklMTmxJV2lLV1lhR0FxNGtaeFJDanp2Y1JOendKNFA1RnZwY2lxNjg0aTN3VXZLTWoyM1gtMHNtaHdCbzc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:00:00",
+      "description": "How the hard reality of climate change hit Europe's economy this summer TradingView",
+      "summary": {
+        "phenomenon": "올 여름 유럽 경제가 기후 변화의 가혹한 현실로 인해 타격을 입었다.",
+        "cause": "기후 변화가 원인이다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽",
+        "경제",
+        "여름",
+        "영향"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "173",
+      "title": "기후 변화가 학습을 위협할 때 교실을 계속 운영하기",
+      "original_title": "Keeping classrooms open when climate change threatens learning - bond.org.uk",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeDh3U0l6OEU1SzBkUW0zWlVSR0RxWDRRT1pCVDRSRjJ1SnVjb2JQYTVSeGJMTS01dU9OZXBENzF4bDdzV1E1U1NNeUhtYjVLY2lyWi1SZ0lSdWRMZUZQSmJhUGdkd1FhUHdaS21kTlE1QUNUTXd3STZIdW91a25TejAwS2hqWjZhQzJhMmowWTNaMDRBSk04am1SRmthOGFwOGc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T04:02:00",
+      "description": "Keeping classrooms open when climate change threatens learning bond.org.uk",
+      "summary": {
+        "phenomenon": "Keeping classrooms open when climate change threatens learning bond.org.uk",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "교육",
+        "교실",
+        "학습",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "174",
+      "title": "은퇴 학습: 저스틴 스쿠프 박사 '기후 변화 - 인간의 역할' - 서던 일리노이언",
+      "original_title": "Learning in Retirement: Dr. Justin Schoof \"Climate Change - The Role of Humans' - Southern Illinoisan",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVC02ZmFBZHFVVFFJZEdWYm5qd3R0SW5EREJnZjBDdzJiakd0OXNySUxkU19nYW4yZmJYZk1JZmFEMWVZd2RnZDhCQS1jN1VBZ1Rnem0wcDc3ejNPbkJVSDd5V1l0Y0lfanI0RGd3dGtUS0tDVGVsM0lCWk93aUNUaXF4UGRfRTh1eC02MDNKQjNXQnJhWFdkRUJ1cnZsdlFsUy1TeTFETEpCRmlHNjRYM2tKOUJOYWNwSmN4WmQ4S2hqbDFTZTNZQzZ0Z055UnJidVZOXw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-09T18:29:48",
+      "description": "Learning in Retirement: Dr. Justin Schoof \"Climate Change - The Role of Humans' Southern Illinoisan",
+      "summary": {
+        "phenomenon": "Learning in Retirement: Dr. Justin Schoof \"Climate Change - The Role of Humans' Southern Illinoisan",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "인간의 역할",
+        "은퇴 학습",
+        "저스틴 스쿠프 박사",
+        "강연"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "175",
+      "title": "Western Europe experienced its hottest June-July on record as climate change fuels an historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said. | via ANC 24/7 Link to full story in the comment section. - facebook.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOb1oybzlRbUk4RzFick0yLWxza2VpYWJBbXdjcEFEU3JxbjZaS2VLa3VlVUFNZWdHbENvYm01RWdYU2hpbk5mUDhZZlVERkd5bUh5Z2JRbVMxa09BaVlEU0d0bEpSZ0w1ZW0wcEU3dV9Yd0d5UktGaEVSMTEyOVRjODZUa2o4MEVndGRGRGpwemZRSXhjQ1FJbl9mVHpYakpSVTgtTkZNeFZBV3VBMjJ5ZUUyYmpLei12cURwS1E2RklkUUpvSDRYOXA1NHB3Y0hiaFp5NzFqbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:47:04",
+      "description": "Western Europe experienced its hottest June-July on record as climate change fuels an historic summer of heat, drought and wildfires across the region, the EU's global warming monitor said. | via ANC 24/7 Link to full story in the comment section. facebook.com",
+      "summary": {
+        "phenomenon": "Western Europe experienced its hottest June-July on record as climate change fuels an historic summer of heat, drought and wildfires across the region",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "176",
+      "title": "Analysis-How the hard reality of climate change hit Europe’s economy this summer - Internazionale",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZzFIbTFHLWtOZ1R1NlVjUm13Nm9EQ3VuT1BEN3puTmxtbldiQUNzbWotZDA0Yi15NDFLdnY3SG0xVWZsdVpmLTBWY2hEUXdQOFlCaVJzTlBSaUdxZ0pvZEluNjFBblpGbHRWSE9LR1RUV2NXeXoxYVY5U0ltNXI0dE1wS1VvbWNhamVnRWw2eVZ0NnBTVF9Nc1R0WFQ4SS0tWW9YZGI5MzEtUFg2N0lSUVBudWROVUZyNWVXZ3dRUmZfbmE4U3pHOTU4MzJXeDk5d2Z6cDZZMHZ1UWRZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:09:14",
+      "description": "Analysis-How the hard reality of climate change hit Europe’s economy this summer Internazionale",
+      "summary": {
+        "phenomenon": "Analysis-How the hard reality of climate change hit Europe’s economy this summer Internazionale",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "177",
+      "title": "기후 변화의 가혹한 현실이 올여름 유럽 경제를 강타한 방법",
+      "original_title": "How the hard reality of climate change hit Europe's economy this summer - Spotmedia.ro",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3JPLUNheWVZM0R4d1JwYjJjeW5EYUlvUHdhdlVJWktKRlVBV1dDRW9EMV9NQnB1a09NYTFtT0ZvNTZoQlZlU1lIS2JuZTFHb1NmdTl5T1U1Si15VllFZ0Q3eE11dUdoZHpWbjIzOWhzTmZYSThUWVIwdS14azJDd0w5MFh6bjNnYXZHSUMxY1RPN3dUMXg1X2oydGM4NndPS1RsRDBTdm9KWjZqRkRkVDkzak0yTkowTzU5Q1FB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T06:51:20",
+      "description": "How the hard reality of climate change hit Europe's economy this summer Spotmedia.ro",
+      "summary": {
+        "phenomenon": "How the hard reality of climate change hit Europe's economy this summer Spotmedia.ro",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽",
+        "경제",
+        "여름",
+        "피해"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "178",
+      "title": "ALGA의 2026년 연간 진행 조언 관련 기후변화청 제출",
+      "original_title": "Submission to the Climate Change Authority for 2026 Annual Progress Advice - ALGA",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEh1LVZHNXRBWWVKbDl2Sm9feTg0YmFRTDZXTVlqendDb2VHZE9LbzdlTGdnTE9TRHRLZldnazZKOVY3azhPQ3NGeTJfZmk5d2FoazFTSjdsOVN4QWoyeG1PTHc2T1JUbXZkekJ2Q1NsU2ZNeDl5WXZidWU0N1Vwcm4yUGhzSktiaWFYOXBmT1lHWUtjbVlIaTJwcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T01:31:07",
+      "description": "Submission to the Climate Change Authority for 2026 Annual Progress Advice ALGA",
+      "summary": {
+        "phenomenon": "Submission to the Climate Change Authority for 2026 Annual Progress Advice ALGA",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후변화청",
+        "제출",
+        "2026년",
+        "연간 진행",
+        "ALGA"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "179",
+      "title": "유럽의 끓는점: 기후 변화로 인한 경제적 여파",
+      "original_title": "Europe's Boiling Point: Economic Fallout from Climate Change - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdThtV1Z1bGM0Ni1XMkV3c1NHendJVThvaWkyVUNuSWtSd0w2US1mM09SMjRqNU9tRnFHZ3JEYTUtbW1wUU1XMDFQQk83RHA5aGJQXzZSQXlBX2Q5MUN6UjVsbW02VXZTNlYzQTItZzd4MFNpX0hsdEgtVVl0ZFBFdkxxVDdveHdKaGpJaHpjVUdnSmFYREQxQ0VoRHFhbEFQcGp6dFNzSHRCY1RMWkZodDBn0gG3AUFVX3lxTE5VbTRESUxzWGRTVXFueGhNb2p3bDBXMl9Tal80eTB0YmJPcG1ZS01WRWxGYU1EZDdwVGJVMVNLYkI5TE9BbkhJelg3LWF5Rko2T1YyanRFNnBMMFpkcXZlTm5VdDN2ckdYS0kyQTZYZDRXUjJJYi1keWtPQlJVcHJVUEVRNTFIUW53U19Od3BVWDBvcXk3bTlEazlpQzAycmQ2cnNlckJSTXFsZVA3Q2p6ZWZpWDhWQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T05:00:30",
+      "description": "Europe's Boiling Point: Economic Fallout from Climate Change Devdiscourse",
+      "summary": {
+        "phenomenon": "Europe's Boiling Point: Economic Fallout from Climate Change Devdiscourse",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽",
+        "경제적 여파",
+        "끓는점",
+        "폭염"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "180",
+      "title": "Climate change is making humid heat more intense in these Indian cities - Newslaundry",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3czdE9ONWRpQmgxYV9PZjVoanFQUG1obFpsRWcxWU1RV1hVX2otbklmX0ZjUEtJZnVLUUJKQS1YbGI4WlZvMzBRRGkzZUI5X3ljMkhheWdPcDBjNUJzQ1A0cFRIWmJ5N1NFc0lLOTR4M29ZcFpoLVp2S01IM0ZXQ1BURjhZSGFMUkZ6WTdHTGNaRnhtcU1aaHFhU2xuZ1RWTDJCbG9UR0dYdUJ2X2p30gHEAUFVX3lxTE0yOGlXNUQ3LUFvLTVsWkZBcklSWmlpdkdCTmxsRnpnRkRkOTFYcjcyNVNwcERrQ1FBM0F0RTIyYXJoYU1BcGpuRmhIcU9jajVZeEhfcUdtUTM0Z0R6bjJ1UDhuc1lQY1JaMzBTal80d081VWt1VXJLSWhjR2hFQjRZQ0xXWlRwUTlJcnVweWo1c3lhQVJqYUhJN3NkZ1FzNV9TTWc0cjNPTVlYZ3hZSTFHM3lpNm5lYmgtcjJvczdaR2gxeXI?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T03:34:53",
+      "description": "Climate change is making humid heat more intense in these Indian cities Newslaundry",
+      "summary": {
+        "phenomenon": "Climate change is making humid heat more intense in these Indian cities Newslaundry",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "181",
+      "title": "올 여름, 기후 변화의 가혹한 현실이 유럽 경제를 강타한 방식",
+      "original_title": "How the harsh reality of climate change hit the European economy this summer - vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzhPZGFfaDZtR0JSeHpocWVoaWtWT3U3dEJ6M0tQVV9SMEVldG93eWxOQnJMY2FnWmxoRHd1eV84SzZQbkFId2VNdDhIV1RqTDkxaDBMZS0ydjdiUjNqVS1Bd0VicS1ZM3F5ZERaeDZ0VldIR3ZRUHhPeDJxSkJiOUdNcUlfbVc1ZHVMeHdfV3d3TzhjQ3ZzekF6YW42ODVORkM0dVE1QUJvd2ZILU9Oajd1bVZ0Tjl0M0JoRtIBrgFBVV95cUxQV2FIanlhVk5tdk1ZSVRKZUtMaXFJaVlLaXFzRGVpbDcwQ25TTkRuNmRRc0ppVUZSWEZ4SHlQdG1QdWI4LVFtdXZuT1kzbnpJYXE2V0JRLTlOTl9GOEpFYV9neGlHMUxQYVJ6cnhybVBLcVNsOEkxbkl6OXJSSXJ6R2ZIdzJRZHBRcTZRWlViSkVZV1VlaFpYUHlYbjBiMG00WWtqQkFzc1hGMVVwWHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-10T06:04:36",
+      "description": "How the harsh reality of climate change hit the European economy this summer vijesti.me",
+      "summary": {
+        "phenomenon": "올 여름, 기후 변화의 가혹한 현실이 유럽 경제를 강타했다.",
+        "cause": "기후 변화가 원인으로 언급되었다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "유럽 경제",
+        "경제적 타격",
+        "가혹한 현실",
+        "올 여름"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "182",
+      "title": "영국 기온 36도 육박, 올여름 다섯 번째 폭염 임박",
+      "original_title": "UK temperatures could hit 36C as fifth heatwave of summer looms",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+      "source": "guardian_climate",
+      "published_at": "2026-08-10T07:44:19",
+      "description": "Met Office considers amber or red warning as forecasters say Thursday is likely to be hottest day of the weekTemperatures could reach 36C (97F) or higher this week, forecasters have said, with possible disruption to railway lines and power networks as the Met Office considers issuing rare amber or red extreme heat warnings.Parts of the UK are forecast to experience the fifth heatwave of the summer as the country continues to bake in an unprecedented period of dry, hot weather. Continue reading..",
+      "summary": {
+        "phenomenon": "이번 주 영국 일부 지역에서 기온이 36C(97F) 이상에 도달할 것으로 예보되었으며, 이는 올여름 다섯 번째 폭염이 될 것으로 전망된다. 목요일이 이번 주 중 가장 더운 날이 될 가능성이 있다.",
+        "cause": "영국이 전례 없는 건조하고 더운 날씨를 지속적으로 겪고 있는 가운데 폭염이 발생했다.",
+        "outlook": "폭염으로 인해 철도 노선과 전력망에 혼란이 발생할 수 있으며, 기상청은 희귀한 황색 또는 적색 폭염 경보 발령을 고려하고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "폭염",
+        "영국",
+        "기온",
+        "경고",
+        "피해"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "183",
+      "title": "캐나다 정부, '통제 불능' 산불로 수천 명 대피하자 개입",
+      "original_title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "source": "guardian_climate",
+      "published_at": "2026-08-09T18:20:25",
+      "description": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ effortsCanada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires that killed one person and forced about 22,000 people to flee their homes in frantic evacuations.A total of 102 wildfires were raging across the province on Sunday, of which nearly half were categorised as “out of control”, accordi",
+      "summary": {
+        "phenomenon": "캐나다 브리티시컬럼비아주에서 전례 없는 빠른 속도의 산불이 발생하여 일요일 기준 102건의 산불이 주 전역에서 맹위를 떨쳤으며, 이 중 거의 절반이 '통제 불능' 상태였다. 이로 인해 1명이 사망하고 약 22,000명이 긴급 대피했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "캐나다 연방 정부는 브리티시컬럼비아주에 긴급 지원을 제공할 예정이며, 산불의 빠른 속도로 인해 소방관들의 진화 노력이 방해받고 있다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "산불",
+        "브리티시컬럼비아",
+        "캐나다",
+        "대피",
+        "정부지원"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 183,
+    "domestic_count": 162,
+    "international_count": 21,
+    "top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "폭염",
+      "신재생에너지",
+      "기후변화"
+    ],
+    "sentiment_breakdown": {
+      "positive": 107,
+      "negative": 50,
+      "neutral": 18
+    }
+  },
+  "period": "afternoon",
+  "period_label": "오후"
+}
