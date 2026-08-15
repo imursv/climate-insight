@@ -1,15 +1,15 @@
 {
   "date": "2026-08-15",
   "metadata": {
-    "collected_at": "2026-08-14T23:30:44.590209",
-    "total_articles": 51,
+    "collected_at": "2026-08-15T08:24:31.942158",
+    "total_articles": 72,
     "sources": {
-      "korean": 21,
-      "international": 30
+      "korean": 35,
+      "international": 37
     },
     "sentiment_distribution": {
-      "positive": 15,
-      "negative": 22,
+      "positive": 26,
+      "negative": 29,
       "neutral": 6
     }
   },
@@ -1303,6 +1303,533 @@
           "정책"
         ]
       }
+    },
+    {
+      "id": "ec59e211f2344790",
+      "title": "“이런 여름은 처음이었다”… 극한 폭염으로 드러난 ‘기후위기’ - 경인일보",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fOVRnTEt3XzJiS19lcEFBMkRGTmQtQmZKNFdmUHVocE5yVVRNRXhMaUpLZGQwdng0TmFKYWotWHhHa1g3RVM4WWhxUVJPQ2dhV0E?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T05:42:06",
+      "collected_at": "2026-08-15T08:20:58.177055",
+      "keywords_matched": [
+        "기후위기",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "극한 폭염",
+          "기후위기",
+          "여름",
+          "이상기후",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "8b5f5da7efc93ed1",
+      "title": "‘대서양 해류’ 붕괴… 목표 온도보다 ‘온난화 속도’가 더 위험하다 - ESG비즈니스리뷰",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FVHA4TFM3dlczYTcya1NYTFJFb3BSR2phSXNkYlVpYjcwZXc5dUptTGN5YVhUUjZUUi1WeFdVWjVqTjVwMmxrMG05eFdJLXZqTEtyeEZtN2hobFdRYjlQcnhKRUhLajkxRW5iSXUwbFo0cVk?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T06:12:38",
+      "collected_at": "2026-08-15T08:20:58.177170",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "대서양 해류",
+          "붕괴",
+          "온난화 속도",
+          "위험",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "78c3d5922d409aac",
+      "title": "폭염에 시드는 인삼…'이중구조하우스' 주목 - 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UUGdpTFJtNEh3RTg3M1lJdkhFaGlJVDJjOG95NExjZWhreTBhQUVqQmQ4QU5ZMkNXY04wek8xc0ludW94T19OeEVTR2wtdVZYZlVz?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T04:14:00",
+      "collected_at": "2026-08-15T08:20:58.178021",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "46362a36b737c2af",
+      "title": "\"하늘에서 밭일 말린다\"… 살인 폭염 잡는 2,500대 '스마트 드론 순찰대' 떴다 - 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04d2hNQUE0VVJ4Mk4zU3Ffekc0UHhKV2NNbElHNzR5ZElxeUVyM1JoUFMxWDZJNjRZMktKb1dKZUc4elFkelR3Uld5dzY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T07:34:46",
+      "collected_at": "2026-08-15T08:20:58.178312",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "스마트 드론",
+          "폭염",
+          "순찰대",
+          "밭일",
+          "기술"
+        ]
+      }
+    },
+    {
+      "id": "d51d605165df177d",
+      "title": "‘탄소중립법’ 8월 처리 전망…기후·환경단체 “본회의서 부결시켜야” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1MzdmVmZpYjdzbV9qSnRPdjJtTkRYOEJGOFo0SmpDcldlQlk5Y2dPcnl2X3ZEY0RwLTRpbmozRnlNemJwSDdzaWxBcF9oRWs?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T04:14:42",
+      "collected_at": "2026-08-15T08:20:58.123266",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립법",
+          "기후환경단체",
+          "부결",
+          "8월 처리",
+          "본회의"
+        ]
+      }
+    },
+    {
+      "id": "8cd4ef0911dd576d",
+      "title": "원주미래산업진흥원, 탄소중립 실천 '컴퓨터 OFF & 소등' 챌린지 참여 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40cVBhWkJleEEyUlZzSDJ4cEY0NC1JRk9BTXhQVktnZm9IMDk1SFpmNXZPS2pjUm5mTkNlNXNuSEdFRXNvTnY0eWRjR1JRUUEwbEo3TTVaZE1hT3ly?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T02:55:00",
+      "collected_at": "2026-08-15T08:20:58.123430",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "원주미래산업진흥원",
+          "탄소중립",
+          "컴퓨터 OFF",
+          "소등",
+          "챌린지"
+        ]
+      }
+    },
+    {
+      "id": "ddea3fe59587f86b",
+      "title": "서천군, 2025년 온실가스 감축목표 193.5% 달성 - 뉴스21 통신",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2ZkxMRndGUUxILWZqd0NTbURGSjdtbnhrWWJQaVUwVVdsUjdZWnJoNzRxMVRxN3dEUHY1ZzczaTdqYkpkY1d5eFpmak5LYnlURGdkR3Rn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T07:26:09",
+      "collected_at": "2026-08-15T08:20:58.123521",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서천군",
+          "온실가스",
+          "감축목표",
+          "달성",
+          "193.5%"
+        ]
+      }
+    },
+    {
+      "id": "f453416036ad7a85",
+      "title": "국립공주대 RISE사업단, 충남도민 대상 탄소중립 전문 인재 탄소감축평가관리사 양성 추진 - 모빅경제",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFaEdzeGZaQ2xtMEQ0dmhhYnNtV0plUzUyeHAta2N1eWlvdklLS1VRRDNyVnFMRm16TXhmUnFmNVRNUGdCNFdkNkV3MEpQTVZtbDJxOWFIX3BhUGZmLUxZZjgyY0J1YmJVZUxoYWdxRXA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-14T23:48:05",
+      "collected_at": "2026-08-15T08:20:58.123550",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립공주대",
+          "RISE사업단",
+          "탄소중립",
+          "탄소감축평가관리사",
+          "인재 양성"
+        ]
+      }
+    },
+    {
+      "id": "1e33214ba0ed9209",
+      "title": "‘탄소중립법’ 8월 처리 전망…기후·환경단체 “본회의서 부결시켜야” - 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83NGVCdUI3X2RYa3VRc1VfRE1SemVIX2VVUG8wekllR21aTGs3bVRhQ1Q3Z0dUMF9vSmtJcWpmTVphQlhIWWRHYk1jcnE2aUxhVG40aFhMRnF4MjlHbm05UDBTLXI2QllYMXlB0gFUQVVfeXFMT3p1YlVTX2h3bVdUQlZOUkhFaG40bjJzb0cwbHZLN3Q3eThJM3pxRjFjZHUzTjlPbWJIVGNQOG5tdS1VSUoySERPYWFYcTk2ajNRNlhn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T04:13:13",
+      "collected_at": "2026-08-15T08:20:58.123577",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립법",
+          "8월 처리",
+          "기후·환경단체",
+          "부결",
+          "본회의"
+        ]
+      }
+    },
+    {
+      "id": "99b648eed34337f4",
+      "title": "인천대 앵커(RISE)사업단, 국제 친환경 플라스틱 컨퍼런스 통해 탄소중립 산업 협력 확대 - stnsports.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GLXQySGxpY3Y5VTEtcFFxRjVfa2lTRkY4ajB1Y0QtRnhNOHQxSkRaaklaTjJpOG55djc0R0E0SnhpN3lOQmVKb2h2UEUtbVVta0JnMXo1VWVNdGUtdE5VSGQ0RDEtUHE4cFU1QjRybw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T04:18:50",
+      "collected_at": "2026-08-15T08:20:58.123646",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천대",
+          "친환경 플라스틱",
+          "탄소중립",
+          "국제 컨퍼런스",
+          "산업 협력"
+        ]
+      }
+    },
+    {
+      "id": "b86140280a4697af",
+      "title": "중남미 오지 마을에 분산형 재생에너지가 가져오는 지속 가능한 경제 변화 - 2news.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lNk52S3BmaUpUZzdiVlFZRkhkQmxVU0s0U0wyWmFpTFF2RFJnMUNfQkN6TkE0VGRjcGhERjBHYVlpTTdDLWtLSmRDSlljTVVTMjdnZlV2ZkRhUFF4MGZ1R0tsSTdoRk5O?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-14T23:58:03",
+      "collected_at": "2026-08-15T08:20:58.065449",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중남미",
+          "오지 마을",
+          "분산형 재생에너지",
+          "지속 가능한",
+          "경제 변화"
+        ]
+      }
+    },
+    {
+      "id": "79ca8f8e82fc3b2f",
+      "title": "[칼럼] 새만금, 태양광에서 수소까지… ‘그린에너지 복합단지’가 여는 전북의 미래 - 케이에스피뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5LZVN2N3Fqak9fUWZvcnRKTzJ0ZnFsXzJEY3FXdms0MlZYa3d0TmRkanNQTnJVVkRXanJ0bGdwWEVJMFUx?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T07:56:00",
+      "collected_at": "2026-08-15T08:20:58.065522",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "새만금",
+          "태양광",
+          "수소",
+          "그린에너지 복합단지",
+          "전북의 미래"
+        ]
+      }
+    },
+    {
+      "id": "6b994d57989b33aa",
+      "title": "중국, 수소에너지 인프라 확대…재생에너지 수소 생산능력 140만 톤 넘어 - 얼리어답터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zak5xLXo5RVdMXzZIbnlmckJzV0tZbkdKYUtqeXZMZ3RVczZYME5za3V5dU9XN1FIREVuRGQ0bkJWYUtkTkJYMQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T01:44:28",
+      "collected_at": "2026-08-15T08:20:58.066016",
+      "keywords_matched": [
+        "재생에너지",
+        "수소에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "수소에너지",
+          "인프라 확대",
+          "재생에너지 수소",
+          "생산능력"
+        ]
+      }
+    },
+    {
+      "id": "97d31b0428145cc2",
+      "title": "강광석 시의원 “호남 반도체, 재생에너지로 전력 공급 가능” - 더쎈뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lRHc4RTVIVTRBdWg2cTN5Tm1obm5XZlExWFQ4X0dqcGNBdE1aWWZJdGRqcU9UQlNGMXo1M0Q1bnpqU19YWi1rdGdTSDRMNXQ0YzlZcHhCS0txX0k4RTZWekxXUHpycFJz?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T02:30:59",
+      "collected_at": "2026-08-15T08:20:58.066088",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "호남",
+          "반도체",
+          "재생에너지",
+          "전력 공급",
+          "가능"
+        ]
+      }
+    },
+    {
+      "id": "3291262915606897",
+      "title": "How Is Climate Change Shaping Tropical Storm Lala? - Honolulu Civil Beat",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYXd2TXZhZlRjZlJTREVLMDhUUVBuWEpJZGhQTnVhVWZtMjhiaEx3OV8xYWFZd1dZQzd1YnhSV3c1SFFrYndpM09GcFQ1aU04dGZ6RThDajFKZm15M1FVUHNWVjNPZzF0YVQ2MGNuSUNWZE5QWG1TSXF2eWlQWVUxb3E4OENqVE5SVEp4cg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-15T02:19:48",
+      "collected_at": "2026-08-15T08:20:59.755144",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4bc8a8946275bee6",
+      "title": "Climate change threatens peach harvests in Georgia. 5 things to know. - The Augusta Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWnRjV3Ixa3cyb0laeTBnSG83dkZRLXFJU2Q4VFlIdzNyYWp2VDJzSmpFNFY0VDZwZjhiQ25RdUlPSFN0SDBvR1Yzd1I4aXUwbnVnSGRjTkFZRmYxd2xKZkJObzFRblNtTGFtUXdTLXZ3R3cxdlhyMFZMdVgxaS1JNWIxWHRJX2RLNk9YQnF4bXU5SFkxNGplRk5lOS1tNnJrZFVJaUVfRnBWVmlMQVEtSUpiSU1hZGFfRFZac0ZqYkFsZTZMU1l0ZlMxZGVaWmlPQlZFQ3N3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-15T08:00:00",
+      "collected_at": "2026-08-15T08:20:59.755174",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 조지아 복숭아 수확을 위협한다. 알아야 할 5가지."
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "복숭아",
+          "수확",
+          "조지아",
+          "위협"
+        ]
+      }
+    },
+    {
+      "id": "ad8a5afd6afe0d6c",
+      "title": "Genomics helps endangered species survive climate change - Flinders University",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMlltY0FmcUVuazNsZWg2RWVjUFVfRk9tWUFtLXRtX1JDUnJ5RHFEZzdSa2ZYcjFpS1hKb0NFTERGRW11M2V1Rm96NkRRSmgzY1hISVRuVFdBOTYzcjBSMUhGX2M4aWVHNk1mXzlibGpVMUEtS0VSTmdVWFlBN3BCZU1FSGdHZGdGVXVPbHhHLWd5TTVLdExrOENOSDlLTi0tYXBOTg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-14T23:42:05",
+      "collected_at": "2026-08-15T08:20:59.755827",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유전체학, 멸종 위기종의 기후 변화 생존을 돕다 - 플린더스 대학교"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "유전체학",
+          "멸종 위기종",
+          "생존",
+          "기후 변화",
+          "플린더스 대학교"
+        ]
+      }
+    },
+    {
+      "id": "095d3b7a300cdaee",
+      "title": "Times letters: Climate change denial and UK’s duty to adapt - The Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQVlGaUpfVHZaZ0x2cG1nRVhEaWdzNWlsSFdGQmZUUXA3OFYyM0JSeml2eG5NcTNLcmw3U2wzR0tyWDZLcmVDekdtLVZZd1lUcHFrMHdHUzlOR0IzTU9rejljN1dCRVgwTlg0MEVyMTdJYzRFTkdJNTloamtwVlZPSnU2ZVdzRjVXRzRka0RxdG5od3RKczJienFYc2tqYXh2YnZnX3YxLXdoVksxZTQ4d1hMaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-14T23:01:00",
+      "collected_at": "2026-08-15T08:20:59.755905",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "타임스 독자 투고: 기후 변화 부정과 영국의 적응 의무"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "부정",
+          "영국",
+          "적응",
+          "의무"
+        ]
+      }
+    },
+    {
+      "id": "57aa1ccc6a1a4db4",
+      "title": "Government offers £65m support to farmers 'at the sharp end of climate change' - Business Green",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTZlLXpmYXZ0S1hianJuSlBzbE0xSlpTMW1aQmN3SGdVWTg2ZkNFeWtkUnZCaEN6djZPTE9XeXBSZ2JlUXBKdUJQLWRtM2xpV29EeWxtUXNCWVVqQkhNNkNWUUo2WDJ5Yy1GVzE0bndrRWhwcmx6UzZlTUZlcThxV0VFZTU4Mko2dWtxRWFJZ21Kc3NqeC1STTNhODRhNXhxRUxpVE1kdXg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-14T21:30:53",
+      "collected_at": "2026-08-15T08:20:59.756743",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "정부, '기후 변화 최전선' 농민들에게 6천5백만 파운드 지원금 제공 - 비즈니스 그린"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "농민",
+          "지원금",
+          "기후변화",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "6b2989d104dc8bc8",
+      "title": "THE LEFT HAS DELIVERED A PLATTER OF BOGUS CLAIMS ABOUT CLIMATE CHANGE. - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQjEyVm5DMUhkeHlDVFhHcUlMVU1xNEV0RVpBZHU2SjhFdEo0NTE5S2RyUkJzSldncW5WOHhfZTdTajFrdGFmYXA4UTQtNGVORWNtWDFZTnI1MHVmZVk2VUlCeTZIS1lfVWU4QnlaY2dXMjduWHBHeDlrSTVxaVhhdUlmbk1vUm9MTDhtaA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-14T22:53:00",
+      "collected_at": "2026-08-15T08:20:59.756808",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "좌파는 기후 변화에 대한 허위 주장들을 쏟아냈다."
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "좌파",
+          "허위주장",
+          "비판",
+          "논쟁"
+        ]
+      }
+    },
+    {
+      "id": "b3f679b00f7150b7",
+      "title": "‘In the heatwaves, it’s crucial’: the fight to save France’s rural swimming pools",
+      "link": "https://www.theguardian.com/world/2026/aug/15/rural-swimming-pools-france-funding-threat",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-15T04:00:46",
+      "collected_at": "2026-08-15T08:20:59.411277",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
