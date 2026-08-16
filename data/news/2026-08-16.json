@@ -1,16 +1,16 @@
 {
   "date": "2026-08-16",
   "metadata": {
-    "collected_at": "2026-08-15T23:26:51.532522",
-    "total_articles": 27,
+    "collected_at": "2026-08-16T08:24:16.801480",
+    "total_articles": 47,
     "sources": {
-      "korean": 13,
-      "international": 14
+      "korean": 28,
+      "international": 19
     },
     "sentiment_distribution": {
-      "positive": 3,
-      "negative": 16,
-      "neutral": 3
+      "positive": 9,
+      "negative": 23,
+      "neutral": 4
     }
   },
   "articles": [
@@ -679,6 +679,467 @@
       "published_at": "2026-08-15T15:54:15",
       "collected_at": "2026-08-15T23:24:18.638858",
       "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d23e22dfccbcbaed",
+      "title": "기후변화에 달라지는 경북 산업지도…`기후안전망` 짠다 - 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMUpvWjZkM25zUWZrSDJLOG90QkZJdTV0MzNrbjVTWFV4MFJSZnpkWS04M2xabEt5bkpuVkhDQ0xPOGxlWDlPb2lRNF9UaU1PV2QybU00amdxZW14SnNHMF9B?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T06:01:28",
+      "collected_at": "2026-08-16T08:21:44.032713",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "경북",
+          "산업지도",
+          "기후안전망",
+          "구축"
+        ]
+      }
+    },
+    {
+      "id": "db9182501181c63d",
+      "title": "“16도만 넘어도 체온 조절 한계”… 기후 변화가 바꾼 마라톤의 풍경 - esgbusinessreview.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FNGNSM3N3blg3dUtSVm52T3h1RmlQcmNsYTR2RUQyUW5mX3UyNUo4S1BRYVNUMWdDbGxSNkhTQk9nT1dId2Y1UGxzYlZfZGphZEp0ZzM1Z1k5Q1hKemtEQXNFSjNrc09HSHd1ZTFpLXQ4Nnc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T02:12:01",
+      "collected_at": "2026-08-16T08:21:44.032994",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "마라톤",
+          "체온 조절 한계",
+          "16도",
+          "스포츠 영향"
+        ]
+      }
+    },
+    {
+      "id": "afef6ef5a4d1838c",
+      "title": "WMO가 지목한 한국 폭염··· ‘가장 뜨거운 밤’ 일상화 - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GSFQxYldiV3JVVkxHaWItN1Z6OFB1TVItMFk1WDRHczVKRWRNdkx6MlhlZ20tOEU1d3p1WHZoSE1qRUw4dl9UNlpwd2JHQllya0NjQjJVNUdkNy1JRHQzT19hTi1MbjUx?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T23:05:00",
+      "collected_at": "2026-08-16T08:21:44.033024",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "WMO",
+          "한국",
+          "폭염",
+          "뜨거운 밤",
+          "일상화"
+        ]
+      }
+    },
+    {
+      "id": "e5f1780bc6dde220",
+      "title": "1500년 버틴 가야고분도 무너진다...기후위기 시대 국가유산 보존 ‘비상’ - M이코노미뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vRGM1RVJtZFhZeDRTN255VVZHU2Z6VjRpWXZ0Y3k3eElDNjg2ZU04STFHekd0S1M1RlNzNlFIQTRielA2TUVGcmxiYjFBT3VoSjNSdHpIOEliZHJuYVNrUk1qY2ZTd1U?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T06:40:08",
+      "collected_at": "2026-08-16T08:21:44.033202",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "가야고분",
+          "기후위기",
+          "국가유산",
+          "붕괴",
+          "비상"
+        ]
+      }
+    },
+    {
+      "id": "a3d0662661087a1a",
+      "title": "북유럽 와인 주목, 기후위기가 바꾸는 유럽 와인 지도 - realfoods.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVeURIVTNPYWR3Nm9BTFFNWU1sSk9WQ3J4cWNaM1Zhc3o5R1dyY3dFelk1MTlodFg4em1Ia1U2djVCbHNuS3F3RWlNc3RiMWFNeG5KeDhwUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T02:04:48",
+      "collected_at": "2026-08-16T08:21:44.033233",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "bbb4a77e4ff26cbc",
+      "title": "대기 중 이산화탄소 상승, 인간 '혈액 성분'까지 바꾼다 - esgbusinessreview.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmd29kLVAxckMxUXRTTVpFS1JuNmN0bGRQbmh3b0F3b0s2bnpXUzZ2NFJpb1JsRFF1NFlNU055OUFIc2NmTEk1Q2xYQ1pJN1JFVk15ZElLZWxHcTV1SjUxYWM5VUVjblV6UmxqR091WnUwbHc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T02:07:04",
+      "collected_at": "2026-08-16T08:21:44.033374",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "이산화탄소",
+          "대기",
+          "상승",
+          "인간",
+          "혈액"
+        ]
+      }
+    },
+    {
+      "id": "fcf08d9569ce8619",
+      "title": "[특별기고] ‘온실가스 감축’과 ‘탄소자원화’를 하나의 공정으로... - 한국공공정책신문",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5UdkNrVlB5SWFmcnRhNWF6NFZ4ZU0zY3IyY3d6bmlIeHl3SEg2ODY5ODdONHl3T2FCWV8yWEIwbC13RHM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T04:35:47",
+      "collected_at": "2026-08-16T08:21:43.976310",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "9ae8116a9864943f",
+      "title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMFRmbzFDOWVVOFA0cXIyX3VMQ1BRR2JWbUQ2UlYwbW9EWHc4Zk43R2NOQWQwOGpVUkY3UGNwY2lBM3R2dkdHbFV5WDhUY3VwbVRzZWpCUmRqZ1E0MlMzSdIBYEFVX3lxTE1tMFRmbzFDOWVVOFA0cXIyX3VMQ1BRR2JWbUQ2UlYwbW9EWHc4Zk43R2NOQWQwOGpVUkY3UGNwY2lBM3R2dkdHbFV5WDhUY3VwbVRzZWpCUmRqZ1E0MlMzSQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-15T22:15:01",
+      "collected_at": "2026-08-16T08:21:43.919527",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "AI",
+          "재생에너지",
+          "ESS",
+          "전력 안정성",
+          "인프라"
+        ]
+      }
+    },
+    {
+      "id": "c78bbbbbee2e93e2",
+      "title": "중국, 재생에너지 재활용 규정 조기 시행 계획 발표 - Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xTk96b2VKandkZzU0eTd6WklLNkUwZzMtRWV3QlJrQm9zelBOcmNzMzh6dnBpa0VKdkthUG9TUTByNEsxbDFzUHpxVjBEd1MwNVVDcE4wbGRpWnh6UHZtX19uSHczZ0txQ2c?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T06:26:00",
+      "collected_at": "2026-08-16T08:21:43.919570",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "재생에너지",
+          "재활용",
+          "규정",
+          "조기 시행"
+        ]
+      }
+    },
+    {
+      "id": "2bd59761fe374a38",
+      "title": "재생에너지 시장서 존재감 키우는 ESS - 중소기업신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15b3ViOUhWYldDX3BHekxBXzlINExuZnJvd0doMEh2Y2I4RTVZb2ZzWkM5aF9NX3lSWlI1M0Q1SnIwb09hV3JVNThjbDJZRVRFeUNzLUlHTHBPS3BaV1ZhY3NjeXFGMDNyZFhoSQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T01:49:55",
+      "collected_at": "2026-08-16T08:21:43.919601",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESS",
+          "재생에너지",
+          "시장",
+          "성장",
+          "에너지 저장"
+        ]
+      }
+    },
+    {
+      "id": "dbc6bcc64bd0d453",
+      "title": "[에너지전환2050] 영풍, 봉화 바람으로 친환경 전력 키운다 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OcVB2VlBXT0NPZFJvOS05OEJGLWhnV0VueF9jbjhfZDBKZ0M1RFJYWVNIS2lrQVo2WTNldXRVYlk0cF9RMTRmSGQ2YXRZRWlheGhYS3pfM00yRk1CWkFKZWk4WFlhNTdFU1hFR2VGMVPSAXRBVV95cUxNM3RpemwwZUJoWTJsUTJOVS1FVlJiUVZhQ01HSTlleFh2SVFBT3NTZHRnek1PMU9xZkE2amZYQno0R2RRalAxNENUbXlrQkpiVnphSVNyVUE3MEhPR3g2U2FVcFB2cDRNOXNZTmJYYTJaamIyaw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-16T03:15:37",
+      "collected_at": "2026-08-16T08:21:43.919825",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지전환2050",
+          "영풍",
+          "봉화",
+          "바람",
+          "친환경 전력"
+        ]
+      }
+    },
+    {
+      "id": "180f70b3b1b774ef",
+      "title": "경남·부산, 호우특보 유지···가뭄 해갈에 도움",
+      "link": "https://www.khan.co.kr/article/202608161544011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-16T06:44:01",
+      "collected_at": "2026-08-16T08:21:45.213624",
+      "keywords_matched": [
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d5f6cefbd4d8086d",
+      "title": "유럽, 전기차 전환 완급조절 나서나",
+      "link": "https://www.khan.co.kr/article/202608161536001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-16T06:36:00",
+      "collected_at": "2026-08-16T08:21:45.213755",
+      "keywords_matched": [
+        "기후위기",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "전기차 전환",
+          "기후위기",
+          "유럽",
+          "완급조절",
+          "무공해차량"
+        ]
+      }
+    },
+    {
+      "id": "191088f0a911af28",
+      "title": "주문 때 자발적인 다회용기 클릭··‘다회용기 배달 서비스’ 내년 제주 전역 확대",
+      "link": "https://www.khan.co.kr/article/202608161513001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-16T06:13:00",
+      "collected_at": "2026-08-16T08:21:45.213923",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "다회용기",
+          "배달 서비스",
+          "제주",
+          "확대",
+          "1회용품 감축"
+        ]
+      }
+    },
+    {
+      "id": "4466eb2da0888a40",
+      "title": "폭염에 더 아픈 정신질환자···조현병 환자 의료이용 한파 때보다 1.7배↑",
+      "link": "https://www.khan.co.kr/article/202608161147031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-16T02:47:03",
+      "collected_at": "2026-08-16T08:21:45.214711",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "정신질환자",
+          "의료이용",
+          "조현병",
+          "열섬 현상"
+        ]
+      }
+    },
+    {
+      "id": "b7246aea2ac5ebe7",
+      "title": "Exclusive with Executive Secretary of the UN Framework Convention on Climate Change Simon Stiell - modernghana.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uMXJzX2M0Mkd5VHB3MWNDR0ItVFp5T2hBcUNkY1RBSDdGc3BqYXZfcGtjd2VMVmdYQUR5U2hfTkVXcldVTGIxbVNWX1NieDh4dDlwQjVqbmtSN3VBUzYzQ9IBXEFVX3lxTE5qRWxKbGNBdjQtSldWcVYzSXNMdF9EcXRGVlhTaE0taDJzcTNoX04yX3lDZkl0aTdBQ0JuSVFRU3NDdzdIWTBkYlRaUGIzV2ZuamhIV3NMUlBVb1V5?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-16T06:21:30",
+      "collected_at": "2026-08-16T08:21:45.750831",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유엔기후변화협약 사이먼 스티엘 사무총장 단독 인터뷰 - 모던가나닷컴"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔기후변화협약",
+          "사이먼 스티엘",
+          "기후변화",
+          "사무총장",
+          "단독 인터뷰"
+        ]
+      }
+    },
+    {
+      "id": "85fe0d83224124af",
+      "title": "How North Yorkshire can help turn back the clock on climate change - Yahoo News UK",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ISXM2ZHlWV2tQMlhybkRuTzdDREpfSDRnMlAzUC1VV0ZhQXA4ZXdyOWVSUURJMXVmaTZuVVpxZnlxSF82VEZaajY2bGdNamhkNkVYYng3THV1ejRmVEZPNU5wY1BsbmxWS1FvTEpjZnBWcnNLZmlGWHZqRQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-16T05:00:00",
+      "collected_at": "2026-08-16T08:21:45.751004",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ad5f8b2cfc107c75",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "link": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-16T04:00:15",
+      "collected_at": "2026-08-16T08:21:45.668882",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "c941dfa6a0dbe794",
+      "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+      "link": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-16T08:00:19",
+      "collected_at": "2026-08-16T08:21:45.669373",
+      "keywords_matched": [],
+      "translation": {
+        "title_ko": "관광부터 전력 생산 및 생산성에 이르기까지, 유럽은 폭염의 경제적 대가를 치른다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭염",
+          "경제적 손실",
+          "유럽",
+          "인프라 마비",
+          "GDP 감소"
+        ]
+      }
+    },
+    {
+      "id": "069cf795c9509bbd",
+      "title": "Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay",
+      "link": "https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-08-16T06:00:17",
+      "collected_at": "2026-08-16T08:21:45.669465",
+      "keywords_matched": [
+        "climate crisis"
+      ],
       "translation": null,
       "sentiment": null,
       "keywords": null

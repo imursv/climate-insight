@@ -1,0 +1,722 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:24:16.799742",
+  "briefing": {
+    "opening": "Good morning/afternoon, everyone. I will now begin the climate briefing for August 16, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Deepening Domestic and International Heatwaves and Social Inequality",
+        "content": "Today's briefing focuses on the direct impacts of intensifying heatwaves both domestically and internationally, and the resulting issues of social inequality. Heatwaves in Korea, highlighted by the World Meteorological Organization (WMO), are making 'the hottest nights' commonplace, and even temperatures exceeding 16 degrees Celsius during marathon races are causing limitations in human body temperature regulation [2, 3]. These heatwaves are becoming a disaster, turning 'jjokbangchon' (tiny room villages) into 'steambaths' and halting construction work, thereby exacerbating social inequality. Analysis shows that medical service utilization by psychiatric patients increases by up to 1.7 times more than in other seasons during these periods [5, 10, 19]. Internationally, Europe is also paying a huge economic price for heatwaves, experiencing raging wildfires, closures of critical infrastructure, and disruptions to transportation and power generation due to low river levels [27].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ Threats to Ecosystems and Cultural Heritage",
+        "content": "Climate change poses a severe threat to our precious ecosystems and historical heritage. Domestically, climate change is altering the industrial landscape of the Gyeongbuk region, and marine ecosystem disturbances are becoming visible, with the anticipated disappearance of Manila clams in the Gyeonggi tidal flats [1, 6]. Furthermore, the collapse of Gaya tombs, which have stood for 1500 years, has created an emergency for national heritage preservation [7]. Internationally, the Danube River's water level has dropped significantly due to extreme drought, revealing 'hunger stones' and causing crop destruction and drinking water shortages. The climate crisis is also changing Europe's wine map, bringing attention to Northern European wines [8, 26].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ Human Health and Systemic Vulnerabilities",
+        "content": "Rising atmospheric carbon dioxide concentrations are not merely leading to temperature increases but are directly impacting human biological systems. According to recent research, there are warnings that rising atmospheric carbon dioxide concentrations could even alter human 'blood composition' [9]. Such climate changes have the potential to cause a 'catastrophe' for the already strained blood supply system, prompting the Red Cross to urge blood donations and emphasize the importance of preparedness [21]. This indicates the widespread and severe impact of the climate crisis on our health and essential medical infrastructure.",
+        "tone": "warning"
+      },
+      {
+        "title": "🌱 Climate Adaptation and Sustainable Efforts",
+        "content": "Even amidst the climate crisis, efforts for climate adaptation and a sustainable future are continuing in various regions. Domestically, the Gyeongbuk region is establishing a 'climate safety net' in response to changes in its industrial map due to climate change, and Anseong City is recruiting trainees for special lectures on climate change and future agriculture, thereby strengthening community capabilities [1, 4]. In Jeju, the 'delivery app multi-use container service' has successfully taken root, achieving a reduction of 4 tons of single-use items and planning expansion across the entire island next year, showing positive progress [18]. Internationally, national responses to the climate crisis are also strengthening, with the Canadian federal government allocating $34.2 million for climate adaptation. Domestically, news was also reported that heavy rain warnings in the Gyeongnam and Busan regions helped alleviate severe drought [16, 23].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Global Climate Crisis and Policy Challenges",
+        "content": "Globally, natural disasters due to the climate crisis are becoming more frequent, and related policy challenges are also intensifying. In British Columbia (B.C.), Canada, over 100 wildfires have occurred, and wildfires are worsening in the Mongolian steppes, indicating that climate change is making forests more vulnerable [23, 28]. Amidst this situation, Europe faces a significant policy challenge: discussing the pace of electric vehicle transition, seeking a balance between climate crisis response and economic realities [17]. This suggests that the world must find complex solutions to achieve climate goals while simultaneously minimizing socioeconomic impacts.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing has highlighted the multifaceted threats posed by climate change, alongside our society's ongoing efforts to address them. In this era of climate crisis, everyone's attention and action are urgently needed. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Gyeongbuk's Industrial Map Changes with Climate Change…Building a 'Climate Safety Net' - Maeil Shinmun",
+      "original_title": "기후변화에 달라지는 경북 산업지도…`기후안전망` 짠다 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zMUpvWjZkM25zUWZrSDJLOG90QkZJdTV0MzNrbjVTWFV4MFJSZnpkWS04M2xabEt5bkpuVkhDQ0xPOGxlWDlPb2lRNF9UaU1PV2QybU00amdxZW14SnNHMF9B?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-16T06:01:28",
+      "description": "Gyeongbuk's Industrial Map Changes with Climate Change…Building a 'Climate Safety Net' Maeil Shinmun",
+      "summary": {
+        "phenomenon": "The industrial landscape of the Gyeongbuk region is changing due to climate change.",
+        "cause": "Climate change is cited as the cause, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "The Gyeongbuk region plans to establish a 'climate safety net' to respond to these changes."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Gyeongbuk",
+        "Industrial map",
+        "Climate safety net",
+        "Establishment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화에 달라지는 경북 산업지도…`기후안전망` 짠다 매일신문"
+    },
+    {
+      "id": "2",
+      "title": "“Body Temperature Regulation Limits Exceeded at Just 16 Degrees Celsius”…Climate Change Transforms the Marathon Landscape - esgbusinessreview.kr",
+      "original_title": "“16도만 넘어도 체온 조절 한계”… 기후 변화가 바꾼 마라톤의 풍경 - esgbusinessreview.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FNGNSM3N3blg3dUtSVm52T3h1RmlQcmNsYTR2RUQyUW5mX3UyNUo4S1BRYVNUMWdDbGxSNkhTQk9nT1dId2Y1UGxzYlZfZGphZEp0ZzM1Z1k5Q1hKemtEQXNFSjNrc09HSHd1ZTFpLXQ4Nnc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-16T02:12:01",
+      "description": "“Body Temperature Regulation Limits Exceeded at Just 16 Degrees Celsius”…Climate Change Transforms the Marathon Landscape esgbusinessreview.kr",
+      "summary": {
+        "phenomenon": "In marathon events, a phenomenon is observed where human body temperature regulation reaches its limits when temperatures exceed just 16 degrees Celsius.",
+        "cause": "Climate change is mentioned as the cause of this transformation in the marathon landscape, but specific scientific reasons or background are not detailed in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Marathon",
+        "Body temperature regulation limit",
+        "16 degrees Celsius",
+        "Sports impact"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“16도만 넘어도 체온 조절 한계”… 기후 변화가 바꾼 마라톤의 풍경 esgbusinessreview.kr"
+    },
+    {
+      "id": "3",
+      "title": "WMO Highlights South Korea's Heatwaves…'Hottest Nights' Becoming Commonplace - Environment Daily",
+      "original_title": "WMO가 지목한 한국 폭염··· ‘가장 뜨거운 밤’ 일상화 - 환경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GSFQxYldiV3JVVkxHaWItN1Z6OFB1TVItMFk1WDRHczVKRWRNdkx6MlhlZ20tOEU1d3p1WHZoSE1qRUw4dl9UNlpwd2JHQllya0NjQjJVNUdkNy1JRHQzT19hTi1MbjUx?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-15T23:05:00",
+      "description": "WMO Highlights South Korea's Heatwaves…'Hottest Nights' Becoming Commonplace Environment Daily",
+      "summary": {
+        "phenomenon": "Due to the heatwaves in South Korea, highlighted by the World Meteorological Organization (WMO), 'the hottest nights' are becoming commonplace.",
+        "cause": "South Korea's heatwaves are cited as the cause, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "WMO",
+        "South Korea",
+        "Heatwave",
+        "Hot nights",
+        "Normalization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "WMO가 지목한 한국 폭염··· ‘가장 뜨거운 밤’ 일상화 환경일보"
+    },
+    {
+      "id": "4",
+      "title": "Anseong City Recruits Trainees for Special Lectures on Climate Change and Future Agriculture - Jachi Anseong Shinmun",
+      "original_title": "안성시, 기후변화·미래농업 특강 교육생 모집 - 자치안성신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BeFNmY2JWTTdyRUZBV1hfblVjd1MzY2FZQUpQMHJTYnNsaWlZVXpwVnRzQVU4dDh4UzhJMlNGck1tcHBxMUo1N3lULW1YNWY5Vk82b0pVNm1GUTB0bEk2VXZyQmhVaThJSjdzSW9sdHIzUGFxR1poY3ExQlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-15T19:21:35",
+      "description": "Anseong City Recruits Trainees for Special Lectures on Climate Change and Future Agriculture Jachi Anseong Shinmun",
+      "summary": {
+        "phenomenon": "Anseong City is recruiting trainees for special lectures on climate change and future agriculture.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Anseong City",
+        "Climate change",
+        "Future agriculture",
+        "Special lecture",
+        "Trainee recruitment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안성시, 기후변화·미래농업 특강 교육생 모집 자치안성신문"
+    },
+    {
+      "id": "5",
+      "title": "[Climate Refugees in Heatwaves] ① 'Boiling Hot' Slums, 'Stopped' Construction Sites…Heatwave Inequality Becomes a Disaster - Yonhap News",
+      "original_title": "[폭염 속 기후 난민] ① 쪽방촌은 '찜통'·공사판은 '스톱'…재난이 된 폭염 불평등 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zbnpjX0tDSmRvOWh5MDNPYUpNN0RpQ0ctWWxHZDdLZkFFYkd6aENPeTBjVW9qS1hFV29iX2c1UEdMdE1pbVRGampwQlhUUGFLRGV4NjJQRTdMU3PSAWBBVV95cUxQS296Z1E1S3lta2NieVdWVkZ6Rm1yaTRzRXU2MVFtVkRFV0t2VmNaUHEzSUpLZ1M5RUhaTWV0aHNYbHc0MC1oNEJzTWFzVUVCLUZjZFdLTEdsSFpQYVhVb0M?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-15T22:00:07",
+      "description": "[Climate Refugees in Heatwaves] ① 'Boiling Hot' Slums, 'Stopped' Construction Sites…Heatwave Inequality Becomes a Disaster Yonhap News",
+      "summary": {
+        "phenomenon": "Heatwaves have become a disaster, intensifying social inequality as slums become 'boiling hot' and construction work is halted.",
+        "cause": "Heatwaves are cited as the cause, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Climate refugee",
+        "Heatwave inequality",
+        "Slum",
+        "Disaster"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[폭염 속 기후 난민] ① 쪽방촌은 '찜통'·공사판은 '스톱'…재난이 된 폭염 불평등 연합뉴스"
+    },
+    {
+      "id": "6",
+      "title": "Manila Clams Expected to Disappear from Gyeonggi Tidal Flats Due to Climate Change - newszoom.kr",
+      "original_title": "기후변화에 경기 갯벌서 바지락이 실종 예상돼 - newszoom.kr",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00Rk81TFl5QnJmYm90NFVQTzZCbjJ6M3lJT204VTdtdXlaRkxXLUctOUZ5VFFfRnAzUTIwRW05YldxUkdN?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-15T19:52:00",
+      "description": "Manila Clams Expected to Disappear from Gyeonggi Tidal Flats Due to Climate Change newszoom.kr",
+      "summary": {
+        "phenomenon": "Manila clams are expected to disappear from the Gyeonggi tidal flats.",
+        "cause": "Climate change is cited as the cause of the Manila clam disappearance, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "Manila clams are projected to vanish from the Gyeonggi tidal flats."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Gyeonggi tidal flats",
+        "Manila clam",
+        "Disappearance",
+        "Expected"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화에 경기 갯벌서 바지락이 실종 예상돼 newszoom.kr"
+    },
+    {
+      "id": "7",
+      "title": "Even 1500-Year-Old Gaya Tombs Are Collapsing…'Emergency' for National Heritage Preservation in the Climate Crisis Era - M Economy News",
+      "original_title": "1500년 버틴 가야고분도 무너진다...기후위기 시대 국가유산 보존 ‘비상’ - M이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vRGM1RVJtZFhZeDRTN255VVZHU2Z6VjRpWXZ0Y3k3eElDNjg2ZU04STFHekd0S1M1RlNzNlFIQTRielA2TUVGcmxiYjFBT3VoSjNSdHpIOEliZHJuYVNrUk1qY2ZTd1U?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-16T06:40:08",
+      "description": "Even 1500-Year-Old Gaya Tombs Are Collapsing…'Emergency' for National Heritage Preservation in the Climate Crisis Era M Economy News",
+      "summary": {
+        "phenomenon": "Gaya tombs, preserved for 1500 years, are experiencing collapse.",
+        "cause": "This phenomenon is mentioned as occurring in the era of climate crisis, but specific scientific reasons or background are not detailed in the article.",
+        "outlook": "National heritage preservation is facing an emergency, and cultural heritage preservation will be a crucial task in the era of climate crisis."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Gaya tomb",
+        "Climate crisis",
+        "National heritage",
+        "Collapse",
+        "Emergency"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "1500년 버틴 가야고분도 무너진다...기후위기 시대 국가유산 보존 ‘비상’ M이코노미뉴스"
+    },
+    {
+      "id": "8",
+      "title": "Northern European Wine Gains Attention, Climate Crisis Reshapes Europe's Wine Map - realfoods.co.kr",
+      "original_title": "북유럽 와인 주목, 기후위기가 바꾸는 유럽 와인 지도 - realfoods.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVeURIVTNPYWR3Nm9BTFFNWU1sSk9WQ3J4cWNaM1Zhc3o5R1dyY3dFelk1MTlodFg4em1Ia1U2djVCbHNuS3F3RWlNc3RiMWFNeG5KeDhwUQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-16T02:04:48",
+      "description": "Northern European Wine Gains Attention, Climate Crisis Reshapes Europe's Wine Map realfoods.co.kr",
+      "summary": {
+        "phenomenon": "Europe's wine map is changing, with Northern European wines gaining attention.",
+        "cause": "The climate crisis is cited as the cause for the changing European wine map, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "Changes in wine production regions within Europe are anticipated due to the climate crisis."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "북유럽 와인 주목, 기후위기가 바꾸는 유럽 와인 지도 realfoods.co.kr"
+    },
+    {
+      "id": "9",
+      "title": "Rising Atmospheric Carbon Dioxide Changes Even Human 'Blood Components' - esgbusinessreview.kr",
+      "original_title": "대기 중 이산화탄소 상승, 인간 '혈액 성분'까지 바꾼다 - esgbusinessreview.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmd29kLVAxckMxUXRTTVpFS1JuNmN0bGRQbmh3b0F3b0s2bnpXUzZ2NFJpb1JsRFF1NFlNU055OUFIc2NmTEk1Q2xYQ1pJN1JFVk15ZElLZWxHcTV1SjUxYWM5VUVjblV6UmxqR091WnUwbHc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-16T02:07:04",
+      "description": "Rising Atmospheric Carbon Dioxide Changes Even Human 'Blood Components' esgbusinessreview.kr",
+      "summary": {
+        "phenomenon": "Due to the increase in atmospheric carbon dioxide concentration, human blood components are changing.",
+        "cause": "The rise in atmospheric carbon dioxide is explicitly stated as the direct cause.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Carbon dioxide",
+        "Atmosphere",
+        "Rise",
+        "Human",
+        "Blood"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대기 중 이산화탄소 상승, 인간 '혈액 성분'까지 바꾼다 esgbusinessreview.kr"
+    },
+    {
+      "id": "10",
+      "title": "[Climate Refugees in Heatwaves] ① 'Boiling Hot' Slums, 'Stopped' Construction Sites…Heatwave Inequality Becomes a Disaster - Nate",
+      "original_title": "[폭염 속 기후 난민] ① 쪽방촌은 '찜통'·공사판은 '스톱'…재난이 된 폭염 불평등 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mdHZvb0Q1b1JBWUVUWUZjbV9ZejMzMDAzNWN2UWRBSHRvZU5tQlRjeHZmRVZpUkV5dTZ6MDlkbXJ5dTZIdVFucTd4QnRXRV9TQnRF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-15T22:01:00",
+      "description": "[Climate Refugees in Heatwaves] ① 'Boiling Hot' Slums, 'Stopped' Construction Sites…Heatwave Inequality Becomes a Disaster Nate",
+      "summary": {
+        "phenomenon": "Heatwaves have become a disaster, intensifying social inequality as slums become 'boiling hot' and construction work is halted.",
+        "cause": "Heatwaves are cited as the cause, but specific scientific reasons or background are not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Climate refugee",
+        "Inequality",
+        "Disaster",
+        "Slum"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[폭염 속 기후 난민] ① 쪽방촌은 '찜통'·공사판은 '스톱'…재난이 된 폭염 불평등 네이트"
+    },
+    {
+      "id": "11",
+      "title": "[Op-ed] Integrating 'Greenhouse Gas Reduction' and 'Carbon Utilization' into a Single Process... - Korea Public Policy Newspaper",
+      "original_title": "[특별기고] ‘온실가스 감축’과 ‘탄소자원화’를 하나의 공정으로... - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5UdkNrVlB5SWFmcnRhNWF6NFZ4ZU0zY3IyY3d6bmlIeHl3SEg2ODY5ODdONHl3T2FCWV8yWEIwbC13RHM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-16T04:35:47",
+      "description": "[Op-ed] Integrating 'Greenhouse Gas Reduction' and 'Carbon Utilization' into a Single Process... Korea Public Policy Newspaper",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[특별기고] ‘온실가스 감축’과 ‘탄소자원화’를 하나의 공정으로... 한국공공정책신문"
+    },
+    {
+      "id": "12",
+      "title": "Renewable Energy as AI's Core Infrastructure: Expanding ESS Presence to Enhance Power Stability - Yonhap News",
+      "original_title": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMFRmbzFDOWVVOFA0cXIyX3VMQ1BRR2JWbUQ2UlYwbW9EWHc4Zk43R2NOQWQwOGpVUkY3UGNwY2lBM3R2dkdHbFV5WDhUY3VwbVRzZWpCUmRqZ1E0MlMzSdIBYEFVX3lxTE1tMFRmbzFDOWVVOFA0cXIyX3VMQ1BRR2JWbUQ2UlYwbW9EWHc4Zk43R2NOQWQwOGpVUkY3UGNwY2lBM3R2dkdHbFV5WDhUY3VwbVRzZWpCUmRqZ1E0MlMzSQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-15T22:15:01",
+      "description": "Renewable Energy as AI's Core Infrastructure: Expanding ESS Presence to Enhance Power Stability Yonhap News",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Renewable energy",
+        "ESS",
+        "Power stability",
+        "Infrastructure"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI 핵심 인프라 재생에너지…전력 안정성 높이는 ESS 입지 확대 연합뉴스"
+    },
+    {
+      "id": "13",
+      "title": "China Announces Plan for Early Implementation of Renewable Energy Recycling Regulations - Investing.com Korea",
+      "original_title": "중국, 재생에너지 재활용 규정 조기 시행 계획 발표 - Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xTk96b2VKandkZzU0eTd6WklLNkUwZzMtRWV3QlJrQm9zelBOcmNzMzh6dnBpa0VKdkthUG9TUTByNEsxbDFzUHpxVjBEd1MwNVVDcE4wbGRpWnh6UHZtX19uSHczZ0txQ2c?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-16T06:26:00",
+      "description": "China Announces Plan for Early Implementation of Renewable Energy Recycling Regulations Investing.com Korea",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "China",
+        "Renewable energy",
+        "Recycling",
+        "Regulation",
+        "Early implementation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중국, 재생에너지 재활용 규정 조기 시행 계획 발표 Investing.com 한국어"
+    },
+    {
+      "id": "14",
+      "title": "ESS Growing Its Presence in the Renewable Energy Market - Small and Medium Business Newspaper",
+      "original_title": "재생에너지 시장서 존재감 키우는 ESS - 중소기업신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15b3ViOUhWYldDX3BHekxBXzlINExuZnJvd0doMEh2Y2I4RTVZb2ZzWkM5aF9NX3lSWlI1M0Q1SnIwb09hV3JVNThjbDJZRVRFeUNzLUlHTHBPS3BaV1ZhY3NjeXFGMDNyZFhoSQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-16T01:49:55",
+      "description": "ESS Growing Its Presence in the Renewable Energy Market Small and Medium Business Newspaper",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ESS",
+        "Renewable energy",
+        "Market",
+        "Growth",
+        "Energy storage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 시장서 존재감 키우는 ESS 중소기업신문"
+    },
+    {
+      "id": "15",
+      "title": "[Energy Transition 2050] Youngpoong Develops Eco-friendly Power with Bonghwa Wind - E-News Today",
+      "original_title": "[에너지전환2050] 영풍, 봉화 바람으로 친환경 전력 키운다 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OcVB2VlBXT0NPZFJvOS05OEJGLWhnV0VueF9jbjhfZDBKZ0M1RFJYWVNIS2lrQVo2WTNldXRVYlk0cF9RMTRmSGQ2YXRZRWlheGhYS3pfM00yRk1CWkFKZWk4WFlhNTdFU1hFR2VGMVPSAXRBVV95cUxNM3RpemwwZUJoWTJsUTJOVS1FVlJiUVZhQ01HSTlleFh2SVFBT3NTZHRnek1PMU9xZkE2amZYQno0R2RRalAxNENUbXlrQkpiVnphSVNyVUE3MEhPR3g2U2FVcFB2cDRNOXNZTmJYYTJaamIyaw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-16T03:15:37",
+      "description": "[Energy Transition 2050] Youngpoong Develops Eco-friendly Power with Bonghwa Wind E-News Today",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Energy Transition 2050",
+        "Youngpoong",
+        "Bonghwa",
+        "Wind",
+        "Eco-friendly power"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[에너지전환2050] 영풍, 봉화 바람으로 친환경 전력 키운다 이뉴스투데이"
+    },
+    {
+      "id": "16",
+      "title": "Gyeongnam and Busan Maintain Heavy Rain Advisories; Expected to Aid Drought Relief",
+      "original_title": "경남·부산, 호우특보 유지···가뭄 해갈에 도움",
+      "url": "https://www.khan.co.kr/article/202608161544011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-16T06:44:01",
+      "description": "On the 16th, heavy rain warnings and advisories were maintained for the Gyeongnam and Busan regions. Gyeongnam Province elevated its initial response to emergency level 2, activating a response system to prevent rain damage, as heavy rain advisories were issued for 16 cities and counties in the province, excluding Geochang and Hamyang, as of 3:30 PM. This rainfall is a welcome relief for areas experiencing severe drought.",
+      "summary": {
+        "phenomenon": "On the afternoon of the 16th, heavy rain warnings and advisories were maintained in the Gyeongnam and Busan regions, with heavy rain advisories issued for 16 cities and counties in the province, including Bubuk-myeon, Miryang-si, Gyeongnam. This rainfall marks a welcome relief for areas that had been experiencing severe drought.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Gyeongnam Province elevated its initial response to emergency level 2 and activated a system to prevent heavy rain damage following the issuance of heavy rain advisories. This rainfall is expected to contribute to drought relief."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "극심한 가뭄이 이어지는 16일 경남 밀양시 부북면 한 논에 모처럼 단비가 내리는 것을 농민이 지켜보고 있다. 연합뉴스16일 오후 경남·부산 지역에 호우 경보와 주의보가 유지됐다.경남도는 이날 오후 3시30분 기준 거창·함양을 제외한 도내 16개 시군에 호우특보가 발효됨에 따라 초기대응 근무를 비상 2단계로 격상하고 호우 피해 예방을 위한 대응 체계를 가동 ···"
+    },
+    {
+      "id": "17",
+      "title": "Is Europe Moderating the Pace of Electric Vehicle Transition?",
+      "original_title": "유럽, 전기차 전환 완급조절 나서나",
+      "url": "https://www.khan.co.kr/article/202608161536001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-16T06:36:00",
+      "description": "On the 14th (local time), UK Prime Minister Andy Burnham visited the UK Met Office. While acknowledging the impact of the climate crisis on wildfires in the UK, Prime Minister Burnham faced criticism for slowing down the pace of electric vehicle transition. Europe is now adjusting the speed of its transition to zero-emission vehicles (ZEVs), including pure electric vehicles. The burden of achieving targets and competition with Chinese manufacturers in the EV market are cited as contributing factors.",
+      "summary": {
+        "phenomenon": "On the 14th (local time), UK Prime Minister Andy Burnham acknowledged the impact of the climate crisis but faced criticism for slowing the pace of electric vehicle transition. Concurrently, Europe is now adjusting the speed of its transition to zero-emission vehicles (ZEVs), including pure electric vehicles.",
+        "cause": "Europe's moderation of the electric vehicle transition pace is attributed to the burden of achieving targets and increasing competition with Chinese manufacturers in the EV market.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Electric vehicle transition",
+        "Climate crisis",
+        "Europe",
+        "Pace adjustment",
+        "Zero-emission vehicle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "앤디 버넘 영국 총리가 지난 14일(현지시간) 영국 기상청을 방문했다. 버넘 총리는 이날 영국 내 산불 등에 관한 기후위기의 영향을 인정하면서도 전기차 전환 속도를 늦춰 비판을 받았다. AFP 연합뉴스유럽이 순수전기차 등 무공해차량(ZEV) 전환 속도 조절에 나서고 있다. 목표 달성에 대한 부담과 전기차 시장에서 중국 업체와의 경쟁 등이 배경으로 지목된다.···"
+    },
+    {
+      "id": "18",
+      "title": "Voluntary Reusable Container Selection for Orders: 'Reusable Container Delivery Service' to Expand Across Jeju Next Year",
+      "original_title": "주문 때 자발적인 다회용기 클릭··‘다회용기 배달 서비스’ 내년 제주 전역 확대",
+      "url": "https://www.khan.co.kr/article/202608161513001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-16T06:13:00",
+      "description": "Jeju's 'Reusable Container Delivery Service' initiative surpassed its annual target with over 21,600 orders this year, reaching a cumulative total of over 30,000 orders and resulting in a 4-ton reduction of single-use items. The number of participating stores has expanded to 533, fostering an eco-friendly delivery culture. The service, which expanded to all areas of Jeju City in April, is set to expand across the entire island of Jeju starting next year.",
+      "summary": {
+        "phenomenon": "Jeju's 'Delivery App Reusable Container Service' initiative surpassed 21,600 orders this year, reaching a cumulative total of over 30,000 orders and achieving a 4-ton reduction in single-use items. The number of participating stores has expanded to 533.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This initiative is scheduled to expand across the entire island of Jeju starting next year and is expected to contribute to the establishment of an eco-friendly delivery culture."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Reusable container",
+        "Delivery service",
+        "Jeju",
+        "Expansion",
+        "Single-use item reduction"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "올해 주문 2만1600여건으로 목표 돌파누적 3만여건 돌파…1회용품 4t 감축 효과참여 매장 533곳 확대…친환경 배달 문화 정착다회용기에 배달된 음식. 제주도 제공제주에서 시행 중인 ‘배달 앱 다회용기 이용 사업’이 내년부터 제주 전역으로 확대된다.16일 제주도에 따르면 배달 앱 다회용기 이용 사업은 지난 4월 제주시 전 지역으로 서비스를 확대한 데 이어···"
+    },
+    {
+      "id": "19",
+      "title": "Mental Health Patients Suffer More During Heatwaves: Schizophrenia Patients' Medical Utilization 1.7 Times Higher Than During Cold Waves",
+      "original_title": "폭염에 더 아픈 정신질환자···조현병 환자 의료이용 한파 때보다 1.7배↑",
+      "url": "https://www.khan.co.kr/article/202608161147031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-16T02:47:03",
+      "description": "An analysis revealed that medical utilization by mental health patients increases by up to 1.7 times during heatwaves compared to other seasons. Specifically, medical utilization by schizophrenia patients increased by up to 1.7 times more than during cold waves. On the 6th, the Seoul city center exhibited a heat island phenomenon, as captured by a thermal camera from Namsan.",
+      "summary": {
+        "phenomenon": "An analysis revealed that medical utilization by mental health patients increases by up to 1.7 times during heatwaves compared to other seasons, with schizophrenia patients' medical utilization specifically increasing by up to 1.7 times more than during cold waves. On the 6th, a heat island phenomenon was observed in the Seoul city center.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Mental health patient",
+        "Medical utilization",
+        "Schizophrenia",
+        "Heat island phenomenon"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염 기간 정신질환자의 의료이용이 다른 계절에 비해 최대 1.7배까지 증가한다는 분석 결과가 나왔다. 절기상 입추를 하루 앞둔 지난 6일 서울 남산에서 열화상 카메라로 촬영한 서울 도심이 열섬 현상을 보이고 있다. 성동훈 기자폭염 기간 조현병 환자의 의료이용이 한파 때보다 최대 1.7배 증가하는 등 정신질환자의 병원 이용이 다른 계절보다 늘어나는 것으로 나···"
+    },
+    {
+      "id": "20",
+      "title": "선데이 타임스 독자 서신: 기후 변화와 끊임없는 폭염 - 더 타임스",
+      "original_title": "Sunday Times letters: Climate change and incessant heatwaves - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHUtOUl6MkpENnFiWnRWSGRhdXhodEZKR0w3M3gxZnRCQVIyd19HX1dEYVBHRVZVTjVtYUExeWU5UGgyVkU4bXczenFoMWttVXRhQ185cVBzWDY3THl4MDJuX2ZieFRmWnlwV2M1eXM1Y1VSZFdZZWtJcjA5alRtVlpzMUtVWnRiMks1WENib0l2ZnFLRW9Va21ScjFHWG9QaG1xQVdUbjdyLXFEZ0xRN0pPMkVTRTFSa3AxcHhPSHBZdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-15T21:00:00",
+      "description": "Sunday Times letters: Climate change and incessant heatwaves The Times",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Heatwave",
+        "Letters to the editor",
+        "The Times",
+        "Environmental crisis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Sunday Times letters: Climate change and incessant heatwaves The Times"
+    },
+    {
+      "id": "21",
+      "title": "기후 변화, 이미 위기인 혈액 공급에 '재앙' 초래 가능성... 적십자 헌혈 촉구. 대비가 나아갈 길.",
+      "original_title": "Climate change could spell 'catastrophe' for blood supply, already under crisis as Red Cross urges donations. Preparedness is the path forward. - Concord Monitor",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmxxWmFjdTQtTi0tSndoQkJZZWlQVVMwa1pMc3hqWTRtNV85RUI3NV9iNTlvekdkS05nS253c2RZdVZRRHBWRHhweEVudWc1eU5YVDFzdUZuMzdDRlJlX2hiMHpWeXBxR2NtU2lndkRmUWdsRnFwTllRWU9hZmRJT3pxNDdMTFk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-15T18:00:00",
+      "description": "Climate change could spell 'catastrophe' for blood supply, already under crisis as Red Cross urges donations. Preparedness is the path forward. Concord Monitor",
+      "summary": {
+        "phenomenon": "The blood supply is already in a state of crisis, with the Red Cross urging donations. (Specific figures, regions, or timelines are not mentioned in the article)",
+        "cause": "Climate change has been identified as a potential cause that could lead to a 'catastrophe' for the blood supply. (Specific scientific causes are not mentioned in the article)",
+        "outlook": "Climate change could bring a 'catastrophe' to the blood supply, and preparedness has been presented as the way forward."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Blood supply",
+        "Crisis",
+        "Red Cross",
+        "Preparedness"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change could spell 'catastrophe' for blood supply, already under crisis as Red Cross urges donations. Preparedness is the path forward. Concord Monitor"
+    },
+    {
+      "id": "22",
+      "title": "큰 전환: 야망, 경제성 그리고 기후 변화 정치의 연결고리",
+      "original_title": "Big Pivots: Ambition, affordability and the nexus of climate change politics - VailDaily.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUFkS3FoTVZJRzVhSF9uTWU3X2t0Q09rdzMwbFJqMS0wV0N4ZkpmQ0V2c0VwTGcybE5FMlVydWphM0N0VG9aU3NkSkNOWUNrMEFxclh4blk1eVE2Q1hza1NpY19LUmNKVTA3a2FrUUc3VV80TUx5YkdhRDJFZUhqM0FMZ2wtTWNza1dSbklaeUJNSUpHd0F3U0VveE41dWJKN0JVcm55V1VsZGlrQnc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-15T20:03:41",
+      "description": "Big Pivots: Ambition, affordability and the nexus of climate change politics VailDaily.com",
+      "summary": {
+        "phenomenon": "No specific climate phenomenon is mentioned in the article.",
+        "cause": "No specific scientific cause for a climate phenomenon is mentioned in the article.",
+        "outlook": "Discussions are expected on the 'ambition, affordability, and nexus' of climate change politics."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Big pivots",
+        "Ambition",
+        "Affordability",
+        "Climate change politics",
+        "Nexus"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Big Pivots: Ambition, affordability and the nexus of climate change politics VailDaily.com"
+    },
+    {
+      "id": "23",
+      "title": "B.C. climate news: More than 100 wildfires burning in B.C. | Federal government sets aside $34.2 million for climate adaptation | Report finds climate change made Canada's forests more likely to burn - Vancouver Sun",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9veW5XNEJEa2toa0x0d3M4WEdyTGRsa3B3MFNkX21yNmViTks1aEJld2ktcnA3UXRhSGdPbFNQQ3Z4XzdETTNHTHh2S2lrMV82OHVTOTFKSjJwLWswVktfNXpOMXkwcnR3VXRLWHBUdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-15T18:24:49",
+      "description": "B.C. climate news: More than 100 wildfires burning in B.C. | Federal government sets aside $34.2 million for climate adaptation | Report finds climate change made Canada's forests more likely to burn Vancouver Sun",
+      "summary": {
+        "phenomenon": "More than 100 wildfires are burning in British Columbia (B.C.). The federal government has allocated $34.2 million for climate adaptation.",
+        "cause": "A report indicates that climate change has made Canada's forests more susceptible to burning.",
+        "outlook": "With the federal government allocating funds for climate adaptation, ongoing responses to the impacts of climate change are anticipated."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "B.C. climate news: More than 100 wildfires burning in B.C. | Federal government sets aside $34.2 million for climate adaptation | Report finds climate change made Canada's forests more likely to burn Vancouver Sun"
+    },
+    {
+      "id": "24",
+      "title": "유엔기후변화협약 사이먼 스티엘 사무총장 단독 인터뷰 - 모던가나닷컴",
+      "original_title": "Exclusive with Executive Secretary of the UN Framework Convention on Climate Change Simon Stiell - modernghana.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uMXJzX2M0Mkd5VHB3MWNDR0ItVFp5T2hBcUNkY1RBSDdGc3BqYXZfcGtjd2VMVmdYQUR5U2hfTkVXcldVTGIxbVNWX1NieDh4dDlwQjVqbmtSN3VBUzYzQ9IBXEFVX3lxTE5qRWxKbGNBdjQtSldWcVYzSXNMdF9EcXRGVlhTaE0taDJzcTNoX04yX3lDZkl0aTdBQ0JuSVFRU3NDdzdIWTBkYlRaUGIzV2ZuamhIV3NMUlBVb1V5?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-16T06:21:30",
+      "description": "Exclusive with Executive Secretary of the UN Framework Convention on Climate Change Simon Stiell modernghana.com",
+      "summary": {
+        "phenomenon": "No specific climate phenomenon is mentioned in the article.",
+        "cause": "No specific scientific cause for a climate phenomenon is mentioned in the article.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "UNFCCC",
+        "Simon Stiell",
+        "Climate change",
+        "Executive Secretary",
+        "Exclusive interview"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Exclusive with Executive Secretary of the UN Framework Convention on Climate Change Simon Stiell modernghana.com"
+    },
+    {
+      "id": "25",
+      "title": "How North Yorkshire can help turn back the clock on climate change - Yahoo News UK",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ISXM2ZHlWV2tQMlhybkRuTzdDREpfSDRnMlAzUC1VV0ZhQXA4ZXdyOWVSUURJMXVmaTZuVVpxZnlxSF82VEZaajY2bGdNamhkNkVYYng3THV1ejRmVEZPNU5wY1BsbmxWS1FvTEpjZnBWcnNLZmlGWHZqRQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-16T05:00:00",
+      "description": "How North Yorkshire can help turn back the clock on climate change Yahoo News UK",
+      "summary": {
+        "phenomenon": "No specific climate phenomenon is mentioned in the article.",
+        "cause": "No specific scientific cause for a climate phenomenon is mentioned in the article.",
+        "outlook": "Ways in which North Yorkshire can contribute to reversing climate change are expected to be presented."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "How North Yorkshire can help turn back the clock on climate change Yahoo News UK"
+    },
+    {
+      "id": "26",
+      "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "original_title": null,
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "source": "guardian_climate",
+      "published_at": "2026-08-16T04:00:15",
+      "description": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath Gellért Hill in Budapest, it meant the river had fallen so low that floating mills could no longer operate, crops were probably failing, and hunger would almost certainly follow. That is why, in the Hungarian capital, where over time the boulder became little more than a legend, i",
+      "summary": {
+        "phenomenon": "The Danube River is experiencing severe drought, leading to critically low water levels, which has revealed the 'Hunger Stone' beneath Gellért Hill in Budapest. This has resulted in crop failures and residents struggling to secure drinking water.",
+        "cause": "The low water levels of the Danube River are due to drought. Historically, the emergence of this stone signified low water levels, crop failures, and famine. (Specific scientific causes of the current drought are not mentioned in the article)",
+        "outlook": "Low water levels are leading to crop destruction and difficulties for residents in securing drinking water, potentially resulting in outcomes similar to past famines."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge from the Danube, beneath Gellért Hill in Budapest, it meant the river had fallen so low that floating mills could no longer operate, crops were probably failing, and hunger would almost certainly follow. That is why, in the Hungarian capital, where over time the boulder became little more than a legend, i"
+    },
+    {
+      "id": "27",
+      "title": "관광부터 전력 생산 및 생산성에 이르기까지, 유럽은 폭염의 경제적 대가를 치른다",
+      "original_title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+      "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+      "source": "guardian_climate",
+      "published_at": "2026-08-16T08:00:19",
+      "description": "Low river levels have stalled German freight traffic and forced closure of nuclear plants in FranceAcross Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down.Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of analysis from economists at the Dutch bank Triodos, who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinkta",
+      "summary": {
+        "phenomenon": "Europe experienced a heatwave accompanied by raging wildfires and the shutdown of critical infrastructure. Low river levels led to the halting of German freight traffic and the closure of nuclear power plants in France.",
+        "cause": "These phenomena are attributed to a 'scorching summer' and 'heatwaves.' (Specific scientific causes of the heatwaves are not mentioned in the article)",
+        "outlook": "Economists at Triodos Bank estimate that these heatwaves could wipe a total of €180 billion off EU GDP, suggesting significant economic costs across tourism, power generation, and productivity."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Economic loss",
+        "Europe",
+        "Infrastructure paralysis",
+        "GDP reduction"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Low river levels have stalled German freight traffic and forced closure of nuclear plants in FranceAcross Europe this scorching summer, workers have struggled in the heat as wildfires raged and critical infrastructure was shut down.Here we look at the impact of the heatwaves on several major economies across mainland Europe – with the help of analysis from economists at the Dutch bank Triodos, who estimate a total of €180bn could be wiped off EU GDP by the heatwaves. In the UK, the green thinkta"
+    },
+    {
+      "id": "28",
+      "title": "Fire rangers of Mongolian steppe: climate crisis spurs revival of ancient knowledge – photo essay",
+      "original_title": null,
+      "url": "https://www.theguardian.com/world/2026/aug/16/fire-rangers-mongolia-steppe-climate-crisis-ancient-knowledge-photo-essay",
+      "source": "guardian_climate",
+      "published_at": "2026-08-16T06:00:17",
+      "description": "Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts. In response, people have turned to their nomadic heritage to help tackle the blazesSodnomjamts Damchaabadgar squats in a shallow, rocky depression, working quietly with his hands. Inches above the rim of the pit, the wind whips across the grasslands. But in the marginal shelter of the dig site the air remains calm – essential for delicate operations.Damchaabadgar, a research fel",
+      "summary": {
+        "phenomenon": "Wildfires on the Mongolian grasslands have worsened.",
+        "cause": "The wildfires have intensified due to rising temperatures and severe droughts, attributed to the 'climate crisis'.",
+        "outlook": "In response to the worsening wildfires, people are utilizing their nomadic heritage and ancient knowledge to combat the blazes."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Fire has always be part of life on the grasslands, but has grown worse due to rising temperatures and severe droughts. In response, people have turned to their nomadic heritage to help tackle the blazesSodnomjamts Damchaabadgar squats in a shallow, rocky depression, working quietly with his hands. Inches above the rim of the pit, the wind whips across the grasslands. But in the marginal shelter of the dig site the air remains calm – essential for delicate operations.Damchaabadgar, a research fel"
+    }
+  ],
+  "summary": {
+    "total_count": 28,
+    "domestic_count": 19,
+    "international_count": 9,
+    "top_keywords": [
+      "Heatwave",
+      "Climate change",
+      "Climate change",
+      "Renewable energy",
+      "Climate refugee"
+    ],
+    "sentiment_breakdown": {
+      "positive": 6,
+      "negative": 12,
+      "neutral": 3
+    },
+    "original_top_keywords": [
+      "폭염",
+      "기후변화",
+      "기후 변화",
+      "재생에너지",
+      "기후 난민"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
