@@ -1,0 +1,1271 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:26:47.962710",
+  "briefing": {
+    "opening": "Good morning/afternoon. We will now begin the climate briefing for August 23, 2026.",
+    "sections": [
+      {
+        "title": "🚨 Worsening Extreme Weather Phenomena and Societal Impacts",
+        "content": "Today's climate-related news warns of the severe impacts that unprecedented extreme weather phenomena are having on our society. Alongside the pessimistic outlook that this year may be recorded as the coolest year, future heatwaves reaching 45 degrees Celsius, and more powerful torrential rains and typhoons are anticipated [9]. Seoul, for instance, experienced 12 consecutive nights of tropical heat and humid sweltering conditions with a perceived temperature of 33 degrees Celsius, leading to the issuance of a heatwave advisory [44]. The phenomenon of increasing heavy rainfall and drought disasters, despite similar annual precipitation, demonstrates that climate change is drastically altering precipitation patterns [4]. A drier Earth is also linked to the unexpected spread of infectious diseases [10], and analysis suggests that heatwaves and extreme weather can even disrupt the social connections people rely on, potentially making us feel more isolated [47].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Climate Crisis and Adaptation Efforts in the Agricultural Sector",
+        "content": "Climate change poses a direct threat to the domestic agricultural sector, with a particular emergency in high-altitude cabbage cultivation, prompting the Rural Development Administration to seek heat and disease-resistant varieties [1]. Amidst this crisis, Gyeongsangbuk-do Province is actively disseminating melon cultivation techniques to farms to protect crops against abnormal climate conditions, especially high temperatures [7, 8]. Internationally, changes in cultivation environments due to climate change are evident, such as the grape harvest season in Croatia shifting earlier to August [49]. Meanwhile, the emergence of 'WISE,' a K-agriculture digital platform that predicts global droughts and floods, underscores the importance of precision agriculture in responding to climate change [12].",
+        "tone": "warning"
+      },
+      {
+        "title": "🌱 Expansion of Community-Led Carbon Neutrality Practices",
+        "content": "On a positive note, community-led carbon neutrality efforts are expanding across the nation. Daejeon's Daedeok-gu is actively promoting carbon-neutral practices tailored to local characteristics in areas like Deogam-dong and Jungni-dong [15, 16]. Gwangmyeong-si and Pocheon-si are also adopting carbon neutrality initiatives through resident assemblies and resident self-governance council agreements [13, 19, 20, 24]. Encouragement for action through education and play is also notable, such as ecological exploration education seeking climate crisis solutions in the DMZ forest [6, 22] and a carbon-neutral escape room game utilizing 'Yumi's Cells' characters [21]. The cultural and arts sector is also participating in carbon neutrality with a 5-minute lights-out campaign [23], and various stakeholders, including Kunsan National University sharing carbon neutrality internship achievements, are leading the way in carbon-neutral practices [25].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Dilemmas and Opportunities in Renewable Energy Transition",
+        "content": "The transition to renewable energy is a core task for achieving carbon neutrality, yet it faces several dilemmas. Particularly in China, a perplexing paradox is occurring where diligently expanded renewable energy, equivalent to Mexico's annual electricity consumption, is being wasted due to grid issues [31, 35, 42]. This highlights the severity of grid congestion, a problem for which the International Energy Agency (IEA) has warned of the need for 67 trillion KRW in investment [32]. Domestically, the uncertainty of renewable energy and the prolonged construction of nuclear power plants are exacerbating the LNG dilemma in achieving the government's carbon reduction targets [30, 43]. Furthermore, concerns are being raised that the advancement of the AI industry could accelerate greenhouse gas emissions [2]. Nevertheless, Saemangeum is emerging as a hub for future high-tech industries, including AI, robotics, hydrogen, and renewable energy [28]. Local governments and businesses in areas like Pyeongtaek and Jeonju are making multifaceted efforts, exploring solutions for renewable energy transition, discussing solar power utilization, and considering energy citizen income [29, 33, 34, 36, 38, 41].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 Voices on Climate Policy and International Response",
+        "content": "As awareness of the reality of climate change grows, so too do calls for policy responses. Following extreme heatwaves, Busan City is pursuing climate insurance for its citizens, seeking to establish a social safety net against climate disasters [3]. Internationally, there is also a critical perspective on the situation where, despite the clear reality of climate change, action is still not being sufficiently urged [48]. In some regions, such as Puerto Rico, comments suggest that governments are facing situations where they cannot supply water to citizens due to climate change, indicating a deepening impact of the climate crisis on social infrastructure and administrative capacity [46]. These circumstances underscore the urgent need for stronger and more immediate action from governments and the international community to address climate change.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing has highlighted the severity of extreme weather phenomena and the complex challenges of the renewable energy transition, while also demonstrating that hope can be found in community-led carbon neutrality efforts and adaptation attempts in the agricultural sector. Comprehensive and integrated efforts are urgently needed to address the climate crisis. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change Puts Alpine Cabbage in 'Emergency'... Rural Development Administration Seeks Heat- and Disease-Resistant Varieties - Newsis",
+      "original_title": "기후변화에 고랭지 배추 '비상'…농진청, 더위·병 강한 품종 찾는다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNDZOTC1uQ3pqSW90QzBSMnlSTG9YbENwc2lpanRNWFBqZnNGdFJweFA3RHpxSzBqUjhHeFBXeWQ1emtNa2ZPLXVjLVpMOW4xbmdfSnp2VVJuUFlJSlQtNw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T02:00:00",
+      "description": "Climate Change Puts Alpine Cabbage in 'Emergency'... Rural Development Administration Seeks Heat- and Disease-Resistant Varieties Newsis",
+      "summary": {
+        "phenomenon": "Climate change has led to an emergency in the cultivation of alpine cabbage.",
+        "cause": "This is due to alpine cabbage becoming more vulnerable to heat and pests as a result of climate change.",
+        "outlook": "The Rural Development Administration plans to promote stable cultivation of alpine cabbage by identifying varieties resistant to heat and disease."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Alpine cabbage",
+        "Emergency",
+        "Rural Development Administration",
+        "Variety"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화에 고랭지 배추 '비상'…농진청, 더위·병 강한 품종 찾는다 뉴시스"
+    },
+    {
+      "id": "2",
+      "title": "Concerns Mount Over Climate Impact of AI Industry Development, Greenhouse Gas Emissions Increasing Faster Than Benefits - Business Post",
+      "original_title": "AI산업 발전의 기후 영향 우려 잇달아, 혜택보다 온실가스 배출 더 빠르게 증가 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nWWZtYVVidU5YUWtyZUFkMllrUDhwNmJVQi0zdHlSVzdkUGNrbXp3MEtCYVlWenFVYVcxNUlVVVNKemx3Y20zQ29jR0lYRW14QU9FOGpxX09tdnFzbVd4bXhWbjdVQU9MZ0NQMGtBS3kzOFE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-22T21:00:00",
+      "description": "Concerns Mount Over Climate Impact of AI Industry Development, Greenhouse Gas Emissions Increasing Faster Than Benefits Business Post",
+      "summary": {
+        "phenomenon": "Concerns are continuously being raised regarding the climate impact of AI industry development.",
+        "cause": "This is because greenhouse gas emissions are increasing more rapidly than the benefits brought by the advancement of the AI industry.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "AI industry",
+        "Climate impact",
+        "Greenhouse gas",
+        "Emission increase",
+        "Concern"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI산업 발전의 기후 영향 우려 잇달아, 혜택보다 온실가스 배출 더 빠르게 증가 비즈니스포스트"
+    },
+    {
+      "id": "3",
+      "title": "Shocked by 'Extreme Heatwave'? Busan City Promotes Citizen Climate Insurance Enrollment - Kyunghyang Shinmun",
+      "original_title": "‘극한 폭염’에 놀랐나···부산시, 시민 기후보험 가입 추진 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54UDcyendNcXM1Z2V1UERSNmJ6UHhvajROejRJblBQV0pFODJaOHFzWF93MFhOeE9IdXhXaXdPUEFwbjAzam82XzRQWjNsa3RObHpjZzBLLXNYd9IBX0FVX3lxTE04NlFmRDhnMmQ5QWFacGdtZWpsM2pCRXgtZHdHbUJIZDBzRFBFZTRpMzFUUS1BNXJDSW9JQ2lqbzJjZVQtT1JTam92NHF4TWc3SHBMSDh2UzlGX20zdHVZ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T01:29:00",
+      "description": "Shocked by 'Extreme Heatwave'? Busan City Promotes Citizen Climate Insurance Enrollment Kyunghyang Shinmun",
+      "summary": {
+        "phenomenon": "Busan City is promoting climate insurance enrollment for its citizens after experiencing extreme heatwaves.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Busan City is expected to promote climate insurance enrollment to help citizens prepare for damages caused by climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Extreme heatwave",
+        "Busan City",
+        "Citizen",
+        "Climate insurance",
+        "Enrollment promotion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘극한 폭염’에 놀랐나···부산시, 시민 기후보험 가입 추진 경향신문"
+    },
+    {
+      "id": "4",
+      "title": "Why Annual Rainfall is Similar Yet Flood and Drought Disasters are Increasing - Dong-A Science",
+      "original_title": "연간 강수량 비슷한데 폭우·가뭄 재난 늘어난 이유 - 동아사이언스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB3a09sRGFES3l2Ri1WdjgzNGlnWHR1VmJvSGl0Wkdibmx3X0VfSGozMnNXUnZ6SGtfOVpUV2RoWTRoNmY2LVV6S3RNODRkaHVUbzdiQw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-22T23:00:00",
+      "description": "Why Annual Rainfall is Similar Yet Flood and Drought Disasters are Increasing Dong-A Science",
+      "summary": {
+        "phenomenon": "Despite similar annual rainfall, there is an observed increase in flood and drought disasters.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Annual rainfall",
+        "Heavy rain",
+        "Drought",
+        "Disaster",
+        "Reason"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "연간 강수량 비슷한데 폭우·가뭄 재난 늘어난 이유 동아사이언스"
+    },
+    {
+      "id": "5",
+      "title": "[Culture Column] The Warm Tragedy Created by Climate Change - Mudeung Ilbo",
+      "original_title": "[문화칼럼] 기후변화가 만들어 낸 따뜻한 비극 - 무등일보",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9aMzhlUDZFbTZMMklUZDFRVW9QN2hqUjNhbWEyVHU1bjVWQ2ZidUFjWVZma0U4WGFSYUFMT2thS0c1MDlQV3RwNC1B?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T06:06:00",
+      "description": "[Culture Column] The Warm Tragedy Created by Climate Change Mudeung Ilbo",
+      "summary": {
+        "phenomenon": "Climate change is giving rise to a phenomenon referred to as 'warm tragedy'.",
+        "cause": "Climate change is creating this 'warm tragedy'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Warm tragedy",
+        "Tragedy",
+        "Culture column",
+        "Mudeung Ilbo"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[문화칼럼] 기후변화가 만들어 낸 따뜻한 비극 무등일보"
+    },
+    {
+      "id": "6",
+      "title": "'Finding Answers to Climate Crisis in DMZ Forests'... Yeoncheon County Carbon Neutral Support Center Conducts Ecological Exploration Education - Gyeonggi Shinmun",
+      "original_title": "DMZ 숲에서 기후위기 답 찾는다’… 연천군 탄소중립지원센터, 생태탐사 교육 진행 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZGJVUVBJZjlHU1U2MzZaeUxGVWYzcFFKOTItVXVHOWRBREVjQzNjUnZXd2hrUlJqaWJGYkNoQU0zTHdudzNYRmlHbmExWGVGWjlkb3UzVUU0bm53VmRZLVgzOWE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T06:01:49",
+      "description": "'Finding Answers to Climate Crisis in DMZ Forests'... Yeoncheon County Carbon Neutral Support Center Conducts Ecological Exploration Education Gyeonggi Shinmun",
+      "summary": {
+        "phenomenon": "The Yeoncheon County Carbon Neutral Support Center is conducting ecological exploration education in the DMZ forest to find solutions to the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is expected that solutions to the climate crisis will be explored through the DMZ forest ecological exploration education."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "DMZ forest",
+        "Climate crisis",
+        "Yeoncheon County",
+        "Carbon Neutral Support Center",
+        "Ecological exploration education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "DMZ 숲에서 기후위기 답 찾는다’… 연천군 탄소중립지원센터, 생태탐사 교육 진행 경기신문"
+    },
+    {
+      "id": "7",
+      "title": "Gyeongsangbuk-do Province Promotes On-site Dissemination of Melon Cultivation Techniques to Counter Climate Change - CBN News",
+      "original_title": "경상북도, 기후변화 대응 참외 재배기술 현장 확산 나서 - CBN뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iMWQ5Tmoxc093RVZBQU1rZ29TVS11T2ZzMlN1X3d6b21BclNkLXZMbTF4VzZ6bkVHY3V3dzB1SlkweEh5TGV4SkdVZVY5RlhDdlVV?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-22T23:18:59",
+      "description": "Gyeongsangbuk-do Province Promotes On-site Dissemination of Melon Cultivation Techniques to Counter Climate Change CBN News",
+      "summary": {
+        "phenomenon": "Gyeongsangbuk-do Province is disseminating melon cultivation techniques on-site to respond to climate change.",
+        "cause": "This is due to difficulties arising in melon cultivation as a result of climate change.",
+        "outlook": "It is anticipated that the dissemination of climate-resilient melon cultivation techniques will benefit melon farmers."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongsangbuk-do Province",
+        "Climate change",
+        "Melon",
+        "Cultivation technique",
+        "Dissemination"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경상북도, 기후변화 대응 참외 재배기술 현장 확산 나서 CBN뉴스"
+    },
+    {
+      "id": "8",
+      "title": "Gyeongbuk Province Fights Abnormal Climate to 'Protect Melons'... Disseminates High-Temperature Resistant Cultivation Techniques - kyongbuk.co.kr",
+      "original_title": "경북도, 이상기후 맞서 ‘참외 지키기’…고온 대응 재배기술 확산 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jVFA2WUstSHk1d3ZQbldrYjEtTGJWTmtpSm1zazljQjd1OEFGSW0ybUhHWE5qUjl0TVBNTHFrMjNMcFFjdm5OWVBHVFVKMUVheXBpbUV3Tm93Q09MX1pmZGZWY01TWlFyMC1YczRnOA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T07:33:35",
+      "description": "Gyeongbuk Province Fights Abnormal Climate to 'Protect Melons'... Disseminates High-Temperature Resistant Cultivation Techniques kyongbuk.co.kr",
+      "summary": {
+        "phenomenon": "Gyeongsangbuk-do Province is disseminating high-temperature resistant cultivation techniques to protect melons against abnormal climate conditions, particularly high-temperature phenomena.",
+        "cause": "This is due to difficulties in melon cultivation caused by abnormal climate conditions, especially high-temperature phenomena.",
+        "outlook": "It is anticipated that melon cultivation in the Gyeongbuk region will stabilize through the dissemination of high-temperature resistant cultivation techniques."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gyeongbuk Province",
+        "Abnormal climate",
+        "Melon",
+        "High-temperature response",
+        "Cultivation technique"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "경북도, 이상기후 맞서 ‘참외 지키기’…고온 대응 재배기술 확산 kyongbuk.co.kr"
+    },
+    {
+      "id": "9",
+      "title": "“This Year is the Coolest, Temperatures Will Hit 45 Degrees”... Heavy Rain, Heatwaves, Typhoons Expected to Intensify - Maeil Business Newspaper",
+      "original_title": "“올해가 가장 시원, 45도 찍습니다”…폭우·폭염·태풍 3종세트 더 세진다는데 - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wSnZ3NVJRQWZIamJyM1BZczQ3VWtxZG9JVExEc2c3U0F3Rk1UTUNadlJpMzlRNDNCbHZ5alluS01QcDdObjI4cU12N2tOQQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T00:21:43",
+      "description": "“This Year is the Coolest, Temperatures Will Hit 45 Degrees”... Heavy Rain, Heatwaves, Typhoons Expected to Intensify Maeil Business Newspaper",
+      "summary": {
+        "phenomenon": "This year is projected to be recorded as the coolest year, with future forecasts indicating heatwaves reaching 45 degrees Celsius and more intense heavy rains and typhoons.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Extreme weather phenomena such as heatwaves, heavy rains, and typhoons are projected to intensify further in the future."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Heavy rain",
+        "Typhoon",
+        "45 degrees Celsius",
+        "Abnormal climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“올해가 가장 시원, 45도 찍습니다”…폭우·폭염·태풍 3종세트 더 세진다는데 매일경제"
+    },
+    {
+      "id": "10",
+      "title": "A Drier Earth... Unexpected Spread of Infectious Diseases - ESG Business Review",
+      "original_title": "더 건조해진 지구… 예상치 않게 확산하는 전염병들 - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLeDVWcFJNb015emNxYVNKMUN2ZE01WmY1RlpHTlpWcjZZRzc3enRIZ3Q2bXRIYWVjS3hsWXpuaDdtU3g0cTVScmwteVFGR2Y0YV9idkNkOGtBNDdTVmpmRzFOdGRrOW0wZzY0VnpzaTZ2QWs?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-22T23:33:42",
+      "description": "A Drier Earth... Unexpected Spread of Infectious Diseases ESG Business Review",
+      "summary": {
+        "phenomenon": "The Earth is becoming drier, leading to the unexpected spread of infectious diseases.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Earth",
+        "Dry",
+        "Infectious disease",
+        "Spread",
+        "Climate change"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "더 건조해진 지구… 예상치 않게 확산하는 전염병들 ESG비즈니스리뷰"
+    },
+    {
+      "id": "11",
+      "title": "Does China's Solar Policy Threaten Bird Habitats? - ESG Business Review",
+      "original_title": "중국의 태양광 정책, 새들의 서식지 위협하나? - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pRXJIeGt0QkR1QWxEMVlfUkdlajdyaWtIV25Yc1pPYUFxVW40Mmx5b00yY1E2QXE5VUc2c1NwbnNTU042Sjd3X3FQVElvei1zRGViZWltQjh0T1pnSFFFVEhJSFhaanR4Nl9QYnZybmNhVUk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-22T23:26:01",
+      "description": "Does China's Solar Policy Threaten Bird Habitats? ESG Business Review",
+      "summary": {
+        "phenomenon": "Concerns are being raised that China's solar policy may threaten bird habitats.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "China",
+        "Solar Policy",
+        "Bird",
+        "Habitat",
+        "Threat"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중국의 태양광 정책, 새들의 서식지 위협하나? ESG비즈니스리뷰"
+    },
+    {
+      "id": "12",
+      "title": "Global Droughts and Floods Predicted by K-Agriculture Digital Platform 'WISE' - Seoul Pn",
+      "original_title": "전 세계 가뭄·홍수, 케이-농업 디지털 플랫폼 '와이즈'가 예측한다 - 서울Pn",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CRDlTd3RQcW5aaUhmcENpdUY0ZXBWYU9JUWRtV0FGVDh5MjZYTG9zYVFGV3UtaW9hYzVycnhuSE55QnBjbUlrOFUzYUNETUVSc1pfVHdwQUpRdFZ6Mk5tQ2Vn?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-08-23T05:03:34",
+      "description": "Global Droughts and Floods Predicted by K-Agriculture Digital Platform 'WISE' Seoul Pn",
+      "summary": {
+        "phenomenon": "The K-Agriculture digital platform 'WISE' has the capability to predict global droughts and floods.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Global",
+        "Drought",
+        "Flood",
+        "K-Agriculture",
+        "WISE"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전 세계 가뭄·홍수, 케이-농업 디지털 플랫폼 '와이즈'가 예측한다 서울Pn"
+    },
+    {
+      "id": "13",
+      "title": "Gwangmyeong 1-dong, 5-dong, 6-dong Residents' Assembly Held... Generation-Specific Tasks on Carbon Neutrality, Mokgamcheon Ecosystem, etc., Resolved - v.daum.net",
+      "original_title": "광명1동·5동·6동 주민총회 개최…탄소중립·목감천 생태 등 세대별 과제 의결 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAycFo4T3hFS1pnTnZ3UWpVaGdIWEhkWnR3bUhGcllqa1pPTHZkN1dTaUNrc0tzcFo3NVhWNkd1TUdrZWJfd25FTUVXWGJXOG8?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T01:35:04",
+      "description": "Gwangmyeong 1-dong, 5-dong, 6-dong Residents' Assembly Held... Generation-Specific Tasks on Carbon Neutrality, Mokgamcheon Ecosystem, etc., Resolved v.daum.net",
+      "summary": {
+        "phenomenon": "A residents' assembly was held in Gwangmyeong 1-dong, 5-dong, and 6-dong, where generation-specific tasks related to carbon neutrality and the Mokgamcheon ecosystem were resolved.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Residents' Assembly",
+        "Carbon Neutrality",
+        "Mokgamcheon Ecosystem",
+        "Gwangmyeong",
+        "Task Resolution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광명1동·5동·6동 주민총회 개최…탄소중립·목감천 생태 등 세대별 과제 의결 v.daum.net"
+    },
+    {
+      "id": "14",
+      "title": "Spread of Carbon Neutrality Practices Utilizing Local Characteristics - Geumgang Ilbo",
+      "original_title": "동네 특색 살린 탄소중립 실천 확산 - 금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TN2tsY1k1ZHRUTXRvVnUzcFZ2dzhHV0RMdG9sVDhHT25QVkI3WEt6YWFqRHQzMXlmZlQ3bkV5T0RFOU9fd3V3c0JnQmFpX2ZmRVluLUFBd20yOFBta25FOTJvOEQ0bzduOWc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T06:45:53",
+      "description": "Spread of Carbon Neutrality Practices Utilizing Local Characteristics Geumgang Ilbo",
+      "summary": {
+        "phenomenon": "Carbon neutrality practices utilizing local characteristics are spreading.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Local Community",
+        "Carbon Neutrality",
+        "Practice",
+        "Spread",
+        "Characteristic"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "동네 특색 살린 탄소중립 실천 확산 금강일보"
+    },
+    {
+      "id": "15",
+      "title": "Daejeon Daedeok-gu: Spread of Carbon Neutrality Practices Utilizing Local Characteristics - Asia News Agency",
+      "original_title": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KWWdhMkNrd2NvRWgwTEVnd2JkVHJoenYtUGpwRU9SZ2ZtTGtMYkI2Vnl3a0FmeUdhRTBrb1U2ZzNIaURMd1Ntak5CWVlXOHhlY0VXQlgxczEtZ3dRSFZrYlIwMVEtSFFOanNtOHA5OHdnTXRj?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T02:14:05",
+      "description": "Daejeon Daedeok-gu: Spread of Carbon Neutrality Practices Utilizing Local Characteristics Asia News Agency",
+      "summary": {
+        "phenomenon": "In Daejeon Daedeok-gu, carbon neutrality practices utilizing local characteristics are spreading.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon Daedeok-gu",
+        "Carbon Neutrality",
+        "Practice",
+        "Spread",
+        "Local Characteristics"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 아시아뉴스통신"
+    },
+    {
+      "id": "16",
+      "title": "Daejeon Daedeok-gu: Carbon Neutrality Utilizing Local Characteristics... Practiced in Deogam and Jungri-dong - Time News",
+      "original_title": "대전 대덕구, 동네 특성 살린 탄소중립…덕암·중리동서 실천 - 타임뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiT3VnT2htNTQ2d0pxRGtQbThjMFlFRnRvRWF5TlBPX3djeXZBcnNnZ1YzSGtVQ1pnbjRGMmg3MVJpOVc3azJGYy1LdFJpU1dBc2pyUA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T06:51:59",
+      "description": "Daejeon Daedeok-gu: Carbon Neutrality Utilizing Local Characteristics... Practiced in Deogam and Jungri-dong Time News",
+      "summary": {
+        "phenomenon": "In Deogam-dong and Jungri-dong of Daejeon Daedeok-gu, carbon neutrality practices utilizing local characteristics are being implemented.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Daejeon Daedeok-gu",
+        "Regional Characteristics",
+        "Practice",
+        "Deogam Jungri-dong"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전 대덕구, 동네 특성 살린 탄소중립…덕암·중리동서 실천 타임뉴스"
+    },
+    {
+      "id": "17",
+      "title": "Learning Carbon Neutrality Through Play... Adopting Daily Practices Through Experience - Jeonju Ilbo",
+      "original_title": "놀이로 배우는 탄소중립… 체험으로 생활 속 실천 배워 - 전주일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54UzY2WDVKTGR5aDJ0bTBWbDhSSUs5SjdCUTFEOU1qUHlabUxPMzNmWDFHelpNNmlJOVFud2xwa1lmMHUyZmc5dnVBazA3U1ZidE9BZTZieHB6TG93czdMLUdLanpGNm9mVmc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T07:15:57",
+      "description": "Learning Carbon Neutrality Through Play... Adopting Daily Practices Through Experience Jeonju Ilbo",
+      "summary": {
+        "phenomenon": "Carbon neutrality is being learned through play, and daily life practices are being adopted through experience.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Play",
+        "Experience",
+        "Daily Practice",
+        "Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "놀이로 배우는 탄소중립… 체험으로 생활 속 실천 배워 전주일보"
+    },
+    {
+      "id": "18",
+      "title": "Daejeon Daedeok-gu: Spread of Carbon Neutrality Practices Utilizing Local Characteristics > News - The Korea",
+      "original_title": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83WENVREY3TnFMY1Z0SXEzSHQ3VGhzcEtpay1UenJMMWRFaXhBazZDS2s0Ymo1dEoxVkNFLVFrbTNJSWJoYjJPZkR0c1o1MWR1Q0dOaXdwcUZvcG1NdlZlV2NBa1I0cmM3Ym0tTnFPX04?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T06:27:00",
+      "description": "Daejeon Daedeok-gu: Spread of Carbon Neutrality Practices Utilizing Local Characteristics > News The Korea",
+      "summary": {
+        "phenomenon": "In Daejeon Daedeok-gu, carbon neutrality practices that leverage local characteristics are expanding.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon Daedeok-gu",
+        "Carbon Neutrality",
+        "Local Characteristics",
+        "Practice",
+        "Spread"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 > 뉴스 더코리아"
+    },
+    {
+      "id": "19",
+      "title": "Gwangmyeong 1-dong, 5-dong, 6-dong Residents' Assembly Held... Generation-Specific Tasks on Carbon Neutrality, Mokgamcheon Ecosystem, etc., Resolved - Incheon Ilbo",
+      "original_title": "광명1동·5동·6동 주민총회 개최…탄소중립·목감천 생태 등 세대별 과제 의결 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCLU9CZ2tWbklVU1ZPQW1yV2JxcW9YNkdiaFJmTnpqb2U5VG9HZ2JiakpEVFMxR1h4dnZBYVpVM2xXN1o1amNNY2h5NWxVYVFWNnh0bWZCNlM0dndXQl9DX3hCTzhfQ0RQd2c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T01:28:00",
+      "description": "Gwangmyeong 1-dong, 5-dong, 6-dong Residents' Assembly Held... Generation-Specific Tasks on Carbon Neutrality, Mokgamcheon Ecosystem, etc., Resolved Incheon Ilbo",
+      "summary": {
+        "phenomenon": "Residents' assemblies were held in Gwangmyeong 1-dong, 5-dong, and 6-dong, where generation-specific tasks concerning carbon neutrality and the Mokgamcheon ecosystem were resolved.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangmyeong-dong",
+        "Residents' Assembly",
+        "Carbon Neutrality",
+        "Mokgamcheon Ecosystem",
+        "Task Resolution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광명1동·5동·6동 주민총회 개최…탄소중립·목감천 생태 등 세대별 과제 의결 인천일보"
+    },
+    {
+      "id": "20",
+      "title": "Pocheon-si Gunnae-myeon Residents' Self-Governing Committee Signs MOU with Pocheon-si Carbon Neutrality Support Center - Sankyung Ilbo",
+      "original_title": "포천시 군내면 주민자치회, 포천시 탄소중립지원센터와 업무협약 체결 - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sa2p4ZkF6X3hWME9wV3JDaERPX1BEenZLRHpyZHhPeVRUZy1keTQ5Tk9BajNfNVFXdkpMd0lJMUdrbV9Jb2FQVHpsbkVKWDM5N3ZTdXlpUHNZQTI3LWo3S05wZUJzZzIwN3k0anJuUTM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T02:27:07",
+      "description": "Pocheon-si Gunnae-myeon Residents' Self-Governing Committee Signs MOU with Pocheon-si Carbon Neutrality Support Center Sankyung Ilbo",
+      "summary": {
+        "phenomenon": "The Pocheon-si Gunnae-myeon Residents' Self-Governing Committee has signed a Memorandum of Understanding (MOU) with the Pocheon-si Carbon Neutrality Support Center.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pocheon-si",
+        "Gunnae-myeon",
+        "Residents' Self-Governing Committee",
+        "Carbon Neutrality Support Center",
+        "Memorandum of Understanding (MOU)"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포천시 군내면 주민자치회, 포천시 탄소중립지원센터와 업무협약 체결 산경일보"
+    },
+    {
+      "id": "21",
+      "title": "Let's Practice Carbon Neutrality with 'Yumi's Cells' Escape Room - News Daily",
+      "original_title": "‘유미의 세포들’과 함께 방 탈출로 탄소중립 실천하자 - 뉴스데일리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xYjhOS1RCYTZwN251V1FaSXRKeWpvd2J2enpLZUJYWHZiMUlCZ0Q0a2JTTThZbm1ERy11bnY0VGRZNjFoWWtLNFpxWUxEdU9xWmdwWVhTZFJKT0d4ZDRiWEtvUUNCNjVFUDM0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T03:13:13",
+      "description": "Practice carbon neutrality through an escape room game featuring 'Yumi's Cells' - News Daily",
+      "summary": {
+        "phenomenon": "An activity encouraging carbon neutrality practices is underway, utilizing an escape room game featuring characters from 'Yumi's Cells'. (Specific details such as location, timing, and participation scale are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yumi's Cells",
+        "Escape Room",
+        "Carbon Neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘유미의 세포들’과 함께 방 탈출로 탄소중립 실천하자 뉴스데일리"
+    },
+    {
+      "id": "22",
+      "title": "Finding Answers to Climate Crisis in DMZ Forests… Yeoncheon-gun Carbon Neutrality Support Center Conducts Ecological Exploration Education - Gyeonggi Shinmun",
+      "original_title": "DMZ 숲에서 기후위기 답 찾는다’… 연천군 탄소중립지원센터, 생태탐사 교육 진행 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Gbzg1T0s4MTd6Q1VNRG5NSzQzbDNaelZZZWFRZDhxZDU3WFRybjk5Y0k4Rlotb3JhcVUtelpIQWJYRldYbFFDaEkxc09Nd2xRWGdidjBaSzg5MHQ2WUhtOA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T06:01:49",
+      "description": "Yeoncheon-gun Carbon Neutrality Support Center conducts ecological exploration education to find answers to the climate crisis in DMZ forests - Gyeonggi Shinmun",
+      "summary": {
+        "phenomenon": "The Yeoncheon-gun Carbon Neutrality Support Center is conducting ecological exploration education in the DMZ forest to seek solutions for the climate crisis. (Specific timing or number of participants are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "DMZ Forest",
+        "Climate Crisis",
+        "Yeoncheon-gun",
+        "Carbon Neutrality Support Center",
+        "Ecological Exploration Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "DMZ 숲에서 기후위기 답 찾는다’… 연천군 탄소중립지원센터, 생태탐사 교육 진행 경기신문"
+    },
+    {
+      "id": "23",
+      "title": "[Reporter's Notebook] The 5-Minute Blackout by the Culture and Arts Sector Illuminates the Light of Carbon Neutrality - Shin-A Ilbo",
+      "original_title": "[기자수첩] 문화예술계가 끄는 5분 간의 불, 탄소중립의 빛을 밝히다 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlZTNQcVltOGRkZXlaQmZhblVOcGYxWlJiM0g3WGYyd0MxbmY0c1hCV3ZyVTdQZDZCenlOdXlJR05LdHQybk5sbW42ZGtRdThHMzBvYWZ5eVRPZE1GNkl4N29hTkpiN3JJMlptdXlFVVY?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T00:50:03",
+      "description": "[Reporter's Notebook] The culture and arts sector turns off lights for 5 minutes, illuminating the light of carbon neutrality - Shin-A Ilbo",
+      "summary": {
+        "phenomenon": "The culture and arts sector is participating in carbon neutrality practices through an activity of turning off lights for 5 minutes. (Specific timing, location, or participation scale are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기자수첩] 문화예술계가 끄는 5분 간의 불, 탄소중립의 빛을 밝히다 신아일보"
+    },
+    {
+      "id": "24",
+      "title": "Pocheon City Gunnae-myeon Residents' Autonomy Council Signs Carbon Neutrality Practice Agreement - Jeonkuk Maeil Shinmun",
+      "original_title": "포천시 군내면 주민자치회, 탄소중립 실천 협약 체결 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43c0tVYTBiQk9DQkRjS05xV3lmMU5oV1pVZHJzdWozNm81clJLcXIyeHE4RkpPWHpKM3dvdndvbnExYnFJYVJWMUo4NDdXLWd5cV9oZHp0Sms4aGRvUDdtdWlOR0F4ZzRHdlJTeU53?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T04:32:57",
+      "description": "Pocheon City Gunnae-myeon Residents' Autonomy Council signs carbon neutrality practice agreement - Jeonkuk Maeil Shinmun",
+      "summary": {
+        "phenomenon": "The Gunnae-myeon Residents' Autonomy Council in Pocheon City has signed an agreement to practice carbon neutrality. (Specific timing or details of the agreement are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pocheon City",
+        "Gunnae-myeon",
+        "Residents' Autonomy Council",
+        "Carbon Neutrality",
+        "Agreement Signing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "포천시 군내면 주민자치회, 탄소중립 실천 협약 체결 전국매일신문"
+    },
+    {
+      "id": "25",
+      "title": "Kunsan National University Shares Achievements of Carbon Neutrality Internship - Hans Economy",
+      "original_title": "국립군산대, 탄소중립 인턴십 성과 공유 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90QkRUSUplRjBrQ1dFUjJMcGhKTEM5S3dmUFlLaFZYdTB2ckp3dkk2SjUwU0hKS3JQcUdSWG9FTTdlQ2ZOcUdUU2xmRDFKenZCZGpIV3Z1M1ZPR0psME5jeDVzOUoyMC1NNmNj0gFvQVVfeXFMT1M0TGI0SmFnMTNOcU5PRnhFa2tpdjI0MHU2TC1WRjBFYUN2NWFLdGYtNTFrVmliWU9fa05adDc0SXBKa1prOEZQSVRNV3F2TFZYZzlPci04M3RBdG44Mkd5ek5uTGdMS2NZMTZiTGhR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-22T23:18:43",
+      "description": "Kunsan National University shares achievements of carbon neutrality internship - Hans Economy",
+      "summary": {
+        "phenomenon": "Kunsan National University held a session to share the achievements of its carbon neutrality internship program. (Specific timing or details of achievements are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Kunsan National University",
+        "Carbon Neutrality",
+        "Internship",
+        "Achievements",
+        "Sharing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "국립군산대, 탄소중립 인턴십 성과 공유 한스경제"
+    },
+    {
+      "id": "26",
+      "title": "Jangsu-gun Leads Carbon Neutrality Practice by Expanding Use of Domestic Wood > News - The Korea",
+      "original_title": "장수군, 국산 목재 활용 확대로 탄소중립 실천 앞장 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZR1dUQ3JTOW9UVjVDcmFoaV9mejROdG1LaTl0cGxkVm1yLWFyc0E2OURBenEzLUVnQVhDOWpzMGxmZkhrUklFSkNUZktBcDRzOWtuVHZVc3ZmRV9mZm9LMU1hTENEekFZN0hiMkVmdFc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T07:41:00",
+      "description": "Jangsu-gun leads carbon neutrality practice by expanding the use of domestic wood > News The Korea",
+      "summary": {
+        "phenomenon": "Jangsu-gun is taking the lead in practicing carbon neutrality by expanding the use of domestic wood. (Specific timing or scale of utilization are not mentioned in the article.)",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jangsu-gun",
+        "Domestic Wood",
+        "Carbon Neutrality",
+        "Expanded Use",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "장수군, 국산 목재 활용 확대로 탄소중립 실천 앞장 > 뉴스 더코리아"
+    },
+    {
+      "id": "27",
+      "title": "Daejeon Daedeok-gu Spreads Carbon Neutrality Practices Reflecting Local Characteristics - Asia News Agency",
+      "original_title": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rb3VicFNmRmZZR1p1d01Zal9QVldoOTM1VzB0ZlhFTENUWU42YlVHa0dGVzI3aUZSd1lOblhZel9oMC04ZmZ4LXI2aXE3MWhUOWNWMjlfMEJJYVFC?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-08-23T02:14:05",
+      "description": "Daejeon Daedeok-gu spreads carbon neutrality practices reflecting local characteristics - Asia News Agency",
+      "summary": {
+        "phenomenon": "Daejeon Daedeok-gu is expanding carbon neutrality practices that incorporate unique local characteristics. (Specific details are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon Daedeok-gu",
+        "Carbon Neutrality",
+        "Practice",
+        "Spread",
+        "Local Characteristics"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전 대덕구, 동네 특색 살린 탄소중립 실천 확산 아시아뉴스통신"
+    },
+    {
+      "id": "28",
+      "title": "Saemangeum Undergoes a 'Dramatic' Transformation… Emerging as a Hub for Future High-Tech Industries such as AI, Robotics, Hydrogen, and Renewable Energy - Electronic Times",
+      "original_title": "새만금이 '확' 달라진다…AI·로봇·수소·재생에너지 등 미래 첨단산업 중심지로 부상 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DcFJWYXBQR3c0bTNQOEdJdl9tUGF1WFlmRGNGb0NGZ0tUSEYxczc2Q29BN19ad2RJSGxCWXQtV1poWHc0N2JmY2cyRExkQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T00:30:00",
+      "description": "Saemangeum undergoes a 'dramatic' transformation, emerging as a hub for future high-tech industries including AI, robotics, hydrogen, and renewable energy - Electronic Times",
+      "summary": {
+        "phenomenon": "Saemangeum is undergoing a significant transformation, emerging as a central hub for future high-tech industries, including AI, robotics, hydrogen, and renewable energy. (Specific details are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Saemangeum",
+        "Future High-Tech Industries",
+        "AI",
+        "Hydrogen",
+        "Renewable Energy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "새만금이 '확' 달라진다…AI·로봇·수소·재생에너지 등 미래 첨단산업 중심지로 부상 전자신문"
+    },
+    {
+      "id": "29",
+      "title": "Sunlight from Jeonju Public Parking Lots as Citizen Assets… Exploring Renewable Energy Profit Sharing - Jeonmin Ilbo",
+      "original_title": "전주 공영주차장 햇빛도 시민 자산으로···재생에너지 수익 공유 모색 - 전민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iUmplcm90SnJNQ3Z1ekFtUnp4Sjk1M2ZpY0x5ZVhvQUtyRU9GN2tzck1NU3dVSkZFVW4wUUk4emJPWEVkMUN0VU5qOUJ5LUljNGNfZjBxeWdOdFZqY2h0MlVFY2JMdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T01:41:44",
+      "description": "Jeonju public parking lot sunlight as citizen assets… exploring renewable energy profit sharing - Jeonmin Ilbo",
+      "summary": {
+        "phenomenon": "Jeonju is exploring ways to share profits from renewable energy generated by sunlight on public parking lots, treating it as a citizen asset. (Specific details are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonju",
+        "Public Parking Lot",
+        "Renewable Energy",
+        "Profit Sharing",
+        "Citizen Asset"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전주 공영주차장 햇빛도 시민 자산으로···재생에너지 수익 공유 모색 전민일보"
+    },
+    {
+      "id": "30",
+      "title": "Renewable Energy Unreliable, Nuclear Power Time-Consuming… Government's LNG Dilemma for 'Carbon Reduction' - Kyunghyang Shinmun",
+      "original_title": "재생에너지 못 미덥고 원전은 오래 걸리고…‘탄소 감축’ 정부의 LNG 딜레마 - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBudEdNWmhzNnpzRFpQdks0MmpNak5fSk55dzRTdEE2WmxoOGpMZUhEclhZSlctb1FOV2ZydXpQQVRQR09yRVRmV29zdDV1UGItQ2UxbzVpcjE0Z9IBX0FVX3lxTE9JQ21OTEl4UlN3OXlRVUVqRng1Zk5oRkZDVDhMZWV6MnoyOFpoTHBFLW94Z1dna2prM3VTTEJjZFhVdDY4QlYtMGIyVFZpczBXQ0hVcVdXWFBBcGpJLVln?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T06:30:00",
+      "description": "Renewable energy is unreliable, nuclear power takes time… the government's LNG dilemma for 'carbon reduction' - Kyunghyang Shinmun",
+      "summary": {
+        "phenomenon": "The government faces a dilemma regarding carbon reduction, as renewable energy is perceived as unreliable and nuclear power development is time-consuming, leading to a reliance on LNG. (Specific details are not mentioned in the article.)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable Energy",
+        "Nuclear Power Plant",
+        "Carbon Reduction",
+        "LNG",
+        "Dilemma"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 못 미덥고 원전은 오래 걸리고…‘탄소 감축’ 정부의 LNG 딜레마 경향신문"
+    },
+    {
+      "id": "31",
+      "title": "Hard-won Renewable Energy Wasted... China Seeks Solutions for 'Grid Issues' - Hankyoreh",
+      "original_title": "애써 늘린 재생에너지 버려져…‘전력망 문제’ 중국서 해법 찾는다 - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xTzVSYmR2QlJVNDJzb2RqRFQ0Sk8zU2MyMlB0RmxLVzRNYmM2eWtmYk82NVNVQUJTS2NTeWpYdVBKSndZOVQ5LWpmaHRyNHpwRDZ6ZlFLeC15RDY0ZWJkSElycG1xS1hUU09Cdjh4SV9sUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T06:56:00",
+      "description": "Hard-won Renewable Energy Wasted... China Seeks Solutions for 'Grid Issues' Hankyoreh",
+      "summary": {
+        "phenomenon": "In China, the phenomenon of hard-won increased renewable energy being wasted is occurring.",
+        "cause": "Renewable energy is being wasted due to power grid issues.",
+        "outlook": "China is attempting to find solutions for these power grid issues."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable energy",
+        "Power grid",
+        "Energy waste",
+        "China",
+        "Solution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "애써 늘린 재생에너지 버려져…‘전력망 문제’ 중국서 해법 찾는다 한겨레"
+    },
+    {
+      "id": "32",
+      "title": "Abundant Renewable Energy, Yet Grid Congestion... Why the IEA Warned of 67 Trillion Won Investment - Global Economic",
+      "original_title": "재생에너지 쏟아지는데 전력망 정체… IEA가 67조 투자 경고한 이유 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnVDQmFBeTdsbXFJSnc0bkFzMkdWbDZzUDlUUndVc3o0VENMRkNXeFp4OG13X2RXNkd2d0dMbXVZWVFfci0zUzc5LVg2M0tjcGJ3R2JfbGc3YVZ6UkxjZU82bjNxZDZUdXpDRUtrRFBhYzBYM3pjMnlxckp5ZEhweHNMVTFuWGwt?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T05:07:33",
+      "description": "Abundant Renewable Energy, Yet Grid Congestion... Why the IEA Warned of 67 Trillion Won Investment Global Economic",
+      "summary": {
+        "phenomenon": "Despite significant production of renewable energy, the phenomenon of power grid congestion is occurring.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The IEA warned that an investment of 67 trillion won is needed to resolve the power grid congestion issue."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable energy",
+        "Power grid",
+        "Congestion",
+        "IEA",
+        "Investment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 쏟아지는데 전력망 정체… IEA가 67조 투자 경고한 이유 글로벌이코노믹"
+    },
+    {
+      "id": "33",
+      "title": "Pyeongtaek in the AI and Semiconductor Era Seeks Solutions for 'Renewable Energy Transition' - Gyeongin Ilbo",
+      "original_title": "AI·반도체 시대 평택, ‘재생에너지 전환’ 해법 찾다 - 경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPYjMwUGdoelhxVTdQM2thZVIyOE5Ib2pwMlpXWGxPOTJNNnR6YmJTOFRSdlRBMlJqcXJNeDdtRmpIaFAySENXZjFGaklYb1Vmemc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T02:49:43",
+      "description": "Pyeongtaek in the AI and Semiconductor Era Seeks Solutions for 'Renewable Energy Transition' Gyeongin Ilbo",
+      "summary": {
+        "phenomenon": "In the era of AI and semiconductors, the Pyeongtaek region is seeking solutions for renewable energy transition.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "AI",
+        "Semiconductor",
+        "Pyeongtaek",
+        "Renewable energy transition",
+        "Solution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "AI·반도체 시대 평택, ‘재생에너지 전환’ 해법 찾다 경인일보"
+    },
+    {
+      "id": "34",
+      "title": "Gyeonggi Provincial Council Member Ahn Gye-myeong: 'Pyeongtaek Renewable Energy Expansion Requires Institutional Reform and Policy Finance Linkage' - Seoul Ilbo",
+      "original_title": "안계명 경기도의원 “평택 재생에너지 확대, 제도 정비·정책금융 연계” - 서울일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdkVlbGhpTkJXdmN4QWpKVFhMYnZ6LWUtMXQ4TmJ4ZFU3ZWxBMUN3aEg5UGdfNjRYWFI2Q0VQY0pvVGRTVGFDXzlKNGpxQ3Z6d2RCY2xDcG0tSkpXLUhMbHVZaHo0aGZHOUIw0gFvQVVfeXFMTUN6M3VvOTFkeUpZZXVLR2thU2hPakdCYm9JbG1rMTNhMUxxX1ZJUmc4d29BNGczdlpBUnVyZWtXZjdxZVFuV3V3RGktaWJPVmdlN1JCQnVNcjBoRWFONU51djQ4YjNyc250amp6Sld3?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T05:56:59",
+      "description": "Gyeonggi Provincial Council Member Ahn Gye-myeong: 'Pyeongtaek Renewable Energy Expansion Requires Institutional Reform and Policy Finance Linkage' Seoul Ilbo",
+      "summary": {
+        "phenomenon": "Gyeonggi Provincial Council Member Ahn Gye-myeong proposed the expansion of renewable energy in the Pyeongtaek region.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It has been proposed that institutional reform and policy finance linkage are necessary for the expansion of renewable energy in Pyeongtaek."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Pyeongtaek",
+        "Renewable energy",
+        "Expansion",
+        "Institutional reform",
+        "Policy finance"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안계명 경기도의원 “평택 재생에너지 확대, 제도 정비·정책금융 연계” 서울일보"
+    },
+    {
+      "id": "35",
+      "title": "'A Year's Worth of Mexico's Electricity Wasted?'... The Absurd Paradox of Eco-Friendly Leader China [Current Affairs Show] - v.daum.net",
+      "original_title": "\"멕시코 1년 치 전기를 버렸다고?\"…친환경 1위 중국의 황당한 역설[시사쇼] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoQ1FEYWlIeEtiRGpodmdQdkxLQVd4SnVrSE1GRzVQMEo0Vm52NzRlY1FvSVQySElyN0I4YzZVUmdzMVU5XzJBcjVSaDZhMVk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-22T23:31:50",
+      "description": "'A Year's Worth of Mexico's Electricity Wasted?'... The Absurd Paradox of Eco-Friendly Leader China [Current Affairs Show] v.daum.net",
+      "summary": {
+        "phenomenon": "In China, a phenomenon occurred where electricity equivalent to Mexico's annual consumption was wasted.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Mexico",
+        "China",
+        "Eco-friendly",
+        "Electricity waste",
+        "Paradox"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"멕시코 1년 치 전기를 버렸다고?\"…친환경 1위 중국의 황당한 역설[시사쇼] v.daum.net"
+    },
+    {
+      "id": "36",
+      "title": "Proposal for Solar Power Utilization in Jeonju Public Parking Lots... Exploring 'Energy Citizen Income' - Jeonbuk Domin Ilbo",
+      "original_title": "전주 공영주차장 태양광 활용 제안…‘에너지시민소득’ 모색 - 전북도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QdGpqSnJZREpKWng2clhtZk5EU2F6LWlsWjZ5b2UyNWUyX3hmVW9HOFlhQk9ybUVWT1Y0MUVFeEZIQ2Y2LTViR0p5S2VUVEpSM2g4MFhPRDRoUzIwTzFDcThWcjJCTjZiMFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T05:06:05",
+      "description": "Proposal for Solar Power Utilization in Jeonju Public Parking Lots... Exploring 'Energy Citizen Income' Jeonbuk Domin Ilbo",
+      "summary": {
+        "phenomenon": "A plan to utilize solar power in public parking lots in the Jeonju area has been proposed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "There is an outlook to explore 'energy citizen income' through the utilization of solar power."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonju",
+        "Public parking lot",
+        "Solar power",
+        "Energy citizen income",
+        "Utilization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전주 공영주차장 태양광 활용 제안…‘에너지시민소득’ 모색 전북도민일보"
+    },
+    {
+      "id": "37",
+      "title": "China's Renewable Energy Expands Beyond Electricity Production to Hydrogen, Heat, and Fuel - NewsN Yeonhap",
+      "original_title": "중국 재생에너지, 전기 생산을 넘어 수소·열·연료로 넓어진다 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3YXlha1lqTVB3LTdjYnJoWGR0WU1xTURUa3YwQ1FlNmsyVGxFQXBsVkZjd3gtcVpDa1dhbFdyM2tKUVpjWUF5aGpB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T01:31:00",
+      "description": "China's Renewable Energy Expands Beyond Electricity Production to Hydrogen, Heat, and Fuel NewsN Yeonhap",
+      "summary": {
+        "phenomenon": "In China, the scope of renewable energy utilization is expanding beyond electricity production to include hydrogen, heat, and fuel sectors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "It is anticipated that China's renewable energy will be converted into various energy forms and utilized."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "China",
+        "Renewable energy",
+        "Hydrogen",
+        "Heat",
+        "Fuel"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "중국 재생에너지, 전기 생산을 넘어 수소·열·연료로 넓어진다 뉴스N연합"
+    },
+    {
+      "id": "38",
+      "title": "Hanwha Solutions Welcomes Government's Renewable Energy Expansion Policy; Will Park Seung-deok Seize New Opportunities with 'Korean-style IRA'? - Business Post",
+      "original_title": "한화솔루션 정부의 재생에너지 확대정책 반갑다, 박승덕 '한국판 IRA'로 새 기회 잡나 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jUmFkUDZRSlc2dTRQZ0JwMTl0WFZsblU3VncweWxmTEh6MDh3NTRWYUttTTdBUFktTjlOQmhNVllGbkx6OE94SUIwWnhoSUNTb2lyN0N4WTVQRVRGYlJJWEJMQllyUGhuRDFfTWd1bkJPM1E?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-22T21:00:00",
+      "description": "Hanwha Solutions Welcomes Government's Renewable Energy Expansion Policy; Will Park Seung-deok Seize New Opportunities with 'Korean-style IRA'? Business Post",
+      "summary": {
+        "phenomenon": "The government's renewable energy expansion policy is being promoted, and Hanwha Solutions is reacting positively to it.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Hanwha Solutions expects to gain new business opportunities through the 'Korean-style IRA'."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hanwha Solutions",
+        "Renewable energy",
+        "Expansion policy",
+        "Korean-style IRA",
+        "New opportunity"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한화솔루션 정부의 재생에너지 확대정책 반갑다, 박승덕 '한국판 IRA'로 새 기회 잡나 비즈니스포스트"
+    },
+    {
+      "id": "39",
+      "title": "Landfill Gas and Food Waste Water to Electricity and Biogas Conversion... Sudokwon Landfill Site Management Corporation: 'Renewable Energy Production on Track' - Metro Shinmun",
+      "original_title": "매립가스·음폐수→전력·바이오가스 전환...수도권매립지관리공사 \"재생에너지 생산 본 궤도\" - 메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwcHJOUXRtYjFiMTJaLXp2c09CYWFLNDQxcXdCU3M3WkRMbGxRTnVVMThmNEl3aWxmWkJ5V3ZJNHdhUDNLcmQtb3liQU1xTFNsN3pVT1BQOWhTb0JvZFJuTQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-23T04:29:44",
+      "description": "Landfill Gas and Food Waste Water to Electricity and Biogas Conversion... Sudokwon Landfill Site Management Corporation: 'Renewable Energy Production on Track' Metro Shinmun",
+      "summary": {
+        "phenomenon": "The Sudokwon Landfill Site Management Corporation states that the conversion of landfill gas and food waste water into electricity and biogas has put renewable energy production on track.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Landfill gas",
+        "Food waste water",
+        "Renewable energy",
+        "Biogas",
+        "Conversion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "매립가스·음폐수→전력·바이오가스 전환...수도권매립지관리공사 \"재생에너지 생산 본 궤도\" 메트로신문"
+    },
+    {
+      "id": "40",
+      "title": "Ahn Ho-young Proposes 'Korea Power Generation Corporation Act' for Integration of 5 Power Generation Companies... Headquarters and Renewable Energy Transition Headquarters to Jeonbuk - Todayan",
+      "original_title": "안호영, 발전 5사 통합 ‘한국발전공사법’ 발의…본사·재생에너지전환본부 전북으로 - 투데이안",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DVkpjMVRHbEZvX1A4RnlTMTNjRHI4QzV2MmNoSGlDUFNvNVQ0Q1JzZDh2N0ZjWFRQcHAtOUpvcVp2UUxpSlZDTjNuZWV6WmNpaFl5bnRxdUN4MGNFQzZPTzB3NC1UTzdi?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-22T23:20:08",
+      "description": "Ahn Ho-young Proposes 'Korea Power Generation Corporation Act' for Integration of 5 Power Generation Companies... Headquarters and Renewable Energy Transition Headquarters to Jeonbuk Todayan",
+      "summary": {
+        "phenomenon": "Representative Ahn Ho-young has proposed the 'Korea Power Generation Corporation Act' to integrate five power generation companies, with the headquarters and the Renewable Energy Transition Headquarters to be located in Jeonbuk.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Ahn Ho-young",
+        "Integration of 5 power generation companies",
+        "Korea Power Generation Corporation Act",
+        "Renewable energy",
+        "Jeonbuk"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안호영, 발전 5사 통합 ‘한국발전공사법’ 발의…본사·재생에너지전환본부 전북으로 투데이안"
+    },
+    {
+      "id": "41",
+      "title": "Jang Jeong-hee and Gyeonggi Provincial Assembly Review Expansion of Resident-Participatory Solar Power Centered on Energy Cooperatives, Sunlight Income, and Support for Energy-Vulnerable Areas - AutoToday",
+      "original_title": "장정희·경기의회, 에너지협동조합 중심 주민참여형 태양광 확대 햇빛소득·에너지 취약지역 지원 점검 - 오토투데이",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jdDBNeXIwNGE4YklEck9qRGUtUzRYMzNoX1p2R25yU2x5bkhJVHF0bzJXaWxhYWNFWGE4Y2VLaWIyek5UdHNmRkYzbGNubTJNYnZ1Y0J3WjVtUElaRS1yYU5lYXRjTTdHZzhVRl96bw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-22T23:58:27",
+      "description": "Jang Jeong-hee and Gyeonggi Provincial Assembly Review Expansion of Resident-Participatory Solar Power Centered on Energy Cooperatives, Sunlight Income, and Support for Energy-Vulnerable Areas AutoToday",
+      "summary": {
+        "phenomenon": "Assemblywoman Jang Jeong-hee and the Gyeonggi Provincial Assembly are reviewing plans for expanding resident-participatory solar power centered on energy cooperatives, as well as initiatives for 'sunlight income' and support for energy-vulnerable areas.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Solar power",
+        "Energy cooperative",
+        "Resident participation",
+        "Sunlight income",
+        "Energy-vulnerable areas"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "장정희·경기의회, 에너지협동조합 중심 주민참여형 태양광 확대 햇빛소득·에너지 취약지역 지원 점검 오토투데이"
+    },
+    {
+      "id": "42",
+      "title": "Chinese Solar Power Plant Discards Electricity Equivalent to Mexico's Annual Consumption [Current Affairs Show] - Nate",
+      "original_title": "멕시코 1년치 전력 그대로 버린 中 태양광 발전소[시사쇼] - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oYUJYc3M2MEdDOFd2MHItU1JPS0JqMDFISlNiMFZmUUNkZkNQVURDRW9kX0VucURjV3hZWGc4NEJpek5hT1A0NGxEcGdjNFNESUxF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-08-22T23:30:00",
+      "description": "Chinese Solar Power Plant Discards Electricity Equivalent to Mexico's Annual Consumption [Current Affairs Show] Nate",
+      "summary": {
+        "phenomenon": "It has been reported that a solar power plant in China discarded energy equivalent to Mexico's annual electricity consumption.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Mexico",
+        "China",
+        "Solar power plant",
+        "Electricity",
+        "Waste"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "멕시코 1년치 전력 그대로 버린 中 태양광 발전소[시사쇼] 네이트"
+    },
+    {
+      "id": "43",
+      "title": "Renewable Energy Untrustworthy, Nuclear Power Takes Too Long… Government's LNG Dilemma for 'Carbon Reduction'",
+      "original_title": "재생에너지 못 미덥고 원전은 오래 걸리고…‘탄소 감축’ 정부의 LNG 딜레마",
+      "url": "https://www.khan.co.kr/article/202608231530001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-23T06:30:00",
+      "description": "Three major mega-projects require power equivalent to 19 large nuclear reactors. Renewable energy faces issues of inefficiency and unstable supply, while large nuclear power plants have long construction periods and Small Modular Reactors (SMRs) have commercialization limitations. Opposition is growing against the government's assertion that 'LNG power expansion is inevitable.' Minister Kim Sung-hwan of the Ministry of Climate, Energy, and Environment made remarks at a press briefing. This includes projects like the Honam Semiconductor Cluster.",
+      "summary": {
+        "phenomenon": "The Korean government is facing a dilemma in achieving its carbon reduction targets, as three major mega-projects, including the Honam Semiconductor Cluster, require electricity equivalent to 19 large nuclear reactors.",
+        "cause": "Renewable energy sources are challenged by inefficiency and unstable supply, while large nuclear power plants have extended construction periods, and Small Modular Reactors (SMRs) face commercialization limitations. Consequently, the government asserts that expanding LNG power generation is inevitable.",
+        "outlook": "Opposition to the government's assertion of expanding LNG power generation is growing."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Carbon reduction",
+        "LNG dilemma",
+        "Renewable energy",
+        "Nuclear power plant",
+        "Mega-project"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "3대 메가프로젝트에 대형 원전 19기 전력 필요재생에너지는 비효율·안정적 공급 문제 풀어야대형 원전은 건설 공기, SMR은 상용화 한계정부 “LNG 발전 확대 불가피” 주장에 반발↑김성환 기후에너지환경부 장관이 지난 18일 정부세종청사에서 열린 기후부 기자실 확장 기념 출입기자단 차담회에서 발언하고 있다. 기후부 제공호남권 반도체 클러스터 등 3대 메가프로···"
+    },
+    {
+      "id": "44",
+      "title": "Is This Weather Normal After Rain? Heatwave Advisory Issued Across Seoul Amid 'Humid Sweltering Heat' with Perceived Temperature of 33°C",
+      "original_title": "비 온 뒤 이 날씨 맞아?···체감온도 33도 ‘습한 무더위’에 서울 전역 폭염주의보",
+      "url": "https://www.khan.co.kr/article/202608231208001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-08-23T03:08:00",
+      "description": "A heatwave advisory has been reissued across Seoul just four days after its previous lifting. The Seoul Metropolitan Government is strengthening citizen protection in cooperation with autonomous districts and related organizations. Seoul has experienced 12 consecutive tropical nights amid an ongoing heatwave. The Korea Meteorological Administration issued a heatwave advisory for all of Seoul at 11 AM on August 23rd, as temperatures rose again after the rain.",
+      "summary": {
+        "phenomenon": "On August 23rd at 11 AM, a heatwave advisory was issued across Seoul. After the rain subsided, temperatures rose again, leading to humid, sweltering heat with a perceived temperature reaching 33°C. Seoul has also experienced 12 consecutive tropical nights.",
+        "cause": "The humid, sweltering heat occurred as temperatures rose again after the rain subsided.",
+        "outlook": "The Seoul Metropolitan Government plans to strengthen citizen protection in cooperation with autonomous districts and related organizations."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "특보 해제 4일 만에···서울 전역 다시 폭염주의보서울시, 자치구·유관기관과 협력해 시민 보호 강화서울에 12일 연속 열대야가 이어지며 폭염이 계속 되고 있는 3일 서울 종로구 탑골공원을 찾은 시민이 땀을 닦고 있다. 2026.08.03 한수빈 기자비가 그친 뒤 기온이 다시 오르면서 서울 전역에 폭염주의보가 내려졌다.기상청은 23일 오전 11시 서울 전역에···"
+    },
+    {
+      "id": "45",
+      "title": "카르페 와인: 기후 변화에 맞춰 개발된 포도",
+      "original_title": "Carpe Wine: The grapes built for climate change - VailDaily.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNHdrX01lQndFbk1YcVUwMlRZOG9PT2J5QjdqV1lONVdLaUZ2MDRRcndkM0M0dkN0S1VnYzBLclBkZW1uSDV0N3VmVUNGeEhGaVd1NEQteFZSUW1PM0FJcnBBVXhNUnpPWWc4X3pKZXkwMUdTdW5PUkl3WkFaNEhqVXpVSmk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-23T07:25:00",
+      "description": "Carpe Wine: The grapes built for climate change VailDaily.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "New grape varieties, such as 'Carpe Wine,' are being developed to adapt to climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Grape",
+        "Wine",
+        "Variety development",
+        "Adaptation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Carpe Wine: The grapes built for climate change VailDaily.com"
+    },
+    {
+      "id": "46",
+      "title": "기후 변화: 정부는 푸에르토리코인과 미국 시민들에게 물을 공급할 수 없다 – 정보 논평",
+      "original_title": "Climate Change: Gov’t cannot Provide Water to Puerto Ricans, US Citizens - Informed Comment",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ETmdBdXl6UDctZHRMXzdyRHMyTW14RXc4NVdyWmNtLXVfT0wwbnViSmhfSWViNV94TFhieklCcGVKWUVvUzVhNkNTZGxHa0ZMb0g2YXF1R2xsYlF4VTBIQjB3N2JMS2tRVjA1dFVoYw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-23T04:06:07",
+      "description": "Climate Change: Gov’t cannot Provide Water to Puerto Ricans, US Citizens Informed Comment",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Due to climate change, a situation is arising where the government cannot provide water to Puerto Ricans and U.S. citizens."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Water supply disruption",
+        "Government",
+        "Puerto Rico",
+        "U.S. citizens"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change: Gov’t cannot Provide Water to Puerto Ricans, US Citizens Informed Comment"
+    },
+    {
+      "id": "47",
+      "title": "기후 변화가 우리를 더 외롭게 만들 수도 있다: 폭염과 극한 기후가 모두가 의존하는 사회적 연결을 어떻게 방해하는가",
+      "original_title": "Climate Change May Be Making Us Lonelier: How Heat Waves and Extreme Weather Disrupt Social Connections Everyone Relies On - The Good Men Project",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT3J6bFVKam5iUWNtRTBPdGhxTDVzWVE0LVJ2WC1TSElpdHhZQ281dmtMQnJHa0EzUXR1MXViRlVmUXhxb3ZORGk4anpsS0VkM0FlMENnREtBcEN5MGxGSTIxY2t0WXhKTERaZnhCN1F3WEhFcjFLNVJGQjkydmdqUGFodG9wd1A1ek5iVVNINWowUGVlMUROYm9ITlBHRkJabDllYkdWS0FiOFFkc3BUTURWMHVRdFhNSUt1RC1DZEdoWUxVQUZhS0R5dFpodG90UHpUdHI5MXNrTUNScVBBcFNlSVZfVmo1ZWctQVVWRGpvakZUVy15TDB3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-23T05:04:03",
+      "description": "Climate Change May Be Making Us Lonelier: How Heat Waves and Extreme Weather Disrupt Social Connections Everyone Relies On The Good Men Project",
+      "summary": {
+        "phenomenon": "Heatwaves and extreme weather events are disrupting the social connections that people rely on.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change, through heatwaves and extreme weather, can disrupt social connections, potentially leading to increased loneliness."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Loneliness",
+        "Heatwave",
+        "Extreme weather",
+        "Social disconnection"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change May Be Making Us Lonelier: How Heat Waves and Extreme Weather Disrupt Social Connections Everyone Relies On The Good Men Project"
+    },
+    {
+      "id": "48",
+      "title": "Dyer: Climate change reality still not spurring action - London Free Press",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSGd4ZXJIY2w5cTdqQVUwd2QtRng2NnhnUXdJTGdYMXlQTVNtRndtVGdoNGNScTQtY2xnUkx6OEV5cFEwdGhCREgzUkVuWjZURTlvUDFNaHpjMzdlZDV5UGUwTzF5T3NnTkxseVc3dW1XS3BjeWJEV0dJcWtTVUx4b3BRUWp4TTRFRERGcVFEaTV3ZU1zSGVR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-23T04:08:12",
+      "description": "Dyer: Climate change reality still not spurring action London Free Press",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Despite the reality of climate change, sufficient action is still not being taken."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Dyer: Climate change reality still not spurring action London Free Press"
+    },
+    {
+      "id": "49",
+      "title": "크로아티아 포도 수확, 기후 변화로 포도밭 재편되며 8월로 이동",
+      "original_title": "Croatia’s grape harvest moves into August as climate changes reshape vineyards - Croatia Week",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHRkxhUTVBdVUxZ2NkaDZucXB2X2JqaTl0OXFrSUlyejc3eUcxU1VRYllrVjBXV29ybU5pbFd1ampKUXpNRDRaRHdJNi1RcHdwZzBzaUJYc0xJSWk5ZE0zbGlOZFdJaUNoTXdTTGV1bVU2b2xWRmtuY3N2eW4?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-08-23T05:52:59",
+      "description": "Croatia’s grape harvest moves into August as climate changes reshape vineyards Croatia Week",
+      "summary": {
+        "phenomenon": "In Croatia, the grape harvest season has shifted earlier, now beginning in August.",
+        "cause": "Climate change is reshaping vineyard environments, leading to a shift in harvest times.",
+        "outlook": "Climate change is altering the environment of Croatian vineyards, impacting agricultural practices such as grape harvesting."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Croatia",
+        "Grape harvest",
+        "Climate change",
+        "Vineyard",
+        "Harvest season"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Croatia’s grape harvest moves into August as climate changes reshape vineyards Croatia Week"
+    }
+  ],
+  "summary": {
+    "total_count": 49,
+    "domestic_count": 44,
+    "international_count": 5,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Renewable energy",
+      "Action",
+      "Spread",
+      "China"
+    ],
+    "sentiment_breakdown": {
+      "positive": 29,
+      "negative": 16,
+      "neutral": 1
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "실천",
+      "확산",
+      "중국"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}
