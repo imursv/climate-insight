@@ -1,16 +1,16 @@
 {
   "date": "2026-08-29",
   "metadata": {
-    "collected_at": "2026-08-28T19:59:51.706520",
-    "total_articles": 111,
+    "collected_at": "2026-08-29T04:09:14.200986",
+    "total_articles": 140,
     "sources": {
-      "korean": 83,
-      "international": 28
+      "korean": 97,
+      "international": 43
     },
     "sentiment_distribution": {
-      "positive": 44,
-      "negative": 36,
-      "neutral": 19
+      "positive": 52,
+      "negative": 47,
+      "neutral": 21
     }
   },
   "articles": [
@@ -2839,6 +2839,699 @@
           "일시적 금지"
         ]
       }
+    },
+    {
+      "id": "1ed474c3f8996d38",
+      "title": "빙하 녹고 산 무너지고...기후변화가 키운 연쇄재난 - YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ia2UtRHRCRTd1YldnRTQ4aTY0QjlyMFRWdTRtTjUtSUhJZUtJOUxQbTlNODJRQVFLaG1mVkRhakQ4SFhDbFl4Tmd5RjJmekNWNXBVUVFkQ3EteWk1cmc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T02:20:00",
+      "collected_at": "2026-08-29T04:04:51.403624",
+      "keywords_matched": [
+        "기후변화",
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "96f38afb1a9be4e5",
+      "title": "기후변화로 매출 줄어도 보상…진화하는 기후보험 - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjU3Tk0weHpDcUFHTTYteTZRWDg5dkpkTExWRGJ4QmY0blZyWXJ3dmt1UF9lTEdSb2lnOGhmc2hUNmtLbThzVGlaVndjRU1LWnpJT2VJMl9hMDZ6UjhEX0VnampSS2JjQ0FnQ3IwMXRWb3NFWGNmV2NIcmREVzZEeQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-28T23:00:04",
+      "collected_at": "2026-08-29T04:04:51.403738",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "기후보험",
+          "보상",
+          "매출",
+          "진화"
+        ]
+      }
+    },
+    {
+      "id": "63d8863958a52871",
+      "title": "“산은 이미 경고했다”…네팔 홍수 앞에 드러난 ‘7년 늦은 기후재원’ - 한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5namVDTVpkWi1UVmV0czdDTzlhWk12TURBX01WbUswT3lBOUtsYjAyZ1FSSnpweTd3N1RvZzNnbkcxRVNZeWg4MUpvWTg1MlFQd25XVGoxZlpoYkZ2ejcwd2plS21QX18w?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T02:23:28",
+      "collected_at": "2026-08-29T04:04:51.404051",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "홍수",
+          "기후재원",
+          "경고",
+          "지연"
+        ]
+      }
+    },
+    {
+      "id": "04075b510a345c41",
+      "title": "[시대포커스]기후위기 못 쫓는 10년 전 안전기준 - 동행미디어 시대",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ka3piU1Q5SGpmNnZjVmV2S194dkJNMTBsSlNuMmN2RUMyTk9tY0hqTDlOZnU4WjItVnhIcXhEZDBCZ3JpZW1YTFBveXhnU2VCYzJxQzI4b1BnbmlUMVE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T01:05:58",
+      "collected_at": "2026-08-29T04:04:51.404305",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "안전기준",
+          "기준 미달",
+          "정책 개선",
+          "재난 대비"
+        ]
+      }
+    },
+    {
+      "id": "25735080ad412df0",
+      "title": "\"반려식물 가꾸며 탄소중립 실천\" 동대문구, 어르신과 함께하는 탄소중립 홈가드닝 행사 개최 - 시정일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQzVuSzJTMW9rcHRzbjZNbzRtWklZRF9Sd2FxN0pkejJuYmhJSzZpUkx4dzNfZnR6SUlOOHk1MmVTVmhNQkRlS0U5X1UwTk1kNkNySEFjcWstYnlESDhvTnFqYnFhZ3Z6eV9Z?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-28T23:30:40",
+      "collected_at": "2026-08-29T04:04:51.558942",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "동대문구",
+          "탄소중립",
+          "홈가드닝",
+          "반려식물",
+          "어르신"
+        ]
+      }
+    },
+    {
+      "id": "dd55322fa5dfa4b3",
+      "title": "반려식물에 담은 초록빛 마음, 어르신과 함께 탄소중립 실천 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oSXBaTlllSzM3ZEItd0ZYcEVQbGNPYXY0MkI5aXJjbGozdWpkeHpFaGVnWTNxWG5YTllwNUtaV3hsSlI4RVhseWJIT3JVYTlvQnpOejA3U2VERGlIajFZTG04dEVWRW5FajlFZXQxQkM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T01:33:00",
+      "collected_at": "2026-08-29T04:04:51.559013",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "반려식물",
+          "어르신",
+          "탄소중립",
+          "실천",
+          "초록빛 마음"
+        ]
+      }
+    },
+    {
+      "id": "9da47229e469b5fe",
+      "title": "광명시 광명7동 주민자치회, 생활 속 탄소중립 실천 이끈 ‘탄소중립 마을학교 3탄’ 성황리 마쳐 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaTjZ2MWdfNWNqbFVYb05hcG5nSlVoZEU0WUNSeWwzdFdCRjRFamIydi1rWmthYmxjZkJXVmx1NFlhWTN4TlZBQklBSnQxWXU0LW9GSWkza2hoUzRMQ28wV2ZjWllUOXpYVW8zMzNBYm0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-08-28T23:25:00",
+      "collected_at": "2026-08-29T04:04:51.559162",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "광명시",
+          "주민자치회",
+          "마을학교",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "784faf18337a7268",
+      "title": "영국인 ‘안정적 전력은 원전’…재생에너지 속 원전 부상 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HT0tzd01yUDlUVDJ3YUlJU1NabnNadS1ITW4tZlByaHR0blcxTXVUdnRIU1VtUVo3NFB6elVuZExkNUdBejJlbGRHUk9vT0dFTTBtRm5uNzFKTDU3UUN4aE1MQlA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T01:57:26",
+      "collected_at": "2026-08-29T04:04:51.451163",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영국",
+          "원전",
+          "전력",
+          "재생에너지",
+          "안정적"
+        ]
+      }
+    },
+    {
+      "id": "f45c42635fe2f183",
+      "title": "중국 재생에너지 설비 24억5,500만㎾…‘전기를 만드는 힘’보다 ‘보내는 능력’이 과제 - 얼리어답터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnS0ZPVlVUZmZWVXhVX2Q4dlg2NWk0T01kLXQ0Y2tjR1VDSnJlODRfU2pPbnRjZExGWWNYLTg3eUEwbmh0ZWZTRg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-08-29T00:28:39",
+      "collected_at": "2026-08-29T04:04:51.451582",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "재생에너지",
+          "설비",
+          "송전",
+          "과제"
+        ]
+      }
+    },
+    {
+      "id": "296c7171b2683250",
+      "title": "정부, 네팔 대홍수 신속대응팀 9명 추가 파견…소방청 8명 포함",
+      "link": "https://www.khan.co.kr/article/202608291254001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-29T03:54:00",
+      "collected_at": "2026-08-29T04:04:52.322833",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔 대홍수",
+          "신속대응팀",
+          "한국인 수색",
+          "정부 파견",
+          "소방청"
+        ]
+      }
+    },
+    {
+      "id": "d0b5d0ce895dd8aa",
+      "title": "네팔, 국제사회 압박에 외국 구조 지원 일부 수용…한국 헬기 재진입 시도할 듯",
+      "link": "https://www.khan.co.kr/article/202608290919001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-29T00:19:00",
+      "collected_at": "2026-08-29T04:04:52.323294",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "홍수",
+          "산사태",
+          "실종",
+          "구조 지원"
+        ]
+      }
+    },
+    {
+      "id": "ee43a69de3eb6312",
+      "title": "김정은, ‘홍수 피해’ 시진핑·네팔 대통령에 위문전문…“하루빨리 평온 되찾길”",
+      "link": "https://www.khan.co.kr/article/202608290903001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-29T00:03:00",
+      "collected_at": "2026-08-29T04:04:52.323328",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "김정은",
+          "홍수 피해",
+          "위문전문",
+          "시진핑",
+          "티베트자치구"
+        ]
+      }
+    },
+    {
+      "id": "b8867395984ece86",
+      "title": "네팔 신속대응팀, 직접 헬기 못 띄워…“9명 수색 노력”",
+      "link": "https://www.khan.co.kr/article/202608290804001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-28T23:04:00",
+      "collected_at": "2026-08-29T04:04:52.323594",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "홍수",
+          "실종자",
+          "구조",
+          "기상악화"
+        ]
+      }
+    },
+    {
+      "id": "fe5af330ab8eafeb",
+      "title": "30대 래퍼 출신 네팔 총리, 정치적 시험대···강진 덮친 베네수·콜롬비아의 엇갈린 초기 대응",
+      "link": "https://www.khan.co.kr/article/202608290600011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-08-28T21:00:01",
+      "collected_at": "2026-08-29T04:04:52.323848",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1aa6f6697513b989",
+      "title": "As super El Nino strengthens, study suggests that climate change is intensifying El Ninos - Charleston Gazette-Mail",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNbGptYkhuUkRBcXFGU3pXdjJaT3FyN1g2VTN0alFNY0JFOE9HRXpLT1IwMHVNa0V4MmhyRmJmWUdIS1Vqc2dHclJlNzJfdU1xVVREN2NmdGpIUE5IalpTOGduYldNSW1Xc2ZlaG5qRllDUVIzamlhRHdldHpLeUdxYWJFc0dXUW4tc1NIdC1aaTBlTFIwa1JRWGNWOWVuR2Y4dklqSEkwNkFkdEtibkpfMHA3MHVUaHZzWjRmZjRfRnQ5ckNNV215R3NhNGlZZG1uRkNOYXBVUmswZGFLTnNEMFZBR0NjRzVaV0w1bWI1YXA4cEhNSFhHMlNnMjVOdXpzRkZWTmYybk1lSV85S3ln?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T00:15:00",
+      "collected_at": "2026-08-29T04:04:52.840115",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e4b622cb69ae265f",
+      "title": "Climate Change May Be Intensifying El Niño, 1,000-Year Coral Study Finds - The Tico Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcnFkNHZFSnUxSlNjbFJpajNBeE11WC1jcVhYd2liVVdUcGY2UDhxZDd6UW5uTTk0enBCeTVycFc3VWxWZXJZbWx5cHYzLVRpM2VtclhZZ0NPcU5jWUswOGZUS1otbGlJR1ZMZE1obEkwNzFDWlpHeExabmZiRlhubC12czVhZWs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T20:30:00",
+      "collected_at": "2026-08-29T04:04:52.840481",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "47ffe01b7da61108",
+      "title": "As super El Niño strengthens, study suggests that climate change is intensifying El Niños - KOCO",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdm9KMUxleDJvMDVZWEpXQUNtZG1hQ2xCYVpzN0J2aVNQRUdoblMxT1Y4ZUVKbzh6eWJ1Rm9lLWN4b0hTSXNQMm9SYm40OGFUSlVLeTN3R1Z2akRyYlY0U2x1QUxtTVF4d25PalE0MHFQdWJfZGZ4bnVqSUJyLVgtaFlWVmtHaTI4Q2JxMTRtcGtWa3kt?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T20:05:00",
+      "collected_at": "2026-08-29T04:04:52.840594",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "슈퍼 엘니뇨가 강화됨에 따라, 연구는 기후 변화가 엘니뇨를 심화시키고 있음을 시사한다 - KOCO"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "엘니뇨",
+          "기후 변화",
+          "강화",
+          "슈퍼 엘니뇨",
+          "연구"
+        ]
+      }
+    },
+    {
+      "id": "7816c790a0f93631",
+      "title": "Editorial | China-Nepal border flash flood must galvanise climate change cooperation - South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWFzTWZFbDdVejJBbGFfeUthQjM5bkNMZThsQ3hPMUpMOHFtRVliRlI0VGY5YTFKUklzNDdfRU9rWEc0MXlvem5ubERvZFJ6bXkwZ2o4aTIyRkNRd3RUY0FBT1pTNndIUHpObUozZloyWlB0Umc3WUtLQzNIN0hEemNZMEVMNzZtekxodjVicXZFV1NUbW5zb3NaNU9fM2pMc3pBcU53OXVCSEN1N0lnb0pnNGtYcHFsODVPcWwteUlnSTjSAcMBQVVfeXFMUC1JMGRLbkJxUW50YmZBLWRtT05FNjR6WEpkRWxraUlubFpsZHhUMkp0Zy1qeS0yOWl3aXBzcXR3cEYyNU1aYmFlRExTZERpcEFCN0NBY21ib29oTVRVejhRa1k4eG1xYkVabjJ3TmVpSUZ3S1FsOXdhRjNsUmNtdTMzaWIyZzlpTGx6WEtUUVBmWV9xNHFUbThCSWNweWdVWUYtbC0yYkRtemd0bGdnZEo1VE5BXzcwdFRwX2hjRGxXd05n?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T23:15:08",
+      "collected_at": "2026-08-29T04:04:52.840742",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3802cb211ecd88eb",
+      "title": "Climate change is denuding Indian languages - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUldkNWFnRm1aTHVHU1YwUUUyLXV6M3RHYU5iTTlTVWlxZENFRnVyVS13TDIwUXF0SU9mYnRSajd1dWdncmg3VG8wZUEwOHBFc045ZTlzMkgyTXJKRC1LS25VLUE0V0d4d0FzYUpLUXFHWkR3cE4ydmhMLW5RZ0xTTWl2YmRiY1gtd19jRTZSbXFDUk43dEdockpmU1hLSURwS3EtZHRvcVNJNWZLenU5d0dkZ2ZCNnlscUlCUtIBwwFBVV95cUxOZkhQTE9CLUdiM2hkOWNWUTVKVk01aldkSHV3REE5bDF4aUp0ZXVoLTltdk4xWjVSeUJLN3VBTzBvOGdGM1lwV3U3YzhIMGVMOFJ6aC1uWDk2blJfWTc4NURrQXVqenBfNVl5SkFOLTlpUE5yMkVyQTJVZGJnUldKR3JLN2pRWWZvVjlnc2lQM0gyYjRWTlh2UUI1OUhPVlVYQkJHMk9oLVNDbXRVSEFpVE9kS3Jra2Y1M3ZDRWRXNGlVamM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T02:30:00",
+      "collected_at": "2026-08-29T04:04:52.840981",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 인도 언어를 황폐화시키고 있다 - 더 힌두"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "인도 언어",
+          "언어 소멸",
+          "문화적 영향",
+          "환경 문제"
+        ]
+      }
+    },
+    {
+      "id": "1ee8376cd9aca2e6",
+      "title": "Climate change raises risk of 'catastrophic' events as Nepal-Tibet flood death toll mounts - thenationalnews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDFlbGlCWG4tY2dsZ0QycnQySHZOSWRTT3oxVjItRkVEcm5XMER4SUszZzJBWnVPX1BIS1FzZjZSZl9laS1WZ253ZFZYTHFhY0g5OXI2NFpfUG00R0J6RGM5TlpsaUozTTJZMHVmT3RHbFVYS0FqcEduT2hMX24wbzVwQTE2MUtsejRyMmdaSWJjTC1MdnRqbVBYQlZpNUFIN1NMWjMyN1YtY0J5V3NyU1d2Y0p3eEJxZzEtaWU2NXZRMVQ2Q1NUa2tBcUR4X0ZXYUZF?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T02:16:55",
+      "collected_at": "2026-08-29T04:04:52.841031",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 네팔-티베트 홍수 사망자 증가하며 '재앙적' 사건 위험 높여"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "재앙적 사건",
+          "네팔-티베트",
+          "홍수",
+          "사망자 수"
+        ]
+      }
+    },
+    {
+      "id": "b34adb4e9bcfca1c",
+      "title": "Here is what climate change looks like - Forward Kentucky",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBySDhzY2RwT3UxdTlBaEplbFh1bGdzMkpoUC1nX3JRVXhUWHFaYUczbTRwRktjSXpBcjk5QjdDRzd2NllZakhlbml5cjM4a0xpUmlnMGFxZlpycTNfUmF5SmsxeDJHWjdZYkpXNnRIR0NqNm8?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T00:08:24",
+      "collected_at": "2026-08-29T04:04:52.841273",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "acf78d0894075514",
+      "title": "Arup and Saint-Gobain launch global report on adapting buildings to climate change in Hong Kong - Asia News Network",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2lCakVheVJaVEh4ZllkN01ZcTdSZEd3Nmd6SHdwc3dXTjRkSDdBUDE0amxkZTM5TURKdXBaRnlEVkNhdlRpQ2FSZ2JKN0Z4VGlGd28zVEI3M19YVHQyNDdVYTdYUXpQNm1ZeV81dWp5UGNMSFVhbmVaSDB4VVIwSV9iUzZoT0hkbmtQc2lYMHVMQVlLcG83QXBpeEc1aDZjem5vWUlveHZ5X2NBNGdwY0JzOU1OTGZvRHhrdG1n?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T01:29:17",
+      "collected_at": "2026-08-29T04:04:52.841383",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "아럽과 생고뱅, 홍콩에서 기후 변화에 건물 적응 글로벌 보고서 발표 - 아시아 뉴스 네트워크"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아럽",
+          "생고뱅",
+          "기후 변화",
+          "건물 적응",
+          "글로벌 보고서"
+        ]
+      }
+    },
+    {
+      "id": "8fd3a8b484e94700",
+      "title": "A colourful Somerset garden designed to withstand 25 years of climate change - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15bXl5SUZ1V2N3amhHUFpidWphVVVzcTc0alBLMEw1TUFqVkYxLWN4TF8wWXFtMmxLbkxJWXM0RzUyekJ6OHd6LVhSWV9EY0c3WVgzQW8ya1RsMlhjRXc5OVZrYWhJY2JzX2JGdkVwUjg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T04:00:13",
+      "collected_at": "2026-08-29T04:04:52.841427",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "25년간의 기후 변화를 견디도록 설계된 화려한 서머싯 정원 - 파이낸셜 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서머싯",
+          "정원",
+          "기후 변화",
+          "내성",
+          "설계"
+        ]
+      }
+    },
+    {
+      "id": "79d302bd551b3f01",
+      "title": "Marine forests help protect seaweed from climate change - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfRWt0STQ5MU9fRzlCSDBSZ3QxYVk1alY4S0FFZnRPQlRjcG91RkgzMkZmRDZ1Vng0YTdZREx0MjRBT2l6bUtvRXA1SGFQNWhNTkdBeXlKMFEzZl9QbE13aEpsbjdlUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T23:12:40",
+      "collected_at": "2026-08-29T04:04:52.841576",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "해양 숲, 기후 변화로부터 해조류 보호를 돕다 - 동아일보"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해양 숲",
+          "해조류",
+          "기후 변화",
+          "보호",
+          "해양 생태계"
+        ]
+      }
+    },
+    {
+      "id": "8dfc93c39aa5a46a",
+      "title": "Climate Change: Forests Across Europe Are Drying Out - News.by",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGNJbUZ1eGxXOEh4emNGU1NyZkYwNTFSejBza3pjQndiS1NScnB5OG82UHVYd1RoTV9qbnRuVkR0OFJtZXpCYVBHd1VWV2thR2ZRa1U4TkY1VW1Hc3U5eHJoUHZ2N18yTUtZSnVJTXVBVTE0Y1lVTFVkeC1LUE9ybmEtazZFdEdzWHFn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T18:46:42",
+      "collected_at": "2026-08-29T04:04:52.841640",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e75a32a2550b3aae",
+      "title": "Kit Trigg releases video for climate change-centred track “Down to Earth” ahead of debut headline tour - The Moshville Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVWhXM2J3bTd0YVBodjdPWFU2cHBYWjFHM3cwcEtBcWxCckFVcDlJY3I1NFYzR1ZFS0dCMExweHZDWmpfWVFDVUN1T1dwNEltQl9VSk1Hc3pvUExQbzllZW1vRVA4SC1wNzRBZnp2LXNvMm1ybXQyZTVSdWRNdE1Va1hkb1YwTnpDWDVKOWRiNTNtQTlpSmw1MWxXWTNJTy1wc25SWXJoRUl4bDV4SEMzNWdZeDBiZFUxdGZNR0JuYjZYeEpHTS1EVmx3Rl9ZZHFValIyVUVjbE5KWTVY?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T20:31:49",
+      "collected_at": "2026-08-29T04:04:52.841828",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "킷 트릭, 데뷔 헤드라인 투어 앞두고 기후 변화 중심 곡 'Down to Earth' 뮤직 비디오 공개 - 더 모쉬빌 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "킷 트릭",
+          "기후 변화",
+          "음악",
+          "뮤직 비디오",
+          "데뷔 투어"
+        ]
+      }
+    },
+    {
+      "id": "e2d3688462459806",
+      "title": "Himalayan disasters: Climate change is not the only factor - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXdhUmZvWUVnUUFxU1Q2RHNUV1lEa3FnRDVlcDV3VTZJaFBwdXd3VVA4UWJSaENfWWo4WnUyRklOR0Vlek0yeHhNUG4tejlqOFRRQmsxeEJjN1FsNWhDOEJJbk1LQ2Z5ak5KTm9FRGxEOUpEdUlLd19Xcmh4MUd6M3M5UVZaSld1a29ENUNyc3RyTkpjM29hcHhFWURNeWJDYUtUcmZTOGHSAasBQVVfeXFMUFFUZ0tycjJIT2hQREVHbVMwU3I3RjRiRk5pZnphdFQ2bmQtY0ZaRWl0bXg5dHMteVFZaGVicGRqSW4zT3gwU0RvMmtxUUY5YzVqTUhqTFhCeUJGSDhqblRkLWpiZDlIZGNWRXJDenQwNU9hSkRkdnE5UG5rdzEza1lJdVd3a1pfemxua2NKOE41RlRqMDNhQmFLbC13Q0ZqYzJtem11SmJub0Vn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-28T20:14:54",
+      "collected_at": "2026-08-29T04:04:52.842063",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "히말라야 재난: 기후 변화가 유일한 요인은 아니다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "히말라야",
+          "재난",
+          "기후 변화",
+          "복합 요인",
+          "원인"
+        ]
+      }
+    },
+    {
+      "id": "021f3680fc754018",
+      "title": "Yarsagumba under threat due to climate change - The Rising Nepal",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00ZnkwZmJhdlc1RkdYRXRKSVp5M0tWS1lDVXFfSExuejU4ZXdfelVVdnBnTW5FNnRvMUdtc0U4S3FXWm9kTWh4LV9QaUo2Wngy?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-08-29T03:00:01",
+      "collected_at": "2026-08-29T04:04:52.842088",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 위협받는 야르샤굼바 - 더 라이징 네팔"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "야르샤굼바",
+          "기후 변화",
+          "위협",
+          "멸종 위기",
+          "생태계"
+        ]
+      }
+    },
+    {
+      "id": "cd9f18abfbbecdfc",
+      "title": "Chile's Codelco posts stronger profit on copper rally as mine disruptions drag on output - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0pnZTh4TDQza0pNT3V2NURsRUhHVndPcmtBY3U0NWx5YlRtSUFQdHRVX1o1SldnWHlxNFZrMy1uQUVKSkVSdXdwNlpjaUxWdjV2a2x3VVB3c3BKVktZY2hjMm1NdV9fNGV6UDd4VWtxT3A5a0g1X2x2Qk13SUNPckZWbGFDdVdoZVlfYm9XRnl6b0lpM0hXRTVZUmxRcmhuaC01dnItSmNBYWtyV2swa0V6TzJwS3lzZmZuSkdyZzFkLUxodkdXZw?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-08-28T17:09:42",
+      "collected_at": "2026-08-29T04:04:52.976510",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
