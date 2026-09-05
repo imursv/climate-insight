@@ -1,16 +1,16 @@
 {
   "date": "2026-09-05",
   "metadata": {
-    "collected_at": "2026-09-05T00:50:21.546620",
-    "total_articles": 47,
+    "collected_at": "2026-09-05T11:37:16.930082",
+    "total_articles": 82,
     "sources": {
-      "korean": 19,
-      "international": 28
+      "korean": 35,
+      "international": 47
     },
     "sentiment_distribution": {
-      "positive": 13,
-      "negative": 20,
-      "neutral": 8
+      "positive": 22,
+      "negative": 31,
+      "neutral": 12
     }
   },
   "articles": [
@@ -1221,6 +1221,822 @@
           "농작물 피해",
           "유럽",
           "산불"
+        ]
+      }
+    },
+    {
+      "id": "517ecea16f0bea6a",
+      "title": "“건축설계 전에 기후위험부터 살핀다”… 경남도, 공공건축 기후대응 강화 - 의령신문",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYYzgyaFdBN0c3SWl1VGRPdnNjWXdJTjdybzdQai1WT1FXY1JwZERiVHhXZTJJQlZ6UG9ENG5sU295a3ZXTzdtQ3FEV0l5b3ZLWDFF?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T01:01:39",
+      "collected_at": "2026-09-05T11:33:00.462905",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위험",
+          "공공건축",
+          "기후대응",
+          "경남도",
+          "건축설계"
+        ]
+      }
+    },
+    {
+      "id": "47c5a158ac18c3fd",
+      "title": "[사설] 기후위기, 컨트롤타워 구성해 예방 힘쓰자 - 동방일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhUHZrdUxEeHN0MXY2dV9BWDAzVFM5d2l2OUpFT1EzV1I5VlZVUEIwUnNKOUMwS1I1WnlweS10TVpjcGxYYnRJVlNkQjFRSkxuS2ZsSlV4SlVmakx2ZUQ5Z3NKaTZoMDZzMTBtY0ROdW05Z00?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-04T23:36:57",
+      "collected_at": "2026-09-05T11:33:00.463335",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "컨트롤타워",
+          "예방",
+          "정책",
+          "대응"
+        ]
+      }
+    },
+    {
+      "id": "7633fed6eddac71e",
+      "title": "경남 탄소중립지원센터 양산서 '환경의 날' 부스 운영 - 경남매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYVE85OE4zNG5JTDZ3Y3VKMDQ3TnpzanFYbGo3THVobHF5Um5uazRybko4OHNDRzd6SGJsVk9Qbjk1ZnRFeTJmUmQ0WWNnNGUwVm1WRTZ6NzJZRnlXaFlNb0xySl9KdFJLNlE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T03:24:41",
+      "collected_at": "2026-09-05T11:33:00.508301",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "경남",
+          "탄소중립지원센터",
+          "양산",
+          "환경의 날",
+          "부스 운영"
+        ]
+      }
+    },
+    {
+      "id": "1e48002561de5ac9",
+      "title": "'노원구, 2026 탄소중립 구민선언 [동네방네] - edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc3pXdEYzV0lkOWRjY2djY29iTFVKZGpISTBNSlRhYkFYMVkxVjN6bUtLem5VVHdOLW1SX2pnOU45OGdhVzBVSmZwNW50SjdhaUpFRmpHVWpZZlBpMVJlLTUxb2I2TW5CVDh2VVBPaUMwN1NRMGZBc1JHVTJ2X2NqMg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T11:15:06",
+      "collected_at": "2026-09-05T11:33:00.508334",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "노원구",
+          "2026",
+          "탄소중립",
+          "구민선언",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "edea6859089c8b24",
+      "title": "한국부동산원, ‘안전’과 ‘탄소중립’ 두 마리 토끼 잡는다 - 대구일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96SHd1WWphTFlFaWVMbEVzeFN4VGNmU2VqTVRqeDdPaEhBcEJfUE9Mc0dIWFdGLUpvSWF2MF8xV1JtMXNWYUEwUVZNMWlrUjFFLWtYMjU0ZWFZQVFaU29QVTdvY0UxRDYx?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T07:42:32",
+      "collected_at": "2026-09-05T11:33:00.508442",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국부동산원",
+          "안전",
+          "탄소중립",
+          "두 마리 토끼",
+          "부동산"
+        ]
+      }
+    },
+    {
+      "id": "104a0291d658d069",
+      "title": "천연가스수소차량협회·유나코퍼레이션, 한·중 탄소중립연료 사업협력 본격화 - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ERjdZLTdSQmxyUC1NLWo3dTJpMnFDeWVFQlp4am5OY1FGMngtekJfaWpQTkhQRlFWMkJjblkwTzJSY0c3NXQ0NHNxWlJDcU5NM1RuanVfOVdWN2phX2xldWJsOG0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T09:06:02",
+      "collected_at": "2026-09-05T11:33:00.508468",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립연료",
+          "사업협력",
+          "한·중",
+          "천연가스수소차량협회",
+          "유나코퍼레이션"
+        ]
+      }
+    },
+    {
+      "id": "a80bf793ac0506a4",
+      "title": "화성특례시 지역전환 기후행동 공동결의 참석해 2030 탄소중립 선도 다짐 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qOTBYVFBhcnFjSVROR0lKLWt2YnBlMU0xYmFuX010RXhnMFVqUWQ5cEduNzJMZHlkTXJWdGNaNnhrcDFnZmNqcTdEb25FY3g4QktnOWltLWhzQnJDUWoxTG5TQlRuZHFRLV9FNzNETEg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T10:19:00",
+      "collected_at": "2026-09-05T11:33:00.508538",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화성특례시",
+          "기후행동",
+          "공동결의",
+          "2030 탄소중립",
+          "선도 다짐"
+        ]
+      }
+    },
+    {
+      "id": "afb2252e161c8429",
+      "title": "인건비 10% 가까이 오른 전력망 현장, 재생에너지 투자까지 흔든다 - 뉴스N연합",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYdTdmaEd0Z2MtVFV3Y08xNDUyNU9neG1KTVFHalJPaVc1cjZyVm5PS21nRDI3OGZQN0VUVlQ1Vlo1bG5rUW10Z2F3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T02:50:50",
+      "collected_at": "2026-09-05T11:33:00.553976",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "인건비",
+          "전력망",
+          "재생에너지",
+          "투자",
+          "비용 상승"
+        ]
+      }
+    },
+    {
+      "id": "f718a9c636369743",
+      "title": "한국동서발전, '분사창업·사내벤처 재생에너지 워크숍' 개최 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Nay1fTkZwOEtkN25zdUpLWUNMMjkyR0F2MUlfTFA4czZFZC1reTZGckp6TkticVVtZV96SkVpOGRIa29DNmNYYlJaM0JqSS1vd2xFM2d4SkxGcTNoaEk5N0hmOGVCa2x0TDRyR1FR?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T03:19:47",
+      "collected_at": "2026-09-05T11:33:00.554050",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국동서발전",
+          "분사창업",
+          "사내벤처",
+          "재생에너지",
+          "워크숍"
+        ]
+      }
+    },
+    {
+      "id": "199bfc37c06d8c86",
+      "title": "공영주차장 태양광, '설치 의무' 넘어 시민참여형 에너지전환 모델로 확산해야 - 얼리어답터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAyb2tQV3IyaDhqLVdlaUc0YUR4bHNUc3k1aW0zZ2RMZHZFbllMY3RrN3UySnBqWUdvT1E1NW85WlBGRDZJdVJCUA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-05T03:04:45",
+      "collected_at": "2026-09-05T11:33:00.555254",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "공영주차장",
+          "태양광",
+          "시민참여형",
+          "에너지전환",
+          "확산"
+        ]
+      }
+    },
+    {
+      "id": "6b05f61063ba5717",
+      "title": "대홍수 10일째 네팔·티베트 사망자 1375명, 실종자 5500명 이상",
+      "link": "https://www.khan.co.kr/article/202609052011001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T11:11:00",
+      "collected_at": "2026-09-05T11:33:01.624546",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "대홍수",
+          "네팔",
+          "사망자",
+          "실종자",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "571d4ee1de8a60cd",
+      "title": "[속보]한국 구조대, 위어댐 터널에서 중국인 생존자 1명 구조",
+      "link": "https://www.khan.co.kr/article/202609051811001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T09:11:00",
+      "collected_at": "2026-09-05T11:33:01.624743",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e5a06fe5b4f8f786",
+      "title": "네팔·한국 구호대, 중국인 1명 구조…한국인 실종자 근무 발전소서 발견",
+      "link": "https://www.khan.co.kr/article/202609051809001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T09:09:00",
+      "collected_at": "2026-09-05T11:33:01.624777",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7db95ea9c071c457",
+      "title": "‘관측 공백’ 그린란드 북서부 빙하 13년간 5.4m 두께 사라졌다···1도 더 오르면 소실 속도 2배",
+      "link": "https://www.khan.co.kr/article/202609051703001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T08:03:00",
+      "collected_at": "2026-09-05T11:33:01.624862",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cff12f5262c60eeb",
+      "title": "18년 전 기록한 ‘히말라야의 경고’…그때 그 기자에게 다시 묻다[점선면]",
+      "link": "https://www.khan.co.kr/article/202609051700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T08:00:00",
+      "collected_at": "2026-09-05T11:33:01.624912",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "87d8ac31ada057be",
+      "title": "네팔군, 한국인 9명 실종지역 도보수색 불허…“위험”",
+      "link": "https://www.khan.co.kr/article/202609051341001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-05T04:41:00",
+      "collected_at": "2026-09-05T11:33:01.625251",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔군",
+          "한국인 실종",
+          "대홍수",
+          "수색 불허",
+          "해외긴급구호대"
+        ]
+      }
+    },
+    {
+      "id": "aad3f8ec3c3952bc",
+      "title": "Climate change reshuffles where people are moving in Florida - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMUU2Vm91N1lacHRGVGQ1cTc2QWhVTWVPLWY4QzhvWkNFZXZzZTQ1eUIzSlE0aUV2MlRMelVyLWNwUURqaTJTTnVaYUJSRExiWF9IZlBzQXhRV1JBWXpraDFLQkpoWU5mNjVIVC1UdmJNOUF6ZF80U2N2a0RxX01OZmdQUFYwVUZMb3NUUXBaY0bSAZABQVVfeXFMTzVzeTU4VksybHRBR0o1N3ZnU09NbjVQbzlpN3IyR3NDeXE5UXV0S2o1SlZ3MS1WSHQyb3ZNQ0U3V1RNeUJUeGt4bUYxLTR5ZmRTZ2loMml0ay01LWNob1pNUWp0ZEFJMUQtbExZcGFYVzZCWWVaQ29QOF91NnF2UUVCSDJKZ0dqNUJLNzRtN0hR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T11:00:00",
+      "collected_at": "2026-09-05T11:33:02.218617",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화, 플로리다 주민 이주 패턴 재편 - 마이애미 헤럴드"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "플로리다",
+          "인구 이동",
+          "이주 패턴",
+          "재편"
+        ]
+      }
+    },
+    {
+      "id": "c2f3a1f8ce64d6fc",
+      "title": "Central Park adapts to climate change while helping New York stay cool - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9IcmRDMnR3MFdCZFNYU2NTV2V1V3A2ZU14M3hQM0R1eVZyaGpfMGJxWlA5eFVQVFBNcFR5bnVjSU9BZUFDSmU0XzVHUTUtUjZWYnBsZWp1SQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T11:00:00",
+      "collected_at": "2026-09-05T11:33:02.218651",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "센트럴 파크, 기후 변화에 적응하며 뉴욕의 더위를 식히는 데 기여 - 유엔 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "센트럴 파크",
+          "기후 변화",
+          "적응",
+          "뉴욕",
+          "도시 냉각"
+        ]
+      }
+    },
+    {
+      "id": "4ee3951d32166a36",
+      "title": "Global warming is ruining their way of life. These Colorado ranchers demand accountability - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTlEZ0tSMDFuOG10UllzSWR3TFlzdjl6aDQ3b2czWnZxTk1HYkU5Y0hwNlRSNVJXbzVOcVYxNUU2VmhJaEZtTWV1WmVYQmpnZFgydmFrU0lsLXNUcjRrWkNncmVjSmRuRVBKQWRrRlVtNlZydFZncUt4YzgwWlRUY3hn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T10:00:00",
+      "collected_at": "2026-09-05T11:33:02.218855",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "지구 온난화가 그들의 생활 방식을 망치고 있다. 콜로라도 목장주들, 책임 요구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "생활 방식",
+          "콜로라도",
+          "목장주",
+          "책임 요구"
+        ]
+      }
+    },
+    {
+      "id": "3239bfda30643a64",
+      "title": "Climate Change Creates Not-So-Pure Michigan Summer - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2ZMU0FDaEEzellhcDNNRFRISmJrNWlaN095MWpkcVZzQ2g4S1J5UTMtRlRhdnRxSTdLdndnaTBlLXhtZnJOZWVkR1l2VnczUDFEcXYtbGJuTGgyVTF1OXBkY1czLXQ4TGEtUnMzclU1TVhHU01wUUZWU2JiRFljOHFRRmcwTXJrVEhRNDdEN3Vtb0JKTHA3enRFN0RNZGNFTi1zVUFEVEtYbkJDR2l5UFRZa1pzX2xZVGhvalQtbUg4TFp0SWI3VA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T04:13:14",
+      "collected_at": "2026-09-05T11:33:02.218918",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e68e5e6043757c1d",
+      "title": "Global Maritime Decarbonisation Stalls Despite the Accelerating Impact of Climate Change - CleanTechnica",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcnhZVTE3V1pBdjdkS01Pd2ZhNTlEaDhMSlAxYXlDUlM0ckJ1QWZvMnhzYUV4Smg3V0FHVEJINTdWa1lxUlJrcW5hSzY3VHFKUkJVNDBzYVFQbHBreW96WFNmLS1XWXFHY09tWGZwVUt1WVlOYXc0UmkzNU95c3U0WGJCc1FzaWJPd05MX3NtMzVXQVBYOE9NZjRHZ05qdVZpd19LVzRDbzljYTlxU1M4TEdzYU92OGpDT2c4dXFKUzZDQ0I5?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T03:05:50",
+      "collected_at": "2026-09-05T11:33:02.218996",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "전 세계 해양 탈탄소화, 기후 변화 가속화 영향에도 불구하고 정체 - 클린테크니카"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "해양",
+          "탈탄소화",
+          "정체",
+          "기후변화",
+          "가속화"
+        ]
+      }
+    },
+    {
+      "id": "05ed83c121afcf2e",
+      "title": "COUNTERPOINT: Fossil fuel-driven climate change is worsening wildfire seasons - chronicleonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaDB1OFQ4cVVJWlJRTDc0NVdYNGlhbm9vaGpiNzJ3c3JTV0RlNWpzb0Nsek9GNDNHTU5UQ3E1ZnBUSXFhWXltWHc5TzZRN21GalhjRXlDc0h4dDJCT2t5SW9VaGNXWGw3OVpqQS16eXJCdEotcHEzZmtfT0N1VXZUY0UtMFVFdjZ5cW96VURJU3RlZkl5eHlwM0FTNFRZWUdlYzVZY3JCWDN0T2FpeUljZVQxMUg2b200LUw1TzVjV0puYkE1ajJFc0NUNloyYXVoTHFEdTZ0bmxFYTBUdWE0UEpaX2hYS3NDX2NWZDJaQXJ2dGJKWVVJOUlSVGFfVVhTVElMcWV2dkU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T03:00:00",
+      "collected_at": "2026-09-05T11:33:02.219046",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "반론: 화석 연료로 인한 기후 변화가 산불 시즌을 악화시키고 있다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "화석 연료",
+          "기후 변화",
+          "산불",
+          "악화",
+          "산불 시즌"
+        ]
+      }
+    },
+    {
+      "id": "d538f9cbf525762d",
+      "title": "Environmental advocate, author coming to Gettysburg for climate change - GettysburgTimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeTZaTnZYelRxX2Z5MFJNODVEUU9RcDlqdXJaZTV5T1ZGNGpJY051Y3JpSTF1dThna2NUOWtqV3NmYWxvTTRTdGFqYlZxVmtMX1pVTldjWWV2Vl9XT3QxZXplSk04Vk5LcXhMX1F2aWF2Y2RNaUE1NXdJcDZxaHNodHo2T3BNTXFYOExtaTl2Y1ktNExWbVJneUh3QWx3Rmk5X19QX0UtOGt6ZTlFeHRydjRVV3JxNFViWWlQdDFiNmJ3RkRpN3lfc3FFemtJckk1WGJvRFU1UDktMzhYRS1HNGRLT0MxS3Q3UVdQM2J4aXR2V2d6Smc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T04:00:00",
+      "collected_at": "2026-09-05T11:33:02.219096",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "환경 운동가 겸 작가, 기후 변화 주제로 게티즈버그 방문 예정 - GettysburgTimes.com"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "환경 운동가",
+          "작가",
+          "게티즈버그",
+          "기후 변화",
+          "방문"
+        ]
+      }
+    },
+    {
+      "id": "7468534a9cfcb018",
+      "title": "‘Climate change comes with threat of new viruses’ - mediaselangor.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xYS0yRk96NHQxU25td3ZENlhuaHhmbGYzRWdzd1llQTFDMk5oTVlwNGlZRmt1QzZlTXBNNGZPLXBDRnJMUEVEMGtXM3VLNzE1NU91MmJR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T06:45:53",
+      "collected_at": "2026-09-05T11:33:02.219150",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "‘기후 변화, 새로운 바이러스 위협 동반’"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "새로운 바이러스",
+          "위협",
+          "질병",
+          "전염병"
+        ]
+      }
+    },
+    {
+      "id": "3116e090ff00bf52",
+      "title": "POINT: The planet isn’t burning, but the climate change narrative is - chronicleonline.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ3pkb3l3bHpkX0F0TDQ2ejgxNXlLbG1tb21ndW82Ni01VkNDd1BQczVHaDVrbDNHd29fd0FiVDZvUmt6Zmg2UFlMRzVmM1JldW5qZlhLTV9tbUxaWW1vR1hRZ2J4cE9tanI2QlN2UVFHOV9TT1BJQU5WY3g0c0FLTTd5WWt5aXFMYW9vZ0wzYS05bllyRjlxSklTY1VIRDhjMkN2Y2t6T3o5NW5yMkZYMzAzVTgxRU54SFZiUVZVMUhyQTl6VGczX2RERUpPMFRhMlFLNTZDNmhuM3p3c20tX0kyTnBsaWpLOUIxUUQ4WmpwMzM1ZXhZVGdXYw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T03:00:00",
+      "collected_at": "2026-09-05T11:33:02.219219",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e416cec87948eb65",
+      "title": "Climate change is taking some of the shine out of Pure Michigan summer - The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0Q3XzBwY0EzcThCN29GSkxpUW5DOEd4TGtVWlBWblNaVHAycm11OGw1ZHV1eVJEUDQwY044NWFwLS1lTjBOb3hVWktFUDBvYlpkVHBhQmpaemEwcGd6d1A5dlpnVElwR1lVQ3ZGQmNYNmx1QndGRk9uWXI5N2U5WG90ek9GZkRQUXItSW1hNmJHOXRoekF1RllNTW1FX0owZ2JKUE05cXpYdVJXamplYzBXTnBibFlqQ3JXc2ExN2gwcVR2bHg5Y2VlaWpVd1pVWEYyQkpOSHFoZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T04:02:00",
+      "collected_at": "2026-09-05T11:33:02.219316",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8f2fee425da0cf1b",
+      "title": "Central Park Adapts to Climate Change, Keeps NYC Cool - Mirage News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN05RZHY3Z3F2UUN6Q2N0QjFJdVVNSG1QclJBN0F5VmthdkVpU1JtV1NsNktrVTA2N0JwR1BJX1hmWHVOUW9PZ05RT1BNZEt2OU1hZ292OGgzaVpxc1BOZzhVc00xM0xsazNmUnBJd1k2TTBxeFJUMjJGR0Y0emtzU1lPVXFaTk4yQk13?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T11:22:00",
+      "collected_at": "2026-09-05T11:33:02.219451",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "센트럴 파크, 기후 변화에 적응해 뉴욕시를 시원하게 유지"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "센트럴 파크",
+          "기후 변화",
+          "적응",
+          "뉴욕",
+          "시원하게 유지"
+        ]
+      }
+    },
+    {
+      "id": "b4bef512bd5ab86f",
+      "title": "The climate crisis is upon us—so why are deniers still getting airtime? - Prospect Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUktUDRERUpzcExtVE15ZE1VSFIxUE5abWdfbF96bkN0bmpZUzVlVUtsMTNKUFplampYakZFbHFVNUx4ZGdoaVViYWVZYjdjeHNPOGxqblczNkxEQmNOel9Xa1NiRFp0aHRqVDdueWxQeGdDZ25FbUkxeHk4b1U0REZ4T05QNnJMZ2EyaDJqX1BqNjNfT1NwaWw2bnJ1dFdTY1A2RjZZaC16WGxfQmhKZ0J1aFA3MDNIbTVqWENLSXI?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T05:07:37",
+      "collected_at": "2026-09-05T11:33:02.219503",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": {
+        "title_ko": "기후 위기가 닥쳤는데, 왜 부정론자들은 여전히 방송 시간을 얻는가?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 위기",
+          "도래",
+          "부정론자",
+          "언론 노출",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "8ee3003933712a38",
+      "title": "Europe becomes fastest-warming continent on Earth: climate change expert - bastillepost.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY09wTDlWN1VvQnhOQ3pzd1FoUVlXcnAweFJ3UTM5TVRmSDRNVDBHSWpqUEMyV2tUaVNvU1hndTQ0dV9wWnJLV3hmUUJTZDVuXzNhb25xYjhJa0p5b1NwUDVNNFhHWHowcG85NWh6dVdXUlVoM0hjR25yOVdHSFliZ0tUNWdfZUNvTGpBd252ZktjOHNQT3hUQUMwN1gxMFhxS1ZnU2tpVkNWYjRjenlFZmNkMUVLVFpqdnVXUGZfZm0?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T09:21:00",
+      "collected_at": "2026-09-05T11:33:02.219922",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유럽, 지구상에서 가장 빠르게 온난화되는 대륙이 되다: 기후 변화 전문가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유럽",
+          "가장 빠르게 온난화",
+          "대륙",
+          "기후 변화",
+          "전문가"
+        ]
+      }
+    },
+    {
+      "id": "abb1e63f323ea0d8",
+      "title": "Greenhouse Gases Disrupt Climate Link Between Indian And Pacific Oceans - DeeperBlue.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTR0YnZ2bDdPbG5xUEN3ZmdpWXpMOWNqOUplZ0VsejNQVzc5aDRQWWVPNkFHZzdWeGYwSWR3eUhVZVRCZzhkbVJkUVBQR1hYS2lla1V2T1pkeFFpZzVSalpjQXh0ZTFDaTZ5X3hwRl9iOUtaZEtSWDI5eWxYVTFXU2hOQnZvQV8xV1R5TDlfQ3BEWHdSYkI3bUVRQmNKS00?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-05T06:00:40",
+      "collected_at": "2026-09-05T11:33:02.220055",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "온실가스가 인도양과 태평양 간 기후 연결을 교란한다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "온실가스",
+          "기후",
+          "인도양",
+          "태평양",
+          "교란"
+        ]
+      }
+    },
+    {
+      "id": "1db169c612a095bb",
+      "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
+      "link": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-05T11:00:34",
+      "collected_at": "2026-09-05T11:33:01.715439",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d5d857400ef08836",
+      "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-05T07:27:24",
+      "collected_at": "2026-09-05T11:33:01.715557",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0895af5a9e3b2f29",
+      "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
+      "link": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-05T05:00:29",
+      "collected_at": "2026-09-05T11:33:01.715623",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "9a6b633d3d4d5f2c",
+      "title": "The pressure on Burnham to appease the right is huge. But now is the time to step out of Reform’s shadow | Andy Beckett",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-05T09:00:32",
+      "collected_at": "2026-09-05T11:33:01.715893",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cc9a5627aaece10e",
+      "title": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-09-05T03:00:00",
+      "collected_at": "2026-09-05T11:33:02.263848",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "시애틀 타임즈, 뉴스데이, 오픈AI와 마이크로소프트를 저작권 침해 혐의로 고소 - 로이터"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "시애틀 타임즈",
+          "뉴스데이",
+          "오픈AI",
+          "마이크로소프트",
+          "저작권 침해"
         ]
       }
     }
