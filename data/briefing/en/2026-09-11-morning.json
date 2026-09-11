@@ -1,0 +1,1782 @@
+{
+  "date": "2026-09-11",
+  "generated_at": "2026-09-11T00:59:36.451592",
+  "briefing": {
+    "opening": "Good morning/afternoon, everyone. I will now begin the climate briefing for 2026-09-11.",
+    "sections": [
+      {
+        "title": "🔴 Unprecedented Climate Crisis Strikes Globally",
+        "content": "According to the recent Copernicus Climate Change Service, August 2026 tied as the hottest month on record globally [51, 59], and notably, the UK NHS reported its busiest summer ever due to summer heatwaves [68]. Domestically, the hottest August on record was also observed [5], and the Gwangju region is experiencing an intensifying 'steaming Gwangju' phenomenon, suffering extreme heat due to the effects of 'global warming' and 'urbanization' [6]. Delaware recorded its third heatwave this year [48], drought occurred in the Colorado River [40], and severe floods struck Nepal [5, 41], indicating a global spread of extreme weather phenomena [44, 49]. This extreme heat is 'spreading' beyond summer into autumn and spring, being identified as one of the most deadly climate risks [71].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ Economic and Social Pressures Caused by the Climate Crisis",
+        "content": "The climate crisis directly threatens the health of Gwangju citizens [3] and is reshaping public health risks, such as shifting malaria endemic areas in Africa [42, 62]. It also impacts corporate finances, with ESG emerging as a 'survival strategy' beyond mere disclosure [4], and developing countries are facing issues with climate disaster recovery costs [7]. Domestically, the aquaculture industry is collapsing due to successive fish deaths caused by abnormal weather [12], and Wisconsin's fish fries are in a situation where they must seek new fish species [54]. Furthermore, international oil prices exceeding $100 per barrel are exerting upward pressure on inflation [38], and climate change is exerting widespread pressure across society, including being insufficient for the aging U.S. water infrastructure system [53] and triggering the Arab Spring and Tunisian protests [63, 58, 64, 69].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Domestic and International Efforts Towards Carbon Neutrality and Renewable Energy Transition",
+        "content": "Amidst this crisis, efforts towards carbon neutrality and renewable energy transition continue. Changwon, an industrial city, achieved the top spot nationwide in carbon neutrality performance, emerging as a leading city for two consecutive years [16, 17, 21], and Cheonan City is actively operating 'Visiting Carbon Neutrality Classrooms' for elementary and middle school students, educating them on climate crisis solutions [18, 19, 22, 23, 24, 27]. Chungnam Province received a ministerial award for excellence in carbon neutrality for its refrigerant and rural waste policies [25], demonstrating active carbon neutrality campaigns and education across various local governments in Korea [15, 20, 28]. Internationally, India's renewable energy capacity has expanded to become the world's third largest [29], and New Zealand's hydropower and renewable energy generation account for 92% of its total electricity production [33, 37]. Morocco is accelerating its transition to clean energy by pursuing an integrated renewable energy and desalination strategy worth $26.4 billion [36], and Green Bay plans to achieve carbon neutrality with 100% clean energy by 2050 [66, 67].",
+        "tone": "positive"
+      },
+      {
+        "title": "📰 Scientific Warnings and Policy Challenges: In-depth Analysis for Overcoming the Crisis",
+        "content": "While climate change is recognized as a 'solvable crisis' [1, 2], a warning has been issued by a Seoul National University research team that delayed carbon neutrality could lead to the loss of the Southern Ocean's carbon absorption capacity [8]. Furthermore, scientific analysis suggests that climate 'feedback loops' could amplify global warming by up to 30% [9, 57]. Concerns are also raised that the world's largest carbon sinks could begin emitting carbon dioxide after carbon neutrality [61]. Domestically, Korea's RE100 renewable energy usage rate stands at 13%, significantly lagging behind Japan's 90% and China's 41% [31], leading to strong calls for the swift enactment of a special law for renewable energy self-sufficient cities [32, 34]. The UK government also acknowledged that the country's aviation emissions by 2050 would be 50% higher than previously anticipated [72], underscoring the urgent need for greater policy efforts. In Namwon City, an international academic symposium on 'Climate Change and the Gaya Tumuli World Heritage Site' was held [11], and in-depth discussions and efforts to improve awareness of climate change are continuing [39, 65].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing has highlighted both the severity of the unprecedented climate crisis and the multifaceted efforts being made to combat it. This is a time when sustained attention and action are becoming even more crucial. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Climate Change: Neither Optimism Nor Pessimism… 'A Crisis We Can Solve' [Book Review] - Munhwa Ilbo",
+      "original_title": "기후변화, 낙관도 비관도 말라… “해결할 수 있는 위기”[북리뷰] - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2V0VqRUxvSjRoeGpidW9SVmZLLWFWTXduaE5hWGxaam5LXzB1VGZ4QU9Ed1BZeE4xNFpmTEJVbjdpS0FGeW5TVEJDQ3BqN3Bm?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T00:34:39",
+      "description": "Climate Change: Neither Optimism Nor Pessimism… 'A Crisis We Can Solve' [Book Review] Munhwa Ilbo",
+      "summary": {
+        "phenomenon": "Climate change is being recognized as a crisis.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The climate change crisis is projected to be solvable."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Solution",
+        "Crisis",
+        "Optimism",
+        "Pessimism"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화, 낙관도 비관도 말라… “해결할 수 있는 위기”[북리뷰] 문화일보"
+    },
+    {
+      "id": "2",
+      "title": "Neither Climate Change Denial Nor Catastrophism Is Appropriate… 'It's a Crisis, But Still Manageable' [.txt] - Hankyoreh",
+      "original_title": "기후변화 부정론도 파국론도 곤란… “위기는 맞지만, 아직은 관리 가능” [.txt] - 한겨레",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWUnQwOXFIWVJPN3VndDFnNE9YOEdxZG1wb2lIQm9BVjd2WVBsbnhkN1prWWpPSnljOW5GVnJGMHA1UkFqNTgwbjE5bGcybTVLSndpQXhqeU9jZ0VxRFo4Nm5SVQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T00:09:00",
+      "description": "Neither Climate Change Denial Nor Catastrophism Is Appropriate… 'It's a Crisis, But Still Manageable' [.txt] Hankyoreh",
+      "summary": {
+        "phenomenon": "Climate change is being recognized as a crisis.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The climate change crisis is assessed as still manageable."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Change",
+        "Denialism",
+        "Catastrophism",
+        "Crisis",
+        "Manageable"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화 부정론도 파국론도 곤란… “위기는 맞지만, 아직은 관리 가능” [.txt] 한겨레"
+    },
+    {
+      "id": "3",
+      "title": "[Climate Change and Gwangju Citizens' Lives] 'Climate Crisis Directly Threatens Gwangju Citizens' Health' - Dream Today",
+      "original_title": "[기후변화와 광주시민의 삶] “기후위기, 광주시민 건강 직접 위협” - 드림투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0emxnbVRjaldBeXg0UjRQS2gyb0ptOFp4cEhTWC1ya2JFWEpIX1AzSXNidEp5UHlGcW9pOWlOSUFTU1ZndGg0R1IxU2FCS3VTeGFjSHZURUN3VG0zZnd2WTBqUUwyMV9wN2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T15:05:00",
+      "description": "[Climate Change and Gwangju Citizens' Lives] 'Climate Crisis Directly Threatens Gwangju Citizens' Health' Dream Today",
+      "summary": {
+        "phenomenon": "The climate crisis is directly threatening the health of Gwangju citizens.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The climate crisis is expected to pose a continuous threat to the health of Gwangju citizens."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Climate Crisis",
+        "Gwangju Citizens",
+        "Health",
+        "Threat"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[기후변화와 광주시민의 삶] “기후위기, 광주시민 건강 직접 위협” 드림투데이"
+    },
+    {
+      "id": "4",
+      "title": "[AI Era Seminar] Climate Crisis Shakes Finances… ESG Beyond Disclosure to 'Survival Strategy' - Climate Energy Data Bank",
+      "original_title": "[AI시대 세미나] 기후위기가 재무 흔든다…ESG, 공시 넘어 ‘생존전략’으로 - 기후에너지데이터뱅크",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JbFl0cDhqUDJkbVdtZklNTmRLWFRUSUVoX3Q4dTlxM3hma2ViYWl3eFdCVVVjRTlqc2FmcGo3Nk5Oa09rdmI2RmY3Vk1URFFFaW1ab2xpN05zSkwtY2c?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T10:10:03",
+      "description": "[AI Era Seminar] Climate Crisis Shakes Finances… ESG Beyond Disclosure to 'Survival Strategy' Climate Energy Data Bank",
+      "summary": {
+        "phenomenon": "The climate crisis is impacting corporate finances.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "To address the climate crisis, ESG will become crucial as a corporate survival strategy, moving beyond mere disclosure."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Finance",
+        "ESG",
+        "Survival Strategy",
+        "Seminar"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[AI시대 세미나] 기후위기가 재무 흔든다…ESG, 공시 넘어 ‘생존전략’으로 기후에너지데이터뱅크"
+    },
+    {
+      "id": "5",
+      "title": "'This Heat Is Not the End' Hottest August on Record… Nepal's Great Flood Is a 'Warning' - Money Today - Money Today",
+      "original_title": "\"이 더위가 끝 아니다\" 역대 가장 뜨거웠던 8월…네팔 대홍수는 '경고' - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IOElpekJkY0ZKTzhJYWVRb21HVWpjdjVjOXZ3YWU0WUFScDI4MVVVOURMWjNiaDhvSGNVN0xSUFBtb2NnWm9ua0lFMVltdWhZbklNYlRfbi1uS1AtYjctajl6N1FtX3dz0gFuQVVfeXFMTVhGUGVablQ0TEFRdXlMY1hoLTE0czZDaG9XdDFvTDRseGRtd1d3M2k3QzByYlVyS3EzU0pfQzJ4Zk5SNUdEQ054Qm43NV9JbU5GV2ZqcjdhRGw0V1FMRHpxLS1mLUxieUJDSnhtZ0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T22:01:00",
+      "description": "'This Heat Is Not the End' Hottest August on Record… Nepal's Great Flood Is a 'Warning' - Money Today Money Today",
+      "summary": {
+        "phenomenon": "The hottest August on record was observed, and a major flood occurred in Nepal.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The current heat is not the end, and the Nepal flood is interpreted as a warning for future climate disasters."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Record August",
+        "Record Heatwave",
+        "Nepal Great Flood",
+        "Climate Warning",
+        "Extreme Weather"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"이 더위가 끝 아니다\" 역대 가장 뜨거웠던 8월…네팔 대홍수는 '경고' - 머니투데이 머니투데이"
+    },
+    {
+      "id": "6",
+      "title": "'Global Warming' and 'Urbanization'… Both Driving 'Sweltering Gwangju' - Dream Today",
+      "original_title": "‘지구온난화’에 ‘도시화’까지… ‘찜통 광주’ 쌍끌이 견인 - 드림투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55bVhHZkRLWEFZUHNDYmphaUo2dlNXa0FPbzEzcG43N1BGM2V2U3phdEV4Rzdna2N0NDlRb1E3QnVCY1hIbktma2lZWlhYTEMyMEE2T3JyYkR1UUY3dV9kM1hhdFN0VkNVRkE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T15:10:00",
+      "description": "'Global Warming' and 'Urbanization'… Both Driving 'Sweltering Gwangju' Dream Today",
+      "summary": {
+        "phenomenon": "The Gwangju region is experiencing extreme heat ('sweltering Gwangju').",
+        "cause": "Global warming and urbanization are synergistically intensifying the heat in Gwangju.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global Warming",
+        "Urbanization",
+        "Gwangju",
+        "Sweltering Heat",
+        "Heatwave"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘지구온난화’에 ‘도시화’까지… ‘찜통 광주’ 쌍끌이 견인 드림투데이"
+    },
+    {
+      "id": "7",
+      "title": "'Who Pays for Recovery?' Developing Nations Face Climate Disaster Bill [Climate Crisis as Disaster ⑤·End] - v.daum.net",
+      "original_title": "\"복구비는 누가 내나\" 기후 재난 청구서 앞에 선 개발도상국 [재난으로 온 기후위기⑤·끝] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBVVZRWW9kWHJrSkhSVHFtT1M0aTVzSDAxNWl2WWtyeHFmLTdCQUxPS1JNWDZST2RuQ1VoY0dOaGpnZl9ISEJOdHhJb2xhR28?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T00:01:00",
+      "description": "'Who Pays for Recovery?' Developing Nations Face Climate Disaster Bill [Climate Crisis as Disaster ⑤·End] v.daum.net",
+      "summary": {
+        "phenomenon": "Developing nations are facing challenges with recovery costs due to climate disasters.",
+        "cause": "Disasters have occurred due to the climate crisis.",
+        "outlook": "Developing nations will need to find solutions for the burden of climate disaster recovery costs."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"복구비는 누가 내나\" 기후 재난 청구서 앞에 선 개발도상국 [재난으로 온 기후위기⑤·끝] v.daum.net"
+    },
+    {
+      "id": "8",
+      "title": "Seoul National University Professor Kook Jong-seong's Research Team: Antarctic Ocean's Carbon Absorption Capacity Lost if Carbon Neutrality Is Delayed - Korea University Newspaper",
+      "original_title": "서울대 국종성 교수 연구팀, 탄소중립 늦어지면 남극해 탄소 흡수능력 상실 - 한국대학신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qdDFmWXJ5blNYU2VVNjdYZzdLUXYzNTlmbVFuNjRBS0F5YU11dTl0MjZhc0l5MUdITW5JM1NTSVFOdFpENVQ0VGpLWDFFZm43WFpWS3FwcEYzU2xFNG9sUEtJQkJ2UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T00:03:58",
+      "description": "Seoul National University Professor Kook Jong-seong's Research Team: Antarctic Ocean's Carbon Absorption Capacity Lost if Carbon Neutrality Is Delayed Korea University Newspaper",
+      "summary": {
+        "phenomenon": "Professor Kook Jong-seong's research team at Seoul National University studied the potential loss of the Antarctic Ocean's carbon absorption capacity if carbon neutrality is delayed.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Seoul National University's research team projected that the Antarctic Ocean's carbon absorption capacity would be lost if carbon neutrality is delayed."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서울대 국종성 교수 연구팀, 탄소중립 늦어지면 남극해 탄소 흡수능력 상실 한국대학신문"
+    },
+    {
+      "id": "9",
+      "title": "Climate 'Feedback Loops' Could Increase Global Warming by Up to 30% - ESG Business Review",
+      "original_title": "기후 ‘피드백 루프’, 지구온난화 최대 30% 더 키운다 - ESG비즈니스리뷰",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rRzJhdW5rZENOUWVKM3VrMmRvUkJ1VWNFTkFZU2p4RlBNckx4OE5temlubFBXaEJjaXNzakVpbF92bGh5REZFU3hCUTJVRWM5TmdfQkl1dTNhT1EtZjVNcU1GVTgyYzhyWldITnpuQ1RFeTA?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T14:49:24",
+      "description": "Climate 'Feedback Loops' Could Increase Global Warming by Up to 30% ESG Business Review",
+      "summary": {
+        "phenomenon": "A scientific analysis of the impact of climate 'feedback loops' on global warming has been presented.",
+        "cause": "Climate 'feedback loops' have been identified as a scientific cause accelerating global warming.",
+        "outlook": "Global warming is expected to intensify by up to 30% due to climate 'feedback loops'."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate",
+        "Feedback Loop",
+        "Global Warming",
+        "Intensification",
+        "30%"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후 ‘피드백 루프’, 지구온난화 최대 30% 더 키운다 ESG비즈니스리뷰"
+    },
+    {
+      "id": "10",
+      "title": "'Responding to Climate Change! Korea Rural Community Corporation' Jeonnam Headquarters to Establish Smart Disaster Management System - E-News Today",
+      "original_title": "\"기후변화 대응! 농어촌公\" 전남본부, 스마트 재난관리 체계구축 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SUHEzVHRLdVFFN0EtQjV1TW1fR1VZZEpzYXNid2g3RGQxdlo4ZVgtdkRRaVpUZnQ3N1Jqd2w5NEp1alZISFVFWEduTDVKTTJsejYzRUE1ZmRxU1FCaExmblFDdkdqSGRvOC11eVU5Mi0?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T10:43:57",
+      "description": "'Responding to Climate Change! Korea Rural Community Corporation' Jeonnam Headquarters to Establish Smart Disaster Management System E-News Today",
+      "summary": {
+        "phenomenon": "The necessity to respond to climate change has been raised.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The Jeonnam Headquarters of the Korea Rural Community Corporation plans to establish a smart disaster management system to respond to climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Korea Rural Community Corporation",
+        "Jeonnam Headquarters",
+        "Smart Disaster Management",
+        "System Establishment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"기후변화 대응! 농어촌公\" 전남본부, 스마트 재난관리 체계구축 이뉴스투데이"
+    },
+    {
+      "id": "11",
+      "title": "Namwon City Hosts International Academic Symposium on 'Climate Change and the Gaya Tumuli, a World Heritage Site' - gukjenews.com",
+      "original_title": "남원시, '기후변화와 세계유산 가야고분군' 국제학술심포지엄 개최 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqXzdxd21iamVRdkZFb1Z5YWdoLW44dFlkTE9zSXc4SHNaUHNOd3RWdF9VNjlkWmVLVnd3WnE1ak43NFRwZWxrY2lyZFEtUHJmQ05fUWpVNzVWdndIR2tHRWNXUGxzbUQ3OUNVOFhB?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T13:52:40",
+      "description": "Namwon City Hosts International Academic Symposium on 'Climate Change and the Gaya Tumuli, a World Heritage Site' gukjenews.com",
+      "summary": {
+        "phenomenon": "An international academic symposium on the theme of 'Climate Change and the Gaya Tumuli, a World Heritage Site' was held in Namwon City.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남원시, '기후변화와 세계유산 가야고분군' 국제학술심포지엄 개최 gukjenews.com"
+    },
+    {
+      "id": "12",
+      "title": "Boats Laden with Dead Fish Line Up... Aquaculture Collapsing Due to Abnormal Climate - Hankook Ilbo",
+      "original_title": "죽은 물고기 실은 배가 줄줄이… 이상기후에 무너지는 양식업 - 한국일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yVlplRnRFTVZ6TDY1V3ZGTnJFaVdnN0NCcVc0cEZzRm1qZC1MaERzN25nbVpSVTNxTlRhZ2toME1UT2E5emtrNzAyT0ZfVFJKc3I1OFpGWUFyc2pnQlB5dzV1VkNLbWlZTEdVVDdR0gFzQVVfeXFMT2M4NjNiSW1vN0tUZVcxbWFhcFNBbkRoYktLUXh6bGtyMDRpTXBDQzFGOWRCYzF6YzhpNnhVaDg1WHM2eGFhRlBkZVJUVHNGZEcxTU84NmtEUURNTGNObjI2ZDRKNi1NbjFFb1JDVEQ2aHpfbw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T19:30:00",
+      "description": "Boats Laden with Dead Fish Line Up... Aquaculture Collapsing Due to Abnormal Climate Hankook Ilbo",
+      "summary": {
+        "phenomenon": "A phenomenon has occurred where boats laden with dead fish are lining up one after another, leading to the collapse of the aquaculture industry.",
+        "cause": "This phenomenon is occurring due to abnormal climate conditions.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Abnormal climate",
+        "Aquaculture",
+        "Dead fish",
+        "Collapse",
+        "Damage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "죽은 물고기 실은 배가 줄줄이… 이상기후에 무너지는 양식업 한국일보"
+    },
+    {
+      "id": "13",
+      "title": "Redesigning 'Forests' in the Era of Climate Crisis... 'Securing Biodiversity is Key' - v.daum.net",
+      "original_title": "기후위기 시대 ‘숲’ 재설계… “생물다양성 확보가 핵심” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kNUFRRURpZ1dZMFJOUF9CNElNSnNYamdXYmRPZXRLYWxBczczY0kxTDhPMFBXcDZwNUpPQW9xc2YzcHFETl9CMlI0eVBuNkU?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-10T15:56:00",
+      "description": "Redesigning 'Forests' in the Era of Climate Crisis... 'Securing Biodiversity is Key' v.daum.net",
+      "summary": {
+        "phenomenon": "Discussions are underway regarding the need to redesign forests in the era of climate crisis.",
+        "cause": "The necessity for forest redesign has been raised due to the climate crisis.",
+        "outlook": "The core objective of forest redesign is securing biodiversity."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate crisis",
+        "Forest",
+        "Redesign",
+        "Biodiversity",
+        "Securing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후위기 시대 ‘숲’ 재설계… “생물다양성 확보가 핵심” v.daum.net"
+    },
+    {
+      "id": "14",
+      "title": "11th Carbon Neutrality Energy Transition Forum Held to Commemorate the 20th Anniversary of the International Environmental & Energy Industry Exhibition (ENTECH) - Kookje News",
+      "original_title": "국제환경에너지산업전(ENTECH) 2O주년 기념 제11회 탄소중립에너지대전환포럼 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZU1DU3YwcU1ZWUNzZjhRb3BpbTlac2RtQVc4S1ZMOG5Bd3pnaHBSWWJ0dVB6dlFzMTV2S09JZVRjQ3lzSXN4eUFKMW9QQUdBczUtUndYMEhyU3g4R29kMkNmbXJOV2xnYUgyOHBXSDNDSnhLR2tGaWxnWDNkVmRQREtKT1lDRnFfeDVjajBR?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T10:34:00",
+      "description": "11th Carbon Neutrality Energy Transition Forum Held to Commemorate the 20th Anniversary of the International Environmental & Energy Industry Exhibition (ENTECH) Kookje News",
+      "summary": {
+        "phenomenon": "The 11th Carbon Neutrality Energy Transition Forum was held to commemorate the 20th anniversary of the International Environmental & Energy Industry Exhibition (ENTECH).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "Energy transition",
+        "ENTECH",
+        "Forum",
+        "20th anniversary"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "국제환경에너지산업전(ENTECH) 2O주년 기념 제11회 탄소중립에너지대전환포럼 국제신문"
+    },
+    {
+      "id": "15",
+      "title": "Discarded PET Bottles Become 'Shopping Bags'... Carbon Neutrality Promoted at Wonju Jungang Market - Seoul Economic TV",
+      "original_title": "버려진 페트병이 ‘장바구니’로…원주 중앙시장서 탄소중립 알렸다 - 서울경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YNDFfZ2pkbGt3R1NmSDhVTFZuV1FadnJPTnZDS2kxcUpmWGMyS0lLZmVCZjVMcXBYVzBwRTdoN0ctUDc2NmdReXVjUjlibG5ka29ocFhCMFJBbWFtc0Z3c1BMODM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T00:04:43",
+      "description": "Discarded PET Bottles Become 'Shopping Bags'... Carbon Neutrality Promoted at Wonju Jungang Market Seoul Economic TV",
+      "summary": {
+        "phenomenon": "An activity to promote carbon neutrality was carried out at Wonju Jungang Market by utilizing discarded PET bottles as shopping bags.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Discarded PET bottles",
+        "Shopping bag",
+        "Wonju Jungang Market",
+        "Carbon neutrality",
+        "Recycling"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "버려진 페트병이 ‘장바구니’로…원주 중앙시장서 탄소중립 알렸다 서울경제TV"
+    },
+    {
+      "id": "16",
+      "title": "Industrial City Changwon Ranks First Nationwide in Carbon Neutrality Performance - Maeil Shinmun",
+      "original_title": "산업도시 창원, 탄소중립 성과 전국 1위 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lZE40UzZTX19heVZYaUxlUVVwNjhyS1dNV09LeTdxSTJLclUtZkZ1al9sc2VnSzlwUE9keXMybHZqUjFXeUJ3TVFfSXRzYU9jNVNUUlJUVnJ6WTNkTGdySXJB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T00:19:04",
+      "description": "Industrial City Changwon Ranks First Nationwide in Carbon Neutrality Performance Maeil Shinmun",
+      "summary": {
+        "phenomenon": "Changwon City, an industrial city, achieved the top rank nationwide in carbon neutrality performance.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Industrial city",
+        "Changwon",
+        "Carbon neutrality",
+        "Performance",
+        "Top nationwide"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "산업도시 창원, 탄소중립 성과 전국 1위 매일신문"
+    },
+    {
+      "id": "17",
+      "title": "Changwon City Transforms Its 'Urban Constitution' Through Carbon Neutrality, Youth, and Welfare - Industry News",
+      "original_title": "창원시, 탄소중립·청년·복지로 ‘도시 체질’ 바꾼다 - 인더스트리뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kempvWlRKdHpiVEVKQ3A2cmVNWnpUQ0p2N2xzMDBEWEFWWkVWdWUxU3U4NG5rZXgtRFhMRjN1SkUwSmdDWWNsWFdkU3hLNVlmS0tmT3QzdFBnUW9kSlBjNHVJOU41d0UyRUhJLUVWdGRodw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T14:35:02",
+      "description": "Changwon City Transforms Its 'Urban Constitution' Through Carbon Neutrality, Youth, and Welfare Industry News",
+      "summary": {
+        "phenomenon": "Changwon City is making efforts to transform the city's constitution through carbon neutrality, youth, and welfare.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Changwon City is expected to transform the city's constitution through carbon neutrality, youth, and welfare policies."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Changwon City",
+        "Carbon neutrality",
+        "Youth",
+        "Welfare",
+        "Urban constitution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원시, 탄소중립·청년·복지로 ‘도시 체질’ 바꾼다 인더스트리뉴스"
+    },
+    {
+      "id": "18",
+      "title": "Cheonan City Officially Launches 'Visiting Carbon Neutrality Classroom' for Elementary and Middle School Students - Gyeongnam Domin News",
+      "original_title": "천안시, 초·중생 대상 '찾아가는 탄소중립 교실' 본격 운영 - 경남도민뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94aUlTZ2tnTjRRWUhmb3IwVzRDR2piN3duT3JsY1VIQklCVVk4cWNKYVZaeTNDNnpFTk1YSjlOVHFCYU9FZWJlYkZFd3BBVi0xWVZiLURSWmtURzFpMnRiSmZjRQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T23:10:40",
+      "description": "Cheonan City Officially Launches 'Visiting Carbon Neutrality Classroom' for Elementary and Middle School Students Gyeongnam Domin News",
+      "summary": {
+        "phenomenon": "Cheonan City has officially begun operating the 'Visiting Carbon Neutrality Classroom' for elementary and middle school students.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Elementary and middle school students",
+        "Carbon neutrality",
+        "Classroom",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "천안시, 초·중생 대상 '찾아가는 탄소중립 교실' 본격 운영 경남도민뉴스"
+    },
+    {
+      "id": "19",
+      "title": "'Learning Carbon Neutrality While Playing in the Classroom'... Cheonan City Provides Customized Education to 2,884 Students from 31 Schools - News Home (newshome)",
+      "original_title": "“교실서 놀며 배우는 탄소중립”… 천안시, 31개교 2천884명 맞춤 교육 - 뉴스홈(newshome)",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SZHFKeDFCZVJjb2dLaEpiWkEzNU5qeVFUQmJNUVNlQXl2dS1vMXB2STkwcU5CRUVzQ3BqZjRhQTFmdXROUmpSZHdWaXN0Sm95dUFYdlBYaW5JcHQ1cnZKRVd4N0dFdUtmSzctV3FB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T23:48:15",
+      "description": "'Learning Carbon Neutrality While Playing in the Classroom'... Cheonan City Provides Customized Education to 2,884 Students from 31 Schools News Home (newshome)",
+      "summary": {
+        "phenomenon": "In Cheonan City, customized education on 'Learning Carbon Neutrality While Playing in the Classroom' was conducted for 2,884 elementary and middle school students from 31 schools.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Carbon neutrality",
+        "Education",
+        "Student",
+        "Customized"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“교실서 놀며 배우는 탄소중립”… 천안시, 31개교 2천884명 맞춤 교육 뉴스홈(newshome)"
+    },
+    {
+      "id": "20",
+      "title": "Carbon Neutrality Practice Campaign Held at Wonju Jungang Market - Jeonbuk Maeil Shinmun",
+      "original_title": "원주 중앙시장서 탄소중립 실천 캠페인 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaUGlwa29ZQnNkT2dXcmVyQXdfWUo3aHZ5Y0JsQzlQVWdCSy1qTGI2QzBQS2RITlpJSjRqUTlIbENCSURlUXNnYk5EQ2hvVF9FZFFqQTJPb2JEWTVkMkFpOTlHRHY2cmJ4cWZDZTNn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T23:33:13",
+      "description": "Carbon Neutrality Practice Campaign Held at Wonju Jungang Market Jeonbuk Maeil Shinmun",
+      "summary": {
+        "phenomenon": "A carbon neutrality practice campaign was conducted at Wonju Jungang Market.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Wonju",
+        "Jungang Market",
+        "Carbon neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "원주 중앙시장서 탄소중립 실천 캠페인 전국매일신문"
+    },
+    {
+      "id": "21",
+      "title": "Changwon Emerges as a Leading Carbon-Neutral City, Ranked No. 1 Nationwide for Two Consecutive Years - Pax Economic TV",
+      "original_title": "탄소중립 선도도시로 도약한 창원… 2년 연속 전국 1위 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8xWl9HZzdwODh6Q2lHMjkteFBvVHdRRTYwaUF1UmctQURKZWtPdG13ZzdicWZydl8xTHBub2pNNUJJR0x4ZjBTWFZ4WlJjYTVGS2JpT1AyWjZ0RExvLUFfU3FwQjN1UVRs?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T12:42:43",
+      "description": "Changwon Emerges as a Leading Carbon-Neutral City, Ranked No. 1 Nationwide for Two Consecutive Years Pax Economic TV",
+      "summary": {
+        "phenomenon": "Changwon City has emerged as the nation's leading carbon-neutral city for two consecutive years.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Leading City",
+        "Changwon",
+        "Nation's No. 1",
+        "Two Consecutive Years"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립 선도도시로 도약한 창원… 2년 연속 전국 1위 팍스경제TV"
+    },
+    {
+      "id": "22",
+      "title": "Cheonan City Operates Carbon Neutrality Classrooms in 31 Elementary and Middle Schools; 2,884 Students Participate - cndnews.co.kr",
+      "original_title": "천안시, 31개 초·중학교 탄소중립 교실 운영…학생 2884명 참여 - cndnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1UeGVDd25JTTBRanpwODFDblhtdm1OU0RBQ2lFcm5PSTJ5TGpmdWRpTktRT2QySFRHa2xmOFhuMWZRSWNmN2c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T23:17:33",
+      "description": "Cheonan City Operates Carbon Neutrality Classrooms in 31 Elementary and Middle Schools; 2,884 Students Participate cndnews.co.kr",
+      "summary": {
+        "phenomenon": "Cheonan City operated carbon neutrality classrooms targeting 31 elementary and middle schools, with a total of 2,884 students participating.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Carbon Neutrality Classrooms",
+        "Elementary and Middle Schools",
+        "Student Participation",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "천안시, 31개 초·중학교 탄소중립 교실 운영…학생 2884명 참여 cndnews.co.kr"
+    },
+    {
+      "id": "23",
+      "title": "Cheonan City Expands Carbon Neutrality Practice Education for Elementary and Middle School Students - Jeonguk Maeil Shinmun",
+      "original_title": "천안시, 초·중학생 대상 탄소중립 실천 교육 확대 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90QXBVQnkzbVd4UGtOWmFZclctSklpeUdGT3VjS3J4YmxybWdEOEQ1U3VtZXNBeHp0SWg3eXpYT1hVdEJfdlVFTmNwTE9DWV9PaXd4b05xX20xVzdDSVdMc01rMlFxWHhGVF9UX1RB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T21:19:52",
+      "description": "Cheonan City Expands Carbon Neutrality Practice Education for Elementary and Middle School Students Jeonguk Maeil Shinmun",
+      "summary": {
+        "phenomenon": "Cheonan City has expanded its carbon neutrality practice education for elementary and middle school students.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Carbon Neutrality",
+        "Student Education",
+        "Practice",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "천안시, 초·중학생 대상 탄소중립 실천 교육 확대 전국매일신문"
+    },
+    {
+      "id": "24",
+      "title": "Climate Crisis Solutions Visiting Classrooms… Cheonan City Officially Launches 'Visiting Carbon Neutrality Classrooms' in 31 Elementary and Middle Schools - Chungcheong Top News",
+      "original_title": "교실로 찾아가는 기후위기 해법… 천안시, 31개 초·중교서 ‘찾아가는 탄소중립 교실’ 본격 가동 - 충청탑뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XU3Rra2JyeWlDM1M1RnB1OUNkWlptazMyMkktU0ZXY3NBd3AtdXNFV3FCSUUtcy1LR2lldXhJc0Jhb01yanpYeE1wMEJPMmowVmtFcTVXLURYT1lsTkRQV0hmUFo?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T00:44:38",
+      "description": "Climate Crisis Solutions Visiting Classrooms… Cheonan City Officially Launches 'Visiting Carbon Neutrality Classrooms' in 31 Elementary and Middle Schools Chungcheong Top News",
+      "summary": {
+        "phenomenon": "Cheonan City has officially launched its 'Visiting Carbon Neutrality Classrooms' program in 31 elementary and middle schools.",
+        "cause": "This program is implemented to seek solutions for the climate crisis.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Carbon Neutrality Classrooms",
+        "Climate Crisis Solutions",
+        "Elementary and Middle Schools",
+        "Education"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "교실로 찾아가는 기후위기 해법… 천안시, 31개 초·중교서 ‘찾아가는 탄소중립 교실’ 본격 가동 충청탑뉴스"
+    },
+    {
+      "id": "25",
+      "title": "Chungnam Province Receives Ministerial Award as Excellent Carbon Neutrality Institution; Refrigerant and Rural Waste Policies Nationally Recognized - cndnews.co.kr",
+      "original_title": "충남도, 탄소중립 우수기관 장관상…냉매·농촌쓰레기 정책 전국 인정 - cndnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE40ajlPaE9palRoeFQzRW9SLVJydDdnaVpJeV9OYUtSUFVOakNYclFDNlBxLXMxeFQwWThoMVBvdEo5SVI2RUE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T11:20:28",
+      "description": "Chungnam Province Receives Ministerial Award as Excellent Carbon Neutrality Institution; Refrigerant and Rural Waste Policies Nationally Recognized cndnews.co.kr",
+      "summary": {
+        "phenomenon": "Chungnam Province received a Ministerial Award as an excellent carbon neutrality institution, with its refrigerant and rural waste policies particularly recognized nationwide.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chungnam Province",
+        "Carbon Neutrality",
+        "Ministerial Award",
+        "Refrigerant",
+        "Rural Waste"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도, 탄소중립 우수기관 장관상…냉매·농촌쓰레기 정책 전국 인정 cndnews.co.kr"
+    },
+    {
+      "id": "26",
+      "title": "KEPCO KPS and Chosun University Hold Inauguration Ceremony for Youth-led 'ESG Youth-lab' - Sankyung e-News",
+      "original_title": "한전KPS, 조선대와 청년주도형 ‘ESG Youth-lab’ 발대식 - 산경e뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS2FIaFE1cDlnZHNISzYwUnowTnB0Z2VuS0JBbTJZN3l5SGRnMmF5T0d5Tmk0cU93OVY3QjBMNE43ZEhuenJuWjN4N25xVC11N2gtSXVEZ3JiSnhVNi1DTUMyNVJQRlU?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T13:13:04",
+      "description": "KEPCO KPS and Chosun University Hold Inauguration Ceremony for Youth-led 'ESG Youth-lab' Sankyung e-News",
+      "summary": {
+        "phenomenon": "KEPCO KPS, in collaboration with Chosun University, held an inauguration ceremony for the youth-led 'ESG Youth-lab'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "KEPCO KPS",
+        "Chosun University",
+        "ESG Youth-lab",
+        "Inauguration Ceremony",
+        "ESG"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한전KPS, 조선대와 청년주도형 ‘ESG Youth-lab’ 발대식 산경e뉴스"
+    },
+    {
+      "id": "27",
+      "title": "Cheonan City Officially Launches 'Visiting Carbon Neutrality Classrooms' for Elementary and Middle School Students - Web Economy",
+      "original_title": "천안시, 초·중생 대상 '찾아가는 탄소중립 교실' 본격 운영 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4ycV96Mm05a3h0SGlVNFRQMU5KSm9DdTFMS2NxNFhSMkU4dVl0SjlmdlVGT2dRVkxORC1vR3UwbXpOb0Ftbi1rOE9QZ1RwbVV3aHFvMjlKSVYtTFQzVEZaRFdWTlZnY01zYTRCT2NWd3c0UQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T00:34:39",
+      "description": "Cheonan City Officially Launches 'Visiting Carbon Neutrality Classrooms' for Elementary and Middle School Students Web Economy",
+      "summary": {
+        "phenomenon": "Cheonan City has officially commenced operating its 'Visiting Carbon Neutrality Classrooms' program for elementary and middle school students.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan City",
+        "Carbon Neutrality",
+        "Elementary and Middle School Students",
+        "Education",
+        "Operation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "천안시, 초·중생 대상 '찾아가는 탄소중립 교실' 본격 운영 웹이코노미"
+    },
+    {
+      "id": "28",
+      "title": "Anyang Saemaul Association Conducts EM Mud Ball Making, Anyangcheon Stream Throwing, and Carbon Neutrality Practice Campaign - stnsports.co.kr",
+      "original_title": "안양시새마을회, EM흙공 만들기·안양천 던지기 및 탄소중립 실천 캠페인 전개 - stnsports.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96M1p6aUpjOTlrRjlLZmZNakpRaFE2ZnJSWlBQcTlXZUZnRmdwendPVUo4TXZnQ0RXYUNfZm9OdVM3eW9wQzMzVGdQa25wcmRoVF9lRjBIOENISzVha21LTVFaTk0xcEt1Z0YzNHcxdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-10T13:11:23",
+      "description": "Anyang Saemaul Association Conducts EM Mud Ball Making, Anyangcheon Stream Throwing, and Carbon Neutrality Practice Campaign stnsports.co.kr",
+      "summary": {
+        "phenomenon": "The Anyang Saemaul Association launched a carbon neutrality practice campaign, alongside EM mud ball making and throwing activities into Anyangcheon Stream.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Anyang Saemaul Association",
+        "EM Mud Ball",
+        "Anyangcheon Stream",
+        "Carbon Neutrality",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안양시새마을회, EM흙공 만들기·안양천 던지기 및 탄소중립 실천 캠페인 전개 stnsports.co.kr"
+    },
+    {
+      "id": "29",
+      "title": "India's Renewable Energy Capacity Expands to World's 3rd Largest - Sejong Citizen Ilbo",
+      "original_title": "인도 재생에너지 설비, 세계 3위로 확대 - 세종시민일보",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zNmozYnJLZDZlVk1SVmVJSG11UFpKUVR4RUIwUUNHb0tlaUFqakkxUVkwZEQwalB1VzhYSnQ0ZnBkTkczRC1XaFRUeU1SY3NDWXZ5RFhnVEtTbDdIN2MwbkhhZmdJa3pvRVNSbzFjZ05FSGs?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T00:26:22",
+      "description": "India's Renewable Energy Capacity Expands to World's 3rd Largest Sejong Citizen Ilbo",
+      "summary": {
+        "phenomenon": "India's renewable energy capacity has expanded to become the world's third largest.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "India",
+        "Renewable Energy",
+        "Capacity",
+        "World's 3rd Largest",
+        "Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인도 재생에너지 설비, 세계 3위로 확대 세종시민일보"
+    },
+    {
+      "id": "30",
+      "title": "Vivian and Kwanglim Collaborate on Offshore Wind Power, Securing New Growth Engines in Renewable Energy - Overseas Koreans News",
+      "original_title": "비비안, 광림과 해상풍력 맞손…신재생에너지 신성장동력 확보 - 재외동포신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQcFRKQ25UWnNKSWY1MGh3bE44ZGtsMHlrcE9MU1E5Y2VWY0w2cG80T2tYVlVlQWhyeEdtLVpnWTd1RnJhT3NTX0plNmUtX1QzZlBoYzRuS2E0SjNuMnNMV2lMeDE4OWN3Y0NCMA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T11:14:11",
+      "description": "Vivian and Kwanglim Collaborate on Offshore Wind Power, Securing New Growth Engines in Renewable Energy Overseas Koreans News",
+      "summary": {
+        "phenomenon": "Vivian has agreed to collaborate with Kwanglim on an offshore wind power project.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Through this collaboration, they are expected to secure new and renewable energy as a new growth engine."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Vivian",
+        "Kwanglim",
+        "Offshore Wind Power",
+        "New and Renewable Energy",
+        "New Growth Engine"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "비비안, 광림과 해상풍력 맞손…신재생에너지 신성장동력 확보 재외동포신문"
+    },
+    {
+      "id": "31",
+      "title": "South Korea's RE100 Renewable Energy Usage Rate at 13%... Significantly Lagging Japan (90%) and China (41%) - Energy Prosumer",
+      "original_title": "한국 RE100 재생에너지 사용률13%…日 90%·中 41% 크게 뒤처져 - 에너지프로슈머",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tZFE4WTZRQUppanNmdldpSGNEMTlBMkp2VG1vMWZWOTNkbFpRc1RBLXN5MkNhZlNlSmJwU0h2N050eUthOV92bGdicUk?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T18:54:00",
+      "description": "South Korea's RE100 renewable energy usage rate is 13%, significantly behind Japan's 90% and China's 41%. Energy Prosumer",
+      "summary": {
+        "phenomenon": "South Korea's RE100 renewable energy usage rate was reported to be 13%, significantly lagging behind Japan's 90% and China's 41%.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "RE100",
+        "Renewable energy",
+        "South Korea",
+        "Usage rate",
+        "Lagging"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국 RE100 재생에너지 사용률13%…日 90%·中 41% 크게 뒤처져 에너지프로슈머"
+    },
+    {
+      "id": "32",
+      "title": "Seoul Metropolitan Council Member Son Nam-il: 'Special Act for Renewable Energy Self-Sufficient Cities Must Be Enacted Promptly' > News - The Korea",
+      "original_title": "손남일 특별시의원, “재생에너지자립도시 특별법 신속히 제정해야” > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42NFl4Z0VDaUdjNHZ5YmlvaVpFWFBsZy1aWTM3aXBYQV9QMm5GekEyd2U5dk4wYWkzMWVBSjgxNWFWLTl1U01mcU41Z0pGekVPXzViLUxJR29hTlVLRnYwS185Nk52WnpvbHgyYU5wMHY?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T16:07:00",
+      "description": "Seoul Metropolitan Council Member Son Nam-il urges prompt enactment of the Special Act for Renewable Energy Self-Sufficient Cities. > News The Korea",
+      "summary": {
+        "phenomenon": "Seoul Metropolitan Council Member Son Nam-il urged the swift enactment of the Special Act for Renewable Energy Self-Sufficient Cities.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "손남일 특별시의원, “재생에너지자립도시 특별법 신속히 제정해야” > 뉴스 더코리아"
+    },
+    {
+      "id": "33",
+      "title": "New Zealand: Hydropower and Renewable Energy Generation Account for 92% of Electricity Production - Newsis",
+      "original_title": "뉴질랜드, 수력과 재생에너지 발전이 전기생산 92% 차지 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55aVhfRW50VUotc1lyRDg3cTFweWVMZTV0NnBTcUZWbkQzVzlqVGxvb2VrMHE5cTBKUWp6d05ZYXNtVGxGWVdtU3Fxc21RVE5PNmppYmhoelV5T1REcFdWS3o3Y0ZRWk9fcWN6VXVtLVZGZU5xajU5MtIBeEFVX3lxTE55aVhfRW50VUotc1lyRDg3cTFweWVMZTV0NnBTcUZWbkQzVzlqVGxvb2VrMHE5cTBKUWp6d05ZYXNtVGxGWVdtU3Fxc21RVE5PNmppYmhoelV5T1REcFdWS3o3Y0ZRWk9fcWN6VXVtLVZGZU5xajU5Mg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T12:12:02",
+      "description": "New Zealand: Hydropower and renewable energy generation account for 92% of electricity production. Newsis",
+      "summary": {
+        "phenomenon": "In New Zealand, hydropower and renewable energy generation account for 92% of the total electricity production.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "New Zealand",
+        "Hydropower",
+        "Renewable energy",
+        "Electricity production",
+        "92%"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "뉴질랜드, 수력과 재생에너지 발전이 전기생산 92% 차지 뉴시스"
+    },
+    {
+      "id": "34",
+      "title": "Seoul Metropolitan Council Member Son Nam-il: 'Special Act for Renewable Energy Self-Sufficient Cities Must Be Enacted Promptly' - Jeonnam In News",
+      "original_title": "손남일 특별시의원, “재생에너지자립도시 특별법 신속히 제정해야” - 전남인뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBudTA4RlNFbnRHdldUVklHMjE5ZTNWSG9iUUJVT1dfbldiYk4tNWhSb0FRMFVfcE9RYjVhTFlvSm1QZGFMZWl5cWVVbEk2OFVtZHVaSG5xa0ZJUGZybWpZQjZKY2NSS0hycHc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T10:37:55",
+      "description": "Seoul Metropolitan Council Member Son Nam-il urges prompt enactment of the Special Act for Renewable Energy Self-Sufficient Cities. Jeonnam In News",
+      "summary": {
+        "phenomenon": "Seoul Metropolitan Council Member Son Nam-il urged the swift enactment of the Special Act for Renewable Energy Self-Sufficient Cities.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Son Nam-il",
+        "Renewable energy",
+        "Self-sufficient city",
+        "Special act",
+        "Enactment"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "손남일 특별시의원, “재생에너지자립도시 특별법 신속히 제정해야” 전남인뉴스"
+    },
+    {
+      "id": "35",
+      "title": "Vivien Collaborates with Kwanglim on New Renewable Energy Projects... Participates in Offshore Wind Development - Lawissue",
+      "original_title": "비비안, 광림과 신재생에너지 사업 협력…해상풍력 개발 참여 - 로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Mc3F1OEpFVGhFSUx3NWIzY2owS0d5NVBjOUtEMXEyUG1XaUtxekxwRWZxcEFkMGtQXzI3RGloTmNmMXJDQTk1Rl9mOHVwSUVKQWFhSlB4a0w3WkVtOHN6UEgwWnFZSXNwbHE4cFJHYkxBOUY1Vi1WdUNn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T12:23:43",
+      "description": "Vivien collaborates with Kwanglim on new renewable energy projects, participating in offshore wind development. Lawissue",
+      "summary": {
+        "phenomenon": "Vivien is participating in offshore wind development through a new renewable energy business collaboration with Kwanglim.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Vivien",
+        "Kwanglim",
+        "New renewable energy",
+        "Offshore wind power",
+        "Collaboration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "비비안, 광림과 신재생에너지 사업 협력…해상풍력 개발 참여 로이슈"
+    },
+    {
+      "id": "36",
+      "title": "Securing Water and Power Simultaneously—Morocco's $26.4 Billion Integrated Renewable Energy and Desalination Strategy - Early Adopter News",
+      "original_title": "물과 전력을 동시에 잡는다—모로코의 264억 달러 재생에너지·담수화 통합 전략 - 얼리어답터뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBFNzBVTWFPbk4zUTUtNHJtbWgxelM3ZS1Dc3lZVjRoVGlzZlgtQzVFaUNyek1wZXAxVkg2ajVVeW9KaVliWVFZYlpn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T18:40:26",
+      "description": "Securing water and power simultaneously—Morocco's $26.4 billion integrated renewable energy and desalination strategy. Early Adopter News",
+      "summary": {
+        "phenomenon": "Morocco is pursuing an integrated renewable energy and desalination strategy valued at $26.4 billion.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "This strategy aims to secure both water and electricity simultaneously."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Morocco",
+        "Renewable energy",
+        "Desalination",
+        "Integrated strategy",
+        "Water"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "물과 전력을 동시에 잡는다—모로코의 264억 달러 재생에너지·담수화 통합 전략 얼리어답터뉴스"
+    },
+    {
+      "id": "37",
+      "title": "New Zealand: Hydropower and Renewable Energy Generation Account for 92% of Electricity Production - news.nate.com",
+      "original_title": "뉴질랜드, 수력과 재생에너지 발전이 전기생산 92% 차지 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00SzZmeW12YjBqVndmVVZfcU9SUWR1WlBxcHctTzBGdHBWMGtJUUtpaEhGLThxYk83a3FiSTEtZ2o1WnVXN1J3cDc4djZjZFRKcVhV?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-10T12:13:00",
+      "description": "New Zealand: Hydropower and renewable energy generation account for 92% of electricity production. news.nate.com",
+      "summary": {
+        "phenomenon": "In New Zealand, hydropower and renewable energy generation account for 92% of the total electricity production.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "New Zealand",
+        "Hydropower",
+        "Renewable energy",
+        "Electricity production",
+        "92%"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "뉴질랜드, 수력과 재생에너지 발전이 전기생산 92% 차지 news.nate.com"
+    },
+    {
+      "id": "38",
+      "title": "Shipping Routes Blocked... International Oil Prices Break $100 Again",
+      "original_title": "뱃길마다 빗장 걸리니…국제유가 ‘100달러’ 또 뚫렸다",
+      "url": "https://www.khan.co.kr/article/202609102125025/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-09-10T12:25:02",
+      "description": "Will fuel prices exceed 2,000 won again? On the 10th, gasoline and diesel prices posted at a gas station in Seoul are nearing 2,000 won each. International oil prices have surpassed $100 per barrel again as armed clashes between the US and Iran intensify. Yonhap News: Blockade of the Strait of Hormuz due to US-Iran conflict, alternative route Bab-el-Mandeb also blocked, severe drought in Panama Canal leads to increased tolls... SK Gas also paid 7 billion won. Brent crude price...",
+      "summary": {
+        "phenomenon": "On the 10th, gasoline and diesel prices at gas stations in Seoul neared 2,000 won, and international oil prices surpassed $100 per barrel.",
+        "cause": "The escalation of armed clashes between the US and Iran led to the blockade of the Strait of Hormuz and its alternative route, the Bab-el-Mandeb Strait. This, combined with increased Panama Canal tolls due to drought, contributed to the situation.",
+        "outlook": "There is a possibility that fuel prices could exceed 2,000 won again."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기름값 다시 ‘2000원’ 넘나 10일 서울 시내 한 주유소에 게시된 휘발유와 경유 가격이 각각 2000원에 육박하고 있다. 미국과 이란 간 무력충돌이 격해지면서 국제유가가 다시 배럴당 100달러를 넘어섰다. 연합뉴스미·이란 전쟁에 호르무즈 해협 봉쇄, 우회로 바브엘만데브도 막혀 가뭄 심각한 파나마운하는 통행료 올라…SK가스, 70억원 지불도 브렌트유 가격···"
+    },
+    {
+      "id": "39",
+      "title": null,
+      "original_title": "지구 온난화의 여섯 아메리카 중 소셜 미디어 사용 - 예일 기후 변화 소통 프로그램",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSHZ5TXRfaGVLTUpHSHJ6akRnandwTGV0bWZBY24zaTh4c1NVaUZnd0pGM3VmUU0yUEhkZ2FwZF82eS1EQlJueG9YLWN2NGdmYVFySE40eUk1Qm5zYWJpWDh0NjcwNy1HMzZCUUhMb0k5SGZMLTJXOVZsNlpULXVzdWdfWQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T13:03:17",
+      "description": "Social Media Use Among Global Warming’s Six Americas Yale Program on Climate Change Communication",
+      "summary": {
+        "phenomenon": "A study on social media use among 'Global Warming's Six Americas' was conducted by the Yale Program on Climate Change Communication.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Social media",
+        "Global warming",
+        "Climate change communication",
+        "Yale Program",
+        "Six Americas"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Social Media Use Among Global Warming’s Six Americas Yale Program on Climate Change Communication"
+    },
+    {
+      "id": "40",
+      "title": null,
+      "original_title": "콜로라도 강 가뭄, 데이터 센터 아닌 기후 변화 탓 - factcheck.afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0ZFBOYlpsODJrS2FfQ2NxNkR1bkJxS0NCOG8teTNnVkVoNkFwVm83Yllub2NteGZrcnN4ZG11czB5M2FzTFVvbDFDaG92bWZ3TVc1QTBkUEY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T22:54:46",
+      "description": "Climate change, not data centers, behind Colorado River drought factcheck.afp.com",
+      "summary": {
+        "phenomenon": "A drought is occurring in the Colorado River.",
+        "cause": "It has been revealed that the cause of this drought is climate change, not data centers.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Colorado River",
+        "Drought",
+        "Data center",
+        "Fact check"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change, not data centers, behind Colorado River drought factcheck.afp.com"
+    },
+    {
+      "id": "41",
+      "title": "네브래스카 과학자들, 네팔 홍수를 기후 변화와 연관시키다 - WOWT",
+      "original_title": "Nebraska scientists link Nepal flood to climate change - WOWT",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmFwOUFzNnVpamk3dFdtMzNuWk50RWFSRkFPdk1xNzdQdWQzY1lpQXBNRy1lVl9ocm5XblZldUNmVnFoeWdyeEFUXzZwUUd0dG1NNVJBR3MyenpGc0lvd2Z3ZTc3aW93ZVdQQnVCU25xd2w0eGpQLUM3TlhkVFV6MEVLSHg1QnhwMlRJS9IBoAFBVV95cUxOS3ZMY25iSWFPMG9Zcy1CWUNDLWpvT185YVdXR1E5R0pnVENPWjNyS24tSV9hTWpkWUFvckVfZURaQVM5dng4S2tuQ1Z2OXJUMEZscTJiejZYR1hqR2t1MU5qMXlLVXlhRDJOaXFoZDRERlE5eTl5cVJvU3hScmxkbWtOTWFsbkxXQ0h4QzdkWk14YXcxQjlDLUFUSm1RaUQ1?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T23:59:00",
+      "description": "Nebraska scientists link Nepal flood to climate change WOWT",
+      "summary": {
+        "phenomenon": "A flood occurred in Nepal. (Specific figures, locations, and timings are not mentioned in the article)",
+        "cause": "Nebraska scientists have linked this flood to climate change. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nebraska",
+        "Scientist",
+        "Nepal Flood",
+        "Climate Change",
+        "Link"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Nebraska scientists link Nepal flood to climate change WOWT"
+    },
+    {
+      "id": "42",
+      "title": "기후 변화가 아프리카의 말라리아 발생 지역을 이동시키고 있다 - 사이언스 뉴스",
+      "original_title": "Climate change is shifting malaria hot spots in Africa - Science News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwQ2p5V1dZdkx4MkgwRGJnWVVCdEJIb195YjRoTHlyZ3p2V3NzN1RZRG1Hcm1wRWlzU09DMmdDZUhpWTUzT2hYbjFfaUxSekVyU2QycXhkdEJNbVV5bjRuWlNGNFVTODF1R3I4YVBuZms0c1J1V0hNdjZWZEpHdlE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T19:00:00",
+      "description": "Climate change is shifting malaria hot spots in Africa Science News",
+      "summary": {
+        "phenomenon": "Malaria hotspots are shifting in Africa. (Specific figures, locations, and timings are not mentioned in the article)",
+        "cause": "Climate change has been identified as the cause of the shifting malaria hotspots. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Malaria",
+        "Africa",
+        "Hotspot",
+        "Shift"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is shifting malaria hot spots in Africa Science News"
+    },
+    {
+      "id": "43",
+      "title": "기후 변화와 건선: 대기 오염, 습도 영향 - 에브리데이 헬스",
+      "original_title": "Climate Change and Psoriasis: Air Pollution, Humidity Effects - Everyday Health",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFVzVXhrcmh0R1pkYXI4UWh2M1dvWGl0dURNLWFnOXhCbjdOYU1XdWJBU2ZMWmtBN3NzbGdXdWZOZ3A5M0dUSThtSTlDX09yUmYzdUU5LWw2RXJlblVTLW1fZGlZRjM2NE5DVENwT1Y2SW1Zc3VFeHpuTG1QWkhQYk5vZXhtVlQ5dEQzdU9R?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T21:20:06",
+      "description": "Climate Change and Psoriasis: Air Pollution, Humidity Effects Everyday Health",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Air pollution and humidity are affecting psoriasis in relation to climate change. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Psoriasis",
+        "Air Pollution",
+        "Humidity",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change and Psoriasis: Air Pollution, Humidity Effects Everyday Health"
+    },
+    {
+      "id": "44",
+      "title": "극한 기상 현상, 기후 변화를 지적: 전문가들 | 2026년 선거 - 그린베이 프레스-가제트",
+      "original_title": "Extreme weather events point to climate change: experts | Election 2026 - Green Bay Press-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbGM5V3NNazQ0ZTBYMklyVkZzWVE3RVUwTkotdXV1WlFYU1I5Rl9hZkplakRmRjI3cnNHaW54elFPelFfbW9RandZZDg3LVlSSFRJMkNmeGNEY0VCQzNRa3N6QU9MeHNfZ3FvcGw5Zmc5cVFHbWxZaDdEZVZGbEN3Z1hjcGphR3RvOWZIQ1g3YmE1YnUzRlNUdkowQkhTdnVZUzhnS0tBbzcyem4xaGVIMXRONGJPMHlSbHdNc3FnbDlaT0NPRHBTVEUyaXBUdlYyTlcyNm5Qc1hxUkE1c2pHcFd1cnNheFd1czFweUtiQQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T10:05:00",
+      "description": "Extreme weather events point to climate change: experts | Election 2026 Green Bay Press-Gazette",
+      "summary": {
+        "phenomenon": "Extreme weather events are occurring. (Specific figures, locations, and timings are not mentioned in the article)",
+        "cause": "Experts have stated that these extreme weather events point to climate change. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extreme Weather",
+        "Climate Change",
+        "Expert",
+        "Election",
+        "Indication"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Extreme weather events point to climate change: experts | Election 2026 Green Bay Press-Gazette"
+    },
+    {
+      "id": "45",
+      "title": "대규모 보호구역, 북부 조류종의 기후 변화 적응에 도움",
+      "original_title": "Large protected areas help northern bird species cope with climate change - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5nQmxxak1KbGRKS0JHMnJITFo0Sm5VbmhTSGVsblJxeEp4MEEzV0VPcDZLMTczUC04Sjh4NEVLQ0F4V0NFTWVIUERHNDd3UGRLMEZkYnI0NktIeGJMY2djSWgzMmlZV0FraThmaHl3dDh4T2M1dUhV?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T17:00:01",
+      "description": "Large protected areas help northern bird species cope with climate change Phys.org",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Large protected areas can help northern bird species adapt to climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Large Protected Area",
+        "Northern Bird",
+        "Climate Change",
+        "Adaptation",
+        "Bird Conservation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Large protected areas help northern bird species cope with climate change Phys.org"
+    },
+    {
+      "id": "46",
+      "title": "기후 적응 정책은 경제적 기반이 필요하다",
+      "original_title": "Climate Adaptation Policy Needs an Economic Foundation - resources.org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmxHLXZnemc2SGtpRzN1LXVndy1uaFpwNzdKSnpob2JIekM4OTlWb1ZGNWgwdUhSTExENTBpaV9tbk5lbmhWT1lnclB5b0Y2SWNSbXBZd1IzS19wS2RfWGc0Wlp2VU5CQm9XR1F0dFNKUWYzR1YtZGNkamhFQjVjak5mUTNMMi1YR0hhek1nNGRqTnc5TW1vakoteGVia1k?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T21:13:17",
+      "description": "Climate Adaptation Policy Needs an Economic Foundation resources.org",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "An economic foundation is necessary for climate adaptation policies to be effectively implemented."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate Adaptation",
+        "Policy",
+        "Economic Foundation",
+        "Necessity",
+        "Resources"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Adaptation Policy Needs an Economic Foundation resources.org"
+    },
+    {
+      "id": "47",
+      "title": "요리 스토브 보조금, 저비용으로 기후 변화에 대응",
+      "original_title": "Cookstove subsidies fight climate change at a lower cost - penntoday.upenn.edu",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUW44TW84TzdDQko1SkMyUU82NkVwMTM3YUxSa3ZOLXpaUVZxR1NSQW1najhRVjJfRm5OazlsODN4ejJ2Q0d1NUFGLXJrNzNnakJaaTdBS0gwQ1hEZWVaT3VnQ3NnXzFJQVNycVp6V3FIejJaaWVvd0lBQlBGNHQxOEY0Z01qZWRSeEhUekUyNkNtOG5aUVNPaDRLOWtVUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T12:00:00",
+      "description": "Cookstove subsidies fight climate change at a lower cost penntoday.upenn.edu",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Cookstove subsidies can be a low-cost method to address climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cookstove",
+        "Subsidy",
+        "Climate Change",
+        "Low Cost",
+        "Climate Action"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Cookstove subsidies fight climate change at a lower cost penntoday.upenn.edu"
+    },
+    {
+      "id": "48",
+      "title": "델라웨어, 2026년 세 번째 폭염 기록. 기후 변화가 원인일까?",
+      "original_title": "Delaware had 3rd hottest summer in 2026. Is climate change the reason? - delawareonline.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGZ6ZG9RdU1haVljTHMwYldPSjNvWDNpLXA3VU1wVmoyNmR4VVBNWmdkbWo4SzhsSDYtc0pPZFJiN3B4Z19Pc2RzdF9fY21vNTFCdV8wWGlXdTMyZ3Q3N3dVRUwtSjVISDVyYlBQNVBtQjMwUVFTVFM5LXhUSWhMZ3NRR2RLUkU0M1l5bXZjUVVFN2gxUEJfOTV2b3JELV9wTkJWYmZSS3JXWjhQS293eGVJQ2xTYVdRVUYtR2VuQzdoUEY4QlZCdGUtaU5OYVpO?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T19:49:00",
+      "description": "Delaware had 3rd hottest summer in 2026. Is climate change the reason? delawareonline.com",
+      "summary": {
+        "phenomenon": "Delaware recorded its third hottest summer in 2026.",
+        "cause": "The question has been raised as to whether climate change could be the cause of this heatwave. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Delaware",
+        "2026",
+        "Heatwave",
+        "Climate Change",
+        "Cause"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Delaware had 3rd hottest summer in 2026. Is climate change the reason? delawareonline.com"
+    },
+    {
+      "id": "49",
+      "title": "폭염, 산불, 허리케인, 홍수: 기후 변화가 아이들을 학교에 못 가게 하는 방법 - LA 스쿨 리포트",
+      "original_title": "Heat, Fires, Hurricanes, Floods: How Climate Change Is Keeping Kids From School - LA School Report",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSjNWMkF2NWJ5Yk9pdnVodUtzbzdiVkZ5TE9fS3B2RkhianlXbnhnWGxXUUtVekFDQkFEa0tHRTZUeU85V0pPWUp3cG9wYy1feHVBRXFvWkN3QWZ5MDVXZjRsbVRyYzBhLTFEdEtSZXpybjhCZEhDOUtqX3Jaa1RMZUw1SzZxMWw1UUlZaFdnd1JJOTJPd21QcnlaQm1EdU14NjMwZVZrNmpsMHc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T14:02:16",
+      "description": "Heat, Fires, Hurricanes, Floods: How Climate Change Is Keeping Kids From School LA School Report",
+      "summary": {
+        "phenomenon": "Weather phenomena such as heatwaves, wildfires, hurricanes, and floods are occurring. (Specific figures, locations, and timings are not mentioned in the article)",
+        "cause": "Climate change has been identified as the cause of these phenomena. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "These climate change-related phenomena are impacting children's ability to attend school."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Heatwave",
+        "Wildfire",
+        "Flood",
+        "School"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Heat, Fires, Hurricanes, Floods: How Climate Change Is Keeping Kids From School LA School Report"
+    },
+    {
+      "id": "50",
+      "title": "기후 변화가 어떻게 오대호를 해양보다 더 빠르게 온난화시키고 있는가",
+      "original_title": "How Climate Change Is Warming The Great Lakes Faster Than The Oceans - WorldAtlas",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE5LRXhPWmpzUlM5YUNOUkR2MDIwajduUjlwQWthVExtYlJIa3lTNm9EenpUU0MtSzhubXdDVUpnT1VZd3k0Z0ZnRVV4eGpiNXdvRTZwSk9TNjhKTFlxTVg4dDNoN0pGTGtZRkRPR0YxSXZRZlZfNk85YUpZQWlpdGJrNHRhSUFQS0dTaGJRV0tJTXYtLXZkd29meWVLMUt2eXhIMnluSzdDUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T18:30:00",
+      "description": "How Climate Change Is Warming The Great Lakes Faster Than The Oceans WorldAtlas",
+      "summary": {
+        "phenomenon": "The Great Lakes are warming faster than the oceans. (Specific figures, locations, and timings are not mentioned in the article)",
+        "cause": "Climate change has been identified as the cause of the rapid warming of the Great Lakes. (Scientific causes/background are not mentioned in the article)",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Great Lakes",
+        "Rising Water Temperature",
+        "Ocean",
+        "Acceleration"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How Climate Change Is Warming The Great Lakes Faster Than The Oceans WorldAtlas"
+    },
+    {
+      "id": "51",
+      "title": "August tied hottest month on record globally, Copernicus says - Courthouse News",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTRKUG1obWxxY3FPZ2ZhY2VnSFpfcUJBMGtKbDR0UUI1b2M0a1Z3a2tTY3lTM1VrT0ppWDYybnZVaUNvUXJ2QW5TYzdGUUxzUm44c3dOYkxROUs5dl8tUjdQSHdXU0hGVndzYTY0WHJ2TUFHS3ZBalBQTzVMTUw4ZnlOeG0zaUhSUGZRRGx1Y2FpVTBlNnpN?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T18:58:01",
+      "description": "August tied hottest month on record globally, Copernicus says Courthouse News",
+      "summary": {
+        "phenomenon": "According to Copernicus, August tied the record for the hottest month globally.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "August tied hottest month on record globally, Copernicus says Courthouse News"
+    },
+    {
+      "id": "52",
+      "title": "Cincinnati considered hotspot for climate change - The News Record",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVEphcTM4aEhwR2p6YkRHMUdlRDhlNnRXVF9YYTA5VHFoX2tHVThlSy03blVpRmk4SnRvZGs4enFqaGlQcVVuTHA2RW92Z2hidVJ1OXBKTDhUZkl3NC0teHJmUVh1ZGN5QnVJZFNybE05WEd3WjVUbDRvM1JUQVk2RjZ3ZHlpU1U4cURudzN1MDY5dmRrdm1WY0RySmJockZrdzhpWk5jYkc2YXhaSDB0MF8weHJsSXVfT1Fra0xmNnc3cEowV2JiNG9n?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T12:10:00",
+      "description": "Cincinnati considered hotspot for climate change The News Record",
+      "summary": {
+        "phenomenon": "Cincinnati is considered a hotspot for climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Cincinnati considered hotspot for climate change The News Record"
+    },
+    {
+      "id": "53",
+      "title": "노후화된 미국 수자원 시스템, 기후 변화에 역부족",
+      "original_title": "Aging US Water Systems Are No Match for Climate Change - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOanJ4OHQ5VWhjUXc1ZnBtM1BaelNOSU9nQ3B3NjlOWEZhaUxKMGQ2eHhadHRfRkFVOGNoRWZKSWl0QlNpLVBrRE9ndHFST3BKVkM4VGdiRjM0RmpOTDR5SWxYZC1JM0xtLUlUZnZNWDRKMDNWRU9JZHBBZzNiZ21neTRtaC1EOFoyeU43aF9oN3NpMEQ0TjBMb2pkQzhGRjdKSDc0NUFRbkxwOHE4SVo1U3FzWQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T12:30:26",
+      "description": "Aging US Water Systems Are No Match for Climate Change Bloomberg.com",
+      "summary": {
+        "phenomenon": "Aging U.S. water systems are insufficient to cope with climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "United States",
+        "Water systems",
+        "Aging",
+        "Insufficient"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Aging US Water Systems Are No Match for Climate Change Bloomberg.com"
+    },
+    {
+      "id": "54",
+      "title": "Climate change forcing Wisconsin fish fries to find new catch - WAOW",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcnFBWEg3aGo5TjJxZ1RTb3JZRjlTYmxZd1IydEltMWRNLWJ2LUZmem96WEJDUUswRmkyQXJ5ZjkxWGd2dlFKT0UxbGtYc1FLOEJYSGFJX0Y5SHpXZ0FLOGo4MW1NdjZnWDAwUXNjVmFrYUdWV0dCZmVqM256bEljR1o4Z0dQMXlHSlhFXzR4SExqZ2o4Q2hoS1lZbFNyWHlxNG9UWF9wZXJDdkRSS0J1bi1xWWFzTmtxQmxPelZfWTh2TFF0MFY5MG92eU5oOXdpR2VZ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T15:14:00",
+      "description": "Climate change forcing Wisconsin fish fries to find new catch WAOW",
+      "summary": {
+        "phenomenon": "Climate change is forcing Wisconsin's fish fries to seek new fish species.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change forcing Wisconsin fish fries to find new catch WAOW"
+    },
+    {
+      "id": "55",
+      "title": "쇠퇴하는 한국 산호, 기후 변화 연구 다이버·과학자들 우려",
+      "original_title": "'Slumping' South Korean corals worry divers, scientists studying climate change - Japan Today",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSldncnlYVWxZdlh4QXhhc0kyX0N5V1BXTExPNXpoOFEzZy1PU2IxbVBGY3NpV2d1STRUQnF3UjF0Y3FUOHFZYjhDbDVyQVEyT1ctNWpJeEJIT1J6R0pCNWZCS1FYRWVEcDRRQXNoTWd2elBESzFrNWdxQ014SUttWndCYS1BVF9wS09tbGdzZFJKUTN2TWV6M2pUNUdfVER1Z2FZV3RmVGh1VHpXa1dsM3ExSE5pemFNRWVEU0RqQ0tTX0N4NVczZE5rZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T21:15:00",
+      "description": "'Slumping' South Korean corals worry divers, scientists studying climate change Japan Today",
+      "summary": {
+        "phenomenon": "South Korean corals are declining, raising concerns among divers and scientists studying climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Coral",
+        "Decline",
+        "South Korea",
+        "Climate change",
+        "Concern"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "'Slumping' South Korean corals worry divers, scientists studying climate change Japan Today"
+    },
+    {
+      "id": "56",
+      "title": "기후 변화, 남유럽 열대 과일 생산 확대 가능성 - Hortidaily",
+      "original_title": "Climate change could expand tropical fruit production in southern Europe - Hortidaily",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNF9KRnVLbFliM3JKTFk0bEhIUEotNXJIVUMwZVJ4dHZCSFhOYjhsdTBQMEgwMXoySENJVFRaMk8yTE5rc2lBSEQ0cWdrcUtjTkVQalRrMHJURDhvMXZjUmN2NGFhcGVCSWdFaFRCZHEwU0thc3BUaG4yWEdwU1JkVkxpMW1TWjc5Z3RBX2Z3eTdoN0hHa1FFYmx6a3lELTVzN3QxUk55UWhScXgyYl9WQi1WMkdVc1U?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T13:09:17",
+      "description": "Climate change could expand tropical fruit production in southern Europe Hortidaily",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Climate change could lead to an expansion of tropical fruit production in Southern Europe."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate change",
+        "Tropical fruit",
+        "Production",
+        "Southern Europe",
+        "Expansion"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change could expand tropical fruit production in southern Europe Hortidaily"
+    },
+    {
+      "id": "57",
+      "title": "Overlooked Climate Feedback Loops Could Make Global Warming 30% Worse - Gizmodo",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXFFUzllZlJkRGsxYURVT0t2NG9uMXZCc3RHR2dhalBCWHJxdkhPbE1adHdTSHdza1NoZXV0RXM4N3VJWVB4bnQ2bXY4blo4cVZJd0FmYXBVc2JtRlJWRl9RS3B3Ym02MF9SNDJIbXFwWHdOekZUSkl3aU5mRUtqWGdhQ1FrMVVULVdQQTRfOERKQXlMN3ZZeDdyY2g2LXdD?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T15:30:07",
+      "description": "Overlooked Climate Feedback Loops Could Make Global Warming 30% Worse Gizmodo",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Overlooked climate feedback loops have been identified as a scientific cause that could worsen global warming.",
+        "outlook": "Overlooked climate feedback loops could worsen global warming by 30%."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Overlooked Climate Feedback Loops Could Make Global Warming 30% Worse Gizmodo"
+    },
+    {
+      "id": "58",
+      "title": "온난화 시대의 연금: 왜 기후 변화가 이제 연금 문제가 되었는가 - 국가 대비 위원회",
+      "original_title": "Pensions in a Warming World: Why Climate Change is now a pension issue - National Preparedness Commission",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeXZtWGZMV213eWszTnAzWnJHZDZKSEd2YV9nWTlyT0V3Z00tbmRLUXdYUk92R0E2OFRWbGhYS2hvWTBieHB0RUoxbWNMZnR6LTFJUC1MeGxyRURZOVZ1R194R0ZfanZmSUNXVTlqdlJJZlg2M29YQ09CR2hKUUdvX2xCdklsTHQtUGlYYk9kYkVGYVlkeFNFT3NLZU5YckdRZ29hX3hGaVhOSzN6cTF0QWlIOThZNVdyWFJib0tYNENSLXM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T11:25:40",
+      "description": "Pensions in a Warming World: Why Climate Change is now a pension issue National Preparedness Commission",
+      "summary": {
+        "phenomenon": "Climate change has now emerged as a pension issue.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Pension",
+        "Climate change",
+        "Global warming",
+        "Pension issue",
+        "National Preparedness Commission"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Pensions in a Warming World: Why Climate Change is now a pension issue National Preparedness Commission"
+    },
+    {
+      "id": "59",
+      "title": "Copernicus Climate Change Service Says August 2026 Tied Earth’s Hottest Month Record: how 41 outlets framed it - NewsCord",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcUk2RFR3Q0g0ZUJQWmpFb3BibE1QOTFJa1hQWmN4RmNnTXl0UTV0Y1pWaHBlZ3dFMGhHWUd1U0FyeVZsaG1Eckl3NS04UEJSbU5xMUw4dncyOHhMUnQ0b0VHLVFpN29Lcnk4Wm03LXZGem5weUFJbnFGalRPRWlRQkI1Zjl0NHJnSE1ic3pXUUVRTkJhcllvQWE0YUZHS2xLdEtLdW1vWHlFUGdEODBLcHhMc2wzOHhLdGNGTGNHdzJ0eHVpQl94b3c5RzRFNDhjYVBPUWpHMUE3OVJzV0lTaWlELTQ1eFpNdFE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T10:02:21",
+      "description": "Copernicus Climate Change Service Says August 2026 Tied Earth’s Hottest Month Record: how 41 outlets framed it NewsCord",
+      "summary": {
+        "phenomenon": "According to the Copernicus Climate Change Service, August 2026 tied Earth's record for the hottest month.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Copernicus Climate Change Service Says August 2026 Tied Earth’s Hottest Month Record: how 41 outlets framed it NewsCord"
+    },
+    {
+      "id": "60",
+      "title": "예술 설치물, 해수면 상승 시각화를 더 쉽게 만들다 - 예일 기후 연결",
+      "original_title": "Art installation makes it easier to visualize sea level rise - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW9paGhSd2FQX1ZRX2RTOERTWVd1Q2djM24zY2ptSVlnQXQ5Yk9QcHRBVGNka2RIWlV2Z0FySUc3LThIdTliQzBsMUdwOHRzUjJtWW82VGJ3eEhET3ZKSmVKTXJIaG5YSzQ3ak5sZFN3ZDRIOG5HWmdwODNSSGNnMHpFOXpoeGhvNTlHbV82eDVPTDI3eUQxdy0zSWl1akUwMUxmaHUtcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T10:59:00",
+      "description": "Art installation makes it easier to visualize sea level rise Yale Climate Connections",
+      "summary": {
+        "phenomenon": "An art installation is making it easier to visualize sea level rise.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sea level rise",
+        "Art installation",
+        "Visualization",
+        "Climate change",
+        "Awareness improvement"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Art installation makes it easier to visualize sea level rise Yale Climate Connections"
+    },
+    {
+      "id": "61",
+      "title": "The world’s biggest carbon sink may start emitting CO2 after net zero - newscientist.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUlGNWVLaUJxdjFVUTJ6LWc4cFhwQURteXUzUW9rNWxsWll6X3VrYVdZNTByWTdYNlZid0NyNHR6NWF3NHZvc21jWlI5Wjh0QjhONWtXbmJWUUVtTTlnd3k0d3ZpVTNXRXQ1X0NrV2FNbDR0TE1mMWVqTGl3Um1rTzZ2RkU1YmZKU09kSUptNnZkNTZrVHZkcHVmSENBMndsVWRMQ3RuMDg4WkFmWU5ZZG0ybGQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T18:06:35",
+      "description": "The world’s biggest carbon sink may start emitting CO2 after net zero newscientist.com",
+      "summary": {
+        "phenomenon": "The world's largest carbon sink may begin to emit carbon dioxide after achieving carbon neutrality (net zero).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Following the achievement of carbon neutrality, carbon dioxide emissions could commence."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "The world’s biggest carbon sink may start emitting CO2 after net zero newscientist.com"
+    },
+    {
+      "id": "62",
+      "title": "Climate change is reshaping public health risks - The Hippocratic Post",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnh5TzJsRUc2MF83V01Yb3p5YUI5UG5mTHZxT3dSSnZHc2ppVWFWMm5oQkdlVHNFZW80eS15SDlDSE54VDl2cVNjZjNVWTFVNU5fejNnbVJCb0RKWkhtdGp3bTJtWXExU2dWY21iQ3FNcnFzNnE0bmZ4N3hPUkhZU2Q1VmRhd3Z4dHhWWWs5Z1l6NEc0TnlVN2pJUmw3blU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T10:55:45",
+      "description": "Climate change is reshaping public health risks The Hippocratic Post",
+      "summary": {
+        "phenomenon": "Public health risks are being reshaped.",
+        "cause": "Climate change is the underlying cause reshaping public health risks.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is reshaping public health risks The Hippocratic Post"
+    },
+    {
+      "id": "63",
+      "title": "기후 변화가 아랍의 봄과 튀니지 시위를 어떻게 촉발했는가",
+      "original_title": "How Climate Change Fueled the Arab Spring and Tunisian Protests - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0XzFsMTJsanI2OWl2b2hBOW9UeVNfRHkyeVc5MXhiLXd1eTJoODdodHpmSHNlVUlCS1hNM2VYNjVoR3VlUTI5dmJPTm9FV3BzTmVQRmFuLXN2WlE1M3JJaFdtTVQycHlwTzFJeWJMRVhtaE16UDRyZDFxeTFqRjA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T16:00:00",
+      "description": "How Climate Change Fueled the Arab Spring and Tunisian Protests Yahoo News Canada",
+      "summary": {
+        "phenomenon": "Climate change fueled the Arab Spring and Tunisian protests.",
+        "cause": "Climate change has been identified as a contributing factor to the Arab Spring and Tunisian protests.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Arab Spring",
+        "Tunisian protests",
+        "Social unrest",
+        "Cause"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How Climate Change Fueled the Arab Spring and Tunisian Protests Yahoo News Canada"
+    },
+    {
+      "id": "64",
+      "title": "Stronger Home Foundations Needed to Withstand Climate Change and Cracking Soils - azobuild.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xY0pidjRRYVU3ZS1ySDBBWXRXU0JaQWU5TVBvcDRBMDNaMmtEeUU5SEpmU1RUX2h4Vm5TOTdpQUx5YzB5U051Q1FzM0VMUExJMVFQc3RManhvSXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T11:18:00",
+      "description": "Stronger Home Foundations Needed to Withstand Climate Change and Cracking Soils azobuild.com",
+      "summary": {
+        "phenomenon": "Stronger home foundations are required.",
+        "cause": "Stronger home foundations are necessary due to climate change and soil cracking.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Stronger Home Foundations Needed to Withstand Climate Change and Cracking Soils azobuild.com"
+    },
+    {
+      "id": "65",
+      "title": "Bird’s-Eye View Paintings Are Powerful Portraits of Landscapes Grappling With Climate Change [Interview] - My Modern Met",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vcURYVjZTRnFYX1FoM2xVU2ZDV1pKMHUzcUFnYTVSMURYeE5YMk00RHpZMDRJM3FTZ0lpSHFtd0VfRVhPNGdPYmg5SVlBZkFmaktFY193d050WmVoWUF0QnVwQmVvVUE2RlVNSUdPclVGRS1xeEVj?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-10T19:47:17",
+      "description": "Bird’s-Eye View Paintings Are Powerful Portraits of Landscapes Grappling With Climate Change [Interview] My Modern Met",
+      "summary": {
+        "phenomenon": "Bird's-eye view paintings are powerful portraits depicting landscapes grappling with climate change.",
+        "cause": "Landscapes are grappling with climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bird’s-Eye View Paintings Are Powerful Portraits of Landscapes Grappling With Climate Change [Interview] My Modern Met"
+    },
+    {
+      "id": "66",
+      "title": "그린베이, 2050년까지 100% 청정에너지로 탄소 중립 달성 계획 - NBC26",
+      "original_title": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy - NBC26",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMnV4YldRRGZXd25PVG9udWZjRmZrRHRtRkJTUnYwUTdGTTNfRG9pSW5OUnVfbkpiY3g1MmRVOXFrUDBhX1NzWXdkQVg2QlJBamV6R0c1NFNibm5ZSG16aEhYWFpwUFhVUUQ0ek1Kdmx3VVVqVzBZV1FYaHBDNll1b1ZMU2MyRGt6S0FZZlluOHpqUGhPNC05M05aRElHaFc3VHRV?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-09-10T12:11:27",
+      "description": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy NBC26",
+      "summary": {
+        "phenomenon": "Green Bay has plans to achieve carbon neutrality by 2050.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Green Bay plans to achieve carbon neutrality by 2050 using 100% clean energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Green Bay",
+        "Carbon neutrality",
+        "2050",
+        "Clean energy",
+        "Plan"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy NBC26"
+    },
+    {
+      "id": "67",
+      "title": "그린베이, 2050년까지 100% 청정에너지로 탄소 중립 달성 계획 - NBC26",
+      "original_title": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy - NBC26",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMDY4RWNuOWtvQnloR1NtbFFNa1d6c3Ftd25LaGw4UlVpLWMyQ3hWUmJ6VHNhOTdwYzNWeWkyUjVnQ292bFlKZE5JaS1jZ015Mm1OS0o2NWlvOC0xYW44Rzl1VnRNaG5vVldkUWdYUzZKN09PSzZGYmppUWJPb0Q1Z0o1UzlnSmxDaWZvUUIxX2p6SkZoZENQZ3VkSDNuWTMzYUlDQk9PWlVaTHhH?oc=5",
+      "source": "google_carbon_en",
+      "published_at": "2026-09-10T12:11:27",
+      "description": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy NBC26",
+      "summary": {
+        "phenomenon": "Green Bay has plans to achieve carbon neutrality by 2050.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Green Bay plans to achieve carbon neutrality by 2050 using 100% clean energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Green Bay",
+        "Carbon neutrality",
+        "2050",
+        "Clean energy",
+        "Plan"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Green Bay has plans to be carbon neutral by 2050 with 100% clean energy NBC26"
+    },
+    {
+      "id": "68",
+      "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+      "original_title": null,
+      "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+      "source": "guardian_climate",
+      "published_at": "2026-09-10T14:32:53",
+      "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the summer’s five heatwaves, amid warnings that extreme heat is having an unprecedented impact on human health.A&E units, ambulance services and the NHS 111 telephone advice line all experienced record demand for their services in England in June, July and August as Britain experienced record temperatures. ",
+      "summary": {
+        "phenomenon": "The UK's NHS experienced its busiest summer on record across June, July, and August due to five summer heatwaves and unprecedented temperatures, leading to record demand for A&E units, ambulance services, and the NHS 111 telephone advice line.",
+        "cause": "Five summer heatwaves and record temperatures were the cause of intense strain on the NHS and increased demand for its services. Experts indicate that extreme heat is having an unprecedented impact on human health.",
+        "outlook": "Given that extreme heat is having an unprecedented impact on human health, if these conditions persist, the strain on healthcare services could continue or worsen."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the summer’s five heatwaves, amid warnings that extreme heat is having an unprecedented impact on human health.A&E units, ambulance services and the NHS 111 telephone advice line all experienced record demand for their services in England in June, July and August as Britain experienced record temperatures. "
+    },
+    {
+      "id": "69",
+      "title": "English winemakers expect ‘vintage year’ after record-breaking summer heat",
+      "original_title": null,
+      "url": "https://www.theguardian.com/uk-news/2026/sep/10/english-winemakers-vintage-grapes-harvest-heatwave",
+      "source": "guardian_climate",
+      "published_at": "2026-09-10T14:00:37",
+      "description": "Hot weather means sweeter grapes, but outlook gloomier for beermakers, as drought diminishes barley harvestEnglish sparkling winemakers expect their earliest grape harvest and a “vintage year” after a scorching summer quickly ripened grapes.However, beer sellers have warned of a potential shortage after record-breaking temperatures and a drought hitting much of England has caused poor yields of barley. Continue reading...",
+      "summary": {
+        "phenomenon": "English sparkling wine producers anticipate their earliest grape harvest and a 'vintage year' due to a scorching summer that rapidly ripened grapes. Conversely, record temperatures and a drought affecting much of England have resulted in poor barley yields.",
+        "cause": "Hot summer weather positively impacted wine production by making grapes sweeter and ripening them faster. However, the same record temperatures and drought caused a reduction in barley yields.",
+        "outlook": "English wine producers are anticipating a 'vintage year' for sparkling wine. However, beer sellers are warning of a potential beer shortage due to poor barley harvests."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Hot weather means sweeter grapes, but outlook gloomier for beermakers, as drought diminishes barley harvestEnglish sparkling winemakers expect their earliest grape harvest and a “vintage year” after a scorching summer quickly ripened grapes.However, beer sellers have warned of a potential shortage after record-breaking temperatures and a drought hitting much of England has caused poor yields of barley. Continue reading..."
+    },
+    {
+      "id": "70",
+      "title": "World must reject climate culture wars or face economic ruin, says UN’s Stiell",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
+      "source": "guardian_climate",
+      "published_at": "2026-09-10T10:42:43",
+      "description": "Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month everAttempts to stoke a climate crisis culture war must be rejected or the world will face economic disaster, the UN’s climate chief has warned.Simon Stiell, the executive secretary of the UN Framework Convention on Climate Change, warned that this year’s “hot as hell” summer had killed tens of thousands of people in Europe alone and “hammered” infrastructure, businesses and economics, costing a li",
+      "summary": {
+        "phenomenon": "This summer was 'hot as hell,' causing tens of thousands of deaths in Europe alone and severely impacting infrastructure, businesses, and economies. According to EU data, August 2026 was one of the hottest months on record.",
+        "cause": "The extreme heat of 'this summer' was the direct cause of fatalities and economic impacts.",
+        "outlook": "The UN climate chief warned that unless attempts to stoke a climate crisis culture war are rejected, the world will face economic disaster."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month everAttempts to stoke a climate crisis culture war must be rejected or the world will face economic disaster, the UN’s climate chief has warned.Simon Stiell, the executive secretary of the UN Framework Convention on Climate Change, warned that this year’s “hot as hell” summer had killed tens of thousands of people in Europe alone and “hammered” infrastructure, businesses and economics, costing a li"
+    },
+    {
+      "id": "71",
+      "title": "기고문: 극심한 더위가 어떻게 여름을 넘어 가을과 봄까지 '확산'되는가",
+      "original_title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+      "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
+      "source": "carbonbrief",
+      "published_at": "2026-09-10T13:00:00",
+      "description": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen… The post Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "Extreme heat is 'creeping' from summer into autumn and spring, and this is one of the deadliest climate hazards.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Extreme heat",
+        "Climate hazard",
+        "Seasonal extension",
+        "Heatwave",
+        "Carbon Brief"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen… The post Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring appeared first on Carbon Brief."
+    },
+    {
+      "id": "72",
+      "title": "영국 항공 배출량, 2050년까지 예상보다 50% 증가할 것, 정부 인정",
+      "original_title": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
+      "url": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
+      "source": "carbonbrief",
+      "published_at": "2026-09-10T10:42:50",
+      "description": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green… The post UK aviation emissions to be 50% higher than thought by 2050, government admits appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "The UK government admitted that the UK's aviation emissions will be 50% higher by 2050 than previously expected.",
+        "cause": "This is because the UK government has lowered its expectations for electric planes and 'Sustainable Aviation Fuels (SAFs)'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "UK",
+        "Aviation",
+        "Emissions",
+        "2050",
+        "Sustainable Aviation Fuel"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green… The post UK aviation emissions to be 50% higher than thought by 2050, government admits appeared first on Carbon Brief."
+    },
+    {
+      "id": "73",
+      "title": "코파트, ACV 옥션 19억 달러에 인수 - 로이터",
+      "original_title": "Copart to buy ACV Auctions in $1.9 billion deal - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhwcVJ1aVRqNFlKdHJFMFdGY0hBd3A0QXlib2J2MEU0ZXJ4VnFOMEowdG1NWWtRVkhWVXdCTUdOdE84QWN5bnVDZEJOZlV3TVZqT1Bia0VBUzB0TV93Vy1OOF9keWJxLXU4cGJrUXVDWW1vUDBGX0U2UmdDOC1XcnEtOXdwci1BRnRwZw?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-09-10T21:36:45",
+      "description": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
+      "summary": {
+        "phenomenon": "Copart to buy ACV Auctions in $1.9 billion deal Reuters",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Copart",
+        "ACV Auctions",
+        "Acquisition",
+        "Deal",
+        "1.9 billion dollars"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Copart to buy ACV Auctions in $1.9 billion deal Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 73,
+    "domestic_count": 38,
+    "international_count": 35,
+    "top_keywords": [
+      "Climate change",
+      "Carbon neutrality",
+      "Cheonan City",
+      "Renewable energy",
+      "Climate change"
+    ],
+    "sentiment_breakdown": {
+      "positive": 31,
+      "negative": 21,
+      "neutral": 4
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "천안시",
+      "재생에너지",
+      "기후변화"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
