@@ -1,0 +1,783 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T01:01:55.375842",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 9월 12일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🔴 기후 위기 심화 및 주요 영향",
+        "content": "오늘 발표된 소식에 따르면, 인도네시아에서 엘니뇨의 영향으로 대규모 산불이 발생하며 2026년 배출량이 이번 세기 기록과 같아질 궤도에 올랐다는 경고가 나왔습니다 [31]. 이는 호주와 캐나다가 광업, 석유 및 가스 기반 경제 모델을 운영하면서 악화되는 산불, 홍수, 가뭄과 같은 기후 변화의 직접적인 결과를 겪고 있다는 보고와 맥을 같이합니다 [30]. 더 나아가, 기후 변화, 이동성, 그리고 갈등이 '기후 난민의 세상'을 초래할 수 있다는 심각한 우려가 제기되었으며 [28], 심지어 기후 변화로 인해 샴페인의 알코올 함량이 15%까지 증가할 수 있다는 전망까지 나와 우리의 일상에 미칠 수 있는 예상치 못한 영향을 시사합니다 [29].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚠️ 기후 행동의 도전과 회의론",
+        "content": "기후 변화 대응을 위한 노력은 여전히 상당한 도전에 직면해 있습니다. 미국에서는 총 567건의 재생에너지 프로젝트가 반대에 부딪혀 약 40%가 취소되는 등 청정에너지 전환에 대한 저항이 만만치 않은 것으로 나타났습니다 [8]. 또한, '불편한 진실'이 개봉된 지 20년이 지났음에도 불구하고 기후 변화에 대한 의문이 여전히 제기되고 있으며 [21], 영국 정치에서 주요 세력으로 부상한 리폼 UK가 기후 및 에너지와 관련하여 45가지 허위 또는 오해의 소지가 있는 주장을 펼쳤다는 팩트체크 결과도 나왔습니다 [32]. 뉴포트에서 열린 태평양 회색고래 심포지엄에서 기후 변화에 대한 핵심적인 논의가 누락된 사례는 이러한 회의론과 무관심이 중요한 공론의 장까지 침투하고 있음을 보여줍니다 [22].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 국내외 기후 변화 대응 및 적응 노력",
+        "content": "이러한 위기 속에서도 기후 변화 대응을 위한 국내외 노력은 꾸준히 이어지고 있습니다. 국내 반도체 생산 확대에 따른 전력 및 용수 부담 증가에 대응하여 삼성과 SK가 재생에너지와 물 재이용을 늘리고 있으며 [9], 식품업계 또한 공장에 태양광 및 고효율 설비를 확산하는 등 탄소중립 전환에 동참하고 있습니다 [13]. 아산시 탄소중립지원센터는 어린이집 원장을 대상으로 탄소중립 및 ESG 교육을 실시하며 인식 개선에 힘쓰고 있고 [6], 한전KPS와 조선대는 청년주도형 ‘ESG Youth-lab’ 발대식을 통해 미래 세대의 참여를 독려하고 있습니다 [7]. 국제적으로는 도미니카 공화국에서 네덜란드와 INTEC이 기후 변화 적응 해결책을 모색하는 등 실질적인 적응 방안 마련에 집중하고 있습니다 [24].",
+        "tone": "positive"
+      },
+      {
+        "title": "📰 기후 정책 및 새로운 기술 동향",
+        "content": "기후 변화 대응을 위한 정책적 논의와 기술 개발 또한 활발히 진행되고 있습니다. COP31을 앞두고 호주가 협상을 주도함에도 불구하고 튀르키예가 '최종 결정권'을 주장하며 국제 기후 협상의 복잡성을 드러냈습니다 [25]. 한편, 주유구가 있지만 엔진이 바퀴를 직접 돌리지 않고 기름을 태워 전기를 생산하여 모터를 구동하는 EREV(Extended Range Electric Vehicle)가 등장하며, 이것이 과연 친환경적인지 혹은 시장의 '진통제'인지에 대한 논란이 제기되고 있습니다 [15]. 이러한 상황 속에서 기후 변화에 대한 정확한 사실이 필요하다는 독자 투고와 같은 목소리는, 정보의 중요성과 대중의 이해를 높여야 할 필요성을 강조합니다 [26].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘의 브리핑은 기후 위기의 심각성과 이에 대한 다양한 대응 노력, 그리고 여전히 존재하는 도전 과제들을 조명했습니다. 정확한 정보와 국제적인 협력, 그리고 기술 혁신을 통해 지속 가능한 미래를 향한 노력을 멈추지 않아야 할 것입니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "소녀 위로한 '나는 반딧불'…기후위기엔 살아남을까 [황덕현의 기후 한 편] - 뉴스1",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdFNodFlXSTRzdF9xb2UxcXZzRzBSMTQzSTBjYkdVVDNLRHo4UDFwM3BBQnRZS0xfSmEtR0JKc3BQVW5OQVhfQkNSeVo2ZUFxVFowZ3MxZlZVOUHSAWBBVV95cUxQSU5TWU40bGlTZ25uVXFRMkRlTnNRUUdxWVJoZmN3Nmx6Zlo0VzhGUWlEdnBaRFV5WWNtMkdIdnMyb2hiSVFKZF9kQWdOS1Z1bHdNNDRTVk9qcXNMdXRlMW8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T22:30:00",
+      "description": "소녀 위로한 '나는 반딧불'…기후위기엔 살아남을까 [황덕현의 기후 한 편] 뉴스1",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "반딧불",
+        "생존",
+        "소녀",
+        "칼럼"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "[날씨칼럼] 기후위기 시대, 달라지는 가을 - 국제신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWJ0TGRkUXZnQjF0Wl9VQngxUHdHM2hyOV83Q192VTlfSTI0QkQzVS02NjlYSUVzQnoxcGV1cEtJdWd2NE5BUlppU2xaaHZvZEpSYnl0djYtVkJaS0hUMTNYUDkxZDA2Wk4xckpaUk9qa2ZLc1pXRlU0VFBJR3cxTkFhMkM4a0lkT0QxUHlyMnVJSnc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T22:30:00",
+      "description": "[날씨칼럼] 기후위기 시대, 달라지는 가을 국제신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후위기",
+        "가을",
+        "변화",
+        "날씨",
+        "시대"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "물고기 양식도 기후변화 대응해야…여주서 내수면 산업 미래 논의 - 팔당유역신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3MUxiRTN1aFFEY2xRMkdZeHZLZjJqbXQzX292RUxXa3RKSm1ieTA3bVlabHEyZHRpeDI0Z2kxMDYxVUlwNjJhTWZBcTFGOThiVFc0VDRzS3VEeDRiWVFWTHBQMjd5YUNDdnZj?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T12:21:01",
+      "description": "물고기 양식도 기후변화 대응해야…여주서 내수면 산업 미래 논의 팔당유역신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "물고기 양식",
+        "기후변화",
+        "내수면 산업",
+        "대응",
+        "미래 논의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "[청북중] 기후변화로 더 심해지는 이상기후 - 우리학교신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1aTXRCNHVERjBwU2J5TTdfWTZYNllHeDhxSmFDNGtBazdpTUN5T3VPRGdPUFlJQmluYmJHWlpZeUhtRzE5emNHWmFYeGVGUGg1?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T11:28:00",
+      "description": "[청북중] 기후변화로 더 심해지는 이상기후 우리학교신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후변화",
+        "이상기후",
+        "심화",
+        "재난",
+        "환경문제"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "[최민성의 미래 읽기] 회색 도시에서 초록의 생태 도시로: 네덜란드 위트레흐트의 17년이 건네는 탄소중립 시사점과 한국의 과제 - 한국금융신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KUmNZQkxTX1VGWVNqLUljSnlGNzVYRGd1X0s3TzIwcWdkUkp4WTYtQ2NUZ05QTW1MY1AzUkI0MFpINElmTkVvVWM4WTRhRVF6UTY1T181UG52QTdrZTdzdXQ4UUNxX191NDVVVHhRR0UtWkNhSF9NNkxzVVA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T21:00:00",
+      "description": "[최민성의 미래 읽기] 회색 도시에서 초록의 생태 도시로: 네덜란드 위트레흐트의 17년이 건네는 탄소중립 시사점과 한국의 과제 한국금융신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "위트레흐트",
+        "탄소중립",
+        "생태 도시",
+        "한국의 과제",
+        "도시 전환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "아산시 탄소중립지원센터, 어린이집 원장 대상 탄소중립·이에스지(ESG) 교육 - 아산데스크",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ua2VGRjdYT0Fscnk2SHhxbUZlcGRrbWtBSHRMcGlydVBicFF1dmVubDlRMG9xcnU4eTVRcm45bVhnREJQaDNFbXp3RHh4dDFvN3pjM1ZBMWlMeXR1NG8tMGROTzRSMTFna3Fr?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T13:51:27",
+      "description": "아산시 탄소중립지원센터, 어린이집 원장 대상 탄소중립·이에스지(ESG) 교육 아산데스크",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "아산시",
+        "탄소중립지원센터",
+        "어린이집 원장",
+        "탄소중립",
+        "ESG 교육"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "한전KPS, 조선대와 청년주도형 ‘ESG Youth-lab’ 발대식 - 한국전력신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YTnNNeTV0N0pVUlg1eU0tcVJXdm5nUDNkMHl6NGpzM0NEOTVmVVJ5YzFkSWdheHd2WVRQRm9IRmttUExhUjZ0Z0R6ZW5mTTlhSV9aNU4zYzdXSEdTNVRPTGZ5b3JZLUtfREE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T11:45:33",
+      "description": "한전KPS, 조선대와 청년주도형 ‘ESG Youth-lab’ 발대식 한국전력신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한전KPS",
+        "조선대",
+        "ESG Youth-lab",
+        "청년주도형",
+        "발대식"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소 - AI타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ZWNXSVJfLTlzT1lTS2Q2WWNDRWJ4bktOcDhLNmN4WEpueHc2UUNoRWhfeHpkYmsxWDNLUDR6NG55UTJxRGFoYzNBbzBZRnZma2FmWjgyVWNubDZIZGhjQ3YwRXFxSFo2UFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T00:40:00",
+      "description": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소 AI타임스",
+      "summary": {
+        "phenomenon": "미국에서 총 567건의 재생에너지 프로젝트가 반대에 부딪혔으며, 이 중 약 40%가 취소되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "미국",
+        "재생에너지",
+        "프로젝트",
+        "반대",
+        "취소"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "반도체 생산 확대에 전력·용수 부담↑…삼성·SK, 재생에너지·물 재이용 늘린다 - IT조선",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTktzOVFsT01FVHdFSHQ5a2dfRzdJZ1JzM1ZhQ0U0VGd5R3hfUXVZaEpKZ0tKX0ZCcnBJdnJ3TFprT1B6Y0NTMmZDY19TNE11NWxFY0pfczZBV0gzeTgtZzJzd0RjRzhWWURwVG11WjLSAXRBVV95cUxNOHlPdlZpRFRRSHRUclpiQTRMUUlDZDQ5V1kyR0djOFRhVHMtdWpocjhWR2xrOUF4V2diSTh5Y2Q1cUlfbG4wSnN5cUZqRmtETDN0NWJ6RFprNTN6aHpfSW1oTnNRLWl0TkNreE9GZTFXMXMwcQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T23:00:00",
+      "description": "반도체 생산 확대에 전력·용수 부담↑…삼성·SK, 재생에너지·물 재이용 늘린다 IT조선",
+      "summary": {
+        "phenomenon": "반도체 생산 확대에 따라 전력 및 용수 부담이 증가하고 있다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "삼성과 SK는 증가하는 전력 및 용수 부담에 대응하기 위해 재생에너지 사용과 물 재이용을 늘릴 계획이다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "반도체",
+        "전력",
+        "용수",
+        "재생에너지",
+        "물 재이용"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "비비안, 광림과 신재생에너지 사업 MOU 체결 : 네이버 블로그 - Naver Blog",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMHBCZlpPZF9wckJsb0xfSnhWMThWUXl1ZHg4N2R3WVo2VjZlOVBrcXp6dHMxNTFTNWwxYXRFTkVUeTBWc19PRmdRZ1BsOUgwZTg1R2tCOUs5dlAyLVFQN1R1RVJYRmRUMHNTZXVudWRsV0ZfbEVtbXhGdUhvVC1EMWhEWDBMUmRvbGkxVVVBYw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T20:29:59",
+      "description": "비비안, 광림과 신재생에너지 사업 MOU 체결 : 네이버 블로그 Naver Blog",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "비비안",
+        "광림",
+        "신재생에너지",
+        "MOU 체결",
+        "사업"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "제프리스 재생에너지 컨퍼런스: 성장 베팅 및 국방 강화 전략 공개한 에너시스 - Investing.com 한국어",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SRUc4ZXhfaEk2WElIMGZHdHhQSjNmYzJWblF3NGxpYTY0bW51WnFNcDJUbjczWlMySHJJcVA1VFJKSlhJS28xMWRVQXVTWW1DbVlfNVZadTNzOEZQaTJnMy1JZHBvMjRpcG1QWHllOA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T15:18:00",
+      "description": "제프리스 재생에너지 컨퍼런스: 성장 베팅 및 국방 강화 전략 공개한 에너시스 Investing.com 한국어",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "재생에너지",
+        "에너시스",
+        "컨퍼런스",
+        "성장",
+        "국방 강화"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "중부발전, LS ELECTRIC과 재생에너지 전주기 협력 맞손 - 한국전력신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0djNxekdMQ3NacTRzZXRGSktjZlhEc3BGMUE4TkpFVXFWSWJjamNrTTJMQ3JCSExvV0V2eFJFc3ZrZkV0RGFSRzFCZnJEdDVqR0NudUFydS1DM3B2ZGFJS2JqRV9NNWVOTVE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T11:38:27",
+      "description": "중부발전, LS ELECTRIC과 재생에너지 전주기 협력 맞손 한국전력신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "중부발전",
+        "LS ELECTRIC",
+        "재생에너지",
+        "전주기 협력",
+        "협력"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "식품업계 공장 태양광·고효율 설비 확산 나선다 - 에너지신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tODBqOHFZMTFydzUyUGwyX19uaWxnUE1aUGctUkxBaXVTcTFZWDZvVFRGZVo2WnZueUtnRU9PVjMzRGN0R0sxYzB5TjhaWlhMek5KUmd2SjhScDhfdDlZd0FVQm1wQlBHc05COEpKd1V5UQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T11:04:11",
+      "description": "식품업계 공장 태양광·고효율 설비 확산 나선다 에너지신문",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "식품업계",
+        "공장",
+        "태양광",
+        "고효율 설비",
+        "확산"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "14",
+      "title": "대전 동구, 2027년 재생에너지 융복합지원사업 A등급 선정 - webeconomy.co.kr",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ISzd1ZURMLUE1eXpNRVdrNGI1dlZTOWR1MUppMnhoWjhFMmlrM19XdXhQQlJDSTR6bmx2cmsyMi1ndE10X0lOT3BLdDdCSEJpZXVRX0QwVTkybUlRSU4ydWtyenFuczY0RGVVcDFFM3EwZw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T12:09:46",
+      "description": "대전 동구, 2027년 재생에너지 융복합지원사업 A등급 선정 webeconomy.co.kr",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전 동구",
+        "2027년",
+        "재생에너지",
+        "융복합지원사업",
+        "A등급 선정"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "15",
+      "title": "[산업이(異)면]‘기름 넣는 전기차’ 쏟아진다는데…친환경일까, 캐즘이 낳은 ‘진통제’일까?",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202609120900011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-09-12T00:00:01",
+      "description": "‘주유구 있지만 엔진은 바퀴를 돌리지 않는다’배터리 줄여 무게·원가 덜고 960㎞ 달리는 EREV대형 SUV·픽업 ‘타협점’美 배출규제 완화·EU 기술중립 선회로 수명 연장?‘임시방편’ 넘어 ‘징검다리’로주유구는 분명히 있는데 엔진은 바퀴를 돌리지 않는다. 기름을 태워 전기를 만들고, 그 전기로 모터를 돌려 달린다. 가속 페달을 밟았을 때의 정숙성과 매끄러···",
+      "summary": {
+        "phenomenon": "주유구가 있지만 엔진이 바퀴를 직접 돌리지 않고, 기름을 태워 전기를 생산하여 모터를 구동하는 EREV(Extended Range Electric Vehicle)가 등장하고 있다. 이 차량들은 배터리 크기를 줄여 무게와 원가를 절감하고 최대 960km를 주행할 수 있다.",
+        "cause": "EREV는 배터리 크기를 줄여 차량의 무게와 원가를 낮추면서도 긴 주행 거리를 확보하기 위한 타협점으로 개발되었다. 이는 대형 SUV 및 픽업트럭 시장에서 특히 유용하다.",
+        "outlook": "EREV는 미국 배출규제 완화 및 EU의 기술 중립 선회와 맞물려 수명이 연장될 가능성이 있으며, 임시방편을 넘어 전기차로의 전환을 위한 징검다리 역할을 할 수 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "16",
+      "title": "유엔, 기후 변화 대응 정치적 분열이 경제 안정 위협 경고",
+      "original_title": "UN warns political division in addressing climate change threatens economic stability - Jurist.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWtBVzhRdGpNVDhPQnpua3NLcEVYOWRKY05CeV9sNFg0YWlqYlVvb2UtYnF6bjRDbThxTkM4UUpaZVUyM3drTzNKZnFYdHYxVV9NUGQzRnZkSlpNWXFleURieFNySzJYdmVBb2toYTZ1UXc5NDJwbkEyWV9UZnBuWUlHcGNDbGtqamMtSXo4M1RoVExJR0NHam51dXdXSWk2YVFJeGhyY3V5RzZ6NE05Z3lNVFQ2UFkwV1F5dkhFbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T20:09:36",
+      "description": "UN warns political division in addressing climate change threatens economic stability Jurist.org",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유엔",
+        "정치적 분열",
+        "기후 변화",
+        "경제 안정",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "17",
+      "title": "States’ Human Rights Obligations in the Context of Climate Change: Guidance Provided by the UN Human Rights Treaty Bodies (September 2026) - Center for International Environmental Law | CIEL",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KbXozMWN2Y2Q4QnFOQUtMdUU5ZUEtZTVFY2J5Q25MZ0F4OWtkdlpQYkFkNG9kZm55OVdncG9HQVBLVXFtMnJqMGx6YmJTR2VrMXl3b3A5SDlQOVM3T0xvRkJ5b2ZueWZyNHdSWWZ3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T15:14:18",
+      "description": "States’ Human Rights Obligations in the Context of Climate Change: Guidance Provided by the UN Human Rights Treaty Bodies (September 2026) Center for International Environmental Law | CIEL",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "18",
+      "title": "캐나다에서 사업하기: 캐나다의 환경 및 기후변화 법률 - 덴튼스",
+      "original_title": "Doing business in Canada: Environmental and climate change law in Canada - Dentons",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFJvdUZXNXNqLXVOZnNuNmsyZmhxLTJuUGtPMHY4T2RyZDV1cXUxWjZQZW1wc1RXNmVtVFJrNEVPa2FZTlVxM0tDeW1aWmFjblZVTGtqQ0szZHpuUXdwQmc5alJfZEN1WnlGWXM2OFN6M0JkNHRKSUlVVlJWa0Z3ZUQ5NHZhQ1FkWE5TTGs5TFA0NDA0QUZ5UVBfTG5DMEo4WFhRcjZjRFJONWJ2RFJ5aWo1RUlDZWtYcEI1TmZWT3FWLTQxT0dkT1FTeVJrMk0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T14:26:52",
+      "description": "Doing business in Canada: Environmental and climate change law in Canada Dentons",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "캐나다",
+        "비즈니스",
+        "환경법",
+        "기후변화",
+        "법률"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "19",
+      "title": "기고문: 최근 날씨가 기후 변화 개혁을 촉진할 수 있다",
+      "original_title": "Letter: Recent weather can spur climate change reform - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeld0WTg2OXFMY0VXSlVmUmFPdWNjSkYteWlheHg3dnpVRDFOMkpmY1ZoU29Razd0VHM2VktTcGNHelhNS2wyWVFwYnppRGhBWk5VdW5xemVqeTZ1WnNwdTU3bGdNRlhHX3Z2ank2YlFLWWdVanpYaFdHSmtKVTRSczNqWTFDVTRvS0lCNnF0Mnltb09kS1JGRUZtLXhnMlgtc29pS3RCLTlvZzB1OFRycEt2SQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T10:22:18",
+      "description": "Letter: Recent weather can spur climate change reform Honolulu Star-Advertiser",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "최근 날씨",
+        "기후 변화",
+        "개혁",
+        "촉진",
+        "기고문"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "20",
+      "title": "노후화된 미국 수자원 시스템, 기후 변화에 역부족",
+      "original_title": "Aging US Water Systems Are No Match for Climate Change - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblU3NDRjUjhxOHZQTk9veEdMVlExTGl6MnBIb0Z1XzlZbjl2a1lXV21FTnBReEhsRmFzY3NEZU1mR3EtVUVGQkJTNWxlMmJGY1BxZ0xhTV9DNWJwaVB1VkNhczFHcXBvV2lSdmFhcmg4ckJnbmxha2lNX2ZHODhNZExEZ2tybEVyd1JlZ1g3Y2tnZEZPcE9DRHVPcmRqVmdOd3NkNExWd1RObFljM0xyNQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T11:31:46",
+      "description": "Aging US Water Systems Are No Match for Climate Change Bloomberg.com",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "미국",
+        "수자원 시스템",
+        "노후",
+        "역부족"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "21",
+      "title": "독자 투고: '불편한 진실' 이후 20년이 지났지만 기후 변화는 여전히 의문시된다 - 로스앤젤레스 타임스",
+      "original_title": "Letters to the Editor: It’s been 20 years since ‘Inconvenient Truth’ and climate change is still questioned - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblg4MHY0WXdQZXBrYU1TR3BTeG5pMy1SQXNURktXOU0tLXpKcW5IRTE2VDhwMnFHTDlmNzNaUFhQamZwbzNLQllOZnhLZzhDcDMxbjBTQVdEeGVzV3c0d1lhQllZX3FlRW9MSncteEloZ1lKZ0FnQTJjU1hEbFhmZldFakVaek0yZDJDS1RQOFV4eWRjU0VkdldLcm5XTkpjYjA5d2prLTU0T0VqQ291akN6dw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T13:00:00",
+      "description": "Letters to the Editor: It’s been 20 years since ‘Inconvenient Truth’ and climate change is still questioned Los Angeles Times",
+      "summary": {
+        "phenomenon": "'불편한 진실'이 개봉된 지 20년이 지났음에도 불구하고 기후 변화에 대한 의문이 여전히 제기되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "불편한 진실",
+        "기후 변화",
+        "회의론",
+        "독자 투고",
+        "20년"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "22",
+      "title": "Newport symposium on Pacific gray whales misses one key discussion — climate change - Lincoln Chronicle",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHZmMjlEMlRCLVpfZm85M2xBMi1LdF9GN1NrNUF4LUNKc0tmWUE0ckVnVG9tWlBCNzhqOThiTExBOW14NkxVU3plZ2d2cm5MNWNjRGYtVi1oRUJMUHlvektkRVpVOFhKSmgtMTZiRTN4UkJ6R2xYYWFfeU01UFNVZUxFNDFRZHZDRjlHR2pXNGZOaW1hT0tXYzc5MDdRLVBIejBfNHVOY0dQRkJ3X2luVg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T22:53:25",
+      "description": "Newport symposium on Pacific gray whales misses one key discussion — climate change Lincoln Chronicle",
+      "summary": {
+        "phenomenon": "뉴포트에서 열린 태평양 회색고래 심포지엄에서 기후 변화에 대한 핵심적인 논의가 누락되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "23",
+      "title": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' - Business Insider",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T18:25:00",
+      "description": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change' Business Insider",
+      "summary": {
+        "phenomenon": "Hugging Face CEO는 Anthropic 연구원의 AI 경고에 대해 '에어컨 수리공에게 기후 변화에 대해 묻는 것과 같다'고 비유하며 언급했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "24",
+      "title": "도미니카 공화국: 네덜란드, INTEC, 기후 변화 적응 해결책 모색 - 준설투데이",
+      "original_title": "Dominican Republic: The Netherlands, INTEC address climate change adaptation solutions - DredgingToday",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSy1zdVRvM19aTGVSYm04M2ZmRE5PLXNxWkVYNUxYQXNtVnFVelNJenh0ZENrOEhqMUR0N3hrTUxodHYyZC1QTGY3RG5iV2tzVklwbDVPWWtNM3BtMktFakJOcVJibktubTl1UEQxWFFNdVNaUnoyQlMxd1dYY1A5dXFsLUZNZVo5eHQxNnEyNUNocFZSdV8xZzhuVFlJdjVsOHRyeW4yaVB3ZHphNnhRajhPb3h4NldsTVBaUGx3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T10:00:31",
+      "description": "Dominican Republic: The Netherlands, INTEC address climate change adaptation solutions DredgingToday",
+      "summary": {
+        "phenomenon": "도미니카 공화국에서 네덜란드와 INTEC이 기후 변화 적응 해결책을 모색하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "도미니카 공화국",
+        "네덜란드",
+        "INTEC",
+        "기후 변화 적응",
+        "해결책"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "25",
+      "title": "튀르키예, 호주 협상 주도에도 COP31 '최종 결정권' 주장 - 기후 홈 뉴스",
+      "original_title": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations - Climate Home News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbDAyYXZHdmhldXlCLU9tOW1XZWpaNkRBYjRoWkRHSllkZW9EcDlkajhkYkc1a2VGbFNZZUZIMklaejVOX0NJNDR0THRfeDlSUFY3N2stQTNWd2tSRW84MVhjZHFnSTJQLUZicEFJaFNvNUJLdHpoT3M5bWtJRDR4b2N4eXFkc09rNGRqMUxTRzB4NVZOUF9nQW1DZXgwU1BWX25lZ0huT05OS1NYUlEwd0tNb1ZvNHlYQl9XT1NqMkg4YUVHQnpB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T10:53:05",
+      "description": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations Climate Home News",
+      "summary": {
+        "phenomenon": "호주가 협상을 주도함에도 불구하고 튀르키예가 COP31에서 '최종 결정권'을 가지고 있다고 주장했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "튀르키예",
+        "COP31",
+        "최종 결정",
+        "호주",
+        "협상"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "26",
+      "title": "Letter: Accurate facts needed on climate change - Terre Haute Tribune-Star",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObkVFdlBlZWh1c2tGX2MxcHNjT0ZkYllCS0FrTXdnSUh4OHdwdUVrUzgxLUxvV1BIazlLSXJoOU9FcS1mR3QwS2UwMC0yd2hBMVFxVTFfOVhIUThHc0RkSFpzR0lGenlSU0xxMlpWcWRGcFIzY1FPcGlCNThXMmI5dWNVMUdVQ2o3T2ZTd3NUWWVvMFV6eXh6enh1c2RONlppanlnMHVPanJSV3dvaWF3RjRDMndxRlF1T2dfLWRsbUt6NmNQTDQtUkxwb0lfZzY5TlM4RmZvcFRyNlBjbGxjZV9iX3BDZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T10:00:00",
+      "description": "Letter: Accurate facts needed on climate change Terre Haute Tribune-Star",
+      "summary": {
+        "phenomenon": "기후 변화에 대한 정확한 사실이 필요하다는 독자 투고가 있었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "27",
+      "title": "히코리 기고가: 축산업은 기후 변화의 주요 원인이다",
+      "original_title": "Hickory letter writer: Animal agriculture is a major contributor to climate change - Hickory Daily Record",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeW56ZnNZSy1TVGE3NnE4ZG5MYW8yazdZcVlZY3IyVlRRdndJS3M3eTFXaE54T1o3YjVMdmc0ejZxaHRFYXpuNXlBOFhyRHFZQWxXS0wwbDZBM1NreG9FVjVfUXptOEQ0ZnAxbU5sVnp1d3k3ejVkNUtqWWk3RE14S2V4dnRDb1JvY2drSjVMX2pwZGU2N3c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T11:00:00",
+      "description": "Hickory letter writer: Animal agriculture is a major contributor to climate change Hickory Daily Record",
+      "summary": {
+        "phenomenon": "히코리 지역의 한 기고가가 축산업이 기후 변화의 주요 원인이라고 주장했습니다.",
+        "cause": "축산업이 기후 변화의 주요 원인으로 지목되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "축산업",
+        "기후 변화",
+        "주요 원인",
+        "기고",
+        "온실가스"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "28",
+      "title": "기후 난민의 세상? 기후 변화, 이동성, 그리고 갈등 - DIIS",
+      "original_title": "A world of climate refugees? Climate change, mobility and conflict - DIIS",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1p3RDJYeXBqc05WLTd2dkFCdy13NzdVVHE3RXMxM3ZqdXZXUDRmSlN0MVJBYTQycVJzM3ZxMlRKTG8teEl2QUNDVy0zX0xuZTlnUHBQaWtwSWR1SXZqMk5zNF9SeF9fT0U2NktEQlBZOVRnTlF0UXVZcDVXa05EV3FLTXJDcmZzQnFjM21zNm1kcjk2ZW5QOQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T13:42:04",
+      "description": "A world of climate refugees? Climate change, mobility and conflict DIIS",
+      "summary": {
+        "phenomenon": "기후 변화, 이동성, 그리고 갈등이 '기후 난민의 세상'이라는 주제로 논의되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화로 인해 기후 난민이 발생하고 이동성 및 갈등이 증가할 가능성이 제기됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 난민",
+        "기후 변화",
+        "이동성",
+        "갈등",
+        "세계"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "29",
+      "title": "15% alcohol in champagne? Climate change is set to make you a little more tipsy - WION",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcllibWVKYmRXS3V6d3Rza2xHT2ZyYzE4TXZNSmhZZDNfV241V1lOamExbkNLOW1KR1lob2loMVJFS3ZLNVJiZjFMUThEdHhNc25Jc09qQ1A5N1J4WVI0Sm03UW1UczZuNHFtQUlxNUd1NXl3VUFGMkhOUEJfZDBfTGd2ZURIQm1xTHBDX2lJYlg1TnNQTW50cVVwMHrSAaIBQVVfeXFMT3ctNll5dU1pWDdQb3RfeEc3Wlhnal9xeV9xM2RjbjB5R3l2N1M2alVpRDR0a01KSkZiRUtaMXZUOGloWG5HSjJrU25URzB6YVV5UWNic09PbkhVMzIwbXEtZTFzeGgxcTVaM251SThBbC1CZ2xrU3d3ZEQyZ0ZyaDFDdU40Nk5EcHFadlZGcWZoSG1mV0JuZ3RZakxxWWtWTy1n?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T12:25:00",
+      "description": "15% alcohol in champagne? Climate change is set to make you a little more tipsy WION",
+      "summary": {
+        "phenomenon": "기후 변화로 인해 샴페인의 알코올 함량이 15%까지 증가할 수 있다는 전망이 나왔습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기후 변화로 인해 샴페인을 마시는 사람들이 더 쉽게 취할 수 있습니다."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "호주와 캐나다는 행동과 선언을 분리한다면 기후 문제에 대해 서로에게 배울 수 있다 | 로사 갈베즈",
+      "original_title": "Australia and Canada can learn from each other on climate if we separate action from declaration | Rosa Galvez",
+      "url": "https://www.theguardian.com/commentisfree/2026/sep/12/australia-canada-climate-integrity-summit-rosa-galvez",
+      "source": "guardian_climate",
+      "published_at": "2026-09-11T15:00:08",
+      "description": "Climate integrity means being honest about the gap between emissions reduced on paper and emissions reduced in the atmosphereCanada and Australia are both democracies built on abundant resources, extraordinary biodiversity and world-class science, with prosperity built substantially on mining, oil and gas. We are major fossil fuel exporters running an economic model incompatible with a stable climate, and living the consequences through worsening bushfires, floods and drought.As I prepare for th",
+      "summary": {
+        "phenomenon": "호주와 캐나다는 광업, 석유 및 가스에 기반한 경제 모델을 운영하며, 이로 인해 악화되는 산불, 홍수, 가뭄과 같은 기후 변화의 결과를 겪고 있습니다.",
+        "cause": "호주와 캐나다의 주요 화석 연료 수출과 광업, 석유 및 가스에 기반한 경제 모델이 안정적인 기후와 양립할 수 없어 기후 변화를 야기하고 있습니다.",
+        "outlook": "기후 변화로 인해 산불, 홍수, 가뭄이 더욱 악화될 것으로 예상됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "호주",
+        "캐나다",
+        "기후 변화",
+        "화석 연료",
+        "배출량"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "엘니뇨: 2026년 인도네시아 산불 배출량, 이번 세기 기록과 같아질 '궤도'에",
+      "original_title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+      "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+      "source": "carbonbrief",
+      "published_at": "2026-09-11T14:06:49",
+      "description": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the… The post El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "현재 인도네시아에서 대규모 산불이 발생하고 있으며, 이로 인한 배출량이 이번 세기 기록과 같아질 궤도에 있다.",
+        "cause": "엘니뇨 현상이 원인으로 지목된다.",
+        "outlook": "2026년 인도네시아 산불 배출량은 이번 세기 기록과 같아질 것으로 전망된다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "엘니뇨",
+        "인도네시아",
+        "산불",
+        "배출량",
+        "기록"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "32",
+      "title": "팩트체크: 리폼 UK의 기후 및 에너지 관련 45가지 허위 또는 오해 주장",
+      "original_title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
+      "url": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
+      "source": "carbonbrief",
+      "published_at": "2026-09-11T10:12:49",
+      "description": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing… The post Factcheck: Reform UK’s 45 false or misleading claims about climate and energy appeared first on Carbon Brief.",
+      "summary": {
+        "phenomenon": "영국 정치에서 주요 세력으로 부상한 리폼 UK가 기후 및 에너지와 관련하여 45가지 허위 또는 오해의 소지가 있는 주장을 펼쳤다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "팩트체크",
+        "리폼 UK",
+        "기후 및 에너지",
+        "허위 주장",
+        "나이젤 패라지"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 32,
+    "domestic_count": 15,
+    "international_count": 17,
+    "top_keywords": [
+      "기후 변화",
+      "재생에너지",
+      "기후변화",
+      "기후위기",
+      "탄소중립"
+    ],
+    "sentiment_breakdown": {
+      "positive": 12,
+      "negative": 12,
+      "neutral": 2
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}
