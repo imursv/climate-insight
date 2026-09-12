@@ -1,0 +1,894 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:58:34.795871",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for September 12, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Escalating Climate Crisis Warnings and Widespread Impacts",
+        "content": "News collected today warns that climate change is reshaping our future [1], with its impacts manifesting across ecosystems and human lives. In the face of the climate crisis, questions are being raised about the survival prospects of species like fireflies [2], and observations suggest that the appearance of autumn is also changing [5]. A healthcare coalition has declared climate change a public health emergency [26, 30], and health-related concerns are growing, including increased awareness of its effects on reproductive health [28]. Specifically, a rise in industrial accident claims for heat-related illnesses in workplaces due to heatwaves has been observed [7], and in the UK, heatwaves have led to recommendations to remove cauliflower from Sunday roast menus [35], confirming direct impacts on food and labor environments.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌱 Domestic and International Efforts for Carbon Neutrality and Renewable Energy Transition",
+        "content": "Various domestic and international efforts for carbon neutrality and renewable energy transition to address the climate crisis are gaining attention. Hankook Gim Yukmyo Co., Ltd. aims to achieve carbon neutrality through seaweed seed and seedling technology [11], and Tien Phong Plastic is also moving towards carbon neutrality through ESG management [12]. Among domestic local governments, Daejeon Dong-gu has received an A grade in renewable energy projects [17, 22], showcasing excellent examples, while Seoul and Chungnam are contributing to carbon neutrality through renewable heat and refrigerant management [10]. Internationally, China is accelerating its energy transition by constructing large-scale solar power facilities in deserts [19], and Utrecht in the Netherlands offers insights into achieving carbon neutrality by transforming from a 'gray city' to a 'green ecological city' over 17 years [13]. Furthermore, companies are expanding the use of renewable energy and water recycling to cope with the burden of electricity and water consumption due to increased semiconductor production [20].",
+        "tone": "positive"
+      },
+      {
+        "title": "⚠️ Practical Challenges and Policy Issues in Renewable Energy Transition",
+        "content": "Despite the importance of renewable energy transition, practical challenges and policy issues are coming to the forefront. Participants in a climate justice march in downtown Changwon urged an accelerated transition to renewable energy [14, 16], and while policies to expand renewable energy are being promoted, questions have been raised about the timeline for reducing fossil fuel power generation [15]. In the United States, social acceptance issues have emerged, with a total of 567 renewable energy projects facing opposition, leading to approximately 40% being canceled [18]. Additionally, with the emergence of 'electric vehicles that use fuel,' it is time to discuss their environmental friendliness and the background behind this trend [25]. The United Nations Framework Convention on Climate Change (UNFCCC) identified grids, ESS, methane, and waste as key agenda items for COP31, stating that increasing solar energy alone is insufficient [23], thereby emphasizing the need for an integrated approach.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 International Community's Search for Climate Change Response Strategies",
+        "content": "The international community is exploring strategies to address climate change while emphasizing the importance of political and social cooperation. The UN warns that political divisions in climate action threaten economic stability [27], underscoring the need for global collaboration. A healthcare coalition is raising awareness of the severity of climate change by defining it as a public health crisis [26, 30]. Meanwhile, various stakeholders, including institutions, governments, and grassroots waste pickers, are seeking ways to contribute in their respective areas, such as urging accelerated waste management as a strategy to combat climate change [33]. However, concerns remain that the importance of climate issues may still be overlooked in some areas, as evidenced by reports of 'climate change' being omitted from key discussions at the Pacific Gray Whale Symposium in Newport [31].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "In today's briefing, we examined the escalating warnings of the climate crisis, the diverse domestic and international efforts to address it, and the challenges in the transition to renewable energy. Climate change is a complex issue that demands global cooperation and a multifaceted approach. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "As the Climate Changes… The Future Changes - v.daum.net",
+      "original_title": "기후가 바뀌면… 미래가 바뀐다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvMkt6LTl6dmdkNEhSMTgxUERhZzZiOUVJMnNQc0ZFNkJnRWliMEFxd29yYkRnT0U1WHpxVzk3bEVodGVCMmFWOEtLXzVIdGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T21:02:00",
+      "description": "As the Climate Changes… The Future Changes v.daum.net The Earth is Alive… As Long as We Don't Give Up Chosun Ilbo Climate Change, Neither Optimism Nor Pessimism… “A Crisis That Can Be Solved” [Book Review] Munhwa Ilbo",
+      "summary": {
+        "phenomenon": "The article generally mentions that the climate is changing, but specific figures, regions, or timeframes are not provided.",
+        "cause": "The article mentions 'climate change' but does not specifically explain its scientific causes or background.",
+        "outlook": "Climate change is presented as a factor that will alter the future, and it is described as 'a crisis that can be solved,' suggesting its solvability."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "Future",
+        "Crisis",
+        "Solution",
+        "Earth"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후가 바뀌면… 미래가 바뀐다 v.daum.net지구는 살아있다… 우리가 포기하지 않는 한 조선일보기후변화, 낙관도 비관도 말라… “해결할 수 있는 위기”[북리뷰] 문화일보"
+    },
+    {
+      "id": "2",
+      "title": "'I Am a Firefly' That Comforted a Girl… Will It Survive the Climate Crisis? [Hwang Deok-hyun's Climate Piece] - News1",
+      "original_title": "소녀 위로한 '나는 반딧불'…기후위기엔 살아남을까 [황덕현의 기후 한 편] - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tdFNodFlXSTRzdF9xb2UxcXZzRzBSMTQzSTBjYkdVVDNLRHo4UDFwM3BBQnRZS0xfSmEtR0JKc3BQVW5OQVhfQkNSeVo2ZUFxVFowZ3MxZlZVOUHSAWBBVV95cUxQSU5TWU40bGlTZ25uVXFRMkRlTnNRUUdxWVJoZmN3Nmx6Zlo0VzhGUWlEdnBaRFV5WWNtMkdIdnMyb2hiSVFKZF9kQWdOS1Z1bHdNNDRTVk9qcXNMdXRlMW8?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T22:30:00",
+      "description": "'I Am a Firefly' That Comforted a Girl… Will It Survive the Climate Crisis? [Hwang Deok-hyun's Climate Piece] News1",
+      "summary": {
+        "phenomenon": "The article raises questions about the survival of fireflies in the context of the climate crisis, but specific changes in firefly populations or phenomena in particular regions are not detailed.",
+        "cause": "The article mentions 'climate crisis' as a threat to firefly survival but does not elaborate on specific scientific causes or background.",
+        "outlook": "The survival of fireflies is uncertain due to the climate crisis, and concerns about their future are expressed."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Firefly",
+        "Survival",
+        "Girl",
+        "Hwang Deok-hyun"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "소녀 위로한 '나는 반딧불'…기후위기엔 살아남을까 [황덕현의 기후 한 편] 뉴스1"
+    },
+    {
+      "id": "3",
+      "title": "AI Steps Up as a Climate Change Solver [Tech Trend] - v.daum.net",
+      "original_title": "기후변화 해결사로 나선 AI[테크트렌드] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZc05wRkE5dU55S1UydVFVQ2cyQ3BiNXl4aDJPZ1ZMYy1OTl9Bd1dWdVFfZE1OWFVEcWpzNlA2TUJOWkFkdEFTMmM4ekVrOGM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T06:37:00",
+      "description": "AI Steps Up as a Climate Change Solver [Tech Trend] v.daum.net",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "AI is emerging as a solution provider for climate change, expected to play a positive role in climate change response."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Change",
+        "AI",
+        "Solver",
+        "Technology",
+        "Trend"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화 해결사로 나선 AI[테크트렌드] v.daum.net"
+    },
+    {
+      "id": "4",
+      "title": "Korea-Malaysia Discuss Cooperation on Climate Change Response - acn-news.com",
+      "original_title": "한·말레이시아, 기후변화 대응 협력 논의 - acn-news.com",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRblVzUmtkanNOQy1vMXhsYTh4bVZNai04Z0pUU20zUU1aYTdlVGZOckhmd3kxa2RwOGo4RFFraXBFNVZ3d201NGYyY1VQMzlzcGtYQUltZjVncHF1ajZyWU54QVhwZ2xY?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T11:11:44",
+      "description": "Korea-Malaysia Discuss Cooperation on Climate Change Response acn-news.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Korea and Malaysia are discussing cooperation on climate change response, anticipating strengthened climate action between the two nations in the future."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea-Malaysia",
+        "Climate Change",
+        "Response",
+        "Cooperation",
+        "Discussion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한·말레이시아, 기후변화 대응 협력 논의 acn-news.com"
+    },
+    {
+      "id": "5",
+      "title": "[Weather Column] The Changing Autumn in the Era of Climate Crisis - Kookje Shinmun",
+      "original_title": "[날씨칼럼] 기후위기 시대, 달라지는 가을 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNWJ0TGRkUXZnQjF0Wl9VQngxUHdHM2hyOV83Q192VTlfSTI0QkQzVS02NjlYSUVzQnoxcGV1cEtJdWd2NE5BUlppU2xaaHZvZEpSYnl0djYtVkJaS0hUMTNYUDkxZDA2Wk4xckpaUk9qa2ZLc1pXRlU0VFBJR3cxTkFhMkM4a0lkT0QxUHlyMnVJSnc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-11T22:30:00",
+      "description": "[Weather Column] The Changing Autumn in the Era of Climate Crisis Kookje Shinmun",
+      "summary": {
+        "phenomenon": "The article mentions that autumn is changing in the era of climate crisis, but specific patterns of change (e.g., temperature shifts, duration changes) are not detailed.",
+        "cause": "The changes in autumn are attributed to the 'era of climate crisis,' but specific scientific causes or background are not mentioned in the article.",
+        "outlook": "As the climate crisis persists, changes in autumn are expected to continue."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Autumn",
+        "Change",
+        "Weather Column",
+        "Era"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[날씨칼럼] 기후위기 시대, 달라지는 가을 국제신문"
+    },
+    {
+      "id": "6",
+      "title": "[International Agriculture] The Science of Tree Shade: Microclimate Buffering Effect of Agroforestry in Overcoming Climate Crisis - digitalorganic.net",
+      "original_title": "[해외농업] 나무가 만든 그늘의 과학, 기후위기 극복하는 혼농임업의 미기후 완충 효과 - digitalorganic.net",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LUm5ZZFI4bXg4MWl5M0FhMFpjb3JwaFdzM1k0ZHk5c05HUFlnTW5uMmpGRjVpQnpHVlpselpnVUhzQXFJU2MwNWNUcTFHUHNLQVJTUnhiSkE1bXRJY1lDQnVrS0NQemRvMWxGWThWU281Zw?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T02:12:33",
+      "description": "[International Agriculture] The Science of Tree Shade: Microclimate Buffering Effect of Agroforestry in Overcoming Climate Crisis digitalorganic.net",
+      "summary": {
+        "phenomenon": "[International Agriculture] The science of tree shade created by trees, and the microclimate buffering effect of agroforestry in overcoming the climate crisis digitalorganic.net",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Agroforestry",
+        "Climate Crisis",
+        "Microclimate",
+        "Tree Shade",
+        "Buffering Effect"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[해외농업] 나무가 만든 그늘의 과학, 기후위기 극복하는 혼농임업의 미기후 완충 효과 digitalorganic.net"
+    },
+    {
+      "id": "7",
+      "title": "[Global Warming] Workplaces with Increased Heatwave Risk… 4x Increase in Heat-Related Illness Industrial Accident Claims, Mitigation and Adaptation Challenges - bizjoongang.co.kr",
+      "original_title": "[지구온난화] 폭염 위험 커진 일터…온열질환 산재 신청 4배, 감축·적응 과제 - bizjoongang.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBobkNQby1TNDhXSjA4R2NPa1RnWEhJYm53b05hQ05wZXdXYzJuNDh3SnlHNUxIbW4waFlZTF9MMy1xQ3JUMm5HR3RoQlZsTEd1TGVUQ1E4dW9rTlgxelhNbUZpNVc5T0pmYlhkNG1Ybnc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T07:00:36",
+      "description": "[Global Warming] Workplaces with Increased Heatwave Risk… 4x Increase in Heat-Related Illness Industrial Accident Claims, Mitigation and Adaptation Challenges bizjoongang.co.kr",
+      "summary": {
+        "phenomenon": "[Global Warming] Workplaces with increased heatwave risk… 4x increase in heat-related illness industrial accident claims, mitigation and adaptation challenges bizjoongang.co.kr",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global Warming",
+        "Heatwave",
+        "Workplace",
+        "Heat-Related Illness",
+        "Industrial Accident"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[지구온난화] 폭염 위험 커진 일터…온열질환 산재 신청 4배, 감축·적응 과제 bizjoongang.co.kr"
+    },
+    {
+      "id": "8",
+      "title": "“Food Industry Straining Under Electricity Costs Seeks Breakthrough in Solar Power” - Food & Drug News",
+      "original_title": "“전기료에 허리 휘는 식품업계, 태양광으로 돌파구 찾는다” - 식약일보",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNbzA3Skx6ZGk1RU5Xell5Z2ZVZWt6LVNtS3RqRHRMbTNFQ2ZyNUMyRGpQbEg5SDh3dVNF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T05:30:00",
+      "description": "“Food Industry Straining Under Electricity Costs Seeks Breakthrough in Solar Power” Food & Drug News",
+      "summary": {
+        "phenomenon": "“Food industry straining under electricity costs seeks breakthrough in solar power” Food & Drug News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Food Industry",
+        "Electricity Costs",
+        "Solar Power",
+        "Breakthrough",
+        "Cost Burden"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“전기료에 허리 휘는 식품업계, 태양광으로 돌파구 찾는다” 식약일보"
+    },
+    {
+      "id": "9",
+      "title": "Nepal Himalayan Great Flood, Whose Responsibility Is Greater? - Our Culture News",
+      "original_title": "네팔 히말라야 대홍수, 누구의 책임이 큰가? - 우리문화신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0hXWnpuT0lqeXExbWVLSXdvY2Q0dWJmc1ZjTF81T1ltX2c4U0l0bzh1QzRQQUVaMzNfb0xCSk11RWEtWHQzZDBPbl9kVENLN1dDZy1SX3I5d3RBTE9lMzl0XzRkd0U?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-12T02:34:52",
+      "description": "Nepal Himalayan Great Flood, Whose Responsibility Is Greater? Our Culture News",
+      "summary": {
+        "phenomenon": "Nepal Himalayan great flood, whose responsibility is greater? Our Culture News",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nepal",
+        "Himalayas",
+        "Great Flood",
+        "Responsibility",
+        "Disaster"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "네팔 히말라야 대홍수, 누구의 책임이 큰가? 우리문화신문"
+    },
+    {
+      "id": "10",
+      "title": "Seoul's Renewable Heat and Chungnam's Refrigerant Management Selected as Local Government Carbon Neutrality Best Practices - hvacrj.co.kr",
+      "original_title": "서울 재생열·충남 냉매관리, 지방정부 탄소중립 우수사례 선정 - hvacrj.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mekNxaWZyNzJIYmNvZS1kdzBpUkhQTE8xWDl2VW96NWpNMnNIZGNHcC1TVVBUeWVFQUVqcmNvbHdpSWZFZGZxRmZiZUt5N3pEWXMxTkRfbkRoeWxYeGFaaVNHbWNJdmx1NHc?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-12T07:38:17",
+      "description": "Seoul's Renewable Heat and Chungnam's Refrigerant Management Selected as Local Government Carbon Neutrality Best Practices hvacrj.co.kr",
+      "summary": {
+        "phenomenon": "Seoul's renewable heat and Chungnam's refrigerant management selected as local government carbon neutrality best practices hvacrj.co.kr",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seoul Renewable Heat",
+        "Chungnam Refrigerant Management",
+        "Local Government",
+        "Carbon Neutrality",
+        "Best Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "서울 재생열·충남 냉매관리, 지방정부 탄소중립 우수사례 선정 hvacrj.co.kr"
+    },
+    {
+      "id": "11",
+      "title": "Korean Seaweed Seedling Co., Ltd. Selected for 'Net-Zero Challenge,' Emerging as a Climate Tech Company Achieving Carbon Neutrality with Seaweed Seed and Seedling Technology - Hankyung Magazine & Book",
+      "original_title": "한국김육묘㈜, '넷제로 챌린지' 선정, 김 종자·육묘 기술로 탄소중립 실현하는 기후테크 기업 도약 - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PTzJvdmtXcHBCUW1tY1hTVm1fdTQyOHlXeWExaXdOeFU3MEZJM254ZTlaUTEyRXNEM0JIdTQyVmNtczV6UmV0NU9IcVZlUEdDX2VMMVg3WW9UOExmN3VXMmJYX0c4WUdsWkM0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-12T05:12:00",
+      "description": "Korean Seaweed Seedling Co., Ltd. Selected for 'Net-Zero Challenge,' Emerging as a Climate Tech Company Achieving Carbon Neutrality with Seaweed Seed and Seedling Technology Hankyung Magazine & Book",
+      "summary": {
+        "phenomenon": "Korean Seaweed Seedling Co., Ltd. has been selected for the 'Net-Zero Challenge' and is utilizing seaweed seed and seedling technology to emerge as a climate tech company achieving carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korean Seaweed Seedling",
+        "Net-Zero Challenge",
+        "Carbon Neutrality",
+        "Climate Tech",
+        "Seaweed Seed and Seedling Technology"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국김육묘㈜, '넷제로 챌린지' 선정, 김 종자·육묘 기술로 탄소중립 실현하는 기후테크 기업 도약 한경매거진&북"
+    },
+    {
+      "id": "12",
+      "title": "Tien Phong Plastic is Advancing Towards Carbon Neutrality by Promoting ESG. - Vietnam.vn",
+      "original_title": "티엔퐁 플라스틱은 ESG를 추진하며 탄소 중립을 향해 나아가고 있습니다. - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtSmxUNHFTaURPZG1zZ1llbnNTZGtuSmVHbENWdm1WNFdveVBoRFZaMnFpdU1GenR1LVl2dmRLUHVXcmFRbHFlcUFmRzhnWlZDWWFqT2E5aFFOV0ZsSHJ1YTRsdGItNFJXYVNFbGhCN0s0eFZnYlB2MjVXUUE0dw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-12T07:30:42",
+      "description": "Tien Phong Plastic is Advancing Towards Carbon Neutrality by Promoting ESG. Vietnam.vn",
+      "summary": {
+        "phenomenon": "Tien Phong Plastic is pursuing ESG management and progressing towards carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "티엔퐁 플라스틱은 ESG를 추진하며 탄소 중립을 향해 나아가고 있습니다. Vietnam.vn"
+    },
+    {
+      "id": "13",
+      "title": "[Choi Min-sung's Future Reading] From a Gray City to a Green Ecological City: Carbon Neutrality Implications from 17 Years of Utrecht, Netherlands, and Korea's Challenges - Korea Financial News",
+      "original_title": "[최민성의 미래 읽기] 회색 도시에서 초록의 생태 도시로: 네덜란드 위트레흐트의 17년이 건네는 탄소중립 시사점과 한국의 과제 - 한국금융신문",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KUmNZQkxTX1VGWVNqLUljSnlGNzVYRGd1X0s3TzIwcWdkUkp4WTYtQ2NUZ05QTW1MY1AzUkI0MFpINElmTkVvVWM4WTRhRVF6UTY1T181UG52QTdrZTdzdXQ4UUNxX191NDVVVHhRR0UtWkNhSF9NNkxzVVA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-11T21:00:00",
+      "description": "[Choi Min-sung's Future Reading] From a Gray City to a Green Ecological City: Carbon Neutrality Implications from 17 Years of Utrecht, Netherlands, and Korea's Challenges Korea Financial News",
+      "summary": {
+        "phenomenon": "Utrecht, Netherlands, through its 17-year transformation from a 'gray city' to a 'green ecological city,' is providing implications for achieving carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This case is expected to offer insights into the challenges for Korea's carbon neutrality goals."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Utrecht",
+        "Ecological City",
+        "Korea",
+        "Urban Transformation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[최민성의 미래 읽기] 회색 도시에서 초록의 생태 도시로: 네덜란드 위트레흐트의 17년이 건네는 탄소중립 시사점과 한국의 과제 한국금융신문"
+    },
+    {
+      "id": "14",
+      "title": "Climate Justice March in Changwon City Center... \"Renewable Energy Transition Must Be Expedited\" - Yonhap News",
+      "original_title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBQk5veEpKdWpLX1NDbi1kcFp5THlGRDIxXzNVT3ZkczhXaEU5a0s2czR6ZkI1UkZyZmh3MHdhVmwwOGFtcFNlN1dQWlBXZTlGelZkS3ZOZzg3TnfSAWBBVV95cUxPdk0yRHFlb3J6cDRDM19wODFtb1RaVFdjdU1xWGFEekhFQVNBSDlUb25LZVdGT20xaE5Sd3pIMmFfMU9TakZzVnB2aTRISURmTFBmS185SFAzTGRvVlpvQlY?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T06:45:01",
+      "description": "Climate Justice March in Changwon City Center... \"Renewable Energy Transition Must Be Expedited\" Yonhap News",
+      "summary": {
+        "phenomenon": "A climate justice march was held in Changwon city center, and participants asserted that the transition to renewable energy must be expedited.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Changwon",
+        "Climate Justice March",
+        "Renewable Energy",
+        "Transition",
+        "Climate Crisis"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" 연합뉴스"
+    },
+    {
+      "id": "15",
+      "title": "[Lee Nuri Column] Renewable Energy is Expanding, But When Will Fossil Fuel Power Generation Be Reduced? - Incheon Today",
+      "original_title": "[이누리 칼럼] 재생에너지는 늘린다는데, 화석연료 발전은 언제 줄이나 - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrUEdNckg0Umg5Q3RySnZyQkdDT2tnS3ZDSWNsSkl2WWtEaFdCOXhjYVgwTVpJcVZKUm5fOEJWV25IZjNhRWVySmw3Z0RKcGE0dmRTVFBkejBaVmRUMFhUNGhzUDR1dk52RTJzODJIY0U?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T02:00:00",
+      "description": "[Lee Nuri Column] Renewable Energy is Expanding, But When Will Fossil Fuel Power Generation Be Reduced? Incheon Today",
+      "summary": {
+        "phenomenon": "While policies to expand renewable energy are being pursued, questions are being raised about the timeline for reducing fossil fuel power generation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable Energy",
+        "Fossil Fuel",
+        "Power Generation",
+        "Reduction",
+        "Energy Policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[이누리 칼럼] 재생에너지는 늘린다는데, 화석연료 발전은 언제 줄이나 인천투데이"
+    },
+    {
+      "id": "16",
+      "title": "Climate Justice March in Changwon City Center... \"Renewable Energy Transition Must Be Expedited\" - v.daum.net",
+      "original_title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZGdQcU1xMmZwdmRWdlo1Uk03am5HckNvblhBRC05MW8ydVlkbXN5UEt3V1Y0T3htTGpweWNJQUFoQ0NIVjl2N3BPanV6LU0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T06:46:00",
+      "description": "Climate Justice March in Changwon City Center... \"Renewable Energy Transition Must Be Expedited\" v.daum.net",
+      "summary": {
+        "phenomenon": "A climate justice march was held in Changwon city center, and participants asserted that the transition to renewable energy must be expedited.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Changwon",
+        "Climate Justice March",
+        "Renewable Energy",
+        "Transition",
+        "City Center"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" v.daum.net"
+    },
+    {
+      "id": "17",
+      "title": "Daejeon Dong-gu Renewable Energy Project Receives A Grade > News - The Korea",
+      "original_title": "대전 동구 재생에너지 사업 A등급 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MM2ctT191Qk5GOUJ1bkQzX1lwb1BUbGpVZjhQaGJfdDFwd0RQTUplbmhQcXpvMFRuLTBNWUU4MmFPeFNrREw5ak9yYzlYcndSQ3VrSG41dnNHVmE1MWs2NVFyZHExbjRNejRZV1ZMbW0?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T10:38:00",
+      "description": "Daejeon Dong-gu Renewable Energy Project Receives A Grade > News The Korea",
+      "summary": {
+        "phenomenon": "Daejeon Dong-gu's renewable energy project received an A grade.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daejeon Dong-gu",
+        "Renewable Energy",
+        "Project",
+        "A Grade",
+        "Evaluation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대전 동구 재생에너지 사업 A등급 > 뉴스 더코리아"
+    },
+    {
+      "id": "18",
+      "title": "567 Renewable Energy Projects Faced Opposition in the U.S.... Approximately 40% Canceled - AI Times",
+      "original_title": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ZWNXSVJfLTlzT1lTS2Q2WWNDRWJ4bktOcDhLNmN4WEpueHc2UUNoRWhfeHpkYmsxWDNLUDR6NG55UTJxRGFoYzNBbzBZRnZma2FmWjgyVWNubDZIZGhjQ3YwRXFxSFo2UFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T00:40:00",
+      "description": "567 Renewable Energy Projects Faced Opposition in the U.S.... Approximately 40% Canceled AI Times",
+      "summary": {
+        "phenomenon": "A total of 567 renewable energy projects in the U.S. faced opposition, and approximately 40% of them were canceled.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "United States",
+        "Renewable Energy",
+        "Project",
+        "Opposition",
+        "Cancellation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "미국서 반대 부딪힌 재생에너지 프로젝트 567건…약 40% 취소 AI타임스"
+    },
+    {
+      "id": "19",
+      "title": "Transforming Desolate Deserts into a 'Solar Great Wall'... China Accelerates Energy Transition - Yonhap News TV",
+      "original_title": "황폐한 사막을 ’태양광 만리장성’으로…중국 에너지 전환 가속 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56RG15VF9OZHB4OHk2bWZ2QXdqNlhKYWFjcGpuZlItUVFST0ZBNjlGNnZuWkE4M0RFVVFqWk9rWnZ4cmlsWUNFRFBZLV9XZEl2dEhHdFpHSjduVm5uSFRSR1FjX3dkZGs?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T04:56:00",
+      "description": "Transforming Desolate Deserts into a 'Solar Great Wall'... China Accelerates Energy Transition Yonhap News TV",
+      "summary": {
+        "phenomenon": "China is constructing large-scale solar power facilities in desolate desert regions to create a 'Solar Great Wall'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "These efforts are expected to accelerate China's energy transition."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "China",
+        "Energy Transition",
+        "Solar Power",
+        "Great Wall",
+        "Acceleration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "황폐한 사막을 ’태양광 만리장성’으로…중국 에너지 전환 가속 연합뉴스TV"
+    },
+    {
+      "id": "20",
+      "title": "Increased Burden on Electricity and Water with Expanded Semiconductor Production... Samsung and SK Increase Renewable Energy and Water Reuse - IT Chosun",
+      "original_title": "반도체 생산 확대에 전력·용수 부담↑…삼성·SK, 재생에너지·물 재이용 늘린다 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sTktzOVFsT01FVHdFSHQ5a2dfRzdJZ1JzM1ZhQ0U0VGd5R3hfUXVZaEpKZ0tKX0ZCcnBJdnJ3TFprT1B6Y0NTMmZDY19TNE11NWxFY0pfczZBV0gzeTgtZzJzd0RjRzhWWURwVG11WjLSAXRBVV95cUxNOHlPdlZpRFRRSHRUclpiQTRMUUlDZDQ5V1kyR0djOFRhVHMtdWpocjhWR2xrOUF4V2diSTh5Y2Q1cUlfbG4wSnN5cUZqRmtETDN0NWJ6RFprNTN6aHpfSW1oTnNRLWl0TkNreE9GZTFXMXMwcQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T23:00:00",
+      "description": "Increased Burden on Electricity and Water with Expanded Semiconductor Production... Samsung and SK Increase Renewable Energy and Water Reuse IT Chosun",
+      "summary": {
+        "phenomenon": "Samsung and SK are expanding the use of renewable energy and water reuse to address the increasing burden on electricity and water due to expanded semiconductor production.",
+        "cause": "The expansion of semiconductor production is leading to increased electricity and water consumption, thereby exacerbating environmental burdens.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "반도체 생산 확대에 전력·용수 부담↑…삼성·SK, 재생에너지·물 재이용 늘린다 IT조선"
+    },
+    {
+      "id": "21",
+      "title": "[축사] 임완빈 한국신재생에너지협회 상근부회장 - 투데이에너지",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWDdZTzNpVXFWUkpFcFgzX1BjWTVDTGVLZS1CRVFYNWV6UDRSdDBoZFR3b09qcWQxTjRDNTYzV3lOWVB4d25FeHFZNHJ4ZmxwQnRjSnRSbmhhaURRQ21nNDkwclNkclBkaWpBMw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T22:00:00",
+      "description": "[축사] 임완빈 한국신재생에너지협회 상근부회장 투데이에너지",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "한국신재생에너지협회",
+        "신재생에너지",
+        "임완빈",
+        "축사",
+        "에너지"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "22",
+      "title": "대전 동구, 2027년 재생에너지 융복합지원사업 최상위 ‘A등급’ 선정 - 전국도민뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZTF2QjBlbFZ6TXpfT0lGTE5kVVg2bS1Zb0lkY09lZjJSNUdtTTVMYUZwNkhJWjFoNkVjcDNCWlBKSF95LWVzaUFzUDB1YUFUdXJETTdfLVpjTlg2SE83X3E1YlZsb0lNV3VWMnNB?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T07:04:24",
+      "description": "대전 동구, 2027년 재생에너지 융복합지원사업 최상위 ‘A등급’ 선정 전국도민뉴스",
+      "summary": {
+        "phenomenon": "대전 동구가 2027년 재생에너지 융복합지원사업에서 최상위 'A등급'에 선정되었다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대전 동구",
+        "2027년",
+        "재생에너지",
+        "융복합지원사업",
+        "A등급"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "23",
+      "title": "[COP31. 튀르키에 안탈루이로 가는길③] “태양광만 늘려선 안 된다”…UNFCCC, COP31 핵심으로 그리드·ESS·메탄·폐기물 제시 - climatepol.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XOHZJLU1pbjF5RTRtTTg4Y3dxbFNFREJwWW1sVVVnTFJJNlRHbGExalNEQmdoYmI1S29sVXl4VVNyU1BSTzNmdWkzaVQ3ZERPMF9MMHZsZTl0NHZTcFIxV3ZaanZGZmMzXzBEaQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-12T11:18:36",
+      "description": "[COP31. 튀르키에 안탈루이로 가는길③] “태양광만 늘려선 안 된다”…UNFCCC, COP31 핵심으로 그리드·ESS·메탄·폐기물 제시 climatepol.com",
+      "summary": {
+        "phenomenon": "UNFCCC는 COP31의 핵심 의제로 그리드, ESS(에너지 저장 시스템), 메탄, 폐기물을 제시하며, 태양광 에너지 증대만으로는 불충분하다고 밝혔다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "24",
+      "title": "[축사] 박종환 한국태양광산업협회 회장 - 투데이에너지",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RFNBd1UyTEk1dDM1Z0FQVjhKYVVVWUNCX2pJNHNSMHl2TWk5NWhGTXM3TEEwNzEtb2V4N1pGcERkTE1tOHRVcUl2M2NhdEtJWk4tWUdqM0NueGlvU0pRQ1QzQWg3OEh0YUhKUg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-11T22:00:00",
+      "description": "[축사] 박종환 한국태양광산업협회 회장 투데이에너지",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "태양광",
+        "산업협회",
+        "에너지",
+        "축사",
+        "박종환"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "25",
+      "title": "[산업이(異)면]‘기름 넣는 전기차’ 쏟아진다는데…친환경일까, 캐즘이 낳은 ‘진통제’일까?",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202609120900011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-09-12T00:00:01",
+      "description": "‘주유구 있지만 엔진은 바퀴를 돌리지 않는다’배터리 줄여 무게·원가 덜고 960㎞ 달리는 EREV대형 SUV·픽업 ‘타협점’美 배출규제 완화·EU 기술중립 선회로 수명 연장?‘임시방편’ 넘어 ‘징검다리’로주유구는 분명히 있는데 엔진은 바퀴를 돌리지 않는다. 기름을 태워 전기를 만들고, 그 전기로 모터를 돌려 달린다. 가속 페달을 밟았을 때의 정숙성과 매끄러···",
+      "summary": {
+        "phenomenon": "주유구가 있지만 엔진이 바퀴를 직접 돌리지 않고 기름을 태워 전기를 생산하여 모터를 구동하는 EREV(Extended-Range Electric Vehicles)가 출시되고 있다. 이 차량들은 배터리 크기를 줄여 무게와 원가를 절감하며 960km의 주행 거리를 제공한다.",
+        "cause": "EREV는 배터리 크기를 줄여 차량의 무게와 원가를 절감하고, 긴 주행 거리를 확보하기 위해 엔진으로 전기를 생산하여 모터를 구동하는 방식으로 설계되었다. 이는 대형 SUV 및 픽업 시장에서 전기차 전환의 과도기적 대안으로 제시되며, 미국 배출규제 완화 및 EU의 기술중립 정책 선회와 같은 외부 요인도 영향을 미친다.",
+        "outlook": "EREV가 진정한 친환경 차량인지, 혹은 전기차 전환 과정의 일시적인 '징검다리' 역할에 그칠지에 대한 논의가 계속될 것으로 보인다. 미국 배출규제 완화 및 EU의 기술중립 선회 정책은 EREV의 시장 수명을 연장할 가능성이 있다."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "EREV",
+        "전기차",
+        "친환경",
+        "캐즘",
+        "징검다리"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "26",
+      "title": "보건의료 연합, 기후변화는 공중보건 위기라고 밝혀 - jsonline.com",
+      "original_title": "Health care coalition says climate change is a public health crisis - jsonline.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbk5WaS1NOGdsM3NHMGdBWVJGVndxMHZRLWJpcVJaZkdxbkZyRVU0RVJ1TGxialBHY2ZjSURid3NYeV9zY3pITnZ4UzhjV3dRTjZvN2FQVmNPOVFJYzlQMjQ0T2l5R3NZU2lWQlV6aTllVDVHWl9QVkZUTWxSa0JkMjFRbHZVSzRBLXFiZ1ZIQ1hWUEtqMFp0Mmt5Y2RaWFQzRWthTXlHdjlGNXdhdS0wOFZlaWZCVDI5ZEZRWGRkRmFnUVdiQzFwUGhFcw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T10:04:00",
+      "description": "Health care coalition says climate change is a public health crisis jsonline.com",
+      "summary": {
+        "phenomenon": "보건의료 연합이 기후변화를 공중보건 위기라고 선언했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "보건의료",
+        "기후변화",
+        "공중보건",
+        "위기",
+        "연합"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "27",
+      "title": "유엔, 기후 변화 대응의 정치적 분열이 경제 안정을 위협한다고 경고 - Jurist.org",
+      "original_title": "UN warns political division in addressing climate change threatens economic stability - Jurist.org",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWtBVzhRdGpNVDhPQnpua3NLcEVYOWRKY05CeV9sNFg0YWlqYlVvb2UtYnF6bjRDbThxTkM4UUpaZVUyM3drTzNKZnFYdHYxVV9NUGQzRnZkSlpNWXFleURieFNySzJYdmVBb2toYTZ1UXc5NDJwbkEyWV9UZnBuWUlHcGNDbGtqamMtSXo4M1RoVExJR0NHam51dXdXSWk2YVFJeGhyY3V5RzZ6NE05Z3lNVFQ2UFkwV1F5dkhFbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T23:25:29",
+      "description": "UN warns political division in addressing climate change threatens economic stability Jurist.org",
+      "summary": {
+        "phenomenon": "유엔은 기후 변화 대응에 있어 정치적 분열이 경제 안정을 위협한다고 경고했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "유엔",
+        "기후 변화",
+        "정치적 분열",
+        "경제 안정",
+        "위협"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "28",
+      "title": "기후 변화와 생식 건강에 미치는 영향 인식 - 큐리어스",
+      "original_title": "Awareness of Climate Change and Its Impact on Reproductive Health - Cureus",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnJUZFVSVG9xdGRTQXpKT0VvT3FCSy1aRUFhYXlJTm1Eem1ScWZRZlR6UmVPallyWVdPNkVKMGY3em5taUxSVTAtcmxPd0hVQ2N3ZnNwbW42ZWZZOVU3blhZTzVxcnVIVWpJVEVEVmJlYmppQnBwSWNoaWplalRUYkoxOU1UVlZTVkNHUGRUdENmbEp1SGpTakRBU0Zmd25iYVZqaFNRdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T09:17:06",
+      "description": "Awareness of Climate Change and Its Impact on Reproductive Health Cureus",
+      "summary": {
+        "phenomenon": "기후 변화가 생식 건강에 미치는 영향에 대한 인식이 다루어졌다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "생식 건강",
+        "영향",
+        "인식",
+        "건강 문제"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "29",
+      "title": "Adirondacks’ risks from climate change – prominent local environmental leader shows how to help - The Daily Gazette",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdW9oOHo5Z3dsSTBZRy1aTVlKUGxqVERYMGExOEV3ZEtTOV9DTmd1b3ZvYmR5N05uVHdkejFveUN4MmRnUHN3bFBRU2dVVGxjNW9oWjl1SVdXUEJ4MWpTcW5QdTQ1S2ZMeEZKeVpHLTBWTmVsTmo3TWlSamZDWVhWS3dpc0QzZ3Z4c2huR2tZaFZaQzBxd29WSXFtdzFGOVdWbzRDa0laLTJscGx2M2EyVkJUQ3E1MTFucVZnb2JNbTBORFJJb3ltTk5jdV9CQm80NXBCOU1LOVBKOU1oUFNBRkJIQmU4cmRlekotS25mblpSNHR5U1gwenFTY0hGel9ueS16Xzd3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T10:00:00",
+      "description": "Adirondacks’ risks from climate change – prominent local environmental leader shows how to help The Daily Gazette",
+      "summary": {
+        "phenomenon": "Adirondacks 지역이 기후 변화로 인한 위험에 직면해 있으며, 저명한 지역 환경 리더가 이를 돕는 방법을 제시했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "30",
+      "title": "보건 의료 연합, \"기후 변화는 공중 보건 위기\" 주장 - 야후",
+      "original_title": "Climate change is a public health crisis, health care coalition says - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelhramFIVjVMSVVXV3pWRmFUbHVrXzVBV3FMX3RGMnlRbUk5dy1nckhZOWw3RXpaamdTajlTb2NfSUxBamdTQ3hqWFBUY3Z2X2VKWTIzd3FxNzB2akZfU2NJT2dTa2xQNU0zNmlqZGtHeG5uM1hHdzk0Mmh2SEtoUEpSNWhjbnhqNGN0LUJMbjFuU28?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T10:04:12",
+      "description": "Climate change is a public health crisis, health care coalition says Yahoo",
+      "summary": {
+        "phenomenon": "보건 의료 연합이 기후 변화를 공중 보건 위기라고 주장했다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "공중 보건",
+        "위기",
+        "보건 의료",
+        "연합"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "31",
+      "title": "뉴포트 태평양 회색고래 심포지엄, 핵심 논의 '기후 변화' 빠뜨려 - 링컨 크로니클",
+      "original_title": "Newport symposium on Pacific gray whales omits one key discussion — climate change - Lincoln Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHZmMjlEMlRCLVpfZm85M2xBMi1LdF9GN1NrNUF4LUNKc0tmWUE0ckVnVG9tWlBCNzhqOThiTExBOW14NkxVU3plZ2d2cm5MNWNjRGYtVi1oRUJMUHlvektkRVpVOFhKSmgtMTZiRTN4UkJ6R2xYYWFfeU01UFNVZUxFNDFRZHZDRjlHR2pXNGZOaW1hT0tXYzc5MDdRLVBIejBfNHVOY0dQRkJ3X2luVg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-11T22:53:25",
+      "description": "Newport symposium on Pacific gray whales omits one key discussion — climate change Lincoln Chronicle",
+      "summary": {
+        "phenomenon": "Climate change, a key discussion point, was omitted from the Pacific gray whale symposium held in Newport.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Newport",
+        "Gray whale",
+        "Symposium",
+        "Climate change",
+        "Omission"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Newport symposium on Pacific gray whales omits one key discussion — climate change Lincoln Chronicle"
+    },
+    {
+      "id": "32",
+      "title": "저산소, 곤충의 기후 변화 탈출 능력 제한할 수도",
+      "original_title": "Low oxygen may limit insects’ ability to escape climate change - Farmtario",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWhvczhnaXhsR2JOeWpHTThLdHUyX3R3NzJrSlBpTXJUellkNV92cmM4d0p6eThnLWtFSW5qb3drMDhLcWJrdnBpTHFRNEpQWTZCb3V4VkZIdjVWczR4MmhUeldSVGdobEtENzB0dGtobEhtcWZLMS1hRFpjYjBMbnBBT3BiRS10TFMySGFOM2kwZU1WOThvc2Rpa2I?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T10:25:45",
+      "description": "Low oxygen may limit insects’ ability to escape climate change Farmtario",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Low oxygen was presented as a scientific reason that may limit insects' ability to escape climate change.",
+        "outlook": "Low oxygen may limit insects' ability to avoid or adapt to the impacts of climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Low oxygen",
+        "Insects",
+        "Climate change",
+        "Survival",
+        "Limited ability"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Low oxygen may limit insects’ ability to escape climate change Farmtario"
+    },
+    {
+      "id": "33",
+      "title": "기관, 정부, 풀뿌리 폐기물 수거인, 기후 변화 대응 전략으로 폐기물 관리 가속화 촉구 - 브레이크 프리 프롬 플라스틱",
+      "original_title": "Organizations, the government sector, and grassroots waste pickers call for accelerating waste management as a strategy to address climate change - Break Free From Plastic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2p1Nk1CSXVqWHkyQ3lwTkNlR2JodlVxUVgzamstbG40RVh6NFlnLThMVjBkYXpEa09TX1Jvck5ndnphSjl0MFk3aDdSRUw2ekZJVkhjbFhHYzRHbDJaRVdZYjFlUEFENG1qY01VRzRaT3h5ZkpWWVJURjlzUjVvU3VwTjJHa0FNai1DaXcydjVoRUYtRG9oekR4UkpzbVpINl9QbTdWRjE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T05:18:55",
+      "description": "Organizations, the government sector, and grassroots waste pickers call for accelerating waste management as a strategy to address climate change Break Free From Plastic",
+      "summary": {
+        "phenomenon": "Organizations, the government sector, and grassroots waste pickers urged for accelerated waste management as a strategy to address climate change.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Accelerated waste management can be utilized as a strategy to address climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Waste management",
+        "Climate change",
+        "Acceleration",
+        "Strategy",
+        "Waste pickers"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Organizations, the government sector, and grassroots waste pickers call for accelerating waste management as a strategy to address climate change Break Free From Plastic"
+    },
+    {
+      "id": "34",
+      "title": "기후 변화로 아마추어 축구선수들, 미래 경기에서 더 많은 열 스트레스 직면할 것 - NL Times",
+      "original_title": "Amateur footballers to face more heat stress in future matches due to climate change - NL Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdW5KQ0IzLUp0WGplSHF3ZzMxdEV2UlZwN01nSExadS1VUnhhTFlfYk9ydnpGd2U1S1NfMlhZRFEwRF91Q2FmQ2tzTTZEV3hFWFRYNlJ0aFB2ZDl0TmlHbWJNbjNxWTJtYmw3T1djWURRSUljVG9tRzREZkRUQkp4OENlU3MyM2hfZTZrQllIQ0F5d1RDTHUwU0NYam9fbkgxMUE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-12T06:15:53",
+      "description": "Amateur footballers to face more heat stress in future matches due to climate change NL Times",
+      "summary": {
+        "phenomenon": "Not mentioned in the article.",
+        "cause": "Climate change was identified as the cause for amateur footballers experiencing more heat stress in future matches.",
+        "outlook": "Amateur footballers will face increased heat stress in future matches due to climate change."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Heat stress",
+        "Footballers",
+        "Future matches",
+        "Heatwave"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Amateur footballers to face more heat stress in future matches due to climate change NL Times"
+    },
+    {
+      "id": "35",
+      "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
+      "original_title": null,
+      "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
+      "source": "guardian_climate",
+      "published_at": "2026-09-12T11:00:32",
+      "description": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant cropsThey are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, according to the Royal Horticultural Society.England’s climate has changed so much that the RHS is now recommending that gardeners exclude the brassicas from their vegetable patches. Continue reading...",
+      "summary": {
+        "phenomenon": "The Royal Horticultural Society (RHS) recommended that cauliflowers be removed from the British Sunday roast menu due to heatwaves in England.",
+        "cause": "England's climate has changed significantly, leading the Royal Horticultural Society (RHS) to recommend that gardeners plant drought-tolerant crops instead of water-intensive brassicas like cauliflowers.",
+        "outlook": "English gardeners will need to plant drought-tolerant crops instead of water-intensive brassicas, and cauliflowers may be excluded from the Sunday roast menu."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant cropsThey are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, according to the Royal Horticultural Society.England’s climate has changed so much that the RHS is now recommending that gardeners exclude the brassicas from their vegetable patches. Continue reading..."
+    }
+  ],
+  "summary": {
+    "total_count": 35,
+    "domestic_count": 25,
+    "international_count": 10,
+    "top_keywords": [
+      "Climate change",
+      "Renewable energy",
+      "Climate change",
+      "Climate crisis",
+      "Crisis"
+    ],
+    "sentiment_breakdown": {
+      "positive": 13,
+      "negative": 15,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "재생에너지",
+      "기후변화",
+      "기후위기",
+      "위기"
+    ]
+  },
+  "period": "afternoon",
+  "period_label": "오후",
+  "language": "en"
+}

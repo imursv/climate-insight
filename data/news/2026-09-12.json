@@ -1,16 +1,16 @@
 {
   "date": "2026-09-12",
   "metadata": {
-    "collected_at": "2026-09-12T01:01:55.376947",
-    "total_articles": 32,
+    "collected_at": "2026-09-12T11:58:34.797645",
+    "total_articles": 59,
     "sources": {
-      "korean": 15,
-      "international": 17
+      "korean": 34,
+      "international": 25
     },
     "sentiment_distribution": {
-      "positive": 12,
-      "negative": 12,
-      "neutral": 2
+      "positive": 24,
+      "negative": 22,
+      "neutral": 3
     }
   },
   "articles": [
@@ -806,6 +806,680 @@
           "나이젤 패라지"
         ]
       }
+    },
+    {
+      "id": "922cba9a93d35e09",
+      "title": "기후가 바뀌면… 미래가 바뀐다 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvMkt6LTl6dmdkNEhSMTgxUERhZzZiOUVJMnNQc0ZFNkJnRWliMEFxd29yYkRnT0U1WHpxVzk3bEVodGVCMmFWOEtLXzVIdGc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-11T21:02:00",
+      "collected_at": "2026-09-12T11:55:07.300731",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "미래",
+          "위기",
+          "해결",
+          "지구"
+        ]
+      }
+    },
+    {
+      "id": "ddb8564455c02ed0",
+      "title": "기후변화 해결사로 나선 AI[테크트렌드] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZc05wRkE5dU55S1UydVFVQ2cyQ3BiNXl4aDJPZ1ZMYy1OTl9Bd1dWdVFfZE1OWFVEcWpzNlA2TUJOWkFkdEFTMmM4ekVrOGM?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T06:37:00",
+      "collected_at": "2026-09-12T11:55:07.300960",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "AI",
+          "해결사",
+          "기술",
+          "트렌드"
+        ]
+      }
+    },
+    {
+      "id": "0336e4c6c12fa2c6",
+      "title": "한·말레이시아, 기후변화 대응 협력 논의 - acn-news.com",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRblVzUmtkanNOQy1vMXhsYTh4bVZNai04Z0pUU20zUU1aYTdlVGZOckhmd3kxa2RwOGo4RFFraXBFNVZ3d201NGYyY1VQMzlzcGtYQUltZjVncHF1ajZyWU54QVhwZ2xY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T11:11:44",
+      "collected_at": "2026-09-12T11:55:07.301008",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한·말레이시아",
+          "기후변화",
+          "대응",
+          "협력",
+          "논의"
+        ]
+      }
+    },
+    {
+      "id": "6633359dfb816260",
+      "title": "[해외농업] 나무가 만든 그늘의 과학, 기후위기 극복하는 혼농임업의 미기후 완충 효과 - digitalorganic.net",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LUm5ZZFI4bXg4MWl5M0FhMFpjb3JwaFdzM1k0ZHk5c05HUFlnTW5uMmpGRjVpQnpHVlpselpnVUhzQXFJU2MwNWNUcTFHUHNLQVJTUnhiSkE1bXRJY1lDQnVrS0NQemRvMWxGWThWU281Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T02:12:33",
+      "collected_at": "2026-09-12T11:55:07.301176",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "혼농임업",
+          "기후위기",
+          "미기후",
+          "나무 그늘",
+          "완충 효과"
+        ]
+      }
+    },
+    {
+      "id": "d1368f0c4b2315db",
+      "title": "[지구온난화] 폭염 위험 커진 일터…온열질환 산재 신청 4배, 감축·적응 과제 - bizjoongang.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBobkNQby1TNDhXSjA4R2NPa1RnWEhJYm53b05hQ05wZXdXYzJuNDh3SnlHNUxIbW4waFlZTF9MMy1xQ3JUMm5HR3RoQlZsTEd1TGVUQ1E4dW9rTlgxelhNbUZpNVc5T0pmYlhkNG1Ybnc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T07:00:36",
+      "collected_at": "2026-09-12T11:55:07.301300",
+      "keywords_matched": [
+        "지구온난화",
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구온난화",
+          "폭염",
+          "일터",
+          "온열질환",
+          "산재"
+        ]
+      }
+    },
+    {
+      "id": "0167dcbf1097d017",
+      "title": "“전기료에 허리 휘는 식품업계, 태양광으로 돌파구 찾는다” - 식약일보",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBNbzA3Skx6ZGk1RU5Xell5Z2ZVZWt6LVNtS3RqRHRMbTNFQ2ZyNUMyRGpQbEg5SDh3dVNF?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T05:30:00",
+      "collected_at": "2026-09-12T11:55:07.301934",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "식품업계",
+          "전기료",
+          "태양광",
+          "돌파구",
+          "비용 부담"
+        ]
+      }
+    },
+    {
+      "id": "beef40a4b3695b67",
+      "title": "네팔 히말라야 대홍수, 누구의 책임이 큰가? - 우리문화신문",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mS0hXWnpuT0lqeXExbWVLSXdvY2Q0dWJmc1ZjTF81T1ltX2c4U0l0bzh1QzRQQUVaMzNfb0xCSk11RWEtWHQzZDBPbl9kVENLN1dDZy1SX3I5d3RBTE9lMzl0XzRkd0U?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T02:34:52",
+      "collected_at": "2026-09-12T11:55:07.302323",
+      "keywords_matched": [
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "히말라야",
+          "대홍수",
+          "책임",
+          "재난"
+        ]
+      }
+    },
+    {
+      "id": "9a6bbea05d555fe8",
+      "title": "서울 재생열·충남 냉매관리, 지방정부 탄소중립 우수사례 선정 - hvacrj.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mekNxaWZyNzJIYmNvZS1kdzBpUkhQTE8xWDl2VW96NWpNMnNIZGNHcC1TVVBUeWVFQUVqcmNvbHdpSWZFZGZxRmZiZUt5N3pEWXMxTkRfbkRoeWxYeGFaaVNHbWNJdmx1NHc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T07:38:17",
+      "collected_at": "2026-09-12T11:55:07.394583",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울 재생열",
+          "충남 냉매관리",
+          "지방정부",
+          "탄소중립",
+          "우수사례"
+        ]
+      }
+    },
+    {
+      "id": "1e020e44dd518971",
+      "title": "한국김육묘㈜, '넷제로 챌린지' 선정, 김 종자·육묘 기술로 탄소중립 실현하는 기후테크 기업 도약 - 한경매거진&북",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PTzJvdmtXcHBCUW1tY1hTVm1fdTQyOHlXeWExaXdOeFU3MEZJM254ZTlaUTEyRXNEM0JIdTQyVmNtczV6UmV0NU9IcVZlUEdDX2VMMVg3WW9UOExmN3VXMmJYX0c4WUdsWkM0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T05:12:00",
+      "collected_at": "2026-09-12T11:55:07.394705",
+      "keywords_matched": [
+        "탄소중립",
+        "넷제로"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국김육묘",
+          "넷제로 챌린지",
+          "탄소중립",
+          "기후테크",
+          "김 종자·육묘 기술"
+        ]
+      }
+    },
+    {
+      "id": "279c87dafe08bacd",
+      "title": "티엔퐁 플라스틱은 ESG를 추진하며 탄소 중립을 향해 나아가고 있습니다. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtSmxUNHFTaURPZG1zZ1llbnNTZGtuSmVHbENWdm1WNFdveVBoRFZaMnFpdU1GenR1LVl2dmRLUHVXcmFRbHFlcUFmRzhnWlZDWWFqT2E5aFFOV0ZsSHJ1YTRsdGItNFJXYVNFbGhCN0s0eFZnYlB2MjVXUUE0dw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T07:30:42",
+      "collected_at": "2026-09-12T11:55:07.394861",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b20debd2b05163c5",
+      "title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBQk5veEpKdWpLX1NDbi1kcFp5THlGRDIxXzNVT3ZkczhXaEU5a0s2czR6ZkI1UkZyZmh3MHdhVmwwOGFtcFNlN1dQWlBXZTlGelZkS3ZOZzg3TnfSAWBBVV95cUxPdk0yRHFlb3J6cDRDM19wODFtb1RaVFdjdU1xWGFEekhFQVNBSDlUb25LZVdGT20xaE5Sd3pIMmFfMU9TakZzVnB2aTRISURmTFBmS185SFAzTGRvVlpvQlY?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T06:45:01",
+      "collected_at": "2026-09-12T11:55:07.244979",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "창원",
+          "기후정의행진",
+          "재생에너지",
+          "전환",
+          "기후위기"
+        ]
+      }
+    },
+    {
+      "id": "edb9ef3b378bc22a",
+      "title": "[이누리 칼럼] 재생에너지는 늘린다는데, 화석연료 발전은 언제 줄이나 - 인천투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrUEdNckg0Umg5Q3RySnZyQkdDT2tnS3ZDSWNsSkl2WWtEaFdCOXhjYVgwTVpJcVZKUm5fOEJWV25IZjNhRWVySmw3Z0RKcGE0dmRTVFBkejBaVmRUMFhUNGhzUDR1dk52RTJzODJIY0U?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T02:00:00",
+      "collected_at": "2026-09-12T11:55:07.245023",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "화석연료",
+          "발전",
+          "감축",
+          "에너지 정책"
+        ]
+      }
+    },
+    {
+      "id": "b391de33d18e5219",
+      "title": "창원 도심서 기후정의행진…\"재생에너지 전환 서둘러야\" - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZGdQcU1xMmZwdmRWdlo1Uk03am5HckNvblhBRC05MW8ydVlkbXN5UEt3V1Y0T3htTGpweWNJQUFoQ0NIVjl2N3BPanV6LU0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T06:46:00",
+      "collected_at": "2026-09-12T11:55:07.245056",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "창원",
+          "기후정의행진",
+          "재생에너지",
+          "전환",
+          "도심"
+        ]
+      }
+    },
+    {
+      "id": "3700d46eeaa048a3",
+      "title": "대전 동구 재생에너지 사업 A등급 > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MM2ctT191Qk5GOUJ1bkQzX1lwb1BUbGpVZjhQaGJfdDFwd0RQTUplbmhQcXpvMFRuLTBNWUU4MmFPeFNrREw5ak9yYzlYcndSQ3VrSG41dnNHVmE1MWs2NVFyZHExbjRNejRZV1ZMbW0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T10:38:00",
+      "collected_at": "2026-09-12T11:55:07.245090",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 동구",
+          "재생에너지",
+          "사업",
+          "A등급",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "5ffa44a19c218540",
+      "title": "황폐한 사막을 ’태양광 만리장성’으로…중국 에너지 전환 가속 - 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56RG15VF9OZHB4OHk2bWZ2QXdqNlhKYWFjcGpuZlItUVFST0ZBNjlGNnZuWkE4M0RFVVFqWk9rWnZ4cmlsWUNFRFBZLV9XZEl2dEhHdFpHSjduVm5uSFRSR1FjX3dkZGs?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T04:56:00",
+      "collected_at": "2026-09-12T11:55:07.245150",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "에너지 전환",
+          "태양광",
+          "만리장성",
+          "가속"
+        ]
+      }
+    },
+    {
+      "id": "1c7275138dc65611",
+      "title": "[축사] 임완빈 한국신재생에너지협회 상근부회장 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxWDdZTzNpVXFWUkpFcFgzX1BjWTVDTGVLZS1CRVFYNWV6UDRSdDBoZFR3b09qcWQxTjRDNTYzV3lOWVB4d25FeHFZNHJ4ZmxwQnRjSnRSbmhhaURRQ21nNDkwclNkclBkaWpBMw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-11T22:00:00",
+      "collected_at": "2026-09-12T11:55:07.245238",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국신재생에너지협회",
+          "신재생에너지",
+          "임완빈",
+          "축사",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "c39beef9b4bed47a",
+      "title": "대전 동구, 2027년 재생에너지 융복합지원사업 최상위 ‘A등급’ 선정 - 전국도민뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZTF2QjBlbFZ6TXpfT0lGTE5kVVg2bS1Zb0lkY09lZjJSNUdtTTVMYUZwNkhJWjFoNkVjcDNCWlBKSF95LWVzaUFzUDB1YUFUdXJETTdfLVpjTlg2SE83X3E1YlZsb0lNV3VWMnNB?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T07:04:24",
+      "collected_at": "2026-09-12T11:55:07.245268",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전 동구",
+          "2027년",
+          "재생에너지",
+          "융복합지원사업",
+          "A등급"
+        ]
+      }
+    },
+    {
+      "id": "ba4d5a5be5422fca",
+      "title": "[COP31. 튀르키에 안탈루이로 가는길③] “태양광만 늘려선 안 된다”…UNFCCC, COP31 핵심으로 그리드·ESS·메탄·폐기물 제시 - climatepol.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XOHZJLU1pbjF5RTRtTTg4Y3dxbFNFREJwWW1sVVVnTFJJNlRHbGExalNEQmdoYmI1S29sVXl4VVNyU1BSTzNmdWkzaVQ3ZERPMF9MMHZsZTl0NHZTcFIxV3ZaanZGZmMzXzBEaQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-12T11:18:36",
+      "collected_at": "2026-09-12T11:55:07.245343",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "35b91748e5779c55",
+      "title": "[축사] 박종환 한국태양광산업협회 회장 - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92RFNBd1UyTEk1dDM1Z0FQVjhKYVVVWUNCX2pJNHNSMHl2TWk5NWhGTXM3TEEwNzEtb2V4N1pGcERkTE1tOHRVcUl2M2NhdEtJWk4tWUdqM0NueGlvU0pRQ1QzQWg3OEh0YUhKUg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-11T22:00:00",
+      "collected_at": "2026-09-12T11:55:07.246573",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "산업협회",
+          "에너지",
+          "축사",
+          "박종환"
+        ]
+      }
+    },
+    {
+      "id": "8dec7918f4397e75",
+      "title": "Health care coalition says climate change is a public health crisis - jsonline.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbk5WaS1NOGdsM3NHMGdBWVJGVndxMHZRLWJpcVJaZkdxbkZyRVU0RVJ1TGxialBHY2ZjSURid3NYeV9zY3pITnZ4UzhjV3dRTjZvN2FQVmNPOVFJYzlQMjQ0T2l5R3NZU2lWQlV6aTllVDVHWl9QVkZUTWxSa0JkMjFRbHZVSzRBLXFiZ1ZIQ1hWUEtqMFp0Mmt5Y2RaWFQzRWthTXlHdjlGNXdhdS0wOFZlaWZCVDI5ZEZRWGRkRmFnUVdiQzFwUGhFcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T10:04:00",
+      "collected_at": "2026-09-12T11:55:08.572106",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "보건의료 연합, 기후변화는 공중보건 위기라고 밝혀 - jsonline.com"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "보건의료",
+          "기후변화",
+          "공중보건",
+          "위기",
+          "연합"
+        ]
+      }
+    },
+    {
+      "id": "076317db9a5c8086",
+      "title": "Awareness of Climate Change and Its Impact on Reproductive Health - Cureus",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnJUZFVSVG9xdGRTQXpKT0VvT3FCSy1aRUFhYXlJTm1Eem1ScWZRZlR6UmVPallyWVdPNkVKMGY3em5taUxSVTAtcmxPd0hVQ2N3ZnNwbW42ZWZZOVU3blhZTzVxcnVIVWpJVEVEVmJlYmppQnBwSWNoaWplalRUYkoxOU1UVlZTVkNHUGRUdENmbEp1SGpTakRBU0Zmd25iYVZqaFNRdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T09:17:06",
+      "collected_at": "2026-09-12T11:55:08.572279",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화와 생식 건강에 미치는 영향 인식 - 큐리어스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "생식 건강",
+          "영향",
+          "인식",
+          "건강 문제"
+        ]
+      }
+    },
+    {
+      "id": "0205ed4c2dc1e6b4",
+      "title": "Adirondacks’ risks from climate change – prominent local environmental leader shows how to help - The Daily Gazette",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdW9oOHo5Z3dsSTBZRy1aTVlKUGxqVERYMGExOEV3ZEtTOV9DTmd1b3ZvYmR5N05uVHdkejFveUN4MmRnUHN3bFBRU2dVVGxjNW9oWjl1SVdXUEJ4MWpTcW5QdTQ1S2ZMeEZKeVpHLTBWTmVsTmo3TWlSamZDWVhWS3dpc0QzZ3Z4c2huR2tZaFZaQzBxd29WSXFtdzFGOVdWbzRDa0laLTJscGx2M2EyVkJUQ3E1MTFucVZnb2JNbTBORFJJb3ltTk5jdV9CQm80NXBCOU1LOVBKOU1oUFNBRkJIQmU4cmRlekotS25mblpSNHR5U1gwenFTY0hGel9ueS16Xzd3?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T10:00:00",
+      "collected_at": "2026-09-12T11:55:08.572495",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ccaf367902a057ed",
+      "title": "Climate change is a public health crisis, health care coalition says - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelhramFIVjVMSVVXV3pWRmFUbHVrXzVBV3FMX3RGMnlRbUk5dy1nckhZOWw3RXpaamdTajlTb2NfSUxBamdTQ3hqWFBUY3Z2X2VKWTIzd3FxNzB2akZfU2NJT2dTa2xQNU0zNmlqZGtHeG5uM1hHdzk0Mmh2SEtoUEpSNWhjbnhqNGN0LUJMbjFuU28?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T10:04:12",
+      "collected_at": "2026-09-12T11:55:08.572524",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "보건 의료 연합, \"기후 변화는 공중 보건 위기\" 주장 - 야후"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "공중 보건",
+          "위기",
+          "보건 의료",
+          "연합"
+        ]
+      }
+    },
+    {
+      "id": "c848b310d2a60a95",
+      "title": "Low oxygen may limit insects’ ability to escape climate change - Farmtario",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWhvczhnaXhsR2JOeWpHTThLdHUyX3R3NzJrSlBpTXJUellkNV92cmM4d0p6eThnLWtFSW5qb3drMDhLcWJrdnBpTHFRNEpQWTZCb3V4VkZIdjVWczR4MmhUeldSVGdobEtENzB0dGtobEhtcWZLMS1hRFpjYjBMbnBBT3BiRS10TFMySGFOM2kwZU1WOThvc2Rpa2I?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T10:25:45",
+      "collected_at": "2026-09-12T11:55:08.572908",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "저산소, 곤충의 기후 변화 탈출 능력 제한할 수도"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "저산소",
+          "곤충",
+          "기후 변화",
+          "생존",
+          "능력 제한"
+        ]
+      }
+    },
+    {
+      "id": "2d88fc9b4f35ccba",
+      "title": "Organizations, the government sector, and grassroots waste pickers call for accelerating waste management as a strategy to address climate change - Break Free From Plastic",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2p1Nk1CSXVqWHkyQ3lwTkNlR2JodlVxUVgzamstbG40RVh6NFlnLThMVjBkYXpEa09TX1Jvck5ndnphSjl0MFk3aDdSRUw2ekZJVkhjbFhHYzRHbDJaRVdZYjFlUEFENG1qY01VRzRaT3h5ZkpWWVJURjlzUjVvU3VwTjJHa0FNai1DaXcydjVoRUYtRG9oekR4UkpzbVpINl9QbTdWRjE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T05:18:55",
+      "collected_at": "2026-09-12T11:55:08.573003",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기관, 정부, 풀뿌리 폐기물 수거인, 기후 변화 대응 전략으로 폐기물 관리 가속화 촉구 - 브레이크 프리 프롬 플라스틱"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "폐기물 관리",
+          "기후 변화",
+          "가속화",
+          "전략",
+          "폐기물 수거인"
+        ]
+      }
+    },
+    {
+      "id": "073ca7661b708c96",
+      "title": "Amateur footballers to face more heat stress in future matches due to climate change - NL Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdW5KQ0IzLUp0WGplSHF3ZzMxdEV2UlZwN01nSExadS1VUnhhTFlfYk9ydnpGd2U1S1NfMlhZRFEwRF91Q2FmQ2tzTTZEV3hFWFRYNlJ0aFB2ZDl0TmlHbWJNbjNxWTJtYmw3T1djWURRSUljVG9tRzREZkRUQkp4OENlU3MyM2hfZTZrQllIQ0F5d1RDTHUwU0NYam9fbkgxMUE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-12T06:15:53",
+      "collected_at": "2026-09-12T11:55:08.573322",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 아마추어 축구선수들, 미래 경기에서 더 많은 열 스트레스 직면할 것 - NL Times"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "열 스트레스",
+          "축구선수",
+          "미래 경기",
+          "폭염"
+        ]
+      }
+    },
+    {
+      "id": "a8d89edd09d44b78",
+      "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
+      "link": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-12T11:00:32",
+      "collected_at": "2026-09-12T11:55:08.241495",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
