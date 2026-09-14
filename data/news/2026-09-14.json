@@ -1,16 +1,16 @@
 {
   "date": "2026-09-14",
   "metadata": {
-    "collected_at": "2026-09-14T00:55:27.484690",
-    "total_articles": 52,
+    "collected_at": "2026-09-14T14:52:10.813884",
+    "total_articles": 183,
     "sources": {
-      "korean": 36,
-      "international": 16
+      "korean": 140,
+      "international": 43
     },
     "sentiment_distribution": {
-      "positive": 34,
-      "negative": 10,
-      "neutral": 1
+      "positive": 116,
+      "negative": 41,
+      "neutral": 4
     }
   },
   "articles": [
@@ -1316,6 +1316,3302 @@
       "language": "en",
       "published_at": "2026-09-13T14:00:04",
       "collected_at": "2026-09-14T00:51:03.162003",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "b594325d87584763",
+      "title": "‘기후변화는 사기극’이라는 트럼프, 탄소 규제 폐지한다 - KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MSklNbmh4YXI3RXRzX0lHc1ZmaGpRLWZpU1l3TnNqYmljVGhEWmYyRG5hb05uSFBlVlpBMTdlSDNCZmlUY3lSVTM0a3JPVUlOejVCTWdSd2NNaDQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:26:00",
+      "collected_at": "2026-09-14T14:39:53.162711",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "기후변화",
+          "탄소 규제",
+          "폐지",
+          "사기극"
+        ]
+      }
+    },
+    {
+      "id": "1cc3be4062742f55",
+      "title": "[현장의 눈] 기후위기 증후군 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QdWhFVmhoZzd2VUNUemt0X1dwZ3RRVGxpejZGUHNsNHFnd1pqU2JFRzdXMko4WmJxZGluaTBrMFdYcjdZTVlZanJRZTB2SDg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:55:00",
+      "collected_at": "2026-09-14T14:39:53.162824",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "증후군",
+          "현장",
+          "경고",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "4e9c597fac038bc8",
+      "title": "제4차 한-말레이시아 기후변화 대화 개최…탄소중립·순환경제 협력 강화 - 외교문화뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTQldpQmV2czQtaE50M1hhM2FfMEZyM3hVMF9la3RyYTFqVmxXc24zQWt1c0l5QjFFNmNhWUdzUFJ0NF9HcHRCNWhEdEZJR1VKSVlkX1VtWTlmOVZKWkNPdjRfY1k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:01:34",
+      "collected_at": "2026-09-14T14:39:53.162875",
+      "keywords_matched": [
+        "기후변화",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한-말레이시아",
+          "기후변화 대화",
+          "탄소중립",
+          "순환경제",
+          "협력 강화"
+        ]
+      }
+    },
+    {
+      "id": "ab421d4ec6963761",
+      "title": "갈라파고스 산호의 1,000년 경고…“기후변화가 엘니뇨 강화” - 기후에너지경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITUtfWk9YUnVYbWo0WS1VRkcxSVdzdEJ1VFFBTWRVQlQ0SjRTTWxUQnNUa0NmbjVZZ1N3VUN4bWlNU0FCLXpDQVk1NEJBUktnVU5fZXA4ektzTnlkR19fbmxFUG4?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T00:53:32",
+      "collected_at": "2026-09-14T14:39:53.162903",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "갈라파고스",
+          "산호",
+          "기후변화",
+          "엘니뇨",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "004c6a495f0c1c05",
+      "title": "기후변화에 스마트 양봉으로, 포천시, 꿀벌자원 육성 본격화 - 포천일보",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5T05JU25Odnk2R3U2S2JRaXFuNk9aNGZoWnl6S0lxYlVwRnM5Qnh0cllOMDByb3M5NzFMRmNHQnRRUmVfWkVkdUh4WGxRVzF0aVNMMU9KTUM2Z2plUUZGZERZOHlrZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:59:25",
+      "collected_at": "2026-09-14T14:39:53.162930",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "스마트 양봉",
+          "포천시",
+          "꿀벌자원",
+          "육성"
+        ]
+      }
+    },
+    {
+      "id": "7173d8f8845a268e",
+      "title": "[ESG특집] UN 기후수장, EU에 COP31 앞두고 적극적 행동 촉구…韓 경제계 영향은? - dailyan.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TeFNiV0tIVG53eGVLSzVoNDUxb2ljSXN4ZnhZU3E0V19CWGdTVHFDMW9YZ05qZ3BHbG9MejBaeFFUSXVfSUtPeGxjTk9oREtYR21DYnpoTXZHM1k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:00:03",
+      "collected_at": "2026-09-14T14:39:53.163007",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "UN 기후수장",
+          "EU",
+          "COP31",
+          "기후 행동",
+          "한국 경제"
+        ]
+      }
+    },
+    {
+      "id": "ebcc40a6f25e6311",
+      "title": "“제도 유연성 높이고 6.4조와 차별화해야”…우리나라 파리협정 제6.2조 양자협력체계 개선 목소리 - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE50RktyN1A3NGxLUjNJLWdmN2t0c3ZVZmtpcllFRmQtRnhkal9JZFBjelA4U3E2SkVCa1V2T3dDVWRUQW5NM0VPUEpobURGM0pobHduazdsd282QVZoZFh5cHA3N05BVlV2YldLatIBcEFVX3lxTFA0cjFib0VudW14d3FhelhzcXc4Y1NfMWUtRjRKTVY5TGoxMEIxMXc2UEFXUGIya3VPaVBjZ2R3ZkFyT2V5eFUyT2xvODJNVVhOSlo5aDF3YkdmX0JPMjVIdV8waEN3Y21GQ3dSSlFtWHA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:11:37",
+      "collected_at": "2026-09-14T14:39:53.163085",
+      "keywords_matched": [
+        "파리협정"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "파리협정",
+          "제6.2조",
+          "양자협력체계",
+          "개선",
+          "제도 유연성"
+        ]
+      }
+    },
+    {
+      "id": "42d217bacdde0f3a",
+      "title": "남원시의회, ‘기후대응 농업모델’ 찾는다 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SRzg5SzE0aF9NV2NCTWxKLWNLSE1YM1p2QVNFZEVTTS1WeW9sdWpCRHZETkNTRnlRZzFMY2luWGVWXzNnMURNZ1hBZkxsTjFadm56TUd5NGRXa0JjN2l1SlNOYW5iZ25vTWNQMkdKZm0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:46:22",
+      "collected_at": "2026-09-14T14:39:53.163130",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남원시의회",
+          "기후대응",
+          "농업모델",
+          "기후변화",
+          "농업"
+        ]
+      }
+    },
+    {
+      "id": "5e2adfe23ebf35b0",
+      "title": "[ESG특집] 기후 적응, 이제 선택 아닌 경제 안보 문제…英 선제 움직임에 韓 기업 '촉각' - dailyan.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84bEJtaW41d2VfeHZjOE5HdGFreE5aVEFpNTdDVzJyazRucWt2SWZoZjJDaVpXZ0lvdGFqOVAxR1JKaGFncGMwZnJTbEt5M040YjdPSEZXdzNoZw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:50:03",
+      "collected_at": "2026-09-14T14:39:53.163271",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 적응",
+          "경제 안보",
+          "ESG",
+          "영국",
+          "한국 기업"
+        ]
+      }
+    },
+    {
+      "id": "277b07edd524545d",
+      "title": "히말라야 빙하 2100년 80% 소멸 경고 재점화… 기후위기 시한폭탄, 언론은 왜 지금 다시 주목하는가 - dailyan.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YYXlOX0VRRzQ4LWMweTVpVnRSMWlDQ09zd1JqOU50OUZ4endOUEhkZDFvU2ZSS0tLRFpBc0g1N1VOMTFmRGhGMjY1S0FCUmcwcjF6b3lQSmVwYW8?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:50:04",
+      "collected_at": "2026-09-14T14:39:53.163366",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "히말라야 빙하",
+          "2100년",
+          "소멸 경고",
+          "기후위기",
+          "시한폭탄"
+        ]
+      }
+    },
+    {
+      "id": "a77ccbd5a5cac943",
+      "title": "[환경人터뷰] 김병훈 K-GX기획단 부단장 “기후위기 대응·미래 성장동력 함께 확보” - 전기신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kQWhwTWx4dXI4YktnS3B2bkE5cGVKckJ2YldCSjFDUVZHaXFOQkx3VDZWVlNPREJqQm40d1hJUE9YUjIxWmFHV01jUUxobEpsckExNVdyLWNqVFRjdGVxMGV4MEFUYzRSQ2Z5RdIBcEFVX3lxTFBrakxFVWZGSUJ6VURXWnRWM1htbjRoMGdBdERMbldWZEIzUENFUmZET0IxeG80cjI3aXFxX2JmczZEa05sMEFSREdYUlZoUXZ5T0FySGF5S1hhc1MyQUxWbGh3VkxHVXFLX0hXdkNjamY?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:50:53",
+      "collected_at": "2026-09-14T14:39:53.163492",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "대응",
+          "성장동력",
+          "K-GX기획단",
+          "확보"
+        ]
+      }
+    },
+    {
+      "id": "a508a3573fab801a",
+      "title": "기후위기 시대, 선언을 넘어 실천적 시스템 전환으로 - 삼다일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIYWxpbW5sSGR4dUlKMG5rVzZSeUFhQ0ItdmNMeHp0Q3pXRF92WW1SRU14WlJsNjZ2a2t2SjNnV3BkYTIzZGlEVENIZEtUYkg1aUtLZm5Lc1Q1eUdKQTA2V2kwRkJEWW5OT1hGVA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:30:00",
+      "collected_at": "2026-09-14T14:39:53.163595",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "선언",
+          "실천",
+          "시스템 전환",
+          "시대"
+        ]
+      }
+    },
+    {
+      "id": "a9567f12aa43ccb4",
+      "title": "[글로벌 기후행동] 역대급 폭염에 빙하 녹고 산 무너져…고산지대 '시한폭탄' - OBS경인TV",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzUmFMTFFZQW0xZjlWMmQzeEJTOFhPaUIzQ1BUTHdrUGlvd25tMmJscFlMeEZNTmF1anBZNXB1RFgycjZBNmhrYTd0UElOVzVaclNmbVlra1YwcF94N1dNUFVOOHhfdTlNOTlQdTJR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T11:49:46",
+      "collected_at": "2026-09-14T14:39:53.163714",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "글로벌 기후행동",
+          "폭염",
+          "빙하",
+          "고산지대",
+          "시한폭탄"
+        ]
+      }
+    },
+    {
+      "id": "3dc44a862e5f520c",
+      "title": "GS건설, 세계적 건축가 카를로 라티와 기후위기 대응 미래주거 공동 연구 - kscnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vOF90MTRhMDJmZUNQTzRyZXU0aFk2eTBnNkV0M0JKSms3MjhLVWpzMlNyc0JhR1VFR2lBQlZxX0JjYV9JeUxIcEZrUXpHTE41MTI5TmdEeXlNclQ3ZU5CS3N5R2FtU2xRTHpN?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:47:57",
+      "collected_at": "2026-09-14T14:39:53.164124",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "GS건설",
+          "카를로 라티",
+          "기후위기 대응",
+          "미래주거",
+          "공동 연구"
+        ]
+      }
+    },
+    {
+      "id": "aefd717b1ad16601",
+      "title": "[COP31 튀르키에 안탈리아로 가는 길]② 파리협정 두 번째 성적표 준비 시작됐다…UNFCCC, ‘GST2’ 체제로 이동 - esgeconomy.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sODRyazN5SzFadjJjQXFlcnJZTzdLMTB0anc2R1ZrMVJ1dGJSeE1pYkxTWndYelpFd3d4TW92Q0lzYUdFY3lhR0lJQVEzQ3NGSzM4TmlwQUdZVTV1WEZkOHRzNU1ma0k3OHpLMg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:41:34",
+      "collected_at": "2026-09-14T14:39:53.164198",
+      "keywords_matched": [
+        "파리협정",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "파리협정",
+          "GST2",
+          "UNFCCC",
+          "성적표"
+        ]
+      }
+    },
+    {
+      "id": "870afa0718a7602d",
+      "title": "나주시, 전국 탄소중립 우수 지자체 선정 쾌거 > 뉴스 - thekorea.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcUhZWEZzTU1jUFI3dUVMVENLSVNndDZwOXJVS3EyOFotRDBWSUIwS2dCQTh0N0JqOEwzdFJxTXRYMDZFR2xBVmdRRHpuU2d6dXI5TlhJZ01tSGEyTHRPUHV2cE1JQmJSZm9JYnVEMWI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:15:00",
+      "collected_at": "2026-09-14T14:39:53.164246",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "탄소중립",
+          "우수 지자체",
+          "선정",
+          "쾌거"
+        ]
+      }
+    },
+    {
+      "id": "3c03b3fb44196755",
+      "title": "[신문과 놀자!/피플 in 뉴스]38년 전 ‘지구온난화’ 위험 공론화한 제임스 핸슨 - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QMXVfS2lrdWw5dWUtMW1mdjRIRVpjNmJwMVNna2xKMnBhbEZ0VFdBX1B3S01rSXRyWEFpT3BJdzdZR04tQXFkUVdJQUczVGk3R3J1NVlLWTFfSHB4ajRJM1Q3Ry00Y0NaR3k5LUxTYnk5TnVQVFHSAWZBVV95cUxOYkhrYWtBV0ZTNko3Y1BKTXRKNjJtVnA0NmxHb2NnLTZIMTZLbktyZ0pCT2d1Ui1mTTdISFJPS2pHNGUyd2tMUXNYcnd0am5MTnVmZVV5bTdxN3pPdmEtVDBJUnQ2eXc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T13:55:00",
+      "collected_at": "2026-09-14T14:39:53.164724",
+      "keywords_matched": [
+        "지구온난화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "제임스 핸슨",
+          "지구온난화",
+          "위험",
+          "공론화",
+          "38년 전"
+        ]
+      }
+    },
+    {
+      "id": "a995f8e5a7f71b00",
+      "title": "관악구, 2026 '지자체 탄소중립 우수사례' 선정…기후에너지환경부 장관상 수상 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzVzdHX0x0Y1N4Q3hrWnNkd281a0JFZnQ0OVBoanhIWHc2bUlBUGt4WEZLRWJvQ0J5YlF0MVZvcUZmZnV6U25sOHliU3dxc1RpQklyOXlhdXdNMHc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:33:11",
+      "collected_at": "2026-09-14T14:39:52.971091",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구",
+          "탄소중립",
+          "우수사례",
+          "지자체",
+          "장관상"
+        ]
+      }
+    },
+    {
+      "id": "fb7996bb019a7815",
+      "title": "광주 북구, ‘탄소중립’ 우수 지자체…호남 유일 ‘장관상’ - MTN 머니투데이방송",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1uQi1KWnRUSFNySmFwRmd0Si1yUTFfRjRHTndTQUg4Z0x3Rk5aai1FSVU3VUdjZ3Flck1Sd29LS3A0ZnBGUGh3SHd3WEx5SVVqOURPcFE1Q1BIWng4am5XdXVaT0k?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:20:28",
+      "collected_at": "2026-09-14T14:39:52.971136",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광주 북구",
+          "탄소중립",
+          "우수 지자체",
+          "장관상",
+          "호남 유일"
+        ]
+      }
+    },
+    {
+      "id": "01fe5583fde615e8",
+      "title": "나주시, 시민 참여형 탄소중립 성과…환경공단 이사장상 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiZEhycEhfN0w5bGgyRmNycDlfQlhSS2tDX1Rfc09tc2hZRFVqUmlDUWhqai1NMWZYdXd4V3BSTnlDVHNleGdaMnNURkx4X3BPRGtCUWFmWVFhcVRaek1ZRNIBeEFVX3lxTE9GaDYxMnNTbVpSSk1MWUx4eV9OVEFOY3A4Z0FRSFZhUTRlQVdLYlBnYmlwM0V5SDkwaURSaWczdUgwS3FMa3JZS3k1NlVrOHV3ZDhlQW9uOVVIZnFOZXBlSXh0NFJKaVN4Qi1UVFRpcnV0bzhWOFBsZQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:07:32",
+      "collected_at": "2026-09-14T14:39:52.971171",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "시민 참여형",
+          "탄소중립",
+          "성과",
+          "환경공단 이사장상"
+        ]
+      }
+    },
+    {
+      "id": "357e7d6af425d021",
+      "title": "[오산소식]그림책·놀이로 배우는 탄소중립 교육 운영 등 - 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lazEwZ0hpdVoxNXJfTWJreTlIeXJ3NDczNWNWMS1SY3VpenhkZVVCWnJJNVB1U1M0YjJYMEJOUUdfUVF0YzFjTUd6SU1BcTJMYVhCQ1haQU96UlVQZ21XONIBeEFVX3lxTE1fMUxkUG5NdWlra2xhZEhXcXRHUFA0UGV0WEFWSDdyMWY2Z3FFTDZ0QjZNVTd5RE96ckdiY3dNNFo2RFdnT3JQYWNneUJRemQ3UVpjcWd1aEduTlhyMmw2NlNDQ2JLY0tmUGlLaG5OOFhBbmlYcFBlcw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:07:18",
+      "collected_at": "2026-09-14T14:39:52.971208",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산",
+          "탄소중립",
+          "교육",
+          "그림책",
+          "놀이"
+        ]
+      }
+    },
+    {
+      "id": "c2e9bfebf0deab50",
+      "title": "광명시 '기후의병' 탄소중립 영향, 정부 1000만 기후시민 운동 확산 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52ZTRieFZpelRxRGFUc3FqVzN0Z21sM3RTUVN4TmxVbDBFU1d3ZmthSEh6d1VDeVkwalc2QTQ5U2ltdEQ0Q0dmTmpkMzdsWGNCYWVNWnJ30gFbQVVfeXFMTW9KdHRvNVRUUWFKcjVYendlYW5hbnVCWWZEeEZmM3IxZXI2dkJkVTZ3RDZYODdISjBUMHpIajdaS2cwVGY4MFBuU0hTQXl3czg4UGZhaDFkQ0VFYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:52:13",
+      "collected_at": "2026-09-14T14:39:52.971241",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후의병",
+          "탄소중립",
+          "기후시민 운동",
+          "광명시",
+          "정부"
+        ]
+      }
+    },
+    {
+      "id": "02a7a838ac697f87",
+      "title": "남서울대, ‘2026 천안 찾아가는 탄소중립 교육’ 출정식 개최 - 데일리한국",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNRDNEaHF4al94cU5qYmJPMThNbEZ1dXJ3VWlkRmNOZGJtWHBGY1lEb1h6dGh2MF8tZEZYLS0xeG9MbnBhT0FGdWFXT01TQ0p0M3JEREhHMF92Yl9PNm5rMmpmYU41WlE5dnBxUGxMb9IBc0FVX3lxTFB6ZG9zSGJxdTBQYzlUQ2hXZ0RaaF9WVTQ4ek5BNWxXRVlQZkQyMTRQaHpuVEJPbmZteVp5SGhJQ2ZkekhFRUR1ZTZRY1d6M3Y2eWNPdVhPNGh0ZTRjVWR3TV9oR1ZzdWIxUHdRVkpKU2VmdWM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:21:11",
+      "collected_at": "2026-09-14T14:39:52.971294",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "교육",
+          "남서울대",
+          "천안",
+          "출정식"
+        ]
+      }
+    },
+    {
+      "id": "e3791c90a8ee7867",
+      "title": "충남도 천안 도심서 환경 정화…탄소중립 확산 - 충청매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EakhMblVCb0d6elBBRVJneXA0Q3BCaFVfOF81bElrUzZmWE5oWl9NOTk2TlRrSFRFbS1FVmRWZE5QOHA2d3VHaVlhVW9kUEQ3Wm9vM3haXzJkVzFwZXgxSXZxUkVweGg4akE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:10:24",
+      "collected_at": "2026-09-14T14:39:52.971328",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "천안",
+          "환경 정화",
+          "탄소중립",
+          "확산"
+        ]
+      }
+    },
+    {
+      "id": "a0c8dc2799495de0",
+      "title": "오산시, 미래세대 ‘2026년 찾아가는 맞춤형 탄소중립 생활실천 교육’ 본격 추진 - newspeak.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zQmlHMjZIdWZtVUF0T3ZrbUozWXFhSXlvOUN4OURZNzB6WEtTOTlocXJmemNweEpnLW1pRFhnSW50ZmRjYlpyanN6WlMyTjRKbi1JWUlRTmxwcGxrZ2szeG9sQjNLVTRM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:41:11",
+      "collected_at": "2026-09-14T14:39:52.971361",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "탄소중립",
+          "생활실천",
+          "교육",
+          "미래세대"
+        ]
+      }
+    },
+    {
+      "id": "392271fea66daa75",
+      "title": "구례군, 10월 ‘탄소중립 흙 살리기 박람회’ 개최 - 남도일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01T2MzcUw4dV9NS1p2YzRGbXlTZ2JLV0hVU1dCblFsRWNQM1pfZmtxeThsS3dHUEFNaWxSRWFyR093T3kyWGVJWEpta2ZtY2p5Z25MOE91bVhvQS16TExVdkJPeUEzZnJkcmVFNdIBcEFVX3lxTE9yR1JwUmx5WFg3YVBuX1NFMEEwbnpKNmtmT2hVMkpVei1UY2stUW1VMTNHTVNjSjluYmJiOE95S2JNQ2pNU3RGY2pQYkp1REhTamNUUUlIOHpuMkVMZUV5ejFxNW9la3NRakpmcDFJSjQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:05:00",
+      "collected_at": "2026-09-14T14:39:52.971389",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례군",
+          "탄소중립",
+          "흙 살리기",
+          "박람회",
+          "10월"
+        ]
+      }
+    },
+    {
+      "id": "a4b6b4511c8ea88d",
+      "title": "하림 ‘피오봉사단’ 13기, 가족과 함께 생활 속 탄소중립 실천 - 한국영농신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZDN0cjM5ekRpRF9hVW12Y1dncmxaS3Vmd3NyZWdMWHJWT041bUhxNUNNMDJpbHlvLXQ5Q1BoS000RHVSN1JPTGhwQzZKOUdNTzNCNUZkWTBydTRxSGI5MmV4bnlqNU1yTmMydWh3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:00:57",
+      "collected_at": "2026-09-14T14:39:52.971444",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "하림",
+          "피오봉사단",
+          "탄소중립",
+          "생활 속 실천",
+          "가족"
+        ]
+      }
+    },
+    {
+      "id": "1993e1da8f4f4f44",
+      "title": "평창 진부 청소년 20명 ‘과학 원리’ 직접 실험…빛·탄소중립 체험수업 운영 - 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ybUljaF9rZ0FxWDRuUXFNanZESFZ3MGxhcWNVVXZwTWxkNEt0SHVDTFlsQ3FmUEJmY3JkV0daZjh5Zmt5dVpMRTUxeThHaW94RHpTZUdxQVlISV9MSkNZS0R0QQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:39:32",
+      "collected_at": "2026-09-14T14:39:52.971479",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "평창 진부",
+          "청소년",
+          "과학 원리",
+          "탄소중립",
+          "체험수업"
+        ]
+      }
+    },
+    {
+      "id": "56bf14d6a73dced3",
+      "title": "고속도로 휴게소도 ‘충남형 탄소중립’ 동참 - 금산중앙신문방송",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVMWdYWVBNYTNHaDNwVHZZTHEteHVGQmxUa2pIeEdOV19vVW5vWDhMSEtWRElpME9tbFF2c3BvOHFNQjBRMURZNjdIUm9iVEo4bjZXNjhrTWZMYkMtenZpN29IckkyRGVkN1BRR0h3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T13:04:33",
+      "collected_at": "2026-09-14T14:39:52.971506",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ba8d5a1b5f9bf015",
+      "title": "남서울대, 천안시와 손잡고 ‘찾아가는 탄소중립 교육’ 본격 가동 - 충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIVDRBbWRWcTlqQjdlalRXVDRjY0NocVlZc0o0S3cwZS1oX3FHc0RUZ2dRdklfa1A5c0RGLWJObVBVU1c0eFlQUGZPTmFDMVVwZUhWdzc1NXNPRjZqVFdPRFF3MHh0YXVHXy1J?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:47:08",
+      "collected_at": "2026-09-14T14:39:52.971534",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남서울대",
+          "천안시",
+          "탄소중립",
+          "교육",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "b3532669a2bc9769",
+      "title": "순천시, 교통약자·탄소중립까지 ‘사람 중심 교통’ 확대 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9QX0M1dDRUeFE5U0U0T1EyQXRXd1FFM0FIclIxQWFTSnByU2NWLTlEVDBSR2tIUUttNXZCcGdaaUkzbzdkM2c1Z0QzOXpCMzlSWXpPZ04wVGEzRzU4WnZUWG1MbVjSAWhBVV95cUxQbVF5cWVNV2o3aUpqNV9SZW5mbUFvTXZKYmduSHczcWtZYWJVTlJwVmRaazgzc1ZDQk5WdFVUNzRTelcwLUVhSFd5Q3N6VWl2MGpyVGRtbXJCV1F3alFoa0pFOGFrZ28wQg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:11:43",
+      "collected_at": "2026-09-14T14:39:52.971561",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "순천시",
+          "교통약자",
+          "탄소중립",
+          "사람 중심 교통",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "be4a8b846676f819",
+      "title": "나주시, 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmVmt4Sk02N0ZQQXdYZVpkMFUtRTJqcHVLOEJMblFnSGNFRkVnbGw3bFNWMXFFV3J6bE9NU3pSMHN4NG1tLU55cElEeV85YlQyM1p3dndNV25pd0w4ZjJZNEZERXJpTFNH?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:54:46",
+      "collected_at": "2026-09-14T14:39:52.971592",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "탄소중립",
+          "정책",
+          "인정",
+          "한국환경공단 이사장상"
+        ]
+      }
+    },
+    {
+      "id": "0aaab5bda40efe27",
+      "title": "주민이 제안하고 일상에서 실천…관악구 ‘탄소중립’ 장관상 수상 - 시정일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LcWpmc1RJbGR0NTNYTXViVnNnR0hYWWdWQnUtNUM1S0xpa0E0UXZFV1JUdVdBUy10bUJJWmFhNEdZV1VQSERpSHZBSzRVajV3anJxTW9JT2owTmxtbW16RW1fWnZkbkpRaEVj?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T11:10:00",
+      "collected_at": "2026-09-14T14:39:52.971618",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구",
+          "탄소중립",
+          "장관상 수상",
+          "주민 제안",
+          "일상 실천"
+        ]
+      }
+    },
+    {
+      "id": "3fa5ea4195da605a",
+      "title": "코아스, 산불 피해목 활용 ‘탄소중립 가구’ 확대 - esgeconomy.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vQzdIVFhadi1SbXVROEg2NU9YZHJkRUVqVEtFWGRlbXNfdzl6Z2l6UlVLdDJJRW1zUGZOc1VQY08yeEl6RXd4WXlFQXBLTXFFZ0wtdlZsNkZiZ0hEeXcyOVA2WS1GbWFXeHJXOA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:30:18",
+      "collected_at": "2026-09-14T14:39:52.971645",
+      "keywords_matched": [
+        "탄소중립",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "코아스",
+          "산불 피해목",
+          "탄소중립 가구",
+          "활용",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "e8805c24f2a26ee4",
+      "title": "구례 가을, 이번엔 ‘흙’이다…탄소중립 흙 살리기 박람회 한 달 앞으로 - 광주in",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjOVNOUThRY2JtQlUybG1udGk2Nk1aYUR5cDNBQjlvZXh6QXZrTENxOU9TRm9ZQnRuMW84NXo0ZHhaV21wS3A0dW56SlJZOWtFX0ZSdG1RZmxBcWVOVnAxdTd1RFZvdjIyM1JkSw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:01:38",
+      "collected_at": "2026-09-14T14:39:52.971673",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례",
+          "가을",
+          "흙",
+          "탄소중립",
+          "박람회"
+        ]
+      }
+    },
+    {
+      "id": "d4a10934c055d99d",
+      "title": "충남도, 탄소중립 우수사례 '기후부 장관상' - 콜드체인뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBocENxeVFDTkktbjBNM1hpbTVINWFEbG9DazRILTczbUNvNVNlODJkZUFoMTBpZTRpSm4xQzNvTS1XQVV4OHU0VnR5cFp6dGZqc3V4UGY3U0x5Z2FPc0d2Wl9TS1I0Zw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T04:54:26",
+      "collected_at": "2026-09-14T14:39:52.971698",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "탄소중립",
+          "우수사례",
+          "기후부 장관상",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "778393cb64733d30",
+      "title": "‘탄소중립 우수’ 나주시, 시민과 함께 이룬 쾌거 - 전남타임스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zMVAzZlA0aDNuT1g4ZWdHaFpQOEN3VVpWQnVKTGdXOVlYcGlwRWJnS21KVkNTa25QR1RqTDgtWUFocVIwOThnQTZLRDFDSi1BZmh3emRqMXhDWFk0WTE4dk1WSEhpZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:11:17",
+      "collected_at": "2026-09-14T14:39:52.971749",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "나주시",
+          "우수",
+          "시민",
+          "쾌거"
+        ]
+      }
+    },
+    {
+      "id": "98c45fc19836e325",
+      "title": "[주민과 함께 만드는 탄소중립]관악구, 주민 참여형 탄소중립 성과 인정…기후에너지환경부 장관상 수상 - 전국뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55VW5mYVBnc21qT0trelZROUFJZWN6WVMtcmN3ZXJXMUhZV2lOSzJURFgtc3k2RUEwaHFUdGlVOS1pNmdTSFZ4UXRzVEc5WkNFOXZCSjhHYkRUd0FsZzdXcWVaSHdfYzY0M29kSGI1cEg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:23:55",
+      "collected_at": "2026-09-14T14:39:52.971779",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구",
+          "탄소중립",
+          "주민 참여",
+          "성과",
+          "장관상"
+        ]
+      }
+    },
+    {
+      "id": "06fdf44519482718",
+      "title": "나주시 탄소중립 정책 전국서 인정…한국환경공단 이사장상 - 대한뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sendIYklLOHhvVHEydjM4WHFkbEp0N2NBMkQwekRUeGVJM0h6Z3ZhMzlCbFlqU0l1MnFEMjBEY2FLMGs4cjNvOTY5YjIwWGs0UkRSTkh2MA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:15:00",
+      "collected_at": "2026-09-14T14:39:52.971805",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "탄소중립 정책",
+          "전국 인정",
+          "한국환경공단",
+          "이사장상"
+        ]
+      }
+    },
+    {
+      "id": "fcee185e19171794",
+      "title": "[관악포커스] 관악구정 성과 잇단 대외 인정…탄소중립·도시재생·정원도시 3개 분야 수상 / 재개발 공정 촉진회의 첫 시도 / 사회복지의 날 60명 표창 - 관악FM",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1heW9BQUJwSEI2NXpRdXRNWEltUEVLYUZ2Z1U1Tlk4Q0k2QVROZlNHX2VQX1lsOGR2eHRPT0EzWkw2cVA1TUU0eEhkOA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:06:11",
+      "collected_at": "2026-09-14T14:39:52.971867",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구정",
+          "탄소중립",
+          "도시재생",
+          "정원도시",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "f2ebb30ee5e4be17",
+      "title": "나주시, 시민 참여형 탄소중립 정책으로 전국 우수 지자체 선정 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLUHp4N1ZsX3FSSkFPbTJtQ3hsNmNuczR2NEU3VzhiY0oyNF9yVDc3Qnk1V1FPWkloc21tc2Q1dXpQejdvYUp6ZXpXd1g?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:24:46",
+      "collected_at": "2026-09-14T14:39:52.971894",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "시민 참여형",
+          "탄소중립 정책",
+          "우수 지자체",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "9bb16cab15fb577f",
+      "title": "서울 관악구, '2026년 지자체 탄소중립 우수사례’ 선정...기후부 장관상 수상 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vOWFrdmktMGx4aFJVVTlSbVZ5Wmx2T0I1SDR1OEFqZWhraFpDMDJJLUgzSnZZU2dmOTFmenFXTGRHSWJfajEyQ3FnZmdBc3pldFdLZWVNbXRSS29mTUxvUmNTVzBSQ3QzMnJ3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:31:33",
+      "collected_at": "2026-09-14T14:39:52.971921",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울 관악구",
+          "탄소중립",
+          "우수사례",
+          "지자체",
+          "기후부 장관상"
+        ]
+      }
+    },
+    {
+      "id": "2e4796a9fbc44eef",
+      "title": "나주시, 시민참여형 탄소중립 정책 인정…전국 우수 지자체 선정 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE40NWZPWmx6ZWdUdXNIUE1vVnFKRVR3WkN1RTN4dFh6UngtNGtTRHBFOTJCVS00R3ZsaGhTNTNQeFp3NWtJOWtWREU5azJycVFYMEVUWldpRjdkRGphNzZlNzFvVdIBaEFVX3lxTE5jZ0pSMFFqbGY4dy1XVThJRzJkbGxjWUowMFFhZnVFZ2NxV1hGRkZ4d0VwZ2JrV2toUlJfYVl5d0QwSFNUV3QtT050VU03Yy1aa3dCUFFpSG5FNmttemJ6YmpSMEtHeGRJ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:08:00",
+      "collected_at": "2026-09-14T14:39:52.971947",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "시민참여형",
+          "탄소중립 정책",
+          "우수 지자체",
+          "인정"
+        ]
+      }
+    },
+    {
+      "id": "a1f9293092cdc647",
+      "title": "“시민의 힘으로 이룬 탄소중립”…광명시 기후정책, 전국으로 확산 - G밸리타임스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxU2dDVEFUZGlNNU1jamJxRUh4c0d4NVRPX21LTmUtUUdRclEwZ0V4WDVkYVhoMy12Yk9ycUVxU0xJVjh2cWlYcS01bzQtMVcxZnJlaUVZY0YxMkZSb2dzNHNMTmd6ZjBReVE5a0Jn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:40:00",
+      "collected_at": "2026-09-14T14:39:52.971998",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "기후정책",
+          "탄소중립",
+          "시민의 힘",
+          "전국 확산"
+        ]
+      }
+    },
+    {
+      "id": "5fd5a7c1f82d8ed6",
+      "title": "[나주시 소식] 시민참여 탄소중립 정책 전국 우수사례 선정 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RUGl3YmM1SDZMTVI5RENQNm5PeW9RYnNvWExybXdtcGh1RVAyUlYzbGJISi1YTUY0VUhienRuWllHMV9WZHF0cHl1RlhaTXpvQTFkdHBzVkpfY183Ny1qb0h6RmhqMkZxZDdGcVJTWUtXTmPSAXdBVV95cUxPcjBrZmM3RkJiOUNiVTNGeFdHUjRmUkdNMHd0dTRzZERfUmttblUyV0pGajZLQjZ1Y0FCWmtZVnVUNW9FYk5TbGVlcERwRm9nbmNzcnZNX1VaYVI3ejZ3Z1RxREtKa3BHUHl4c0VDMjZDRUgtQkVOYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:05:44",
+      "collected_at": "2026-09-14T14:39:52.972024",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "나주시",
+          "시민참여",
+          "탄소중립",
+          "정책",
+          "우수사례"
+        ]
+      }
+    },
+    {
+      "id": "72f8a358718cf579",
+      "title": "오산시, 미래세대 대상 탄소중립 생활실천 교육 본격 추진 - 경기평화신문",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRGc3d1VsSUc1bEhpWDk5TTk4VEd4ZW55MHBaV19DMXdEV2tsVE0yVFBNeFdrcVZHSnU1a2FZUVlVTjJCQ3dSRGJn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T03:55:00",
+      "collected_at": "2026-09-14T14:39:52.972049",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "미래세대",
+          "탄소중립",
+          "생활실천",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "86be6417c471648d",
+      "title": "오산시, 시민참여형 '기후이음 실천 챌린지' 마무리…탄소중립 문화 확산 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RU29uN0xtb3NFZlJvVHg2a2lTeTRYWG10NEg5YUZ5Mnk2bVg0bFNaeHdMZ3BJd1BXV0o5eU5Mam55YlZwYXdPa3hvSjRUV3dxbVhhZS1nUlBaamhLNFZFcXVWS2p0bjA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:04:20",
+      "collected_at": "2026-09-14T14:39:52.972102",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "기후이음 실천 챌린지",
+          "시민참여",
+          "탄소중립",
+          "문화 확산"
+        ]
+      }
+    },
+    {
+      "id": "c5c961ce8be65903",
+      "title": "북구, 탄소중립 정책 우수 사례로 장관상 수상 - theleader.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5adE9zcEFPdDgyNjBjQ3RxUlFGNHd6OHYyaFRXNGJhMlQtNVk1cVFrRUhWb2xkZTJkdUExWWg2QTBlVno5OVBMNEo3Mm9FRVg2RXJFRUI2a3JOUUh2bHlydTFPcV9taWdiM1JOTw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:37:27",
+      "collected_at": "2026-09-14T14:39:52.972130",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "북구",
+          "탄소중립",
+          "정책",
+          "우수 사례",
+          "장관상"
+        ]
+      }
+    },
+    {
+      "id": "0ee902ae87ff6619",
+      "title": "화성시연구원 탄소중립지원센터, 화성시 재활용센터 물품의 탄소감축 효과 정량화 추진 - 화성저널",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NU05Nd0NJaEZTZFp4QVZqOXMycGFmdURtRnJUME4xMFI2cVJvVmRpb3lOa3NBMnpLUFVZSDVhTXZWZzg4NjZ6WWt0VXJvZ3Uydk1hbWdNMmV3OEdERm1OQjJFdkxpUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:26:01",
+      "collected_at": "2026-09-14T14:39:52.972177",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화성시연구원",
+          "탄소중립지원센터",
+          "재활용센터",
+          "탄소감축",
+          "정량화"
+        ]
+      }
+    },
+    {
+      "id": "a91fdb27a833225b",
+      "title": "도로공사 대전충남본부, 휴게소 다회용컵 도입해 탄소중립 실천 - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XSE4tSXd3a2lrYU1KVGZzV3VVUHlTX19jY1dLQ1JBYUJmTDdtUE4tcWppZkxOSE10aXp3a2x6M1JjUmtNZjZoaXI5dFJfRUdnS19iMGhRb2NLaEc4QzUtdExoa0NjTXJ4Z3JKTVRpYjZTRUU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:41:58",
+      "collected_at": "2026-09-14T14:39:52.972203",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "도로공사",
+          "휴게소",
+          "다회용컵",
+          "탄소중립",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "3d26caa07bcb3063",
+      "title": "[전남광주북구소식] '탄소중립 우수사례’ 우수 지자체 선정 등 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45cGVrMTByY2hmSmV5Vl8yVGRtSkdjZDVTRWJuVUVmdmhJaFpKQUNuNjcydHEwcVFWaTV0WUFjQnl3Vzc5OVFFR0dPSWI4RmNjWDVxY0dPN2E0Tm1aakpGRVd0YldlTkRHajJZM2lSWWIwNE3SAXdBVV95cUxOU194ZnBjWVEzbkxTOFRONzF4bWdDaUlLX1VTYTdiUzIwMW5KMjBqNmwtRy1udGpiV2FOZ3B2WGw5bVVrQUNma0poY0JZLWI0QnhlY0RFUUJ6R19FTzJxRE9mWFJtRnY4RVFfTS1YN3ludE00WVFZcw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:14:48",
+      "collected_at": "2026-09-14T14:39:52.972228",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "우수사례",
+          "우수 지자체",
+          "광주 북구",
+          "선정"
+        ]
+      }
+    },
+    {
+      "id": "cc88eb29a47b24c2",
+      "title": "남서울대, 탄소중립 전문강사 31명 학교 현장 투입…지역 일자리·실천문화 확산 - 뉴스충청인",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9iU1c1RjVlS2R6Q3VRSVpfc0dOaTRkOE5wWEdza0RvMDJ1YTJ4WGYyMnYybDRYZ1RCUk9zZy1XZWdlZHFteUE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:33:00",
+      "collected_at": "2026-09-14T14:39:52.972255",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남서울대",
+          "탄소중립",
+          "전문강사",
+          "학교 현장",
+          "실천문화"
+        ]
+      }
+    },
+    {
+      "id": "9879a56bc84f6cbd",
+      "title": "충남도, 천안 도심서 첫 자원봉사 릴레이…탄소중립 실천 확산 - 뉴스파고",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE54NnduME1DMzFTQ1lIWHlrRmtuRTM5QkhGTkk0NXZfREtkczhOejlEVjM3UGcxZnQ0V2puQUJIVElFWi14?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:58:00",
+      "collected_at": "2026-09-14T14:39:52.972284",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "천안",
+          "자원봉사",
+          "탄소중립",
+          "실천 확산"
+        ]
+      }
+    },
+    {
+      "id": "4dc1fee93ad31712",
+      "title": "안산환경재단, 시화호 환경학교 신재생에너지·탄소중립 교육 알려 - 경인매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Sdy1vSXlCdG9sMlU3VTRkc05BYzJlWm5LSUdQb1o4ZTVxQVRMRkRCTGtlaTliU2VVY1hhYTdkMHhYSEJjTFRHVGczV3ByNkM1SVVaRGwzQXI1c0dUM2xXMHJfSERrRjYx?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:30:04",
+      "collected_at": "2026-09-14T14:39:52.972309",
+      "keywords_matched": [
+        "탄소중립",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안산환경재단",
+          "시화호 환경학교",
+          "신재생에너지",
+          "탄소중립",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "a74f93991eaa32b1",
+      "title": "고속도로 휴게소까지 ‘다회용컵’ 확대…탄소중립 실천 확산 - 뉴스홈(newshome)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6M2JRV0dDQ2dVNVhDckVxS18wNm1udmN2d1pXQk1nOHZJNWxJTloxYm5EeVZLeEZ5SE1TUGcyQ2R2dVJVNXZvYm5HbVoyeU91TE5ZbmR1SkJwUU1KZ0NVYlU5U0pOM2dSUFd6NzZR?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:45:15",
+      "collected_at": "2026-09-14T14:39:52.972336",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "다회용컵",
+          "고속도로 휴게소",
+          "탄소중립",
+          "확대",
+          "실천"
+        ]
+      }
+    },
+    {
+      "id": "46f7d4b69d76e4dc",
+      "title": "청주시 청원구, 북부시장서 탄소중립 캠페인 전개 - 충북일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hZHNBa1lyRTNISkFDN0lHM3dvQ1BFLXBjeURfNFRXOHg0YS1XUk5vbkFUZUo1VmlLNWl6V0xnVVVYdFlhSTVFQVljNDBwU0N4cTRVMFNRdmpWWkdVanJhNTJ3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:21:47",
+      "collected_at": "2026-09-14T14:39:52.972379",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "청주시",
+          "청원구",
+          "북부시장",
+          "탄소중립",
+          "캠페인"
+        ]
+      }
+    },
+    {
+      "id": "abfae83ce4101cfd",
+      "title": "스위스 취리히 개혁교회, ‘2035년 탄소중립’ 놓고 9월 27일 투표 : 국제 - christiantoday.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ZZUFTN2pNeEVYaENNUXdEUnM1VWVleXYwSWVfODc3YlZ4T3gyZGg3dl9reXJ2elM4eEpCMHMtdnBhVXJoOWg4VG5ERTVaeUdwY0VIR0VjNA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:33:38",
+      "collected_at": "2026-09-14T14:39:52.972408",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "스위스",
+          "취리히",
+          "개혁교회",
+          "탄소중립",
+          "투표"
+        ]
+      }
+    },
+    {
+      "id": "2efd4d3f3ff2b271",
+      "title": "오산시, ‘기후이음 챌린지’로 탄소중립 실천 확산 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VcWJjVnV5WlJsRE9fUXo3ZUxmRG11NWdPSC1OMW9xem5Qa1p2QXdtcWFNWTFLVzNDeGJ6NllBb0Zad1ItR3FrVDF2QlBoUGQ1MU5aVVY1eG5DSjdIM3RBVTJNVWZ6ZEpIaWFBMXFn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:22:45",
+      "collected_at": "2026-09-14T14:39:52.972486",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "오산시",
+          "기후이음 챌린지",
+          "탄소중립",
+          "실천",
+          "확산"
+        ]
+      }
+    },
+    {
+      "id": "2b5be1511646888a",
+      "title": "구례 가을여행에 ‘흙’ 콘텐츠 더한다…탄소중립 박람회 10월 개최 - nspna.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbHVFWFhISjI0MWNoMVlSTkpUV2g4VUh2T2xHY0h0c0tQUFAyam1JZ1ZJMzByUGpfNUtXV05rTTlHZzVuRUZ1WC1rVzJkbnFBTDBKRWdXZVNxYVF2bm5vRA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:55:52",
+      "collected_at": "2026-09-14T14:39:52.972518",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "구례",
+          "탄소중립",
+          "박람회",
+          "흙 콘텐츠",
+          "가을여행"
+        ]
+      }
+    },
+    {
+      "id": "e9b488cd4d1d25d6",
+      "title": "수신초, 지구를 살리는 푸른 약속 생생한 탄소중립 환경교육 실시 - 엠뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1PLXBMcVlnSFdRX1FBVVJVZGZtV1Y0NU5JY1dfMHBZb2kxQWd5d3N5WDFIdHNMNVVNMmo4ZnNZeGpLVGViUGtKTzVxRTR6VG13eU4yQXowb3F5b0MtVWg1SEdjSGNSdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:39:21",
+      "collected_at": "2026-09-14T14:39:52.972546",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "수신초",
+          "탄소중립",
+          "환경교육",
+          "지구를 살리는",
+          "푸른 약속"
+        ]
+      }
+    },
+    {
+      "id": "addf60ac7a9f1a3e",
+      "title": "[전남광주 소식] '재해위험지역 156개 지구' 정비·'첨단3지구 21개 구간 도로명' 부여·북구 '지자체 탄소중립 평가' 장관상 수상·화순군 '서울 팝업홍보' 성료·순천시 '농산물도매시장 폐기물 30톤' 처리 - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FSVNxRU9xOFpFNWlkTFBrdnpDWktSelhMTUpVd1k3UnhWb0hQR2FPWlRYdEl3OUtBMHhZTFctYTlPbnFUUWhxemNsRVZZaHZINFdlX1B6V3owMHJzLVFNMmMtdXhxM2YyUENkWnBsSdIBc0FVX3lxTE9vaFVpNFhoaWlhZWZleUtCN3pPcnp5ZkZYODFhVDlhendUQ0E1eTYzRjZUcF9fYzlsV2lkY1pNVkpGbnVxUWN6YVdIbVcwUm1vUDExLTFOMDdNalRGSVdVWTlnc0pkc01McC1kNkRnX3cyTE0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:05:40",
+      "collected_at": "2026-09-14T14:39:52.972613",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "0ecac8da721e44d1",
+      "title": "[인천 소식] '소상공인 경영안정자금' 지원- '중대시민재해 예방 현장점검'·교육청 '청소년 정책 토론회'·기후위기 인천비상행동 \"탄소중립계획 재수립 촉구\" - 뉴스웍스",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWXFFZGltdjNZTnZHNHdtbEtNOG9YTF9GcTZPYU8wRmQyakJieENKZ3hiQnowNWRXZnRlelpZNHlPNFlYaUFWZF9rTFo3Y241dnpnb1hoZmNoOHNZaGg3bzBGb0RnVnVtNHVRRU9tbw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:13:09",
+      "collected_at": "2026-09-14T14:39:52.972645",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "15454cc221f9bc8c",
+      "title": "천안 도심서 환경정화…충남도, 자원봉사로 탄소중립 실천 확산 - 뉴스홈(newshome)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94Sm5ZQ2RhQm9LV1ZOaE9OVWEzVElFY05aU2NKWjdzaWk5RkRDejBkbkdUMmdVaDdfTjIwSjFnbERDU0JhNTJpYzVCMHMzUWlZemZVd0ZhakhIR1FaRTJNQkJWM2YwMW5WTEVHTUF3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:14:49",
+      "collected_at": "2026-09-14T14:39:52.972672",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안",
+          "환경정화",
+          "충남도",
+          "자원봉사",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "5d3793b2bdc9f930",
+      "title": "광명시 '기후의병' 2만명…시민들 힘으로 탄소중립 선도했다 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95c0RqTnpkZUEzZkh2NzZhV1dvSm8xeTd3a292clVOOXRFMlAweHplTFdCV2RvQWI3bHNCSDlsRURqNHNlcUdoY3BMdUJEVzNEeFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:31:34",
+      "collected_at": "2026-09-14T14:39:52.972698",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광명시",
+          "기후의병",
+          "시민",
+          "탄소중립",
+          "선도"
+        ]
+      }
+    },
+    {
+      "id": "c572065f495e80cd",
+      "title": "\"탄소중립 시대 냉난방 전기화 이끈다\"…삼성전자, 고효율 EHS 솔루션 대거 제시 - 위키리크스한국",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HeVpaNzh6SU0ybjdieElmZUZvMnVsZnIwR0k0OUFFWHNTTTgxUG5KT1VBTDY2MFQ4ay1XMTY0Q2xYS3J6aktQUHV2VnhueEVsc011Z0xlVWNNbEhZQ1JrUHFHTUxQek9jellaTF9CZmg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:21:04",
+      "collected_at": "2026-09-14T14:39:52.972727",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "냉난방 전기화",
+          "삼성전자",
+          "고효율",
+          "EHS 솔루션"
+        ]
+      }
+    },
+    {
+      "id": "e17600196e899a51",
+      "title": "광산구, 학교·공동주택 찾아가는 기후위기 대응 교육 - KJA뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE11Qjd6YjdwSlZNVWZJQmtmeUcyX0lWLTlJUFNWcUJHVFFDR0NtWEVrRnhDOWYxVHM0VzZnd1RGSGM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:41:00",
+      "collected_at": "2026-09-14T14:39:52.972751",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광산구",
+          "기후위기",
+          "대응 교육",
+          "학교",
+          "공동주택"
+        ]
+      }
+    },
+    {
+      "id": "2e51ed961dedd166",
+      "title": "관악구, 주민이 만든 탄소중립 정책 ‘전국 우수사례’ 선정 - 뉴스홈(newshome)",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBCM1pqQm5mbnA5NmlQNktmQzJxeUtROE0xbjJyTUY5VGJoMzl3LW9jdFEtOUo2SzdwcURGWjdsOFl1dGpFNHlUb2FISWNDRWI3b2RYQmJvUENISGhKM3ZaMXpGcnNMc3NWam5VTDN3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:08:27",
+      "collected_at": "2026-09-14T14:39:52.972835",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구",
+          "탄소중립",
+          "주민 참여",
+          "정책",
+          "우수사례"
+        ]
+      }
+    },
+    {
+      "id": "c8590c402cd8b2bd",
+      "title": "충남도, 탄소중립 실천 ‘10대 자원봉사 릴레이’ 전개 - 뉴스타운",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zMHU0eDZTMXVTdGhxT2tXWmFVcGhlODRBUlZGZ0JLZllLQ1I5WUhYMUdMeHVLb3ZqSmdMcHY5RFpkUG9GREhkdDR4bDNDbVFXY3h0ZkR2VExqd2I3eHd5VkI1UG5SN1hkTHdPd25B?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:44:39",
+      "collected_at": "2026-09-14T14:39:52.972860",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "탄소중립",
+          "자원봉사",
+          "실천",
+          "릴레이"
+        ]
+      }
+    },
+    {
+      "id": "a2e630de5de777fc",
+      "title": "충남도, 천안서 자원봉사 릴레이…250여명 탄소중립·환경정화 실천 - 뉴스충청인",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iRkxZZ1VibmZWOVVwS04ydjcwWWpxOXhwcmpfLWdtZXptbHNRcUgxTHFzQjRfdGV0NmlOcmZ3T0xUdXp3b2c?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T00:48:07",
+      "collected_at": "2026-09-14T14:39:52.972886",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "자원봉사",
+          "탄소중립",
+          "환경정화",
+          "천안"
+        ]
+      }
+    },
+    {
+      "id": "5e78d736935f718b",
+      "title": "광주녹색환경지원센터, 환경기술인 대상 ESG 역량 강화 실시 - 드림투데이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBha3JDTTVHRHc4a0VnaGhyb1paMmZOblppWmU3clZZVGpfZ1pMZ29nVjJyNVA3YjZwTDJHaWstVUNjbTZHaGFMN0NzRTNSWWVxWEt0YkgyUGtieER2TEtJTHVTaHpiM1hxRmc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:41:48",
+      "collected_at": "2026-09-14T14:39:52.972911",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "광주녹색환경지원센터",
+          "환경기술인",
+          "ESG",
+          "역량 강화",
+          "환경"
+        ]
+      }
+    },
+    {
+      "id": "0ae6a36353055763",
+      "title": "관악구, 탄소중립 우수사례 선정… 기후에너지환경부 장관상 수상 - 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAycHpVTHVOaG1kaV9MdXd5QkRnWFAzS3UxMWMwNmdOWnBqUDZxcXZ6S2FQSHdENXpLU2otMTVqQ3E4MlloVjhLT2tMUkkzZnZZR0I1bzNRR2ZFakNZN0k5akVBcGxDTEc2OVFRUkxRZlVVMnPSAXdBVV95cUxQVEpOR2dDMXo3RFQzU3F6aEVDQ2FZdWswM3FBUWRTQzJTRDQ2bjZWZDVNQVY3QUk4TTlhaFl6aFZ6T2F2R1JuMnBPMXEtby1zM2ZyQlN5cVZmdmVET1N2azN5c1ZRMkNpWDBtc0pEcUNBQXdyRTZCZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:47:26",
+      "collected_at": "2026-09-14T14:39:52.972936",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "관악구",
+          "탄소중립",
+          "우수사례",
+          "기후에너지환경부",
+          "장관상"
+        ]
+      }
+    },
+    {
+      "id": "a5f3d7cc6da5d179",
+      "title": "충남도, 천안 도심에서 환경 정화 활동…탄소중립 실천 확산 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCTTZzX1VKSkVsZWkyVmxjQXNGTHlTMjRBRGozX0ZkSDZCTnBPVkxudnl2LUVCOVNCcldRSmdMWHFQX3d2VEJaekMxdVdSeTZPZ1dDcGdRYVljOVpxRkh6VWJvaGRHSkIycTFqUjdwQzFQdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:38:34",
+      "collected_at": "2026-09-14T14:39:52.973007",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "천안",
+          "환경 정화 활동",
+          "탄소중립",
+          "실천 확산"
+        ]
+      }
+    },
+    {
+      "id": "df8231b7c04c0025",
+      "title": "HD현대, 세계 최대 가스展서 탄소중립 선박 청사진 제시 - 컨슈머타임스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoM3VCbEN4QTRaWDBxeDFNWXVHdWZkczl5NDNsbkVzQ25UWmxrNzJDQTJtbEFabjZtQ3lyYzFZX0JVOWp2ZzFrOFpRSHRlUHM4cTkwbUt2NzFyeHJXREtYTnJ5YTJZLTEzY0E?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T04:51:15",
+      "collected_at": "2026-09-14T14:39:52.973051",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "HD현대",
+          "탄소중립 선박",
+          "청사진",
+          "가스展",
+          "친환경 기술"
+        ]
+      }
+    },
+    {
+      "id": "127a4838c3504631",
+      "title": "의성군, 찾아가는 탄소중립 실천 - 시도민 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DT3FGZ3ZZVkZLaVJRVWs2Mmd0dnlyWmg1cXMtazl6U3J6dDlQVWtPMXZaeTlVM3RHSGtMRUFPQW5uRGtfdzVVZEhfZDZkVTg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T01:21:42",
+      "collected_at": "2026-09-14T14:39:52.973074",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d29a70af3d72a0d1",
+      "title": "중원노인종합복지관, 선배시민과 함께 'ESG 골든벨’ 개최 - 뉴스팟",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNMkZpak4xejc3S0RDV09qMDJhVUdqQndETTlCZUhmTnpOZXJnVUppMmR5MHZyeEp1MXgxb0ZmaktqMjA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:26:00",
+      "collected_at": "2026-09-14T14:39:52.973163",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "중원노인종합복지관",
+          "선배시민",
+          "ESG",
+          "골든벨",
+          "개최"
+        ]
+      }
+    },
+    {
+      "id": "9e46594ce08d095a",
+      "title": "충남도, 일상 속 탄소중립 실천 확산 나선다 - 금강일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuQXREcWN5WU5MLW9wTHZ4aVd6RWVwZnl3T0tjbDF0ZndHRS1BWFhYdDFCbnllbHNJU0hyTTRKdXBQTlctejJ0Szd5aVJzYXVLRnd6LWFxYVVXYU5uWjdYTFo4LWRhUzNVRVE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:13:18",
+      "collected_at": "2026-09-14T14:39:52.973205",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남도",
+          "탄소중립",
+          "실천",
+          "확산",
+          "일상"
+        ]
+      }
+    },
+    {
+      "id": "e05b3426b3134ebd",
+      "title": "사회 천안 도심서 환경 정화…탄소중립 확산 - 뉴스케이",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9say00c3ZjQUExbU5rLUZTNjhoam0wRkFHaXNQNURzZEpaNFl3TGJHa0hRdVFVejVESEt0Ym1paXdoTUhYeThYRmFSdGhXS1dzTnBva0dHd0V2dw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:17:00",
+      "collected_at": "2026-09-14T14:39:52.973596",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "천안",
+          "환경 정화",
+          "탄소중립",
+          "확산",
+          "도심"
+        ]
+      }
+    },
+    {
+      "id": "07e64392a1356f62",
+      "title": "“재생에너지가 화석연료 수입 억제·전력 도매가격 안정시켰다” - 에너지데일리",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10OWxvd0pFTE9VQWxtTXZpQk02S1hISnJHRlVaS19MYmZieWVMX09CQkxHMmw1ekhkNjFiS1M0MWZESWk2QzN1MFJFdWxGbVZfcEhBT2xRS3NLRDVBMDkzVUxaZXJxV2d5ZG15RmxDZ3RqQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:40:59",
+      "collected_at": "2026-09-14T14:39:53.105037",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "화석연료 수입",
+          "억제",
+          "전력 도매가격",
+          "안정"
+        ]
+      }
+    },
+    {
+      "id": "d707529e1b618f3c",
+      "title": "화순군의회, 재생에너지 발전설비 허가 기준 정비 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDck5iczZDNFh1a1V4enBBNkpVb05wREFjRHlVb0VPTmppUWp5YXlfbDl1VWxsd3liR216VmxVYlBfQlRPSy1uejFsTC1NM3EteTR4X3NkR3lzalk3Mk9MRw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T12:20:00",
+      "collected_at": "2026-09-14T14:39:53.105073",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "401b74f504ed3a38",
+      "title": "iM캐피탈, REC 구매로 재생에너지 활용 확대 - kyongbuk.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tVjZCcXJCTVdma2NsQWF4Nlg1THN0VVpwZ0RsY0VjVlBjR0hwdllyMXhTWFF2TVlWckszX01rbm1EelZtQWRERjdDRUQtajBBWlpRN1VaS1VzSzEtSTBxU1NnRFZWR2d4NEotME9aMA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T09:32:58",
+      "collected_at": "2026-09-14T14:39:53.105104",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "iM캐피탈",
+          "REC",
+          "구매",
+          "재생에너지",
+          "활용 확대"
+        ]
+      }
+    },
+    {
+      "id": "5f4c8d8f6ed55b30",
+      "title": "노연수 시의원, 서울시 재생에너지 계획 비판…목표 상향 요구 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBRlo0dUwwT0FUWnh6X0ZZMG5WY0I5Sm5mcV91ZTVjNWFZaGlpN0hoN0lCTHdtUE8zenlUTDRkUFhFclNhVFZQS0M3cXNvSmRZcWk4bDdibU1YTUhI?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:05:00",
+      "collected_at": "2026-09-14T14:39:53.105134",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "노연수 시의원",
+          "서울시",
+          "재생에너지 계획",
+          "비판",
+          "목표 상향"
+        ]
+      }
+    },
+    {
+      "id": "f3cb0f23de9475be",
+      "title": "산업교육연구소, [RPS 대전환 초읽기] 2027 재생에너지 시장 大개편과 新사업ㆍ新수익모델 선점 전략 세미나 개최 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OQTNHcW9pYWMzWEZTLXdCSnpHMkpFeUVrRklKRzlkaEZyNEp2Mi1wRVliZzBkM0ZDMldYWGNsQUVNczZjMkd4Umd3c29uSEdIbDFPZGpKVTR3dDZvRm0yQkJ2NVg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T04:23:08",
+      "collected_at": "2026-09-14T14:39:53.105167",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "RPS 대전환",
+          "재생에너지 시장",
+          "신사업",
+          "신수익모델",
+          "전략 세미나"
+        ]
+      }
+    },
+    {
+      "id": "3d51da0f7e0a3090",
+      "title": "재생에너지, 지정학적 에너지 쇼크 ‘경제적 방파제’… 화석연료 전력구입비 4.4조 절감 - 인더스트리뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LX25wVjlwbjBSMGVUVUtja3pCRlpiQjFvejR6YjdmMnJMTWVoMTZ0S3R3azgyRUd1OTZDcHRrWTBQRXRzcTZUUldzOTl6WEFSdTZjcFQ2Qi1jWHpabUk2VGdHV183MEVmZGlJemEzTUJCQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:37:45",
+      "collected_at": "2026-09-14T14:39:53.105223",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "에너지 쇼크",
+          "경제적 방파제",
+          "화석연료",
+          "전력구입비 절감"
+        ]
+      }
+    },
+    {
+      "id": "def983f3738c831f",
+      "title": "재생에너지 발전 비중 24.3%…제주 전력시장 다시 짠다 - jejumaeil.net",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ka2VhRUVIR1Q5Z2plb1pmSWpCd1lMYjlKYkN1Y095M2M1V3BZelJOeUpjS2U1WUpvQWxzN29YeTJKbXhyeXI1dnlxU211bUw3WDhTM1JjV25tdTlWMTdWQkFMZFc3aFEwVDBlUA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:05:41",
+      "collected_at": "2026-09-14T14:39:53.105252",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "제주",
+          "전력시장",
+          "발전 비중",
+          "시장 재편"
+        ]
+      }
+    },
+    {
+      "id": "c6d4aa350eae0705",
+      "title": "iM캐피탈, K-RE100 이행 방식 전환…REC 구매로 재생에너지 활용 확대 - 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqdVRXa3Jrd3V3VU52cndnbUhvUGpzNk9PRDlqZERrZXVTWkFzZklpQ3djb09JZFlzUTRIZlpOZlhGUGdyYVRSdmR3QVc3RHVwY3pBVVpBeGZaUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T07:00:00",
+      "collected_at": "2026-09-14T14:39:53.105280",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "iM캐피탈",
+          "K-RE100",
+          "이행 방식 전환",
+          "REC 구매",
+          "재생에너지 활용 확대"
+        ]
+      }
+    },
+    {
+      "id": "c0fb7668913ab27a",
+      "title": "국가 NDC 부합하는 서울시 재생에너지 목표 상향 촉구 - 시사1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BNi15eDZfYlU5ZkRULXI1U1docTM5aEdJVy1La09uYUtpWndFdE0zMVZzMmpqRHBZSVcxWXdwWFdTT0lZTW12azNrQzJJMlZpMW1CNzNneHpfblQtY2hXYQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:20:18",
+      "collected_at": "2026-09-14T14:39:53.105305",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "국가 NDC",
+          "서울시",
+          "재생에너지",
+          "목표 상향",
+          "촉구"
+        ]
+      }
+    },
+    {
+      "id": "e8563edc685b7518",
+      "title": "최태원 “제조 AI, 기업 아닌 국가 과제… 재생에너지·원자력 韓日 협력 필요성” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KYkZDY25kcXhoRVJqdnd5OWJhS2RnbXRHdExOYUd6MVdIQmNuS0ppd293X1hUQ19FNTRyU1E5M1ZLQktNbFdPLXAtcU1PNmRp?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T03:05:04",
+      "collected_at": "2026-09-14T14:39:53.105335",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "5309a40fca2612ed",
+      "title": "기후넥서스 \"재생에너지, 한국의 경제적 방파제 역할 입증\" - 투데이에너지",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvUUFnVjJKLXlQVEdZNFBEYzItTlhnWHBOdjg1SjMtMXhaeHRjSlpsSEIzVkthT0wyYjBxbU9VUzQ5bkVyRW1kbEJRRUtXdmtPM2dNWUgxbVpSV1JqSm5uYUlZVXdXTWRSSGFtWQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:07:16",
+      "collected_at": "2026-09-14T14:39:53.105381",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후넥서스",
+          "재생에너지",
+          "한국",
+          "경제적 방파제",
+          "입증"
+        ]
+      }
+    },
+    {
+      "id": "ebb9006cf5ac17a8",
+      "title": "가온전선, 신재생에너지 공략 '시동'…석문호·새만금에 ACF 케이블 공급 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01RkJieU5IdjFzZDhQd0s3amV4V0dEY3dodEcxVENpNmJpYWZFakRTUjZrVnhrUmhVUnNyUWR0QkhrWU02S1RmVWlUV0FIc1VBcElOV3l1d0owT3QxeUJLc0VYYmLSAWhBVV95cUxQemlFNHRheEZLbU5rR0Z3X2lGWmpmZ2luanFsNHZiV196Szc1ZzlfVFMxYk5JV1NXWXB3Yk1LVXlxV1VMdnJ1Ml9BcURDNXNaVlU1Sk1WT3dLRW90ZUZpVWVxR0gycWRIMg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:39:32",
+      "collected_at": "2026-09-14T14:39:53.105464",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "가온전선",
+          "신재생에너지",
+          "ACF 케이블",
+          "석문호",
+          "새만금"
+        ]
+      }
+    },
+    {
+      "id": "ff1514303ab5f4eb",
+      "title": "“재생에너지 확대 등 분산에너지 전환 위해 전력시장 개선해야” - 삼다일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qNmdRQlBwNm1GcWZGQUtLMjktSEtfQlJIbUM2N2IyU21qZnd2RE13TDhfZTVEbEJpbTJZS1JycDA1YzJZTjhvQTd4X0FEMkk2STNFQm8xZmdDck1mcXV0SDV4NmdwcmNvLTdjSw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:25:00",
+      "collected_at": "2026-09-14T14:39:53.105493",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "분산에너지",
+          "전력시장",
+          "시장 개선",
+          "에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "607893e2830f5c6e",
+      "title": "재생에너지 전환, 원주 일자리·소득 만든다 - 원주투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DOUx6dGFnQXVWTmVGTktkR1locEtCbFc3NEFTc1U4Ni1KN2JSNzFzbUxabEFPeDZIa0ZHNW94RFB3NDRURHRMV3pkcl9ZYW0zUlZmT1d0elVQRzN4LS1MU0JTck9LWWlTeVZSSkN3OVY?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-13T23:49:34",
+      "collected_at": "2026-09-14T14:39:53.105519",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "전환",
+          "원주",
+          "일자리",
+          "소득"
+        ]
+      }
+    },
+    {
+      "id": "59ad6ecf0d395652",
+      "title": "[녹색 전환] 탄소중립과 탄소회귀, 갈림길에 선 지역 에너지전환 - 부안독립신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KX0RySUhUbEpOSHFINkxldHJHR1FZblhBNk5SYXd2eW50c3Y3ZkEtdXNDUzRtd0NzaExNdFZIWTJ4Sm02QklDSkkzMnVhNHd0VnE5N0pRMERzTTk3UDJnNkZ4NXY?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T08:46:54",
+      "collected_at": "2026-09-14T14:39:53.105574",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "녹색 전환",
+          "탄소중립",
+          "탄소회귀",
+          "지역 에너지전환",
+          "갈림길"
+        ]
+      }
+    },
+    {
+      "id": "d5e28e40834ae61c",
+      "title": "정부, 태양광 공급망 재건 나선다…‘산업경쟁력 강화위원회’ 출범 - thedailyeconomy.kr",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zS1V4Zmc5MEVuMXB3U01ZTlVfTUxzeXo3ckJwRlVnNEhqdHl3V21IM0J2WkFoYks2NEstQUFhT3pTa211d0dyemluSkRULXhDWnhfVGZYaUIxYjhWR3NoSUNBRWVZczkxaE5FWUJUWWw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T10:44:42",
+      "collected_at": "2026-09-14T14:39:53.105602",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "태양광",
+          "공급망 재건",
+          "산업경쟁력 강화",
+          "위원회 출범"
+        ]
+      }
+    },
+    {
+      "id": "97648baac98b1050",
+      "title": "제주 15분 전력시장, VPP·양방향 입찰로 확장… 전국 재생에너지 시장 '시험대' - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zb29BUk91c1o3OG5iYkVjdjJPUnVBOWw3dG9WM25OTnVvTmM4blZjT2lWS29FY3JRR3FQT244a0xmNldOYnZ1a2tidXJ3TU0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:28:11",
+      "collected_at": "2026-09-14T14:39:53.105631",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "제주 15분 전력시장",
+          "VPP",
+          "양방향 입찰",
+          "재생에너지 시장",
+          "시험대"
+        ]
+      }
+    },
+    {
+      "id": "e5741d000714dddd",
+      "title": "[ESG 경영 분석] \"보고 항목 70% 확대\" 오스템 임플란트…\"투명성·안전·재생에너지·국제 인증↑\" - 이코노미톡뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fR01KMGxOYzVyWlBCQ3Q1dUdVTWJZM1YzZmtOd1hDajRNdUI2eElGSkZ2b1Q0STl6ckRDVTNFUTVzdkFXdkNrZGxveXY3ZEZ5WEZlLWZORm1CRkM3bWRZMEtfYU1NWmlkNkI5ZA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:03:41",
+      "collected_at": "2026-09-14T14:39:53.106038",
+      "keywords_matched": [
+        "재생에너지",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG 경영",
+          "오스템 임플란트",
+          "보고 항목 확대",
+          "재생에너지",
+          "국제 인증"
+        ]
+      }
+    },
+    {
+      "id": "fc280fff08ce6518",
+      "title": "안산환경재단, 태양광 경주대회서 시화호 환경학교 체험부스 운영 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwN1Q5djBXaXllY1VpOEhuQ2Q4U3F6bXZvWWg3M29WY2tsNi00djdXazZPaUh4UjYtYVE3SndCRHlnNmYzV0dSNXRTYUhYUEg5WkE0YzJZM3hxeUc4Z0FUN09SUkjSAWhBVV95cUxPM0hmajYtcVFzLWV4Y3V5UUZBSkdETk1vbXRtYWozcFBuVV9RVmtweWtlclhOTk9qMnNZZF85bURzekFzRVBBd0VrVVFkaC12Q2JUTFIxUWc1TlNLYW5kT0VXNTFqcEJqSA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:08:48",
+      "collected_at": "2026-09-14T14:39:53.106159",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안산환경재단",
+          "태양광 경주대회",
+          "시화호 환경학교",
+          "체험부스",
+          "환경교육"
+        ]
+      }
+    },
+    {
+      "id": "1ba17881640dba0d",
+      "title": "재생에너지 확대로 한전 화석연료 구입비 5개월 4.4조 원 절감 - 스페셜타임스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsWUwtRVROeE1hRWNncGxsai1SUWFEZ2NwVTVuSG9PbU1UM0p0Z0s3d2ZOVDJTVEJVV1RGNFo0NG52LVBhekFPSEU3MmFlTEdaaUVHZ1pHc3NEemtuSHBlRHJmdUV5SExxZm96Y0pUSFBRWGM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T00:04:55",
+      "collected_at": "2026-09-14T14:39:53.106266",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "한전",
+          "화석연료",
+          "절감",
+          "확대"
+        ]
+      }
+    },
+    {
+      "id": "9f2c476335a39072",
+      "title": "iM캐피탈, 'K-RE100' REC 구매 방식 전환…재생에너지 활용 확대 - 아시아뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aQmh6ZTlMUllGMmhXbXdsQVRXVXpMaEtxX2tybG1GZVVjdGp1Tk5mYUxZMjgxOERubjRxelI1TWlZUnRWU2lyakZvRTlleWlwRmFKM3dkVFhwdVhqX0ZHbkdZRVY3WWJmMVh3S0hyRmE0RGxK?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T02:28:33",
+      "collected_at": "2026-09-14T14:39:53.106294",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "iM캐피탈",
+          "K-RE100",
+          "REC 구매",
+          "재생에너지",
+          "활용 확대"
+        ]
+      }
+    },
+    {
+      "id": "2e7c4e845a399a4b",
+      "title": "화순군의회, 재생에너지 발전설비 허가 기준 정비 - mhns.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IZ3BYVENBZzNrYUt2QjVWOHN0NEF0Z1BWc1VUNkQtdjZuSk1FVjhWUHJfR0ZNSkdsZC14QWcyV2djenNvMUhCbWloalh3UVhqVk81YXRqc1Rlb2dSa0FVeExUUlp2SGJP?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T06:33:26",
+      "collected_at": "2026-09-14T14:39:53.106345",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화순군의회",
+          "재생에너지",
+          "발전설비",
+          "허가 기준",
+          "정비"
+        ]
+      }
+    },
+    {
+      "id": "c4cccf81ea244a16",
+      "title": "서울시의회 노연수 의원, 서울시 재생에너지 목표 상향 촉구 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1RlpWaTYzTnd0dGVidWNkRXdZTkpjemtQUkl6ZUwxZWFuZnhEdkZOQ2RzVmxXZFBKYzgzU2R5ZkNybU5naWcwcTNHWGhNdnBQdUJ0Z21mMUhBUldzVzJYWE9XMlJsbUtrZ2toNFJJR3VQUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T05:43:33",
+      "collected_at": "2026-09-14T14:39:53.106595",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시의회",
+          "노연수 의원",
+          "서울시",
+          "재생에너지",
+          "목표 상향"
+        ]
+      }
+    },
+    {
+      "id": "f390186ba94df7d3",
+      "title": "안산환경재단, 태양광 모형자동차 경주대회서 ‘시화호 환경학교(안산)’ 홍보 - 경기종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSjBiLXJBSDgwR1F3RkVNckk4bXg2M0toRW1rSEpKb19fYXVCZ2Jwb3lzY2piZUhmTnVWcnNwYjNuczlrNjlRZGNDUk4yT1lZbDYtUWU3aFduVHhmYTBhejRaaUk3QU1WN050VURULWRqX2ts?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T03:39:01",
+      "collected_at": "2026-09-14T14:39:53.106718",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "안산환경재단",
+          "태양광",
+          "모형자동차 경주대회",
+          "시화호 환경학교",
+          "환경 교육"
+        ]
+      }
+    },
+    {
+      "id": "ca4c088d3e947ae9",
+      "title": "한국동서발전, 용인 1000MW로 ‘53GW 한국발전’ 이끈다…반도체 전력부터 AI 풍력까지 경쟁력 확장 - 업코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONXdUOExDbVB0VENmc2JTQ2VmeHRRdElzbnl0cUM5ekZVR3VybEg4cS1pY0tzVklKbTk1dnAyWVVNWFVVZGc3amluUWI2RWNfT2x6Q1hka3JicklleXdFRWN3Tkxrb3p2RTBLNUl3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-14T00:58:09",
+      "collected_at": "2026-09-14T14:39:53.106787",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국동서발전",
+          "용인 1000MW",
+          "53GW 한국발전",
+          "반도체 전력",
+          "AI 풍력"
+        ]
+      }
+    },
+    {
+      "id": "d12b592e3b422586",
+      "title": "안방 내주고 북미 총력전 ‘K배터리’…성패 변수는 결국 ‘원가’",
+      "link": "https://www.khan.co.kr/article/202609142057015/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-14T11:57:01",
+      "collected_at": "2026-09-14T14:39:53.575552",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "K배터리",
+          "원가",
+          "중국산 배터리",
+          "북미 ESS 시장",
+          "전기차"
+        ]
+      }
+    },
+    {
+      "id": "099291576f6abb05",
+      "title": "미국서 현대차 하이브리드, 유럽서 기아 전기차 잘나갔다",
+      "link": "https://www.khan.co.kr/article/202609142054005/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-14T11:54:00",
+      "collected_at": "2026-09-14T14:39:53.575698",
+      "keywords_matched": [
+        "친환경",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "현대차",
+          "기아",
+          "하이브리드차",
+          "전기차",
+          "친환경차 수출"
+        ]
+      }
+    },
+    {
+      "id": "4c763b8d7c9d9cab",
+      "title": "YOU HAD ONE JOB THE GREENS POLITICAL PARTY! Climate change is destroying life and you exist to save it! - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWkNpbDJuWjk4VFIxNnFqcGJBOThISXV5LW95eWlRQzYtM3RZUFB2ZkNMaXRGSnVONUJaZGlKeEtscVNQUDh0eUZ2ZjVBWVNuV0hsNVV0U29XWmxQajFWcDJTSFpqZWUyTmJPRDdBcGp1VmlGaERDaElnT1JRVW5RaEJlYTlHdmtjVGtfMTF6M2stTDVpSDBLdE1qc0pPaXAyU3QzZnJNQ3MyLXVLd05zbjlpT2JocG4weDRXaVVwMlZYVkVYZnFRbU9RWFprLTk2ZDlWbVRwTGhxRkpQQmFwS0JBZUFseGFwaW9tbmRDZ1RLaUZBV2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T08:04:00",
+      "collected_at": "2026-09-14T14:39:54.151217",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "녹색당, 너희는 한 가지 임무만 있었다! 기후 변화가 생명을 파괴하고 있는데 너희는 그것을 구하기 위해 존재한다!"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "녹색당",
+          "기후 변화",
+          "생명 파괴",
+          "책임",
+          "구원"
+        ]
+      }
+    },
+    {
+      "id": "e773cef0ba3f80ad",
+      "title": "Global Warming Will Breach the 1.5 Degree Celsius Limit. Now What? - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3BNbWJpQXRjdENUVEszbldiS3VUcW5NNHUtUW91WG1TalRjbm1zZ2dkZklPNUUwNWRSNzV6M2VKb0I0aUpIQWo3aE5YMnpyQjBBVVB6dkFwMER4aWE2UmtqNmw3OWhETHRoVmhEeE5HWmV4MmV1WmduRmVtaEE2cW1RQk9venNlb2pqRUpCZmFLS3RYRTZz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T12:26:00",
+      "collected_at": "2026-09-14T14:39:54.151279",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "지구 온난화, 1.5도 한계 돌파할 것. 이제 무엇을?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "지구 온난화",
+          "1.5도 목표",
+          "한계 돌파",
+          "기후 위기",
+          "향후 대책"
+        ]
+      }
+    },
+    {
+      "id": "20539071defe808f",
+      "title": "Deadly silence: The world can’t afford to ignore climate change much longer - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRXBEUlZzV1BTT3l1eElkcGpPQzAyeU80RUljdkF1MzlYZHVXV2N2UVRDYldsdnF4a2FQdXljTE5FQWk0eGd0QUc3NDJGTlhqT2hTcnNobFBWUGRqRUhsSERoaTNlTkpqenpnVUJ1cmZaSkE0emRkV2NFaWdOUVFzYTZkd2NkLXJvWFHSAY8BQVVfeXFMTmsxYnBEd0N1QjlBOXB6eWg2Qk5ocERpY2hNWjVVcVU4NUVrMnZ3bTdYdkI1TTdOSE9acGFKei11VndZa3ZtRWVnZlNrTkhjQlhIazNXVkpsY0VSQVg3QmlqOU84NVpCUThlYTFqQkZmLUQ4WTFnTGZ6U1lQVHQyVWpQLVJWTi04VTRsM2RWT2c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T12:00:00",
+      "collected_at": "2026-09-14T14:39:54.151320",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "치명적인 침묵: 세계는 더 이상 기후 변화를 외면할 여유가 없다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "침묵",
+          "무시",
+          "경고",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "a49c52ca33ae2852",
+      "title": "How this summer may have been when climate change felt real - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05NEs1NkxjbmtuUDBFSWhreHRSdlhRVFo2VmlFVERuYjFicjdHVk45UzZEZnpPdXNsVk9MVWJ1YlBIOWhuX001WUlYZENjN3dIMzA3dU9NX3RKdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T05:22:40",
+      "collected_at": "2026-09-14T14:39:54.151349",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "이번 여름은 기후 변화가 현실로 느껴진 때였을지도 모른다 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "여름",
+          "체감",
+          "현실",
+          "BBC"
+        ]
+      }
+    },
+    {
+      "id": "326123cef7126881",
+      "title": "AI more urgent threat than climate change, says scientist - Sky News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2JjQXNMa2RMdllVY1pfYVV0dl9rWk9EZzd1cTlOYjFiNlU2OS1xTDNzNEQtOXJiU3FPZFJ1cmpRb1pHbjhUbFEyVjlocy1xX0ZiZlBmUTNGbjQ4ZFpkQjdfcHg1OTVMQ1A1TmtRSnlvVVNYYVRQNHRlUFp2XzFJMHpCQnFqSzJRMXRhUm0wN1dBLXB1djQ4?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T11:52:09",
+      "collected_at": "2026-09-14T14:39:54.151433",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2d9e56e464a8ec32",
+      "title": "Prince of Wales: Inch-by-inch action won’t tackle climate change - The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVnhTdFpzQ1U2eUtITnFLSUVxS29pcFVKTzZ4a2ZiMTVxODVkV0dvZUlaZV9iT1ZzYTZiQWFnNG9uZ0pXZEs2d1RlTWcwZWFZY0ppWDkxbmZRZFAzSWQwb0J3eFF4bjM2VDdqYU94SFVDOTBmYWd5UDdMa1hvcWE3UEJ5aG5SblJteWZJ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T11:53:00",
+      "collected_at": "2026-09-14T14:39:54.151496",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "웨일스 공: 점진적 조치로는 기후 변화에 대처할 수 없다 - 더 텔레그래프"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "웨일스 공",
+          "기후 변화",
+          "점진적 조치",
+          "대응",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "187a87e6d99ab0c7",
+      "title": "Trump Tears Apart Major Biden-Era Climate Change Rules - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWJaM2FGa05Ld0FzNlV0UUR3SmNfOF82WjlycmVvX2UxWktnUWFHZHNkUVJtYXJ1eXlOOGt0VDlZRHZTVU51dTJYOW51SW9ubXdsUHo5RWdZeUVpYlphVU1OQmw3TGMyWkhKZTVzSTFadXhtOUVWRlZlYnJRdUhBQ2VB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T10:53:00",
+      "collected_at": "2026-09-14T14:39:54.151525",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "트럼프, 바이든 시대의 주요 기후변화 규제들을 폐기하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프",
+          "바이든",
+          "기후변화",
+          "규제",
+          "폐기"
+        ]
+      }
+    },
+    {
+      "id": "ce46cc77916bd05a",
+      "title": "Climate change is proliferating diseases and pests that threaten crops and forests, report says - Maine Public",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnE0ZzFMSTJNZDdvZTlDdWJrVG9HR1M4Y1hINHRoMDlxZHFkZzFGTktJM1BQcG9VaFdtbzJzeVY4elRSWXlaTWdxUkdWeXd3ck9GU2VYVS1JNWFPelVjY04xSzJMUjlKMzJ2VkdxTnB3ajNaSU1JekFxaDNQcjNJM1F5cTRZWHJWMnJMYTNmenppak5QR1daVDJRTWFzYXVvUk9Yb29NNGJnMGdnSlE3LW5YYU0xdzdBTUZNUUNPcmpYQjRlMHVQMGZiVUNTbFJaYnI4V2d6X2s?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T10:50:00",
+      "collected_at": "2026-09-14T14:39:54.151557",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "보고서에 따르면 기후 변화가 작물과 산림을 위협하는 질병과 해충을 확산시키고 있다 - 메인 퍼블릭"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "질병",
+          "해충",
+          "작물",
+          "산림"
+        ]
+      }
+    },
+    {
+      "id": "77688ecd9ed1b86d",
+      "title": "Seasonal winds and climate change ramp up Tahoe, Placer County fire risks - Abridged – PBS KVIE",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tWGZjTkUtcmhxMExiUkladGFqMGd5YzFKa3VReUEyVmhKbzV4OU5GSzRYQWg4Q1BjWl8wRHhEWndBM25ldVNlU1NadTg2VV9URERCbEFsNWE2T2QzejZQNm1uTUVQTmZUODZVNA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T12:04:21",
+      "collected_at": "2026-09-14T14:39:54.151642",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "계절풍과 기후 변화, 타호 및 플레이서 카운티 화재 위험 증가"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "계절풍",
+          "기후 변화",
+          "화재 위험",
+          "타호",
+          "플레이서 카운티"
+        ]
+      }
+    },
+    {
+      "id": "6cccf921dd24c633",
+      "title": "Trump EPA is to eliminate rule that limits planet-warming greenhouse gas emissions from power plants - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMkFuTkdCLUw1SUhVbjFHbUc4N1dBNlRGb1lCZ2FzVm55ZTlWU3NMcWRhYmEtRFRNWlJ5enh3cWdsWWZxeGFENmMyMkRBaHpYX2J2OWpGa0lEbkJsSThFNXZ0UmV5LV9ydmpCcFR0RnlvQ3EyeFNJNS1MbVBvQjNRTVl0c2NHdlBGS2V4aVVUcklUSnl0SG04UHpLS2ZKVnRVVWfSAacBQVVfeXFMTXBVcFgxeWhaRnF1eEY1dzB1YjhhcHdDWmFPSl9FNGpEVUVoeWpwR2xvRE9odDZGOEFNOEh1RnVYQVNDbU9neGx6bUM2S01NY3Bqb2IxQmVqc0xJSjVucldpODNsamtyWm13Y3dQZDhvVGljZktuaFhIRXU1VWdFcWhQQ0IwYnprdklaMDZ0WnNKXzRyMHp0ckRGbHNLOVBqbTZjY3hOOTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T14:31:09",
+      "collected_at": "2026-09-14T14:39:54.151710",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "트럼프 EPA, 발전소의 지구 온난화 온실가스 배출 제한 규칙 폐지 예정"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "트럼프 EPA",
+          "온실가스",
+          "배출 규제",
+          "폐지",
+          "발전소"
+        ]
+      }
+    },
+    {
+      "id": "b18d148ea3298af0",
+      "title": "Storebrand AM calls \"the end of political apathy on climate change\" - AMWatch",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FWFc0aVhmTzRvbVhBQ1QzWVg1NWtIemx1S0V5bFJoNVN2czNXSFdCUFBIV2EzdjQ4X3VMRmtJLWg5aWV5QUhwRi1UMEhkY2ppeGxXd0k4bHI3ZnpjZWowVkZFUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T07:30:26",
+      "collected_at": "2026-09-14T14:39:54.151763",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "스토어브랜드 AM, \"기후변화에 대한 정치적 무관심의 종식\" 촉구 - AM워치"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "스토어브랜드 AM",
+          "기후변화",
+          "정치적 무관심",
+          "종식",
+          "자산운용사"
+        ]
+      }
+    },
+    {
+      "id": "1ee1b14f87a0202c",
+      "title": "Prince William urges urgent action on climate change in Independent article - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWG9ZSzBFdmpRWWswY1F4Qk9Fd1dxcXZGajdZSGhBcTE1aDFFdElxWFNWc0NzUzFtUGctdEJFaFJCZFlLem1tUFVOaDMxMzFXQkVNRUFfSDNCZ3FfOVZxeDh1Z1kwMTdPOFpsdU5zbUxOV0VCMjZZRzBRaEtNRXhaMUI4a21iWjhJN1JN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T10:43:07",
+      "collected_at": "2026-09-14T14:39:54.152029",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "윌리엄 왕자, 독립지 기사에서 기후 변화 긴급 조치 촉구 - 야후"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "윌리엄 왕자",
+          "기후 변화",
+          "긴급 조치",
+          "촉구",
+          "독립지"
+        ]
+      }
+    },
+    {
+      "id": "626075bdd108e1a7",
+      "title": "How climate change became a healthcare issue - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWZjQ3g4R3kwYjBUaGI3UDRjTmVxUzBaeXRvZVE4Qnh4WVNMY2tKNWszV1l5YUhvV0NLdk12OXl0bXU5V04wRWhYM3FSdkg4ZUxaWEEtRHRmMHBPdnNBaTlYVEJjOGxpbVl1RWRWNEU2RHplYTJLVFd1ZFFYTmpVOFBYUVoyVUpPVEgtT0NJX0JqMGhEQ2g2blhVdWJKaUhNMHNLYVdickdERURibU9mTXhIeTlsNTRUTUhrSEx6RzFFVVhpb3dDTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T01:21:00",
+      "collected_at": "2026-09-14T14:39:54.152054",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 어떻게 보건 문제가 되었나"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "건강",
+          "보건",
+          "문제",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "61567214f062ea06",
+      "title": "How this summer may have been when climate change felt real - bbc.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmdm9UYXhJZnN4QXZQajI5RWhkZy15c1FGZFREdEJBUElNR0xyNjdNS3c3Rmx3M3pBUmhVZl9HLTNxaU1OZTFYbW1QWWxVVVdPZjBzUl9hQmVVUEJY?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T05:22:40",
+      "collected_at": "2026-09-14T14:39:54.152104",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "이번 여름이 기후 변화가 현실로 느껴진 때였을지도 모른다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "여름",
+          "기후 변화",
+          "현실 체감",
+          "경험",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "b4e46b6b4b960030",
+      "title": "Why Prince William’s urgent call for action on climate change in The Independent is critical now - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnY2Mjc3ZVpuWHpIUlFEU3hCSEZHMjFBTlZGcHVHSkxCcm1aZmFaUUhUX2lLMnk1Z0ZFazBWVTBrVFltTnhYLThkR2xZZGg5YXptYXJLVW5mMHFraFZZdWM2QkRleVN5UmN0b0VYWmRTc2FEWkloQmFDd01pYXZHaF93Ymg0QQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T07:03:03",
+      "collected_at": "2026-09-14T14:39:54.152352",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "윌리엄 왕자의 인디펜던트지 기후 변화 긴급 행동 촉구가 지금 중요한 이유 - 야후"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "윌리엄 왕자",
+          "기후 변화",
+          "긴급 행동",
+          "인디펜던트",
+          "중요성"
+        ]
+      }
+    },
+    {
+      "id": "59c68cf45ad70007",
+      "title": "Climate Change Impacts Bali Via Floods and Water Shortages - balidiscovery.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0lTUk9mWGZXazR3ajBaM0hXYWthc1dpc1U2ZnBKWW16QmJJLVlPTENjeFpoUEFwT2I4Zkxob3hwWlowTXdUWXlLalRoQ1N2VFlGdE5VT181eEtPWXd0eFF4WEdOR0I1dlhzRy10eDdzYUYyczZpRkFwVzZ1STJZdV93aTBoNVhGOU0yNkxB0gGOAUFVX3lxTFBPSVNST2ZYZldrNHdqMFozSFdha2FzV2lzVTZmcEpZbXpCYkktWU9MQ2N4WmhQQXBPYjhmTGhveHBaWjBNd1RZeUtqVGhDU3ZUWUZ0TlVPXzV4S09Zd3R4UXhYR05HQjV2WHNHLXR4N3NhRjJzNmlGQXBXNnVJMll1X3dpMGg1WEY5TTI2TEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T07:39:39",
+      "collected_at": "2026-09-14T14:39:54.152381",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "beeb418cea339df9",
+      "title": "Hanes: Climate change is the forgotten issue of the Quebec election - montrealgazette.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcWRDeXZad3E2R3Zhc3RhdzZkQWl6T1hvN1g3U0hWbVBSYnhGT2VhQ2wwdkNILVZYSUpFVTV4RW1MaXkxQlp4ZWZYSzN5QzBxRVlBNWNEdXQ0Vy11MHRVWnFWNlM1S3FzLVlZaldadG1xQm1iUDRCSEZLcVZubXBNdlRfNVo2VVdJVEJNRTZNczRJd3JEeHFNSW13?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T09:00:00",
+      "collected_at": "2026-09-14T14:39:54.152430",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "9f6515640d8eb1a0",
+      "title": "Ugandan coffee farmers take the heat from climate change and thieves - The EastAfrican",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmRCUWY3S2pEOWFLWDR0b29ZVU5nZXJidU9FNUZaSkllR0VsZHJUc29mNXZvbXM2ejItTlAtZENjalhaYTlUak15bzdreHVOYmZiNDNNZGc0d2dVOTQ4SjcwcExTSE16Wm5aWlRfN011aEdRdloyS3NHYmpyVDlvS0hBRGVpWlpNRVNjcUltZ29fZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T14:00:00",
+      "collected_at": "2026-09-14T14:39:54.152887",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "우간다 커피 농부들, 기후 변화와 절도 피해로 고통받다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "우간다",
+          "커피 농부",
+          "기후 변화",
+          "절도",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "9a9d878a31cd7949",
+      "title": "How Climate Change Is Reshaping Urban Vulnerability, Social Health, And Community Resilience In Pakistan - The Friday Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdjRuVnpyZUtZcnk1bWhZNUhpZlJ4TXllRDNsQ01vQXNzX2VXdG0yWG9PUW5aMWhiVGp3YU5fSm8yQXliaEZCWVhKQ1N2ckViU3FOSGk4aGJRS0JZZ3RyZ1ZxT1dVdGx1VzFSUWh2LXZlbEd4dC15RWliajF3S1VrMzZkenF0aWdkcFFLNzRKQ016WU8wWGxlZTk1d1lJTElJRllxb1BKOWgwUV9zZUgwTGZUWWs1N0lMVHVmTl9LQS1qQVAyTU1rX1o2cw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T13:55:00",
+      "collected_at": "2026-09-14T14:39:54.153038",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 파키스탄의 도시 취약성, 사회 건강, 그리고 지역사회 회복력을 어떻게 재편하는가 - 더 프라이데이 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "도시 취약성",
+          "사회 건강",
+          "지역사회 회복력",
+          "파키스탄"
+        ]
+      }
+    },
+    {
+      "id": "f541ca0bc121b890",
+      "title": "Respect Mother Nature: How climate change and travel intertwine - The Star",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWVaNEdNU2w3TjRaal9jUHp6RWpLOWlmTFh3ekdnMTM0bVZQek1wbGY1dW40dC1pVnZVZEgtN0EzaEF3NFhBZzJKUDJvZXEzV2xlQ01yV1ZhS2RCZTZwMU1uVDhEeE1LNUpseHRZT3I5d0Z6NEdnc0NoLWdnRGMwNU12VzRDeHpMUXNCejhPbjlQQ1ZjU0x0ZHdPX1ZqQkhpeUg1bTh6Z3VTNERHVUFrTzEzckVGd0wz?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T09:00:00",
+      "collected_at": "2026-09-14T14:39:54.153464",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "ba055d196207e1d4",
+      "title": "William's stark clarion call to tackle climate change - aapnews.aap.com.au",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjdUOUpOVWxPcVM1Yndnenk4TGtJSEtidUlCNDE2aVN3eWM0bGhsdUtaOXphWjJ3TWlZWUpBamJsVWk0V1ptOHJSZDEzZDAxdDlKczRpWWxQN3J4MktsMFZwRnVpUUFSU2JxU2liV2VXVXBEMjUyRkpfdHJKXzVYanRfYURVNV9FZFNPSy13?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T04:58:31",
+      "collected_at": "2026-09-14T14:39:54.153519",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "윌리엄 왕자, 기후 변화 대응 강력 촉구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "윌리엄",
+          "기후변화",
+          "대응",
+          "경고",
+          "촉구"
+        ]
+      }
+    },
+    {
+      "id": "96758b8464ff2992",
+      "title": "Heatwaves becoming hotter and longer, accelerating faster than global warming - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVkY3MzdERk5YMDhRYlR3X1FUeHhrbHg5Y1NzYXA2TGlBMVBZNDFoVFM5cF9Wb3M3SGFxNWRPX0hnbTdqejFTb2NLVm00bGtJQ3FtXzJuUVhfMDNrV1E1V01KQndtU2tkUTI4SWo2bWNyT3psVTBzV1JYMEYtVHBqdHdVOTIzNThrcmFpV3lDT0d2VWIzRDUwUkJGN3NoTXFhQlllUmlySXV0V1JfZV83aXNYUWx2UnNDaFdwT2o2VkwtYng1bm9QXzFsNC1yZnZE0gHWAUFVX3lxTE43SUtQdnc0RnNMcjJFaEFvc2VqVHRENjNWMXR5RmxCZzdVMHlGR1BXX2o4YXFVTEk0SDRUelp3bzVNeWIzQjMyMmt0RnVETXBsUnJrNUdBeWdkOGhEdURZX082dnFvelVDOVJIbUdObXFvZllvSVY1Wmt2M2EtMnpkTmdoNVc4bkFJdm1FVkd4bU1pQWxfbkZjWE1YdTA1LVphTmJGRVFvWENmajB1QlVJb1hIMEJKYkJPYnJuVXpDNmNPMmN6QlA4cVJpbVFYTDV5VWJOd0E?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-14T07:11:01",
+      "collected_at": "2026-09-14T14:39:54.153570",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "a869a4b907a44678",
+      "title": "How this summer may have been when climate change felt real",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk5lx96po?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-09-14T05:22:40",
+      "collected_at": "2026-09-14T14:39:53.636766",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "이번 여름은 기후 변화가 현실로 느껴진 때였을지도 모른다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "폭염",
+          "가뭄",
+          "산불",
+          "여름"
+        ]
+      }
+    },
+    {
+      "id": "eda08248d79709bf",
+      "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
+      "link": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-14T11:30:56",
+      "collected_at": "2026-09-14T14:39:53.659391",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "77b5898c40c50aef",
+      "title": "YOU HAD ONE JOB THE GREENS POLITICAL PARTY! Climate change is destroying life and you exist to save it! | First Dog on the Moon",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/14/you-had-one-job-the-greens-political-party-climate-change-is-distroying-life-and-you-exist-to-save-it",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-14T06:57:02",
+      "collected_at": "2026-09-14T14:39:53.659638",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "29a70ce42404af3a",
+      "title": "Disaster insurance, datacenters, right to repair: meet the midterm candidates running on green policies",
+      "link": "https://www.theguardian.com/us-news/2026/sep/14/midterm-candidates-climate-datacenter-policies",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-14T11:00:56",
+      "collected_at": "2026-09-14T14:39:53.659934",
+      "keywords_matched": [
+        "climate change",
+        "climate crisis"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7c6d75d6be90abea",
+      "title": "Revealed: England’s June 2026 heatwave sparked record demand for ambulances",
+      "link": "https://www.carbonbrief.org/revealed-englands-june-2026-heatwave-sparked-record-demand-for-ambulances",
+      "summary": null,
+      "source": "carbonbrief",
+      "language": "en",
+      "published_at": "2026-09-14T07:00:00",
+      "collected_at": "2026-09-14T14:39:54.097191",
       "keywords_matched": [],
       "translation": null,
       "sentiment": null,
