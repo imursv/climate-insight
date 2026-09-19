@@ -1,16 +1,16 @@
 {
   "date": "2026-09-19",
   "metadata": {
-    "collected_at": "2026-09-19T01:07:33.702115",
-    "total_articles": 42,
+    "collected_at": "2026-09-19T12:16:15.774990",
+    "total_articles": 62,
     "sources": {
-      "korean": 23,
-      "international": 19
+      "korean": 37,
+      "international": 25
     },
     "sentiment_distribution": {
-      "positive": 23,
-      "negative": 9,
-      "neutral": 3
+      "positive": 33,
+      "negative": 15,
+      "neutral": 4
     }
   },
   "articles": [
@@ -1056,6 +1056,504 @@
       "collected_at": "2026-09-19T01:03:21.499819",
       "keywords_matched": [
         "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "febf229261c5a619",
+      "title": "광주향교서 전통차와 함께 나눈 기후변화 이야기 - 유교신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBibjVqTFU0bmpoeDExUEg0a1FjdDYxbF8wdnFqZEdJTUlFaGh1LTJRajBIODdCblUyNHljSDFNZjUwTGlzdlVQQmZBUzIyS3kzMHhRVXh4N0pTOFVsZWlhbg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T08:14:30",
+      "collected_at": "2026-09-19T12:13:28.615361",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "광주향교",
+          "전통차",
+          "기후변화",
+          "이야기",
+          "유교신문"
+        ]
+      }
+    },
+    {
+      "id": "2fb51156e9f5f046",
+      "title": "“샴페인도 기후변화 못 피했다”…올해 유독 ‘독해지는’ 이유[나우,어스] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwVHFiTFUyem1Xei1LenBjMXJQcVVOWFJCdW1md19jd0xfNUhnTFFVVlkySl9oeERNajVUam9VN0YzSk5FUWtYZE02MDdRd2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T08:02:10",
+      "collected_at": "2026-09-19T12:13:28.615406",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "샴페인",
+          "기후변화",
+          "알코올 도수",
+          "포도 재배",
+          "품질 변화"
+        ]
+      }
+    },
+    {
+      "id": "3da72cfbca45cd62",
+      "title": "기후변화재단, 키르기스스탄과 재생에너지 협력 MOU 체결 - gukjenews.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5TU2E0SkNNT3hlTW5PeTBXVFJUSm5RNkZTc3VaTnFycWJmUjFsbGlnemZmVndydklHbW5UcXRRZkxpcWpINVh3WE9EWVdHeUNrM3hTYWh2ejJKeUI1c1F3MnpJMWhaR3F1cDQ2Q0dB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T06:43:53",
+      "collected_at": "2026-09-19T12:13:28.615500",
+      "keywords_matched": [
+        "기후변화",
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화재단",
+          "키르기스스탄",
+          "재생에너지",
+          "협력",
+          "MOU 체결"
+        ]
+      }
+    },
+    {
+      "id": "df9e34df2f763b08",
+      "title": "“기후위기는 미래가 아니라 이미 시작된 현실” - 뉴스비전e",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnaEd0SEJmaV9kRUphOWR0SmVwYnMwWFRGS3c4NzBESEV1T09WZDlwMzRwSExsYWpub2lUYUJ3X1VsUE05R3dPNWYtYS1ESC02d0d1QXM5OVFKSlVHRllKZy16anRUQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T01:14:03",
+      "collected_at": "2026-09-19T12:13:28.615711",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "미래",
+          "현실",
+          "시작된",
+          "이미"
+        ]
+      }
+    },
+    {
+      "id": "eeb4e7dbf6b2a500",
+      "title": "'이상기후에 강하다'…신품종 백미 '충북 1호' 첫선 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JREdySElnaWdIeTlxUFljdzdiM2ZDdXBmMjQwbWFFdUl4V3dVbXVScVVRSzNnTWE5LVdCU05CYlFrOENYa0xEaVFsZEtSUk0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T04:44:45",
+      "collected_at": "2026-09-19T12:13:28.615779",
+      "keywords_matched": [
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이상기후",
+          "신품종",
+          "백미",
+          "충북 1호",
+          "첫선"
+        ]
+      }
+    },
+    {
+      "id": "f9958fac3653ef62",
+      "title": "\"히말라야의 경고\"…사망 1,300명·실종 5,000명 대참사 최신 분석 - esgbusinessreview.kr",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5jSDgwbDVLc1g3SzQ3WEdMb1N2Ny10dVFmcWJsT3dERVZtdWExZDNncnFhWGpsa2ZQTnVvaDZOTTFJQ05QN21wRjV1d3pHRzhnX2UxTmdPNEFfXzZkYVJzRFhrY3RYVk1tS0FqeXN3XzhxTTg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T05:56:52",
+      "collected_at": "2026-09-19T12:13:28.615948",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "히말라야",
+          "경고",
+          "사망",
+          "실종",
+          "대참사"
+        ]
+      }
+    },
+    {
+      "id": "0368aba7b32b2964",
+      "title": "폭우와 폭염의 무한루프, ‘적응형 재난 대응’으로 국가 틀을 바꿔야 한다 - 열린정책뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQVUhwVU9PQ0NmV050c2pEZHpqcnVwVFFBclQ1X2lEdVBLb211UzhHVEphVWYwMzQzVFdsaUFBM3ZPamRiaVpjYmJ6eG4xeHFYWGFjX3pRVTBXREdncXE4V1doNFlPb2gyc3BB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T00:51:56",
+      "collected_at": "2026-09-19T12:13:28.615997",
+      "keywords_matched": [
+        "폭염"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "폭우",
+          "폭염",
+          "무한루프",
+          "적응형 재난 대응",
+          "국가 틀"
+        ]
+      }
+    },
+    {
+      "id": "4a69424eeec67c0b",
+      "title": "이은미 의원, “경기 연안 생태자원, 탄소중립의 자산으로”… 블루카본 조례 본회의 통과 - 경기시사투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Zbi1sLXdIQkhUU0Y0clBfdlZLYTdsY2hxdVZ5WUVtYzJteDFkUlJYaWVUNmdRbzB5eVoweC1tVlNZaDNnU1ZmSDZmeUc2WEFCY0YzUllnbE5BTWlTS3g4TDNqbzZJSlE0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T01:44:54",
+      "collected_at": "2026-09-19T12:13:28.938780",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이은미 의원",
+          "경기 연안",
+          "생태자원",
+          "탄소중립",
+          "블루카본 조례"
+        ]
+      }
+    },
+    {
+      "id": "b72aef5970072a05",
+      "title": "포항시, 공영주차장 RE100 신·재생에너지 설치사업 업무협약 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTnhYTF9URU1sZ3hGQ2lwZlVsMFRPT3ctN2tFRVZwWDltcE1ybmpsbGxma3BUeGRfWmtGSmFwV2h0Rk5VTENLZmdoQjBOWFJHSFRJel9oam1UWFZzZG02aQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T05:39:47",
+      "collected_at": "2026-09-19T12:13:28.672350",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포항시",
+          "RE100",
+          "신·재생에너지",
+          "공영주차장",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "b6a2f98528e2646b",
+      "title": "[창간축사] 임완빈 신재생에너지협회 상근부회장 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90cF85dDR2ZkFualpsdWNSejZ5S0pJc2xtbjg3UVpkcWRkRURXUnZseUZHcmdIMHpKVHJTb3JaU0w2MzQwbEdTRFMySzd4allaall5cDdtM2pZYnlRS0h3YXJZQ21LUG0wSDZ4ZGJvMnRVQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T02:14:34",
+      "collected_at": "2026-09-19T12:13:28.672377",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지",
+          "에너지신문",
+          "임완빈",
+          "창간축사",
+          "협회"
+        ]
+      }
+    },
+    {
+      "id": "d434a05c33884a75",
+      "title": "위성곤 지사, 주한중국대사 만나 관광·신재생에너지·물류 협력 논의 - 제주뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkd2dpSXA4UmVKblZoalJZa2ZnV010RzNrWXRKa2hUam9LRHViSHlrVDFueFpoNVk1d1VTNmNYcnk1SmxkNWJXN3lLeURkMVV6UDdGWDEzZnVfOVlsVmpPaGxnR2ZyVlhHU1HSAW5BVV95cUxOWGVoS2JUend5U2p3TklsUDUwOGxVZkhOUVhDY1hFY1RnX0hvOTd0X0RlVFpQZDA5Z0lXaXE0T29kS1c1UzFrdVFNVTZiMS1BVnhTcHQ4V2pSY2NDVXdmcWZVWnNuV3BjWHMybEFnQQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T01:45:59",
+      "collected_at": "2026-09-19T12:13:28.672526",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "위성곤 지사",
+          "주한중국대사",
+          "협력",
+          "신재생에너지",
+          "관광"
+        ]
+      }
+    },
+    {
+      "id": "962fbf304c1dc845",
+      "title": "[창간축사] 조철희 한국신재생에너지학회 회장 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIN01GRFJGWmlUZmsyTTNpR3VhRGY4ekZ4dW1aUDNIVEZvbW9UTVdnSnBEemxhT2pDVnNLbldBQ2pJU3FEWjg4YXRwcjZtTzczbF9JMzhsRjY0M19zeW9aQ1VCOXVWcGZ1RzV1Q09sOUNIdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T02:09:02",
+      "collected_at": "2026-09-19T12:13:28.672683",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지",
+          "한국신재생에너지학회",
+          "창간축사",
+          "에너지신문",
+          "조철희"
+        ]
+      }
+    },
+    {
+      "id": "7666ee8605793f5a",
+      "title": "[창간축사] 정우식 한국재생에너지단체총연합회 사무총장 - 에너지신문",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HWXFOcHlYN2lkU0NGb1paa01xclRNSWYyTjZYeTB5TzBud1JwT3pEMHZta05jN1ZxY19tSWUyaHR2Sk9iME8zaFBSRDV0WGhCMHBPSWQ0YkhJVHBIZUhiZjhiMmpiaXV0QlIyQW9SSkUzZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-19T02:08:24",
+      "collected_at": "2026-09-19T12:13:28.672747",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "창간축사",
+          "에너지신문",
+          "한국재생에너지단체총연합회",
+          "정우식"
+        ]
+      }
+    },
+    {
+      "id": "baf83b4e542d7591",
+      "title": "새만금 스마트그린산단 육상태양광 30MW 선도사업자 공모 - BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsMUdzZzBvNHN0TUhvTjFtdGh5UGdQUTRwdzMyMWIzTmVEbWZWeWtnVmtFUjk0Y3NMSjllSDZRWDh4X1hBWGZLVDVhNVhGQl8yUXdsX2RZb2NJWmppUXhpWXhlSTAtX3JUNXVN?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-18T23:29:12",
+      "collected_at": "2026-09-19T12:13:28.673757",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "새만금",
+          "스마트그린산단",
+          "육상태양광",
+          "30MW",
+          "선도사업자 공모"
+        ]
+      }
+    },
+    {
+      "id": "dbdbdf769395a093",
+      "title": "Endangered Salmon May Soon Swim Freely up a Maine River. But as the Climate Changes, a Comeback Isn’t Guaranteed. - Inside Climate News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcV9xTnVJbi1XbEpmNTdJM0dLbG9mdmtRc1BwTFhURDdJcy1yY1ItUWtWRUVZN0FVN295YmpwNU1OcUI2eE1QOVk4c3QwZHpCY0ZrQkRTbWxzMUdzMUhVNG5kN0FEbTdkSzBNc3hpWGtDLUFiQkZNdUgybUF1ZzhEb2hwMGk1WmNPb3JCaWg4Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-19T08:50:00",
+      "collected_at": "2026-09-19T12:13:29.838051",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "62d4ad698062f5de",
+      "title": "'No world in which you can escape': Expert says climate change is coming for everyone - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnA2a3RGSnZTWncta3VNRTFYako3c3JhVldXV252QjUtSWx5d2ZKMFR6eFdBQmxrZnNETUpJNnItZHJVOE9TRXB1bWU0WmdoUFIzbDhBLWlERTRvaUN5ci0tbl85V2JKYm14b3Q4Vm15U294NGNZS2ZIUmlZZWQ5ZEo5azdxckZFdWo0U0padw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-19T02:09:00",
+      "collected_at": "2026-09-19T12:13:29.838402",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "'피할 수 있는 세상은 없다': 전문가, 기후 변화는 모두에게 닥쳐올 것"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "회피불가",
+          "전 인류",
+          "전문가",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "cd86482e6c4c4773",
+      "title": "Climate 100: How the climate crisis and AI became key issues in the US midterm elections - independent.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkZMVnBwYzVFZmtNLWhtNGtRdFF5Nl9kRkl3ajEwZldxSUVBYkRpYkYzWlJwYjh2ak1hSlllZmpnMTU4dUFVZkc0RS1ZemlvZjF2dEVsemdFd0RMY2VOVGJXUi1MdDBNMk8yOXZXZzgyUks5bS1OOU9jMFZueTgxdFRYbU5faDl1dy1fdWxPNUZpbC1aRFJlWS1pZWpJeldrZ0QxTHNobzBUS3ozYTVtSnVR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-19T10:37:00",
+      "collected_at": "2026-09-19T12:13:29.839226",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "2e55b1ff142349d6",
+      "title": "Ancient wisdom and clean energy: PM shares how India is fighting climate change - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUGdHcC14bTFtbHB2dkZ4S3gyZW9DOXdBd214SnhjZW1yRklyRWV1TXlnckdVU0dIcVpQSHNuUWdncnRTYVNnem4yR1Q1c3dGa3FLajhnMC1iVTBRVU5Jcm9LVlVXYzBLeXNkSEFPSFFRZkRpWkQzMnI2VFlxR0pONm1tMXIwSVdFUU1hZ0xXOWpicWpZdExDQmtJeFk5RkZFOTkzR2hUaDhLNmptMFkyaU54WVp4Z1dSOEFIbVFRakphVE9GLUxnTjN0QjJqX09WSV9sckctUE1uZkRCcTUtT2xtc2tOWk15VnFYOWRacmlDZEI3OGoxaNIB_gFBVV95cUxPUlprRHYzM1duN1dWT09qcGZLd3djc2FFR3lfakE0QzhWaWZOMk5lWWZxbE14TmxueHpzUjF1ejBvbEtOcXFLVlJlWjB2S3RZcHhhYTZ6NVpwUG9nZWRrMjhYRmhOLVJDeFNXUHpKRVc4eUV0a1ZjVDJrMXg0YUp1OHdsczNaX1R2TmZ1ZEtoeFpPcVhrS2p4TThUYmF1b3RjQXNDR0hLTEFJeWtNbkdGZzc5WUVDS29waTEzY3M1U2U5NlpUdEdiLVdwcW5JZkkyLTJwUVRrMXppNUNqd2V3QUowYWhrY0IyMFNiSWp4a0ozTXZCcXJCb3lBdVVWUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-19T06:02:16",
+      "collected_at": "2026-09-19T12:13:29.840291",
+      "keywords_matched": [
+        "climate change",
+        "clean energy"
+      ],
+      "translation": {
+        "title_ko": "고대 지혜와 청정 에너지: 총리가 인도가 기후 변화에 맞서 싸우는 방법을 공유하다"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고대 지혜",
+          "청정 에너지",
+          "인도",
+          "기후 변화",
+          "총리"
+        ]
+      }
+    },
+    {
+      "id": "1e03ff5956a4aeff",
+      "title": "How to flood-proof your home: from water-thirsty plants to deflated footballs",
+      "link": "https://www.theguardian.com/environment/2026/sep/19/how-to-flood-proof-your-home-uk",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-19T05:00:40",
+      "collected_at": "2026-09-19T12:13:29.512711",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": {
+        "title_ko": "집을 홍수로부터 보호하는 방법: 물을 많이 마시는 식물부터 바람 빠진 축구공까지"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "홍수 방지",
+          "겨울 폭풍우",
+          "영국 주택",
+          "기후 위기",
+          "엘니뇨"
+        ]
+      }
+    },
+    {
+      "id": "2ac1993dca8c7e4c",
+      "title": "Burning forests, emptying rivers, €180bn in damage: Europe’s politicians face reckoning after ‘summer of truth’",
+      "link": "https://www.theguardian.com/environment/2026/sep/19/summer-of-truth-will-political-leaders-act-as-climate-chaos-comes-knocking",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-19T05:00:39",
+      "collected_at": "2026-09-19T12:13:29.512784",
+      "keywords_matched": [
+        "climate action"
       ],
       "translation": null,
       "sentiment": null,
