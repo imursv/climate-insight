@@ -1,16 +1,16 @@
 {
   "date": "2026-09-25",
   "metadata": {
-    "collected_at": "2026-09-25T01:22:50.690718",
-    "total_articles": 54,
+    "collected_at": "2026-09-25T13:15:41.757669",
+    "total_articles": 90,
     "sources": {
-      "korean": 19,
-      "international": 35
+      "korean": 28,
+      "international": 62
     },
     "sentiment_distribution": {
-      "positive": 19,
-      "negative": 15,
-      "neutral": 10
+      "positive": 27,
+      "negative": 30,
+      "neutral": 13
     }
   },
   "articles": [
@@ -1366,6 +1366,878 @@
           "가격 경쟁력"
         ]
       }
+    },
+    {
+      "id": "71c54e98c02db7a1",
+      "title": "네팔 총리 “대홍수는 기후변화가 세계에 보낸 경고… 지원 필요” - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93bmVtZkFiX3dvS1pELWxnVENUclVicUZzYzlpQ09HRkI2am9wbG1qVGdzREt1OE96NVYwS3hJYWFLTkNaRVpnbnRaSVFOd2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T06:32:47",
+      "collected_at": "2026-09-25T13:11:19.217955",
+      "keywords_matched": [
+        "기후변화",
+        "홍수"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔 총리",
+          "대홍수",
+          "기후변화",
+          "경고",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "69fe237745871b5b",
+      "title": "'역사적 첫 사례'란 섬뜩한, 기후위기가 만든 문장 [지금은 기후위기] - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55WkxFa2Q0WDdyZmV1dm1jN3AzeHRFTkNPZjhtNTBrVEhHTHRKOFlLWUdSMkRDRWVnX0gxMDFWZjRGd0E3b04wVl80a1dmM0k?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T01:09:09",
+      "collected_at": "2026-09-25T13:11:19.218414",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "16870b754e1f9b93",
+      "title": "용인특례시, 탄소중립포인트 자동차 참여자 최대 10만원 혜택 - 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vU0VBN1NqanlBbmFzQmN1OWp3bmN5NzA0U2ZJcG1XeHByQURXb0xFQmRtbDRockY1VlRLOVZFb212NnNiaFBaY1kxRXFUcDRRQ0Q5dVF5Wmp0Z2Zoa3ZnNg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T10:33:53",
+      "collected_at": "2026-09-25T13:11:19.121473",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인특례시",
+          "탄소중립포인트",
+          "자동차",
+          "참여자",
+          "혜택"
+        ]
+      }
+    },
+    {
+      "id": "c937a268fc2e4c38",
+      "title": "용인시, ‘탄소중립포인트 자동차 분야’ 실적 등록 9월 28일~10월 31일…최대 10만 원 혜택 - 팔당유역신문",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96MlM1bzdxNlNPMkhoREJxWHZ2Y21MWmFCV3FyaEdHY2JGUGJyVV8wWXl4OExBVlA1SFNJR0ptU2lVOHktVkJsTWNEZzRfdHRjb3pBUlRDVWhyQjdKWUQyLVpwQjExNGVZc1Rn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T11:44:08",
+      "collected_at": "2026-09-25T13:11:19.121512",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "용인시",
+          "탄소중립포인트",
+          "자동차 분야",
+          "실적 등록",
+          "혜택"
+        ]
+      }
+    },
+    {
+      "id": "9fefba78d32f232f",
+      "title": "옥천군, 탄소중립포인트 신규 참여자 연중 모집 - 충청일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tbEh4bTM3UTh6LVRkcXpOMm1YRHZSRzFQNG44elcta0RwT0czUFV3dDVhaDFtRWN1VXU1U3BHUHAzSmtMalZ3TmRMTlpIQk5vYS0tcGRGVUZvR0FRZVBVcUVNNkpIbmRwQWplRU1fclk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T09:11:55",
+      "collected_at": "2026-09-25T13:11:19.121571",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "옥천군",
+          "탄소중립포인트",
+          "신규 참여자",
+          "연중 모집",
+          "탄소중립"
+        ]
+      }
+    },
+    {
+      "id": "9ed40751a4ab4645",
+      "title": "태양광·풍력 발전소를 블록체인으로…레이크에너지, 재생에너지 RWA 플랫폼 출시 - IT타임스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90aXBTRTZVQjJoVkVPbDFUTnN4SnJpVVY4QWhWcWZsLWNHQVBaTi1IRzV1aWVySjBkWkdNSDZ4QkN3Q3lmamtoNVdEQldHODZ3LW1hZnRxdUwzRjd4Sk4zNWNTRy0yc2hK?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T03:33:27",
+      "collected_at": "2026-09-25T13:11:18.986827",
+      "keywords_matched": [
+        "재생에너지",
+        "태양광",
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "블록체인",
+          "RWA 플랫폼",
+          "레이크에너지",
+          "태양광 풍력"
+        ]
+      }
+    },
+    {
+      "id": "0de01603eecbca92",
+      "title": "ESR, 아퀼라클린에너지APAC 인수...한국 등 재생에너지 1.6GW 확보 - dealbook.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlZoSjJuYkRvTWtIdnNpQndKZy0zbVhPc2VMZFZ1SFlXRWVGZ0lkcjI4ZU1IcHNjeTVqck9uQkFZbHNidi00OFpqOTdSS050U2xvUXhoYVVJM2I3Vl9lVFoyR1lFdkc5a3ZrTFBZb05IM2s4VDZLcFFUdkd4STRxSGcwQ3hEY3dXc2tJNHlfbE1nblE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T04:04:02",
+      "collected_at": "2026-09-25T13:11:18.986956",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESR",
+          "아퀼라클린에너지APAC",
+          "인수",
+          "재생에너지",
+          "1.6GW"
+        ]
+      }
+    },
+    {
+      "id": "d95f9d07892dbdf9",
+      "title": "풍력 점찍은 GS, 늘어나는 발전 계열사 : 네이버 블로그 - Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVjBSSGdRbzBKdU9nM2V5QTdyVVNKT0tha0JhTHRGcVhmdFZHNHZKb2liZ2dCeEd5SUxOekdEZG14VE5OZWJhbVVjZVNGeTUzSlF6V2tXaGRvMEctLTRBUG1jRkVxSXdxd2xLbVNrWngxV2hJdGoxbUx5NmhvaWJQM3ZCRUpUV3pZcjN2UnFXNA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-09-25T06:00:29",
+      "collected_at": "2026-09-25T13:11:18.987146",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "풍력",
+          "GS",
+          "발전 계열사",
+          "늘어나는",
+          "점찍은"
+        ]
+      }
+    },
+    {
+      "id": "2904ad33b0706c30",
+      "title": "연휴 첫날 10만 명 상어 보러 북항에···“기후위기 심각성도 깨달아야”",
+      "link": "https://www.khan.co.kr/article/202609251105001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-25T02:05:00",
+      "collected_at": "2026-09-25T13:11:20.420046",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "상어",
+          "북항",
+          "방문객",
+          "기후위기",
+          "인공 수로"
+        ]
+      }
+    },
+    {
+      "id": "a40c82cf2c297f8e",
+      "title": "How Climate Change Is Disrupting Summer Travel - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUlSZHF2aDUtV0h3MktfUW1fbkZaVmZJUzFVLVRYOGxpMGJsRUZ4QWQ4X1BCRUY4SU51d3c0bHRxOEpkWVg1X0EzVk5Zc2gwcUZqZ28welN0a2tIRXJiVmdRZW5GWW5NSGdSODFmaUFheG9SSHRvM0tiVURsZVFQQVNKNzFxLVlweVM2UHhTZWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:01:55",
+      "collected_at": "2026-09-25T13:11:20.981786",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 여름 여행을 어떻게 방해하는가 - 뉴욕 타임스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "여름 여행",
+          "혼란",
+          "영향",
+          "문제"
+        ]
+      }
+    },
+    {
+      "id": "b8824e459e04d38c",
+      "title": "Nepal's leader says recent floods serve as a 'warning to the world' about climate change - WBAL-TV",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTUZkcVBrbEtHbk9rcmhWRUprcS1hV08wS3pCM19rS1Y2bGp6NVdXZmRyd24wb05JbTN0X2x3cTlYb2FNZXV3TnF6bThHSFNRWGxNZ2lZakhuOGNIV3hQVHdNZTNMZjBkQlhXX0VaVGpFbnNtM3NpTUtpWXZiUER4bVlIVnV0LXQtWFJ4YVMya2pEYnJ1Qjhv?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T12:47:03",
+      "collected_at": "2026-09-25T13:11:20.981846",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 지도자, 최근 홍수가 기후 변화에 대한 '세계의 경고'라고 말하다 - WBAL-TV"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "홍수",
+          "기후 변화",
+          "경고",
+          "세계"
+        ]
+      }
+    },
+    {
+      "id": "ad521dadbfedd489",
+      "title": "How much progress is the world making on climate change? - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdzlrcG1CdlRmbGdtT0dRVDV5cXI2cXhrVkpCNDA1dnAwdEVWMVNGbEZ6bm0xaVlteHpxNHgwSk9kOWs2SGV4VTByWmtIWVo2dlBaVHF0UURwZjdxREYwUGdtclRQd1FwT1ZRVVBzTlFPNkJTcTgxaUJ2MnVaenFxTExyVWpRa1ZjWE42Wkktbjd4ajNOazh0VkVlSHB2NzVpbnZVdXo1d3c?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:00:00",
+      "collected_at": "2026-09-25T13:11:20.982036",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "세계는 기후 변화에 얼마나 진전을 이루고 있나?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "진전",
+          "세계",
+          "노력",
+          "평가"
+        ]
+      }
+    },
+    {
+      "id": "2fa16482dc397ed9",
+      "title": "We need to rethink how we talk about climate change - Yale Climate Connections",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHpmWVdMYVVTVmc1VEFpTllaRWFDdVlRdC1aSDdMa2JQbUlleHp2d2FoVXh0aGE1bkljWlJrbXlnd0hyNS1peWJGWnJZdEpJaFhFWUk1YmEyMGNLdlJHdUExUEhEV3pLSlNxSFJLX1Exdzd2YktjX0NPdEE5aVMzMm9JOGRKTjNXdUltckVBN3BHcHh0Z25RSmJTcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T11:00:00",
+      "collected_at": "2026-09-25T13:11:20.982085",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화 소통 방식 재고 필요 - 예일 기후 연결"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "소통 방식",
+          "재고",
+          "대화",
+          "예일 기후 연결"
+        ]
+      }
+    },
+    {
+      "id": "616eb8abb2151600",
+      "title": "Nepal’s PM says flash flood was ‘warning to world’ as he scolds leaders at UN over climate change - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVhGM3lsRktVSXFtWEFJb0o4cDlUN3dhbGZTbHNoSzNrVkFkUVFNbnBhVmllbzdqT1VPSW1pY2VOelRDUVU2bm0wR2t3amVFY2VSbEVuYWJDSmFWdlNCWWp5eDM4WFpNV01PZHR3VmstNFBZVFJjd0tLM1IzdkZiZmZjQnMtSDB5VkdZSmFUc1VJVGw0WDBjTDBTV2lEOEZH?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T08:40:00",
+      "collected_at": "2026-09-25T13:11:20.982120",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 총리, 급류 홍수 '세계에 대한 경고'라며 유엔서 기후 변화 지도자들 질책"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "총리",
+          "기후 변화",
+          "홍수",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "1793f83d380d67ff",
+      "title": "Schatz: ‘Climate Change is why disasters are piling up’ - Maui Now",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVmt4VjhxM1lCU0lzRXBoT1ZqVWtBcjJjN0EweXJJREdoUTFzYXhQY25JVFUtc1lPRkg5blBIOEZMRkFNd3lGRDF4alVzVlBNRHVyRmx1RWRyTE1oeEloa3NyMDlBN05jNWZ6VUp1VnNZclpTVzJIZmoxRXlXSUFMQkVjTi1WdDFIc0YtTA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:00:00",
+      "collected_at": "2026-09-25T13:11:20.982213",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "샤츠: '기후 변화가 재난이 쌓이는 이유다' - 마우이 나우"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "샤츠",
+          "기후 변화",
+          "재난",
+          "증가",
+          "원인"
+        ]
+      }
+    },
+    {
+      "id": "27db37524dea7b5d",
+      "title": "Nepal's leader says recent floods serve as a 'warning to the world' about climate change - KOCO",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRnpJTTNFTmhvVW54eUx1aFhERVFjaFVST2ZVZTRvY3ZieVRaNWRaT3RnM3VOd25NdVZqaW5NZFU4RkpkajVpb1hPTWd3eDZuYXNHZ0daUUVyTVpVXzEtbHZzNFlIM3hKZ08yekVYWEpTb1ExU0dPd3hQUXphbm1MQ3lTMTVkUzhlbDQ4eUFkTFNLdEc1?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T12:43:00",
+      "collected_at": "2026-09-25T13:11:20.982287",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 지도자, 최근 홍수 '기후 변화에 대한 세계의 경고'라고 말해"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "지도자",
+          "홍수",
+          "경고",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "9f2deeaf05825650",
+      "title": "WashU Expert: Family Resilience Can Help Protect Children From Climate Change | Newswise - Newswise",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnAzaDI0anVxX1hXVmlhdk5nUDJQczllLXl4RmhuYXJPRE9qWWRaR3JVamlZUWw3Z0EtMF9pZmxaTHhacEZaOFBXa2lydjVsNWhoRzdRV3BQQ21BT2JkZ19PczB2OG5vdk1JQUFuTm5QSm41Wk5aRVhVY3ZzQzRVN3dIVnNmSC1CVUw5UVVIMFhYemxiNW5DTUJTV1JNYUs3aWNKMVhoNXFGTUZZUU8w0gGvAUFVX3lxTE9KcDNoMjRqdXFfWFdWaWF2TmdQMlBzOWUteXhGaG5hck9ET2pZZFpHclVqaVlRbDdnQS0wX2lmbFpMeFpwRlo4UFdraXJ2NWw1aGhHN1FXcFBDbUFPYmRnX09zMHY4bm92TUlBQW5OblBKbjVaTlpFWFVjdnNDNFU3d0hWc2ZILUJVTDlRVUgwWFh6bGI1bkNNQlNXUk1hSzdpY0oxWGg1cUZNRllRTzA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-24T23:35:00",
+      "collected_at": "2026-09-25T13:11:20.982364",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "59b62709ebe6b0fa",
+      "title": "Nepal's leader says his country is paying the price of climate change - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV2VLMVhVeDA4MWdtTWQ1VERXZmtFeS1BTGMxN0c1b3FoMWVUeVpCNDdjSVhLdm9NR2pWUUd3M2QtNXhKOXgtZ0pfelhlb2FRT2hrbF9QTllwdUl0REJoVEdaMDUxX29hVWpweGhlaEhTN0xWd1dHbnJVWlhMMUJnWkJaRFdRS2ZNX0NLWFNGV3liejFtV0dTWlpUTGp0M2ZVZW1N0gGjAUFVX3lxTFAydnN5VUhtb2UzUk5QWDFCTnZXb3R1c056T3RURE04dGtDcFVkRGZ1N0U1ZmZ3aGViSG9SZ2xGamNjYUFZcjdMY0ZfTlJZUVpnMnhldndNM3hUWEpMVWxNTVdyLV9OU2dmNVI2azB5bG9vdXVIUlp5X1ZBVk5FdDlZVm1WUzhsZG5sS0oyM3FYQTNXeFFad29VYWI3eGZtdXprMzg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T04:55:39",
+      "collected_at": "2026-09-25T13:11:20.982418",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7ead375523c36c0b",
+      "title": "Tracking Raptors: The Impact of Climate Change on Migration - barharborstory.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkw3OUNUbFh1ampaMUhrZDhlOGoxbmFrNkNUeVhQM1ViWXNiamtqLXhJcExKX3lRT0Q3OHZVUDJpYnJCNkIwLVJHeW84LXR5RGdTbjBFeC1JeGJhZzNIUlB5UFBFZEhXRXQ4Z29PT2UxUDhWVE95a3Q1U3hQY2RtT0JJTmNRbC0wTjlMa0NTWHczejJKTnI3RWM3OUtYSU4zWGdMamZGSkJZaGdiVmRmR2pxYlhYc1A2Um5FNHNnZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T11:09:02",
+      "collected_at": "2026-09-25T13:11:20.982484",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "맹금류 추적: 기후 변화가 이동에 미치는 영향"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "맹금류",
+          "기후 변화",
+          "이동",
+          "영향",
+          "추적"
+        ]
+      }
+    },
+    {
+      "id": "3e0641e5b5c34562",
+      "title": "Can a Network of Miniature Sponge Cities Help Central Asia Curb Climate Change? - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZV9fdEtkbV92WjUyQ19ESGw5OW5Fc1FTSDVfbGJtV1c4MHo0bFNzZUIwSGRmeS1MUlp6LThzczJoQzFSNHFtUm54c3NsMWxPU0xTS01JVFJITEpvd21tR2VNRFlkSUZqSExCTTRKN3o2VDV3aElvUHBFbXlkMzR0alBCSlhaT2VyUDlvTF9ncW9ReXE3WmhjNmJWSkRhOTMwYWZNTEk3WHBnUXhVVGZXZQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:33:17",
+      "collected_at": "2026-09-25T13:11:20.982571",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4ee2ac507873bad0",
+      "title": "Climate change is a retirement planning issue, says sustainable investing pioneer - financial-planning.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUxVZnBaV2VVdlEwVThMUk1BUEpBX3dfTDFWX0VQV1RnQ2VGOGI1TEI2TVlGUk1TZGh0RzdWaHM1NXVaV3Mzczk5YkVGV3U1dEJOMDBkVm83Ri1WRUVWQk5ucG1iQmxELWtocFJRNW5zSVgybC0yNnJkVDQxTWpJdmFIcFlkRUVEckE2NlNwQmRPYUJEcC1MdnVMcXpHUFdJRzZZQXNlTDluRHQ2TTBUN1p4Slc3MDlNejNkZQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:30:00",
+      "collected_at": "2026-09-25T13:11:20.982743",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "492d80a52876f381",
+      "title": "Symposium on Climate (Im)Mobility and the African Court’s Climate Advisory Opinion: Addressing Climate Adaptation and Displacements - The Role of Legal Empowerment in Eastern Africa - Opinio Juris",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNQWJtaHd3NWJiMmhNZTdabFh2WFl1WkJ5ajdUem1BblFiaVJDTm1Tb3RERTNCVnRtSTJUOV9xNTgzX1k4Vmt2YjMyTFZCYmNqb2NnTGtubWtVdkdJeE40bmlkUlh0V2dRS2R3MDh3amQ1QzJEbFZSTmNGZjZqTVk3MmZtLVQ0VWxNamo3YkQ2N0M5RGJSTFgzUnVCYnM0ZEdqUXhJeHF5ZkhqQXMzOGtKRENkQmdOaC1ZZmlTLVk5VWR1cWlIM09QVGI1dUFDQkNqMjE0WlZNblpoYW5HT1lGaGg4Z0dpdkVMQ0JCWTVPeEZ5MWt2YmE3OElHcFV6YzhQdFRGSk5uc0ptVFMxNFoxbnI1OHBvTVVYT0RpZmFmLWdqQWtEanh1RkhIb1RsLWhtcldBcg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T10:03:19",
+      "collected_at": "2026-09-25T13:11:20.982872",
+      "keywords_matched": [
+        "climate adaptation"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d4dd96e9599452ed",
+      "title": "Nepal's leader, at UN, says recent floods serve as a 'warning to the world' about climate change - Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSk9hN2ttandwMmZVbUFJZkdLb1BLQ0RGZXRLdGpaUDVHdW0wcVZQSm5oa3VzckJfRW1UUXl2cWNmcHQ0SkxLeS04Z0JfMVdBT1AwdlpEa2Rtam52alVyRzRFMEEzSmdTdFlZaUo3T1pGVVA2MUxzT1F4LTYxa1VZZTdxc29jLXdBZlJGRjlpN19zT1Y5OHhnWWs0Y1NBV2dhcFJGWFhtWVdIMWNzaklzWkVfLVVqNFhDNEh6TVFYLVYtSkQ2XzE4aV8zUmtWaUdCc0VmNnppLWNGazRET3ozbzc0dkQtS0h6d2l5ZVp5cnVkZkFqZGdwY3ZoU1p2MG16WWcwRFctTFNPUFV2Q0wxNA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:49:07",
+      "collected_at": "2026-09-25T13:11:20.983142",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 정상, 유엔서 최근 홍수 '기후 변화에 대한 세계의 경고'라고 밝혀"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "유엔",
+          "홍수",
+          "기후변화",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "6af482d6f5b5cf04",
+      "title": "Nepal’s leader, at UN, says recent floods serve as a ‘warning to the world’ about climate change - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbndiaE9wdVg0V2RyNkhkZU5vX1VyVXBjTzdwcXJGc29KXy1DWWFBUFhNV0M4eDBOTVdTUnB3MlIxTjE3OTZJSzRsYkUyWHhDRHVQTjI5ZFNuNUpYU2FaMlkzMUNXRWo2Mnl6VFlmX1g0bThkSktMVFdvd3BlQ3NndkNfUXR5QTVOZkwxcWJrWGM5WENhUWNyMzY0blJBdTRBaWRUVXdPOC1EdEdZVjMwbklNODBIVk9udTc1bHoxZTZSU21GZEw2MWFXTDQ0QjEteV9XWXZHZE8?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:50:12",
+      "collected_at": "2026-09-25T13:11:20.983264",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 지도자, 유엔서 '최근 홍수는 기후변화에 대한 세계의 경고' - 시애틀 타임즈"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "유엔",
+          "홍수",
+          "경고",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "b7dfd39a71548032",
+      "title": "Nepal PM says floods ‘a warning to the world’ about climate change - Arab News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdTNVTW5OYnlNOElvV01McHVKUW52TnVuUGVsX19rSTFIUmh4LTJqRk1BV09mQ2ZBRHZUQWxUOGx6ZkZPMDBMVkpFeVU5bnVjZmJRNEFhcTA5NE1EY2ZUbzVfS3dONFdkVGdUYWdNRmFVYjl2R2ZuWldNQU9fODBsZmQ2QXVNc292cEdDTVhoeUxkTlpTYVNTZVlGUjVucG9KRU1yM3pR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:23:47",
+      "collected_at": "2026-09-25T13:11:20.983314",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 총리, 홍수 '기후 변화의 세계적 경고'라고 말해"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "총리",
+          "홍수",
+          "경고",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "4e84b8ba5ddad129",
+      "title": "Climate Change: Tarique unveils 5 urgent global actions at UN - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb2t6QU5HQTAxUnc2M003enFLdmw3aGlqMFdUeWJZTEpnVUZtZlIxaDJBekhCRWIzVVEzRlBPOHhkXzVjeUUwUmRrNXBkSW43bEZEdkFZWUQ5S1NUaVpCbGxtU1lkeVUzVVVXTGZZMW5VVnlBMGphMURjbHdoNkhpQlk0Uk9VbUN3TTRaRFJoLUJQdW9LbWZjbXFUenN5WFdPYnA1UzZneERUdXlVNGtiakNRQkh3Zw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:11:15",
+      "collected_at": "2026-09-25T13:11:20.983435",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: 타리크, 유엔에서 5가지 긴급 글로벌 조치 발표"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "유엔",
+          "글로벌 조치",
+          "긴급",
+          "타리크"
+        ]
+      }
+    },
+    {
+      "id": "f07823b5a4bb2291",
+      "title": "Nepal leader, at UN, says recent floods serve as warning on climate change - Naharnet",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMi03STh1SThBRVdTaWZaUkdGMXRWelJZSC0yeWRxV3BoM3RyRGJpM3c1NkN5Yi1GZ05aWFdpLTYwUU1aWHpsbUkxQzZvYkZsUjZ3MG1VLWNaa2pBN1pqTjczTXMwMVQzSzVXNXA3VU1zNUppMTZ0ZjVBX1cwQ1hNRGFwR19tbGFsNndvQkJZTl9EV3NQTXllN0ZldkpNQnR2OHcwdjIwNmxDZlp5dE9ZcXZ0V1lKdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:14:00",
+      "collected_at": "2026-09-25T13:11:20.983537",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 정상, 유엔서 최근 홍수를 기후 변화 경고로 언급"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "유엔",
+          "홍수",
+          "경고",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "0a79215cfa22811d",
+      "title": "Nepal's leader, at UN, says recent floods serve as a 'warning to the world' about climate change - independent.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemZnckV6aUtQclhUcDVZS0dNSVpyR0lhSHdWM1RrSjVSaTNDQWxZbG5veW9jQ3VVNy1WQUZDRUoxQzdYdXJHb2UzWE51NDBkZWFPS3dtRUltSkJ4RTZub0x1TUREeXM4c2kyaF9WSXZvWnYzZHpBV0tySldMNDZtajBaRzgxYmhDLXJxajFob1M0QkU0WjgxLUJUMmstTVYwM2UwV0tqblA1R01adi1MZFZqVmZzVEZ5?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:49:00",
+      "collected_at": "2026-09-25T13:11:20.983589",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 지도자, 유엔에서 최근 홍수가 기후 변화에 대한 '세계의 경고'라고 말하다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔 지도자",
+          "유엔",
+          "기후 변화",
+          "홍수",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "9e100fb759168896",
+      "title": "Nepal's leader, at UN, says recent floods serve as a 'warning to the world' about climate change - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVmlLckJZNzg2aGk0b3Z5bHhSNGRHZmlMeU5YZDdTUG52T01nN2w0UnBmZ2h6NUxXYWNZUWNLMFVTbzNyYTlLRDRvS3ZLZzZqTE9BWW1kcVZQYnpZQXdYREQ3bmp4S3hURHc0b2lja2tIdURFcnd2Z3VYSUVpRDhDdXhlUzNmek5zcWNBTHE4ajUwY0xoeEhmX1RrZl9keWZpQjVVZDAxbmpIaHREU1N4bC1yTUNHbTRPSTN2QnMyMGxkSWVXVFVlZkRWenUxb0xLcGRDakxwMDNXVnduY0ozQ2dFWkdwOERFdEhWRjJpc1ZWLW8zOE1Kd1U4RHUxcTVGak1JYlFEYXU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T02:50:29",
+      "collected_at": "2026-09-25T13:11:20.983835",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 지도자, 유엔에서 최근 홍수가 기후 변화에 대한 '세계에 대한 경고'라고 말하다 - 토론토 스타"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "유엔",
+          "홍수",
+          "기후 변화",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "9fca12f1dc219d5b",
+      "title": "UK gives Global Environment Agency £330 million to tackle climate change - Energy Live News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZmU2dGxfMEpaNWFkc1dMQms3VmE3ZDU2a1gyVG9BSklZOEpmcFlRbG4wY2U2bmw5bG5fUzZlRWhwUGx3cWJDZ0dpa2JLQnFRT0FSck1nVGU3cEdBUUNyRkJPQ3NweU5yN3FWdG5tdmlYaFNiNzl2V0pWVkpPM25ia3h6cTlLaWlCSnA1eTRGR1Q2N1JWV1hnZWVSVE1rbi1lRklhMDVOMk1GeEEtZ1ZJN2Vab04?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T09:30:42",
+      "collected_at": "2026-09-25T13:11:20.983887",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "영국, 지구환경기금에 기후 변화 대응 위해 3억 3천만 파운드 지원"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "영국",
+          "지구환경기금",
+          "기후변화",
+          "3억 3천만 파운드",
+          "지원"
+        ]
+      }
+    },
+    {
+      "id": "4e2c17a8834afdb8",
+      "title": "Bengaluru Rising campaign hosts talk with historian Ramachandra Guha on environmentalism, climate change - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcXRacUJKSThHWWFmby00Uk1KRHd2UE5yYXdVVmlKbHBuMnM4UXdkd2dQU1BseUFFREpyaUtsUG9JT3M1bWdtTF9YS2lIaXk5cmtIbTdOdXZNdnNMVmY5LWNROThfOEdPNHNzbjk0bmp4dXhnRWR5X1ZjQnVBTTdhS1BQX1dfLUhIUE1qa0R5VUh0RzZPUFhYVkFJdTNTbTdzdDd2THJsLWhCaEF0Z3NZdDVqWHEycE5oWXpvdlBOZ1cwdGdvbk1ZTWtJaGJ5a083MEdlMG1mM3ZaZjhmT1k2VlhmMDFrclhSdFBQU19xMHQ1VlRqaXRMS0FaVlFaLUXSAYYCQVVfeXFMTXQzem5EUnl0WGxtOFBPTEdyOVJ5b2hURlBHb3VFZEpGZEVrV2hqQmZSM2VOSkMtVjVoTlVBUTh3a3VnNjVjWUt2ZFBua000NFFmTjdraGo2TGs1QXh4dHJudTdHX2dGV3ZsNk5TcjZiSTIydFl6NWR1N0Q2TnE0MjhFQ2UzOXRBbXVwVi1OcnV3WW5EZjlJLW80YmVKT3gzVjdNTnowUkN6Z1VjMXM0ZzMwWFFoMlQ0RUJnNF94bEIyUG1BUENDTTZpaWo2cmdFbVA4dHZZdnRwdTVNN2IzLTQ3Y2ZnYTF3WjdQMlQ1N1ZsU3BfMHZ6WjJXYTNsbC1zSEdOZXFkZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-09-25T06:20:31",
+      "collected_at": "2026-09-25T13:11:20.984122",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "벵갈루루 라이징 캠페인, 역사가 라마찬드라 구하와 환경주의, 기후 변화에 대한 강연 개최 - 더 힌두"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "벵갈루루 라이징",
+          "라마찬드라 구하",
+          "환경주의",
+          "기후 변화",
+          "강연"
+        ]
+      }
+    },
+    {
+      "id": "6c1c621c85f0e131",
+      "title": "Friday briefing: How a ​grassroots ​film ​is ​turning ​climate anxiety ​into ​action",
+      "link": "https://www.theguardian.com/world/2026/sep/25/friday-briefing-how-a-grassroots-film-is-turning-climate-anxiety-into-action",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-25T05:45:15",
+      "collected_at": "2026-09-25T13:11:20.598401",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1ede588e78dbb98b",
+      "title": "Would you bet on the future of our planet?",
+      "link": "https://www.theguardian.com/environment/2026/sep/24/down-to-earth-can-you-bet-on-the-future-of-the-climate",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-25T06:00:43",
+      "collected_at": "2026-09-25T13:11:20.598948",
+      "keywords_matched": [
+        "climate crisis",
+        "extreme weather"
+      ],
+      "translation": {
+        "title_ko": "우리 행성의 미래에 베팅하시겠습니까?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "예측 시장",
+          "기후 위기",
+          "극단적인 날씨",
+          "기후 재앙",
+          "온라인 베팅"
+        ]
+      }
+    },
+    {
+      "id": "9178d18b0bbe640b",
+      "title": "‘We can’t ride this storm’: the English farmers facing uncertainty after sustainability funding runs dry",
+      "link": "https://www.theguardian.com/environment/2026/sep/25/we-cant-ride-this-storm-the-english-farmers-facing-uncertainty-after-sustainability-funding-runs-dry",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-09-25T05:00:41",
+      "collected_at": "2026-09-25T13:11:20.599015",
+      "keywords_matched": [
+        "sustainability"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7b8483b95b0a3f8d",
+      "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
+      "link": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
+      "summary": null,
+      "source": "carbonbrief",
+      "language": "en",
+      "published_at": "2026-09-25T12:45:39",
+      "collected_at": "2026-09-25T13:11:20.858508",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3f82b57b1867c8f6",
+      "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+      "summary": null,
+      "source": "reuters_env",
+      "language": "en",
+      "published_at": "2026-09-25T12:04:41",
+      "collected_at": "2026-09-25T13:11:21.441326",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
     }
   ]
 }
