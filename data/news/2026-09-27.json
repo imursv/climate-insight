@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-27",
+  "metadata": {
+    "collected_at": "2026-09-27T01:14:57.943821",
+    "total_articles": 2,
+    "sources": {
+      "korean": 2,
+      "international": 0
+    },
+    "sentiment_distribution": {
+      "positive": 2,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "articles": [
+    {
+      "id": "b9641cda1f345daa",
+      "title": "콘크리트에 ‘사람 똥’ 넣었더니…‘휨 강도’ 무려 42%나 증가했다",
+      "link": "https://www.khan.co.kr/article/202609270900001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-27T00:00:00",
+      "collected_at": "2026-09-27T01:14:14.895094",
+      "keywords_matched": [
+        "온실가스"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "콘크리트",
+          "인분",
+          "강도 증가",
+          "시멘트 대체",
+          "온실가스 감축"
+        ]
+      }
+    },
+    {
+      "id": "7121935f2f61e9f9",
+      "title": "메마른 늪에 다시 핀 멸종 위기종···창녕 우포늪 ‘가시연’ 번식 왕성, 가뭄이 한몫",
+      "link": "https://www.khan.co.kr/article/202609270830001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-09-26T23:30:00",
+      "collected_at": "2026-09-27T01:14:14.895212",
+      "keywords_matched": [
+        "폭염",
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "창녕 우포늪",
+          "가시연",
+          "멸종위기종",
+          "번식 왕성",
+          "가뭄"
+        ]
+      }
+    }
+  ]
+}
