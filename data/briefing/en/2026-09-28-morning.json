@@ -1,0 +1,929 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T01:32:11.922798",
+  "briefing": {
+    "opening": "Good morning/afternoon. We will now begin the climate briefing for September 28, 2026.",
+    "sections": [
+      {
+        "title": "🇰🇷 Domestic Carbon Neutrality Practices and Climate Crisis Response Efforts",
+        "content": "Domestically, local governments and civil society are continuing their active efforts to respond to the climate crisis. Seongnam City is hosting a Healthy City Symposium to address the climate crisis, seeking solutions for urban resilience [1, 2, 3], while Yeongcheon Saemaul Association and Inje Rotary Club have emphasized carbon neutrality practices in daily life through shopping bag sharing and environmental cleanup activities, respectively [5, 15]. Gwangju City is encouraging citizen participation by operating a new registration event for the Carbon Neutrality Point System throughout October [6, 9], and Cheongju City and Yongin Special City have urged registration of achievements in the Carbon Neutrality Point System's vehicle sector [11, 12, 13]. Furthermore, the Ansan Environmental Foundation is training carbon neutrality practice consultants, and the South Chungcheong Provincial Council is discussing the realization of 'Carbon Neutrality 2045' [7, 14]. These are examples of diverse efforts being made across the country to achieve carbon neutrality goals.",
+        "tone": "positive"
+      },
+      {
+        "title": "🇰🇷 Accelerating Domestic Renewable Energy Transition and Infrastructure Development",
+        "content": "Accelerating the transition to renewable energy and building infrastructure are emerging as key drivers for climate change response in Korea. The Ministry of Oceans and Fisheries is promoting the reform of aquaculture disaster insurance in response to climate change [4], and Korea Maritime and Ocean University has presented carbon neutrality response measures for the shipping sector to the National Assembly [8]. Notably, a pathway has opened for trading 'surplus electricity' generated from renewable energy facilities under 10kW [16], and a vision for constructing an ultra-large floating solar power plant at Soyanggang Dam is set to be announced [20]. The International Energy Agency (IEA) has projected that an integrated 'solar+wind+BESS (Battery Energy Storage System)+grid' platform will emerge as the mainstream in the renewable energy market by 2026 [17], and with Energy Storage Systems (ESS) being included in national power grid development projects, an increase in renewable energy capacity is anticipated [23]. The domestic renewable energy market is undergoing a significant transformation, transitioning from the RPS (Renewable Portfolio Standard) system to a long-term contract market [21].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌍 Global Climate Action and Resilience Building",
+        "content": "The international community is accelerating cooperation and planning to address climate change and enhance resilience. In Africa, preparations for solar power generation and electric vehicle adoption are underway despite power shortages, with China and the UAE actively engaging in this sector [22]. CARICOM has approved the development of a new action plan on health and climate change, emphasizing the importance of regional responses [33]. UN Climate Change has announced a new ECCA strategy ahead of COP31, strengthening international efforts [32], and Burlington County is participating in new climate change resilience research [29]. These efforts to secure climate resilience are continuing at national and regional levels. These efforts are crucial steps towards achieving the international goal of limiting global warming to within 1.5°C [26].",
+        "tone": "neutral"
+      },
+      {
+        "title": "🔴 Escalating Climate Crisis and Warnings",
+        "content": "Globally, voices warning of the severity of the climate crisis are growing louder, and its impacts are widespread. The world's water systems are under pressure due to the combined impacts of climate change and Artificial Intelligence (AI) [28], and concerns have been raised about whether species can evolve quickly enough to adapt to climate change [25]. In the UK, unprecedented summer wildfires have left their mark across vast areas [34], and in the US, an increase in bears entering human residential areas has forced wildlife managers to confront difficult decisions [36]. Furthermore, there have been reports that climate change-related legal precedents are beginning to erode the emerging rights of Pacific cultures [31], and social and psychological impacts are also intensifying, with support groups being held for those experiencing climate anxiety [27]. This situation casts a shadow over the planet that future generations will inherit, emphasizing the need for a responsible political response [30].",
+        "tone": "urgent"
+      }
+    ],
+    "closing": "Today's briefing has covered various domestic and international efforts to address the climate crisis, alongside the escalating warning messages of climate change. We must respond to this complex crisis with sustained attention and action. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Seongnam City Holds Healthy City Symposium to Respond to Climate Crisis - eNews Today",
+      "original_title": "성남시, 건강도시 심포지엄 개최···기후위기 대응 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rTUhfUk92UlNidVdRSV9vQ1MzYWtrSDl2Y0t4bXh6UGFWa3ZNTHBRWjdsY2E2Yk1zdTRYdkJacndFSDl4ME1DTy1MaXk0VVlCMWxqNHhtQ0xZR3E5VS1aV1NGTXBNNmxJdUVQY1N5S1DSAXRBVV95cUxNSXBXbTF5Q1M5bzl1TTdCMWJOMS1vVGYyd08xcklheEtodGdmZ2tmU0xKNEotR3BucGJsTUdMWUp1aWZWYVdubzNnVjdnOG42Q2diTWVDQXRkaTQ4d1cySmk4QUFXT0FvOTlkSnBGOWpJenB3dg?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-28T00:40:00",
+      "description": "Seongnam City Holds Healthy City Symposium to Respond to Climate Crisis eNews Today",
+      "summary": {
+        "phenomenon": "Seongnam City hosted a Healthy City Symposium to address the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seongnam City",
+        "Healthy City",
+        "Symposium",
+        "Host",
+        "Climate Crisis Response"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "성남시, 건강도시 심포지엄 개최···기후위기 대응 이뉴스투데이"
+    },
+    {
+      "id": "2",
+      "title": "Seongnam City to Host '2026 Healthy City Symposium' to Discuss Climate Crisis and Urban Resilience - Maeil Ilbo",
+      "original_title": "성남시, ‘2026년 건강도시 심포지엄’ 개최…기후위기·도시 회복력 논의한다 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WckNrdXRneDFENnAxcnFPZE4xMGw3dmFmSko5a1Q5N0lDVExHaGc1ckVCZHBXekd5QnRqQkhkdHg1V0ZSdWM4bDY5Z3kzU21wNV9zZUdqZWFZZDlSM2NGVTRHclbSAWhBVV95cUxNSUNXLVVDVzNBMGUxbVFHUEw3Nnp5eFJ0OWppZ3U2QlBmVm5vbWgtcF9uNTJCOWF5R1VSaVhMTGMxSFlUM3lDZFdqVWxKR0p4UGNVc0k0eFJzanNqVUE3R2lGaXVoRXROaQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-27T23:53:29",
+      "description": "Seongnam City to Host '2026 Healthy City Symposium' to Discuss Climate Crisis and Urban Resilience Maeil Ilbo",
+      "summary": {
+        "phenomenon": "Seongnam City plans to host a Healthy City Symposium in 2026 to discuss the climate crisis and urban resilience.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Seongnam City",
+        "Healthy City Symposium",
+        "Climate Crisis",
+        "Urban Resilience",
+        "2026"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "성남시, ‘2026년 건강도시 심포지엄’ 개최…기후위기·도시 회복력 논의한다 매일일보"
+    },
+    {
+      "id": "3",
+      "title": "Seongnam City Seeks 'Healthy City' Solutions for Climate Crisis Response - Ilgan Today",
+      "original_title": "성남시, 기후위기 대응 ‘건강도시’ 해법 찾는다 - 일간투데이",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CR0NMVEFlSElxWW5FSE5pYmx3bXdZX1JZb2MxRktWM3VTbFpuWVF6Y2FQVHZlZk1Kc3FqRUNVV1JveGFYa0JiSzdwYThTVlBRN1p3SFowN2Q1MWxDZ1JIOExrQXpZQU1Bc284?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-27T23:36:44",
+      "description": "Seongnam City Seeks 'Healthy City' Solutions for Climate Crisis Response Ilgan Today",
+      "summary": {
+        "phenomenon": "Seongnam City is exploring 'Healthy City' solutions to address the climate crisis.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seongnam City",
+        "Climate Crisis",
+        "Response",
+        "Healthy City",
+        "Solution"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "성남시, 기후위기 대응 ‘건강도시’ 해법 찾는다 일간투데이"
+    },
+    {
+      "id": "4",
+      "title": "Ministry of Oceans and Fisheries Promotes Reform of Aquaculture Disaster Insurance in Response to Climate Change - Marine Leisure News",
+      "original_title": "해수부, 기후변화 대응 양식수산물 재해보험 개편 추진 - 해양레저신문",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1aklzTkx5aTFsa1AwcDBQZnBWY0lPTlNWVEpGX3NnTXBTd0tlR2h6bFBGU3JnQWJMcTFhcHYtNy1ka2txZVIyMHZKRkhwWXNQNEdobkoySVFiUGl3?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-09-27T10:38:00",
+      "description": "Ministry of Oceans and Fisheries Promotes Reform of Aquaculture Disaster Insurance in Response to Climate Change Marine Leisure News",
+      "summary": {
+        "phenomenon": "The Ministry of Oceans and Fisheries is pushing for a reform of aquaculture disaster insurance to address climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ministry of Oceans and Fisheries",
+        "Climate Change",
+        "Aquaculture Products",
+        "Disaster Insurance",
+        "Reform"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "해수부, 기후변화 대응 양식수산물 재해보험 개편 추진 해양레저신문"
+    },
+    {
+      "id": "5",
+      "title": "Yeongcheon Saemaul Movement Association Shares Shopping Bags, Practices Carbon Neutrality in Daily Life - Gyeongbuk News",
+      "original_title": "영천시새마을회, 장바구니 나눔…생활 속 탄소중립 실천 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mTllBdzZyUnQ4SWl1S2dXZVAweFJOVUdGdWVrWFRYNEsxaV85dnFKLWpJOUNSam5sQWcwWHlLaVBVYm9OM3pXT0swZXItblpqdzFWbTZzM2Y?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T21:19:34",
+      "description": "Yeongcheon Saemaul Movement Association Shares Shopping Bags, Practices Carbon Neutrality in Daily Life Gyeongbuk News",
+      "summary": {
+        "phenomenon": "The Yeongcheon Saemaul Movement Association is distributing shopping bags and practicing carbon neutrality in daily life.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yeongcheon Saemaul Movement Association",
+        "Shopping Bag",
+        "Sharing",
+        "Carbon Neutrality",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "영천시새마을회, 장바구니 나눔…생활 속 탄소중립 실천 경북신문"
+    },
+    {
+      "id": "6",
+      "title": "Gwangju City to Operate New Registration Event for Carbon Neutrality Point System Throughout October - Asia Economy",
+      "original_title": "광주시, 10월 한 달간 탄소중립포인트제 신규 가입 행사 운영 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DZEd6TmhZYjZNU0pib2Rub21oYjVGeDFJZjdVbExSVXRIdC1BcVRUVnYzUEJQWVNfYXFxbkZGR1N3UExlWFBHcTRQNXV0cmVqRWF4WnJNbVViNUNpa0NDTg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-28T01:03:05",
+      "description": "Gwangju City to Operate New Registration Event for Carbon Neutrality Point System Throughout October Asia Economy",
+      "summary": {
+        "phenomenon": "Gwangju City will operate a new registration event for the Carbon Neutrality Point System throughout October.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangju City",
+        "Carbon Neutrality Point System",
+        "New Registration",
+        "Event",
+        "October"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광주시, 10월 한 달간 탄소중립포인트제 신규 가입 행사 운영 아시아경제"
+    },
+    {
+      "id": "7",
+      "title": "Ansan Environmental Foundation Trains Carbon Neutrality Practice Consultants - Ansan News",
+      "original_title": "안산환경재단 탄소중립 실천 컨설턴트 양성 - 안산뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxaUpfc0tkTzRpVEFKN3BnNkVnNjB5VExDMkU4RXdfM1ZDNGM2TG1RY2JheXd3Q3J4MzBRWXZzdW9XcjVXQkwyWHk5dGdqVmVrVUFZeTZxLUo5VlN6WmUzdGhLSGV5c1YyOFF1RQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T22:12:50",
+      "description": "Ansan Environmental Foundation Trains Carbon Neutrality Practice Consultants Ansan News",
+      "summary": {
+        "phenomenon": "The Ansan Environmental Foundation is training consultants for carbon neutrality practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ansan Environmental Foundation",
+        "Carbon Neutrality",
+        "Practice",
+        "Consultant",
+        "Training"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "안산환경재단 탄소중립 실천 컨설턴트 양성 안산뉴스"
+    },
+    {
+      "id": "8",
+      "title": "Director Cheon Kang-woo of Korea Maritime and Ocean University Presents Shipping Carbon Neutrality Response Measures at National Assembly - Marine Korea",
+      "original_title": "한국해대 천강우 단장, 국회서 해운 탄소중립 대응방안 제시 - 해양한국",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MQWVyVE1RU1BvZjMwRFZYN0VMNzZwczF3ajZIa0Y4TkdHNnJOU3I1MlN1V29IM0NGNk02Smlqb1RjeVNfUW9fN3R4bWw0aTV3ZzBWdENQT1hLcy1kcWM2c3RWdVdMR044V3F6NWRmalY2OGc1MVlKZE1B?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-28T01:14:59",
+      "description": "Director Cheon Kang-woo of Korea Maritime and Ocean University Presents Shipping Carbon Neutrality Response Measures at National Assembly Marine Korea",
+      "summary": {
+        "phenomenon": "Director Cheon Kang-woo of Korea Maritime and Ocean University presented measures for carbon neutrality in the shipping sector at the National Assembly.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Maritime and Ocean University",
+        "Cheon Kang-woo",
+        "National Assembly",
+        "Shipping",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한국해대 천강우 단장, 국회서 해운 탄소중립 대응방안 제시 해양한국"
+    },
+    {
+      "id": "9",
+      "title": "[Gwangju] New Registration Event for Carbon Neutrality Point System to Operate Throughout October - Kyocharo Journal",
+      "original_title": "[광주] 10월 한 달간 탄소중립포인트제 신규 가입 행사 운영 - 교차로저널",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzVWFwN1EyR1VWOGF2UkoycGN0WEhoZkRFUGNERWE3V250SHpOTlFJZlQ3dHpWUTV4cnBCcGFrZW14YjZQeGpWMTdOUmJyUXZoV1JzR0x5STdiZU9razk5a0J1TXBiOTA?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-28T01:19:21",
+      "description": "[Gwangju] New Registration Event for Carbon Neutrality Point System to Operate Throughout October Kyocharo Journal",
+      "summary": {
+        "phenomenon": "Gwangju City will operate a new registration event for the Carbon Neutrality Point System throughout October.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangju",
+        "October",
+        "Carbon Neutrality Point System",
+        "New Registration",
+        "Event"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[광주] 10월 한 달간 탄소중립포인트제 신규 가입 행사 운영 교차로저널"
+    },
+    {
+      "id": "10",
+      "title": "Realizing Carbon Neutrality, Hydrogen Transportation Infrastructure - Mechanical Equipment News",
+      "original_title": "탄소중립 실현, 수소 운송 인프 - 기계설비신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAybElHRWNWVEp6TTB2UlhxQnVSUGZHNEc2LVhmejlwaTBjQXVXQ1FidEpXMzcwaGsycTJSQ0ZGTndESFB5TTdsd2JZNVY2Vm14UUZCY205X1pXellqUDlLOTNWQjkxUThDRlBXZg?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T20:30:00",
+      "description": "Realizing Carbon Neutrality, Hydrogen Transportation Infrastructure Mechanical Equipment News",
+      "summary": {
+        "phenomenon": "The establishment of hydrogen transportation infrastructure for achieving carbon neutrality was mentioned.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon Neutrality",
+        "Hydrogen",
+        "Transportation",
+        "Infrastructure",
+        "Realization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "탄소중립 실현, 수소 운송 인프 기계설비신문"
+    },
+    {
+      "id": "11",
+      "title": "Cheongju City: \"Register Performance for Carbon Neutrality Points (Vehicles) by End of October\" - Sisa Ilbo",
+      "original_title": "청주시 \"탄소중립포인트 자동차, 10월 말까지 실적 등록하세요\" - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sZUxCZXdaclZVVU9Wa1d4bVl1d2QtSHB0X2JHYjNwQzZMU2x2NGNFWWIwTmFmT21kejNNaWszRE1Nc0VtQXVnOHhzQy0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T20:40:00",
+      "description": "Cheongju City: \"Register Performance for Carbon Neutrality Points (Vehicles) by End of October\" Sisa Ilbo",
+      "summary": {
+        "phenomenon": "Cheongju City urged the registration of performance in the Carbon Neutrality Point vehicle sector by the end of October.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Cheongju City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Performance Registration",
+        "End of October"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시 \"탄소중립포인트 자동차, 10월 말까지 실적 등록하세요\" 시사일보"
+    },
+    {
+      "id": "12",
+      "title": "Cheongju City Urges Registration of Carbon Neutrality Point Vehicle Performance - cbnews.kr",
+      "original_title": "청주시, 탄소중립포인트 자동차 실적 등록 당부 - cbnews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5GejBvWmpVMkphYXBsNlVyWWdtUDZsQ2dwalR0S3lnS2J2cjk4TFBZMGFmbWR2YkNZbHMtQkV2UDd6d2R4WDdEYVM4WjVXd3ZCTXZUOGZHOVlCYVlFRWxFelYwNnpuQ3M?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T23:11:39",
+      "description": "Cheongju City Urges Registration of Carbon Neutrality Point Vehicle Performance cbnews.kr",
+      "summary": {
+        "phenomenon": "Cheongju City urged the registration of performance in the Carbon Neutrality Point vehicle sector.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheongju City",
+        "Carbon Neutrality Points",
+        "Vehicle",
+        "Performance Registration",
+        "Urging"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "청주시, 탄소중립포인트 자동차 실적 등록 당부 cbnews.kr"
+    },
+    {
+      "id": "13",
+      "title": "Yongin Special City Announces Final Performance Registration for Carbon Neutrality Point Vehicle Sector > News - thekorea.kr",
+      "original_title": "용인특례시, 탄소중립포인트 자동차 분야 최종 실적 등록 안내 > 뉴스 - thekorea.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GTTc4LVVRS1J0QkhPdUIyQl81TUpQQWpxaTdZdExLSzRtTnlhdmFLUzBwSXBhR2J5QXFBM251alNtcGI0Z3NlajAtRmtYeFdCNkhzX2xxTnZicnRoVmNMMmI3aEptUDZFS2xfY2tNd0o?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T12:58:00",
+      "description": "Yongin Special City Announces Final Performance Registration for Carbon Neutrality Point Vehicle Sector > News thekorea.kr",
+      "summary": {
+        "phenomenon": "Yongin Special City announced the final performance registration for the Carbon Neutrality Point vehicle sector.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Yongin Special City",
+        "Carbon Neutrality Points",
+        "Vehicle Sector",
+        "Performance Registration",
+        "Announcement"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "용인특례시, 탄소중립포인트 자동차 분야 최종 실적 등록 안내 > 뉴스 thekorea.kr"
+    },
+    {
+      "id": "14",
+      "title": "South Chungcheong Provincial Council Collaborates to Achieve Carbon Neutrality 2045 - newsfun.kr",
+      "original_title": "충남도의회, 탄소중립 2045 실현에 머리 맞댄다 - newsfun.kr",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RUkZqWERITUtCUUZHbTBoeHk1cERSWU9zSHZBUUJqNTdkOHRvNTFuZGIwSDBaSE5Mc0ZzcGQtV0RqaXdtUmFiY1VqaGlwS1lrZU02QUpya0VhWWdWV2VBRXRTMmZzU2xF?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-28T00:44:44",
+      "description": "South Chungcheong Provincial Council Collaborates to Achieve Carbon Neutrality 2045 newsfun.kr",
+      "summary": {
+        "phenomenon": "The South Chungcheong Provincial Council held discussions to achieve Carbon Neutrality 2045.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "South Chungcheong Provincial Council",
+        "Carbon Neutrality",
+        "2045",
+        "Achievement",
+        "Cooperation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남도의회, 탄소중립 2045 실현에 머리 맞댄다 newsfun.kr"
+    },
+    {
+      "id": "15",
+      "title": "Inje Rotary Club Conducts Uggakcheon Stream Cleanup… \"Practicing Carbon Neutrality in Daily Life\" - News TNT",
+      "original_title": "인제로타리클럽, 우각천 환경정화…“생활 속 탄소중립 실천” - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uaHhmRVQ5d0lIMzR0SFB0QTNFamVJUnpOWlBRWXdRSmYyN0Q3bXNlZktxNW1CVDFSWkQ3MVlIbXFsdEx0eHBvTlRoVWdVMTh0eGxLWU8zX2VEX0NLN0c1eUwtZ21xOTByN3c?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-09-27T11:53:31",
+      "description": "Inje Rotary Club Conducts Uggakcheon Stream Cleanup… \"Practicing Carbon Neutrality in Daily Life\" News TNT",
+      "summary": {
+        "phenomenon": "The Inje Rotary Club conducted environmental cleanup activities at Uggakcheon Stream, emphasizing 'practicing carbon neutrality in daily life.'",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Inje Rotary Club",
+        "Uggakcheon Stream",
+        "Environmental Cleanup",
+        "Carbon Neutrality",
+        "Practice in Daily Life"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "인제로타리클럽, 우각천 환경정화…“생활 속 탄소중립 실천” 뉴스티앤티"
+    },
+    {
+      "id": "16",
+      "title": "Path Opens for Trading 'Surplus Electricity' from Renewable Energy Under 10kW - Energy Daily",
+      "original_title": "10kW 이하 재생에너지 ‘남는 전기’ 거래 길 열린다 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMnhlMV96LXlQcVJZbXF0bjBiSVkxdUhVazFaUG1zSmh1dkxxa1ZDRE91Rm5kVkNDRTRfb2dOSnBtSzU5bU9PV1VkOEZ6NUxIRWN6ejBHVlVwLTMwMmZJVTR0TjV1Mm91X2lYQnphMm1xdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-28T00:32:36",
+      "description": "Path Opens for Trading 'Surplus Electricity' from Renewable Energy Under 10kW Energy Daily",
+      "summary": {
+        "phenomenon": "A path has opened for trading 'surplus electricity' produced from renewable energy facilities under 10kW.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "Surplus Electricity",
+        "Electricity Trading",
+        "Under 10kW",
+        "Market Expansion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "10kW 이하 재생에너지 ‘남는 전기’ 거래 길 열린다 에너지데일리"
+    },
+    {
+      "id": "17",
+      "title": "IEA: Integrated 'Solar+Wind+BESS+Grid' Platform to Emerge as Mainstream in Renewable Energy by 2026 - Global Economic",
+      "original_title": "IEA, 2026년 재생에너지 '태양광+풍력+BESS+그리드' 통합 플랫폼 대세 부상 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVN5c3JiUk00WnRXaEpReXEtTlRoUkRVNWpPeGxZMFdhWTNLWWFTRWd4N3F2RlZuUmpiQkVXbFFkd0wyVUY2am82b3VwQk5hUlFieXN2ODBsLWdFSHB1ekVkRHNUVUZSZ3VBZ05GQkJKMmx2VWhJdDJ6Y0tNQ0F4R3lIeFkyT3dF?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-27T23:12:41",
+      "description": "IEA: Integrated 'Solar+Wind+BESS+Grid' Platform to Emerge as Mainstream in Renewable Energy by 2026 Global Economic",
+      "summary": {
+        "phenomenon": "The International Energy Agency (IEA) projected that an integrated 'Solar+Wind+BESS (Battery Energy Storage System)+Grid' platform will emerge as the mainstream trend in the renewable energy sector by 2026.",
+        "cause": "Not mentioned in the article",
+        "outlook": "In 2026, a platform integrating solar power, wind power, battery energy storage systems, and the grid is expected to become the main trend in the renewable energy market."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "IEA, 2026년 재생에너지 '태양광+풍력+BESS+그리드' 통합 플랫폼 대세 부상 글로벌이코노믹"
+    },
+    {
+      "id": "18",
+      "title": "Onshore Wind Projected to Have Lowest New Renewable Energy Generation Costs in 2025 - Vegan News",
+      "original_title": "2025년 신규 재생에너지 발전비용 육상풍력 최저 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KNEplMm5oMnF5TWc2ZFNjR19RZUNVbXhuVXZSWWN6a3cyTVEtdXpDODJkNUF6M3RVUi1lWWtlSjMwcHZRdXVpd2lWS1RXdWZqWnp1eGt1LUVGal8yRDZXcDBZektXdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-28T00:48:51",
+      "description": "Onshore Wind Projected to Have Lowest New Renewable Energy Generation Costs in 2025 Vegan News",
+      "summary": {
+        "phenomenon": "Onshore wind is expected to have the lowest generation costs among new renewable energy sources in 2025.",
+        "cause": "Not mentioned in the article",
+        "outlook": "In 2025, onshore wind is projected to be the most economical option among new renewable energy sources."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable Energy",
+        "Onshore Wind",
+        "Generation Cost",
+        "2025",
+        "Lowest"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "2025년 신규 재생에너지 발전비용 육상풍력 최저 비건뉴스"
+    },
+    {
+      "id": "19",
+      "title": "Cable Tie Market 2035 Outlook: Data Center and Renewable Energy Demand to Drive Growth - News and Statistics - IndexBox",
+      "original_title": "케이블 타이 시장 2035년 전망: 데이터센터·재생에너지 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejlDZWtvX3I4SVR1WGFoQzNhTDVsTU5LNDNxOHhCU1JfQ29tMXhHMEd4a2JtV0NXQkFWM0JLZndaaWFBRGQ0dExOeklGNTNpWTc2eDYxS3gyc2NGWWZyTGJZdGNnaDJNMm5tOVBYZXZnN0JiOHFmWlliSXAwOE9uemR6VzVCb2dMQ1hHS1VqbUxOMk03TGs0dVlvT3lXejZ6R1NVY1pKWElqc1I5WGxtZkRKS09vOUtnQVh5eEctS0tLUzNxSjZXOHFR?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-27T20:11:04",
+      "description": "Cable Tie Market 2035 Outlook: Data Center and Renewable Energy Demand to Drive Growth - News and Statistics IndexBox",
+      "summary": {
+        "phenomenon": "The cable tie market is projected to grow until 2035, with demand from data centers and renewable energy analyzed to drive this growth.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The cable tie market is expected to grow continuously until 2035 due to increased demand in the data center and renewable energy sectors."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cable Tie Market",
+        "2035 Outlook",
+        "Data Center",
+        "Renewable Energy",
+        "Growth"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "케이블 타이 시장 2035년 전망: 데이터센터·재생에너지 수요가 성장 견인 - 뉴스 및 통계 IndexBox"
+    },
+    {
+      "id": "20",
+      "title": "Soyanggang Dam to Launch Super-Large Floating Solar Power Plant… Vision to be Declared on the 30th - Gangwon Ilbo",
+      "original_title": "소양강댐 초대형 수상 태양광 띄운다⋯30일 비전 선포 - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VT1dFcUF1UmJMNkhMbVdHY1RTWXpxTG1NaWUxcXBWMFVMYjF2dGF4d3JmWU1iYW9sdGpkWm9hakJxQXNvNnI4TTQxcTU3OGc5NHVRMnI1NE40LXM?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-27T15:00:00",
+      "description": "Soyanggang Dam to Launch Super-Large Floating Solar Power Plant… Vision to be Declared on the 30th Gangwon Ilbo",
+      "summary": {
+        "phenomenon": "A vision to construct a super-large floating solar power plant at Soyanggang Dam is scheduled to be declared on the 30th.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Soyanggang Dam",
+        "Floating Solar Power",
+        "Super-large",
+        "Vision Declaration",
+        "Launch"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "소양강댐 초대형 수상 태양광 띄운다⋯30일 비전 선포 강원일보"
+    },
+    {
+      "id": "21",
+      "title": "[Focus] The era of RPS ends, moving to a 'long-term contract market'... The renewable energy market landscape changes - Energy Daily",
+      "original_title": "[초점]RPS 시대 막 내리고 ‘장기 계약시장’으로…재생에너지 시장 판 바뀐다 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YWXpUZ25uX0FqVkFRTk51RkdFaHdzd2JTY3BsTElLckZ1dUF2ekJqREtFc1haZzJlZWU2RjgzTHIwY3B5S1BPcGZFd3ZLQ2pCODd5OTlxVG85d3RpZXBJN3Jfb09IMHhzX3BUU0pNeHlUdw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-28T00:41:50",
+      "description": "[Focus] The era of RPS ends, moving to a 'long-term contract market'... The renewable energy market landscape changes Energy Daily",
+      "summary": {
+        "phenomenon": "In the South Korean renewable energy market, the Renewable Portfolio Standard (RPS) system is concluding, and a transition to a long-term contract market is underway.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The landscape of the renewable energy market is expected to shift."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "RPS",
+        "Long-term contract market",
+        "Renewable energy",
+        "Market change",
+        "Energy policy"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[초점]RPS 시대 막 내리고 ‘장기 계약시장’으로…재생에너지 시장 판 바뀐다 에너지데일리"
+    },
+    {
+      "id": "22",
+      "title": "[Africa's Green Transition] ① Solar power and EV preparations amidst power shortages... China and UAE offensive - supple.kr",
+      "original_title": "[아프리카 녹색전환] ①전력난 속 태양광·전기차 채비…中·UAE 공세 - supple.kr",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hcVBONVAzQXBGd2hhdzlDeFRDak5rSmtQb2F4ckNFUEVpYzk4VG9lYXJtTm1pc0ZtMzJpOEs3T0tMMFpXQmRqZzU2ZGlNTEVIS2xidTNlTFNmcGxI?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-27T22:00:06",
+      "description": "[Africa's Green Transition] ① Solar power and EV preparations amidst power shortages... China and UAE offensive supple.kr",
+      "summary": {
+        "phenomenon": "Amidst power shortages in the African region, preparations are underway for the adoption of solar power generation and electric vehicles.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "China and the UAE are anticipated to actively enter and expand their influence in Africa's green transition market."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Africa",
+        "Green transition",
+        "Solar power",
+        "Electric vehicle",
+        "Power shortage"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[아프리카 녹색전환] ①전력난 속 태양광·전기차 채비…中·UAE 공세 supple.kr"
+    },
+    {
+      "id": "23",
+      "title": "ESS also included in 'national backbone power grid' development project... Utilizing existing grid to increase renewable energy capacity - Energy Daily",
+      "original_title": "ESS도 ‘국가기간 전력망’ 개발사업에…기존 망 활용해 재생에너지 수용력 높인다 - 에너지데일리",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YY1Y1WnczMERnWU9MY3ZMeFlOYXRqSElweHVrcUNPd1pubXl1SEozbGtOeXp4dEVMaFpVa2FGeEhGX3NsSGhxQ2J2WFNHakNta1ExVmRsRGJTTUtZenJGMEhoc3lVTjFKWjNQZTNfZzlsQQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-28T00:17:27",
+      "description": "ESS also included in 'national backbone power grid' development project... Utilizing existing grid to increase renewable energy capacity Energy Daily",
+      "summary": {
+        "phenomenon": "Energy Storage Systems (ESS) have been included in the national backbone power grid development project.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "It is expected that the existing power grid will be utilized to enhance the integration capacity of renewable energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "ESS",
+        "National backbone power grid",
+        "Renewable energy",
+        "Capacity",
+        "Development project"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "ESS도 ‘국가기간 전력망’ 개발사업에…기존 망 활용해 재생에너지 수용력 높인다 에너지데일리"
+    },
+    {
+      "id": "24",
+      "title": "[World Future Report 2027~2037, Who will own the power grid in 2035? Natural gas, SMR, nuclear fusion, long-term renewable energy storage 'clash'] There are also technologies shaking the axis of the base load power battle. This is the combination of renewable energy like wind and solar power with long-term storage batteries. - AI Net",
+      "original_title": "[세계미래보고서 2027~2037, 2035년 전력망의 주인은 누구인가… 천연가스·SMR·핵융합·재생에너지 장기저장 '격돌'] 기저 전력 싸움의 축을 뒤흔드는 기술도 있다. 바로 풍력·태양광 같은 재생에너지와 장기 저장 배터리의 조합이다. - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5maG1iTWJlTXh5c3RFLVczX05QXzBVLWUybmpXVU4wV1BzdE9rMVZzUzM2dTI4Y3NucGhEX1JzbmE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-09-27T15:04:00",
+      "description": "[World Future Report 2027~2037, Who will own the power grid in 2035? Natural gas, SMR, nuclear fusion, long-term renewable energy storage 'clash'] There are also technologies shaking the axis of the base load power battle. This is the combination of renewable energy like wind and solar power with long-term storage batteries. AI Net",
+      "summary": {
+        "phenomenon": "In the competition for base load power sources in the 2035 power grid, the combination of renewable energy, such as wind and solar power, with long-term storage batteries is emerging as a crucial technology.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "It is anticipated to clash with other base load power technologies, including natural gas, SMRs (Small Modular Reactors), and nuclear fusion, for dominance in the future power grid."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Power grid",
+        "Renewable energy",
+        "Long-term storage",
+        "SMR",
+        "Base load power"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[세계미래보고서 2027~2037, 2035년 전력망의 주인은 누구인가… 천연가스·SMR·핵융합·재생에너지 장기저장 '격돌'] 기저 전력 싸움의 축을 뒤흔드는 기술도 있다. 바로 풍력·태양광 같은 재생에너지와 장기 저장 배터리의 조합이다. AI넷"
+    },
+    {
+      "id": "25",
+      "title": "종들은 기후 변화에 맞서 충분히 빠르게 진화할 수 있을까?",
+      "original_title": "Can Species Evolve Fast Enough To Survive Climate Change? - SciTechDaily",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTRfeU0wcUtabTgxVGVOSDcxdDUtQkRLc2U5SVk2ZWdiYkNRV1FnWnpycnlJQ0hDNHRibFdNTWNPZzBOUmptaUJ4VkRPZ0U1SHZncFJERnkzU2pnRVpRZ3pYdWlkWmdSUGswbkFjVm1MZGptbFNGaExrVV9taXRLaUJ1M1BHM0VkNkE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T16:05:37",
+      "description": "Can Species Evolve Fast Enough To Survive Climate Change? SciTechDaily",
+      "summary": {
+        "phenomenon": "Climate change is progressing, raising questions about whether species can evolve quickly enough to survive.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The article does not provide an outlook on whether species will be able to evolve at the pace of climate change or if they will face difficulties in survival."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Species",
+        "Evolution",
+        "Survival",
+        "Climate change",
+        "Pace"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Can Species Evolve Fast Enough To Survive Climate Change? SciTechDaily"
+    },
+    {
+      "id": "26",
+      "title": "Who is responsible for limiting global warming to 1.5°? - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uaTZwNXQtSGY0eEYxd0tlZFMyd1FmcTNMOFNGSjY3V095cUNKSjZmTkpRWko4akFMd0hxRGp5LXcyX0s3Y1dQaFRFRGgtWEdXN1VuUmxZTDJuQ0FYd29tcldqZm9RTHNoeWlxSFoyUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T21:00:01",
+      "description": "Who is responsible for limiting global warming to 1.5°? Phys.org",
+      "summary": {
+        "phenomenon": "An international goal has been set to limit global warming to within 1.5°C.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Discussions are expected to take place regarding accountability for achieving the 1.5°C global warming limit target."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Who is responsible for limiting global warming to 1.5°? Phys.org"
+    },
+    {
+      "id": "27",
+      "title": "기후 변화 불안 지원 그룹 카페: 이야기합시다 - \"이것은 자연재해가 아니다: 우리에게 고의적으로 행해지고 있다\" - 가디언 UK - 데일리 코스",
+      "original_title": "Climate Change Anxiety Support Group Cafe:Let’sTalk-“This is not a natural calamity: it is being done to us knowingly”-Guardian UK - Daily Kos",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV21NYlBEal9UMTlLV29nRDlNd3VqQ0g0QzFwMlVNYlVma1duNUZQYkJWZl9YMWRld051WlRYNWR1SGVFTGU0R3YwcGd1T2tjT01yNFZSRHhkTnZMbFB5S2x4eUtraEZTWTNTWW5nQzJnYTl5a2V1VUg3dzVpUUxfUUJ1NXFDckxGMldfNkhFdlA4OHJzMF9HVEZDWnlKZ1hOamhZN3h0R0g?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T20:14:54",
+      "description": "Climate Change Anxiety Support Group Cafe:Let’sTalk-“This is not a natural calamity: it is being done to us knowingly”-Guardian UK Daily Kos",
+      "summary": {
+        "phenomenon": "Individuals are experiencing anxiety due to climate change, and support groups are being held to address this.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The perception that climate change is not a natural calamity but rather a result of deliberate human actions may spread, leading to more active discussions on the matter."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change anxiety",
+        "Support group",
+        "Deliberate harm",
+        "Natural disaster",
+        "Dialogue"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Anxiety Support Group Cafe:Let’sTalk-“This is not a natural calamity: it is being done to us knowingly”-Guardian UK Daily Kos"
+    },
+    {
+      "id": "28",
+      "title": "기후 변화와 AI가 전 세계 물 시스템을 압박하고 있다",
+      "original_title": "Climate Change and AI Are Putting the World’s Water Systems Under Strain - Koreabizwire",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjNzdmh4UzQtTHQxWmE1bU9IYTRNbVF5OVIzVXJ3RkdaMlFqTDZsZ0hyYnRfbWNTT3Y2R3lTelhzZW9YUkt6a0Y5My1JVXgxeGlsZVBrdTBURmZqQVllaFlLdlJ4M3NaZ1RoVGxrVzBtQVNRNWNnTUVKM0Uxa0FHZE94cy1IOGtJUGg5XzJ0UzBiVkVLWWM2Vi1Fc3dibmwwN3puOA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-28T00:45:00",
+      "description": "Climate Change and AI Are Putting the World’s Water Systems Under Strain Koreabizwire",
+      "summary": {
+        "phenomenon": "Global water systems are experiencing strain due to the impacts of climate change and Artificial Intelligence (AI).",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The combined effects of climate change and AI are projected to intensify the burden on global water systems."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "AI",
+        "Water system",
+        "Strain",
+        "Global"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change and AI Are Putting the World’s Water Systems Under Strain Koreabizwire"
+    },
+    {
+      "id": "29",
+      "title": "벌링턴 카운티, 새로운 기후 변화 회복력 연구에 참여 - 애틀랜틱 시티 프레스",
+      "original_title": "Burlington County part of new climate change resiliency study - Press of Atlantic City",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQODBvaHRHd1c4azZGYlZNLURHSlJQVXFCWFBuOVdlOFB5bVlNVjlTMDZiOGZENTNzWDFfdkEyWmR2OXZ6RWROYjY1MVhiTnBUSElaamdDWEFhZjZDU3cxLUtKSkl3X0VKRTY4NW5UYnQzSDRDazJnV1JvVnNSRTN3NkNpWmF1NjZBSE0xVGtWRFR6djhqeWtCXzBJWmVDOXF6Mm9R?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T12:30:00",
+      "description": "Burlington County part of new climate change resiliency study Press of Atlantic City",
+      "summary": {
+        "phenomenon": "Burlington County is participating in a new study on climate change resilience.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The study is expected to explore strategies to enhance the community's resilience to climate change."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Burlington County",
+        "Climate change",
+        "Resilience",
+        "Study",
+        "Participation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Burlington County part of new climate change resiliency study Press of Atlantic City"
+    },
+    {
+      "id": "30",
+      "title": "Parenting must be political in the shadow of climate change and the planet our children will inherit - Irish Examiner",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5lM0FkVnRCbFBnY2hnQWRnLWhaV2IzRXNydVBxY2xKODlodXoxUjhlTmJ3QkcyS1RnaUU0bHJwbzAxX3ZtXzI0OG1fbzJMNmNON2J5TlJyTWxVaTVHQWtpWmd5d0FJRnBsSWNpZXBKZ2Q3OFliOXdpVlBnT0k?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-28T00:00:00",
+      "description": "Parenting must be political in the shadow of climate change and the planet our children will inherit Irish Examiner",
+      "summary": {
+        "phenomenon": "Climate change is intensifying, casting a shadow over the planet that future generations will inherit.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "It is anticipated that the awareness of the need for a political perspective in parenting, influenced by climate change, will spread."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Parenting must be political in the shadow of climate change and the planet our children will inherit Irish Examiner"
+    },
+    {
+      "id": "31",
+      "title": "기후 변화 법적 선례, 태평양 문화의 신흥 권리를 와해시키기 시작",
+      "original_title": "Climate change legal precedents begin to unravel Pacific culture's emerging rights - National Indigenous Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckR4QWZ2UGowQk5wX2Jza1VValpMd2VCbmFlWE5uaS1IeTN4Z21lbW42OG5ST3VVUGpJdFY0MjZsOHFZMHZfTUVkNjVocU1tWjBTQVktRmxENS1SNHgxaWRfSTJhYTJDQjFUMkEzd3V0ZDVoRHJSU2psczlVZVZXaV9PUVNtejltS3pJaXB2bTlxdl9PbjBGQlhTZGRWVG9oV3NNc1BpbEh0alVOSEpHeTczNlgwdVlX?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-28T00:15:00",
+      "description": "Climate change legal precedents begin to unravel Pacific culture's emerging rights National Indigenous Times",
+      "summary": {
+        "phenomenon": "Climate change legal precedents have begun to undermine the emerging rights of Pacific cultures. (Specific figures, regions, and timelines are not mentioned in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Change",
+        "Legal Precedent",
+        "Pacific Culture",
+        "Emerging Rights",
+        "Undermining"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change legal precedents begin to unravel Pacific culture's emerging rights National Indigenous Times"
+    },
+    {
+      "id": "32",
+      "title": "Leveraging creativity: UN Climate Change unveils new ECCA strategy ahead of COP31 - EnviroNews Nigeria",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkFZanZsbmJ5QmZXajhSVVlCWUJ4MkhLaHc5VTBxekgxbnBsX083eEZHWUJoTlVhTFpGcUVsLUV1aVNfOTNLT1UtVWpfUG9NUmYydHNuQkdGY093azZuTlNPNkEtbWlKMWdPVldXV3BqQmdVMGNveG9xQ09KMlB1eWVzOE1vbmJNUW9ubzZTZGhESkRHVXhlWjh0MVBQWXpnZjNjaXdFUmszcXI5T1ZkUzZhRFhKZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T16:02:32",
+      "description": "Leveraging creativity: UN Climate Change unveils new ECCA strategy ahead of COP31 EnviroNews Nigeria",
+      "summary": {
+        "phenomenon": "UN Climate Change has unveiled a new ECCA strategy ahead of COP31. (What ECCA stands for is not specified in the article)",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Leveraging creativity: UN Climate Change unveils new ECCA strategy ahead of COP31 EnviroNews Nigeria"
+    },
+    {
+      "id": "33",
+      "title": "카리콤, 건강 및 기후 변화에 대한 새로운 행동 계획 개발 승인",
+      "original_title": "CARICOM endorses new action plan on health and climate change developed - thestkittsnevisobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNlRSQVAzM3dUM3dNeXh0MUg0SVFYaFZQMXhIOGtDOXBBRU9fU3pIdjY5Q0ZoQUFCMWtfR3ZSWXBVdkxCaU5sU1J3NTAyM0I4TkVyVEF0UzY3SnJ0YmptcXBhZXFhYTN0NkpUVlZ3Q2JmS3JUSFBrby03dFlPSUJyVmpncVE5Mjh1b3VVRzZyLWFrSjU3UEwwQkdwU3pxSDdhM3FjQ0dHR185N0Y1MmxDbzh3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-09-27T23:30:05",
+      "description": "CARICOM endorses new action plan on health and climate change developed thestkittsnevisobserver.com",
+      "summary": {
+        "phenomenon": "CARICOM has endorsed the development of a new action plan on health and climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "CARICOM",
+        "Climate Change",
+        "Health",
+        "Action Plan",
+        "Endorsement"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "CARICOM endorses new action plan on health and climate change developed thestkittsnevisobserver.com"
+    },
+    {
+      "id": "34",
+      "title": "Anatomy of an inferno: inside the push to map, predict and prevent spread of increasing UK wildfires",
+      "original_title": null,
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/inferno-inside-map-predict-prevent-wildfires-uk",
+      "source": "guardian_climate",
+      "published_at": "2026-09-27T15:00:07",
+      "description": "Scientists are racing to understand how fires behave as hotter summers turn green landscapes into tinderboxesFrom the scorched heathlands of the New Forest to the smouldering valleys of south Wales and burned-out homes in Stourbridge, an extraordinary summer of wildfires has left its mark across Britain.To most of us, these charred landscapes may look like pure devastation, but to a trained wildfire investigator they are full of clues. Heat-scorched leaves can become frozen in position, preservi",
+      "summary": {
+        "phenomenon": "Unprecedented summer wildfires have occurred across Britain (including New Forest, south Wales, and Stourbridge), leaving their mark on extensive areas.",
+        "cause": "Wildfires have erupted as hotter summers transform green landscapes into tinderboxes. Scientists are striving to understand wildfire behavior.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Scientists are racing to understand how fires behave as hotter summers turn green landscapes into tinderboxesFrom the scorched heathlands of the New Forest to the smouldering valleys of south Wales and burned-out homes in Stourbridge, an extraordinary summer of wildfires has left its mark across Britain.To most of us, these charred landscapes may look like pure devastation, but to a trained wildfire investigator they are full of clues. Heat-scorched leaves can become frozen in position, preservi"
+    },
+    {
+      "id": "35",
+      "title": "독자 답변: 세계는 지금 어떤 역사 속 리더를 필요로 할까?",
+      "original_title": "Readers reply: Which leader from history does the world need now?",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/27/readers-reply-which-historic-leader-does-the-world-need-now",
+      "source": "guardian_climate",
+      "published_at": "2026-09-27T13:00:05",
+      "description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsThis week’s question: Is it possible that 3 is the most common number in UK street addresses?It’s clear that the world as it is – considering the climate crisis, the rise of nationalism, geopolitical tumult, the possibility of AI killing us all by the end of the decade – could do with some more ethically astute and capable lea",
+      "summary": {
+        "phenomenon": "Not mentioned in the article (The climate crisis is cited as one of the current global challenges, but no specific phenomenon is described).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate Crisis",
+        "Global Challenge",
+        "Leadership",
+        "Nationalism",
+        "AI Threat"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical conceptsThis week’s question: Is it possible that 3 is the most common number in UK street addresses?It’s clear that the world as it is – considering the climate crisis, the rise of nationalism, geopolitical tumult, the possibility of AI killing us all by the end of the decade – could do with some more ethically astute and capable lea"
+    },
+    {
+      "id": "36",
+      "title": "회색곰의 현실: 미국 주들, 곰과 인간의 조우 증가에 고심",
+      "original_title": "Grizzly reality: US states grapple with uptick in encounters between bears and humans",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/bear-human-encounters",
+      "source": "guardian_climate",
+      "published_at": "2026-09-27T12:00:04",
+      "description": "Bears are increasingly entering places where humans live in the US, forcing wildlife workers to make tough decisionsDan Thompson, supervisor of the large carnivore section of the Wyoming game and fish department, enjoys the field work of capturing mountain lions, wolves, black bears and grizzly bears to study them.“I have always been personally intrigued with carnivores and their role throughout any ecosystem,” Thompson said. “I actually feel very fortunate to get paid to do what we do.” Continu",
+      "summary": {
+        "phenomenon": "In the U.S., bears (including grizzly bears) are increasingly entering human-inhabited areas, leading wildlife managers to face difficult decisions. (Specific figures and timelines are not mentioned in the article).",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Bears",
+        "Humans",
+        "Encounters",
+        "Increase",
+        "Wildlife Managers"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bears are increasingly entering places where humans live in the US, forcing wildlife workers to make tough decisionsDan Thompson, supervisor of the large carnivore section of the Wyoming game and fish department, enjoys the field work of capturing mountain lions, wolves, black bears and grizzly bears to study them.“I have always been personally intrigued with carnivores and their role throughout any ecosystem,” Thompson said. “I actually feel very fortunate to get paid to do what we do.” Continu"
+    }
+  ],
+  "summary": {
+    "total_count": 36,
+    "domestic_count": 24,
+    "international_count": 12,
+    "top_keywords": [
+      "Carbon neutrality",
+      "Renewable energy",
+      "Climate change",
+      "Seongnam City",
+      "Carbon Neutrality Points"
+    ],
+    "sentiment_breakdown": {
+      "positive": 19,
+      "negative": 6,
+      "neutral": 6
+    },
+    "original_top_keywords": [
+      "탄소중립",
+      "재생에너지",
+      "기후 변화",
+      "성남시",
+      "탄소중립포인트"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
