@@ -1,0 +1,942 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T02:32:24.326007",
+  "briefing": {
+    "opening": "Welcome. I will now begin the climate briefing for October 4, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Intensifying Climate Crisis: A Global Warning",
+        "content": "Today's news warns of an intensifying global climate crisis. Domestically, academic attention is focused on the collapse of Antarctic glaciers, with discussions even mentioning a 'Doomsday for Earth' scenario [1]. Internationally, a massive loss of ice has been reported, including approximately 20% of Swiss glaciers disappearing in 2026, which has alarmed scientists [22]. New studies are revealing an increasingly strengthened link between global warming and extreme weather events [24], and past instances, such as Australia's 'Millennium Drought' from 1997 to 2009, serve as a reminder of the severity of these extreme climate phenomena [2]. Furthermore, direct impacts of climate change are being witnessed in various regions worldwide, including a late-season heatwave striking Southern California [37], and endangered fog oasis trees in Lima, Peru, facing a dual threat from climate change and unchecked urban growth [30].",
+        "tone": "urgent"
+      },
+      {
+        "title": "⚖️ Climate Change and Legal Responsibility: Increasing Role of the Judiciary",
+        "content": "As damages from climate change increase, discussions on legal responsibility are becoming more active. Climate change-related cases are being addressed by the International Court of Justice [15], and the U.S. Supreme Court is set to hear major climate change lawsuits related to the devastating Marshall and Colorado wildfires [16, 23, 25, 28]. These hearings are expected to set important precedents for future climate change litigation [20]. Meanwhile, Mark Carney's statement that the economy takes precedence over climate change in relation to new pipeline construction [21], once again highlights the complex balancing act between climate action and economic development.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌱 Domestic and International Climate Action and Adaptation Efforts",
+        "content": "Amidst this crisis, various domestic and international efforts to address climate change continue. Domestically, Cheonan City and Gwacheon City are holding promotional events for carbon neutrality practices and final reporting sessions for their local energy plans [3, 4, 9], while Seongnam City is encouraging citizen participation through a carbon neutrality idea contest [5]. Gwangju City has proposed a major industrial transformation utilizing renewable energy [7], and the development of technology linking volatile renewable energy with hydrogen production has also commenced [8]. Internationally, the potential for ancient African rice to aid farmers in coping with climate change has been suggested [19, 32], and mapping research identifying climate change survival zones for Himalayan medicinal plants is underway [26]. These are examples of active research and policies aimed at strengthening adaptation and resilience.",
+        "tone": "positive"
+      },
+      {
+        "title": "🔬 Scientific Understanding and Societal Discourse on Climate Change",
+        "content": "Scientific understanding of climate change is deepening, and the broader societal discourse is expanding. New research findings are being published, such as the phenomenon of the atmosphere slowing Earth's rotation being identified as a subtle signal of climate change [14]. Furthermore, review articles for the climate change satirical films 'A Statement' and 'Digger' have been reported [13, 18, 31], increasing public interest in how climate change is addressed in popular culture. Meanwhile, reports indicating rising prices for certain food items due to climate change [33], are raising awareness of the impact of climate change on the everyday economy.",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing highlights the severity of the climate crisis and the multifaceted efforts being made globally to address it. Through continued attention and cooperation, we must overcome the challenges of climate change. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Earth's 'Doomsday' at Stake Due to Antarctic Glacier Collapse; Academic Attention Focused on Abnormal Climate Impacts - Business Post",
+      "original_title": "남극 빙하 붕괴에 지구 '운명의 날' 걸렸다, 이상기후 영향에 학계의 이목 집중 - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ic2FqdEgzYTBFMERKUnV0ODhCMklGSXJmOHh2NXh2TGVlM05TcHFUS1o3cFd3NmNhdUVCUXlSbUtraWI3Q0tjVHpFYVotME9IVXEtMzduTVBQcTRMWlV1ZWhFWEZQWERwUHg4NllXQ2VLcmM?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-03T21:00:00",
+      "description": "Earth's 'Doomsday' at Stake Due to Antarctic Glacier Collapse; Academic Attention Focused on Abnormal Climate Impacts Business Post",
+      "summary": {
+        "phenomenon": "Antarctic glacier collapse is occurring, and academic attention is focused on this phenomenon.",
+        "cause": "Antarctic glaciers are collapsing due to the impact of abnormal climate.",
+        "outlook": "Projections suggest that the collapse of Antarctic glaciers could lead to a critical juncture for Earth."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Antarctic glacier collapse",
+        "Earth's doomsday",
+        "Abnormal climate",
+        "Academic attention",
+        "Climate crisis"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남극 빙하 붕괴에 지구 '운명의 날' 걸렸다, 이상기후 영향에 학계의 이목 집중 비즈니스포스트"
+    },
+    {
+      "id": "2",
+      "title": "Episode 25: The 1997-2009 Australian Millennium Drought: Parched Earth - Brunch",
+      "original_title": "25화 1997-2009년 호주 밀레니엄 가뭄: 메마른 대지 - 브런치",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11ZDdaaG9KTnpUeXVxZ2tJUWNTR0dERklzNGVkSEJEOV8yNUtkR1I1UWZpX1BoU3BMTUhnem5GRlhDOEhqdjFmMjdBV0dUa1pOZ3lv?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-03T14:04:28",
+      "description": "Episode 25: The 1997-2009 Australian Millennium Drought: Parched Earth Brunch",
+      "summary": {
+        "phenomenon": "The 'Millennium Drought' occurred in Australia from 1997 to 2009.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Australia",
+        "Millennium Drought",
+        "Drought",
+        "1997-2009",
+        "Parched earth"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "25화 1997-2009년 호주 밀레니엄 가뭄: 메마른 대지 브런치"
+    },
+    {
+      "id": "3",
+      "title": "Cheonan Carbon Neutrality Support Center Promotes Carbon Neutrality Practices at Cheonan Heungtaryeong Dance Festival - Joongdo Ilbo",
+      "original_title": "천안시탄소중립지원센터, 천안흥타령춤축제서 탄소중립 실천 홍보 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0eVdzTURVMWZnUjFTdlM4Z0xGNWJjVzVmWkF5Ny1fMTlYUnlhNFpTcUZHOWtLVWt3SkMwVTZraXdqTFVhc1BEOEVvbllVSG9uTnMydGlBOTlmZUZneDRNRlBNdFpUdG1GTGlHSw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-04T01:00:02",
+      "description": "Cheonan Carbon Neutrality Support Center Promotes Carbon Neutrality Practices at Cheonan Heungtaryeong Dance Festival Joongdo Ilbo",
+      "summary": {
+        "phenomenon": "The Cheonan Carbon Neutrality Support Center promoted carbon neutrality practices at the Cheonan Heungtaryeong Dance Festival.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Cheonan Carbon Neutrality Support Center",
+        "Carbon neutrality",
+        "Promotion",
+        "Cheonan Heungtaryeong Dance Festival",
+        "Practice"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "천안시탄소중립지원센터, 천안흥타령춤축제서 탄소중립 실천 홍보 중도일보"
+    },
+    {
+      "id": "4",
+      "title": "Gwacheon City Holds Final Report Meeting on Local Energy Plan for Carbon Neutrality Realization > News - thekorea.kr",
+      "original_title": "과천시, 탄소중립 실현을 위한 지역에너지계획 최종보고회 개최 > 뉴스 - thekorea.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRllYVVBIQ3F3XzAzY1Z3MDBEWUJxcWhzN1RPVVd4SFJOQTZfbXoyRGhjNHFvb0FIMWVaSlFLS0RYQzk3MW1ERi1TaDVZRmlUb1pVMU16ZkYzcmVXRVhFOEZxdHhXZUdLUF9rSUFwOVI?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-03T23:47:00",
+      "description": "Gwacheon City Holds Final Report Meeting on Local Energy Plan for Carbon Neutrality Realization > News thekorea.kr",
+      "summary": {
+        "phenomenon": "Gwacheon City held a final report meeting on the local energy plan for the realization of carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwacheon City",
+        "Carbon neutrality",
+        "Local energy plan",
+        "Final report meeting",
+        "Realization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "과천시, 탄소중립 실현을 위한 지역에너지계획 최종보고회 개최 > 뉴스 thekorea.kr"
+    },
+    {
+      "id": "5",
+      "title": "Seongnam City Announces Carbon Neutrality Idea Contest Until the 20th, Total Prize Money 1.7 Million Won > News - thekorea.kr",
+      "original_title": "성남시 20일까지 탄소중립 아이디어 공모…총상금 170만원 > 뉴스 - thekorea.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rdFNaazVCRGx4c2tKcTQ3R2ZZLUc0cmU4Z1dXZi1rbW9TdmRWNU1LQVg4amZNamtyTVZyWEd6V1VELVJBYzE4TUlSSF9KQ21EZ3BEV0tBcnJUcmhodnFNRGNjZmR1aEhKOXBMcTVqNnM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-03T14:45:00",
+      "description": "Seongnam City Announces Carbon Neutrality Idea Contest Until the 20th, Total Prize Money 1.7 Million Won > News thekorea.kr",
+      "summary": {
+        "phenomenon": "Seongnam City is holding a carbon neutrality idea contest until the 20th, with a total prize money of 1.7 million won.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Seongnam City",
+        "Carbon neutrality",
+        "Idea",
+        "Contest",
+        "Prize money"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "성남시 20일까지 탄소중립 아이디어 공모…총상금 170만원 > 뉴스 thekorea.kr"
+    },
+    {
+      "id": "6",
+      "title": "In the Era of Renewable Energy, the Korea Meteorological Administration Needs a 'Major Blackout Risk Weather' Warning [Climate, Energy, Environment Musings] - Energy Economy News",
+      "original_title": "재생에너지 시대, 기상청에 ‘대정전 위험기상’ 경보가 필요하다 [기후에너지환경 단상] - 에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3MFd5SklxbzFRNUg5VjlKdHpTVlRFYkFTYS1uZUt0S3h0cFB1VTl4N1lBNHlUN2t0YUV6RzV3LWtzWF84N3VuVHlDOVR4VE9pU0lJcFo4ekJENFBXdnNtNFdn?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-04T00:00:00",
+      "description": "In the Era of Renewable Energy, the Korea Meteorological Administration Needs a 'Major Blackout Risk Weather' Warning [Climate, Energy, Environment Musings] Energy Economy News",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "An argument has been raised that in the era of renewable energy, the Korea Meteorological Administration needs to issue a 'major blackout risk weather' warning."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable energy",
+        "Korea Meteorological Administration",
+        "Major blackout",
+        "Hazardous weather",
+        "Warning"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 시대, 기상청에 ‘대정전 위험기상’ 경보가 필요하다 [기후에너지환경 단상] 에너지경제신문"
+    },
+    {
+      "id": "7",
+      "title": "Mayor Min Hyung-bae Proposes 'Industrial Transformation' for Integrated Special City: 'Gwangju Semiconductors, Eastern Materials/Parts, Western Renewable Energy' - World Center Naju News",
+      "original_title": "민형배 시장 “광주 반도체·동부 소재부품·서부 재생에너지”…통합특별시 ‘산업 대전환’ 제시 - 세계중심나주뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xUkloSG9zZHVqNDNpNWRNakhvRVpmNlhnNGlmUXJnVTNjaS02aXd1dlZwNEFpX2xkQlM1amxFVVhtQXR4YlJscld0WUZ1aTZJNmZZN1RLZ2R2enV2eFpFdW8yLWM4bk0wbUE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-03T22:35:49",
+      "description": "Mayor Min Hyung-bae Proposes 'Industrial Transformation' for Integrated Special City: 'Gwangju Semiconductors, Eastern Materials/Parts, Western Renewable Energy' World Center Naju News",
+      "summary": {
+        "phenomenon": "Mayor Min Hyung-bae proposed an 'industrial transformation' for the integrated special city and mentioned a plan to deploy renewable energy in the western part of the Gwangju region.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Mayor Min Hyung-bae",
+        "Gwangju",
+        "Semiconductors",
+        "Renewable energy",
+        "Industrial transformation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "민형배 시장 “광주 반도체·동부 소재부품·서부 재생에너지”…통합특별시 ‘산업 대전환’ 제시 세계중심나주뉴스"
+    },
+    {
+      "id": "8",
+      "title": "Development of Technology Linking Highly Variable Renewable Energy with Hydrogen Production Commenced - Halla Ilbo",
+      "original_title": "변동성 큰 재생에너지 수소 생산 연계 기술 개발 착수 - 한라일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxN2YtY0tUdTNUYlh3TDlPbTFUTGNlSVB4S3F3Ung1MkhXR0trcVVEcVRwbE11Z3E2RkVSY2Uta004QVNSNHRfU2ZQTWdBQmFHdzZXM2ZSUC1uVGp4aHVkcnZ0d2dIYXlYeFE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-04T01:13:29",
+      "description": "Development of Technology Linking Highly Variable Renewable Energy with Hydrogen Production Commenced Halla Ilbo",
+      "summary": {
+        "phenomenon": "The development of technology linking highly variable renewable energy with hydrogen production has commenced.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Renewable energy",
+        "Hydrogen production",
+        "Variability",
+        "Linkage technology",
+        "Development commencement"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "변동성 큰 재생에너지 수소 생산 연계 기술 개발 착수 한라일보"
+    },
+    {
+      "id": "9",
+      "title": "Gwacheon City Holds Final Report Meeting on Local Energy Plan for Carbon Neutrality Realization > News - thekorea.kr",
+      "original_title": "과천시, 탄소중립 실현을 위한 지역에너지계획 최종보고회 개최 > 뉴스 - thekorea.kr",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBrWmV1YU5PVUU0R0h0YUVoQ01iS1p4YkVpcHJSb3ZTY2pVTC03eENuQ0RkS1YtNWlvMWk5SjZoVDBGX0k?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-03T23:47:00",
+      "description": "Gwacheon City Holds Final Report Meeting on Local Energy Plan for Carbon Neutrality Realization > News thekorea.kr",
+      "summary": {
+        "phenomenon": "Gwacheon City held a final report meeting on the local energy plan for the realization of carbon neutrality.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwacheon City",
+        "Carbon neutrality",
+        "Local energy plan",
+        "Final report meeting",
+        "Realization"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "과천시, 탄소중립 실현을 위한 지역에너지계획 최종보고회 개최 > 뉴스 thekorea.kr"
+    },
+    {
+      "id": "10",
+      "title": "Korea Rural Community Corporation to Supplement 200 Billion Won in Annual Agricultural Water Management Costs with 3GW of Solar Power - Herald Economy",
+      "original_title": "“매년 2000억어치 불만 쌓여”…농어촌공사, 태양광 3GW로 농업용수 관리비 보완 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02Z2hGTkhqTHpMSURpNlBjREVvZkJSWkkzU1hUaExseVczOVMxYVJOOElpbmVFamUxaEtJM0NxUGVQYm85bTBXei12dFFMVWFMY1dPSVppUQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-03T21:00:05",
+      "description": "Korea Rural Community Corporation to Supplement 200 Billion Won in Annual Agricultural Water Management Costs with 3GW of Solar Power Herald Economy",
+      "summary": {
+        "phenomenon": "The Korea Rural Community Corporation annually faces a deficit of 200 billion won in agricultural water management costs.",
+        "cause": "Not mentioned in the article",
+        "outlook": "The Korea Rural Community Corporation plans to supplement the annual 200 billion won deficit in agricultural water management costs through 3GW of solar power."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Korea Rural Community Corporation",
+        "Solar power",
+        "Agricultural water",
+        "Management costs",
+        "Supplementation"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "“매년 2000억어치 불만 쌓여”…농어촌공사, 태양광 3GW로 농업용수 관리비 보완 헤럴드경제"
+    },
+    {
+      "id": "11",
+      "title": "Gangwon Province to Invest 147 Billion KRW in Agricultural Disaster Response, Including Prevention and Policy Insurance Support",
+      "original_title": "강원도, 농업재해 대응에 1470억원 투입···재해 예방, 농업정책보험 지원",
+      "url": "https://www.khan.co.kr/article/202610041115001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-04T02:15:00",
+      "description": "Gangwon Province announced on the 4th that it will invest 147 billion KRW this year to implement disaster prevention projects and agricultural policy insurance support projects. This initiative aims to address agricultural disasters, which are increasing in frequency and scale due to climate change. Specifically, 21.7 billion KRW will be allocated to nine horticultural crop projects, including the modernization of facility horticulture and special crop production facilities, alongside three livestock projects, such as support for intelligent livestock facilities.",
+      "summary": {
+        "phenomenon": "Gangwon Province announced on the 4th that it will invest 147 billion KRW this year to implement disaster prevention and agricultural policy insurance support projects. This measure is in response to agricultural disasters, which are increasing in frequency and scale due to climate change. Specifically, 21.7 billion KRW is planned for nine horticultural crop projects, including the modernization of facility horticulture and special crop production facilities.",
+        "cause": "The frequency and scale of agricultural disasters are increasing due to climate change.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "강원도청 전경. 강원도 제공강원도는 기후변화로 발생 빈도와 피해 규모가 커지고 있는 농업재해에 대응하기 위해 올해 1470억 원을 들여 재해 예방사업과 농업정책보험 지원사업을 추진한다고 4일 밝혔다.먼저 농업재해에 대응하기 위해 시설원예와 특용작물 생산시설 현대화 등 원예작물 9개 사업에 217억 원을 투입하는 것을 비롯해 지능형 축산시설 지원 등 축산 3···"
+    },
+    {
+      "id": "12",
+      "title": "Where Will the Headquarters of 'Korea Power,' Formed by the Merger of 5 Generation Companies, Be Located?",
+      "original_title": "발전 5사 통합 ‘한국발전’ 본사 어디로 가나",
+      "url": "https://www.khan.co.kr/article/202610041056001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-04T01:56:00",
+      "description": "Buan County has joined the competition to host the integrated headquarters of 'Korea Power,' leveraging its Saemangeum industrial complex and renewable energy infrastructure, competing with cities like Jinju and Taean. On the 2nd, Professor Shin Hyung-sik chaired a comprehensive discussion at the 'Energy Transition Era, Buan County Future Growth Strategy Seminar' held in Buan County, Jeollabuk-do. Experts from various fields discussed strategies for attracting the integrated headquarters of public power generation companies and establishing a Saemangeum Science and Technology Complex, as the government plans to merge five public power generation companies.",
+      "summary": {
+        "phenomenon": "The government plans to integrate five public power generation companies to establish 'Korea Power.' Cities including Buan County in Jeollabuk-do, Jinju, and Taean are currently competing to host the integrated headquarters. On the 2nd, Buan County held an 'Energy Transition Era, Buan County Future Growth Strategy Seminar' where strategies for attracting the integrated headquarters were discussed.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Integration of 5 power generation companies",
+        "Korea Power",
+        "Headquarters bidding competition",
+        "Renewable energy",
+        "Saemangeum"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "부안, 새만금 산업용지·재생에너지 기반 내세워 유치전 가세···진주·태안 등 유치 경쟁지난 2일 전북 부안군 소노벨 변산에서 열린 ‘에너지 전환시대, 부안군 미래성장 전략 세미나’ 종합토론에서 신형식 교수가 좌장을 맡아 각계 전문가들과 발전공기업 통합본사 유치 및 새만금 과학기술단지 조성 방안을 논의하고 있다. 부안군 제공정부가 5개 발전공기업을 통합해 1···"
+    },
+    {
+      "id": "13",
+      "title": "A Statement review – outstanding climate change dramedy about a 1980 meeting - The Guardian",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlcTMzdlBndVJ6NVFfbFpMS0tLbVlabjZlX3A5cjdqN0RHOFI3d1psN200cEFydkRIQWFsenZWM2VMSnVuT1p5X3pnS3RKWDRHUm9nQjEtUk8wQ1VvdnE5OUo1MFZlWXkzWG5Fekl6Y1pVcS1xNWtn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T00:16:00",
+      "description": "A Statement review – outstanding climate change dramedy about a 1980 meeting The Guardian",
+      "summary": {
+        "phenomenon": "A review article has been published about 'A Statement,' a climate change dramedy film that covers a 1980s meeting.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "A Statement review – outstanding climate change dramedy about a 1980 meeting The Guardian"
+    },
+    {
+      "id": "14",
+      "title": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change - Phys.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQVgwUlVZdHJLUFlRalQ2MVVfb2pzbXJUU3poYldXa19xMy1lZWw2YmZWX2RYYUxEaFVGU2RHSDF2NTZIeXRwdml2WllSay1mSV9UcjJDM1RESHdpV0tFR2NPejZVWkVlakR3SVB0SldDd2JTTE9WcG94MldmMy1sU0ZOTQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T16:20:01",
+      "description": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change Phys.org",
+      "summary": {
+        "phenomenon": "The phenomenon of the atmosphere slowing down the Earth's rotation has been observed and is being identified as a subtle signal of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "When the atmosphere slows the Earth: Uncovering a subtle signal of climate change Phys.org"
+    },
+    {
+      "id": "15",
+      "title": "국제사법재판소의 기후 변화",
+      "original_title": "Climate Change at the International Court of Justice - wellcome.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3F2d3hsMUkyeWNlVTFPUEpXWnVJYndwUUJ3SkNqMHV1WF9MdUpuakJNRDdJYzVHNVBZaHFyY2lvNHRuS3p2X3FHSEZQUkZKcXRfRTlLSi1iX25ic1ZqYV9wWGhZWXRPbFVqaXR5TzByc2c4OEdKLTd6VHdkNHlwWWZmSi03VEkt?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T21:08:31",
+      "description": "Climate Change at the International Court of Justice wellcome.org",
+      "summary": {
+        "phenomenon": "Climate change-related issues are being addressed at the International Court of Justice.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "International Court of Justice",
+        "International law",
+        "Legal responsibility",
+        "Justice"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change at the International Court of Justice wellcome.org"
+    },
+    {
+      "id": "16",
+      "title": "대법원, 파괴적인 마셜 산불 관련 기후 변화 소송 심리 예정",
+      "original_title": "The Supreme Court will hear a climate change case involving the devastating Marshall wildfire - sentinelcolorado.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZVNMUnVQYkpzSzY0SjB6NEs1b1FQdFJkWWt0MVZfQjVsai1kbk55Ry0wMWpfNlV0Y2FQR3RSN3NNODFMallGc3lpMUNFTWNzZnhQNTUxZ2F4X1l6TFJSeVcyUFNpUk5TSGJJZjZMV2VqY21YZGY0R3V0cnZMZ1FsYlJTSmpjcVN2UFl2SXF3T0RKa2xQX2M5enhicnladE1id2xXUWFuaHZCWEFxX2Z0ZjJTbURucUhZRW56di1SYlg1S3RlWTlySA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T12:47:43",
+      "description": "The Supreme Court will hear a climate change case involving the devastating Marshall wildfire sentinelcolorado.com",
+      "summary": {
+        "phenomenon": "The U.S. Supreme Court is scheduled to hear a climate change lawsuit related to the devastating Marshall wildfire.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Supreme Court",
+        "Climate change",
+        "Marshall wildfire",
+        "Lawsuit",
+        "Devastating"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Supreme Court will hear a climate change case involving the devastating Marshall wildfire sentinelcolorado.com"
+    },
+    {
+      "id": "17",
+      "title": "기후 변화, 전 세계 원주민 어린이 건강에 영향 미쳐… 53개 연구 검토 결과 - 메디컬 익스프레스",
+      "original_title": "Climate change affects Indigenous children's health worldwide, review of 53 studies finds - Medical Xpress",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWw2VklsZ3NXdzNRS2NfUWJrbUVua2liQnVyb3UweTA2a1hNNmY2ekE0VXkzYjc3NjFULUVBNFREN3Z6OTZrOGhMZnhlMG1PWldkc2VPNTNLTko0VkMtOExzRU0zMnY2SU0wQjhmbmktOEhFSkR1bFltTXh1amFOMnNxTVkyZjRkcTgya2FDVQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T15:00:06",
+      "description": "Climate change affects Indigenous children's health worldwide, review of 53 studies finds Medical Xpress",
+      "summary": {
+        "phenomenon": "A review of 53 studies has found that climate change is affecting the health of Indigenous children worldwide.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Indigenous children",
+        "Health",
+        "Worldwide",
+        "Study"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change affects Indigenous children's health worldwide, review of 53 studies finds Medical Xpress"
+    },
+    {
+      "id": "18",
+      "title": "'A Statement' Review: Tom McCarthy's Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment - TheWrap",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUERXMjhlUkVXbk1IUkRWWFJwcWVRWGRBTTV2LURHclJsTzBXNDZMMU5KYzJZMlFjZFhTVi1LY1c0eVpPeEw0NjRNN05GaHVSemljRWt3YXBFZGhBZkI2OVhkVkl4Nmtlb3lCUHh0RmNrU3dpS21hd1JlZGQ3LWxaUDA5MlhHLUNyZnZkYjFYaWQwUk9PeV9rcjlNSVdWaHM5b3FrWkNR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T00:15:00",
+      "description": "'A Statement' Review: Tom McCarthy's Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment TheWrap",
+      "summary": {
+        "phenomenon": "A review article has been published about Tom McCarthy's climate change dramedy film 'A Statement,' which has been praised for slyly meeting our current moment.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "'A Statement' Review: Tom McCarthy's Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment TheWrap"
+    },
+    {
+      "id": "19",
+      "title": "농부들이 기후 변화에 대처하는 데 도움이 될 수 있는 고대 아프리카 쌀 - RFI",
+      "original_title": "The ancient African rice that could help farmers grapple with climate change - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcG5CelQ1bmVPSmpGWFNjbVk3bEN0ZlBXWlVnTWlXX3Z5SnN6VUNZREpIZ0hwYlh1eVJxeFlQelVVOHFYWEYxTmtWQzlhSUNhZkNNUEFMSVBLUzBTVGNGRXJLRmhrN1dxd29wMDJ2OUh1My1XUWV2M3dUTi1DNmxHbU1USEhOa0F5NnF4VDBrdDJwWWxmd2g3MERoZ05ULXpNWklyZHpMTFo2VWlBcjM0NjVzWEpPWnZIS3BJZzdjT29qcmpiSDJfUnZRUVpLR3pfcUk5Y2VGRDlUX3BXX05RbGdzS2tVUQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T16:11:15",
+      "description": "The ancient African rice that could help farmers grapple with climate change RFI",
+      "summary": {
+        "phenomenon": "The potential for ancient African rice to help farmers grapple with climate change has been suggested.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Ancient African rice is expected to offer a solution to farmers facing climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ancient rice",
+        "Africa",
+        "Climate change",
+        "Farmer",
+        "Adaptation"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The ancient African rice that could help farmers grapple with climate change RFI"
+    },
+    {
+      "id": "20",
+      "title": "미국 대법원, 미래 기후변화 소송의 선례가 될 변론 심리 예정",
+      "original_title": "US Supreme Court will arguments that could set a precedent for future climate change cases - WCNC",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQby1WRVJ1ZlFOWlU2a2c3THhaQnVRWXVsLVJrYzRtUk81VG9IS19VQXZ6TjV1NEl5eFdkdnBpWXEzOFJLeUl5VXNaN2JmZlhmbXN1Y3JsSnlZZWE5VWNSeDZsaHlKRDMtaGVDUXhfUmxESDZlcWY3MTVQc2xRZzMxWEVucS1RdnNkYW9GQnVYTk9sakVNNWxZRE92OWtQU04xeW9pVWNNS3VKT2g3VGg3bWxJb3g5Vk9leTlaTDhTeG5pTE9CRHppekcwSTRjSGk1S2JicDJQcXhBbUthekUyUjlvVUVvSV9TSVNkYmZTVGNWWjVNZVpKRg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T14:13:00",
+      "description": "US Supreme Court will arguments that could set a precedent for future climate change cases WCNC",
+      "summary": {
+        "phenomenon": "The U.S. Supreme Court is scheduled to hear arguments that could set a precedent for future climate change cases.",
+        "cause": "Not mentioned in the article",
+        "outlook": "This Supreme Court hearing of arguments is expected to establish an important precedent for future climate change-related lawsuits."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "U.S. Supreme Court",
+        "Climate change",
+        "Lawsuit",
+        "Precedent",
+        "Arguments"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "US Supreme Court will arguments that could set a precedent for future climate change cases WCNC"
+    },
+    {
+      "id": "21",
+      "title": "골드스타인: 새 파이프라인으로 마크 카니, 경제가 기후 변화보다 우선임을 인정하다 - 토론토 선",
+      "original_title": "GOLDSTEIN: With new pipeline, Mark Carney admits the economy trumps climate change - Toronto Sun",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazZNNnVlcDNtSDZkZkwybTViRWZvcWlYWWNCN0gyUkd3RGtkbFZjVWRLU3V3NWR2YnduQmFialRoazhrWUVCc2dmNlRBbERROE9JRWc4MlFVM3M2WlNPTXBuSlVadW1rUDA5M2NqNEw2UzRJdXhUa3FIenU5Q095dlN5dmkzeFVTb2hIQXprdHQ1RlhfZUdod1NjUGNuMm93dzRwREhKdkdmbU0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T01:30:00",
+      "description": "GOLDSTEIN: With new pipeline, Mark Carney admits the economy trumps climate change Toronto Sun",
+      "summary": {
+        "phenomenon": "Mark Carney acknowledged that the economy takes precedence over climate change in relation to the construction of a new pipeline.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Pipeline",
+        "Mark Carney",
+        "Economy",
+        "Climate change",
+        "Precedence"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "GOLDSTEIN: With new pipeline, Mark Carney admits the economy trumps climate change Toronto Sun"
+    },
+    {
+      "id": "22",
+      "title": "Washington Post. . Switzerland’s iconic glaciers lost an enormous amount of ice in 2026, a new report shows, signaling an ongoing rapid meltdown driven by climate change that has astonished scientists. About 20 percent of glacial ice in Switzerland has vani - facebook.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNEZyZzlVVGlNSldjRlF2TVI2bnpZXzdyMUpVVWtKUWdDOU9TSW5IOEY4eEFqakItbWU1anVhdXNqQTBvSVgza05aQ2pPN00wOVdRek9sZW9hcGdTUWZ4ZW83TkRhUW5KQldvOWpqTmlmZGlhZTFUa2c4ZFc3Y1BfOEJPSUo0NUZ6X2tiM0o0ZXJ1Y3h2OGhxNG9BNVlfYW0tVVlmeV9rM21JSGdHU2Z6a3FKWkk1UnhZVUM4TXVKU1Bxd2thWS1teUxyOXVOTWFhUjJia2dpbll0SlV1amc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T12:00:14",
+      "description": "Washington Post. . Switzerland’s iconic glaciers lost an enormous amount of ice in 2026, a new report shows, signaling an ongoing rapid meltdown driven by climate change that has astonished scientists. About 20 percent of glacial ice in Switzerland has vani facebook.com",
+      "summary": {
+        "phenomenon": "In 2026, Switzerland's iconic glaciers lost an enormous amount of ice, and a new report indicates that approximately 20% of Switzerland's glacial ice has disappeared. This signifies an ongoing rapid meltdown that has astonished scientists.",
+        "cause": "This rapid glacial meltdown is driven by climate change.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Washington Post. . Switzerland’s iconic glaciers lost an enormous amount of ice in 2026, a new report shows, signaling an ongoing rapid meltdown driven by climate change that has astonished scientists. About 20 percent of glacial ice in Switzerland has vani facebook.com"
+    },
+    {
+      "id": "23",
+      "title": "대법원, 파괴적인 콜로라도 산불과 관련된 주요 기후 변화 사건 심리 예정",
+      "original_title": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire - CT Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONkZhS0VnMmFtUS1EQktIUXBaTEtydHQ2T1JxY20xczFEVUhUT1J3VUhPNmt1THU1M250eHZjeTZRZmdIOGxQZzBxeVgzWHVSaDRkdWZJOWVPUjAyYzEwQ2NTM2gyS3hWcnY2bTlNYUhfQU1KU0pKUnJXMFJNZjZxLVN3MnJXMHhzMmlmNEV2NXNpcUpCY2hqeHFWdV81U2FoSl9sckFvbDA?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T11:55:42",
+      "description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire CT Insider",
+      "summary": {
+        "phenomenon": "The Supreme Court is scheduled to hear a major climate change case involving a devastating Colorado wildfire.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Supreme Court",
+        "Climate change",
+        "Lawsuit",
+        "Colorado wildfire",
+        "Catastrophe"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire CT Insider"
+    },
+    {
+      "id": "24",
+      "title": "새로운 연구: 온난화와 극한 기후의 연관성 강화 - 오늘의 원유 가격 | OilPrice.com",
+      "original_title": "New Research Strengthens the Link Between Warming and Extreme Weather - Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdFlFN0x5YUxlUng2RDNHMHJYeVBHSjJyVlZpaTlqb0FzdENlNjJXLTNWQVZZaVNNaVNkQ1FDa3NONDlzMWs2b0RDNGw5T0t0VlhZRGlBeUUyTXRwTlVmYnJjS09oOXA3MEtoMDlYc2htWWdLdzBGTFh3UGlrMjVLSU5odXB6Wko4Tkl2V190d0ZsRXAtSXdRaEUtcFlmcmtoMS1fVjZuU0t4cXo1M09uejM2S2o0aVhPMjZhcGY2eWR5S0JO0gHKAUFVX3lxTE1uOFlRaEM5RFFQQUNyMnNYVUlEeDRJTmhkU094VjFFV0xNSFF4NE15TUlpWjNSOXI4ZHhrTkFxeE12UmE0RWYwbjBwTmZ4VGY0emJ2bmtjUm1VNTNVb2phalUySjVDSnM2eTNBeUVMenFQQVJ0RzVhckVRczlsWVdYM2RBSC10VEluUTg5bU9wNUx6bTFoQ1ItbWlsQ0p1Q3NSTEFCOUFqb2ZXWnpUN0pFM09fOUUzSUFpVDlxQzBVUUU1YnR6TU1rMXc?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T17:00:00",
+      "description": "New Research Strengthens the Link Between Warming and Extreme Weather Crude Oil Prices Today | OilPrice.com",
+      "summary": {
+        "phenomenon": "New research has strengthened the link between warming and extreme weather.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "New research",
+        "Warming",
+        "Extreme weather",
+        "Strengthened link",
+        "Crude oil prices"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "New Research Strengthens the Link Between Warming and Extreme Weather Crude Oil Prices Today | OilPrice.com"
+    },
+    {
+      "id": "25",
+      "title": "대법원, 파괴적인 콜로라도 산불 관련 주요 기후 변화 소송 심리 예정",
+      "original_title": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire - morning-times.com",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSnNiOEd3T3lzcWVSVXYwVnkwelA4d0l4TkJMZkxrbHJWaHBpcFpuRG5reU8yQ3pQWXhrTFBGelpVby13cUxnRU1YaXNkR1M5dFE3Qm8wTVd3NUxDQ3FNaGRjYVFmSlA1b1NrYml0eF80X1pHNDdiZjhnbzA3M0k0NDloQWc4LUpzQ3NWV01nQi1jWXlZeTRCU29Sb2M3VDFnUlRwUElkOHU0UjN5QWpQQjZDZnN4YUNCczhQaDhTU05JNEg0S2tmdkotaGk0SGE1LUhvR3pwYlNrNjZlN0tRNndUdTk2cGwzQjVublcza3ZQWE50OG84MFhvX3NHeS13Qk9SMXpnY1g1ZXdqQVpBd0FzMXhrVzJX?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T11:48:34",
+      "description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire morning-times.com",
+      "summary": {
+        "phenomenon": "The Supreme Court is scheduled to hear a major climate change lawsuit involving a devastating Colorado wildfire.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Supreme Court",
+        "Climate change",
+        "Colorado",
+        "Wildfire",
+        "Lawsuit"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire morning-times.com"
+    },
+    {
+      "id": "26",
+      "title": "지도가 위협받는 히말라야 약용 식물이 기후 변화에서 생존할 수 있는 곳을 밝히다 - Bioengineer.org",
+      "original_title": "Maps Reveal Where Threatened Himalayan Medicinal Plants Could Survive Climate Change - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWFpNU3k2eTdub3hjamtRcUlBZjJ3ZHVxbXE1YjlINnB5S1pDMzQ2cHF4UkEtNFBSTFI4TlZvLUZvTjZBblZteTVSOFZnME1BWGVWNGZZVzEwN2oteldpeG16Vkh5QnhITVJhUGxEZ3NaZENJbWViSFNKZ1VtWWdJZ2U2aFoyVUNzR2xScG9GWWxPdmo1cC1udGN6Q1JRZVM2dkJtdGhyUE1YemJYd1E?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T01:21:09",
+      "description": "Maps Reveal Where Threatened Himalayan Medicinal Plants Could Survive Climate Change Bioengineer.org",
+      "summary": {
+        "phenomenon": "Maps have identified potential areas where threatened Himalayan medicinal plants could survive climate change.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "The maps suggest areas where Himalayan medicinal plants could survive amidst climate change, potentially contributing to the development of conservation strategies for these plants."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Himalaya",
+        "Medicinal plants",
+        "Climate change",
+        "Survival",
+        "Maps"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Maps Reveal Where Threatened Himalayan Medicinal Plants Could Survive Climate Change Bioengineer.org"
+    },
+    {
+      "id": "27",
+      "title": "기후 변화: 파키스탄 식량 안보에 대한 실존적 위협",
+      "original_title": "Climate Change: The Existential Threat To Pakistan’s Food Security - The Friday Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXdGaFZfbHBrSmZ0VVRHc3l4VUhxSk9NUTkwQTl1dnAzUWRtZ09aVXpoZ3hfa2lld1NhWEVXSkdzRTBLcEF5MnRPT2hUSnFwQVB0dEFuR0JzRUs4UVJDTlhhQ2VHVjZ4T3JTQUlKRzU5NXhKZWpraDVnQnFXZHpobjdYRGp3R1hqaGRnLTZUNUs3QkZTSXNZTGR4Q3VhWDNtOFA0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T01:52:30",
+      "description": "Climate Change: The Existential Threat To Pakistan’s Food Security The Friday Times",
+      "summary": {
+        "phenomenon": "Climate change has emerged as an existential threat to Pakistan's food security.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Climate change is projected to be a continuous threat to Pakistan's food security."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Pakistan",
+        "Food security",
+        "Existential threat",
+        "Crisis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change: The Existential Threat To Pakistan’s Food Security The Friday Times"
+    },
+    {
+      "id": "28",
+      "title": "대법원, 파괴적인 콜로라도 산불 관련 주요 기후 변화 소송 심리 예정",
+      "original_title": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire - couriernews.com",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPeEl2TnBiQXhFU2dLeWJ6NEZ5RzczZnZISFE2YUtzLTdiYU1OR0NSRWw4dDF0MFNYeUVRR0xuRXBXQWNIcGpWOURrSF9wd2ltRTVrVWZWdkttT0dNNzZ2VXJ1Ym9PUkMyaThkOTNYVFBjZ3MtQVUwRjVvWjVBMi1OWDc1bXVTUEw0QTk4ck14RWVGN3F3RFZLY2x1bnNOb2NUeVNucDk4ajd3RHBMMEVGNm9FNUhPQVRLQnozamRnblRqN1g3NXJEQzlLZ09rb1FLUF9veXBqcXEtVVM3WDlZS1JCTm41d0dLMVlvb19tTHQ1QjBjMFpxTFBzZ2o5R3lITUUwMXd0SkhxUDI4SXhVT1ZqVm9xaWl1?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T12:03:25",
+      "description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire couriernews.com",
+      "summary": {
+        "phenomenon": "The Supreme Court is scheduled to hear a major climate change lawsuit involving a devastating Colorado wildfire.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Supreme Court",
+        "Climate change",
+        "Colorado",
+        "Wildfire",
+        "Lawsuit"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The Supreme Court will hear a major climate change case involving a devastating Colorado wildfire couriernews.com"
+    },
+    {
+      "id": "29",
+      "title": "수백만 명의 생명을 구하기 위해, 트럼프 행정부는 기후 변화 히스테리를 근절하고 있다 - 워싱턴 이그재미너",
+      "original_title": "To save millions of lives, the Trump administration is eviscerating climate change hysteria - Washington Examiner",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOd0R3bjlfc0JGTDlyekF5Zm42OUtUZE53bTAzQlRNblcxd1RGc25jR1JYVWVLaXI0Q042amlIZGZDV0h3S0lxT0c2WnBhN3FpX1VIbFJ4RldLbUphUjNmWHZPZm5aWm52N213WFpldWxLZkktMTNXYlVyN0hrLU5aWlB6eUZlN0t5SlloWFJ3UU54b3Q1U1g2QS1xWU0wcUU?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T12:00:00",
+      "description": "To save millions of lives, the Trump administration is eviscerating climate change hysteria Washington Examiner",
+      "summary": {
+        "phenomenon": "The Trump administration is reportedly eradicating 'climate change hysteria' to save millions of lives.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Trump administration",
+        "Climate change",
+        "Hysteria",
+        "Saving lives",
+        "Eradication"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "To save millions of lives, the Trump administration is eviscerating climate change hysteria Washington Examiner"
+    },
+    {
+      "id": "30",
+      "title": "리마의 멸종 위기 안개 오아시스 나무, 기후 변화와 무분별한 도시 성장의 협공에 직면하다",
+      "original_title": "Lima’s Endangered Fog-Oasis Tree Faces a Pincer of Climate Change and Sprawling City Growth - Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWJmaDFmR19idGJBQUt0XzRzZFllOFJheHZCdndJZUZaRldPYVgzd2dzNUJtb05NM2JuUVZhVFUxblA2OGdYc0N6LWdhejc0Skhlcl9seHJFTml4U1ZQNGVwWDZBOXFUS0xvUWRYSzV4Y3BHdDRacUNQeHcyYldWYWstMnYtRXAtUU41OS1BamxpZmVpcmsxNTdnVzR2MzdFVnFLdWV3QThCTTladUhablJHVXFpdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T16:50:38",
+      "description": "Lima’s Endangered Fog-Oasis Tree Faces a Pincer of Climate Change and Sprawling City Growth Bioengineer.org",
+      "summary": {
+        "phenomenon": "Lima, Peru's endangered fog-oasis tree is facing a dual threat from climate change and uncontrolled urban growth.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "If climate change and urban growth continue, Lima's endangered fog-oasis tree is expected to face severe challenges to its survival."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Lima",
+        "Fog-oasis tree",
+        "Endangered",
+        "Climate change",
+        "Urban growth"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Lima’s Endangered Fog-Oasis Tree Faces a Pincer of Climate Change and Sprawling City Growth Bioengineer.org"
+    },
+    {
+      "id": "31",
+      "title": "디거 영화 리뷰: 기후 변화 풍자로 위장한 대중 조작에 대한 메타 코멘터리",
+      "original_title": "Digger Movie Review: Meta commentary on mass manipulation disguised as climate change satire - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNQ05NWTBONVdOaThsLWtqbkxSUnRrM1U2NC1MVVo2eDVmc0owaXdiY2pxb04xelBYckxmNDFhQ2tMaUp3MDJ4SnVnQXZtTVpkYUItZU1FTTBJNUtUQzJQeVZub04yVDVRZXd3UFhtS0JLbTEtZHV0WjZoSGhjdUpFZVRBdmlocVA3ZGtQOTlkdUh0M1QyNHcwRkhsVkczamdOVFdmX0pzNGNGeTdMbW9QMzRGRXJGRDB1TVJoYlhWNnJiM3pLazVtTkJFTjVpT3FoeENwaVZvNzBOWEl1cVZuSk96R0VnUWptRmxnTXpZcFU2cTlkcldkYnAtX3RlNTlkTjFJTHJaaHhOVk3SAZgCQVVfeXFMUGdGU1NJN3IxMkJDOVBXV3gtU28xd1EwNjNXNWRvVlNDamdocVVaQXIwZEtZajVMLThVQlJCdG5TQXIwX1RzZUtoYXNsclFNUkcydTVFQWtyMlBqTjVJcDZxRm5yamJrYWdQcWRiMFhYV1BRT0ROOGNUY196LW5YSVN0S3hIWXBwSmVoazlaUGhPNjJiOW1idFJjd1VqRkRscG0ya09yblkySnQ3dHRJTkhwQ1lCbFl6MnhwNzRjX1FyTHBqdm9hRUtpTkVDbjFobXhiMmFWSGxULXhFYldsa0VQOTBKMjM2ek1rQmtMS1cxZ3U4bVJPdlF1RU5kZnlWdV9RZzg0MTF1dDJTS0RuSXdMNkVxS3paUw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T14:30:00",
+      "description": "Digger Movie Review: Meta commentary on mass manipulation disguised as climate change satire The New Indian Express",
+      "summary": {
+        "phenomenon": "The movie 'Digger' addresses meta-commentary on mass manipulation disguised as climate change satire.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Movie",
+        "Review",
+        "Mass manipulation",
+        "Climate change",
+        "Satire"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Digger Movie Review: Meta commentary on mass manipulation disguised as climate change satire The New Indian Express"
+    },
+    {
+      "id": "32",
+      "title": "기후 변화에 맞서는 농부들을 도울 수 있는 고대 아프리카 쌀",
+      "original_title": "The ancient African rice that could help farmers grapple with climate change - modernghana.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVy1OZGY4SVhxYVRreTRNWG9FUEd5TkpMX052c1U3Sjc2MEkwZjhHUWlUcjgtSFJUT0pvWG1rQ3d6b3F6Y1FuY2ZrTHFadjJDa0ZuVDJJWDMzTWNXcXhiR3BrUWEtSHVFeXpWcVZPbnJBZ0oxNy1oQkw5UElmc05xVjM2ck9zUzYzOWNsTUJsd1lEdTVTSlV6cm9R0gGYAUFVX3lxTE5ZWXJ1OUFHX1pONjZLOWlTT2Jta2F0S21rYjNWZGVOZGtZU2diZmtxdDZoMTFmV203RGQ2dlhCRWVlSjA4eEFGaUtVcEVxODI2NUtYU2lGSm1ZVnotNlI0RGRabVZfdXpBRmZxSURuTjZKcUhVNmVvcTR3VVh2eDZ3LWppa19oYzd6NDI5Uk03azJ1c096WHl2?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T18:22:35",
+      "description": "The ancient African rice that could help farmers grapple with climate change modernghana.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Ancient African rice is expected to help farmers cope with climate change."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Ancient African rice",
+        "Climate change",
+        "Farmers",
+        "Adaptation",
+        "Food security"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The ancient African rice that could help farmers grapple with climate change modernghana.com"
+    },
+    {
+      "id": "33",
+      "title": "Climate change is making these grocery items more expensive this year - Moneyweb",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaGN0X3R1M1k4ZWxNNWxwbGZOY0pXWktlMVhkdTJFZzJ1TERJa3F2NENuakpIcVg0ZUlxLTJQWEhaNUlSTS1ISVhRUkZFLS00bzY5bjZHQVFLLTZ5d1NsTnAwc2JIVzRURVZILU56dmJma2pzNmNZcEx6b2NpYUt6ZmVXRWtqWXBBVTM4MnlnQ3VVVlFlRXJYQ0otakdMTTl3SkVHUFJuS1Z0aXhKaTBLX0RfbWVZT3c?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T02:00:23",
+      "description": "Climate change is making these grocery items more expensive this year Moneyweb",
+      "summary": {
+        "phenomenon": "This year, climate change is causing an increase in the prices of certain grocery items.",
+        "cause": "Climate change",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change is making these grocery items more expensive this year Moneyweb"
+    },
+    {
+      "id": "34",
+      "title": "홍수, 폭염, 수업 손실: 기후 변화가 케냐 교실을 혼란에 빠뜨리는 방식 - 데일리 네이션",
+      "original_title": "Floods, heat and lost lessons: How climate change is disrupting Kenya’s classrooms - Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXQtTmhlNWtSYW5ubjU1WUtQa1YwS19Pemg1MWdyRWpqUzl5Umo1LWI1Z0JEM2N5bDNib3FtSkhUdnpRWmZxM1NtU0ZOMTRvXzFvODd6V1VVUEdDVWRhRGR1NEgyejhlNFpNWTBWUXNXX0NRWGxPenJwR1A3WUNzTC1aUUZIdGlQUG5ndVA3VWhWRlM5M3BBRVNzSW4ta0NWdHVQeHZOdUR1eERyU0h0TXRYUElvX29vbWE1TXZuQW9vZw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T13:00:00",
+      "description": "Floods, heat and lost lessons: How climate change is disrupting Kenya’s classrooms Daily Nation",
+      "summary": {
+        "phenomenon": "In Kenya, climate change is disrupting the education system, with floods and heatwaves leading to the suspension of classroom lessons.",
+        "cause": "Climate change",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Kenya",
+        "Floods",
+        "Heatwaves",
+        "Educational disruption"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Floods, heat and lost lessons: How climate change is disrupting Kenya’s classrooms Daily Nation"
+    },
+    {
+      "id": "35",
+      "title": "뇌파: 기후 변화 최전선에 선 태국 여성들",
+      "original_title": "Brainwaves: Thai women on the climate change front line - thepost.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSnBOWXQ0RHJjcmxvLTd5N3NRSEl4MVY1NkNhVTZlYlJ4anhWVnFUblhiT001c0xqT0tmZU9oNlJMZE5icjN3WHA4Z3JTb1pyQXh1RGM0ZFc5NlVYQjFqY196dEpHYURSVVhjUUZqQXhyUHRmZUtqQzc0OWJncEFKSWppNzZzMUdzczZLMER4aVRSR25yWVE?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-03T15:00:00",
+      "description": "Brainwaves: Thai women on the climate change front line thepost.co.nz",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Thai women",
+        "Climate change",
+        "Front line",
+        "Brainwaves",
+        "Impact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Brainwaves: Thai women on the climate change front line thepost.co.nz"
+    },
+    {
+      "id": "36",
+      "title": "펀자브, 스페인의 기후 변화 경험 배우고 싶어해: 주총리",
+      "original_title": "Punjab wants to learn from Spain’s experience in climate change: CM - The Nation (Pakistan )",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQelptRmJMeHNEYXNJSlhBVFd1cXFZdU5xMGNmTGlfeklqVVUzMVItc0phd1QwUVpYODhsd3ZzNlhOQW9fUDZfZ20xX3IyVE5wekZGSUFNQS1lWFdKTzRKdlFvWkQwUjNQMjFDczdWelVqSHNkaVN5OXo5WjQtMmItY0RqNUctUVUxZjF1dmlBUU9uQjBnVFU1aQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-04T02:16:00",
+      "description": "Punjab wants to learn from Spain’s experience in climate change: CM The Nation (Pakistan )",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Punjab aims to learn from Spain's experience in climate change, suggesting the potential for international cooperation and learning in climate change response."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Punjab",
+        "Spain",
+        "Climate change",
+        "Experience",
+        "Learning"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Punjab wants to learn from Spain’s experience in climate change: CM The Nation (Pakistan )"
+    },
+    {
+      "id": "37",
+      "title": "Southern California swelters as late-season heatwave smothers region",
+      "original_title": null,
+      "url": "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave",
+      "source": "guardian_climate",
+      "published_at": "2026-10-03T13:26:46",
+      "description": "Temperatures expected to hover around 100F in downtown LA and even hotter inland, raising concerns about wildfiresSouthern California faced scorching heatwaves this summer that made locals wonder what happened to their famed Mediterranean climate.Now, the fall is bringing heatwaves too. Continue reading...",
+      "summary": {
+        "phenomenon": "A late-season heatwave is affecting Southern California, with downtown Los Angeles temperatures expected to reach 100°F (approximately 37.8°C) and even hotter inland. The region experienced heatwaves this summer, and they are continuing into the fall.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Concerns about wildfires are increasing due to the heatwave."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Temperatures expected to hover around 100F in downtown LA and even hotter inland, raising concerns about wildfiresSouthern California faced scorching heatwaves this summer that made locals wonder what happened to their famed Mediterranean climate.Now, the fall is bringing heatwaves too. Continue reading..."
+    }
+  ],
+  "summary": {
+    "total_count": 37,
+    "domestic_count": 12,
+    "international_count": 25,
+    "top_keywords": [
+      "Climate Change",
+      "Lawsuit",
+      "Carbon Neutrality",
+      "Renewable Energy",
+      "Supreme Court"
+    ],
+    "sentiment_breakdown": {
+      "positive": 12,
+      "negative": 14,
+      "neutral": 4
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "소송",
+      "탄소중립",
+      "재생에너지",
+      "대법원"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
