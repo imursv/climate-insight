@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-07",
+  "metadata": {
+    "collected_at": "2026-10-07T02:12:25.318511",
+    "total_articles": 7,
+    "sources": {
+      "korean": 3,
+      "international": 4
+    },
+    "sentiment_distribution": {
+      "positive": 2,
+      "negative": 3,
+      "neutral": 0
+    }
+  },
+  "articles": [
+    {
+      "id": "714ef947de1543c1",
+      "title": "다회용기 쓰라지만, 설거지는 누가 하나…일회용품 못 줄이는 음식점들",
+      "link": "https://www.khan.co.kr/article/202610071021001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-10-07T01:21:00",
+      "collected_at": "2026-10-07T02:11:11.514950",
+      "keywords_matched": [
+        "탄소배출"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6b6bac7701d2001b",
+      "title": "“전고체 배터리가 꿈의 배터리라고?”…‘전천후 배터리’ 야망 키우는 소듐이온배터리[경제밥도둑]",
+      "link": "https://www.khan.co.kr/article/202610070700001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-10-06T22:00:00",
+      "collected_at": "2026-10-07T02:11:11.515833",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "소듐이온배터리",
+          "전고체 배터리",
+          "가격 경쟁력",
+          "에너지저장장치",
+          "배터리업계"
+        ]
+      }
+    },
+    {
+      "id": "f825a8ba226a0a45",
+      "title": "국산차 20% 뒷걸음질 때 테슬라 36% 질주…BYD만 막은 ‘구멍 난’ 보조금",
+      "link": "https://www.khan.co.kr/article/202610070600071/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-10-06T21:00:07",
+      "collected_at": "2026-10-07T02:11:11.516037",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "테슬라",
+          "보조금",
+          "전기차",
+          "국산차",
+          "BYD"
+        ]
+      }
+    },
+    {
+      "id": "1f93576137adeacf",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-10-06T11:24:19",
+      "collected_at": "2026-10-07T02:11:18.334351",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "우주 망원경의 '유령 입자' 연구, 물리학 노벨상 수상"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "물리학 노벨상",
+          "우주 입자",
+          "관측소",
+          "프랜시스 할젠",
+          "입자 검출"
+        ]
+      }
+    },
+    {
+      "id": "3be54a8a556e924f",
+      "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
+      "link": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-10-07T01:44:47",
+      "collected_at": "2026-10-07T02:11:18.242389",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7bcf68241ec772a7",
+      "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+      "link": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-10-06T23:11:27",
+      "collected_at": "2026-10-07T02:11:18.242492",
+      "keywords_matched": [
+        "greenhouse gas"
+      ],
+      "translation": {
+        "title_ko": "뉴질랜드 온실가스 수준 사상 최고치 기록, 치명적인 빙하 융해 위협"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "뉴질랜드",
+          "온실가스",
+          "사상 최고치",
+          "빙하 융해",
+          "기후 변화"
+        ]
+      }
+    },
+    {
+      "id": "a04582be238983c6",
+      "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-10-06T11:36:12",
+      "collected_at": "2026-10-07T02:11:18.242563",
+      "keywords_matched": [
+        "climate change",
+        "extreme weather",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "호주, 극심한 날씨의 여름 직면... 앤서니 앨버니지 Cop 사전 회의서 경고"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "호주",
+          "극심한 날씨",
+          "엘니뇨",
+          "기후 변화",
+          "경고"
+        ]
+      }
+    }
+  ]
+}
