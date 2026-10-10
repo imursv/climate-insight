@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-10",
+  "metadata": {
+    "collected_at": "2026-10-10T02:12:43.743870",
+    "total_articles": 1,
+    "sources": {
+      "korean": 0,
+      "international": 1
+    },
+    "sentiment_distribution": {
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  "articles": [
+    {
+      "id": "2a6e61a00c63c04f",
+      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "link": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-10-09T12:00:28",
+      "collected_at": "2026-10-10T02:12:11.530408",
+      "keywords_matched": [
+        "climate crisis",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "Cop31 개최국, 부유국에 국방비보다 '훨씬 더 많은' 기후 지출 촉구"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "Cop31",
+          "기후 안보",
+          "국방비",
+          "선진국",
+          "기후 재정"
+        ]
+      }
+    }
+  ]
+}
