@@ -1,0 +1,578 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T01:46:16.292810",
+  "briefing": {
+    "opening": "안녕하십니까. 2026년 10월 11일 기후 브리핑을 시작하겠습니다.",
+    "sections": [
+      {
+        "title": "🇰🇷 국내 탄소중립을 향한 다각적 노력",
+        "content": "국내 지자체들은 기후위기에 대응하기 위한 탄소중립 실천에 적극적으로 나서고 있습니다. 인천은 현재 '기후위기'에 직면하여 탄소중립 도시를 재구상하고 있으며 [2], 대구 군위군은 군민체육대회 기간 동안 탄소중립 실천 캠페인을 진행했습니다 [3]. 용인시의회 탄소중립연구소IV는 순환경제 기반의 탄소중립 정책을 논의하고 [4], 광명시는 시민들과 함께 탄소중립 실천 방안을 모색하는 등 [5], 지역사회 전반에서 탄소중립을 위한 노력이 확산되고 있습니다. 또한, '탄소중립AI치유'라는 제목의 교육 특강이 매월 진행되며 관련 분야 교육에 대한 관심이 높아지고 있습니다 [6].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 재생에너지 전환의 진전과 과제",
+        "content": "재생에너지 확대를 위한 구체적인 시도와 함께 기술 혁신도 주목받고 있습니다. 홍천군은 신안군의 '햇빛연금' 모델을 벤치마킹하여 신재생에너지 주민소득 모델을 검토하고 있으며 [7], 전주에서는 한옥 지붕을 그대로 유지하면서 원격 태양광 '가상상계' 실증이 진행되는 등 [8], 지역 특성을 고려한 재생에너지 도입 방안이 모색되고 있습니다. 한편, BAE 시스템즈는 성층권 무인기에 지상에서 무선으로 전기를 공급받을 수 있도록 개조하는 작업에 착수하여 [12] 미래 에너지 기술의 가능성을 보여주지만, 재생에너지 변동성으로 인해 지난 5년간 LNG 발전의 기동비가 2배 증가하는 등 [9] 에너지 전환 과정에서의 안정성 확보는 여전히 중요한 과제로 남아있습니다.",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚠️ 국내 전기차 인프라 및 사회적 참여의 장벽",
+        "content": "국내에서는 기후변화 대응을 위한 중요한 수단인 전기차 인프라와 사회적 참여 측면에서 여러 장벽이 확인되고 있습니다. 국내 공공 전기차 초급속 충전요금이 인상된 반면 안방 충전망은 제자리에 머물러 [10], 충전 편의성에 대한 우려가 제기됩니다. 특히 중국이 배터리 잔량 10%에서 70%까지 단 4분 30초 만에 충전 가능한 초고속 시스템을 선보이며 전력망 경쟁을 가속화하는 것과 달리 [11], 한국은 18분이 소요되는 등 [11] 충전 속도에서 큰 격차를 보이며 전력망 개선의 필요성을 시사합니다. 이러한 기술적, 인프라적 문제 외에도, 남성들이 기후 변화와 ESG에 무관심한 현상이 '남성성 불안'과 연관되어 있다는 분석은 [1] 기후 행동을 위한 사회 전반의 참여 확대를 위해 다각적인 접근이 필요함을 보여줍니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🔴 전 지구적 기후 위협과 인류의 미래",
+        "content": "전 세계적으로 기후변화의 직접적인 영향은 더욱 심화되고 있으며, 이는 인류의 생존까지 위협하는 수준에 이르고 있습니다. 기후 변화가 허리케인 이사야스를 악화시켰다는 분석과 [14], 시칠리아를 강타한 토네이도로 수십 명이 부상하고 건물이 파손된 사례는 [23] 극단적인 기상 현상이 일상이 되고 있음을 보여줍니다. 또한, 미국에서는 홍역과 뎅기열 사례가 급증하는 현상에 대해 기후 변화가 원인일 수 있다는 분석이 제기되었습니다 [21]. 란셋 평가에 따르면, 기후 변화를 포함한 17가지 주요 위협이 2100년까지 인류 멸종을 위협할 수 있으며 [22], '지금 기후 변화에 행동하지 않으면, 다른 어떤 것도 중요하지 않을 것'이라는 경고는 [19] 기후 행동의 긴급성을 강조합니다.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 국제 사회의 기후 대응 노력과 법적 논의",
+        "content": "국제 사회는 기후 변화의 광범위한 영향에 대한 인식을 바탕으로 다양한 대응 노력을 기울이고 있습니다. 미국 대법원은 지방 정부가 석유 및 가스 기업을 상대로 제기한 기후 변화 소송을 심리할 예정이며 [15], 이는 기후 책임에 대한 법적 논의가 활발해지고 있음을 시사합니다. 이코뉴스 보고서는 기후 변화가 북부 해안에 어떤 영향을 미칠지 분석하며 [13], 산호초가 기후 변화로 인해 극지방으로 이동하는 현상 [16] 및 알래스카 원주민 공동체의 식량, 문화, 청소년이 위협받는 상황 [17] 등은 기후 변화가 생태계와 특정 커뮤니티에 미치는 심각한 영향을 보여줍니다. 한편, 빌 게이츠는 기후 변화와의 전쟁에서 비행기를 새로운 표적으로 삼는다고 밝혔으며 [20], St. Mary’s Glacier의 손실은 지구 온난화와 눈밭 감소 문제에 대한 '긴급성'을 촉구하는 계기가 될 것으로 기대됩니다 [18].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "오늘의 브리핑은 국내외에서 진행되는 기후변화 대응 노력과 함께, 기후위기가 초래하는 직접적인 위협, 그리고 미래를 위한 지속적인 행동의 중요성을 다시금 일깨웁니다. 이상으로 오늘의 기후 브리핑을 마치겠습니다."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "남성은 왜 기후 변화, ESG에 무관심할까.. 이유는 '남성성 불안' - 이로운뉴스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4SzBwMnlIWENVWkhUVmhrSzBXakpXVFp0OUt4bnMydzFWVWktR0NjYWJVOFZ4bkduazBYUEtfOVhtSHF4X1h5SDU1M2VER05waDdBYjBhSHU5VC1pbEVkOER4Z0lyQ1U?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-10T12:15:09",
+      "description": "남성은 왜 기후 변화, ESG에 무관심할까.. 이유는 '남성성 불안' 이로운뉴스",
+      "summary": {
+        "phenomenon": "남성들이 기후 변화와 ESG(환경·사회·지배구조)에 무관심한 현상이 나타나고 있습니다.",
+        "cause": "이러한 무관심의 원인은 '남성성 불안' 때문인 것으로 기사에서 언급되었습니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "남성",
+        "기후 변화",
+        "ESG",
+        "무관심",
+        "남성성 불안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "2",
+      "title": "‘기후위기’ 마주한 인천… 탄소중립으로 다시 그리는 도시의 내일 [2026 창간특집] - 경인일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWjk3MmNtdjRMR2I2VGNDRFJQS2lCb0g5S0lLNWlMZS03YXJNMlpmcmdLS1R3U1ZzOVFQdHA5cmducHFrdm5ZM3RTNGQ3aWFJTlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-10T23:46:54",
+      "description": "‘기후위기’ 마주한 인천… 탄소중립으로 다시 그리는 도시의 내일 [2026 창간특집] 경인일보",
+      "summary": {
+        "phenomenon": "인천이 현재 '기후위기'에 직면해 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "인천시는 탄소중립을 통해 도시의 미래를 새롭게 그려나갈 계획입니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "기후위기",
+        "인천",
+        "탄소중립",
+        "도시",
+        "미래"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "3",
+      "title": "대구 군위군, 군민체육대회서 탄소중립 실천 캠페인 - 경북신문",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13cm4zNlpGa2dZaXJzZW1rQVhEd3I0b0ZFWkNUV1cwMmhERm1BNnNZYkxQdDVESzFBbV9QVjdFWWZBUGQyRFZJMEdJcktMQ0tMMWpodmF2LXk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-11T01:25:07",
+      "description": "대구 군위군, 군민체육대회서 탄소중립 실천 캠페인 경북신문",
+      "summary": {
+        "phenomenon": "대구 군위군에서 군민체육대회 기간 동안 탄소중립 실천 캠페인이 진행되었습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "대구 군위군",
+        "군민체육대회",
+        "탄소중립",
+        "실천",
+        "캠페인"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "4",
+      "title": "용인시의회 탄소중립연구소IV, 순환경제 기반 탄소중립 정책 논의 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMXB3LWxneUl1bEtSUHc1YlUtLS01ZjNCa3RLdVozUHRpdHM4M29mcm1NaFFldVR1WGw5VlZJd0RQTnpYQlFvRkdQcC02VWExanJGNjZNd2NwUDVOU2RWekVyZE5rQkNFZWVkb21MOFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-11T00:44:08",
+      "description": "용인시의회 탄소중립연구소IV, 순환경제 기반 탄소중립 정책 논의 신아일보",
+      "summary": {
+        "phenomenon": "용인시의회 탄소중립연구소IV가 순환경제 기반의 탄소중립 정책에 대해 논의했습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "용인시의회",
+        "탄소중립연구소IV",
+        "순환경제",
+        "탄소중립",
+        "정책 논의"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "5",
+      "title": "광명시, 시민과 함께 탄소중립 실천 방안 찾는다 - 경기매일",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96R2hkWHB2U3dIZENGQzA1cWs5Q0lkSDF6aDdKVXZNdzdidzdSYjhDQ1FhSDRXOEpWOXBmM1NMdnFyb2h2bl9RT2ZRN0dyU2NuNERpdW4yazRQdWI1d3JrU28ta2lESGM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-10T23:51:56",
+      "description": "광명시, 시민과 함께 탄소중립 실천 방안 찾는다 경기매일",
+      "summary": {
+        "phenomenon": "광명시가 시민들과 함께 탄소중립 실천 방안을 모색하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "광명시",
+        "시민",
+        "탄소중립",
+        "실천",
+        "방안"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "6",
+      "title": "[장수경제, 세계 30대 갑부들이 뛰어든 '제1 산업'으로 부상…\"AI·SI 넘어선다\"] 한국에서는 관련 분야 교육 특강이 매월 마지막 토요일 오전 10시부터 종일 진행되고 있다. '탄소중립AI치유'라는 제목의 이 특강은 - AI넷",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBkSmlrUkh6SDUwamNraWYtQ1NBQWtpcnBIUVF5SXhQdU4taWNzNFZLb25tS2YwMUNXdkRpTFcxME0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-10T15:18:27",
+      "description": "[장수경제, 세계 30대 갑부들이 뛰어든 '제1 산업'으로 부상…\"AI·SI 넘어선다\"] 한국에서는 관련 분야 교육 특강이 매월 마지막 토요일 오전 10시부터 종일 진행되고 있다. '탄소중립AI치유'라는 제목의 이 특강은 AI넷",
+      "summary": {
+        "phenomenon": "한국에서는 '탄소중립AI치유'라는 제목의 교육 특강이 매월 마지막 토요일 오전 10시부터 종일 진행되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "장수경제",
+        "제1 산업",
+        "탄소중립",
+        "AI",
+        "교육 특강"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "7",
+      "title": "홍천군, 신안군 ‘햇빛연금’ 벤치마킹…신재생에너지 주민소득 모델 검토 - 신아일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVEVSbC1PUDc3YU1xNU5mZWl6S1BTYWJxaDFwUmNNNzhVdkdsVWh6aDNCVEZzZ19DUHF6aVpFeV9vZHBQWlBvREU3eVU1Y1pmZzVaMlRCRUs0X1ZEd2JGYlE0VFFySEJ0MEJ4Um13OHg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-10T23:49:58",
+      "description": "홍천군, 신안군 ‘햇빛연금’ 벤치마킹…신재생에너지 주민소득 모델 검토 신아일보",
+      "summary": {
+        "phenomenon": "홍천군이 신안군의 '햇빛연금' 모델을 벤치마킹하고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "홍천군은 신재생에너지를 활용한 주민소득 모델 도입을 검토하고 있습니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "햇빛연금",
+        "신재생에너지",
+        "주민소득",
+        "홍천군",
+        "벤치마킹"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "8",
+      "title": "한옥 지붕은 그대로…전주, 원격 태양광 ‘가상상계’ 실증 - AI타임스",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVHVNaTF2WGNacXlQS1RJTENGZUhRaGcwWHA0VlFOdnBFcThpeEZac1ZxRHJ6X1duY0ZvNko0dlBXc2VwLTdnd2t4SFJZd3U0R2EwSDM1cm4xT1NqUnBUWG1USk5VMy1BdlE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-11T00:25:00",
+      "description": "한옥 지붕은 그대로…전주, 원격 태양광 ‘가상상계’ 실증 AI타임스",
+      "summary": {
+        "phenomenon": "전주에서 한옥 지붕을 그대로 유지하면서 원격 태양광 '가상상계' 실증이 진행되고 있습니다.",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "전주",
+        "한옥 지붕",
+        "원격 태양광",
+        "가상상계",
+        "실증"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "9",
+      "title": "재생에너지 변동성에 LNG 발전 ‘껐다 켰다’…기동비 5년 새 2배 : 기업·산업 - 재경일보",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRW9qVkJhQ1M1WEZmV0hGdnByRU8xS2JNdTF6Y0trSy0tTFhTQmNwanFBRndRaHVldlhPd0JTZXBOdDRGSkctVEh4VQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-10T19:46:00",
+      "description": "재생에너지 변동성에 LNG 발전 ‘껐다 켰다’…기동비 5년 새 2배 : 기업·산업 재경일보",
+      "summary": {
+        "phenomenon": "지난 5년간 LNG 발전의 기동비가 2배 증가했습니다.",
+        "cause": "이는 재생에너지의 변동성에 대응하기 위해 LNG 발전소를 자주 껐다 켜는 과정에서 발생한 비용 증가 때문입니다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "재생에너지",
+        "LNG 발전",
+        "변동성",
+        "기동비",
+        "비용 증가"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "10",
+      "title": "‘빨리 충전하면 돈 더 낸다’…초급속 요금은 오르고 안방 충전망은 제자리",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202610111000011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-11T01:00:01",
+      "description": "초급속 충전요금 ㎾h당 347.2원→391.9원현대차 참여 충전망, 국내 아닌 미국서 ‘만족도 1위’BMW ‘더 뉴 iX3’가 인천 영종도 BMW 드라이빙센터 ‘400㎾ 초급속 충전기’에서 충전되고 있다. BMW 코리아 제공‘빨리 충전하면 돈을 더 낸다.’ 국내에서는 정부가 공공 전기차 충전요금 체계를 개편하면서 고출력 충전기를 이용할수록 더 많은 요금을 ···",
+      "summary": {
+        "phenomenon": "국내 공공 전기차 초급속 충전요금이 ㎾h당 347.2원에서 391.9원으로 인상되었습니다.",
+        "cause": "정부가 공공 전기차 충전요금 체계를 개편하면서 고출력 충전기 이용 시 더 많은 요금을 부과하도록 변경했기 때문입니다.",
+        "outlook": "안방 충전망은 제자리걸음을 하고 있어 충전 인프라의 불균형이 우려됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "초급속 충전",
+        "전기차 충전요금",
+        "충전망",
+        "정부 정책",
+        "전기차"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "11",
+      "title": "중국은 ‘4분’, 한국은 ‘18분’…전기차 충전 속도전, 이젠 전력망 싸움",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202610111000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-11T01:00:00",
+      "description": "지리·BYD 메가와트 충전 경쟁…“한계 근접” 고백도2.25㎿ 충전기 1대가 750가구분 전력ESS·배터리 열화 등은 숙제지리의 초고속 충전용 스마트 충전 스테이션에서 전기차가 충전을 하고 있다. 지리 홈페이지 갈무리‘단 4분30초.’ 지난달 23일 중국 저장성 닝보에서 열린 지리자동차의 새 충전시스템 발표회에서 나온 숫자다. 배터리 잔량 10%에서 70%···",
+      "summary": {
+        "phenomenon": "지난 1월 23일 중국 저장성 닝보에서 지리자동차는 배터리 잔량 10%에서 70%까지 단 4분 30초 만에 충전할 수 있는 초고속 충전 시스템을 발표했습니다. 이는 지리·BYD 등 기업 간의 메가와트급 충전 경쟁을 보여줍니다.",
+        "cause": "초고속 충전 시스템은 2.25MW 충전기 1대가 750가구분의 전력을 소비할 정도로 높은 전력 수요를 필요로 합니다.",
+        "outlook": "향후 전기차 충전 속도 경쟁은 ESS(에너지저장장치) 및 배터리 열화 문제 해결과 함께 전력망 인프라 구축 싸움으로 전환될 것으로 전망됩니다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "초고속 충전",
+        "전력망",
+        "전기차",
+        "ESS",
+        "충전 속도전"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "12",
+      "title": "[영상]프로펠러 돌릴 전기, 땅에서 물총처럼 쏜다고?…무착륙 무인기 시대 ‘성큼’",
+      "original_title": null,
+      "url": "https://www.khan.co.kr/article/202610110800011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-10T23:00:01",
+      "description": "BAE, 성층권 무인기 ‘페이사-35’ 개조 착수현재는 자체 태양광 발전해 프로펠러 돌려 낮 짧은 고위도 비행 곤란…잦은 착륙 불가피지상서 무선으로 전기 쏘는 기술 개발 계획지구 어디서든 공중 감시탑·기지국 역할 가능‘페이사-35’ 무인기가 활주로에서 이륙해 공중을 비행하고 있다. 지상에서 전기를 무선 전송 받을 수 있는 새 기술이 적용될 예정이다. BAE···",
+      "summary": {
+        "phenomenon": "BAE 시스템즈는 성층권 무인기 '페이사-35'를 지상에서 무선으로 전기를 공급받을 수 있도록 개조하는 작업에 착수했습니다. 현재 이 무인기는 자체 태양광 발전으로 프로펠러를 구동합니다.",
+        "cause": "기존 태양광 발전 방식은 낮이 짧은 고위도 지역 비행을 어렵게 하고 잦은 착륙을 불가피하게 만들어, 이를 극복하기 위해 지상 무선 전력 전송 기술이 개발되고 있습니다.",
+        "outlook": "이 기술이 적용되면 '페이사-35'는 지구 어디서든 공중 감시탑이나 기지국 역할을 수행할 수 있게 되어 무착륙 무인기 시대가 열릴 것으로 기대됩니다."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "무인기",
+        "무선 전력 전송",
+        "성층권",
+        "BAE",
+        "무착륙"
+      ],
+      "language": "ko",
+      "category": "domestic"
+    },
+    {
+      "id": "13",
+      "title": "이코뉴스 보고서: 기후 변화가 북부 해안에 어떤 영향을 미칠까? - 로스트 코스트 아웃포스트",
+      "original_title": "THE ECONEWS REPORT: How Will Climate Change Affect the North Coast? - Lost Coast Outpost",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0pSV1VUa2h0QnkzYy0tc3l4VFJWZVpOY2NZb0dYbFU5ak9LT2Y2dW8zSkdPWEpJZHJtdTNROHpDRDQ3bndVbHpyVTkydndQWUtJRTBMaXF2UWhfcGV4dkxwNWhhTHJrY0JnR1ZiMHNaX1BpbzNubHlQZ0paUWVwZzMwb25aeFpxQVNUQkk2SEUwNU02aTEw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T19:00:35",
+      "description": "THE ECONEWS REPORT: How Will Climate Change Affect the North Coast? Lost Coast Outpost",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "기후 변화",
+        "북부 해안",
+        "영향",
+        "경제",
+        "보고서"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "14",
+      "title": "기후 변화가 허리케인 이사야스를 어떻게 악화시켰나",
+      "original_title": "How climate change worsened Hurricane Isaias - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYThGeG0xVTNsQy1MQm9iQnVWd0JFSXFxcTZlLUs3VnBTSHRSb0E3WHpDdmRsekRxejl2QV9sODRwYmdSWjk1MWVLOW9oa21NcGNJM2J2UXNsdFpxRXRJUzE5c285a3BUUXRtQl9pS3gyN0h0TzRPN3p4OElTczdLUW52ZkVMLTBMWWRRLVRBaVYxdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T15:15:08",
+      "description": "How climate change worsened Hurricane Isaias Yale Climate Connections",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "허리케인",
+        "이사야스",
+        "자연재해",
+        "악화"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "15",
+      "title": "미국 대법원, 지방 정부의 석유·가스 기업 상대 기후 변화 소송 심리",
+      "original_title": "SCOTUS weighs local governments’ climate change lawsuits against oil, gas companies - The North State Journal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJrZGcwU1hfTWMzdnd1ZmFFOFItclZnY3lfREhCcTlNWmNjeVdsR0JNTjZwRFY5R2tZeURQdFVXY01CMUZmdFczTEU3bEVLSUhVMHR6WUU5dG96a3l2aHpTUUhsVnJvRFN5dmpsRkJnWVZHWXNCN2Y2b0ZZWnhWVHY4M3lfUUxpNWRPektHV0RxV09GZ2VMVmMxUXhhQkp6VzM2RnN0VGNueFlBT1JVVE1xbjh0QVhzWmQ4Rw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T19:25:28",
+      "description": "SCOTUS weighs local governments’ climate change lawsuits against oil, gas companies The North State Journal",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "미국 대법원",
+        "지방 정부",
+        "기후 변화",
+        "소송",
+        "석유 가스 회사"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "16",
+      "title": "Outrunning Global Warming? Coral Reefs Move Toward Poles - Emagazine.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWRHc3BmSk9ETWZ1Ql9ZOUhEZUFDRW15MDVvdm15eXlEelZ1WTRaZU9qQXQ5WDlwd3gtWDBhbGJIRGlDZEV4QW5TV1Y1YndKbEVNSFhFR2ZlVzR2dXpoRVdicm9vSV9pTU5NczVPYnIxSW5xRTZxOHdYZUgyWXBjTTFSMnk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T21:00:15",
+      "description": "Outrunning Global Warming? Coral Reefs Move Toward Poles Emagazine.com",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "17",
+      "title": "Climate Change Threatens Food, Culture and Youth in Rural Alaska Native Communities - Bioengineer.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnFpRzB2S05fTWFVVkFHME5tNGUyeG9tS0lXQlFuX0JteGJ4M1RxcjZ5YktDV2RpN1dZUzNyZ2FvVGhGY2g4RmJmOXRYLXQ4enBudmRPcHBKY3IzSTYyZXUwaGhzZ2dTYTZtN3RwY3ZzZDlucklJSzVtYVZSdGxtaTRvRnZCdjN5Y1h5TXdFXzBvcktFekZSM1VELXdhVXRnVWdRVmFjWjVKUXM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T22:48:23",
+      "description": "Climate Change Threatens Food, Culture and Youth in Rural Alaska Native Communities Bioengineer.org",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "18",
+      "title": "Climate advocates hope the loss of St. Mary’s Glacier will bring ‘urgency’ to issue of a global warming and disappearing snowfields - SteamboatToday.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm5JemNDSXJQeW9sRVhDLVZ5ckpwVk00MWI0dGpGbk5XOFdmSlBIazJ2WUwwSzkyS1dKYU56UTROSTEtWEw5eG5xWXVYRVluLXM3dk1NU0wwMVVIR2FQSzJiNk5MYmUzNFBtU1FReE1xNmMyUUg0RnlrSHJ1X2xaTFdWOWNRbHA0czFaenVESnM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T17:23:00",
+      "description": "Climate advocates hope the loss of St. Mary’s Glacier will bring ‘urgency’ to issue of a global warming and disappearing snowfields SteamboatToday.com",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "19",
+      "title": "지금 기후 변화에 행동하지 않으면, 다른 어떤 것도 중요하지 않을 것이다",
+      "original_title": "If We Don’t Act Now on Climate Change, Nothing Else Will Matter - Futura, le média qui explore le monde",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3A4X3liQmRMSHM2ZldhN3NxQ1R6UUdPS2UwVHVuTGpWRF9VelhYazdsOXJ5SElQVmFKMWRfSVpuY0c0empVN1U1c1haaXZnZkRYV1hOYzlpOFRUUjlYeFdyZEdMRjVfZnM2T0VkT3duR19EZGQzVzViMDdSZVpxUHc3aVdpVkRVcjFMSGJjbFRVTndoNHkxOWtqak1LaVVFVG5CV3Rn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T17:45:19",
+      "description": "If We Don’t Act Now on Climate Change, Nothing Else Will Matter Futura, le média qui explore le monde",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "기후 변화",
+        "즉각적인 행동",
+        "긴급성",
+        "미래",
+        "최우선 과제"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "20",
+      "title": "Bill Gates now targets airplanes in new war against climate change - The Tanzania Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGZ3RDFXTzF4Ump1aUhqOHJFM1Z2TERWbVhSU3M1eVZhbXZrMWxYUW8tajZCZXQzTHNxUk9WMW9IZnNwVzRFQ0d5NTJQeDR2OEV1ejY4eEw0VWxjYmhKTmZMRDA4STdrNGxDZXlEZTJXSFdZZ2VkdThLNWVaM1dNZlViN2stVWo1NjY1eXFaZEh3d3NFYTRINWhkMlNqUDg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T13:54:48",
+      "description": "Bill Gates now targets airplanes in new war against climate change The Tanzania Times",
+      "summary": {
+        "phenomenon": "기사에서 언급되지 않음",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "21",
+      "title": "Are Vaccine Skepticism And Climate Change Causing America's Health Outbreak? Know What's Causing The Surge In Measles, Dengue Cases - NDTV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFRSVkN2V2tsMFZLbjR1a3lJMVJFWlZmM05DOTVLdmVpektDbTRyUGFHTkpvTmNHMEt3NE9TV3VtSy1zX1VnRFFxTmNBcG9Bc2dPRTdWcFh0UjdKRFJZZWVXdVRWc1dxRnNzQU0wazlUdGI4VTdlb3BldExlaWVNZS1GbEM5N1RfTnFpSGsyS2lOR211RGJmVjJTLURMNlA2dUhwdTY5eTNfakFLdjBnY1RnUUJDRGpaZENpNlRzcVIyVHlyWkhram9PT1Q3M2hDdzNieXllVEhfNkFHSWc2cmhFYTdnREN3VldSWlFwYmtNNzh4bUw0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T14:00:16",
+      "description": "Are Vaccine Skepticism And Climate Change Causing America's Health Outbreak? Know What's Causing The Surge In Measles, Dengue Cases NDTV",
+      "summary": {
+        "phenomenon": "미국에서 홍역과 뎅기열 사례가 급증하고 있다. 구체적인 수치, 지역, 시점은 기사에서 언급되지 않았다.",
+        "cause": "기사는 백신 회의론과 기후 변화를 이러한 급증의 잠재적 원인으로 제시하고 있다. 과학적 원인/배경에 대한 상세한 설명은 기사에서 언급되지 않았다.",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "22",
+      "title": "핵전쟁과 악의적인 AI 사용이 2100년까지 인류 멸종을 위협한다고 란셋 평가가 밝혀",
+      "original_title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+      "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+      "source": "guardian_climate",
+      "published_at": "2026-10-10T23:01:09",
+      "description": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition. Continue reading...",
+      "summary": {
+        "phenomenon": "새로운 글로벌 위험 평가에 따르면, 2100년까지 인류가 멸종할 수 있는 17가지 주요 위협이 확인되었다.",
+        "cause": "악의적인 AI 사용 또는 핵 분쟁이 인류 멸종의 가장 큰 위협으로 지목되었으며, 부유국의 원조 지출 삭감, 기후 위기, 아동 영양실조 등도 주요 위협 요인으로 포함된다.",
+        "outlook": "위원회는 확인된 17가지 위협 각각에 대해 '현실적인 대응 방안'이 존재한다고 밝혀, 인류 멸종이 불가피한 것은 아님을 시사한다."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "핵전쟁",
+        "AI 오용",
+        "인류 멸종",
+        "재앙적 위협",
+        "기후 위기"
+      ],
+      "language": "en",
+      "category": "international"
+    },
+    {
+      "id": "23",
+      "title": "토네이도 시칠리아 강타, 수십 명 부상 및 건물 파손",
+      "original_title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+      "source": "guardian_climate",
+      "published_at": "2026-10-10T11:00:31",
+      "description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, damaging buildings including a school, and overturning cars.A series of videos began to circulate on Friday morning showing two waterspouts approaching the Sicilian town from the sea as people braced for their arrival. Continue reading...",
+      "summary": {
+        "phenomenon": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala ",
+        "cause": "기사에서 언급되지 않음",
+        "outlook": "기사에서 언급되지 않음"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "토네이도",
+        "시칠리아",
+        "마르살라",
+        "부상",
+        "피해"
+      ],
+      "language": "en",
+      "category": "international"
+    }
+  ],
+  "summary": {
+    "total_count": 23,
+    "domestic_count": 12,
+    "international_count": 11,
+    "top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "미래",
+      "실천",
+      "전기차"
+    ],
+    "sentiment_breakdown": {
+      "positive": 8,
+      "negative": 8,
+      "neutral": 2
+    }
+  },
+  "period": "morning",
+  "period_label": "오전"
+}

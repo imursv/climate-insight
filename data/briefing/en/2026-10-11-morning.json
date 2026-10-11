@@ -1,0 +1,609 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T01:46:16.292810",
+  "briefing": {
+    "opening": "Good morning. We will now begin the climate briefing for October 11, 2026.",
+    "sections": [
+      {
+        "title": "🇰🇷 Diverse Efforts Towards Domestic Carbon Neutrality",
+        "content": "Domestic local governments are actively engaging in carbon neutrality practices to address the climate crisis. Incheon is currently facing a 'climate crisis' and is re-envisioning itself as a carbon-neutral city [2]. Daegu Gunwi County conducted a carbon neutrality campaign during its Citizens' Sports Festival [3]. Yongin City Council's Carbon Neutrality Research Institute IV is discussing circular economy-based carbon neutrality policies [4], and Gwangmyeong City is exploring carbon neutrality action plans with its citizens [5]. These efforts demonstrate a widespread commitment to carbon neutrality across local communities. Furthermore, special educational lectures titled 'Carbon Neutrality AI Healing' are held monthly, increasing interest in related educational fields [6].",
+        "tone": "positive"
+      },
+      {
+        "title": "🌱 Progress and Challenges in Renewable Energy Transition",
+        "content": "Alongside concrete attempts to expand renewable energy, technological innovation is also gaining attention. Hongcheon County is benchmarking Sinan County's 'sunshine pension' model to review a resident income model based on new and renewable energy [7]. In Jeonju, a remote solar 'virtual net metering' demonstration is underway, preserving traditional Hanok roofs [8], showcasing efforts to introduce renewable energy solutions tailored to local characteristics. Meanwhile, BAE Systems has begun work to modify a stratospheric drone to receive wireless power from the ground [12], demonstrating the potential of future energy technologies. However, ensuring stability during the energy transition remains a significant challenge, as evidenced by the doubling of LNG power plant startup costs over the past five years due to renewable energy variability [9].",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚠️ Barriers to Domestic EV Infrastructure and Social Participation",
+        "content": "In South Korea, several barriers have been identified concerning electric vehicle (EV) infrastructure and social participation, both crucial for addressing climate change. Public ultra-fast EV charging fees have increased, while home charging networks have remained stagnant [10], raising concerns about charging convenience. This contrasts sharply with China, which is accelerating grid competition by introducing ultra-fast systems capable of charging batteries from 10% to 70% in just 4 minutes and 30 seconds [11]. South Korea, however, takes 18 minutes for a similar charge [11], indicating a significant gap in charging speed and highlighting the need for grid improvements. Beyond these technical and infrastructural issues, an analysis linking men's indifference to climate change and ESG with 'masculinity anxiety' [1] suggests that a multifaceted approach is needed to expand overall societal participation in climate action.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🔴 Global Climate Threats and the Future of Humanity",
+        "content": "Globally, the direct impacts of climate change are intensifying, reaching a level that threatens human survival. Analyses suggesting that climate change exacerbated Hurricane Isaias [14], and instances of dozens injured and buildings damaged by a tornado striking Sicily [23], demonstrate that extreme weather events are becoming commonplace. Furthermore, in the United States, an analysis has suggested that climate change could be a cause of the surge in measles and dengue fever cases [21]. According to a Lancet assessment, 17 major threats, including climate change, could endanger human extinction by 2100 [22]. The warning that 'if we don't act on climate change now, nothing else will matter' [19] underscores the urgency of climate action.",
+        "tone": "urgent"
+      },
+      {
+        "title": "🌍 International Climate Response Efforts and Legal Discussions",
+        "content": "The international community is undertaking diverse response efforts based on its awareness of the widespread impacts of climate change. The U.S. Supreme Court is set to hear climate change lawsuits filed by local governments against oil and gas companies [15], indicating a growing legal discussion on climate responsibility. An Econews report analyzes how climate change will affect northern coasts [13]. Phenomena such as coral reefs migrating towards the poles due to climate change [16] and the threats to food, culture, and youth in Alaska Native communities [17] illustrate the severe impacts of climate change on ecosystems and specific communities. Meanwhile, Bill Gates has stated that airplanes are a new target in the fight against climate change [20], and the loss of St. Mary’s Glacier is expected to serve as a catalyst, urging 'urgency' regarding global warming and the issue of diminishing snowfields [18].",
+        "tone": "neutral"
+      }
+    ],
+    "closing": "Today's briefing once again reminds us of the ongoing efforts to address climate change both domestically and internationally, the direct threats posed by the climate crisis, and the importance of sustained action for the future. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Why are men indifferent to climate change and ESG? The reason is 'masculinity anxiety' - Iroun News",
+      "original_title": "남성은 왜 기후 변화, ESG에 무관심할까.. 이유는 '남성성 불안' - 이로운뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4SzBwMnlIWENVWkhUVmhrSzBXakpXVFp0OUt4bnMydzFWVWktR0NjYWJVOFZ4bkduazBYUEtfOVhtSHF4X1h5SDU1M2VER05waDdBYjBhSHU5VC1pbEVkOER4Z0lyQ1U?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-10T12:15:09",
+      "description": "Why are men indifferent to climate change and ESG? The reason is 'masculinity anxiety' Iroun News",
+      "summary": {
+        "phenomenon": "A phenomenon of men showing indifference to climate change and ESG (Environmental, Social, and Governance) is emerging.",
+        "cause": "The article states that the cause of this indifference is 'masculinity anxiety'.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Men",
+        "Climate Change",
+        "ESG",
+        "Indifference",
+        "Masculinity Anxiety"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "남성은 왜 기후 변화, ESG에 무관심할까.. 이유는 '남성성 불안' 이로운뉴스"
+    },
+    {
+      "id": "2",
+      "title": "Incheon Confronts 'Climate Crisis'... Reshaping the City's Future with Carbon Neutrality [2026 Anniversary Special] - Gyeongin Ilbo",
+      "original_title": "‘기후위기’ 마주한 인천… 탄소중립으로 다시 그리는 도시의 내일 [2026 창간특집] - 경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGWjk3MmNtdjRMR2I2VGNDRFJQS2lCb0g5S0lLNWlMZS03YXJNMlpmcmdLS1R3U1ZzOVFQdHA5cmducHFrdm5ZM3RTNGQ3aWFJTlE?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-10T23:46:54",
+      "description": "Incheon Confronts 'Climate Crisis'... Reshaping the City's Future with Carbon Neutrality [2026 Anniversary Special] Gyeongin Ilbo",
+      "summary": {
+        "phenomenon": "Incheon is currently facing a 'climate crisis'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Incheon City plans to reshape the city's future through carbon neutrality."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Climate Crisis",
+        "Incheon",
+        "Carbon Neutrality",
+        "City",
+        "Future"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘기후위기’ 마주한 인천… 탄소중립으로 다시 그리는 도시의 내일 [2026 창간특집] 경인일보"
+    },
+    {
+      "id": "3",
+      "title": "Daegu Gunwi County Conducts Carbon Neutrality Campaign at County Sports Festival - Gyeongbuk Shinmun",
+      "original_title": "대구 군위군, 군민체육대회서 탄소중립 실천 캠페인 - 경북신문",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13cm4zNlpGa2dZaXJzZW1rQVhEd3I0b0ZFWkNUV1cwMmhERm1BNnNZYkxQdDVESzFBbV9QVjdFWWZBUGQyRFZJMEdJcktMQ0tMMWpodmF2LXk?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-11T01:25:07",
+      "description": "Daegu Gunwi County Conducts Carbon Neutrality Campaign at County Sports Festival Gyeongbuk Shinmun",
+      "summary": {
+        "phenomenon": "A carbon neutrality practice campaign was conducted in Daegu Gunwi County during the County Sports Festival.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Daegu Gunwi County",
+        "County Sports Festival",
+        "Carbon Neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "대구 군위군, 군민체육대회서 탄소중립 실천 캠페인 경북신문"
+    },
+    {
+      "id": "4",
+      "title": "Yongin City Council Carbon Neutrality Research Institute IV Discusses Circular Economy-Based Carbon Neutrality Policies - Shin-A Ilbo",
+      "original_title": "용인시의회 탄소중립연구소IV, 순환경제 기반 탄소중립 정책 논의 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yMXB3LWxneUl1bEtSUHc1YlUtLS01ZjNCa3RLdVozUHRpdHM4M29mcm1NaFFldVR1WGw5VlZJd0RQTnpYQlFvRkdQcC02VWExanJGNjZNd2NwUDVOU2RWekVyZE5rQkNFZWVkb21MOFE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-11T00:44:08",
+      "description": "Yongin City Council Carbon Neutrality Research Institute IV Discusses Circular Economy-Based Carbon Neutrality Policies Shin-A Ilbo",
+      "summary": {
+        "phenomenon": "Yongin City Council Carbon Neutrality Research Institute IV discussed carbon neutrality policies based on a circular economy.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Yongin City Council",
+        "Carbon Neutrality Research Institute IV",
+        "Circular Economy",
+        "Carbon Neutrality",
+        "Policy Discussion"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "용인시의회 탄소중립연구소IV, 순환경제 기반 탄소중립 정책 논의 신아일보"
+    },
+    {
+      "id": "5",
+      "title": "Gwangmyeong City Seeks Carbon Neutrality Practice Measures with Citizens - Gyeonggi Maeil",
+      "original_title": "광명시, 시민과 함께 탄소중립 실천 방안 찾는다 - 경기매일",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96R2hkWHB2U3dIZENGQzA1cWs5Q0lkSDF6aDdKVXZNdzdidzdSYjhDQ1FhSDRXOEpWOXBmM1NMdnFyb2h2bl9RT2ZRN0dyU2NuNERpdW4yazRQdWI1d3JrU28ta2lESGM?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-10T23:51:56",
+      "description": "Gwangmyeong City Seeks Carbon Neutrality Practice Measures with Citizens Gyeonggi Maeil",
+      "summary": {
+        "phenomenon": "Gwangmyeong City is exploring ways to practice carbon neutrality with its citizens.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Gwangmyeong City",
+        "Citizens",
+        "Carbon Neutrality",
+        "Practice",
+        "Measures"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "광명시, 시민과 함께 탄소중립 실천 방안 찾는다 경기매일"
+    },
+    {
+      "id": "6",
+      "title": "[Longevity Economy Emerges as 'Primary Industry' Attracting World's Top 30 Billionaires... 'Beyond AI·SI'] In Korea, educational special lectures in related fields are held all day from 10 AM on the last Saturday of every month. This special lecture, titled 'Carbon Neutral AI Healing,' - AI Net",
+      "original_title": "[장수경제, 세계 30대 갑부들이 뛰어든 '제1 산업'으로 부상…\"AI·SI 넘어선다\"] 한국에서는 관련 분야 교육 특강이 매월 마지막 토요일 오전 10시부터 종일 진행되고 있다. '탄소중립AI치유'라는 제목의 이 특강은 - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBkSmlrUkh6SDUwamNraWYtQ1NBQWtpcnBIUVF5SXhQdU4taWNzNFZLb25tS2YwMUNXdkRpTFcxME0?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-10T15:18:27",
+      "description": "[Longevity Economy Emerges as 'Primary Industry' Attracting World's Top 30 Billionaires... 'Beyond AI·SI'] In Korea, educational special lectures in related fields are held all day from 10 AM on the last Saturday of every month. This special lecture, titled 'Carbon Neutral AI Healing,' AI Net",
+      "summary": {
+        "phenomenon": "In Korea, an educational special lecture titled 'Carbon Neutral AI Healing' is held all day from 10 AM on the last Saturday of every month.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Longevity Economy",
+        "Primary Industry",
+        "Carbon Neutrality",
+        "AI",
+        "Educational Special Lecture"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "[장수경제, 세계 30대 갑부들이 뛰어든 '제1 산업'으로 부상…\"AI·SI 넘어선다\"] 한국에서는 관련 분야 교육 특강이 매월 마지막 토요일 오전 10시부터 종일 진행되고 있다. '탄소중립AI치유'라는 제목의 이 특강은 AI넷"
+    },
+    {
+      "id": "7",
+      "title": "Hongcheon County Benchmarks Sinan County's 'Sunshine Pension'... Reviewing Renewable Energy Resident Income Model - Shin-A Ilbo",
+      "original_title": "홍천군, 신안군 ‘햇빛연금’ 벤치마킹…신재생에너지 주민소득 모델 검토 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVEVSbC1PUDc3YU1xNU5mZWl6S1BTYWJxaDFwUmNNNzhVdkdsVWh6aDNCVEZzZ19DUHF6aVpFeV9vZHBQWlBvREU3eVU1Y1pmZzVaMlRCRUs0X1ZEd2JGYlE0VFFySEJ0MEJ4Um13OHg?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-10T23:49:58",
+      "description": "Hongcheon County Benchmarks Sinan County's 'Sunshine Pension'... Reviewing Renewable Energy Resident Income Model Shin-A Ilbo",
+      "summary": {
+        "phenomenon": "Hongcheon County is benchmarking Sinan County's 'Sunshine Pension' model.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Hongcheon County is reviewing the introduction of a resident income model utilizing renewable energy."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Sunshine Pension",
+        "Renewable Energy",
+        "Resident Income",
+        "Hongcheon County",
+        "Benchmarking"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "홍천군, 신안군 ‘햇빛연금’ 벤치마킹…신재생에너지 주민소득 모델 검토 신아일보"
+    },
+    {
+      "id": "8",
+      "title": "Hanok Roofs Remain Intact... Jeonju Demonstrates Remote Solar 'Virtual Net Metering' - AI Times",
+      "original_title": "한옥 지붕은 그대로…전주, 원격 태양광 ‘가상상계’ 실증 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVHVNaTF2WGNacXlQS1RJTENGZUhRaGcwWHA0VlFOdnBFcThpeEZac1ZxRHJ6X1duY0ZvNko0dlBXc2VwLTdnd2t4SFJZd3U0R2EwSDM1cm4xT1NqUnBUWG1USk5VMy1BdlE?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-11T00:25:00",
+      "description": "Hanok Roofs Remain Intact... Jeonju Demonstrates Remote Solar 'Virtual Net Metering' AI Times",
+      "summary": {
+        "phenomenon": "In Jeonju, a demonstration of remote solar 'virtual net metering' is underway while preserving traditional Hanok roofs.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Jeonju",
+        "Hanok Roof",
+        "Remote Solar Power",
+        "Virtual Net Metering",
+        "Demonstration"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "한옥 지붕은 그대로…전주, 원격 태양광 ‘가상상계’ 실증 AI타임스"
+    },
+    {
+      "id": "9",
+      "title": "LNG Power Generation 'On and Off' Due to Renewable Energy Volatility... Startup Costs Double in 5 Years: Business & Industry - Jae Kyung Ilbo",
+      "original_title": "재생에너지 변동성에 LNG 발전 ‘껐다 켰다’…기동비 5년 새 2배 : 기업·산업 - 재경일보",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCRW9qVkJhQ1M1WEZmV0hGdnByRU8xS2JNdTF6Y0trSy0tTFhTQmNwanFBRndRaHVldlhPd0JTZXBOdDRGSkctVEh4VQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-10T19:46:00",
+      "description": "LNG Power Generation 'On and Off' Due to Renewable Energy Volatility... Startup Costs Double in 5 Years: Business & Industry Jae Kyung Ilbo",
+      "summary": {
+        "phenomenon": "Over the past five years, the startup costs for LNG power generation have doubled.",
+        "cause": "This increase in costs is due to the frequent cycling (turning on and off) of LNG power plants to respond to the variability of renewable energy.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable Energy",
+        "LNG Power Generation",
+        "Volatility",
+        "Startup Costs",
+        "Cost Increase"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "재생에너지 변동성에 LNG 발전 ‘껐다 켰다’…기동비 5년 새 2배 : 기업·산업 재경일보"
+    },
+    {
+      "id": "10",
+      "title": "'Charge Faster, Pay More'... Ultra-Fast Charging Fees Rise While Home Charging Network Stagnates",
+      "original_title": "‘빨리 충전하면 돈 더 낸다’…초급속 요금은 오르고 안방 충전망은 제자리",
+      "url": "https://www.khan.co.kr/article/202610111000011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-11T01:00:01",
+      "description": "Ultra-fast charging fees increase from 347.2 won/kWh to 391.9 won/kWh. Hyundai Motor's charging network ranks 'No. 1 in satisfaction' in the US, not Korea. A BMW 'The New iX3' is being charged at the BMW Driving Center's '400kW ultra-fast charger' in Yeongjongdo, Incheon. Provided by BMW Korea. 'Charge faster, pay more.' In Korea, the government has reorganized the public EV charging fee system, imposing higher fees for using high-output chargers...",
+      "summary": {
+        "phenomenon": "Domestic public EV ultra-fast charging fees have increased from 347.2 won/kWh to 391.9 won/kWh.",
+        "cause": "This is because the government reorganized the public EV charging fee system, implementing higher charges for using high-output chargers.",
+        "outlook": "The home charging network remains stagnant, raising concerns about an imbalance in charging infrastructure."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Ultra-fast Charging",
+        "EV Charging Fees",
+        "Charging Network",
+        "Government Policy",
+        "Electric Vehicle"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "초급속 충전요금 ㎾h당 347.2원→391.9원현대차 참여 충전망, 국내 아닌 미국서 ‘만족도 1위’BMW ‘더 뉴 iX3’가 인천 영종도 BMW 드라이빙센터 ‘400㎾ 초급속 충전기’에서 충전되고 있다. BMW 코리아 제공‘빨리 충전하면 돈을 더 낸다.’ 국내에서는 정부가 공공 전기차 충전요금 체계를 개편하면서 고출력 충전기를 이용할수록 더 많은 요금을 ···"
+    },
+    {
+      "id": "11",
+      "title": "China '4 minutes', Korea '18 minutes'... EV charging speed race, now a power grid battle",
+      "original_title": "중국은 ‘4분’, 한국은 ‘18분’…전기차 충전 속도전, 이젠 전력망 싸움",
+      "url": "https://www.khan.co.kr/article/202610111000001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-11T01:00:00",
+      "description": "Geely and BYD's megawatt charging competition... 'Approaching limits' confessed. One 2.25MW charger consumes power equivalent to 750 households. ESS and battery degradation are challenges. An EV is charging at Geely's ultra-fast smart charging station. (Screenshot from Geely website) 'Just 4 minutes and 30 seconds.' This figure was announced at Geely Automobile's new charging system presentation on the 23rd of last month in Ningbo, Zhejiang Province, China. From 10% to 70% battery charge...",
+      "summary": {
+        "phenomenon": "On January 23rd, in Ningbo, Zhejiang Province, China, Geely Automobile unveiled an ultra-fast charging system capable of charging an EV battery from 10% to 70% in just 4 minutes and 30 seconds. This demonstrates the megawatt-level charging competition among companies like Geely and BYD.",
+        "cause": "Ultra-fast charging systems require high power demand, with a single 2.25MW charger consuming power equivalent to 750 households.",
+        "outlook": "In the future, the competition for EV charging speed is expected to shift towards a battle for power grid infrastructure development, alongside solving issues such as ESS (Energy Storage System) and battery degradation."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Ultra-fast charging",
+        "Power grid",
+        "Electric vehicle",
+        "ESS",
+        "Charging speed competition"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "지리·BYD 메가와트 충전 경쟁…“한계 근접” 고백도2.25㎿ 충전기 1대가 750가구분 전력ESS·배터리 열화 등은 숙제지리의 초고속 충전용 스마트 충전 스테이션에서 전기차가 충전을 하고 있다. 지리 홈페이지 갈무리‘단 4분30초.’ 지난달 23일 중국 저장성 닝보에서 열린 지리자동차의 새 충전시스템 발표회에서 나온 숫자다. 배터리 잔량 10%에서 70%···"
+    },
+    {
+      "id": "12",
+      "title": "[Video] Electricity to spin propellers, shot from the ground like a water gun? The era of non-landing drones 'approaches'",
+      "original_title": "[영상]프로펠러 돌릴 전기, 땅에서 물총처럼 쏜다고?…무착륙 무인기 시대 ‘성큼’",
+      "url": "https://www.khan.co.kr/article/202610110800011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "source": "khan_society",
+      "published_at": "2026-10-10T23:00:01",
+      "description": "BAE begins modification of stratospheric drone 'PHASA-35'. Currently, it uses its own solar power to spin propellers, making high-latitude flights with short daylight difficult... frequent landings are unavoidable. Plan to develop technology to wirelessly transmit electricity from the ground. Capable of acting as an aerial surveillance tower or base station anywhere on Earth. The 'PHASA-35' drone is taking off from the runway and flying in the air. New technology to wirelessly receive electricity from the ground is planned to be applied. BAE...",
+      "summary": {
+        "phenomenon": "BAE Systems has commenced work to modify its stratospheric drone 'PHASA-35' to receive wireless power from the ground. Currently, this drone powers its propellers using its own solar generation.",
+        "cause": "The existing solar power generation method makes flight difficult in high-latitude regions with short daylight hours and necessitates frequent landings. To overcome this, ground-based wireless power transmission technology is being developed.",
+        "outlook": "With the application of this technology, the 'PHASA-35' is expected to be able to serve as an aerial surveillance tower or base station anywhere on Earth, ushering in an era of non-landing drones."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Drone",
+        "Wireless power transmission",
+        "Stratosphere",
+        "BAE",
+        "Non-landing"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "BAE, 성층권 무인기 ‘페이사-35’ 개조 착수현재는 자체 태양광 발전해 프로펠러 돌려 낮 짧은 고위도 비행 곤란…잦은 착륙 불가피지상서 무선으로 전기 쏘는 기술 개발 계획지구 어디서든 공중 감시탑·기지국 역할 가능‘페이사-35’ 무인기가 활주로에서 이륙해 공중을 비행하고 있다. 지상에서 전기를 무선 전송 받을 수 있는 새 기술이 적용될 예정이다. BAE···"
+    },
+    {
+      "id": "13",
+      "title": "이코뉴스 보고서: 기후 변화가 북부 해안에 어떤 영향을 미칠까? - 로스트 코스트 아웃포스트",
+      "original_title": "THE ECONEWS REPORT: How Will Climate Change Affect the North Coast? - Lost Coast Outpost",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0pSV1VUa2h0QnkzYy0tc3l4VFJWZVpOY2NZb0dYbFU5ak9LT2Y2dW8zSkdPWEpJZHJtdTNROHpDRDQ3bndVbHpyVTkydndQWUtJRTBMaXF2UWhfcGV4dkxwNWhhTHJrY0JnR1ZiMHNaX1BpbzNubHlQZ0paUWVwZzMwb25aeFpxQVNUQkk2SEUwNU02aTEw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T19:00:35",
+      "description": "THE ECONEWS REPORT: How Will Climate Change Affect the North Coast? Lost Coast Outpost",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "North Coast",
+        "Impact",
+        "Economy",
+        "Report"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "THE ECONEWS REPORT: How Will Climate Change Affect the North Coast? Lost Coast Outpost"
+    },
+    {
+      "id": "14",
+      "title": "기후 변화가 허리케인 이사야스를 어떻게 악화시켰나",
+      "original_title": "How climate change worsened Hurricane Isaias - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYThGeG0xVTNsQy1MQm9iQnVWd0JFSXFxcTZlLUs3VnBTSHRSb0E3WHpDdmRsekRxejl2QV9sODRwYmdSWjk1MWVLOW9oa21NcGNJM2J2UXNsdFpxRXRJUzE5c285a3BUUXRtQl9pS3gyN0h0TzRPN3p4OElTczdLUW52ZkVMLTBMWWRRLVRBaVYxdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T15:15:08",
+      "description": "How climate change worsened Hurricane Isaias Yale Climate Connections",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Hurricane",
+        "Isaias",
+        "Natural disaster",
+        "Worsening"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How climate change worsened Hurricane Isaias Yale Climate Connections"
+    },
+    {
+      "id": "15",
+      "title": "미국 대법원, 지방 정부의 석유·가스 기업 상대 기후 변화 소송 심리",
+      "original_title": "SCOTUS weighs local governments’ climate change lawsuits against oil, gas companies - The North State Journal",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYlJrZGcwU1hfTWMzdnd1ZmFFOFItclZnY3lfREhCcTlNWmNjeVdsR0JNTjZwRFY5R2tZeURQdFVXY01CMUZmdFczTEU3bEVLSUhVMHR6WUU5dG96a3l2aHpTUUhsVnJvRFN5dmpsRkJnWVZHWXNCN2Y2b0ZZWnhWVHY4M3lfUUxpNWRPektHV0RxV09GZ2VMVmMxUXhhQkp6VzM2RnN0VGNueFlBT1JVVE1xbjh0QVhzWmQ4Rw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T19:25:28",
+      "description": "SCOTUS weighs local governments’ climate change lawsuits against oil, gas companies The North State Journal",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "US Supreme Court",
+        "Local government",
+        "Climate change",
+        "Lawsuit",
+        "Oil and gas company"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "SCOTUS weighs local governments’ climate change lawsuits against oil, gas companies The North State Journal"
+    },
+    {
+      "id": "16",
+      "title": "Outrunning Global Warming? Coral Reefs Move Toward Poles - Emagazine.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWRHc3BmSk9ETWZ1Ql9ZOUhEZUFDRW15MDVvdm15eXlEelZ1WTRaZU9qQXQ5WDlwd3gtWDBhbGJIRGlDZEV4QW5TV1Y1YndKbEVNSFhFR2ZlVzR2dXpoRVdicm9vSV9pTU5NczVPYnIxSW5xRTZxOHdYZUgyWXBjTTFSMnk?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T21:00:15",
+      "description": "Outrunning Global Warming? Coral Reefs Move Toward Poles Emagazine.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Outrunning Global Warming? Coral Reefs Move Toward Poles Emagazine.com"
+    },
+    {
+      "id": "17",
+      "title": "Climate Change Threatens Food, Culture and Youth in Rural Alaska Native Communities - Bioengineer.org",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdnFpRzB2S05fTWFVVkFHME5tNGUyeG9tS0lXQlFuX0JteGJ4M1RxcjZ5YktDV2RpN1dZUzNyZ2FvVGhGY2g4RmJmOXRYLXQ4enBudmRPcHBKY3IzSTYyZXUwaGhzZ2dTYTZtN3RwY3ZzZDlucklJSzVtYVZSdGxtaTRvRnZCdjN5Y1h5TXdFXzBvcktFekZSM1VELXdhVXRnVWdRVmFjWjVKUXM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T22:48:23",
+      "description": "Climate Change Threatens Food, Culture and Youth in Rural Alaska Native Communities Bioengineer.org",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Threatens Food, Culture and Youth in Rural Alaska Native Communities Bioengineer.org"
+    },
+    {
+      "id": "18",
+      "title": "Climate advocates hope the loss of St. Mary’s Glacier will bring ‘urgency’ to issue of a global warming and disappearing snowfields - SteamboatToday.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWm5JemNDSXJQeW9sRVhDLVZ5ckpwVk00MWI0dGpGbk5XOFdmSlBIazJ2WUwwSzkyS1dKYU56UTROSTEtWEw5eG5xWXVYRVluLXM3dk1NU0wwMVVIR2FQSzJiNk5MYmUzNFBtU1FReE1xNmMyUUg0RnlrSHJ1X2xaTFdWOWNRbHA0czFaenVESnM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T17:23:00",
+      "description": "Climate advocates hope the loss of St. Mary’s Glacier will bring ‘urgency’ to issue of a global warming and disappearing snowfields SteamboatToday.com",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate advocates hope the loss of St. Mary’s Glacier will bring ‘urgency’ to issue of a global warming and disappearing snowfields SteamboatToday.com"
+    },
+    {
+      "id": "19",
+      "title": "지금 기후 변화에 행동하지 않으면, 다른 어떤 것도 중요하지 않을 것이다",
+      "original_title": "If We Don’t Act Now on Climate Change, Nothing Else Will Matter - Futura, le média qui explore le monde",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3A4X3liQmRMSHM2ZldhN3NxQ1R6UUdPS2UwVHVuTGpWRF9VelhYazdsOXJ5SElQVmFKMWRfSVpuY0c0empVN1U1c1haaXZnZkRYV1hOYzlpOFRUUjlYeFdyZEdMRjVfZnM2T0VkT3duR19EZGQzVzViMDdSZVpxUHc3aVdpVkRVcjFMSGJjbFRVTndoNHkxOWtqak1LaVVFVG5CV3Rn?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T17:45:19",
+      "description": "If We Don’t Act Now on Climate Change, Nothing Else Will Matter Futura, le média qui explore le monde",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Immediate action",
+        "Urgency",
+        "Future",
+        "Top priority"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "If We Don’t Act Now on Climate Change, Nothing Else Will Matter Futura, le média qui explore le monde"
+    },
+    {
+      "id": "20",
+      "title": "Bill Gates now targets airplanes in new war against climate change - The Tanzania Times",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGZ3RDFXTzF4Ump1aUhqOHJFM1Z2TERWbVhSU3M1eVZhbXZrMWxYUW8tajZCZXQzTHNxUk9WMW9IZnNwVzRFQ0d5NTJQeDR2OEV1ejY4eEw0VWxjYmhKTmZMRDA4STdrNGxDZXlEZTJXSFdZZ2VkdThLNWVaM1dNZlViN2stVWo1NjY1eXFaZEh3d3NFYTRINWhkMlNqUDg?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T13:54:48",
+      "description": "Bill Gates now targets airplanes in new war against climate change The Tanzania Times",
+      "summary": {
+        "phenomenon": "Not mentioned in the article",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Bill Gates now targets airplanes in new war against climate change The Tanzania Times"
+    },
+    {
+      "id": "21",
+      "title": "Are Vaccine Skepticism And Climate Change Causing America's Health Outbreak? Know What's Causing The Surge In Measles, Dengue Cases - NDTV",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZFRSVkN2V2tsMFZLbjR1a3lJMVJFWlZmM05DOTVLdmVpektDbTRyUGFHTkpvTmNHMEt3NE9TV3VtSy1zX1VnRFFxTmNBcG9Bc2dPRTdWcFh0UjdKRFJZZWVXdVRWc1dxRnNzQU0wazlUdGI4VTdlb3BldExlaWVNZS1GbEM5N1RfTnFpSGsyS2lOR211RGJmVjJTLURMNlA2dUhwdTY5eTNfakFLdjBnY1RnUUJDRGpaZENpNlRzcVIyVHlyWkhram9PT1Q3M2hDdzNieXllVEhfNkFHSWc2cmhFYTdnREN3VldSWlFwYmtNNzh4bUw0?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-10T14:00:16",
+      "description": "Are Vaccine Skepticism And Climate Change Causing America's Health Outbreak? Know What's Causing The Surge In Measles, Dengue Cases NDTV",
+      "summary": {
+        "phenomenon": "Measles and dengue cases are surging in the United States. Specific figures, locations, and timelines were not mentioned in the article.",
+        "cause": "The article suggests vaccine skepticism and climate change as potential causes for this surge. Detailed explanations of the scientific causes/background were not provided in the article.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Are Vaccine Skepticism And Climate Change Causing America's Health Outbreak? Know What's Causing The Surge In Measles, Dengue Cases NDTV"
+    },
+    {
+      "id": "22",
+      "title": "핵전쟁과 악의적인 AI 사용이 2100년까지 인류 멸종을 위협한다고 란셋 평가가 밝혀",
+      "original_title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+      "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+      "source": "guardian_climate",
+      "published_at": "2026-10-10T23:01:09",
+      "description": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition. Continue reading...",
+      "summary": {
+        "phenomenon": "According to a new global risk assessment, 17 major threats that could lead to human extinction by the year 2100 have been identified.",
+        "cause": "Malicious use of AI or nuclear conflict were identified as the greatest threats to human extinction, while cuts to aid spending by wealthy countries, the climate crisis, and childhood malnutrition are also included as major threat factors.",
+        "outlook": "The commission stated that 'realistic routes to act' exist for each of the 17 identified threats, suggesting that human extinction is not inevitable."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Nuclear War",
+        "AI Misuse",
+        "Human Extinction",
+        "Catastrophic Threat",
+        "Climate Crisis"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of AI or nuclear conflict, according to a new global risk assessment.They top a list of 17 major threats to human health over the next 75 years, which also includes cuts to aid spending by wealthy countries, the climate crisis and childhood malnutrition. Continue reading..."
+    },
+    {
+      "id": "23",
+      "title": "토네이도 시칠리아 강타, 수십 명 부상 및 건물 파손",
+      "original_title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+      "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+      "source": "guardian_climate",
+      "published_at": "2026-10-10T11:00:31",
+      "description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, damaging buildings including a school, and overturning cars.A series of videos began to circulate on Friday morning showing two waterspouts approaching the Sicilian town from the sea as people braced for their arrival. Continue reading...",
+      "summary": {
+        "phenomenon": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala ",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Tornado",
+        "Sicily",
+        "Marsala",
+        "Injuries",
+        "Damage"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, damaging buildings including a school, and overturning cars.A series of videos began to circulate on Friday morning showing two waterspouts approaching the Sicilian town from the sea as people braced for their arrival. Continue reading..."
+    }
+  ],
+  "summary": {
+    "total_count": 23,
+    "domestic_count": 12,
+    "international_count": 11,
+    "top_keywords": [
+      "Climate change",
+      "Carbon neutrality",
+      "Future",
+      "Action",
+      "Electric car"
+    ],
+    "sentiment_breakdown": {
+      "positive": 8,
+      "negative": 8,
+      "neutral": 2
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "미래",
+      "실천",
+      "전기차"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
