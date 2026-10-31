@@ -1,0 +1,898 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T02:12:59.507131",
+  "briefing": {
+    "opening": "Good morning/afternoon. I will now begin the climate briefing for October 31, 2026.",
+    "sections": [
+      {
+        "title": "🔴 Global Health Emergency and the Accelerating Climate Crisis",
+        "content": "Today's news clearly demonstrates that the climate crisis is evolving into a global health emergency. With 3 million deaths attributed to heatwaves, global health has entered an emergency phase [1], leading to strong calls for the World Health Organization (WHO) to declare climate change a public health emergency [29]. In the Asia-Pacific region, climate change is threatening malaria eradication efforts [23], and analysis indicating the world is rapidly approaching the 1.5°C global warming target since the Paris Agreement underscores the urgency of the current situation [25]. The widespread occurrence of large sinkholes across Turkey due to drought and climate change [18], along with a decrease in wine harvests in Greece [28], also warn of the extensive threats climate change poses to our lives and environment, with Bloomberg.com reporting that humanity has been placed on permanent alert due to climate change [20].",
+        "tone": "urgent"
+      },
+      {
+        "title": "🇰🇷 Domestic Carbon Neutrality Transition Efforts and Current Challenges",
+        "content": "Domestically, various regional efforts are underway to achieve carbon neutrality. Hwasun County is conducting a carbon neutrality campaign with the Rural Leaders Association [5], and the Chungnam Credit Guarantee Foundation has launched the province's first working-level council for public institution carbon neutrality [6, 12]. Asan City Council's Special Committee on Carbon Neutrality is continuously strengthening its policy response capabilities by promoting expert lectures, policy development, and capacity-building training for its members to find region-specific solutions [7, 8, 9, 10, 11]. There is also positive news regarding renewable energy. Paju City won an Energy Transition Award for providing renewable energy to businesses and electricity bill savings to citizens [15], and OCI Holdings' solar power business is performing well [17]. However, bottlenecks are occurring where electricity generated from renewable energy cannot be transmitted [13], and despite power generation companies issuing green bonds worth 5.7 trillion KRW, insufficient investment in new and renewable energy has been pointed out [16], indicating the need for in-depth discussions on the sincerity and efficiency of domestic energy transition.",
+        "tone": "neutral"
+      },
+      {
+        "title": "🌍 International Community's Climate Policies and Perception Status",
+        "content": "The international community continues its policy discussions and preparations for responding to climate change. An International Legal Forum on Climate Change was held in Ho Chi Minh City, Vietnam [4], and the Center on Global Energy Policy (CGEP) announced new personnel to strengthen climate change expertise [21]. Furthermore, ahead of the COP31 Climate Summit, the South African Minerals Council released its 2026 climate change position [31], and Brazilian President Lula is scheduled to attend the UN COP31 Climate Summit in Türkiye [35]. Meanwhile, challenges still exist in the perception and approach to climate change. In New Zealand, a businessman sparked controversy by offering the Green Party 150 million KRW if they could prove the existence of climate change [2], and in Florida, there have been calls to remove climate change-related content from textbooks [27, 30]. This demonstrates that social and political debates, beyond scientific consensus, still persist regarding climate change.",
+        "tone": "neutral"
+      },
+      {
+        "title": "⚠️ Complex Impacts of Climate Change and the Importance of Adaptation",
+        "content": "Climate change is affecting our society and environment in unexpected and complex ways, making adaptation efforts increasingly crucial. In some cities, the possibility that climate change could trigger gun violence has been raised [26], and the Morton Arboretum is tracking the impact of climate change on fall foliage color changes, observing long-term ecosystem shifts [19, 22]. To cope with these changes, Himalayan communities are relying on centuries-old traditional water solutions [24]. Interestingly, the forecast that Sweden's solar power generation will increase by 5% due to reduced spring snowfall caused by climate change [3] suggests that unexpected 'benefits' might arise in some areas, but this cannot be a fundamental solution to climate change. The UK government recommends preparing for unexpected emergencies such as floods and power outages, and survival experts are providing preparation methods, emphasizing the urgent need for society-wide adaptation efforts against disasters that could be exacerbated by climate change [34].",
+        "tone": "urgent"
+      }
+    ],
+    "closing": "Today's briefing has clearly highlighted the severity of the climate crisis, alongside the diverse domestic and international efforts and challenges in addressing it. We require a deeper understanding of the complex impacts of climate change, coupled with a resolute commitment to more swift and genuine responses. This concludes today's climate briefing."
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "Heatwaves Claim 3 Million Lives, Global Health Emergency Declared [Climate Insight 50 | InssaM] - MBC News",
+      "original_title": "폭염으로만 300만 명 사망‥세계 보건 비상국면 진입 [기후인사이트 50 | 인싸M] - MBC 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tazBsaExHQU9Tb25xTG1CUUlHRlhtUWFIVnZVNWVOcktLSmpsU0JsczctUFZEX3VMb3pncG1ycnp4Zzd5S1VldUZUcVRabi1oLWVjZ29LdUR3RkpGc2hrTW1TQ081dHpBT1p2aTQwQ1Z2a0E?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-31T01:30:02",
+      "description": "Heatwaves Claim 3 Million Lives, Global Health Emergency Declared [Climate Insight 50 | InssaM] MBC News",
+      "summary": {
+        "phenomenon": "Heatwaves have resulted in 3 million fatalities, leading to the declaration of a global health emergency.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Heatwave",
+        "Death",
+        "3 million people",
+        "Global health emergency",
+        "Climate"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "폭염으로만 300만 명 사망‥세계 보건 비상국면 진입 [기후인사이트 50 | 인싸M] MBC 뉴스"
+    },
+    {
+      "id": "2",
+      "title": "Businessman Offers 150 Million Won to New Zealand Green Party to 'Prove Climate Change' - Yonhap News TV",
+      "original_title": "\"기후변화 입증해봐\"…뉴질랜드 녹생당에 1억5천만원 내건 사업가 - 연합뉴스TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RN250X0RlUEhoRkpDUnRsRTQ4dkJheDlHVkZKbE1sVUMzMDJLbERfVjFUTEJLamdnRnBvRDJlNmMtSDVkNGZUeHdacEM0ZlA1a0M1RUhLMGQ3U0cyRzV3cjF6azQ3dDQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-30T21:00:00",
+      "description": "Businessman Offers 150 Million Won to New Zealand Green Party to 'Prove Climate Change' Yonhap News TV",
+      "summary": {
+        "phenomenon": "A businessman in New Zealand has challenged the Green Party, offering 150 million won if they can prove the existence of climate change.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "Proof",
+        "New Zealand Green Party",
+        "Businessman",
+        "Challenge"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "\"기후변화 입증해봐\"…뉴질랜드 녹생당에 1억5천만원 내건 사업가 연합뉴스TV"
+    },
+    {
+      "id": "3",
+      "title": "Sweden's Solar Power Generation Expected to Rise by 5% Due to Climate Change, Influenced by Reduced Spring Snowfall - AI Times",
+      "original_title": "기후변화로 스웨덴 태양광 발전량 5% 증가 전망…봄철 적설 감소 영향 - AI타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rUWdQZEl1N0todjZIc0tQeXc1YXhyY1l5OUN6eWtTS0wzV2JrcmFvX3oxek1BMzhTQm5CbXdXNlBOeHZEdW5INEJNZV9BWlMwMFM3NzhiTFNjQ0ZyMDlsYmVaRjRXYUZ5aGc?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-31T00:15:00",
+      "description": "Sweden's Solar Power Generation Expected to Rise by 5% Due to Climate Change, Influenced by Reduced Spring Snowfall AI Times",
+      "summary": {
+        "phenomenon": "Sweden's solar power generation is projected to increase by 5% due to climate change.",
+        "cause": "The decrease in spring snowfall, attributed to climate change, is identified as the reason for the projected increase in Sweden's solar power generation.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "기후변화로 스웨덴 태양광 발전량 5% 증가 전망…봄철 적설 감소 영향 AI타임스"
+    },
+    {
+      "id": "4",
+      "title": "International Legal Forum on Climate Change Held in Ho Chi Minh City - Vietnam.vn",
+      "original_title": "호치민시에서 열린 기후변화 국제법률포럼 - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnZOemlhZUw2VElobDdpUy1FdWRENlBDbDlfTG5IVGsxdzRFazZHVUFTWkw2c3VhajBwTW1VTVlfWnM5aGFPY3RtZWl0Yk5wR3EzdXFEbl9SQ3lsdVBYdUZqeDNWV3VNUjFBMGRTYkJpcWItUFFQenFvb29GX1hHMERfMmd5R2lF?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-30T15:20:53",
+      "description": "International Legal Forum on Climate Change Held in Ho Chi Minh City Vietnam.vn",
+      "summary": {
+        "phenomenon": "An International Legal Forum on Climate Change was held in Ho Chi Minh City, Vietnam.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Climate change",
+        "International legal forum",
+        "Ho Chi Minh City",
+        "Forum",
+        "Legal"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "호치민시에서 열린 기후변화 국제법률포럼 Vietnam.vn"
+    },
+    {
+      "id": "5",
+      "title": "Hwasun County Launches Carbon Neutrality Campaign with Rural Leaders Association - The Korea",
+      "original_title": "화순군, 농촌지도자회와 탄소중립 실천 캠페인 전개 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wUW1hMWdhdW1lUjY2SDBGWGF1c2xVRXIyRGhhZmRqeVoxcWdWVHgta3dDcmJBSVl3bEJhanBhdHZWZkducWZKeERyUTAyMXBPai1zMnA1SndjUzJVZ2Z1c3E4aGIzWVgtQ3dfN1hBQlh2UQ?oc=5",
+      "source": "google_climate_ko",
+      "published_at": "2026-10-30T13:57:00",
+      "description": "Hwasun County Launches Carbon Neutrality Campaign with Rural Leaders Association > News The Korea",
+      "summary": {
+        "phenomenon": "Hwasun County, in collaboration with the Rural Leaders Association, has launched a campaign to promote carbon neutrality practices.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Hwasun County",
+        "Rural Leaders Association",
+        "Carbon neutrality",
+        "Practice",
+        "Campaign"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "화순군, 농촌지도자회와 탄소중립 실천 캠페인 전개 > 뉴스 더코리아"
+    },
+    {
+      "id": "6",
+      "title": "Chungnam Credit Guarantee Foundation Launches Province's First 'Public Institution Carbon Neutrality Working Group' - Gukje News",
+      "original_title": "충남신용보증재단, 도내 최초 '공공기관 탄소중립 실무협의체' 출범 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BMjY3X1FJVnZ3V3prZzhUcVBBYzJ6VWdobTB4Q3FpZ2ZmWVBtU3p6Y1JFMVFuaEU0Y2FWNDE0VERHOFgwNzFnSEhsS2UxbzU2RDA0ZDlsZDRnYjc3RUJoV09Ccmx3b29ZZUZrTHhn?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T11:49:19",
+      "description": "Chungnam Credit Guarantee Foundation Launches Province's First 'Public Institution Carbon Neutrality Working Group' Gukje News",
+      "summary": {
+        "phenomenon": "The Chungnam Credit Guarantee Foundation has established the 'Public Institution Carbon Neutrality Working Group,' the first of its kind in Chungcheongnam-do Province.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Carbon neutrality",
+        "Public institution",
+        "Working group",
+        "Chungnam Credit Guarantee Foundation",
+        "Launch"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남신용보증재단, 도내 최초 '공공기관 탄소중립 실무협의체' 출범 국제뉴스"
+    },
+    {
+      "id": "7",
+      "title": "Asan City Council's Carbon Neutrality Special Committee Holds Expert Lecture to Find Region-Specific Solutions - Gukje News",
+      "original_title": "아산시의회 탄소중립특위, 지역 맞춤형 해법 찾기 전문가 특강 진행 - 국제뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zcm1IN2h6NFMzUDAtM1VUZjg5Q0VIMm1uRmdpdXgtSWh3VEoxSG92SzdzSGZ4aHBWZ2pEUDBrdHNseF9mYW9ydUhENmhRdEcxS1NTU09DZUdicmlBeUJneHZJTFJMajVQTkllVllB?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-31T00:03:13",
+      "description": "Asan City Council's Carbon Neutrality Special Committee Holds Expert Lecture to Find Region-Specific Solutions Gukje News",
+      "summary": {
+        "phenomenon": "The Asan City Council's Carbon Neutrality Special Committee conducted an expert lecture to identify region-specific carbon neutrality solutions.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Asan City Council",
+        "Carbon Neutrality Special Committee",
+        "Region-specific",
+        "Seeking solutions",
+        "Expert special lecture"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "아산시의회 탄소중립특위, 지역 맞춤형 해법 찾기 전문가 특강 진행 국제뉴스"
+    },
+    {
+      "id": "8",
+      "title": "Asan City Council's Carbon Neutrality Special Committee Begins Developing Region-Specific Carbon Neutrality Policies - Jeonbuk Maeil Shinmun",
+      "original_title": "아산시의회 탄소중립특위, 지역 맞춤형 탄소중립 정책 발굴 나서 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uVVkyamhrMUFYOEh1MFFYdUlXZHRVZFpMZlc1TFBxcjZCWjVycHlna29IYXpKcXpta1pNRllhd3E0cjlRUjZvZ3MteDNLUWFWNmRXYUlkVmp5YkhPRFV0RHlUVFR1TFY5MlFQdnB3?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T23:33:16",
+      "description": "Asan City Council's Carbon Neutrality Special Committee Begins Developing Region-Specific Carbon Neutrality Policies Jeonbuk Maeil Shinmun",
+      "summary": {
+        "phenomenon": "The Asan City Council's Carbon Neutrality Special Committee has initiated efforts to develop region-specific carbon neutrality policies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Asan City Council",
+        "Carbon Neutrality Special Committee",
+        "Carbon neutrality policy",
+        "Region-specific",
+        "Policy development"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "아산시의회 탄소중립특위, 지역 맞춤형 탄소중립 정책 발굴 나서 전국매일신문"
+    },
+    {
+      "id": "9",
+      "title": "Asan City Council's Carbon Neutrality Special Committee Moves to Strengthen Policy Response Capabilities - Gyeongchung Ilbo",
+      "original_title": "아산시의회 탄소중립특위, 정책 대응 역량 강화 나서 - 경충일보",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DY3p5RVBGSjFLcVRxS0tnWHI1ZlZrdENjTXl4aGswNUhSMl80LTZyYkpwUmhIeHNqbkZPemQ1aFRucWcwN1ktN2ZqYkhRUzUwQ3NneENULXQ?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T21:02:44",
+      "description": "Asan City Council's Carbon Neutrality Special Committee Moves to Strengthen Policy Response Capabilities Gyeongchung Ilbo",
+      "summary": {
+        "phenomenon": "The Asan City Council's Carbon Neutrality Special Committee is actively working to enhance its capacity for responding to carbon neutrality policies.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Asan City Council",
+        "Carbon Neutrality Special Committee",
+        "Carbon neutrality",
+        "Policy response",
+        "Capacity building"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "아산시의회 탄소중립특위, 정책 대응 역량 강화 나서 경충일보"
+    },
+    {
+      "id": "10",
+      "title": "Asan City Council's Carbon Neutrality Special Committee Conducts Capacity Building Training for Members - Newsfire",
+      "original_title": "아산시의회 탄소중립특별위원회, 위원 역량 강화 교육 실시 - 뉴스파이어",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PNEVNTlNZSll1Vnd5RzEtRC1uLThGd0tkTkpwTm9Hb01jMlZPUk9aNW16YU9aNTdocHNDWFdGZ2psVENkM19RdjVab2liWFdzQ0tOUXNYeFFPUEU4WGhQRFFVZFpITzdyV0Frc1RJYw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T14:16:07",
+      "description": "Asan City Council's Carbon Neutrality Special Committee Conducts Capacity Building Training for Members Newsfire",
+      "summary": {
+        "phenomenon": "The Asan City Council's Carbon Neutrality Special Committee has provided training aimed at enhancing the capabilities of its members.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Asan City Council",
+        "Carbon Neutrality Special Committee",
+        "Member",
+        "Capacity building",
+        "Training"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "아산시의회 탄소중립특별위원회, 위원 역량 강화 교육 실시 뉴스파이어"
+    },
+    {
+      "id": "11",
+      "title": "Asan City Council Carbon Neutrality Special Committee Conducts Capacity Building Training - News T&T",
+      "original_title": "아산시의회 탄소중립특별위원회, 역량 강화 교육 실시 - 뉴스티앤티",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UbDhNbUZrTUpCak5XOU5MSzU0VUtlSDBpa2ptVnZmUmdaT0trRkZRenRrc1BoUXVUbXZZSVdQT1FQcU5OSmR2QVd3TzZkLUppYXZrajhmNnFIdDJtMlZPcnVpVk1NUmN0RVE?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T20:55:00",
+      "description": "Asan City Council Carbon Neutrality Special Committee Conducts Capacity Building Training News T&T",
+      "summary": {
+        "phenomenon": "The Asan City Council Carbon Neutrality Special Committee has conducted capacity building training.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Asan City Council",
+        "Carbon Neutrality Special Committee",
+        "Capacity Building",
+        "Training",
+        "Carbon Neutrality"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "아산시의회 탄소중립특별위원회, 역량 강화 교육 실시 뉴스티앤티"
+    },
+    {
+      "id": "12",
+      "title": "Chungnam Credit Guarantee Foundation Launches Province's First Carbon Neutrality Working Group - Web Economy",
+      "original_title": "충남신용보증재단, 도내 최초로 탄소중립 실무협의체 출범 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1V0tpb0QyU3hDNmNYa1h0bDRQTWtCQWdxWHREcGpBWHB6SDQ1UmNpRlNmM3JEaHduZkV0WXF4S0xQWXM4ZW5iNkh5bUlHSVZDWjBPSmZkV1dhZFlYekxNT0tpbjNQTFJIY2diMm8xWW1mdw?oc=5",
+      "source": "google_carbon_ko",
+      "published_at": "2026-10-30T11:42:26",
+      "description": "Chungnam Credit Guarantee Foundation Launches Province's First Carbon Neutrality Working Group Web Economy",
+      "summary": {
+        "phenomenon": "The Chungnam Credit Guarantee Foundation has launched the first Carbon Neutrality Working Group within Chungcheongnam-do Province.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Chungnam Credit Guarantee Foundation",
+        "Carbon Neutrality",
+        "Working Group",
+        "Launch",
+        "First in the Province"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "충남신용보증재단, 도내 최초로 탄소중립 실무협의체 출범 웹이코노미"
+    },
+    {
+      "id": "13",
+      "title": "Electricity, Even if Produced, Cannot Be Transmitted... The Real Bottlenecks of Renewable Energy [Energy Odyssey] (16) - Asia Economy",
+      "original_title": "전기, 만들어도 보낼 수 없다…재생에너지의 진짜 병목들[에너지 오디세이](16) - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Nb0VaZzNoUlRTazlyakVGU0xxaHlpRWt4RnNIVzV2Y2hFQ3ZtNVF5T2Iya1F4Y3NGWFhXNFU2X250Nlo3Vk4tN1BZQUhXMllZX3EwMnVpWGlZc3FRRG1EcQ?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-30T23:00:00",
+      "description": "Electricity, Even if Produced, Cannot Be Transmitted... The Real Bottlenecks of Renewable Energy [Energy Odyssey] (16) Asia Economy",
+      "summary": {
+        "phenomenon": "A bottleneck phenomenon is occurring where electricity generated from renewable energy cannot be transmitted.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Renewable Energy",
+        "Bottleneck",
+        "Transmission",
+        "Power Grid",
+        "Electricity"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "전기, 만들어도 보낼 수 없다…재생에너지의 진짜 병목들[에너지 오디세이](16) 아시아경제"
+    },
+    {
+      "id": "14",
+      "title": "Renewable Energy Becomes a 'Golden Egg' Thanks to 'Electricity-Guzzling Hippos'... What About Us? [Behind the Scenes] - SBS Biz",
+      "original_title": "'전기 먹는 하마' 덕에 황금알된 재생에너지…우리는? [취재여담] - SBS Biz",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NNmdyOHM4cWkxbVZzY1B0Z24tekFEZ2ZOWVZwZk41NTdIZ3NjM0JONUwxVnJFMU42TG1HdUJ4NE5vVGFfR3ZMMThEeERKak1iSHRj0gFYQVVfeXFMTm9SaEFzOHhCVXlqWEpnR1ZOQlBQd1UwOEkwTXBiT25laC16QlpvSVJIU2h6ZGhQREpweWllTjkwM2NFVVpJSUxvRFZTbzFPRmlNeTdvYk5YMw?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-30T22:00:00",
+      "description": "Renewable Energy Becomes a 'Golden Egg' Thanks to 'Electricity-Guzzling Hippos'... What About Us? [Behind the Scenes] SBS Biz",
+      "summary": {
+        "phenomenon": "It is mentioned that renewable energy has become a 'golden egg' thanks to certain factors, metaphorically referred to as 'electricity-guzzling hippos'.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "'전기 먹는 하마' 덕에 황금알된 재생에너지…우리는? [취재여담] SBS Biz"
+    },
+    {
+      "id": "15",
+      "title": "Paju City Provides Renewable Energy to Businesses and Electricity Bill Savings to Citizens... Wins Energy Transition Award - Biz World",
+      "original_title": "파주시, 기업엔 재생에너지·시민엔 전기료 절감…에너지전환상 수상 - 비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tX3k1NGtvMnJERFI4cW1HemkzM1RUZk1zTW00Z0pLX28wMS1wandHTzNOQk41YzVOcTR3YUZmV3g1bHIwU0praDFVcVg1VGt2TFpsc2RTaE5SR1RWNmRJelBUenNzZDQ3Tmc?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-30T11:58:00",
+      "description": "Paju City Provides Renewable Energy to Businesses and Electricity Bill Savings to Citizens... Wins Energy Transition Award Biz World",
+      "summary": {
+        "phenomenon": "Paju City has been awarded the Energy Transition Award for providing renewable energy to businesses and electricity bill savings benefits to its citizens.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Paju City",
+        "Renewable Energy",
+        "Energy Transition",
+        "Electricity Bill Savings",
+        "Award"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "파주시, 기업엔 재생에너지·시민엔 전기료 절감…에너지전환상 수상 비즈월드"
+    },
+    {
+      "id": "16",
+      "title": "Power Generation Public Enterprises Issued 5.7 Trillion Won in 'Green Bonds'... Korea District Heating Invested 'Zero Won' in Renewables, Western Power's Solar and Wind Only 10% - Kuki News",
+      "original_title": "‘녹색채권’ 5.7조 발행한 발전공기업…한국지역난방 신재생 ‘0원’, 서부발전 태양광·풍력 10% 그쳐 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EcFdIWDNLUHdVMnUwT0tQR1BZdDFaTTVwQmZnZkJFSVlVZk1ENGo5WVFDcUJjVW04T0h6Tm5NN2ZvRUpyb2JXaW8yZ056emRhN1ZUNzM1UGRwM1R6bXJENE5YNA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-30T16:55:06",
+      "description": "Power Generation Public Enterprises Issued 5.7 Trillion Won in 'Green Bonds'... Korea District Heating Invested 'Zero Won' in Renewables, Western Power's Solar and Wind Only 10% Kuki News",
+      "summary": {
+        "phenomenon": "Power generation public enterprises issued green bonds totaling 5.7 trillion won, but Korea District Heating invested zero won in renewable energy, and Western Power's investment in solar and wind power accounted for only 10%.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Green Bonds",
+        "Power Generation Public Enterprises",
+        "Renewable Energy",
+        "Korea District Heating",
+        "Western Power"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "‘녹색채권’ 5.7조 발행한 발전공기업…한국지역난방 신재생 ‘0원’, 서부발전 태양광·풍력 10% 그쳐 쿠키뉴스"
+    },
+    {
+      "id": "17",
+      "title": "OCI Holdings: Solar Power Thrives While Chemicals Falter... Mixed Fortunes Across Business Sectors - Pinpoint News",
+      "original_title": "OCI홀딩스, 태양광은 웃고 화학은 주춤…사업별 희비 엇갈려 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84NWFQVG1nXzVrdWxoTXhuNTctMTZmTmhxbTBNY0FnRkh0QkVFbFZQZEtIR1RZd3hpaHBWUldQR1IwOUhzSkpBUmdTSzg1ejg5ZWd1cElOWDdOSm9DeXpvZ2dHUmhDQU1BbUJfSmV0WVVDSTTSAXdBVV95cUxPTjBHSm55OFhkT1NpV0FtdEFQNDdEWk51R09UN3lURUlEdmhnX0dmLTVWR24ySGg2Wko2OWYzSmhCblJuUzNSZTU1Q2xNWkE1ejlyeTFHckRFeEFacWlweER5WG1kVzJBc2ttaUh0d1A2Qlc5bW93NA?oc=5",
+      "source": "google_energy_ko",
+      "published_at": "2026-10-30T22:55:07",
+      "description": "OCI Holdings: Solar Power Thrives While Chemicals Falter... Mixed Fortunes Across Business Sectors Pinpoint News",
+      "summary": {
+        "phenomenon": "Among OCI Holdings' business divisions, the solar power business performed well, while the chemical business experienced a downturn, showing mixed fortunes across sectors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "OCI Holdings",
+        "Solar Power",
+        "Chemicals",
+        "By Business Sector",
+        "Mixed Fortunes"
+      ],
+      "language": "ko",
+      "category": "domestic",
+      "original_description": "OCI홀딩스, 태양광은 웃고 화학은 주춤…사업별 희비 엇갈려 핀포인트뉴스"
+    },
+    {
+      "id": "18",
+      "title": "Massive sinkholes open up across Turkey as it struggles with drought and climate change - The Conversation",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa0twVTRGZFBOQUxWU0M3enJBOFZqalAzVWE0Vm1hbHhaU3lwVVdtU0JOOWRjVVZpRTZzOWR5VDNjREpjYnhtSTJOQnlKbk0wRk1HS1lsTUpwdE1yWTZZT1hDd2w3Y1FBYjFsbFhtTkV5UVIwZVpHMEtvTXNVdzhhUG1kckVIaUt6X1FFX1REaHFRcGdIdzh4RHpOYlZRUnIyRnlxd2lUeWtveXBBOUhscUE0Qlpid0ZCaXliWW5aSQ?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T13:13:12",
+      "description": "Massive sinkholes open up across Turkey as it struggles with drought and climate change The Conversation",
+      "summary": {
+        "phenomenon": "Massive sinkholes are occurring across Turkey.",
+        "cause": "The drought and climate change that Turkey is experiencing are identified as the causes of the sinkhole occurrences.",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Massive sinkholes open up across Turkey as it struggles with drought and climate change The Conversation"
+    },
+    {
+      "id": "19",
+      "title": "모턴 수목원, 기후 변화가 단풍 색 변화에 미치는 영향 추적 - CBS 뉴스",
+      "original_title": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbDkzVjJpWFhqYUVFSXBFX1RDQm1zbTY4YWNLUGh6Wm10RnNCN1JWbFducGhiUjVfb3QzUEdBams5SnBucktOYndwRkcwY2dSZ1d5NE1Tb0E4SzlfT0RNaVFLLWdBalRfQW5JU2dUc2dKMlh0RV9JSnh1ZjJJdXk2bWt4S3B2bllLRGhWUENnRUpxVDF0YUE1aWUwVGktNXgxMzd6RjdJS1lteXJzNFdKUzFyMUo4aTlyUWFab2ZyRHk0T2xWSUNz?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T21:18:00",
+      "description": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color CBS News",
+      "summary": {
+        "phenomenon": "The Morton Arboretum is tracking the impact of climate change on the changing colors of autumn leaves.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Morton Arboretum",
+        "Climate Change",
+        "Autumn Leaves",
+        "Color Change",
+        "Impact Tracking"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color CBS News"
+    },
+    {
+      "id": "20",
+      "title": "Climate Change Is Putting Us in a Permanent State of Vigilance - Bloomberg.com",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRHpranFaRnZtajJfSWtsUnNJaU9tSGtWTTVYOW9vczJLT1RTX1VxSmdUWm1aUlo2by1jQXVUUU9mTFd5SmY1amhkd3p0T2RjaGliUzBwVEttS3RxXzJqNWFXTjBaX3YweS1QLTlxSkFCQ2dLMV9jLVVSeWZSVzdrUWxzX0dSczEyNVN0WFBHWlAyZHN4MVBTM3Bael9uaWxTX3pSZ1dkdzY?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-31T01:45:03",
+      "description": "Climate Change Is Putting Us in a Permanent State of Vigilance Bloomberg.com",
+      "summary": {
+        "phenomenon": "It is mentioned that climate change has placed humanity in a permanent state of vigilance.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Is Putting Us in a Permanent State of Vigilance Bloomberg.com"
+    },
+    {
+      "id": "21",
+      "title": "글로벌 에너지 정책 센터(CGEP), 베네수엘라, 산업 정책, 기후 변화 전문성 강화를 위한 신규 인력 발표",
+      "original_title": "Center on Global Energy Policy Announces New Personnel to Bring Expertise on Venezuela, Industrial Policy, Climate Change - CGEP",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeGI0X0gxMlg0bF8wQjB6NzdIR1EyQy1yVXlmdkx5Q255MVZ1Y0cza0IyY0NSZjNoSnBzWnpwRUU0UFVTZGtyRy1xUFpWQmo2QVNzbWlmY0M3M1d1VXhBUlpwa2hvMVh1bVlHd2ZfSmJBQkhaQXhqYUFXMGhaaU4wY083ZDYtdlBaZzZpMnFsSE1xR3ZOQXZmcXI3ZkM3ZnF2eWhWdlpiS3pVYnZFb3dHUmhCenJUdVNTS3JqZ0xVZktwSGxyczFMMGxEYmNEaEhDQnJ2VVM5TTFEZldiQ1B0Mjl5LTRGYmZTTlZ3SkVhdw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T13:25:35",
+      "description": "Center on Global Energy Policy Announces New Personnel to Bring Expertise on Venezuela, Industrial Policy, Climate Change CGEP",
+      "summary": {
+        "phenomenon": "The Center on Global Energy Policy (CGEP) has announced new personnel to enhance expertise in Venezuela, industrial policy, and climate change.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "positive",
+      "keywords": [
+        "Global energy policy",
+        "New personnel",
+        "Expertise",
+        "Climate change",
+        "Industrial policy"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Center on Global Energy Policy Announces New Personnel to Bring Expertise on Venezuela, Industrial Policy, Climate Change CGEP"
+    },
+    {
+      "id": "22",
+      "title": "모턴 수목원, 기후 변화의 가을 단풍색 변화 영향 추적 - CBS 뉴스",
+      "original_title": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWEyb2RwSFlxOENGLWNCaWt5R0I0WHZJQ3JLT3dfVzZINWRmajFmLWItZGtmUzFBcmM5QUhXOFUzc1h0SHZKTHZuLS1uRXVDX3lETVBTM2dlM3BQTHd3eldaVjEtZDR1OGsxaUxCZ2RBUjgxeWlKaldFVWFfNTRoWVdVTkJWZVdjSlhwY0dLWFc3Y2RzR2JIQUtHaTM?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T20:54:13",
+      "description": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color CBS News",
+      "summary": {
+        "phenomenon": "The Morton Arboretum is tracking the impact of climate change on the changing colors of fall foliage.",
+        "cause": "Climate change has been identified as a factor influencing the change in fall foliage colors.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Morton Arboretum",
+        "Climate change",
+        "Fall foliage",
+        "Foliage change",
+        "Impact tracking"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Morton Arboretum tracks the impact climate change is having on fall leaves changing color CBS News"
+    },
+    {
+      "id": "23",
+      "title": "기후 변화는 아시아 태평양 지역의 말라리아 퇴치를 위협한다 - 네이처",
+      "original_title": "Climate change threatens malaria elimination in the Asia Pacific - Nature",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yeXREWk4wUmJ5UkFvdF82WVVjV3prZEk3eUhkS1QtaVFTaEpGMDlvS3NtaXpIMzFQY1J3ckxuYWlsNzBHNzhwcjVKZUFVQm1JQl9CMjlpOTBYdzhYNG9j?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T11:52:37",
+      "description": "Climate change threatens malaria elimination in the Asia Pacific Nature",
+      "summary": {
+        "phenomenon": "Malaria elimination efforts in the Asia-Pacific region are being threatened by climate change.",
+        "cause": "Climate change has been identified as the cause threatening malaria elimination.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Malaria",
+        "Elimination",
+        "Asia-Pacific",
+        "Threat"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate change threatens malaria elimination in the Asia Pacific Nature"
+    },
+    {
+      "id": "24",
+      "title": "히말라야 공동체, 기후 변화에 맞서 수백 년 된 물 해결책에 의존",
+      "original_title": "Himalayan Communities Are Relying on Centuries-Old Water Solutions In the Face of Climate Change - Time Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54VnlVak9qSTdOeUNOdFNoRUZMTDlVeUJHVC1jMHFXRjduczJsSEpzRWJvTDhlTnQyM1Jvc29XdTJxZG1JOEY4c1RHNUxOUFNDN1VOalVBbDRHalFKeUpXMks4bGdSNnRJeFdvUWN5Mkl4YnQyOUd1UmF3?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T15:55:56",
+      "description": "Himalayan Communities Are Relying on Centuries-Old Water Solutions In the Face of Climate Change Time Magazine",
+      "summary": {
+        "phenomenon": "Himalayan communities are relying on centuries-old water solutions in the face of climate change.",
+        "cause": "Climate change has led Himalayan communities to confront water challenges.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Himalaya",
+        "Climate change",
+        "Water solutions",
+        "Traditional methods",
+        "Community"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Himalayan Communities Are Relying on Centuries-Old Water Solutions In the Face of Climate Change Time Magazine"
+    },
+    {
+      "id": "25",
+      "title": "파리 협정 이후 세계가 1.5°C 지구 온난화에 얼마나 빠르게 근접했는가",
+      "original_title": "How fast the world has moved closer to 1.5°C of global warming since the Paris Agreement - PreventionWeb.net",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaE1peWhmT3pndnctdjJjbDBNWDNCNndJdjJ6VkNQcF9lUzlscG4wU21XOWlkRDNUcWh0N2x6SXpRcG01M3RGOGltRGdSRWt2SWd4SWk4WHR4ei14eFc1MVFVR0ppOHdod3h4UUJYOF9TMEE5V052dnpvSWNGTkJUMVlZYlJ2ek56bzN1eGlXa0diYkREdjRNZnVlWGYzaHhKZC1halR2Zw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T12:00:00",
+      "description": "How fast the world has moved closer to 1.5°C of global warming since the Paris Agreement PreventionWeb.net",
+      "summary": {
+        "phenomenon": "This article discusses how rapidly the world has approached the 1.5°C global warming target since the Paris Agreement.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Global warming",
+        "Paris Agreement",
+        "1.5 degrees Celsius",
+        "Climate change",
+        "Acceleration"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "How fast the world has moved closer to 1.5°C of global warming since the Paris Agreement PreventionWeb.net"
+    },
+    {
+      "id": "26",
+      "title": "Cities Where Climate Change May Be Driving Gun Violence - Yahoo",
+      "original_title": null,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG9Bb1lGVEI4cWtzTy1HYlpYaWYxMDMwejMwWjBDeGNrc2lobldyN1d1TmdQVFZSMXI0NDNwNWV1d1R6RzdRVEVfSkk1THBqWk9lb1lRbEZqQVBBMlhkRHI0RXltQWhnbkY1SGFKY0RGZ3VXbWJLdVNKakY4WEN4elh2OWxMMjlQaklsNjJR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T14:37:00",
+      "description": "Cities Where Climate Change May Be Driving Gun Violence Yahoo",
+      "summary": {
+        "phenomenon": "The possibility has been raised that climate change may be driving gun violence in some cities.",
+        "cause": "The hypothesis has been presented that climate change could be one of the causes of gun violence.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "Cities Where Climate Change May Be Driving Gun Violence Yahoo"
+    },
+    {
+      "id": "27",
+      "title": "맥스웰: 진화론, 기후 변화, 노예 제도. 플로리다 교과서에서 이 모든 것을 삭제하자! - 올랜도 센티넬",
+      "original_title": "Maxwell: Evolution, climate change, slavery. Let’s strip it all from Florida textbooks! - Orlando Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmhWN1NUV1dteE10RVo4Vm83YklnZmI4TzZCR2ZIdmxBSmI5dEpoeVBTdVdRdUF1TU51cDc1R2FvLTl6UFNmeVliMGRMTFVEOHU4Nlp4eXNvQzBocU4tVGMwNGNaYzkwYWp1UUc1RENZS2EtQTJpWTdWaVU1RTlsaGQwcGVyYnVxeDNBV0tJdFRjNndLSWVnRUFScm1JMnJ4ZVh2MDNR?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T18:08:34",
+      "description": "Maxwell: Evolution, climate change, slavery. Let’s strip it all from Florida textbooks! Orlando Sentinel",
+      "summary": {
+        "phenomenon": "A proposal has been made to remove content related to evolution, climate change, and slavery from Florida textbooks.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Evolution theory",
+        "Slavery",
+        "Florida",
+        "Textbooks"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Maxwell: Evolution, climate change, slavery. Let’s strip it all from Florida textbooks! Orlando Sentinel"
+    },
+    {
+      "id": "28",
+      "title": "그리스 와인 수확량 감소, 기후 변화가 원인으로 지목돼",
+      "original_title": "Climate Change Eyed as Reason for Dipping Greek Wine Harvest - tovima.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2tmMU16ZmFON2dLbjVGVUJSazRqLVhyUUpXd3BYZUlnVGFFVFZWSTgtYTlUWlNEUEQwMUtNSWdGNEo1NEZIdFU3Nkl3Q2VfcE8xY0dqX2tzd3UxZjBKUU1LVVhvWndCcGhpVll5MGY3THpGUE12bm91aUc2ZjkwdHpnaGk2eHVlTnJpSXI4THRDUjA4V1hV?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T18:07:09",
+      "description": "Climate Change Eyed as Reason for Dipping Greek Wine Harvest tovima.com",
+      "summary": {
+        "phenomenon": "A phenomenon of declining wine harvests has occurred in Greece.",
+        "cause": "Climate change has been identified as the cause of the decrease in Greek wine harvests.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Climate change",
+        "Greece",
+        "Wine",
+        "Harvest volume",
+        "Decrease"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Climate Change Eyed as Reason for Dipping Greek Wine Harvest tovima.com"
+    },
+    {
+      "id": "29",
+      "title": "WHO가 기후변화를 공중 보건 비상사태로 선포해야 하는 이유",
+      "original_title": "Why the WHO must declare climate change a public health emergency - Down To Earth",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWJWVHU3ZjJwQ2U2WDlkWWp3eF9XTDdjVFBWaHRMQkdpVVkyRC1PYlhnZ25TbUJMLVpHTlFwdHZMVnVlRmVMXzVBdmNIZWR0U1ZzaTdIUlBFclZjYVNEZnRiZ0g3WnFOUUtmeHJReEFIQklIVnRIQlFJcEIwT2VoRzRQZUNVNDZNdm5sUUpxaG40VnBnNG8zUF8wNG45RVotLXdCRFYwZTRRamtnOWF0btIBvgFBVV95cUxOU1NFd25kWVpQTUE2dmxaWlUwWVhwSEJmUnJKeThnZ0NJaHFHSHowSFA5YTdrd3NpbGxmbHIwSC04ZVhZZ0hPNWdqc3VOWnA1Y0c0SHRyNFVWMFpreGswT1RySC1zZk11ZmVEczlrSGdyOUdIQ2xGSGhScDgzODlrYm1iRFJKZVVwRTVJR0lVQTN1X2dYRDdPT293d3dSV1QwcWxjLUNqVDE2M0ZsMUJ1WTJ1OUdPLUJfNDBUWDNB?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T15:54:41",
+      "description": "Why the WHO must declare climate change a public health emergency Down To Earth",
+      "summary": {
+        "phenomenon": "A call has been made for the World Health Organization (WHO) to declare climate change a public health emergency.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "World Health Organization",
+        "Climate change",
+        "Public health",
+        "Emergency",
+        "Declaration"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Why the WHO must declare climate change a public health emergency Down To Earth"
+    },
+    {
+      "id": "30",
+      "title": "진화, 기후 변화, 노예 제도. 플로리다 교과서에서 이 모든 것을 삭제하자!",
+      "original_title": "\"Evolution, climate change, slavery. Let's strip it all from Florida textbooks!\" - National Center for Science Education",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWhhV1BXQXBlTEJlR1hBU0RfUXVrMl9mQTVMcHBMODhVU3h4ak53WFRsVEF3QlBUOXhabEc5UmNPeHZueXVEdnZON0NIZmVSSzJfVFREWHJVZTlzT3dRRHhmY0R2ZTlfXzhhT1NuVlZWNHpFMXhTMk92YndWb255SFhGTHNWRkdhZmhkOW53?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T20:26:09",
+      "description": "\"Evolution, climate change, slavery. Let's strip it all from Florida textbooks!\" National Center for Science Education",
+      "summary": {
+        "phenomenon": "A proposal has been made to remove content related to evolution, climate change, and slavery from Florida textbooks.",
+        "cause": "Not mentioned in the article.",
+        "outlook": "Not mentioned in the article."
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Evolution",
+        "Climate change",
+        "Slavery",
+        "Florida",
+        "Textbooks"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "\"Evolution, climate change, slavery. Let's strip it all from Florida textbooks!\" National Center for Science Education"
+    },
+    {
+      "id": "31",
+      "title": "남아프리카 광물협의회, COP31에 앞서 2026년 기후변화 입장 발표 - 뉴스 및 통계 - IndexBox",
+      "original_title": "Minerals Council South Africa Launches 2026 Climate Change Position Ahead of COP31 - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFU0dXJWNHBsWnU4S2NBcXBiQTNPdUdNcWhyMFB5RGdCX2d2OWhneWlxODdyd3NVZzZlZ3l1azhUWnlsY3cwNjR5SWlZaUYzYmlubUJQTkV2M2o4Y00wckwtVFdGYVhYOU1RdG5ZZmdWZ2pjSDB0X1pUNjdnX1pMb1YyTkpjdmFRWUlhbTQxMW1qUktFS045RXVmZlo5MXFqSGlfbVZLRkl2YzhZWms4UEgzbw?oc=5",
+      "source": "google_climate_en",
+      "published_at": "2026-10-30T14:50:57",
+      "description": "Minerals Council South Africa Launches 2026 Climate Change Position Ahead of COP31 - News and Statistics IndexBox",
+      "summary": {
+        "phenomenon": "The Minerals Council South Africa announced its 2026 climate change position ahead of COP31.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "South Africa",
+        "Minerals Council",
+        "Climate Change",
+        "COP31",
+        "Position"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Minerals Council South Africa Launches 2026 Climate Change Position Ahead of COP31 - News and Statistics IndexBox"
+    },
+    {
+      "id": "32",
+      "title": "인도 북부 주에서 헬리콥터 추락으로 6명 사망",
+      "original_title": "Six dead after helicopter crashes in northern Indian state",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "bbc_science",
+      "published_at": "2026-10-30T15:06:05",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "summary": {
+        "phenomenon": "On Friday afternoon, a helicopter that took off from the Hindu pilgrimage site of Badrinath in northern India lost contact and subsequently crashed, resulting in six fatalities.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Helicopter Crash",
+        "Fatalities",
+        "Northern India",
+        "Badrinath",
+        "Loss of Contact"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
+    },
+    {
+      "id": "33",
+      "title": "유니슨 지도자, \"공공 부문은 북해 석유 일자리에 비해 '뒷전'\" 주장",
+      "original_title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+      "source": "guardian_climate",
+      "published_at": "2026-10-30T13:04:03",
+      "description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas.Andrea Egan, the general secretary of Unison, said too often public sector workers were treated as an “afterthought” by the government compared with the “massive political focus” on",
+      "summary": {
+        "phenomenon": "Andrea Egan, General Secretary of Unison, the UK's largest trade union, argued that the same political focus given to workers in the North Sea oil and gas sector should also be extended to those in the NHS, education, and care sectors.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "negative",
+      "keywords": [
+        "Unison Leader",
+        "Public Sector",
+        "North Sea Oil",
+        "Political Focus",
+        "Jackdaw Decision"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political focus to be given to NHS, education and care sector workers as there has been on those employed in North Sea oil and gas.Andrea Egan, the general secretary of Unison, said too often public sector workers were treated as an “afterthought” by the government compared with the “massive political focus” on"
+    },
+    {
+      "id": "34",
+      "title": "Buy a wind-up radio – and don’t forget the chocolate: survival experts on how to prepare for an emergency",
+      "original_title": null,
+      "url": "https://www.theguardian.com/thefilter/2026/oct/30/expert-guide-prepare-stockpile-emergency-uk",
+      "source": "guardian_climate",
+      "published_at": "2026-10-30T15:00:17",
+      "description": "UK government guidance says we should be ready for the unexpected, but what’s actually helpful to have at home? We ask the specialists• The best power banks – testedHow prepared are you for an emergency? Do you have a few extra tins of beans in the cupboard, or a full-on preppers’ kit in the cellar? While no one likes to think about worst-case scenarios, you can’t have failed to notice the growing noise around being sensibly, practically ready for floods, power cuts, cyber-attacks and other even",
+      "summary": {
+        "phenomenon": "UK government guidance recommends preparing for unexpected emergencies such as floods, power outages, and cyber-attacks, with survival experts offering methods for preparation.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [],
+      "language": "en",
+      "category": "international",
+      "original_description": "UK government guidance says we should be ready for the unexpected, but what’s actually helpful to have at home? We ask the specialists• The best power banks – testedHow prepared are you for an emergency? Do you have a few extra tins of beans in the cupboard, or a full-on preppers’ kit in the cellar? While no one likes to think about worst-case scenarios, you can’t have failed to notice the growing noise around being sensibly, practically ready for floods, power cuts, cyber-attacks and other even"
+    },
+    {
+      "id": "35",
+      "title": "브라질 룰라, 튀르키예 UN COP31 기후 정상회담 참석 예정 - 로이터",
+      "original_title": "Brazil's Lula to attend UN COP31 climate summit in Turkey - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVEp2SWRObnBXbHJkOC1lWUtXV2tOemtGOFVjVU96aEYwS3BDbl9JR0ZNRUpqYWdwaGl1N2N1U0w2b2tUbElmY1ctWnBDNHlMZnMzMV9OUE9EQ2xOZXpPR3ZsZ1BjTEZNcHVJTjZmbDZOZ1JBeE54c3p2b2YxUUJobDhaX1FfOVhEM2w2ejZwam92RzR5UTB5VllpOGJqTGJRalpqMy1aZmQ?oc=5",
+      "source": "reuters_env",
+      "published_at": "2026-10-30T16:42:09",
+      "description": "Brazil's Lula to attend UN COP31 climate summit in Turkey Reuters",
+      "summary": {
+        "phenomenon": "Brazil's President Lula is scheduled to attend the UN COP31 climate summit in Turkey.",
+        "cause": "Not mentioned in the article",
+        "outlook": "Not mentioned in the article"
+      },
+      "sentiment": "neutral",
+      "keywords": [
+        "Lula",
+        "Brazil",
+        "COP31",
+        "Climate Summit",
+        "Turkey"
+      ],
+      "language": "en",
+      "category": "international",
+      "original_description": "Brazil's Lula to attend UN COP31 climate summit in Turkey Reuters"
+    }
+  ],
+  "summary": {
+    "total_count": 35,
+    "domestic_count": 17,
+    "international_count": 18,
+    "top_keywords": [
+      "Climate Change",
+      "Carbon Neutrality",
+      "Asan City Council",
+      "Climate Change",
+      "Carbon Neutrality Special Committee"
+    ],
+    "sentiment_breakdown": {
+      "positive": 10,
+      "negative": 11,
+      "neutral": 8
+    },
+    "original_top_keywords": [
+      "기후 변화",
+      "탄소중립",
+      "아산시의회",
+      "기후변화",
+      "탄소중립특위"
+    ]
+  },
+  "period": "morning",
+  "period_label": "오전",
+  "language": "en"
+}
