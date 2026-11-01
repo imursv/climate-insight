@@ -1,16 +1,16 @@
 {
   "date": "2026-11-01",
   "metadata": {
-    "collected_at": "2026-11-01T02:02:19.861106",
-    "total_articles": 20,
+    "collected_at": "2026-11-01T14:44:06.270856",
+    "total_articles": 56,
     "sources": {
-      "korean": 14,
-      "international": 6
+      "korean": 39,
+      "international": 17
     },
     "sentiment_distribution": {
-      "positive": 14,
-      "negative": 2,
-      "neutral": 3
+      "positive": 34,
+      "negative": 12,
+      "neutral": 7
     }
   },
   "articles": [
@@ -531,6 +531,948 @@
           "예레반",
           "주요 합의",
           "자연 손실 역전"
+        ]
+      }
+    },
+    {
+      "id": "1b0cbba268284b16",
+      "title": "“개별 국가의 선의로 기후위기 못 막아” - 환경일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5odklHS3ZqOXJRdnRCODV2X3hONDBfZGV5Sk9oMTN2N193ak56N09pdnZEWmg2WHcwcjdrOF81WWk2dGpfVHBFd0dsZ2M3Z2x5aHNZejE3N0ZUSEM5TDI1UkVsM1c1QUdB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T13:30:00",
+      "collected_at": "2026-11-01T14:40:37.466307",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "개별 국가",
+          "선의",
+          "한계",
+          "국제 협력"
+        ]
+      }
+    },
+    {
+      "id": "0ad18d2123f97402",
+      "title": "KAIST 녹색성장대학원-뉴톤, AI 기반 기후변화 대응 공동 연구 - 헬로디디",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBTEJoc2E1N1IwMmRPNk1fMjB6YnV2bXFpSXhUQkY3TWxNd1dRaUk4cnFkUzNRczl6dkNJN1JqRktZdnZNVVhsSDFGdGFld3M0V0xmRU5IdWFPSUxsZFZlbVVjb3ZPbkpjOUE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T08:20:00",
+      "collected_at": "2026-11-01T14:40:37.466351",
+      "keywords_matched": [
+        "기후변화",
+        "녹색성장"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "KAIST 녹색성장대학원",
+          "뉴톤",
+          "AI 기반",
+          "기후변화 대응",
+          "공동 연구"
+        ]
+      }
+    },
+    {
+      "id": "ab9defd212bdd8fe",
+      "title": "[ESG 신간] 넷제로 경제부터 핵심광물·정의로운 전환·기후도시까지 - 임팩트온",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FVkdRSWFOVHNYS1gxWGt6M29CQVhTcUJkSXR1UDNTQnZWaTNrclN2eXdPQi1qeTkyQVNldzBFVGFTSk1YNnFlNDZxQ0FhZXpMQmszVU56WXVDbTh1cnc5dVRlUW9ZVUdFU2c?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T08:49:08",
+      "collected_at": "2026-11-01T14:40:37.466422",
+      "keywords_matched": [
+        "넷제로",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG",
+          "넷제로 경제",
+          "핵심광물",
+          "정의로운 전환",
+          "기후도시"
+        ]
+      }
+    },
+    {
+      "id": "2b532494396015cb",
+      "title": "대전시, 탄소중립 실현 지역 기후테크 활성화 협력방안 논의 - 충청게릴라뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pSzJ3UWVMWWZaMGdFWkI1X2xkT252YjctbjRIaUlxSnQtX1pKaGx2M0U5ZHlaLXlWc0YxcWhqZGYyN3FNRUNtSWM0dTVwMHJwa09yaU15eFJJS2ZieWdjWmVCZERidw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T04:41:04",
+      "collected_at": "2026-11-01T14:40:37.466645",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전시",
+          "탄소중립",
+          "기후테크",
+          "활성화",
+          "협력방안"
+        ]
+      }
+    },
+    {
+      "id": "84c14a73bf8891de",
+      "title": "가뭄 피해, 낫 놓고 기역 자도 모른다 - 삼다일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hcFBOMGJCMzFJN0R0YS1ZUzdxMDV0MXdWTXpOckNQeEZzRHNLUzJFa1VTRnVDRE10SGdMNEJOVTJNRjdDNkkwMlNSQm41OUI1NTRmS19HcW10UDRNT2RZekpUVnFHMi1qbjhQbw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T08:50:00",
+      "collected_at": "2026-11-01T14:40:37.467230",
+      "keywords_matched": [
+        "가뭄"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "가뭄",
+          "피해",
+          "재난",
+          "위기",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "7711948d02d20617",
+      "title": "기후테크로 탄소중립과 지역성장 해법 모색 - www.briefingcc.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XaVRURTktVUktNnV0blhBckRvSTJKMnBiN0dyempJcFlEcVoyb1VlYTRtREVEbUJIMzlLLUtYQ1B2QTVtWHZKUDlqX2lnX2tGS3ZJd1JJYi1MWkEtTTAwT29HVE5JSzJVZFJ2NQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T04:50:04",
+      "collected_at": "2026-11-01T14:40:37.467626",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후테크",
+          "탄소중립",
+          "지역성장",
+          "해법",
+          "모색"
+        ]
+      }
+    },
+    {
+      "id": "1a8654240d487539",
+      "title": "충남신용보증재단, 도내 최초 ‘충남 공공기관 탄소중립 실무협의체’ 출범 - 충청타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aXhVM2VUUXNTaE9sR0hRcnhaY29LX2Nib0dqU0RNNWZmM1NPc1VjWld6Q1RONU9EZ2pxeUZNeTBGckJ0ejNGaDZVM3NKcnFiQncyeS1FamxOU2lxdEVXRTByLXZPbXFx?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T09:32:00",
+      "collected_at": "2026-11-01T14:40:37.522548",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남신용보증재단",
+          "탄소중립",
+          "실무협의체",
+          "공공기관",
+          "출범"
+        ]
+      }
+    },
+    {
+      "id": "4852763fa339c7f5",
+      "title": "인천연구원, 시민참여형 탄소중립 실천과제 9건 논의 - 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SOVQ4akN1ajRDS2tMMkV3TzhCZEdyN1plWjVhMWpHN2d6Sk5YZ29aRXhfbWxHVlBZWl9pYUNWWFZDR0staWd0LWlGNkYxTVctdFo0OUZOZjJ6d21ZX2lZS25GSjE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T02:28:17",
+      "collected_at": "2026-11-01T14:40:37.522613",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천연구원",
+          "시민참여형",
+          "탄소중립",
+          "실천과제",
+          "논의"
+        ]
+      }
+    },
+    {
+      "id": "d47f11db2e19811b",
+      "title": "인천 탄소중립, 시민 실천이 관건…생활밀착형 9개 과제 논의 - 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pRTVtY0Y3ZFNhdzRFMTdEdmhBYmM0OEhPbzFrZFgwLXN0SUpMdm9mUXhMb2pOMDNmZndHY1NBZ3U1dEVhcVl3bDlsOENJTG9DTUI1QUZBUUVYSjlPMUVTY2l3?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T03:47:33",
+      "collected_at": "2026-11-01T14:40:37.522645",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "탄소중립",
+          "시민 실천",
+          "생활밀착형",
+          "과제 논의"
+        ]
+      }
+    },
+    {
+      "id": "b310823ff1cdac62",
+      "title": "인천연구원 ‘인천 탄소중립 실천추진단, 시민 주도 실천 방안 구체화 - 인디포커스",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1fdHBUeE1USjBxR29QRWtiaFVxUXJoSEJHamUzM1hXYzhoVnFQRWxPbmo4V0R6TFhfOGU3OXc3bDliT28?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T06:43:00",
+      "collected_at": "2026-11-01T14:40:37.522754",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천연구원",
+          "인천 탄소중립",
+          "실천추진단",
+          "시민 주도",
+          "실천 방안 구체화"
+        ]
+      }
+    },
+    {
+      "id": "91f1277a84f5a6cd",
+      "title": "인천 탄소중립 실천추진단, 시민참여 확대 위한 9개 과제 논의 - 뉴스타운",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvOC1xSm1qZ0VweTJTaVNJNWt6QXdUR2NFbTZELTlIMHV4UjdVMllsRnlzakpLLWw0YXNNVWsyZkxoTDRaQWU5Qlkyc2RpbXc4dndMdnpXbVM0ZHFvWHpUOC1zNUxtQkJOczRnZg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T14:08:31",
+      "collected_at": "2026-11-01T14:40:37.522783",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "탄소중립",
+          "실천추진단",
+          "시민참여",
+          "과제 논의"
+        ]
+      }
+    },
+    {
+      "id": "713a4822239ebd5c",
+      "title": "충남신보, 공공기관 탄소중립 협의체 출범 - 충청헤럴드",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IOWF6OGR0eHV0akFwZzh4Z3o2OGtjWXpMWWtvV3RlNmFDN2RYemlER1ZzTC14R2pSdTFxdzJDSXhQaWlBZE1PckU4WUM1RGUxVndROXBLTkJ5VWQ2aXhsVGF3aGlOZVk?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T08:03:26",
+      "collected_at": "2026-11-01T14:40:37.522809",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남신보",
+          "공공기관",
+          "탄소중립",
+          "협의체",
+          "출범"
+        ]
+      }
+    },
+    {
+      "id": "752b54d6258cd25c",
+      "title": "대전시, 기후테크로 탄소중립·지역산업 성장 두 마리 토끼 잡는다 - 충청매일",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFSnMzaFdVR0N0VTZPTWZzVms5RmFyRFAyREFzX0x5QnFTOWhaOWNhVl93dWFINHd6aUtIa2xGVUlobG0xS0pnby1Jck1VT0M1bTk4MjdHV0N5YXNwTHVfM0RtTXA4QmdRaFE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T04:15:08",
+      "collected_at": "2026-11-01T14:40:37.522861",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "대전시",
+          "기후테크",
+          "탄소중립",
+          "지역산업 성장",
+          "두 마리 토끼"
+        ]
+      }
+    },
+    {
+      "id": "09571355c2f045f0",
+      "title": "인천 탄소중립 실천추진단, 시민 주도 실천 방안 구체화 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oV1NVbXRSNW5ZVTNrckZ6WWl6NE5qVFVGeVlIRUpuX1VheTgzMVhpbWU1ZS1XcV9SemxCWDhWYzdsc2JmWGNYR1BsUzBWR1EwSjdTVGQzNXlnSVlRMXdDNE9SSXUwcG12VDUxYjNzYVVXUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T10:19:49",
+      "collected_at": "2026-11-01T14:40:37.522893",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "탄소중립",
+          "실천추진단",
+          "시민 주도",
+          "구체화"
+        ]
+      }
+    },
+    {
+      "id": "b5c459717f2c5952",
+      "title": "인천 탄소중립 실천추진단 토론회…시민 실행과제 논의 - 국제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vTFVScmF2RGtwc2NNMGxWcmhNZURjVTNKSjA3Wnhfc3JDWE9EVXpYOHE0ZWtaZmpjZTc3Mzl0REpFX0F2TG13a0ZsVXh1VG45Z1BPWEpXRUFEOFc4RGxQSjZUZllNMkQyOTVNRVln?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T06:17:57",
+      "collected_at": "2026-11-01T14:40:37.522940",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "탄소중립",
+          "실천추진단",
+          "토론회",
+          "시민 실행과제"
+        ]
+      }
+    },
+    {
+      "id": "0ba9274d88d3aba9",
+      "title": "아산시의회 탄소중립특별위원회, 위원 역량 강화 교육 실시 - 뉴미디어타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JdzA4VUI2VXZiV1hsUEEzYnU0R0RsLWJ2UkVIbUVHWm5vVTZHc2QxbXR1TldDQy03WnJNOUUzU0lsakFtdUFESFN2YVNSRVVHSkJ3cUZlakdKTnZQVjg2eGlJWTNzQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T06:30:11",
+      "collected_at": "2026-11-01T14:40:37.522994",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "아산시의회",
+          "탄소중립",
+          "특별위원회",
+          "역량 강화",
+          "교육"
+        ]
+      }
+    },
+    {
+      "id": "31e2e6a5efcdd770",
+      "title": "국립인천대 앵커사업단·인천탄소중립연구·지원센터, ‘친환경소재·자원순환과 글로벌 파트너십’ 공동 운영 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tOVM3SlY4Q0YtdjdWdW9tY182dmVYM1ctWHhBTW1vQUFxVGFDOG5vZlJvZkxXNWczTklzVk1TR2RpSUl0OG1HZGRKeXc1ajBCZFd0OUxmeW1JRkY2aDJhWjN2cFhmS1Rla2lhNUZn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T01:45:58",
+      "collected_at": "2026-11-01T14:40:37.523048",
+      "keywords_matched": [
+        "탄소중립",
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "국립인천대",
+          "탄소중립",
+          "친환경소재",
+          "자원순환",
+          "글로벌 파트너십"
+        ]
+      }
+    },
+    {
+      "id": "995143fb80bc6caf",
+      "title": "충남신보, 공공기관 탄소중립 실무협의체 출범 - 충청도민일보",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DZlBXcG5BS2VCOUpQRHYzNmV3bXQydUNlMW9oVGMxOUxZWGxxb0F6eHhqSDN0WFh1VnJ3TzFYbXB0eEdzZmdTUk03RkEwazhCbFR5cGVWbEM0aTI3UkZpT1dXNkZiQUtfcWhoQg?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T06:43:35",
+      "collected_at": "2026-11-01T14:40:37.523072",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "충남신보",
+          "공공기관",
+          "탄소중립",
+          "실무협의체",
+          "출범"
+        ]
+      }
+    },
+    {
+      "id": "af58b8a26c323356",
+      "title": "호주 재생에너지 시장 열린다…K-녹색기업, 수소·AI 기술로 공략 - 재외동포신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MaWpNZXZLMk9IMDFnWlh1SzQ4bXlVclZLcWdWQUtTcW9ic0lnN25hZDFUVURFX0lHcHAtMm9sTm5iQXFQVDYtR2k2Vy1KVUNxenBYeURBQ2Z1R0EtN3FOTzFjRldJV2ZzZHNlVA?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T13:28:12",
+      "collected_at": "2026-11-01T14:40:37.623816",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "호주",
+          "재생에너지",
+          "K-녹색기업",
+          "수소",
+          "AI 기술"
+        ]
+      }
+    },
+    {
+      "id": "a0ff830173d7c1ba",
+      "title": "이행도 특별시의원, \"농어촌공사 재생에너지 보급의무자 지정 즉각 철회해야” > 뉴스 - 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YX0labk9Ibk00alJZdVFlejE1NmVobldmQVpTczlfSnNseHk2dzVXLVowQVI2TUZjVzdNRE9IRUNkU1Z5NGJvYVFaLVE0ME1ra05EZ3BGSldtNEVGQnNWY05vLVAzUXlGcU5OREFpTkwyUQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T14:02:00",
+      "collected_at": "2026-11-01T14:40:37.623855",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "이행도",
+          "농어촌공사",
+          "재생에너지",
+          "보급의무자",
+          "철회"
+        ]
+      }
+    },
+    {
+      "id": "fadc54117214e06a",
+      "title": "저압 케이블 시장 2035년 전망: 재생에너지와 데이터센터가 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVTA1QXExYksxcDNnTFhqd0JWZWlFaS1uMVlYdkpNQkxnSnYwdG1HQ0lCcmJLd0FwTGJKZ2xFYnV2aU5UbDBiSVc1UEJJMUZSYmdvMlQ0a2NZVU84ZUhUUXctdGdKYjEzREFVem9rQUxIZ29VRWRER0toWEJraEJOS0t5cGdZSEV2d0stOTVLNk1Qd1dPWkkwVy1FWVRjbjN1WjlEY1JWWFNfQVBkM3haZUtiVjBKcXo4Z0NjM0ZaUFJrS09DS3JuZFd1M3FPS0Vz?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T11:46:04",
+      "collected_at": "2026-11-01T14:40:37.623891",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "저압 케이블 시장",
+          "2035년 전망",
+          "재생에너지",
+          "데이터센터",
+          "성장 견인"
+        ]
+      }
+    },
+    {
+      "id": "67979006f9785746",
+      "title": "담양, 재생에너지 공급확대를 위한 ‘RE100 산업생태계 구축 규제혁신 업무협약’ 체결 - 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Kd3FhejcwdG9NdUNXTDgydXVkczFiMFhRb3NYWmZ2dk5VT0Y1WlZPMWhnTjBNbGhpb0pXMkxOTHBjQi1Lelk3UWxLY093TWhqU3IzQTdJbkhwVmNVYlh3NGIzYUFfRURYZ01vNEln?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T05:29:35",
+      "collected_at": "2026-11-01T14:40:37.623924",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "담양",
+          "재생에너지",
+          "RE100",
+          "규제혁신",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "2cdb098b40dd2fe7",
+      "title": "서울시, 최근 5년 심의 건물 '신재생에너지' 생산 늘어난다… 서울화력발전소 연간 발전량 1.5배 - 국민기자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96RE9MSUdWYjZDOFRBUmJvcW5DRUNzVGtaVTJIM0VCSjM2VGIxa3hycjhvdDlnamdodjdnbnBnREJNMnRPakkxdXp0dlkyMEJUZFJmMjNqNE5hY2RZc250SUd4dFbSAWdBVV95cUxOY2hUYXZwYlZhWF9tM0pZeGJYa3gwV0plLWtPcVE2aXZ3NjhMWEdrbTNpamVNRl9rX0tVSEpLTGtlOW5vOTBfNEFYcjZrV2JqN2FobWZ6Tml2aU1NeENsNkJWd0w2MllZ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T02:00:00",
+      "collected_at": "2026-11-01T14:40:37.623957",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "서울시",
+          "신재생에너지",
+          "건물",
+          "생산",
+          "발전량"
+        ]
+      }
+    },
+    {
+      "id": "6ee6fda96b98666d",
+      "title": "[ESG시프트] 친환경 기술에서 에너지 전환까지···현대건설, 지속가능성 확대 - 이뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyZUZXWHdkanB5WDhic1VXbkdZU0NxZjM4amtrTkFLbTVtQTN3OFpGS1pwUFlyR0huakFzR1dzOWFNeE51cVlObWFlaEcyRlpndGxMeWxVZEFxc1RGM1p3YXFfTVZtQjdfNEdjbXRteVrSAXRBVV95cUxNRjVaQUVkZnNuSjdBR2Z4eHAwT2F1SGQ3YlE0dndPbEpwdGtoZlpBNkNBbXpzX2hpTEFieU5YWVZKY3JSRWNjcHd5eHVya0czY2pSQjV0VzNDUW5mcV9aaFo0ZkRQRXVGam50TU9JRE84bjFRNQ?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-01T06:37:09",
+      "collected_at": "2026-11-01T14:40:37.624721",
+      "keywords_matched": [
+        "친환경",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "ESG시프트",
+          "친환경 기술",
+          "에너지 전환",
+          "현대건설",
+          "지속가능성 확대"
+        ]
+      }
+    },
+    {
+      "id": "9de95a408adf53fb",
+      "title": "농민들 ‘기후소송’ 응원…재판부에 편지 보내는 시민들",
+      "link": "https://www.khan.co.kr/article/202611012106035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-01T12:06:03",
+      "collected_at": "2026-11-01T14:40:38.549004",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후소송",
+          "농민",
+          "한국전력",
+          "시민",
+          "기후위기"
+        ]
+      }
+    },
+    {
+      "id": "c4ff73c265349925",
+      "title": "We'd Be Entering an Ice Age Right Now if Climate Change Hadn't Terminated It, Study Suggests - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29JSHB4d2hkcjhJbDRTNThUSFYtd3RwSnVDbHdNa2c0bmVNQ2VFcnN0TUhPdVhiZllCdFh3VWhpYm02UUdqLTUzQjRhaGQyZ3pWYWdRSHdZUHdXdW1zcmdnUXR0T3E1VlM5VmZtQXJGOGxXT1duOEdNajlJcmd6QzVhSXdJVlVlYl9JdW9kTXFOV0hDQ1gyZUplRUItc19PckREblVoTjFzX01BaUVLUnl1Y2g0NEJzdXc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T02:02:35",
+      "collected_at": "2026-11-01T14:40:39.202012",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "3d2a3720e22616bf",
+      "title": "On the brink of ruin due to climate change, Pacific Islanders know who is to blame - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemY0S0x4aU9kbmEtaDFtbXV2RWVlcktUX1FxZW1ldnJ2OWZVVzFpaDFadHFLU3NscDkwbnkwc0gxcVNMWG9OZEtPeTllLTM5eXdBSjlYV2VoNUJtN0pzR0pLc0tfRnp1SUh6QThIWHpZWkFtaHRoa0g0TEN0cnBsT3RRTThpR05xTlplTC1yX2FFaC1ESW4tb3pNQmkxQXV2THJyRA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T14:07:00",
+      "collected_at": "2026-11-01T14:40:39.202074",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 파멸 위기에 처한 태평양 섬 주민들, 누구의 책임인지 안다 - 디 인디펜던트"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "태평양 섬 주민",
+          "파멸 위기",
+          "책임",
+          "피해"
+        ]
+      }
+    },
+    {
+      "id": "6bfd872b44fecb06",
+      "title": "Can AI Save The Planet? How Nine Innovators Are Fighting Climate Change - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOUdVaEJWdWIzV0Fsb20zNDk3SmUxY2pJWUd3QVJsT2JMZzkyMkFUUll6RmNkZ3hubEQzeXZTdVF5eTF1ZG5kRUsyX1lrdW1ORUx5REY5LWJrNDJGc2xOY3BWUDUzT2N0dGxScFVDTGlUeVQ4TGxPQ0ZHWU54elJOZTY4TmgyWVhwdTB0U09KZ3Z3TXloX29mekJmR1pPZmpwTGEyR2hxLWFlN0NTSlFpbnlfeGg4NWxuWXZvS1E1MA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T12:00:00",
+      "collected_at": "2026-11-01T14:40:39.202153",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "AI가 지구를 구할 수 있을까? 9명의 혁신가들이 기후 변화에 맞서는 방법 - 포브스"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인공지능",
+          "기후변화",
+          "혁신가",
+          "지구",
+          "포브스"
+        ]
+      }
+    },
+    {
+      "id": "491cafe3b638489b",
+      "title": "Measuring the Elements of Climate Change: Environmental Justice - New York League of Conservation Voters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejlXcHBzZ25SMDNQek4tMlJJNWdmZ0pwWEl0YXRfaFpZYUU3aXJWVkFtR1hxaUNQTUVTejduWXFXaFBHYl9IajF6TzRKa3FzTVhyNTNNYXdGVEIzdDFqUVFqVFZGSEpZTzBCaC1zOGZadGJjeXI1dlRmZVZfRGs3ZXRaWTYwVUpsNHd0QmpIdHp0X1RZ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T02:58:22",
+      "collected_at": "2026-11-01T14:40:39.202324",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화의 요소 측정: 환경 정의 - 뉴욕 보존 유권자 연맹"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "환경 정의",
+          "뉴욕",
+          "보존",
+          "측정"
+        ]
+      }
+    },
+    {
+      "id": "f2ce877242e51e61",
+      "title": "Corporate accountability: A must-have with climate change | Opinion - FSView & Florida Flambeau",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnhpcW1jTlVhX1V4ajhSTG1xS09FQW1rWThnblJLYzNURlB1cTZTcm9TVVVhY2hzc0FCTy1pQ3VKM3Q0WkJVdFJHNV93dUtlSUpFMGVsZ1NUdVVHazJaY3dIaDFUOFowd2QyLXhBS1BjYklUaTBWTDNGTi1hWXRsS2p5VTc0d2QzVG5SVEpvRnB0a1RPNUdHa251YW94VVBMWE5VQm5QckNxOFdpcHZwS3pEbkxpdzdmTFc1bnBR?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T14:01:00",
+      "collected_at": "2026-11-01T14:40:39.202356",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4cab27ba0917085d",
+      "title": "What US states have experienced the steepest temperature increases from global warming? - Sustainability Online",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWh3QnRpb0tEMmpSeF9WVkx3bmo2YTNxa0d0X0lsYmtscU9IRTgtaWdzUUMxaEltaDgxbUJSZ1N6MjJLOUtxbEtSZmFmTERWZGZLQzlBRDhuY1JLOWJ6NHBfOE4wQ3MtRGR3Vm8tQ283TkQxb1h2Z1NtLXNQMXBfbDlqZkxZcDJjeHR2dFRMNEZoeGVkMUdobVJzcGR0Y1RtN3ZXNTNnR1J6bFdWYXRHTjhCcS1mbHF1OWttcVFNT3RBT2s?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T13:38:01",
+      "collected_at": "2026-11-01T14:40:39.202625",
+      "keywords_matched": [
+        "global warming",
+        "sustainability"
+      ],
+      "translation": {
+        "title_ko": "지구 온난화로 인해 가장 가파른 기온 상승을 겪은 미국 주는 어디인가?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국 주",
+          "기온 상승",
+          "지구 온난화",
+          "가장 가파른",
+          "지속가능성"
+        ]
+      }
+    },
+    {
+      "id": "0a375b9645ae805d",
+      "title": "US is a big reason for the world losing ground in the fight against climate change, UN report says - Hot Springs Sentinel Record",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdG9lV01DYnRhSWVneXZCTWxQRFBOUHF2UFZXV0Z3Zk5sekRwTHVEWDZXVnBJQWcyYk5mTXZaVGNqbkxvVkRPS25uVW11Zno1WDZLNXlpX0hUNXU1a2lndFBqWkNsX1psVmRnZldwbERLU2NhMG0tOUc1clI3dE9pa0ZvbGh1WnI1dTA5eUNyWnpxQVU?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T10:00:00",
+      "collected_at": "2026-11-01T14:40:39.202746",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유엔 보고서: 미국, 기후 변화 대응 세계 후퇴의 주요 원인"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "미국",
+          "기후 변화",
+          "유엔 보고서",
+          "기후 위기",
+          "주요 원인"
+        ]
+      }
+    },
+    {
+      "id": "ac9f272e865f1a93",
+      "title": "As COP31 approaches, a stark warning: Climate change is killing us - Pearls and Irritations",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDUwZG9sS2hKeEpVeG5pS3YtMUU5R2Q3dXh2REJaR0hvSFNnZW9PVVpfTFQxdEhKQ0RkRUs2UHRHODBxV21ybXRvUTJCVkdiZnpfVDFoRFZxUHZoVXBTX0FMcnBwWldYWEE1emRnbnpUc0t2bkN5ZUZRZEFtbVVtaDBxNklVNm5DbXc0QWVIWmNaN3lJcjRkTHdwTkdyVzZtRHVXLQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T13:54:19",
+      "collected_at": "2026-11-01T14:40:39.202985",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31이 다가오면서, 강력한 경고: 기후 변화가 우리를 죽이고 있다 - Pearls and Irritations"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후 변화",
+          "경고",
+          "생존 위협",
+          "기후 위기"
+        ]
+      }
+    },
+    {
+      "id": "7b05b8b637f50c46",
+      "title": "Brazil’s Lula to attend COP31 climate summit in Turkey - Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQak1lTmc3VFdlYXRzMEM5N000b21jelhJZjh6UlVFbGlUTkdJVklEdEF6WEJoRXdVNGFERmZWakhiTHNFYWdxTlZSeE5LNERlU0drZ2ZOYWQyVkl6dnhsdVpjcll0SmRfV3Z6YlN3bVQ1ZVpEZDVHdF92aUpoM1ZHX05SajNQSjN2bUJuak9TWFpIdEYyOExRMXp30gGfAUFVX3lxTE9kOEx0b1AxdGVuaDNTOTFlbzVnc2tzbm5xYjhOcTNNdTdEU0MzdWhsbGFhVzQ3UXBrM2tlQXlaUjl3c0tua1ZaS0haemlLUU5jVDN4NDBLVXZSUTJVU3Y5RVRaSlVaRGRrazBONDNmNGZVUkxYNzV2U1lkbnBSSUVBTldLQ2xJNlZ1N3poZy00R0lfNGxSTTdfN3VRTWd1SQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T10:37:00",
+      "collected_at": "2026-11-01T14:40:39.203221",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "브라질 룰라, 튀르키예 COP31 기후 정상회담 참석"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "룰라",
+          "브라질",
+          "COP31",
+          "기후 정상회담",
+          "튀르키예"
+        ]
+      }
+    },
+    {
+      "id": "c2dc27c4c61d05cd",
+      "title": "Extreme weather: Africa's rainmakers face violence as climate change frustrates farmers - CNA",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS2laaDN3MVRsa0VFTXhSQ2hBTlJlUXZDRWZOOXM2WjJ1eXlsYll3YjFsZTZ1REZoWThlUldXSk9Sd0E1cjlQX2RDNndZWVRtODVQVHo1anBrYmh1NkJhOHBDVFVLc2ZOLTNucGU1QkxwVFN1N1VQS1VPd0tVVnBQUkZnN0ZZcEtZYks2OVFZaG1ZbGwwVXRrbzEyVXVYQk5rUzdMYzNmRzZGcU5kbk4xOWd4Z3FjWjdzUHFxc0pKUnBwd0lZSkRN?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T12:40:00",
+      "collected_at": "2026-11-01T14:40:39.203990",
+      "keywords_matched": [
+        "climate change",
+        "extreme weather"
+      ],
+      "translation": {
+        "title_ko": "극심한 날씨: 기후 변화로 농부들이 좌절하자 아프리카 강우술사들 폭력에 직면 - CNA"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "극심한 날씨",
+          "아프리카",
+          "강우술사",
+          "폭력"
+        ]
+      }
+    },
+    {
+      "id": "7c1a1ab7f1a2235a",
+      "title": "Climate diplomacy meets frontline reality: AGN opens COP31 strategy session amid urgent El Niño warnings - EnviroNews Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZnFZTlhzbWRneFZUb0k5czk4cVgyRHNiMGhGMFJTSGlvd2xOcHU3NE16TlR0R1g5Q05KTWtnQk41WjRPUWxtNWRRc3RTZDhqY0hvRklxd0d0dFZsZnF6U0RGR0FFdFdmYWFCQ2Y5NUwzYlVIdFQzbDdUN3poaWVveXZORjVIUkNiU2dVUm1GNDMyU0hVcGlNSkZrLVpEZVhHd1pOQlQyMHIzZUVCd3ZCTW1nSWxjUHRhRml2X3lwUEpjRDZTVWNpaDZzNm95endjZHRDRg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-01T13:24:31",
+      "collected_at": "2026-11-01T14:40:39.204324",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "기후 외교, 최전선 현실과 만나다: AGN, 긴급 엘니뇨 경고 속 COP31 전략 회의 개시"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 외교",
+          "최전선 현실",
+          "COP31",
+          "엘니뇨 경고",
+          "전략 회의"
         ]
       }
     }
