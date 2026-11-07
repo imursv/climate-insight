@@ -1,16 +1,16 @@
 {
   "date": "2026-11-07",
   "metadata": {
-    "collected_at": "2026-11-06T15:48:07.489097",
-    "total_articles": 148,
+    "collected_at": "2026-11-07T02:43:46.622325",
+    "total_articles": 196,
     "sources": {
-      "korean": 115,
-      "international": 33
+      "korean": 131,
+      "international": 65
     },
     "sentiment_distribution": {
-      "positive": 100,
-      "negative": 13,
-      "neutral": 17
+      "positive": 115,
+      "negative": 23,
+      "neutral": 28
     }
   },
   "articles": [
@@ -3744,6 +3744,1182 @@
       "published_at": "2026-11-06T09:12:35",
       "collected_at": "2026-11-06T15:35:25.619714",
       "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "e04344e331a13537",
+      "title": "[해수분해] 바닷물 1.6도 올랐다…기후변화에 맞서는 수산 연구 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EV2lCdnBobHZpd2FtN2FPNjJfTDRrX2s2NHdtRzluVzRIeVA1LUJGTjBzWUxMVUJXZXhxUE0xS2dRckw1M2E4RXh2V3h5RHNYenl3Ym4ycEt1cDTSAWBBVV95cUxQTVZSYV9pNnpKNVFueWpmZ1FsOEdJMzJyd282OWdDS0JmS1FoajF0TVRLcDV6Z2ltbkFzVjlPT1pTdEFsUUh1VkxHNmxXTUhrTmd5M29WWW4yOGgydlZGaW0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T23:00:06",
+      "collected_at": "2026-11-07T02:38:02.774398",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "바닷물",
+          "기후변화",
+          "수산 연구",
+          "해수분해",
+          "온도 상승"
+        ]
+      }
+    },
+    {
+      "id": "8de77eb2ad92c2ee",
+      "title": "韓-동티모르 정상 “지식재산-기후변화 등 협력” - 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zcnZCcTVwekpjLVZST3RHRG45eDZlTTNTZmxScWdnWEdhNlRrUEVmc3VSR1F4eHFmSE11WkhHMTRvOW5LT1BCOENGekh4d0xILWVoUExDRlY4eVRRQWo2aExmNHZfSGJHTUc2V25HS1J3UWIzaEtn0gFmQVVfeXFMTU1YZzZKTDZ5V0t4Z3lxZDBSbWZ2SnVRVGxSS2pnVVRveFNhVU1mMmhxdEFjXzR0czJQQkItcXJGeVZtLXZKTy1jemY4SGw3M3FsV2VTMmVFdmFScHNJSnFlRS1NbjhB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T16:40:00",
+      "collected_at": "2026-11-07T02:38:02.774427",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한국",
+          "동티모르",
+          "정상회담",
+          "기후변화",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "a77e1b245bbd1394",
+      "title": "[표지로 읽는 과학] 스라소니, 먹이 줄자 솔개 새끼 사냥…기후변화가 바꾼 포식자 관계 - DongA Science",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsTG0zRHgzV09NZVJpSjd3bjBUaEpvSGpHcEN1YmxxSEZUdVJvNmpFU2xaN0J5M2Y4ZXlHanpmZGVmQVNmUWxXRjZLZmFiMHJRV2xzUw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T23:00:00",
+      "collected_at": "2026-11-07T02:38:02.774477",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "스라소니",
+          "솔개",
+          "포식자 관계",
+          "먹이 감소"
+        ]
+      }
+    },
+    {
+      "id": "2774b5d5a1fc1cc7",
+      "title": "우리금융, MSCI와 기후변화·AI 대응 위한 금융 전략 논의 - 아시아에이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aaGI3bFRpREJMSl9LYXU3UVByZUFLVnB2X3ZtaC1MM3BKbGdqbHp6NUNrUExIQWtSQXdwbVRCdkFPWHlJMC11S1ZaN2VXQ29KeXcxWkoxczVvczEtWW9hWW9IelVPN0JWZUHSAW5BVV95cUxOanFsWGMtejYzT3REazZqYW9wWnRDWkxHTldIY1Bjd05oXzR2cnowZjdMajZ6bVlxWjZkc0NSczN6OWFWUEtUTG5mc19rb0R4ZlJkWXNUZWtwcUhWNGlVZ21qS1kzNVBjbkFhaEFaQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-07T02:00:00",
+      "collected_at": "2026-11-07T02:38:02.774501",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "우리금융",
+          "MSCI",
+          "기후변화",
+          "AI",
+          "금융 전략"
+        ]
+      }
+    },
+    {
+      "id": "3cf6cd8d62a69afc",
+      "title": "11월 7일 기후행동 기회소득 퀴즈 정답…모래 채취와 기후변화 - 비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJUzRYTTJXLVVSSFI1YWpVZ0N5LVdUNlRNOTYyX19TWWNVZVIxR29NRXVBdS1ldFZPVlotT3VaM1V4UDFYNzhsOFFrX19lMFJKRGVNQS1TQWp6eEtKQmNISFc3Z0didw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-07T00:23:11",
+      "collected_at": "2026-11-07T02:38:02.774609",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "모래 채취",
+          "기후행동",
+          "기회소득",
+          "퀴즈"
+        ]
+      }
+    },
+    {
+      "id": "21c9f19d332bc357",
+      "title": "여수광양항만공사, 지속가능경영품질대상 수상으로 ESG 성과 인정 - 뉴스프리존",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZldYaVFXUS15X3pLWUFDRVlXWEtfLTVMUEN2Vm5TOG9NV2tzOHFoM1R5NGgyaWpUUVQ2Z3owMUFoNTJsOHZYTFo3ZG1jTjlYY2t1b1RqZzNCTHU3MnlDVHowcUhNMVlnLWl1LWFUYmdhUWvSAXdBVV95cUxNMHpOdHNHWk1BdkxVUHI2YS1PakVyM2ZQZ1VlamdXa0xHZmpiQWl5VXMyRXA3LTZCNVZlZEdsd1EtUTBJOXk4bU8wYlp1T2tpZ2o0SGNBdmczbUtBVnlDdXV4bUZNc1hrWmlxZ0hWV0tpREdURWJ5RQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-07T01:57:56",
+      "collected_at": "2026-11-07T02:38:03.481970",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "여수광양항만공사",
+          "지속가능경영",
+          "ESG",
+          "성과",
+          "수상"
+        ]
+      }
+    },
+    {
+      "id": "d3d9b24918837a12",
+      "title": "IEA, 재생에너지 4800GW 증가 전망…에너지안보 부각 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lNDROYTVqamRWY0pCUDFwLTBkWHZBOUtaRUtPRC15TTBwenVCNGEtTjlXS0dYVDhqRUdMVGlSaHFjU1NZMTh6OXVkLUJzVVRsemZacElUbDZTYzBBX2UwS0JDUlM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T20:08:27",
+      "collected_at": "2026-11-07T02:38:02.748132",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "IEA",
+          "재생에너지",
+          "4800GW",
+          "에너지안보",
+          "증가"
+        ]
+      }
+    },
+    {
+      "id": "c24560a671512acd",
+      "title": "블루웨이브에 파랗게 질린 AI주…신재생에너지는 날았다[김근희의 증시랩업] - 머니투데이 - 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VMGlKU2pJNEx3a25icVBIeWotNi05MExzWmNzbGlGeHNyY0UzRmZTS2NTc3pZWlR3TS1FaDRHN3B4akhhLTdWZlJwemo3YklNdkY3cnpsdzRabkpvN3pLbFhMYVFpZ2tG0gFuQVVfeXFMTlUxc3o4dE5CQjN4a2ZlRDM1bnVPdHExdG5TUmh1YVlnZkRScEhuNXAyTS1qWTlVeUdqdmxtb2paZlpITDFXc0xwUWREMlh1ZExUZ3BGbUw2N29kVG1tVm9OZ1BBbXRncnlTUFlKWFE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T22:00:00",
+      "collected_at": "2026-11-07T02:38:02.748153",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "블루웨이브",
+          "AI주",
+          "신재생에너지",
+          "증시",
+          "에너지"
+        ]
+      }
+    },
+    {
+      "id": "8427ea95da340999",
+      "title": "전남 재생에너지 전력망 확대…여수·광양 산업단지에도 실익 돌아갈까 - 뉴스후플러스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83T1N2djkySDRwWHV2VXVGaXFfQUFBX3dpVzA4cEVaYlJzSVBYY2dYeV9NMkRJbThVM1hYejVNLTA0QjhnWmItUXVDblFYRG9wMy05aTVBRDVsWVJIZzhQNm1EVjMxNUpTNnZBbDdn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T21:00:00",
+      "collected_at": "2026-11-07T02:38:02.748195",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전남",
+          "재생에너지",
+          "전력망",
+          "확대",
+          "산업단지"
+        ]
+      }
+    },
+    {
+      "id": "0b327ebeb07d29a9",
+      "title": "주민 참여형 재생에너지 확산 - 투데이타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1MQjg4R3ZrbkFPVFdEQVpCX0U3dzBfZFlYSXhrS3NuZXRWeG1QaWtRcS10Z0FyYnpmZDhHY0ZSN1R4ZG8?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T23:58:57",
+      "collected_at": "2026-11-07T02:38:02.748240",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주민 참여",
+          "재생에너지",
+          "확산",
+          "지역사회",
+          "에너지 전환"
+        ]
+      }
+    },
+    {
+      "id": "370a3eeaf4bd84c4",
+      "title": "재생에너지 숫자 놀음에 흔들리는 반도체 전력망 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53RGljTVNFbkJaQWJ1ZkZjTEFFN0sxeFRTbWtIMmFSazJhT0c3d0Y2S19iWTNpdFdEOTYwQjBmOTZfNGRvZzJjd0NxbjFCLW85dnM1ZWxzLVJ4a29WaEtpNGhEVGE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T21:16:45",
+      "collected_at": "2026-11-07T02:38:02.748352",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "숫자 놀음",
+          "반도체",
+          "전력망",
+          "불안정"
+        ]
+      }
+    },
+    {
+      "id": "f7e97c6e948954c8",
+      "title": "중동 위기가 바꾼 에너지정책…재생에너지·원전 병행 부상 - 에너지안전신문",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tMHYwdzE0eEY1UnY2M2RQVW5Qcmk3aU44WEV5VXhyd3lsYTRVMThMTnlqWFVFY185MFZhLURGM1QtOTViSUNyZTFCWk1BUlhhSWt5UWJOWFUyTkNfYXhDVjB0TE0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T21:03:47",
+      "collected_at": "2026-11-07T02:38:02.748365",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중동 위기",
+          "에너지정책",
+          "재생에너지",
+          "원전",
+          "병행"
+        ]
+      }
+    },
+    {
+      "id": "1257202779344f89",
+      "title": "재생에너지 통합 맥락에서 스마트 그리드 개발. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGtKa0Y0cmQwZ3lWS0VLM29EaWFybzFMdFJhZDBKM0I0bWVIb3NMT3cyb0NHZUNjS055YVVmbGNhOTE5N3Q0dkhoRWQtYmJ0cGVNY2V2blBXV0JlRDh1bWxnWUdnRk9sVGZCY0lWb2JMSzNYTDdXc3dtYkMtU2xjSGFzQ3pMRncxQUozVjIycEJLeVNvRlZHTkl0elROLU5CM2c?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T21:39:17",
+      "collected_at": "2026-11-07T02:38:02.748399",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "스마트 그리드",
+          "개발",
+          "통합",
+          "베트남"
+        ]
+      }
+    },
+    {
+      "id": "f9044979ba7192ef",
+      "title": "RCD 테스터 시장 2035년 전망: 재생에너지·전기차 충전 안전 규정이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRS1pLU15WnU2d1hqRTBreTdUTzBRRmI2cmNySmRYOEtuSmtaVEs2XzEyS2hmR1VkME1QbzZST3h1Z294YjJRYkhPekZSTU9YZ3NMdnVySklnRU9QU3ZwdHRrX0szQUhqZ0t3R0xSY0oybWZoRjlYejhrZkNwSmFSRy16OGh3RkdvZ1F6dmZBUHFMNTk0a3dxWjFDT3VMVDFRRVBFUXFKXzFhbXhZM0x5T0hsY2lhaXRRQWozUGdtQ0c1UGV1OG1ZS0VxdTR0cUZnbWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T19:01:04",
+      "collected_at": "2026-11-07T02:38:02.748417",
+      "keywords_matched": [
+        "재생에너지",
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "RCD 테스터",
+          "시장 전망",
+          "재생에너지",
+          "전기차 충전",
+          "안전 규정"
+        ]
+      }
+    },
+    {
+      "id": "d2c4ee8f8042600d",
+      "title": "전기안전공사 ‘대한민국 솔라리그’ 장관상…태양광 발전설비 신속검사 지원 등 공로 - 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYjBXUGpIWGpHMHktTjRZZUtUX0dzaUxDRFRqRFMtY3Jvb2xNZDd0TzhaOE9FbExXMEZwRTh2QUpHYU1ZWUNBZDhqc29LQVFxcmRiUHMxMEUtQXlrZlo0elpJbFM4U0lwX1pURGVMYVJ0RHlC?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-06T11:43:29",
+      "collected_at": "2026-11-07T02:38:02.748577",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기안전공사",
+          "대한민국 솔라리그",
+          "장관상",
+          "태양광 발전설비",
+          "신속검사"
+        ]
+      }
+    },
+    {
+      "id": "6e707ad98688c35a",
+      "title": "심장은 더 뛰어! 무릎은 그만 뛰어!",
+      "link": "https://www.khan.co.kr/article/202611070900035/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-07T00:00:03",
+      "collected_at": "2026-11-07T02:38:03.669095",
+      "keywords_matched": [
+        "친환경"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "러너",
+          "근골격계 질환",
+          "달리기",
+          "부상",
+          "기온"
+        ]
+      }
+    },
+    {
+      "id": "00e357a2cdd86671",
+      "title": "AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming - 10TV",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRHRwdVJIa3JsUG1aQkRVbUpITkJ0MzY0Nks3SmJnaHpuZ3gwNG5VazJuQUdPb2habTVxd3V6YzlWSDhvWFNUTmV4SUpXazRFMjBOVWx3aXhHUkdoNmh6ZUJtYThoelk2QWdJSDVwYzUzUl92OGRTVTJrazRXRnZFU0hlNkxEVFpnNzVZd3h2NlBuYXZxT3NWRmFBeUl0bmNDcnJ4aWljQk5vTWE2NHFQNUFjUzBqZG4yNDFjY1Bva0dMR0Vob0RqTkFPVEd3bVdtX0RReXNQdnVscnFCMlRiQjZSLVgxbm5NN3didHlXdDRKUEkzRFRqT3RaUloxc00zcHZJRV9Vczg1WjNQRWlPcm04RnA0LTVOamc?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T02:01:00",
+      "collected_at": "2026-11-07T02:38:04.120941",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "84a4edc6eee61a87",
+      "title": "How Climate Change Is Turning the Arctic Into a Trade Pathway | Video | Amanpour & Company - PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenhzM3RfYldDTUk2aUluY21VSWx6M0xJeHQtZGR6a2JkRFo4MF8yU0hWbnJrTm8zVm1DNDhHWlNhWEczRDR6X29iSDBIaFk1c083THVKenlpUE9hRUVyZ3prdENSdEp0OHJGQWhBb2lZbHVMTTZMZGNwUjNrZWFqVWY5RW95Zy1md0hLdWdZeWtTVFdGb3YyMm5aeGZHMDkxeTJCUDAzSzM1Vk1QNG1XWTB0YjNYaC12cldFRC1n?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T16:15:03",
+      "collected_at": "2026-11-07T02:38:04.121032",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 북극을 무역 통로로 바꾸는 방법"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "북극",
+          "무역",
+          "항로",
+          "해빙"
+        ]
+      }
+    },
+    {
+      "id": "c23b6c72ddd0e464",
+      "title": "Forecasts Say Super El Niño Will Accelerate Climate Change - The Inertia",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQU42ZXZlNmZCeFhiU2NsNUJ6djVXeS12NFEwdlI0YXJxVzkwbG9yLXctNnhtdy1XbTg4eEd3NWJjZkN2MGFrbVBpam93MnRPN3U2R3IwQW5XMV82ZGtHcFJycU93SW9nbTFaRC1IZzRIa2IwZTNxN3lDT2ZLUXlPLTczY1I5VkhOa2Y0WHpEYXhPWEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T18:53:17",
+      "collected_at": "2026-11-07T02:38:04.121049",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "예측: 슈퍼 엘니뇨, 기후 변화 가속화할 것"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "슈퍼 엘니뇨",
+          "기후 변화",
+          "가속화",
+          "예측",
+          "엘니뇨"
+        ]
+      }
+    },
+    {
+      "id": "2b5285829233cffb",
+      "title": "What is climate change? A really simple guide - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCS2FMN09MbU5nUWxsRm02MDZpUm5aX3Q1YlZLMS1KOGNVakZhZFdFbjNPV1dpSnJnOXJMX2VmXzZXOXRMNnZ1VGlpRTFkZEFWQVJUclB6eUgxZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T16:40:51",
+      "collected_at": "2026-11-07T02:38:04.121062",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화란 무엇인가? 아주 간단한 안내서 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "간단 설명",
+          "BBC",
+          "안내서",
+          "정의"
+        ]
+      }
+    },
+    {
+      "id": "6396012d801136b3",
+      "title": "Hofstra Panel to Explore Climate Change, Citizenship, and Democracy - Hofstra University News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanowMnp2LVVqaWZtZDhualVpN3I1Umx0Rk0wRGZ2dWp3T2ZsbkhWUFhNa3RjX0FKTnhOU1lfVTJtR250ak16Zk1rdmJjM3hPaGJxYkdJZlc0SDNYZFg5ZG5ja0J1VHlva2dRVkdQcXlpRzVtNEdBYVBiOGc3eWpnd3dVN1BLNW5vX1drUnd0ZHR1YVlUdi1TakJVM0QyTDJTUi1mZQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T20:47:28",
+      "collected_at": "2026-11-07T02:38:04.121078",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "호프스트라 패널, 기후 변화, 시민권, 민주주의 탐구 - 호프스트라 대학교 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "호프스트라",
+          "기후 변화",
+          "시민권",
+          "민주주의",
+          "패널"
+        ]
+      }
+    },
+    {
+      "id": "ca4a007ae39ab882",
+      "title": "COP31 and Climate Action’s New Centers of Gravity - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMzB6SWJLSV81cGFCT3ZrX1FjbFhGXzkwVC0xcmFSUklrLVE2c082aFBUaVowbUlqZ0VVYlowcV9pTnBpcll2M1pnUXVCRHJaR2hWby1SWkJkWS0xSTNhZEpoMVQxdnYxTndpcFFfN3Q1ak5WLURUMUtNb3NCMDVPWUgxaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T18:28:00",
+      "collected_at": "2026-11-07T02:38:04.121110",
+      "keywords_matched": [
+        "climate action",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31과 기후 행동의 새로운 중심축"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후 행동",
+          "새로운 중심축",
+          "국제 협력",
+          "외교"
+        ]
+      }
+    },
+    {
+      "id": "08d591a4b5ca73d8",
+      "title": "COP31 Offers Critical Opportunity to Put Climate Solutions to Work - The Pew Charitable Trusts",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVTZIblpZMUNmWnBuVTRHdWhkaG5Ga3Q1TjJJMGVnVGNwRGhPYlFuTWo3ZXhiUDJmckdKaXNzazkwb19GTHZLWE5WWU03MDdfTzEzTW1JdDBwU2FGQmxQWDh2LXlBQklpZm9qZnJZZUQ5NVlKbXlEWjhsdVJzZ3pUay1yWloyTm4xc3NLQ2x1ZW55eENEV09IVDNSTlRBMHFIU3VrcEUwQ2pvSFJWTkR4dDFjSVZ3QTRadnV6SjNQR3EyRnFBY215elNLQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T20:07:47",
+      "collected_at": "2026-11-07T02:38:04.121220",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31, 기후 해결책 실행의 중요한 기회 제공 - 퓨 자선 신탁"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후 해결책",
+          "기회",
+          "실행",
+          "퓨 자선 신탁"
+        ]
+      }
+    },
+    {
+      "id": "769de171998c1344",
+      "title": "Drought driven by climate change is redefining how disease spreads, study finds - news - Mongabay",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVnA4X0wxRklubEtQd1pzRUUzZHhMRjBldFhpeEJGOW92clhleGtHYWxZTlpWNHlHdElBNVhRQlRuQUtlQlhmcVBncGRDTDQ4TXgtVG5tNVFBWVJORTZUSE95RnZFUEFVYl9PTFBOSTcyS096bkNoWHVaeERaTmRMbFNJWE5aYXRNX0ZQdzRYdDN5V09MdkJOWmhYT1BwTDJPNVRTT3NxcXEyX3VxU1N0TTFpa9IBuAFBVV95cUxPRkhIa1hGU2FmUDgyczRvVlVQdE93UGNSeUQ1MWVyRlRMSW9XenEwdmhHOWNoM29tZThNYktOYzRRbV9zanY4ZjkwbWxvM082WnV6SWNXb3RFVU04c1AzWGdwazhnVHN6THVCXzhjRWp3MWRBdXhUQTJKZDJ2dFNVaEd2VGlNaHJIY256R0RTRDZSbndna2wxSkR3V1RCa1hvX2lIZTRiUF9HN1JtcUdRY0F1YWhlQ1F6?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T16:30:00",
+      "collected_at": "2026-11-07T02:38:04.121236",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8b1461b40d7d6ec4",
+      "title": "Climate change scientist Lonnie Thompson has died. See his career in photos - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNck81eWsyMlhzenpyWFAtR2VmOXRhMklWUE90TnkteFBDZGNSTm96dTRVejh2ZzA5RTNCLW1IUmQyaHdoeW5kWmRCUWl1cjJuSEJnQ3IxbFJQWGxrWXp0VENLRzVoN2JIUktSWGpWaHpkNzVpR0QxRXV6NjNibWE2UV93WlZZdm9TRld0NmE2YWcxY2lPMDZMb1lLUS1GbEpnMk5ialZXMDE4YU1XZEIzZ21kMXVRLWltUUJoQ2ttNUJwR19WaUlB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T19:57:00",
+      "collected_at": "2026-11-07T02:38:04.121308",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화 과학자 론니 톰슨 별세. 그의 경력을 사진으로 돌아보다 - 더 콜럼버스 디스패치"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "론니 톰슨",
+          "기후 변화 과학자",
+          "사망",
+          "경력",
+          "추모"
+        ]
+      }
+    },
+    {
+      "id": "f6e2095e653fc8ff",
+      "title": "AP Exclusive: Departing UN chief calls this 'a moment of truth' in fight to curb global warming - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPekFBTld2RXVUaVA3R29QU3psV1dlcVE1U1RTWkFldkQ3VlhvZGxySTM0TWdld2U0ZE9sNHlicFhUcXFpZ1p4SXBlZURObUtJVmpsdU43NTd3ekhVa3NhNFhrUUZCN0Q1c054MEZqQnctOTk1NzlTQUkzQU52VmdhY3dOT05FRVFNRUpfdkdwXzhYZw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T02:04:35",
+      "collected_at": "2026-11-07T02:38:04.121368",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "AP 단독: 퇴임 유엔 사무총장, 지구 온난화 억제 싸움을 '결정적 순간'으로 지칭"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔 사무총장",
+          "지구 온난화",
+          "기후 변화",
+          "결정적 순간",
+          "경고"
+        ]
+      }
+    },
+    {
+      "id": "f42927778ce217bd",
+      "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat - Climate Home News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSDNWaVhsN05DaWpoQjdoNzQ0a3kwSS1JbXAwOUo2aWZaRzFNaDJHNUx1LVZrSDRkNV9ZTEI2bDE1UG9UQXhLNXdkNlBBbUhUeXFRQWdGLVdrdlNyVkJzLUc0WXRLd1VEU3J6Mm83STZXUHh6OFJTQThrVDFtTWJPNUM0SDBxc1R1czZEMzVCbmRqYUR3QlVnNHVWYzg3ODBSLU1hb1dWai1JcWhhZUVB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T17:16:44",
+      "collected_at": "2026-11-07T02:38:04.121436",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f88a25aa0f43b300",
+      "title": "What Can COP 31 Deliver on the Energy Transition? - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVGthM1JlWUs2T2lTWEViaUV5WmdMdEhtc1lUQ2tuZkJOMThfdWFYZmYwaExRY0VYX19PNXpOdWdhUF96d2N4U2RwbUJPNlpYbGN1cC1iX195a3ZVX2FDcVpJaWx6THVXcV9tcGRyUXRVdUZxWmU5LVdQdXdQcGRFNEJoa3MweDg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T00:21:19",
+      "collected_at": "2026-11-07T02:38:04.121461",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7a208da089ac041f",
+      "title": "COP31: Responsibility means climate action now - Panda.org",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYkNwR05TaU1MWmJRTDBueU5QaWdLZklKMkhHTTZCYjMzSHVZamI4RDNYa0FJWGlhVUVpLWs3MGdsZ2lYUllOZGpnSkpfTmRuNkJkNm9HYlYyUEtCek1WR0Vpc1JfRjBVa3gtS180dVh3YllwTmd0WUJwRjcyY1R4UE9zZWNlLXU4Zno1ZFpibTBmSXYya2l4VUxiN2l1bl9FZWJJTnN0a1NKTVVMbnNiN1VpS0dUT01CNE1OX3BhM2luQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T02:08:05",
+      "collected_at": "2026-11-07T02:38:04.121503",
+      "keywords_matched": [
+        "climate action",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31: 책임은 지금 당장 기후 행동을 의미한다 - 판다.org"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "책임",
+          "기후 행동",
+          "즉각",
+          "판다"
+        ]
+      }
+    },
+    {
+      "id": "8dbd3c80f559b5e3",
+      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rLTh2YzdSbE0tc1BLcWtDdEl2TDlubXJWZVA2VEVTc1h1Tm9iVzdMVU14T1pXdm1ndTlBOVF2cTFLVXoyeU9adC1vWXhaY2RhMnBtR1Bfbw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T13:08:25",
+      "collected_at": "2026-11-07T02:38:04.121519",
+      "keywords_matched": [
+        "climate crisis"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "260656343a51acfb",
+      "title": "International IDEA at COP31 - International IDEA",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44WDd2enkwMTAzcUlNVHZ4dkpabk5lV2t5YmJUTGx1UGJGa2Rqb0thdHNCc0RBektrNlpKSkhWQ3JwNC1veE11dkNGWkdON0hMRG1mUXV0elV1ZXZnQUFBTGJn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T15:39:32",
+      "collected_at": "2026-11-07T02:38:04.121559",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31에서의 국제 IDEA - 국제 IDEA"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "국제 IDEA",
+          "COP31",
+          "회의",
+          "참석",
+          "기후"
+        ]
+      }
+    },
+    {
+      "id": "d55cd5944bd3f345",
+      "title": "Province announces climate change, growth strategy for farmers - CBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0JRV0lBbktRTlN4QzRnMHFNSkdTN2ptOUZDWTluMk9zNThyOHA0YjV3a1lwM1VaYXVzUzRtaGtqWDcydlh5NVppUEwzQ01Wa0FKZmxONnkwZTBNTEV0OXBiNTZrakNCTEJjZ1RwNUNSYUliSGdoWDJzZ29pSDZ2ZklzamZJaVdyTFJnbm9mMDZCaXNTRXUxRGl6Q21hUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T23:08:13",
+      "collected_at": "2026-11-07T02:38:04.121596",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "주정부, 농민을 위한 기후 변화 및 성장 전략 발표 - CBC"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "주정부",
+          "기후변화",
+          "성장전략",
+          "농민",
+          "발표"
+        ]
+      }
+    },
+    {
+      "id": "18e04011c70b41b0",
+      "title": "Did climate change help fuel disease during the Industrial Revolution? - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm16NkgwbUVpdExuVWgtWDF3enJSTTNHYkVxdnJqSjVKT3JTZHNkSm4xZDBUMWI3cFN2elpzTXlPeUlGTERmeVF3YkhJazR1X2FYMWdWV1pNRzlYMHlpSXBETmVJQ0VGMV9RVkdFZjJtTVNIUlFacjlkeENMOWlGbGdCSzFPR3lpOXJsSmI1UnE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T19:28:56",
+      "collected_at": "2026-11-07T02:38:04.121702",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "산업 혁명 중 기후 변화가 질병 확산에 일조했을까?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "질병",
+          "산업 혁명",
+          "역사",
+          "연관성"
+        ]
+      }
+    },
+    {
+      "id": "971ae3eddec29e3d",
+      "title": "Turkey to push for 'electrification' drive at COP31 as climate threats mount - France 24",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTFEem90UjBaZGptd1B4eWtlR3laTGhhSmdObU1uNEJaN2t4NTlzc1RORnBOaUxyZS1MNmxBbE5HRy1GOVhGZl9ZN3hKMnBGbHV4R0k0UUhCSjB6TXZWb3hJVTFmUzJPVlUyRC1XUVhqdjFfVGw1TEVMOHRMZXJhRnhSU1loTEQ1SlZlR2p2ZW5VeERfQnJMNWxtX0NSY3ZVNFlua0IzSzNjZ2kyRTh1ZVlpaTlhNkdFVEZIYTVuUC0?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T15:36:34",
+      "collected_at": "2026-11-07T02:38:04.121716",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "6319b97d50d288a8",
+      "title": "A Family’s Final Flight Exposes a Terrifying Question: Is Climate Change Outrunning Our Ability to Stay Safe? - Daily Kos",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPS2dYR3JWUmh3OVJRSFJRNUNxb1hzd2dFaDNMMFhENDgxZUxYSFBaRGJwOEJjSlVjS3pjYkh1cW5fNkpZVnJKZk1EVE5Ucm9BMjVDVVp3eWExN1J4Q0VyRmhhT2Ytb294QXE3RExnYVZjeTh1d1ViRUNSOG1pVElvZDI5UmE0eXVqbXRqQnNodEtsaWhYY0VLOVZ6TGFQQlIwbkVGdXRic201eUFESHMzeDJJcXRpR3BfSGw2b2FFcDd6MkVYYnh2Y1RPejA1cnpkM0d0Q0lKS2xfWWpSb3hFQzY4ZThIOXRVYU5KZ281S2NaQjRMaDZZMGlvVGVfZ2M?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T17:50:51",
+      "collected_at": "2026-11-07T02:38:04.121736",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "aaee600f54e05485",
+      "title": "N.W.T. government releases new energy and climate change strategy - CBC",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXBOU3dPZThzZjhZYlhWMzZmS09XdGFKS1B6TGNVckdPUjVpWFd6Nlh6MkNPWUF2UVhTS2RYQ05rbmp3anFYYU4ta3NYcjdCRzNka1dwd1BvdjZaOFFCcHZfTG1HU0RMZGJfTjBPTGZxeEJELUVNTjRpOVVSMWVjMWFvcXhPU05fVmszM3Ffb2E4N09IZFo4R2pHWHpfRkdmaDE4aVNzVnY?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T00:45:00",
+      "collected_at": "2026-11-07T02:38:04.121836",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "N.W.T. 정부, 새로운 에너지 및 기후 변화 전략 발표"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "N.W.T. 정부",
+          "에너지",
+          "기후 변화",
+          "전략",
+          "발표"
+        ]
+      }
+    },
+    {
+      "id": "faf5bcb5e95d50e7",
+      "title": "Floods in Nepal raise questions on the impact of climate change in the Himalayas - The Guilfordian",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT2RLb19IRVE0UmxfZ2MzbXhrZnFZRE9qaDNsSGNqRUh4NVB0N3RRUHR3MXk3VnZSMV84cGJfazgyV25jd3F4WllBSkxnVzh5aVY4cXlpRE5HWS1Sd3JEcGlKcFdQWElva2pfR3FFYjRVa1N6dWthdGhjOU9UdU95RC1MdnJHOEpteU4teDhpRGs1M1R1MnUxRWFiQ2E3cDFnVW1BQmZ0ZnNGLVJIbXlLWjhpbU1UZFQzMlVOOHJEY0h5ZnN2X05McE55c2w?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T15:35:56",
+      "collected_at": "2026-11-07T02:38:04.121875",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "네팔 홍수, 히말라야 기후 변화 영향에 대한 의문 제기 - 더 길포디언"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "네팔",
+          "홍수",
+          "기후 변화",
+          "히말라야",
+          "영향"
+        ]
+      }
+    },
+    {
+      "id": "202b42f639423c91",
+      "title": "COP31: Global climate negotiations to take place in Türkiye in November - Arctic Portal",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSjdQNktXY0lQTDJxRm9LZkk2aERMYnlINlhxanc5cGNGSFlHMm9FR3BjcERsTlR2YS00cWlNbjhvYUZvSHBDdkR0cWZleHpiek9uWFU1SElydUJONHYtR1BjbTV3OENQSy11blBYZ3AyN0FIbWZoUVN4WjlsN0o0YXNjUHEzT00tY2ZqREY1Y2pUNnRFdVVrT1VXY29jeDhNdnZBa25oS2JjSG5LOWV1ZW1aYUNtYy1Jd1E?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T11:49:17",
+      "collected_at": "2026-11-07T02:38:04.121974",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31: 글로벌 기후 협상 11월 튀르키예에서 개최 - 북극 포털"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후 협상",
+          "튀르키예",
+          "11월",
+          "북극 포털"
+        ]
+      }
+    },
+    {
+      "id": "0bbf615c4d8b4df0",
+      "title": "UIC and UITP want rail to play greater role in adapting to climate change - International Railway Journal",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdnZjc2s4UFFlYkxaTXhUQUJndjVDTXZ6amUtdUVmVlNxYWRkVUpMcDVueVl0NXVpM2J2ZVY3RUhYZDVxelhzVHlRWkYtcnVqNF9UUUUwY0JGd0VOajFsa1pYeHNaemQxbzBEQTNQOXdlMHNfcDdhajh1b25qZjVRbEMyUVhLSm9LeEp3bFFvNk1wSVVVcVBOWnlUZ20tbWZsUElHRTh0Y2ltNTBvRkhrZ2N0MWxMUXVX?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T16:38:55",
+      "collected_at": "2026-11-07T02:38:04.122023",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "4b49d5a90d8e61b9",
+      "title": "COP31 must deliver beyond the negotiating room - WWF EU",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03WkNPU1hsdDhpc09Bb1U2VEN1aEJudmg5MGVZWnVNY1lTcFlpd205NEM4U01uTjJKRUpScVNRZlF3Wk14RXYwcU5TUEVwOHU2T21Pa3Fn?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T14:38:42",
+      "collected_at": "2026-11-07T02:38:04.122058",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "cab69dd6d9eb2d90",
+      "title": "What is net zero and is the UK on track to achieve it? - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOVpZODBob05hWGFNTDlsTTQyUlJUR0NXQXBjUzJLdllGdzVqb0djcllVaFYyeTBoLUlVNk1PRGh0ck5fSE1odGtHd2ljWVVhZ21VTmNBcW5GaW5UeEVSUndrZy1OVjhHQWptQXdQV2x4X25vSE1tSExiOUp5elU3TnprNk5YLUh3dEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T16:40:56",
+      "collected_at": "2026-11-07T02:38:04.122087",
+      "keywords_matched": [
+        "net zero"
+      ],
+      "translation": {
+        "title_ko": "넷제로란 무엇이며 영국은 이를 달성할 궤도에 있는가?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "넷제로",
+          "영국",
+          "기후 목표",
+          "달성",
+          "진행 상황"
+        ]
+      }
+    },
+    {
+      "id": "37f9d6ee4b4b4d30",
+      "title": "Can Cop31 in Turkey put the fight against climate change back on top of the world's agenda? - The National",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRlZJczI0OXZPbEZzWWM1VnR6TGNlQUpmTWZCdlRReHo0dmFJSUNaY3g1RmQ1V3NUTERWRkx1cllkYXNudzB3MzFQVklQdElhQ2pWX1pmTjY2dTEyeV9RZ1VDQTYzelB1ODdaaDJPRWdSZXRyNjdYX1pEUGd6a2pzY2NYUDhyTkljWmJJNEl0ZFU5eUlDSFpsTmRaV1E3dHZ1YkVVZDJnTQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T18:03:02",
+      "collected_at": "2026-11-07T02:38:04.122102",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "튀르키예 COP31, 기후 변화와의 싸움을 다시 세계 의제의 최우선 순위에 올려놓을 수 있을까?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "튀르키예",
+          "기후 변화",
+          "세계 의제",
+          "기후 대응"
+        ]
+      }
+    },
+    {
+      "id": "2e82d1b3570e8c49",
+      "title": "UN Climate Change Conference COP 31 in Antalya, 9-20 November 2026 - INSIGHT EU MONITORING",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcXdJTkN5WHJkcmJVTTBqcEhVbWxlUUhpOXEyNEZ0M0FpV3BzUEpuZExfY3dUNE54MXlCUkRmYnl6N1lwbV9qMzFHNE9oSUZNeGpGN05MM2pOREN3dkRkUzRfaUJ0OXRvMm4xY3N5b0xibDVfUWxEREFSVE11Tm11YnprUng3SVgzR2pnQXh6VTE3X0tBcUh4MHZWcWhMaHM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-06T23:20:53",
+      "collected_at": "2026-11-07T02:38:04.122151",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "유엔 기후변화 회의 COP31, 2026년 11월 9-20일 안탈리아 개최 - INSIGHT EU 모니터링"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔 기후변화 회의",
+          "COP31",
+          "안탈리아",
+          "2026년",
+          "EU 모니터링"
+        ]
+      }
+    },
+    {
+      "id": "780f5fed13c0f0dd",
+      "title": "AP Exclusive: Departing UN chief calls this ‘a moment of truth’ in fight to curb global warming - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNN09tOXF5b0RidEdYQlV6TGdpQUNiUmVZUFVnZWZDaXk0RE9DcDNfLWpTTC1PUnF5ZEtZaVVqVUdrZ21Xc3h1eHFJMjFUZ0NqbzZTM0pxY1lZWFEwSWZPbERWcmZneHg2bDduZmNDOUExN0hnb2pLQi1sS2ltZkhLZFJRWUgxazRNM0FkcVJFaXg3akRla1p2cXVOVi00RkE5Sl9nd1NtbkJ5YXRxN1pfeG5CVFZ6Z1JYWDJqZzJZamI5cENlQldzd0xiZDA2dWZqQm9rNk5WQ3ZsNjhHNUd4WnkzUGI4YlNxMmE0eEMxZWhGS1Y5cFFtNXo0TXFIVGp5OEtVMU00TjE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-07T01:36:00",
+      "collected_at": "2026-11-07T02:38:04.122182",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "8fabb3b0210b6c0c",
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "link": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-11-06T16:43:30",
+      "collected_at": "2026-11-07T02:38:03.972204",
+      "keywords_matched": [
+        "climate change",
+        "extreme weather"
+      ],
+      "translation": {
+        "title_ko": "기후 변화가 폭염, 가뭄, 산불, 홍수를 어떻게 악화시키는지"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "극심한 날씨",
+          "폭염",
+          "가뭄",
+          "산불"
+        ]
+      }
+    },
+    {
+      "id": "013d1dbfcfe54c47",
+      "title": "A really simple guide to climate change",
+      "link": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-11-06T16:40:51",
+      "collected_at": "2026-11-07T02:38:03.972219",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화에 대한 아주 간단한 안내서"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "인간 활동",
+          "지구 온난화",
+          "심각한 위협",
+          "사람과 자연"
+        ]
+      }
+    },
+    {
+      "id": "6c402fce17f209c5",
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "link": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-11-06T16:39:07",
+      "collected_at": "2026-11-07T02:38:03.972233",
+      "keywords_matched": [
+        "paris agreement"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "7bfba7e0ecbc865b",
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "link": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+      "summary": null,
+      "source": "bbc_science",
+      "language": "en",
+      "published_at": "2026-11-06T16:22:51",
+      "collected_at": "2026-11-07T02:38:03.972246",
+      "keywords_matched": [
+        "global warming",
+        "carbon emission",
+        "net zero"
+      ],
       "translation": null,
       "sentiment": null,
       "keywords": null
