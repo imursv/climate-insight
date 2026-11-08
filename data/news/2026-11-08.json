@@ -1,0 +1,88 @@
+{
+  "date": "2026-11-08",
+  "metadata": {
+    "collected_at": "2026-11-08T02:12:33.088561",
+    "total_articles": 4,
+    "sources": {
+      "korean": 2,
+      "international": 2
+    },
+    "sentiment_distribution": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  "articles": [
+    {
+      "id": "3d575118605d5391",
+      "title": "세계 최대 전기선박 떴다…남미서 상업 운항 개시",
+      "link": "https://www.khan.co.kr/article/202611080900031/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-08T00:00:03",
+      "collected_at": "2026-11-08T02:11:34.393856",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "전기선박",
+          "치나 소리야호",
+          "상업 운항",
+          "기후변화 대응",
+          "배터리"
+        ]
+      }
+    },
+    {
+      "id": "812ba4b6dd511428",
+      "title": "수소차의 미래, 보조금·현대차 없이 설 수 있나?",
+      "link": "https://www.khan.co.kr/article/202611080800011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-07T23:00:01",
+      "collected_at": "2026-11-08T02:11:34.394017",
+      "keywords_matched": [
+        "전기차"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "edb23ea3b42f0878",
+      "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-11-07T15:06:59",
+      "collected_at": "2026-11-08T02:11:42.475924",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "1b1ff6a470f1eb69",
+      "title": "Thunderstruck: what does the future hold for lightning?",
+      "link": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
+      "summary": null,
+      "source": "guardian_climate",
+      "language": "en",
+      "published_at": "2026-11-07T14:00:13",
+      "collected_at": "2026-11-08T02:11:42.476170",
+      "keywords_matched": [],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    }
+  ]
+}
