@@ -95,7 +95,7 @@ npm run build
 
 ```bash
 GEMINI_API_KEY=your_api_key    # 필수
-GEMINI_MODEL=gemini-2.0-flash-exp
+GEMINI_MODEL=gemini-3.8-flash
 GEMINI_RPM_LIMIT=10            # Rate limit (분당 요청수)
 ```
 

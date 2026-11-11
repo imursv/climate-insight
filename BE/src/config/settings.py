@@ -10,7 +10,7 @@ class Settings(BaseSettings):
 
     # Gemini API
     gemini_api_key: str = Field(default="", env="GEMINI_API_KEY")
-    gemini_model: str = Field(default="gemini-2.5-flash", env="GEMINI_MODEL")
+    gemini_model: str = Field(default="gemini-3.8-flash", env="GEMINI_MODEL")
     gemini_rpm_limit: int = Field(default=60, env="GEMINI_RPM_LIMIT")  # 유료 버전
 
     # Pipeline 설정
