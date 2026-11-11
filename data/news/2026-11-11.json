@@ -1,16 +1,16 @@
 {
   "date": "2026-11-11",
   "metadata": {
-    "collected_at": "2026-11-10T16:13:34.563949",
-    "total_articles": 148,
+    "collected_at": "2026-11-11T02:48:27.616486",
+    "total_articles": 245,
     "sources": {
-      "korean": 103,
-      "international": 45
+      "korean": 176,
+      "international": 69
     },
     "sentiment_distribution": {
-      "positive": 83,
-      "negative": 29,
-      "neutral": 14
+      "positive": 148,
+      "negative": 49,
+      "neutral": 22
     }
   },
   "articles": [
@@ -3726,6 +3726,2541 @@
       "translation": null,
       "sentiment": null,
       "keywords": null
+    },
+    {
+      "id": "a2d0312560b0fe4d",
+      "title": "[AI그래픽뉴스] 사라지는 '크리스마스트리'… 기후변화가 부른 구상나무 멸종위기 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YOEdpamZLNlpOOEY3enh1Z01xV3RLN2RjV1YwSWNuU0ZOeDNuSm1ROUNZVU5YbkRNNVJQS2ptVDRZSUZJdThhS2NsVXExTEF2NTI3V195dFY4amVu?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:00:00",
+      "collected_at": "2026-11-11T02:38:23.288277",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "구상나무",
+          "멸종위기",
+          "크리스마스트리",
+          "사라지는"
+        ]
+      }
+    },
+    {
+      "id": "f38f447b88972169",
+      "title": "고은정 경기도의원 “기후변화 대응 아열대 작물 연구, 농가 소득으로 이어져야” - 뉴스피크",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16cXV1Z2VxZzBRQkhVYTIwamMxRno0eXdjb25kY1BaLUVlTWtJbnZfaXRLQmJ3SjJxTk1LNzl1N2FwVlRzVFVPd0F4R21obnBrTE4zRjBWZllsalE4T2Z2a2tOMDh5dVVJ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:33:45",
+      "collected_at": "2026-11-11T02:38:23.288492",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "아열대 작물",
+          "농가 소득",
+          "연구",
+          "경기도의원"
+        ]
+      }
+    },
+    {
+      "id": "7e6a4db449c441e9",
+      "title": "해남군, 기후변화 대응·농업용 로봇 기술 한자리에 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0waDhUOVIxd2sySmpmY1lRM2xYMGhpNHZSS0tBa0NoTkNxN0VnYUhQeW0zOWlPNGhBLXJtSFhDWC03X0hxNXNmendYakMyUDZTSW1DdjZiUHNfRGRIRXo3RHJ2akhVem96V1FqR0NkQ24?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:00:24",
+      "collected_at": "2026-11-11T02:38:23.288513",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "기후변화 대응",
+          "농업용 로봇",
+          "기술",
+          "한자리에"
+        ]
+      }
+    },
+    {
+      "id": "6e10ce9c87ed5144",
+      "title": "농업의 미래, 기후변화대응·로봇에서 답을 찾는다 - KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UWg3NVJjVm5fM1cyV2huOVd1QW82bGtUekNXUm1jZWFrRWdXMjJSNlp4VERHSlJYMUU4d2JfeFhvcjIzRkl4Yjd4NnQxaVBhU0hnVDRVWEZmaUVhSWkweg?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:27:01",
+      "collected_at": "2026-11-11T02:38:23.288550",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "농업",
+          "미래",
+          "기후변화대응",
+          "로봇",
+          "해결책"
+        ]
+      }
+    },
+    {
+      "id": "1fe93b99bf40c6a7",
+      "title": "[칼럼 - ‘공동의 집’ 지구를 위해] (30) 기후위기를 이겨내는 생명보험 ‘공동체’ - 가톨릭신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LM3dQdVRWR2NYSlFHS3JnMHRFUWstQTkwdWVxMzNBV3o0a05SMHlQbERjNWVPQ1VNZmF5TnVELW83N3NVQ3ZKcW5vU3dTRjZoa2dDbFIwNk45OEhzVzVhVEVR?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:45:21",
+      "collected_at": "2026-11-11T02:38:23.288593",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "공동체",
+          "생명보험",
+          "지구",
+          "이겨내는"
+        ]
+      }
+    },
+    {
+      "id": "b49215365b633ab2",
+      "title": "인천시, COP31서 '2045 탄소중립 전략' 전 세계에 알려 - 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Rd3ZWRmVRMWUxY29xT25sU1ZVY1BKaHM0TEdwN3FwN2xmZ1NfdnM4S3JDZVZyVG9Xdjh4Q01IczVVaEF0dXBIUHpZOWl6ZUNwN1dTXzVTYUtWSjA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:11:47",
+      "collected_at": "2026-11-11T02:38:23.288613",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "전략",
+          "전 세계"
+        ]
+      }
+    },
+    {
+      "id": "f08b6b2a83427453",
+      "title": "카카오페이, 기후변화 대응부터 지배구조 투명성까지 ESG 경쟁력 입증 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlU3Y3JjVm5kTElGU0JNaGRtSlBuS1lNUzQ3QnlhTkR3Q2MyVVZWbWxITzlNMzhSSGprczRVcHVnYks3Y0R2Uy1OLXJGcDRqeGViWGZqU3RkY21LaUxZTTZOdENxa3JsMVBuaVhjNlVXZDZYNkFmN2c5bWR5eWVfcS1yYTA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:53:44",
+      "collected_at": "2026-11-11T02:38:23.288647",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "카카오페이",
+          "ESG",
+          "기후변화 대응",
+          "지배구조 투명성",
+          "경쟁력 입증"
+        ]
+      }
+    },
+    {
+      "id": "5bbf060821416028",
+      "title": "기후변화당사국총회(COP)…희망 고문 언제까지 [지금은 기후위기] - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rek1GRU9YT2ZIekJEVUxuR2tDM2Y4T2JwNE40SFhsT3dpT3BPR0U1Z29Od3NFYW9Vb0dqb3YyeG1uMDNzWS1OdDJfcw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:27:21",
+      "collected_at": "2026-11-11T02:38:23.288666",
+      "keywords_matched": [
+        "기후변화",
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화당사국총회",
+          "COP",
+          "희망 고문",
+          "기후위기",
+          "기후변화"
+        ]
+      }
+    },
+    {
+      "id": "ae9dc3cb0b850a91",
+      "title": "기후변화·AI 시대, 패션 제조업 경쟁력 - 한국섬유신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB2bEZ2d1FBalFVM2FjcjBNanZJc2VSRVhibGpHaTdUS1pIT0FHR3o0a0tYRGJnSkVTMEs5RXVzeXluUVFHT01WUUotT2FfQmVtcEY3dXdBYWx5WS1hbm9KaDJFQmUzZUJG?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:15:00",
+      "collected_at": "2026-11-11T02:38:23.288685",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화",
+          "AI",
+          "패션 제조업",
+          "경쟁력",
+          "한국섬유신문"
+        ]
+      }
+    },
+    {
+      "id": "6a2da389fff0659d",
+      "title": "해남군, 미래농업의 길을 찾다“기후변화대응 선도” - 한국미디어뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GRTR6M3AtMWxPUEVMb0VDeVZWMWdaSFpvMmJzRm8tNkx1Tno2Q25zOTdSSEVzVl85WkZ6SWt2dVlMbDA4YmhxSUVwMmdnNGNnTUVGZm1za2FubGlMMUthMXdpVzE5UQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:11:43",
+      "collected_at": "2026-11-11T02:38:23.288704",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "미래농업",
+          "기후변화",
+          "대응",
+          "선도"
+        ]
+      }
+    },
+    {
+      "id": "6a3ea5911486b740",
+      "title": "인천시, COP31서 2045 탄소중립 전략 알리고 G20 유치 홍보 - 인천투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQWR2T1J0NkVReHljNEMtS3p1R1Yyb0tvaUpscXZrbHFkcTdzQ1doQ3ZDQVhPeFVMM3RWQ3ZHOTRhbHB1c3YySXZ3d2xvTEVWVmRoT1FqWmtfWkpjRkhGaEd5QXpOSE9nbUFZbjF6MDI?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:10:18",
+      "collected_at": "2026-11-11T02:38:23.288724",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "2045",
+          "G20 유치"
+        ]
+      }
+    },
+    {
+      "id": "7391f75e64ff9d60",
+      "title": "경기도의회 백승기 도의원, 평택·안성 배 열과 피해 지적…기후변화 대응 기술 연구 확대 촉구 - 경기시사투데이",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kQkNPSXNrSnVFZEQ3QmJXankzU2MwRnNzTEk2eDVjNTNoYzZSZnBrYXpIQkpKVV9majY3MWxaSm9tUXdMNWZlWDB4eDNaeW1WaEp5NUF6TlFqX1lJMkRGMzhFVlhkeUo0?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:17:08",
+      "collected_at": "2026-11-11T02:38:23.288765",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "경기도의회",
+          "배 열과 피해",
+          "평택·안성",
+          "기후변화",
+          "기술 연구 확대"
+        ]
+      }
+    },
+    {
+      "id": "8b476c0d219e4971",
+      "title": "고령군, 기후변화 대응 주요작물 연구 용역 중간보고회 및 제19회 대가야농업기술대학 수료식 개최 - https://www.newsgb.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1ZmU4VW1nYWZhcEpBcVNxNDhYdnpqX2tobUNkaFIybmZ6S2RoQU1vcXoyVGFqenhEeUxSVVhpTWlvZHpYdjJsU21hYTlNdGZvNi1CTkFGNGs3QWRFTGFQcA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:10:11",
+      "collected_at": "2026-11-11T02:38:23.288789",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고령군",
+          "기후변화 대응",
+          "주요작물 연구",
+          "농업기술대학",
+          "중간보고회"
+        ]
+      }
+    },
+    {
+      "id": "0be1f954b5b08ec9",
+      "title": "인천시, 유엔기후총회서 '2045 탄소중립' 비전 발표 - 경인방송 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BSzBYanVnTURPanF1MXR6QjQ3NDVvUWR5VjJVVGMwa2ZVLXdJdHd1bjd1WndyTGZRWnZER0ZQT0JyODl4Y2JVME1uZlVHSWRuNXBIVHJOMmFzc0ZPVTFweTJGMTLSAWhBVV95cUxNeGNxdlc3aGxsMElFd3RhR3N3VWl4VF84M1NXMlpPZFh5TEhER2psVkN1YVBxcTZHdFp0ZHJOalQ1QUwwSmdaekd2Y1hKdEp6aVJ0ZlVPLU8yMldBVU1zbUNMYk55MDQ1OA?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:55:44",
+      "collected_at": "2026-11-11T02:38:23.288809",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "유엔기후총회",
+          "탄소중립",
+          "2045",
+          "비전 발표"
+        ]
+      }
+    },
+    {
+      "id": "92a767d59efc8a9b",
+      "title": "해남군, 기후위기 넘어 'AI 농업' 선도 - 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwN21ub2lRS19MOFVqLV9FZlU4dzhyTjh6NUsxTmg3LTBmUDlZVV84V25ZdG9qWVpmNmJDTzRhYmxJYWpma2dPTWdqQWkwLThueHZtM1poc2Q5UlJr?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:03:00",
+      "collected_at": "2026-11-11T02:38:23.288826",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "해남군",
+          "기후위기",
+          "AI 농업",
+          "선도",
+          "농업"
+        ]
+      }
+    },
+    {
+      "id": "1ca56866aec805e4",
+      "title": "인천시, 유엔기후협약국총회에서 '2045 탄소중립' 비전 제시 - 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd0hLd1JoYzdKdnJKS1FZYUgwOXZEWUFkelJsak82SFMyaldwdUtqdndzYktSRGlVOHRDeVkzaFZxSS1kRDhYSk5LUXRpOGVqeWdwTmN6LTNyNDFCQzcxcnRRdnVUX2VYMU01dmJUbWhNVHpnWGFQeU8yZlJSeEF3S0pUc2V4YlNkR0NV?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:01:08",
+      "collected_at": "2026-11-11T02:38:23.288864",
+      "keywords_matched": [
+        "탄소중립",
+        "기후협약"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "유엔기후협약국총회",
+          "2045 탄소중립",
+          "비전",
+          "기후변화"
+        ]
+      }
+    },
+    {
+      "id": "d3ff16422133118a",
+      "title": "인천시, COP31에 참석해 '2045 탄소중립 비전' 전 세계에 알려 - 인천in 시민의 손으로 만드는 인터넷신문",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zZW1qM0VyQXYzNmVNa01xTW5zVmxnQnNaQ0hrTTFvdEFnX3U2RUk1VjFsYkM2d010VE1adm5jVXhnN2NxbzVydjlGUnRGRmVyR1YtSkdmM1RoUXpOQnlITHZkSnU2emx5dkgzdw?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:51:29",
+      "collected_at": "2026-11-11T02:38:23.288886",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045",
+          "탄소중립",
+          "비전"
+        ]
+      }
+    },
+    {
+      "id": "2fcf850c828b28cf",
+      "title": "인천시, COP31서 '2045 탄소중립' 전략 발표...지방정부 기후협력 확대 - 경인매일",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uZlJPZGtXYkwtN1RXSFhaZDZrUVpucmFQc08yeExvN2FZOWd5RWZfaG1kRnBqM1RsZy1QX3lVQVV5OVoxd1VWVms5NVNvS2MxbU5SV2RFeXZYTjJTNWRUTHB2YXVXMGZu?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:21:17",
+      "collected_at": "2026-11-11T02:38:23.288906",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "전략 발표",
+          "기후협력"
+        ]
+      }
+    },
+    {
+      "id": "522444b41f6b1df5",
+      "title": "팔영농협, 유자 시설재배 보급 박차…기후변화 극복·농가소득 다진다 - 한국영농신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tZldIOFNsY3hGUnZDYnpSUkZfSjgwYkJjV1ZpRV8wOUNVbzhsYk1IMUZWcXFsZDV0aS1LaXZ3QW9zWW9QQTVMRU83MmhMZTl0bzJfUFJmUjNaRHhTUk9kN0QtLUk3VENxTkFHN3dn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:05:56",
+      "collected_at": "2026-11-11T02:38:23.288925",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "팔영농협",
+          "유자",
+          "시설재배",
+          "기후변화",
+          "농가소득"
+        ]
+      }
+    },
+    {
+      "id": "ab285203ca72f007",
+      "title": "한화투자증권, 기후변화 대응·내부통제 강화 성과..ESG 4년 연속 A등급 - 한국정경신문",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GN0VMdWR6LUZCbk5XempMSHBRS2h3Z3E0R0MzcGdEdVRFRkFkSVZSUy1CVDNGb2hONVRUTU9kMXRTcmFscVVWbUVBTGtmLVMxcXc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:16:07",
+      "collected_at": "2026-11-11T02:38:23.288949",
+      "keywords_matched": [
+        "기후변화",
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한화투자증권",
+          "기후변화 대응",
+          "내부통제 강화",
+          "ESG",
+          "A등급"
+        ]
+      }
+    },
+    {
+      "id": "097822a9c32d53b7",
+      "title": "고령군, 기후변화 대응 주요작물 연구 중간보고회·대가야농업기술대학 수료식 개최 - 칠성고라이프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sTmRkNFNGREpHZnBFbmtEUldNU3BpT0JPVldMcFdPUF9WSmkwYWFBOXRid1NXQnRmcHZZMFREMHJqY0RmUUVTUE40VEhkUmVvZWRkMzVycnpUcFZaRGVVTHlxZDJfempSUjVpSGFB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:39:59",
+      "collected_at": "2026-11-11T02:38:23.288971",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "고령군",
+          "기후변화 대응",
+          "주요작물 연구",
+          "중간보고회",
+          "농업기술대학"
+        ]
+      }
+    },
+    {
+      "id": "ed3c3ae25aafbcd9",
+      "title": "인천시, COP31에서 2045 탄소중립 비전 국제사회에 전파 - 인디포커스",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXc1N2RjUHRkeGgtZEhaOWZWRFRseXhzTVBxXzNVV0gySDdZRlNFa1ZRT1B0R3p3eTV0aWhTMEtWQWZBUEdfUGhNM2s3YlBqTnJkSjZqUFBLN2VpU1E4V2dvdE9zTkRXcGY1cHE2cjgyc2tlMHJaV1hrT3BnTlNoUi1BRk42QnhzajV5NThfSFQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:46:00",
+      "collected_at": "2026-11-11T02:38:23.288991",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "2045",
+          "국제사회"
+        ]
+      }
+    },
+    {
+      "id": "1ce20a5424fc9498",
+      "title": "검단구, 기후위기대응위원회 출범·탄소중립 정책 본격화 - 전국매일신문",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96Q1pFNVlWbVdnQUlRdU56amI1ZzhFcUVjZEtwUFRoYVgtbGVOWVBfdXRWY25qMWxTTktPSEZuRlZqZGJaXzNVdFZOR0JnUHJkbEEwNEtJQkhaYzFYR3F3Slk4SVczZUdoS3hGeFVn?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:03:38",
+      "collected_at": "2026-11-11T02:38:23.289092",
+      "keywords_matched": [
+        "기후위기",
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "검단구",
+          "기후위기",
+          "탄소중립",
+          "위원회",
+          "정책"
+        ]
+      }
+    },
+    {
+      "id": "b2f6de4ea554acc6",
+      "title": "인천시, COP31서 '2045 탄소중립' 비전 발표 - 일간경기",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wU3Z3R1o3RW93YVFGSVlsSE1VOEwyd25wTTNwdGxSU3Ribmd0dVFFd2hvbFpqX1FucklGZHdPTi11YlRUcTNVOW4wSHhhU05uMkplaHVTbFlmXzE1eG1xYmFQVGZNYXVx?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:40:07",
+      "collected_at": "2026-11-11T02:38:23.289110",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "비전",
+          "발표"
+        ]
+      }
+    },
+    {
+      "id": "07e5c96ec29313a3",
+      "title": "인천시, COP31서 ‘2028 G20 유치’ 홍보…탄소중립 비전 앞세워 - 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1mOUtlR09GalBibnJGNURTYkkwaEtZaHp4NnZwQlhXMmlXdHI1dmpGTnVKRTU3cGF6MlNPWWpyTzlHYThrOTJFb0xsUDJPNHVpNThGdWZzVVVCcjFBbEFoczVtS0hxVzRZRHhnc2tpaDBVVW93V2JpdU5wNDc?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:05:34",
+      "collected_at": "2026-11-11T02:38:23.289347",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2028 G20 유치",
+          "탄소중립 비전",
+          "홍보"
+        ]
+      }
+    },
+    {
+      "id": "39755e924b4e8541",
+      "title": "사활 걸었지만…'기후위기 속수무책' 남태평양의 미래는 - 노컷뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xZWluLXJLeVhsSU93Mmd3TmQzOERteHAya1Rha2ZacmZrbF9EUjVyTEktR2VUYzdZQXFKQ3VuZFJrT1Fkb3k3Mm53dXphX3BaaUE?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T21:00:00",
+      "collected_at": "2026-11-11T02:38:23.289382",
+      "keywords_matched": [
+        "기후위기"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후위기",
+          "남태평양",
+          "속수무책",
+          "미래",
+          "사활"
+        ]
+      }
+    },
+    {
+      "id": "83261e6eab607736",
+      "title": "COP31, 11월 9~20일 안탈리아서 개최…기후변화 논의 - 국제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2LWtEUVF3QWFrQnhLbTBlN2IxdnhrQWhSYm1WQmVBY2hhNWtyUEdDdU52eW5ZUWFGVFFGNHdydUMtcTBSSHdsSEZzOXpJRnZXRlItYWZQU3ZVY29hdkx0WjYyU1ZKSG51NDQyYTlB?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T16:59:31",
+      "collected_at": "2026-11-11T02:38:23.289461",
+      "keywords_matched": [
+        "기후변화"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후변화",
+          "안탈리아",
+          "개최",
+          "논의"
+        ]
+      }
+    },
+    {
+      "id": "28aa2e8948e68331",
+      "title": "FAO·IPCC 농식품 보고서, 기후대응 해법은 기술 넘어 제도·재정 - 비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QU1dZTkdHdThBZHlpYXFSOHV0eVhBVDBKTDI1cF9kUDBtLXFjS0tyUnRsLXFsNXpIbzBUcWEtWVlyUjJ1WExZLWhoTUpUV0Q3Z1huMGQ0RWVLR1dxeTk4WURUSFUyUQ?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:45:20",
+      "collected_at": "2026-11-11T02:38:23.289495",
+      "keywords_matched": [
+        "기후대응"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "FAO",
+          "IPCC",
+          "농식품 보고서",
+          "기후대응",
+          "제도·재정"
+        ]
+      }
+    },
+    {
+      "id": "e022f8fe75c890e5",
+      "title": "초강력 엘니뇨에 지구 기온 역대최고…이상기후 지속 - 경제타임스",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tR3NvNVhVdXBxbzRxYTBkaHJWREZYOGRUUjVBU01rVlQ1LU1UWGVyOXJQeU5UOEE5SndIX25GYnR1UzJIQmVvWUo0bVprYm5jeGR3?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:01:29",
+      "collected_at": "2026-11-11T02:38:23.289514",
+      "keywords_matched": [
+        "이상기후"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "초강력 엘니뇨",
+          "지구 기온",
+          "역대최고",
+          "이상기후",
+          "지속"
+        ]
+      }
+    },
+    {
+      "id": "856f9e005d6e42ef",
+      "title": "인천시, COP31서 ‘2045 탄소중립’ 비전 전파... G20 정상회의 유치 총력 - 투어코리아",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yb01GRUh5S1JPWk43a3Myc0RReDNYVHhYeUdqUmY2RHpRNDdVZEcwdmV5d19CQWJvdXJDemliNzBSa2hTNV9kV1laWGtHN0NLUXF5eHpHU3NEM3VQY1BaNTJ4WmxRcjZ2VEFEYV9B?oc=5",
+      "summary": null,
+      "source": "google_climate_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:37:13",
+      "collected_at": "2026-11-11T02:38:23.289715",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "비전 전파",
+          "G20 정상회의 유치"
+        ]
+      }
+    },
+    {
+      "id": "6593a569c86359a5",
+      "title": "이병화 린 변호사, '2026 탄소중립 녹색경영대상' 대통령 표창 - 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zeW5hZVNnUE1tUEVEYlZxemg4VndzUnNHb29WWUZxVHBhN2dnMzU0c21nQzJRclNNRU9RUk5YbGFfb3E2ZXV1LVJFbHZEUVNpNlo1bDhmV1pKSWNacDJDQQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:53:15",
+      "collected_at": "2026-11-11T02:38:23.213584",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "이병화 변호사",
+          "대통령 표창",
+          "탄소중립",
+          "녹색경영",
+          "2026 탄소중립 녹색경영대상"
+        ]
+      }
+    },
+    {
+      "id": "48fa102aac268089",
+      "title": "‘탄소중립·복지 수도’ 세종시의 축소판… 호려울마을 2단지 - 충청뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZV3VYT0VFaFpaNmgybFBsUmd3RXRHaVQ0Q19hMEZnVElleklEdmhNNVUydFJFZWFId2l5YUxjRDFiSnh5X01jakJCbTRla1V1ZTJvbHhDZWg5d012TGd2X2ZFblo4MERfemo5NA?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:13:34",
+      "collected_at": "2026-11-11T02:38:23.213725",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "세종시",
+          "호려울마을 2단지",
+          "축소판",
+          "복지 수도"
+        ]
+      }
+    },
+    {
+      "id": "18482efbb1bfce10",
+      "title": "경남도환경재단 탄소중립·녹색성장 인식 교육 성료 - 경남도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSFNaSGxnby1MamNhX3lTUkRkXzFRd28wSm83eUVUR3E1WFN6TG80RWcyRXg0a3RfR0hVT19xaUpyU2lpVUgtdl9MalYwNTlsM0hraVpmM1ZoT3VHSGFHR2NLcUlpS2VYeXc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:29:18",
+      "collected_at": "2026-11-11T02:38:23.213744",
+      "keywords_matched": [
+        "탄소중립",
+        "녹색성장"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "경남도환경재단",
+          "탄소중립",
+          "녹색성장",
+          "인식 교육",
+          "성료"
+        ]
+      }
+    },
+    {
+      "id": "dde0ce640effb9e8",
+      "title": "인천시, COP31서 '2045 탄소중립' 정책 소개 - 팍스경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtTnRNWTVWM1l4OXdtQ1FJVzg5S3h1OEhNTUt6dmUybUxkZUhaSFpCdklVYldSQW90azN1bXpENnNhc2tFRGZHU1JHenBmcUk2UndqS211anJ2VHhWTjRrOVc1MGdqeU0?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:41:38",
+      "collected_at": "2026-11-11T02:38:23.213764",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "정책",
+          "2045"
+        ]
+      }
+    },
+    {
+      "id": "3f2fe40fb2573f56",
+      "title": "인천시, COP31서 ‘2045 탄소중립’ 비전 제시 - 애드뉴스인천",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQS3lGZ1NHbFFuUmtYS0txN1VnZy1TZ0FmN0RNTVhZNWxGUGxwQnBhcGE3UW9kLTduZzJYdi1JV2lLV2d5VFpod2JZVHUyYUUwWWhUa0Z4bmFfSE16QmZDSUhzQmEwa0Q0SlYw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:23:00",
+      "collected_at": "2026-11-11T02:38:23.213822",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "2045",
+          "비전"
+        ]
+      }
+    },
+    {
+      "id": "ee04c7a97fc3e71a",
+      "title": "벤츠, 2039년 탄소중립 목표 낮췄지만…저탄소 알루미늄 장기구매 확정 - 임팩트온",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zWDhUZTZIRHBfZTJEWkdoVEptdHhZZkllY0Z6dVFPbmVEMWYyMWdaZi1uaDdNTXNYNDduTnhpTlo4NjhqLWxOamlNalc0c1hITldGcll1WGwxTDdsamdvZGlFYTM1Zkp5TkE?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:26:39",
+      "collected_at": "2026-11-11T02:38:23.213841",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "벤츠",
+          "탄소중립",
+          "저탄소 알루미늄",
+          "장기구매",
+          "기후목표"
+        ]
+      }
+    },
+    {
+      "id": "93d7be82818e3f16",
+      "title": "“국가보다 5년 빠르게”…인천, COP31서 ‘2045 탄소중립’ 전략 알렸다 - 쓰담미디어",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN2ZLY3c2aGlLSm5YV3hyYzVhWkp4ODZuRWM1ODRsRWd6VGNoSVhFV3luNklHREJKanFFbTk0RDFENkI2dG5MaE1FVklKaUZObWd1dW0yMk1jem5vUnNEamZBeXlGbXc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:49:22",
+      "collected_at": "2026-11-11T02:38:23.213896",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천",
+          "COP31",
+          "탄소중립",
+          "2045",
+          "선도"
+        ]
+      }
+    },
+    {
+      "id": "30659cfae95d0138",
+      "title": "인천시, COP31서 ‘2045 탄소중립’ 비전 발표…2028 G20 유치 외교력 집중 - 한국NGO신문",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13OHJ6eE1aWk5FUEhVeURFQS1IX2wxVm84YUxlSmg5Q1RTeVpKTTM0UjEwamNKZzdWV2h1TlNDbHljSWs4LUhXRXpsR3BCV2ZyLVFwX1E0SU9jNDBJOE1Qc3QwQU5RVEtB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:06:14",
+      "collected_at": "2026-11-11T02:38:23.213915",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "G20 유치",
+          "외교력"
+        ]
+      }
+    },
+    {
+      "id": "75d09515dff4cfc3",
+      "title": "인천시, COP31 무대서 '2045 탄소중립' 선포 - 중도일보",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DVG5qWUlBUWMtYW9fTnRxbHZyNkUwWDF3ekN0ODhybzBmTFZrY3h3M3RYYm1jVzBOS2RMdUk0NmRBYVVCOUx1T19veXQzM1JZckt6OS15WVV3dDFnMmdENm56VDU?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:58:27",
+      "collected_at": "2026-11-11T02:38:23.213981",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045",
+          "탄소중립",
+          "선포"
+        ]
+      }
+    },
+    {
+      "id": "0e7de2247aefcddf",
+      "title": "인천시, COP31서 2045 탄소중립 비전 제시 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56SFdxSWJEdV9fTk9EamI2MTJqWlp6WGEwZE5tcUl0SVp6TTBlOUhLOEtHTjdDS3Z6eEk5SUpOeTJGOS14SVJ6MVRmX2YzeWtZSlZfWU9DRVVxT0lORDB6UkdIQ1J3c1pQVkdFNklDdGJZdw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:44:00",
+      "collected_at": "2026-11-11T02:38:23.214000",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045",
+          "탄소중립",
+          "비전"
+        ]
+      }
+    },
+    {
+      "id": "35ec8d3bd988754f",
+      "title": "인천시, COP31서 국제세미나 개최…2045 탄소중립 비전 제시 - 프레시안",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EV0hZMEc0MmdaR3o2NjNfU3E0YnNiTVdGSkVpSU1URjVsNU9JQUxLU18xYzNrNDg1RUhuZFZBNElpb2tLUm9Sc3BnSjZtWUEyVGthOTU4TWgwMUhwR21HemsyTU1oVkFjaVdn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:35:50",
+      "collected_at": "2026-11-11T02:38:23.214023",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "국제세미나",
+          "2045 탄소중립",
+          "비전 제시"
+        ]
+      }
+    },
+    {
+      "id": "89bd94a58b165cae",
+      "title": "포천시 탄소중립지원센터 에너지전문가 양성과정 개최 - 포천신문",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43d2FjelBqZC0zUndnNjF2b0FrTVRmb211TVFOTEY2RjVmMy1Obk1yc0I4WEFzQ1k0VVJwcEx5S05BUThFYjNjNUQtTkhaQmc?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:22:33",
+      "collected_at": "2026-11-11T02:38:23.214042",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "포천시",
+          "탄소중립",
+          "에너지전문가",
+          "양성과정",
+          "지원센터"
+        ]
+      }
+    },
+    {
+      "id": "d14be29cf13ca49d",
+      "title": "국가보다 5년 빠른 탄소중립…인천, COP31 무대서 알렸다 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aQ0RXOTdHYkVCNGtMa01YSEJDSnhTVWc1NXRqVnJLWVEyOTBvbFh3RlhyamtlbjZMNVVndnZaR1FSTnZoWnZEVXFaQlY?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:16:22",
+      "collected_at": "2026-11-11T02:38:23.214060",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "인천",
+          "COP31",
+          "5년 빠른",
+          "국가"
+        ]
+      }
+    },
+    {
+      "id": "e75dd3db5797d158",
+      "title": "국공립 행복숲어린이집, 탄소중립 아나바다 행사 수익금 82만2000원 기탁 - 영남매일",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hbzg1WTl6dENvLWpGdVNYVzdoUWxEZHU1bFFkQkNPekFBMEZZZ0hRNlFyOWtwSHdwaWVobWp1VEJDLUdWQlhlcnpyaFpob2xkR2VVUWRMdk1RUDZocTFxOHJ0djJsWGM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T02:05:14",
+      "collected_at": "2026-11-11T02:38:23.214119",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "탄소중립",
+          "아나바다",
+          "어린이집",
+          "기부",
+          "수익금"
+        ]
+      }
+    },
+    {
+      "id": "bce487e37a527560",
+      "title": "인천시, COP31서 ‘2045 탄소중립’ 비전 국제사회에 알려 - 선데이타임즈",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CQmFJYU5LUGFiT0lsTlJreFA4VFI4Z2FNMUxGRnVnMUFkY2NjYWU0WXk2ZjNYOXdUd1FGV3RaNHlBN19pck12UTBMZ0o1NGZhSWlXR2lB?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:42:45",
+      "collected_at": "2026-11-11T02:38:23.214138",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "비전",
+          "국제사회"
+        ]
+      }
+    },
+    {
+      "id": "dde52d9efa7527ff",
+      "title": "인천시, COP31서 ‘2045 탄소중립’ 비전 발표…지방정부 기후협력 강화 - 여성종합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4QjE0d3NKZjlxZUpod0hGckxLRXZEY0xQa1k5ZkVjcUNRcXZsUm5iN082aDNQUmlWYV8tZ01VaU9LS0F2VS1yVkR1NU9hWkJwa1c5VU5odGFXZw?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:50:08",
+      "collected_at": "2026-11-11T02:38:23.214195",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "비전 발표",
+          "지방정부 기후협력"
+        ]
+      }
+    },
+    {
+      "id": "91010b55f0b3ba5c",
+      "title": "[한일 경제협력] 한일, 오사카서 에너지 안보·탄소중립 협력 논의…경제 파트너십 강화 모색 - 코리아포스트 한글판",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwd0FBSXplVTltSk5RVDBDQ1Q4OWZldFhkNTByeG1UeTVJOHQ4RHAzb3oxQ1ZlSWM5NW5WdGxxRFJmVXhFS2pJUllqaUV1OWtFVnJ6eHFCc21Fay1VeHdHdUJicnJ4WnMwNWZtbHhn?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:00:00",
+      "collected_at": "2026-11-11T02:38:23.214216",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한일",
+          "경제협력",
+          "에너지 안보",
+          "탄소중립",
+          "파트너십 강화"
+        ]
+      }
+    },
+    {
+      "id": "11f5a4f020583613",
+      "title": "상주소식 - 상주여고 환경 정책 연구 프로젝트팀, 상주시의회에 탄소중립 정책 대안 제안서 제출 - 상주의소리",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SdTlIUGZkSDZOT1huUlpOZzduTWJFbGd2WjdiRHc2YW5UeW9VdmRSWnhkcFhiR0dFeGRKVWxDSTRKTlJZQWVmR1RzbTl6cW9PbndNTEd4QUc0QQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T15:16:40",
+      "collected_at": "2026-11-11T02:38:23.214324",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "상주여고",
+          "환경 정책 연구 프로젝트팀",
+          "상주시의회",
+          "탄소중립",
+          "정책 대안 제안서"
+        ]
+      }
+    },
+    {
+      "id": "5fc8506f7502be84",
+      "title": "인천시, COP31서 2045 탄소중립 전략 국제사회에 소개 - 웹이코노미",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzazd2T1l3M3dEQm9PemZJbHZFLWdLenY2ZzFVbzFaWlpISmtqdS0tT0RuUWhSV2Q5c0RNU0tiUl9QOGdwM3YzMjNvandoX0lUNnRSckNSU2Z3aUwxXzU2NHhDNTFDV3NidGsySGo1ZHVTUQ?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:05:34",
+      "collected_at": "2026-11-11T02:38:23.214342",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "2045 탄소중립",
+          "전략",
+          "국제사회"
+        ]
+      }
+    },
+    {
+      "id": "3631af32360f761c",
+      "title": "인천시, COP31서 2045 탄소중립 전략 공유…지방정부 기후협력 확대 - 연합시민의소리",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHMUhzM0JuVHp4Tkc2VmtVd3pua1k0clFQVy1oMjdybjlHSlhkbURQREZ3R0Z3OXBfY1VkcnhLUERGX2NaQk1DM1M2cThZTUREOUFJOEFBczJZWGlEdXJwNDhicWJTNWM?oc=5",
+      "summary": null,
+      "source": "google_carbon_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:58:43",
+      "collected_at": "2026-11-11T02:38:23.214414",
+      "keywords_matched": [
+        "탄소중립"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "인천시",
+          "COP31",
+          "탄소중립",
+          "기후협력",
+          "전략 공유"
+        ]
+      }
+    },
+    {
+      "id": "9b2605a90d96dcd6",
+      "title": "정부는 재생에너지 확대한다는데…한전은 석탄·LNG 투자 비중 높아 - 더나은미래",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zUHVDbkFwTG9mb0NPM1A4Y3E1TjVaSFByeHhDNmcwVm9teC1Pd3VhQmNSbVQxaUhzQ0xkczdWcGpBZll4Wm55eE5TT0ZaX3NLc1E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:13:00",
+      "collected_at": "2026-11-11T02:38:23.178387",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "재생에너지",
+          "한전",
+          "석탄",
+          "LNG"
+        ]
+      }
+    },
+    {
+      "id": "726e56c8f818fab4",
+      "title": "남부발전, ‘재생에너지 24시 클리닉’ 통해 민관 협력 신사업 본격화 - 일렉트릭파워",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RQzA2QjBIbFRpLW9ZQ05MYmRNQVpVV1R2ZHBUajFiN1QtNVktMjRKRmtiRjREdnVURmktem16OV9PSkZLNUprU2RxZE9lUTBQYzdrVFpTVzF6dzRnOGpkeFNBSmE?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:14:00",
+      "collected_at": "2026-11-11T02:38:23.178416",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "남부발전",
+          "재생에너지",
+          "24시 클리닉",
+          "민관 협력",
+          "신사업"
+        ]
+      }
+    },
+    {
+      "id": "bac344c7c173143a",
+      "title": "정부는 재생에너지 투자 늘리는데...거꾸로 가는 한전 - 뉴스;트리",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tdDVlNzF0MzNscmIyRVJTN3RMM2J6RVRwSzJMZ3kxX1M4VXI0T0RrZTlkRkRPZnZzUVNITXBPbXlnT1kzd2tiQUVQYzFzT2doOXhYa2ZtZVl0Zkd3?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:34:26",
+      "collected_at": "2026-11-11T02:38:23.178437",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "정부",
+          "재생에너지",
+          "투자",
+          "한전",
+          "거꾸로"
+        ]
+      }
+    },
+    {
+      "id": "a2a29dab094e1e31",
+      "title": "국제 싱크탱크 \"한국 정부 재생에너지 재원 조달 정비해야, 한전 부채 부담 커\" - 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vZkFDOW45UDNRc0lZU0VJdFRrWVBFb0JDWHRLWThMUUdjcjBQT2o4V2ZIalA3UmF4T3NyVWZ0ZHlMbUhsTXgyR085b3dGV2JvOG00REdqc2ZjR0Y4cGhPTWxxQW1FLVpXbnVjWnJEN0tVVWc?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:43:13",
+      "collected_at": "2026-11-11T02:38:23.178475",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "재원 조달",
+          "한전 부채",
+          "한국 정부",
+          "국제 싱크탱크"
+        ]
+      }
+    },
+    {
+      "id": "4b785d29efbf4c92",
+      "title": "하수·유출지하수·공업용수도 '재생에너지'…수열원 7종 추가, 실효성은 후속 규정에 - 어반톡",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ROHFNM2FCb2RXTnp1dFhxRVItWkthZms5OFZXcGhhRVJIQTBHbDBxblFkLTZZblJwd0plTXZLc3VwVDlUUEVuUVNPc1k5VVBKNUxtTWxn?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:28:59",
+      "collected_at": "2026-11-11T02:38:23.178496",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "수열원",
+          "하수",
+          "유출지하수",
+          "공업용수"
+        ]
+      }
+    },
+    {
+      "id": "827f865312cd25ce",
+      "title": "[韓경제 아킬레스건](49) 에너지 전환의 난제 : RE100 달성과 원전·신재생에너지 갈등 - 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rZTc4WGpYQS1mWU1malhyOGNnNm1VTlZRZkR0UEQzWUFUVFcyX3RST21JZThDQTJGbkNhZVBlLW93MzhrMFA5LUZWRGp3ZjFNdGlLTzJDOUw3YnZNeEctZExrNVd1S1k5a0E?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T22:00:00",
+      "collected_at": "2026-11-11T02:38:23.178538",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지 전환",
+          "RE100",
+          "원전",
+          "신재생에너지",
+          "갈등"
+        ]
+      }
+    },
+    {
+      "id": "4422846324be8796",
+      "title": "[기고] 이미선 기상청장, \"햇빛 읽는 기상위성…재생에너지 길잡이 되다\" - 충남일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GUi1zYlE4OE5odXhKa2ZsU3NyUEhaREZfV2d4YVVyd2Q1ZXkzenl3MkVrVGRoclh4QlBpRTVQc191QVZ5R09lTEsycnhTbTRsUzdZdUo0TlZxTUJPby1LQ0gzcWk2R2JWUmZSSWpBNGx6MnM?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:54:59",
+      "collected_at": "2026-11-11T02:38:23.178557",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기상위성",
+          "재생에너지",
+          "햇빛",
+          "기상청장",
+          "길잡이"
+        ]
+      }
+    },
+    {
+      "id": "93a8f49d434774da",
+      "title": "한투證 \"중국 풍력+800V DC+BESS 데이터센터 상용화…2차전지 수혜\" - KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44THZOekZ0VDZ0LUFSd0lUejM0R2M5eDltc2RMdDRZVUw1c3RoNTNwVHE1MUVaTElnbUFSYW52VUUwN19nUDVGbnJLeGIxNVNYMGVnSWFGZDdvNUhaV3dBbFY0dGdWQUFuX0pGRTN1V3pZdw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:17:34",
+      "collected_at": "2026-11-11T02:38:23.178583",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "중국",
+          "풍력",
+          "BESS",
+          "데이터센터",
+          "2차전지"
+        ]
+      }
+    },
+    {
+      "id": "f1bbf75a13b23735",
+      "title": "美 중간선거 민주당 압승에 대미 투자 합의 '먹구름'…재생에너지는 강세 - Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTFMwM3lWSmpmS3FLVndqdEQxc21DcVdOQ1ozQ3l6UF9EdWJaVUtnZVNhVWtRU1doLTk3eTV1NkFXSzIzQ3BjZmdQc3RlNVRqWEdiRW52dFFnMGE3bUNHeTZhcWxhYktSYk9pNkZEUnZxWkRJT1JzUGdtSG43Y2d0eHdidkRCQTI4QmNGY0szTjFRTDJwS1JTaWtvVjZWV0lXSW1HZVI3eDA1Mzk2QS1WRGxtTXBWcUVNVzAzUlJBcmx0dzctME9GUXptek9sa0JsY2pxR0xqMnQtTEU?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T22:00:00",
+      "collected_at": "2026-11-11T02:38:23.178662",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "미국 중간선거",
+          "민주당",
+          "재생에너지",
+          "투자",
+          "강세"
+        ]
+      }
+    },
+    {
+      "id": "4b58efbc9656a8c5",
+      "title": "LS머트리얼즈·LS일렉트릭, ‘재생에너지·AIDC’ 전력망 시장 선점 나선다 - 일렉트릭파워",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03OFlVazNSbnZPOGFKTi03SE40dUczVlVQVnBoVkdVdUZ2MlJhMlExaWhwWlg1Nm5wUk9nU0pZemRzQ1RCelJiZGtNZHpNLVdibGpTWVkteW5udlh3aW40QzRLYWw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:04:00",
+      "collected_at": "2026-11-11T02:38:23.178721",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "LS머트리얼즈",
+          "LS일렉트릭",
+          "재생에너지",
+          "AIDC",
+          "전력망"
+        ]
+      }
+    },
+    {
+      "id": "215e16728473a6ea",
+      "title": "[해외브리핑] 올해 전세계 화석연료 배출 0.4%감소…재생E 확대 영향 - ESG경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5RFU2THBRbmpvWDZuUkJLbmtBaGdyNjA1bUM5NE1WZ0lHYUVlcmNyQjhNdmpZOHh2V0lJMGpoNElpcko3VnBGYW1tb2t1NGVpNVMxclIzZ2FBeFNsT3ozeWExZ1dTYmhPdzM0eg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:16:12",
+      "collected_at": "2026-11-11T02:38:23.178761",
+      "keywords_matched": [
+        "ESG"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "화석연료",
+          "배출 감소",
+          "재생에너지",
+          "전세계",
+          "ESG"
+        ]
+      }
+    },
+    {
+      "id": "7fdcfdcfc368173e",
+      "title": "신재생에너지 관련주 희비…나노신소재 17% 급등, 한화솔루션 약세 '미국 민주당 압승 영향 촉각' - CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkaExnYVJfdXJKMFJEXzFGQVd6Mkk2T1J4Q3g1OGZ1TF9jVnF1b1U3a0FMTVlBalBZQl9ydGFSQVUyS1R4a2g1R0FYVGJfNnd1d2NUTHFBWWNsWVR2Z296QnlUODZhVHdi?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:34:20",
+      "collected_at": "2026-11-11T02:38:23.178801",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "신재생에너지",
+          "나노신소재",
+          "한화솔루션",
+          "미국 민주당",
+          "관련주"
+        ]
+      }
+    },
+    {
+      "id": "d3e488d111e13fb8",
+      "title": "신성이엔지, 세계태양광총회서 “K-태양광 기술력 세계에 알린다” - 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0OEl2WHBkM2JpT2Vzdy1Ob1F6NFBSWU5HbUZNR2JfV0VlM1NPdkhJbUktRWJ0MFZmQjdsVERoczRhY0U4MVRCMTdDWFNaX2tSM0VyRHRnVDExZw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:12:27",
+      "collected_at": "2026-11-11T02:38:23.178887",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "신성이엔지",
+          "세계태양광총회",
+          "K-태양광",
+          "기술력",
+          "세계"
+        ]
+      }
+    },
+    {
+      "id": "9b99f9c1e57db2e1",
+      "title": "시흥시, 공공·기업·시민 참여형 RE100 확대…태양광 발전용량 2.9배 증가 - 신아일보",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZnUwSnF6R3V0cnJ4YXZLWWFsdGNyVV9JcGVIQ01EbHFRN3ItT2FHVXlHV29hWnlacnJVeUlGSlJqX3pjc0JSZk1WU2ZLWnA2YTd3ZFlHY3VtOVM1aXRYQnI4UW5XOXQxTEwzNjNmRGw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:12:12",
+      "collected_at": "2026-11-11T02:38:23.178926",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시",
+          "RE100",
+          "태양광",
+          "발전용량",
+          "참여형"
+        ]
+      }
+    },
+    {
+      "id": "e61e5c10b4ec9519",
+      "title": "2035년 배터리 뱅크 시장 전망: 계통 신뢰성과 재생에너지 통합이 성장 견인 - 뉴스 및 통계 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbE5BZVBBalB3c3ZIamthRDg5Ni1Mano3cmZHLWpNZmNzWWxQdVJMdGRWUV9PNHlMeHBHQVdyXy0tQi1ZVE54dHNueGlSeUZybExoX3kyLVdLN3U4VXIyRS1mSHp2NmRUODdKbGlaNXdzSnJFTkhVVUZqOFJaMnJHeGpnMmFPREZtOWNNMGpKMVRITjFMWFdySXN5R19sTWc2ZnZncnlWTHFzOFhBeW5DMTZpaDJKTnp1dHJtVEV1aEVGbTFGS1pGVw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T17:31:04",
+      "collected_at": "2026-11-11T02:38:23.179010",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "배터리 뱅크 시장",
+          "2035년",
+          "전망",
+          "계통 신뢰성",
+          "재생에너지 통합"
+        ]
+      }
+    },
+    {
+      "id": "d0f8a666dd6df907",
+      "title": "에너지공단·동서발전, 해상풍력 O&M 인력·기술 협력 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0Qm9aYy1jQ3V3bEpxYzZrekFfRFZJNzZ4RHBxWGhPX1BSU3pJaFFqdTdVQzk1M1BaakNkeWxMWFp2YTFud1kyV2pBNGZUd3RBYUpkS2lWNE9qZkNkM3kxbHRSbXR0S3pBZzJURw?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:10:00",
+      "collected_at": "2026-11-11T02:38:23.179045",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "에너지공단",
+          "동서발전",
+          "해상풍력",
+          "O&M",
+          "협력"
+        ]
+      }
+    },
+    {
+      "id": "bc181d1d931c2906",
+      "title": "한전기술, 베트남 500MW 해상풍력 추진 - 에너지타임즈",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92UW9Sang3eGs4MkV4Z2V5NXdOYlctQ1RwT2thanFIUkJWQi13UTZiaHRrOU50bEotRWh3NTFicy1VTDJodExITmgxV2sxUzkzQk1pNU1sSVVpTHFKMVh5N05GN1QtX2JDaUU0Zg?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:40:00",
+      "collected_at": "2026-11-11T02:38:23.179062",
+      "keywords_matched": [
+        "풍력"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한전기술",
+          "베트남",
+          "해상풍력",
+          "500MW",
+          "추진"
+        ]
+      }
+    },
+    {
+      "id": "b39d5f43377c3528",
+      "title": "재생에너지 100GW 확대, 전력망 투자비 조달이 관건…\"한전 단독 감당 어려워\" - 딜북뉴스",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNakYxMnVzd1JFZk96WTlqeDRGNUl1QjdqeHNCTnZtREtVajZUUS0yaGE2QU9XOU9oaU1TcVhCZWxVVTItUUJxVEc0X0dIOG9oeFMxRUFyX3U0ZWh3Y3BsekhKUjVvZWlyUFFKTzZjU1d4RC1hR21lNWVTdVNYWGZXTXU0RTUxQlI4YUFFTlB0V2QzMnJuLTVUdUgwa1p3OXkzLVpLUFhVb0U4UGJQZUxHNW1ZWG56Z3BnZUFuNTMyc0p6NVFa?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:10:10",
+      "collected_at": "2026-11-11T02:38:23.179172",
+      "keywords_matched": [
+        "재생에너지"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "재생에너지",
+          "전력망",
+          "투자비",
+          "조달",
+          "한전"
+        ]
+      }
+    },
+    {
+      "id": "4079aaa4e88e6e42",
+      "title": "음성군 공영주차장, 태양광으로 59억 혜택 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sZ1M2NjRZamRyUnlBMldCOVI2V2VSNjE1T0JxRzhqYkRUVmEwbFU4RFlfY0dHLXdmZWtjdW9hejFpcVpLWklfX2pTTmJTUkFYdmxOdzZ4ejNiZ2dWcFQwcGRWOHJXSVpL?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T00:46:00",
+      "collected_at": "2026-11-11T02:38:23.179280",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "음성군",
+          "공영주차장",
+          "태양광",
+          "59억",
+          "혜택"
+        ]
+      }
+    },
+    {
+      "id": "5ed32a5333e5032c",
+      "title": "임병택 시흥시장, 태양광으로 기업 수익·시민 편익 잡는다...RE100 도시 전환 가속 - 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KNDk5N3lZTGNmdDRxQW1lS0RySDdXX0FiOFVYTWZ3X3drbV9aV0tfUERnQnBVODJfZERXSHVsVWI3ZTM4dHhRWHBFcUlVaWs3R3FWR2JYbUNLQdIBWEFVX3lxTE1FX1JRUmxTeDlEUGNRdk5zanVqUTd2eVJGUWJWd3RoV1hRWlgyNVEtMGQ5YmhiWVpyTklQQTBqT2YyOFg4cXRjSndIdUF0cEVrRE90ZXpwVU0?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-11T01:40:32",
+      "collected_at": "2026-11-11T02:38:23.179369",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "시흥시장",
+          "태양광",
+          "RE100 도시",
+          "기업 수익",
+          "시민 편익"
+        ]
+      }
+    },
+    {
+      "id": "106b835d39cf5448",
+      "title": "한화큐셀, 북미 최대 태양광 신뢰성 최고 등급 획득 - https://www.2news.co.kr/",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WWWQwUk56Y2JZRERpSy1JWE83bk00YzlnamVFbEtYUVp6SjFqQU1nVkQ4d0lyRUNQakIybEpKdHVLdXlkNzhWd0hHWkxGVVh2Q3V3MlRwQS1NWnRGeG9HWUdoZTA5cWV6?oc=5",
+      "summary": null,
+      "source": "google_energy_ko",
+      "language": "ko",
+      "published_at": "2026-11-10T23:58:00",
+      "collected_at": "2026-11-11T02:38:23.179655",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "한화큐셀",
+          "북미",
+          "태양광",
+          "신뢰성",
+          "최고 등급"
+        ]
+      }
+    },
+    {
+      "id": "2211d1745dda67cd",
+      "title": "충북 음성군, 공영주차장에 공공주도형 태양광 발전설비 설치 추진",
+      "link": "https://www.khan.co.kr/article/202611111053011/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-11T01:53:01",
+      "collected_at": "2026-11-11T02:38:23.681501",
+      "keywords_matched": [
+        "재생에너지",
+        "친환경",
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "음성군",
+          "태양광 발전설비",
+          "공영주차장",
+          "친환경 에너지",
+          "업무협약"
+        ]
+      }
+    },
+    {
+      "id": "b7bdec77e49cac64",
+      "title": "‘태양광 올림픽’ 국내 첫 개최…세계태양광총회 15일부터 대전에서 개최",
+      "link": "https://www.khan.co.kr/article/202611111015001/?utm_source=khan_rss&utm_medium=rss&utm_campaign=total_news",
+      "summary": null,
+      "source": "khan_society",
+      "language": "ko",
+      "published_at": "2026-11-11T01:15:00",
+      "collected_at": "2026-11-11T02:38:23.681786",
+      "keywords_matched": [
+        "태양광"
+      ],
+      "translation": null,
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "태양광",
+          "세계태양광총회",
+          "대전",
+          "개최",
+          "국내 첫"
+        ]
+      }
+    },
+    {
+      "id": "003971a6db7d148f",
+      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFpiWTBYZnh1NnBYbG1feXZRVXlQR09vUXM5SHpnSkIyVzJJQnZvaUxqSlJCV2pUaXdydl9rdzI2QmFSakxQM3J4SG45b3VpVDJnblFQWVRoVlNTM0ZGVHJRSWpSX0I2UkZSNk9GeUxqT09GY2VzUTQ5RVFHcnVtMk8zZ0NFWkZrMVpvN2t1cWpKaFBRRFg3dFZIMzVTMkRKQm5oWHNGVG5VYXNpcFhfUlRn0gG3AUFVX3lxTE9PVTktUkdJX3BHQ0Y5OFRiTHlialhIM2pQSFMzdi1XZ3NEQ2FlN05CZXluWkYxbHFhY0NEMHFITERwbTNURFl5LTUtUFhhZFdId0NFb0hqSGNGc1hZTmFWQ0Q3bEpWWkl2OFJ3eWsycDJLNWhIWDc5eXJJTmZXRmItbVJFaWd0eHhMLW1Cc0hlaTdIQ1E4UmRhcjFzOGtKNUllbkJXeVdGclFLQUZidkxzNjhELUJqYw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-11T00:39:29",
+      "collected_at": "2026-11-11T02:38:24.104869",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "'우리가 사랑하는 모든 것과 모든 사람이 위기에 처해 있다': 툰베리, COP31 회담 맹비난 - 알자지라"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "툰베리",
+          "COP31",
+          "기후회담",
+          "맹비난",
+          "위기"
+        ]
+      }
+    },
+    {
+      "id": "ecaaf8d3358644e5",
+      "title": "How an Italian Capital of Design Is Coping with Climate Change - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0pYOTdqVm5sSTJENF8zd0hQcFRCc0RFVS1nU09EZk50VEVKN05OcUR0N05RNDBuM0VLYkJWRFZfeFdNaC1JR1AzSE1kUGUxS082bS1uUkc5M25RbXpwWjRuMDZYNVpKNFBGTHRKYWF6cWRzdXktWFNFS29xRVFqd1U5QUtpS2NobGZ2TVpsdWxKMm0teGZZ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T17:06:01",
+      "collected_at": "2026-11-11T02:38:24.104897",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "d2f8009af1cde1ae",
+      "title": "COP31 Climate Talks: Global Warming Defies Efforts to Predict Its Effects - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSGI2elFEcWp5Q0VVRkEtQ01mRUlPMnVpYmVrM2JQczJkb2tKLUNSY3pQNGhWaUZYQWRNbzNoVjJvVUVKQ2hSd3dqR2E1bXBtdnZYYmQ5NnRTNndEcjNLMWJjNi1QVHdYNXB0M3hvWUpLMXE5OGV4M04tMHp6OGRHcGViWjVLLWZFQjkyQ29VYW1lN3BiV0ttTGdB?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T22:00:00",
+      "collected_at": "2026-11-11T02:38:24.104919",
+      "keywords_matched": [
+        "global warming",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31 기후 회담: 지구 온난화, 그 영향 예측 노력을 무색하게 하다 - 블룸버그닷컴"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후 회담",
+          "지구 온난화",
+          "예측 불가능",
+          "기후 영향"
+        ]
+      }
+    },
+    {
+      "id": "4d87b3dae69142fa",
+      "title": "A new method for tracking climate change and air pollution - Phys.org",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzVWhuMDFSRFdybE9pSjI4UFk2MFZMSDhuZWxpVkVKNnRXOXVoczBUR1Zsbk1QeGxLMmxpYzVrejZWd0tWZzl4VHlQalZ5SHdWUzBpXzEweG1lcG44Nkk0VVZuUlJoWHBHODdfbnJGTkJ5N0RfZUdDZ3hOQVI?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T20:20:06",
+      "collected_at": "2026-11-11T02:38:24.105021",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화와 대기 오염을 추적하는 새로운 방법"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "대기 오염",
+          "새로운 방법",
+          "추적",
+          "모니터링"
+        ]
+      }
+    },
+    {
+      "id": "58a5de9d5261bbb7",
+      "title": "Climate change is an affordability issue - People's World",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVjZVNZeGZDTWtKbUp4d1dqX3AzQlJfSWVDV0Z0MGJ4b045MGJ3b190QU5MUXhYZ0lXYnYyeURxVnMwMkoyZVBLN0puV3BOc3dUdllkQzlvX2QwaGo0ZFZuVDQ0TTRiYkhSV0wzaE9BVUJ5Q2NSN3BFUnllRV94bDZGR3I?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T17:57:57",
+      "collected_at": "2026-11-11T02:38:24.105058",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화는 경제성 문제이다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "경제성",
+          "비용",
+          "문제",
+          "생활비"
+        ]
+      }
+    },
+    {
+      "id": "91fa50985c0a8864",
+      "title": "SCSU students to join United Nations Climate Change Conference - NBC Connecticut",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc2l6bzA4YlVLS0JoeUhPeUlkUzlLUXE5RXJKTHQ4aWpFN2szcmZGcTdVREJRcl95MEh5NjM5bXotdkdnQWZUSnhNeEhTWTdZT0RPOFM1a1kweURIVDJSYmZLQlk4aHpEM3BOZG9NNWRwQzBPODQxZngwT01QelZmZGpyYXJyTjhvY1RiUTZFVWV6SXc0eWRHRkZmWnpfR1Z4aVMwTkg0Tmo1dU5iYjJJVE8zWGJtT2NvUy040gHDAUFVX3lxTE52UjJiQ0V3TFJ5YnlTaUpzQ2ZpcHo0SElHTWpLQlNYTWNYMGxENTBaZUY2TVJ3VTZ3RjFjOExuU0tDMEZtRDdaSXpBS3BkMkl2TWJVYkpqMHBpYVo5ajg4UnNkRWJTN0c1ei1pT1J1cFZGNHc5SDFsYU1CbXFJby0wbEc0OWF6QWstWFl2bjNuN0o2YllKbzB6ZGNtMV9nT3BQOFBPUkZhQkNtQTJqd1JQbXg5MnVWTW16SVpOVzB2Yl9ZWQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T21:47:27",
+      "collected_at": "2026-11-11T02:38:24.105093",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "SCSU 학생들, 유엔 기후 변화 회의 참가 - NBC 코네티컷"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "SCSU 학생",
+          "유엔",
+          "기후 변화 회의",
+          "참여",
+          "NBC 코네티컷"
+        ]
+      }
+    },
+    {
+      "id": "19258f148ef4a271",
+      "title": "COP31: Why air quality is key to climate health - IQAir",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMUlWdlIta2pCWktHYW5Pa2xXZWExZFAzbEEzWTZOZ3p1R1JjeGI3dVBLbmttWjdKTEN6VHJTaVViS3JINFJFMEtJR3l6TVRVZXBtbVUwQ08ydnJxNGdwNURLTGUwdUdTa0ozX2M2MlpXRTBqSFBUS28zYVNWWWdROHl3NA?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T18:51:51",
+      "collected_at": "2026-11-11T02:38:24.105162",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "f2a42633baa4d0ca",
+      "title": "Food Safety Threats Heat Up With Climate Change - IFT.org",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZnF6NmphbldfY19WOXU5eEJYQjZGUzRtVlJDTlpmT0t0WS02aWViVzJ0WnRVd1dYdTIwbVVjbnZscmFNaURMYlF2ZEdTTGFUdV9wZWR0akFUT0NRZlREdHhrTlZZUEtsVE96ZHZmS3NMcTRNY2h4NUhsQjdESWRIR2thcG5ScndpbVNmWUN6MUJYSmhUcm84?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T21:00:06",
+      "collected_at": "2026-11-11T02:38:24.105211",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화로 식품 안전 위협 고조 - IFT.org"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "식품 안전",
+          "기후 변화",
+          "위협",
+          "심화",
+          "식품"
+        ]
+      }
+    },
+    {
+      "id": "95d19424721ee944",
+      "title": "Climate Leaders Toast to a Hopeful Future at TIME100 Impact Dinner at COP31 - Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUUQ0Y3hRZzhPcV9kQnhxOG0yOERfTHUzUEdWN3BwanJETHRBNFpYcExoVWg1Zjk5MHV3a2cwY1RqWUJkSVVLZmdpYU1zRXpia2taVXZxeUhXZXh4SlB6NS1ycnNwdGRZQ19IV0NiRl85dw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T22:16:48",
+      "collected_at": "2026-11-11T02:38:24.105254",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "기후 리더들, COP31 TIME100 임팩트 만찬에서 희망찬 미래에 축배 - 타임지"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 리더",
+          "희망찬 미래",
+          "COP31",
+          "TIME100 임팩트 만찬",
+          "축배"
+        ]
+      }
+    },
+    {
+      "id": "081c51f069fd986e",
+      "title": "Summit County global warming risks, opportunities are unique, according to researchers - Park Record",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNGtvc3RCUkJ4T3dlNGIxbEZOTy1KU2FucnE3ZHZaOFRLOE11b3ZhemhXcE5VQVd3WURDTjBvNkx6Z1psOE1kWkRpSDhld05HYjJKc1o4LWs0WW5lUHFFb3h1cEFMQlc1Z0dKYXRvYWtNSWM3c2JEd0xybzlfbzU0Mmt6c3doZ01fdEVSS3ByZllCLWdsbnVubF9oRGpHWklzaTV6YUhiX3VFQlUzMHJQU2JSMFB6VzNILWo0ZDVuRzY?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T22:15:00",
+      "collected_at": "2026-11-11T02:38:24.105300",
+      "keywords_matched": [
+        "global warming"
+      ],
+      "translation": {
+        "title_ko": "연구원들에 따르면 서밋 카운티의 지구 온난화 위험과 기회는 고유하다 - 파크 레코드"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "서밋 카운티",
+          "지구 온난화",
+          "위험",
+          "기회",
+          "고유한"
+        ]
+      }
+    },
+    {
+      "id": "862359ee813cf7dc",
+      "title": "Slimbridge: The swan sanctuary wetland fighting climate change - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9BWFd0LXUxVkE3enhNa3VTZkk5WTdCNzRDVU1HbVE1bmNfekxRbTBHMzlzZjB1M1lzR00ydWFWd1Y0Qms2ZmRmV3h0TEVncHQ2cEFPdllkOVM?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T19:03:16",
+      "collected_at": "2026-11-11T02:38:24.105330",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "슬림브리지: 기후 변화와 싸우는 백조 보호구역 습지 - BBC"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "슬림브리지",
+          "백조 보호구역",
+          "습지",
+          "기후 변화",
+          "기후변화 대응"
+        ]
+      }
+    },
+    {
+      "id": "dd48322a2194fdad",
+      "title": "Washington Post. . Swedish activist Greta Thunberg arrived at COP31, her first time attending the climate summit since 2021. Thunberg called out politicians, saying they were “spending their time on distractions with racist and fascist discourse.” https://wapo.st/ - Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSXhxcVJLZmtkWE1ZTmZScTVYLU1KS3M4eW1ENFVUZEd2OEFGV1lyVGg5ODFPU2tkOGpPRTFiZ1dtcnJlOG85NGhZRy1KdVJUV21IcFJ6S3d3WEFoVTBDX0REeHNCVC1UVzFnN2NYYzdubGwyRHJ1S05oM2VHRlJoLUpxeUMxVHdhQlctam01TWpnLU94aFBLckVyZXMwck5TRm52djc4UG01ZzhtMHBoZ1N4REJrRFRDVGhsd21vWDFocWREOTlNZi1TVC1QWWl6UXNwZjdpV3VsRDNGMEE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T23:30:04",
+      "collected_at": "2026-11-11T02:38:24.105458",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "그레타 툰베리, COP31서 정치인 비판: '인종차별·파시스트 담론에 시간 낭비'"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "그레타 툰베리",
+          "COP31",
+          "기후 정상회담",
+          "정치인",
+          "비판"
+        ]
+      }
+    },
+    {
+      "id": "31c5494de96584db",
+      "title": "Costa Mesa Leaders Approve City’s First Climate Action Plan - Voice of OC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDRrUnV3YURuRUFPbHdpdlNhMnBEVXdnTUtlRHhLd0ZrUHNhVEQyemMyUW1PajliYzZ4VEJEajZVUGVsY0trV2YtWjlFalVFTExQNFNRZjB1VHljMHc5Mk9aS1E5VEVQcVRWZDdMVzZsNzFpUDd4SWdTclJxYmNOdkVoV3Y3UGxvWUhUM0REQ2d1dGs?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T18:00:00",
+      "collected_at": "2026-11-11T02:38:24.105480",
+      "keywords_matched": [
+        "climate action"
+      ],
+      "translation": {
+        "title_ko": "코스타메사 지도자들, 시의 첫 기후 행동 계획 승인 - Voice of OC"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "코스타메사",
+          "기후 행동 계획",
+          "승인",
+          "도시 최초",
+          "지도자들"
+        ]
+      }
+    },
+    {
+      "id": "f17cdd44c46bdac0",
+      "title": "UN warns climate change could wipe 10% off global GDP - Türkiye Today",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRlpjZXNMVHQwNWtyenFoNVFUXzdoLVBEY3BWVmwzVjRBT3hIY3RJSV9Kb01pX3Rvem1ia1N6dUxuT3JVTC1UTUZKODMxQlBOamhSSWlqeHVBd0xjVnJERTktdXFiY29ic3cxdWo0UkpMRmdqMDQ0TEROSzhRRER5b2xSYUFfLTlaVGdsMDJrOEx0b2xUOGM3QjM5VTIyNzBo?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-11T01:07:23",
+      "collected_at": "2026-11-11T02:38:24.105501",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "유엔, 기후 변화로 세계 GDP 10% 감소 가능성 경고 - 튀르키예 투데이"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "유엔",
+          "기후 변화",
+          "GDP",
+          "경고",
+          "경제 손실"
+        ]
+      }
+    },
+    {
+      "id": "5fefecb59daef4c3",
+      "title": "Teaching climate change changes how I teach - LSE Higher Education - LSE Blogs",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbl9XSUg1UTg3YUhqS3BUOHRubFEwSkp4VTlfQnU2dW4tODdEb244RDQxM2hsbWNvMFJmOWd1RUdqWTBRUUt3UGpoZUczajlkaUtyRTl4V3RKVW5HOGVSdTVHUGw1QllsOHREbjRQODRvR3RVYVN1X04xcnREaDlpWDdVa25fbXRUX2I2b0tfaDBOSnptajRjUl9oaw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T22:45:49",
+      "collected_at": "2026-11-11T02:38:24.105799",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후변화 교육이 나의 교수법을 변화시킨다 - LSE 고등교육 - LSE 블로그"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "기후변화 교육",
+          "교수법 변화",
+          "고등교육",
+          "교육 방식",
+          "LSE"
+        ]
+      }
+    },
+    {
+      "id": "b285c12412f0c4bb",
+      "title": "John Kerry Tells COP31 the US Will Return to Climate Fight as Iran War Drives Surprise Dip in Fossil Fuel Emissions - Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXY2cF9yYWpDUTNiQ2pmUjlwd3pJVmZqOTY5cnRPbEVVeExGc3R0ekVBVl94eThCdDhQVjV5S21sWjlOS0EtVUhnRTc1LUltOVd2UFQ4U0tyOGQ0Q2UwUTBkR2Q3YmcxNnhiSzkxeksxdTdJRlRVdnczM1FrbW9NMzRfRHhKTTRGTjVZWXdMWDd1NmZteGU2VnpjMVZrVWlWRkloMEpFVC1JbGVXWlE?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T17:58:27",
+      "collected_at": "2026-11-11T02:38:24.105841",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "존 케리, COP31에서 미국 기후 대응 복귀 천명... 이란 전쟁으로 화석 연료 배출량 예상 밖 감소 - 헬스 폴리시 워치"
+      },
+      "sentiment": {
+        "sentiment": "positive"
+      },
+      "keywords": {
+        "keywords": [
+          "존 케리",
+          "COP31",
+          "미국 기후 대응",
+          "이란 전쟁",
+          "화석 연료 배출량 감소"
+        ]
+      }
+    },
+    {
+      "id": "74347389bc8dbcfb",
+      "title": "What to Expect at COP 31: Key issues and how the negotiations work - International Institute for Sustainable Development",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYm5RRktUbHBxMUEteFJrMEVaNUp1dmRWM3NORlpGQnh2QjhlQXRvYkJJSnJPa1VmYXN5VXFWaWppMnJiUnJzd1lNVG95SmdlYUM0RHpJR1ZCcjNWSlBxX196MmdZckk0NktEVzc4OUg0MmZYdGY2REpVX216ZkJCQUlDc253eXpqMjFjQ2xnQjdYZlAw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T15:27:46",
+      "collected_at": "2026-11-11T02:38:24.106186",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP 31에서 예상되는 것: 주요 쟁점 및 협상 방식 - 국제지속가능발전연구소"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP 31",
+          "주요 쟁점",
+          "협상",
+          "지속가능발전",
+          "예상"
+        ]
+      }
+    },
+    {
+      "id": "b49ed7d04c5e1961",
+      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUi1ndm5hdXJ3QUVxem5Ydi1xN1pzdU9SUHZxOFAtOExzNWp3SWlpZ2JScFIwWDNHNGFLSDRjQ2MySnZpNHphNTJFcnR2XzVFUlFkcm9Hcw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T15:48:13",
+      "collected_at": "2026-11-11T02:38:24.106206",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "efdb427d05fc7448",
+      "title": "Mayor: Cincinnati needs to prepare for a climate change-caused influx of people - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHR5NzlQUWFTV0lnaTEybVg5X2x2UU9ySTRGNHNaaEhOLUdvLTVxRE9RdFBlSy1lR1o3NGY5OU55RUtOMi0ySUpiWUFnRGZJcFQyRF80b016S2xIcGtFOGsxNWY1OFFJM21ndU95dzM5eWgxUEc2TUJhMExUTVgtZ0JwTFMyMVlZMDZyY2hUZkRXcHd2U2dHazR4R00?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-11T01:39:00",
+      "collected_at": "2026-11-11T02:38:24.106227",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "시장: 신시내티는 기후 변화로 인한 인구 유입에 대비해야 합니다"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "시장",
+          "신시내티",
+          "기후변화",
+          "인구유입",
+          "대비"
+        ]
+      }
+    },
+    {
+      "id": "1129e337c97a7275",
+      "title": "Can COP31 Deliver Pacific Island Climate Crisis Protection? - Sustainability Magazine",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHVTZkhVRmJEcm9pTWhSbno0Tk1uNVNzd1l2TjJXSXh3czJNQ0lpMnVOU0VTVDcyMGdmUGVnTS1IQmJMV0F1aFRBa2I2bEx0VTZSV1NEWDJPWFIyU04zbVBiNkVXRHZCdHU0WjVGMHRqRzBnMVJ6N2ZBMERQVGQ4VktYSzRIbUJSdkdQclpNX3ZPTzJPdUU0Tg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T16:29:56",
+      "collected_at": "2026-11-11T02:38:24.106357",
+      "keywords_matched": [
+        "climate crisis",
+        "sustainability",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31은 태평양 섬 기후 위기 보호를 이뤄낼 수 있을까?"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "태평양 섬",
+          "기후 위기",
+          "보호",
+          "지속가능성"
+        ]
+      }
+    },
+    {
+      "id": "e23ff55dfc7ee04a",
+      "title": "COP31: WMO warns climate change is going ‘off the charts’ - Energy Live News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDJSMEpKZEZ1TFhISEZxcENRMjZJa0MwaFlpRHR3NFptaldyUGR5eVhOQ3kzNEVQVTlWR0ZvMHF4T09uZjF5Rk40NTQtTGpSQ3pOUTFpSG94VnZuRTloY1ViQnh0bzJyc1NrUjFnX19QX1h2Z293TFNJNHhmZzVSYktISmxHdEpjOUkxWURMUEt2akN0V1pvQWVzNERIdw?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T16:03:55",
+      "collected_at": "2026-11-11T02:38:24.106518",
+      "keywords_matched": [
+        "climate change",
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "COP31: WMO, 기후 변화 '기록적 수준' 경고 - 에너지 라이브 뉴스"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "WMO",
+          "기후 변화",
+          "경고",
+          "심각"
+        ]
+      }
+    },
+    {
+      "id": "3637fe2a508982c2",
+      "title": "COP31 and climate science in action - NCAS - National Centre for Atmospheric Science",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Sdmtpa2pFWG9adEhNM1B4a1VFb3BSZUd1WWNiRl9pbjNHZzlFb3prU09YUlQtaTBLZS1zb1ZQOTkzcUxuV3UxVkN0dkNlSl9FLVNXMHJ6Smg1Q3VOemtYZG5iM2NVQQ?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T17:10:20",
+      "collected_at": "2026-11-11T02:38:24.106569",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": null,
+      "sentiment": null,
+      "keywords": null
+    },
+    {
+      "id": "041ad17c4a4b5bdc",
+      "title": "Climate Change: “The Difference Between Life and Death” - Turkish Journal",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZEV0d3lWVDdkRlA0WEdVaWF0OXJoc1dZRldDQWFPc2wxcWtWOVM3a0ZNSzV1MVNZMi1YeWdzVl9rZGV3TzhKTlFaT0RBZGZ3MHMzZ0p2UmF6ekd2QV9QRmFIeGFEYm0tOG8tcFFIQVVLd1pGME9iNEc0aWU0MDJJRU5zQnY4bUJBMXN1Qg?oc=5",
+      "summary": null,
+      "source": "google_climate_en",
+      "language": "en",
+      "published_at": "2026-11-10T17:10:27",
+      "collected_at": "2026-11-11T02:38:24.106623",
+      "keywords_matched": [
+        "climate change"
+      ],
+      "translation": {
+        "title_ko": "기후 변화: '생사의 갈림길' - 터키 저널"
+      },
+      "sentiment": {
+        "sentiment": "negative"
+      },
+      "keywords": {
+        "keywords": [
+          "기후 변화",
+          "생사",
+          "터키 저널",
+          "경고",
+          "심각성"
+        ]
+      }
+    },
+    {
+      "id": "f05274ecb2ec299a",
+      "title": "Analysis: Which countries have sent the most delegates to COP31?",
+      "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+      "summary": null,
+      "source": "carbonbrief",
+      "language": "en",
+      "published_at": "2026-11-10T17:21:37",
+      "collected_at": "2026-11-11T02:38:24.054567",
+      "keywords_matched": [
+        "COP"
+      ],
+      "translation": {
+        "title_ko": "분석: 어떤 국가들이 COP31에 가장 많은 대표단을 보냈는가?"
+      },
+      "sentiment": {
+        "sentiment": "neutral"
+      },
+      "keywords": {
+        "keywords": [
+          "COP31",
+          "기후정상회담",
+          "대표단",
+          "튀르키예",
+          "참가자"
+        ]
+      }
     }
   ]
 }
