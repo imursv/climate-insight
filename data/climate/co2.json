@@ -3,22 +3,18 @@
   "source": "NOAA_GML",
   "location": "Mauna Loa Observatory, Hawaii",
   "source_url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_daily_mlo.csv",
-  "collected_at": "2026-11-19T04:01:33.698488",
+  "collected_at": "2026-11-20T03:54:47.168450",
   "unit": "ppm",
   "latest_daily": {
-    "date": "2026-11-17",
-    "co2_ppm": 429.12
+    "date": "2026-11-18",
+    "co2_ppm": 428.55
   },
   "latest_monthly": {
     "year": 2026,
-    "month": 7,
-    "co2_ppm": 426.1
+    "month": 8,
+    "co2_ppm": 424.68
   },
   "daily_data": [
-    {
-      "date": "2026-10-18",
-      "co2_ppm": 426.67
-    },
     {
       "date": "2026-10-19",
       "co2_ppm": 426.73
@@ -134,14 +130,13 @@
     {
       "date": "2026-11-17",
       "co2_ppm": 429.12
+    },
+    {
+      "date": "2026-11-18",
+      "co2_ppm": 428.55
     }
   ],
   "monthly_data": [
-    {
-      "year": 2024,
-      "month": 8,
-      "co2_ppm": 420.27
-    },
     {
       "year": 2024,
       "month": 9,
@@ -165,42 +160,42 @@
     {
       "year": 2025,
       "month": 1,
-      "co2_ppm": 426.01
+      "co2_ppm": 425.99
     },
     {
       "year": 2025,
       "month": 2,
-      "co2_ppm": 426.46
+      "co2_ppm": 426.43
     },
     {
       "year": 2025,
       "month": 3,
-      "co2_ppm": 426.66
+      "co2_ppm": 426.62
     },
     {
       "year": 2025,
       "month": 4,
-      "co2_ppm": 427.03
+      "co2_ppm": 427.0
     },
     {
       "year": 2025,
       "month": 5,
-      "co2_ppm": 427.04
+      "co2_ppm": 427.01
     },
     {
       "year": 2025,
       "month": 6,
-      "co2_ppm": 425.9
+      "co2_ppm": 425.92
     },
     {
       "year": 2025,
       "month": 7,
-      "co2_ppm": 424.09
+      "co2_ppm": 424.24
     },
     {
       "year": 2025,
       "month": 8,
-      "co2_ppm": 422.86
+      "co2_ppm": 422.98
     },
     {
       "year": 2025,
@@ -210,52 +205,57 @@
     {
       "year": 2025,
       "month": 10,
-      "co2_ppm": 424.66
+      "co2_ppm": 424.65
     },
     {
       "year": 2025,
       "month": 11,
-      "co2_ppm": 426.38
+      "co2_ppm": 426.37
     },
     {
       "year": 2025,
       "month": 12,
-      "co2_ppm": 427.31
+      "co2_ppm": 427.29
     },
     {
       "year": 2026,
       "month": 1,
-      "co2_ppm": 428.02
+      "co2_ppm": 427.97
     },
     {
       "year": 2026,
       "month": 2,
-      "co2_ppm": 428.45
+      "co2_ppm": 428.38
     },
     {
       "year": 2026,
       "month": 3,
-      "co2_ppm": 428.5
+      "co2_ppm": 428.46
     },
     {
       "year": 2026,
       "month": 4,
-      "co2_ppm": 428.68
+      "co2_ppm": 428.65
     },
     {
       "year": 2026,
       "month": 5,
-      "co2_ppm": 428.62
+      "co2_ppm": 428.49
     },
     {
       "year": 2026,
       "month": 6,
-      "co2_ppm": 427.79
+      "co2_ppm": 427.56
     },
     {
       "year": 2026,
       "month": 7,
-      "co2_ppm": 426.1
+      "co2_ppm": 426.05
+    },
+    {
+      "year": 2026,
+      "month": 8,
+      "co2_ppm": 424.68
     }
   ]
 }
